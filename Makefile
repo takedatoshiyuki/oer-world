@@ -1,7 +1,6 @@
 # oer-kit を使う OER プロジェクトのビルド。使い方: make site / make preview
-# oer-kit を pip インストールしていない場合はパスを指定する:
-#   make site OER_KIT=../oer-kit
-OER_KIT ?=
+# oer-kit の場所 (pip インストール済みなら OER_KIT= と空指定で上書き可)
+OER_KIT ?= $(HOME)/Projects/oer-kit
 PY = $(if $(OER_KIT),PYTHONPATH=$(OER_KIT) )python3 -m
 QUARTO ?= quarto
 
