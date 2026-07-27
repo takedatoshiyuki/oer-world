@@ -6,7 +6,7 @@ LMS-NG での素材利用を含む）。
 
 [oer-kit](https://github.com/takedatoshiyuki/oer-kit)（OER カタログ構築キット）の管理下で運用する。
 スキーマ・ツール・設計文書はモジュール側にあり、ここには**このコレクション固有のもの**
-だけを置く。
+だけを置く。**開発状況・決定記録・再開手順は [docs/status.md](docs/status.md)**（作業再開時はまずこれ）。
 
 ## 構成
 
