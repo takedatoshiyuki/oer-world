@@ -165,7 +165,7 @@ JOCW 系11サイトの生存確認:
 
 1. **7大学の公開まで**: 京大・東大・北大は description 生成済み（2,234件・不採用7）。
    筑波92＋上智454＋ICU442＋九大86 = 1,074件を
-   `python3 -m oer_kit.generate --model gpt-5.4-mini`（約1.1M tok）で生成 →
+   `python -m oer_kit.generate --model gpt-5.4-mini`（約1.1M tok）で生成 →
    レビューシート → 承認リスト再作成（lms を除外）→ approve → `make deploy`。
    年度不明（京大23・東大17・北大20・筑波42・ICU5・九大58）は昇格対象外のまま調査
 2. **コーパスのテキスト抽出**: `archive/*/manifest.json` を起点に PDF→テキスト
@@ -181,10 +181,10 @@ cd ~/Projects/oer-world     # プロジェクト（config.yaml がルートの�
 make validate               # 動作確認（oer-kit は ~/Projects/oer-kit を既定参照）
 ```
 
-- 全コマンド: `python3 -m oer_kit.<cmd>`（一覧は oer-kit の docs/commands.md）
-- 実行環境: 通常は素の `python3`（pyenv 3.14.6）。**Playwright（JSレンダリング）は
-  `~/Dropbox/Projects/genai_activities/.venv/bin/python3`**。Quarto は brew 導入済み
-- description 生成: `python3 -m oer_kit.generate --model gpt-5.4-mini`
+- 全コマンド: `python -m oer_kit.<cmd>`（一覧は oer-kit の docs/commands.md）
+- 実行環境: 通常は素の `python`（pyenv 3.14.6）。**Playwright（JSレンダリング）は
+  `~/Dropbox/Projects/genai_activities/.venv/bin/python`**。Quarto は brew 導入済み
+- description 生成: `python -m oer_kit.generate --model gpt-5.4-mini`
   （OpenAI 無料枠10M tok/日・実測1件約1,025 tok・全413件で0.41M。
   出力は機械検査され、不採用は TODO のまま残る）
 - 取得層の正本は `common_knowledge.web`（`~/Applications/lib/python`）。

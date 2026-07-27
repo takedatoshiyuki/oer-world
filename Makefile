@@ -1,7 +1,7 @@
 # oer-kit を使う OER プロジェクトのビルド。使い方: make site / make preview
 # oer-kit の場所 (pip インストール済みなら OER_KIT= と空指定で上書き可)
 OER_KIT ?= $(HOME)/Projects/oer-kit
-PY = $(if $(OER_KIT),PYTHONPATH=$(OER_KIT) )python3 -m
+PY = $(if $(OER_KIT),PYTHONPATH=$(OER_KIT) )python -m
 QUARTO ?= quarto
 
 .PHONY: validate prerender render catalog site preview clean
