@@ -1,6 +1,6 @@
 # OER World — 開発状況と引き継ぎ
 
-- 更新: 2026-07-28 (JOCW系の生存7サイト全て収集完了。上智454・ICU442・九大86を追加)
+- 更新: 2026-07-28 (全8校の description 生成完了。承認可 3,123件・レビュー待ち)
 - 位置づけ: **このプロジェクトの現在地・決定記録・再開手順の正本**。
   新しい作業セッションはまずこれを読む。システム設計は
   [oer-kit の設計書](https://github.com/takedatoshiyuki/oer-kit/blob/main/docs/design.md)、
