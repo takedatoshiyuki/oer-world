@@ -94,6 +94,76 @@ sites:
       page_ttl 型と movie 型の2系統が URL 系統と独立に混在。講師は c_lect リンク。
       年度表示はデータサイエンス講義のみ (公開日)。
 
+  - code: ocw_sophia
+    name: 上智大学OpenCourseWare
+    organization: 上智大学
+    url: https://ocw.cc.sophia.ac.jp/
+    sitemap: REST API (wp-json/wp/v2/lecture) で全件列挙 → .cache/sophia_lectures.json
+    course_url_pattern: "https://ocw.cc.sophia.ac.jp/lecture/<slug>/"
+    rendering: static
+    parser: sophia
+    usage_summary: サイト全体が CC BY-NC-SA 2.1 日本 (/about/ に明記)。非営利の教育目的に限り複写・編集・再配布可。コンテンツ詳細ページに個別の記載がある場合はそちらが優先。
+    license_status: cc
+    license_url: https://ocw.cc.sophia.ac.jp/about/
+    license_note: >-
+      /about/ が「公開される全ての教材は、非営利の教育目的に限り、複写・編集・再配布等を
+      自由に行うことが出来ます。クリエイティブ・コモンズ・ライセンス『表示-非営利-継承
+      2.1 日本』に従います」と明記。確認日 2026-07-28
+    status: active
+    date_checked: "2026-07-28"
+    notes: WordPress。lecture 投稿型が REST 公開 (454件)。dep タクソノミで大分類
+      (講義60/最終講義10/オープンキャンパス270/高校生向け26/講演会等88) と学部学科。
+      講義概要があるのは正規講義中心 (約24%)。OC・講演会は概要無し → description は
+      LLM 生成頼み (2023調査の予測どおり)。年度は開催年度欄 → REST 公開日で全件確保。
+
+  - code: qocw_kyushu
+    name: 九州大学OCW (QOCW)
+    organization: 九州大学
+    url: http://ocw.kyushu-u.ac.jp/
+    sitemap: なし。旧 科研STOER 収集データ (2023) から URL 復元 → .cache/urls_kyushu.tsv
+    course_url_pattern: "http://ocw.kyushu-u.ac.jp/menu/<session|faculty|spclass>/…/N.html"
+    rendering: static
+    parser: kyushu
+    usage_summary: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+    license_status: unknown
+    quote_basis: quotation
+    license_url: http://ocw.kyushu-u.ac.jp/
+    license_note: >-
+      2000年代の手組みサイトで、ヘッダ・ナビの PHP インクルードが壊れており利用規約
+      ページへの導線が失われている。ページ個別のライセンス表記も無い → 全件
+      reuse: unspecified。meta description は「自由にご利用いただける九大の講義資料や
+      講義ビデオを一般公開しています」。確認日 2026-07-28
+    status: active
+    date_checked: "2026-07-28"
+    notes: http のみ。コンテンツ本文は静的 HTML で生存 (86頁・失敗0)。charset ヘッダが
+      無いため fetch 側の apparent_encoding 対応が必須 (2026-07-28 修正)。日付情報が
+      サイトにも旧データにも無いため、datePublished は Wayback 初出年を代理指標に使う
+      (.cache/kyushu_wayback_years.json、provenance に明記)。
+
+  - code: icu_ocw
+    name: ICU OpenCourseWare
+    organization: 国際基督教大学
+    url: https://ocw.info.icu.ac.jp/
+    sitemap: なし (Google Sites)。トップページ埋め込みナビから全ページを列挙 → .cache/urls_icu.tsv
+    course_url_pattern: "https://ocw.info.icu.ac.jp/<majors|ge|gs|for_high|sl|ela|wl|japanese-languages-proguram>/<slug>"
+    rendering: static
+    parser: icu
+    usage_summary: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+    license_status: unknown
+    quote_basis: quotation
+    license_url: https://ocw.info.icu.ac.jp/index/icu-ocw
+    license_note: >-
+      /index/icu-ocw に MIT モデルへの言及と「free and open educational resource」の
+      理念文があるが、具体的な利用許諾（CC 指定等）が無い → 全件 reuse: unspecified。
+      確認日 2026-07-28
+    status: active
+    date_checked: "2026-07-28"
+    notes: Google Sites 移行後 (旧サイトの 2023 実測では説明文抽出84%)。1ページ約800KB
+      (全ページにサイト全体のナビが埋まる) → role="main" 以降のみ解析。442頁・失敗0。
+      題名は title タグ、Course Description は英日併記が多い。スラグに年度・学期
+      (BIO101_2017W)。動画 YouTube・資料 Google Drive。内訳は for_high 177 / majors 112 /
+      ge 73 / sl 63 / その他 17。
+
   - code: utokyo_channel
     name: UTokyo Channel (旧 UTokyo OCW)
     organization: 東京大学
