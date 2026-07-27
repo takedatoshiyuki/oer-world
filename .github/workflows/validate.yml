@@ -1,9 +1,9 @@
+# oer-kit が private の間は自動実行しない (pip install が失敗する)。
+# 検証・配信はローカルの make validate / make deploy で行い、oer-kit 公開後にトリガを復元する。
 name: validate
 
 on:
-  pull_request:
-  push:
-    branches: [main]
+  workflow_dispatch:
 
 jobs:
   metadata:

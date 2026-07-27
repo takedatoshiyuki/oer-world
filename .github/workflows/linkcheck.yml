@@ -1,10 +1,10 @@
+# oer-kit が private の間は自動実行しない (pip install が失敗する)。
+# 検証・配信はローカルの make validate / make deploy で行い、oer-kit 公開後にトリガを復元する。
 name: linkcheck
 
 # referenced エントリの外部リンクは切れる。週1回まとめて確認する
 # （PR ごとに外部サイトを叩かないよう validate とは分けている）。
 on:
-  schedule:
-    - cron: "0 3 * * 1"   # 毎週月曜 03:00 UTC
   workflow_dispatch:
 
 jobs:

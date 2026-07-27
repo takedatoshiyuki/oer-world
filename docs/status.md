@@ -1,6 +1,6 @@
 # OER World — 開発状況と引き継ぎ
 
-- 更新: 2026-07-27
+- 更新: 2026-07-27 (サイト公開)
 - 位置づけ: **このプロジェクトの現在地・決定記録・再開手順の正本**。
   新しい作業セッションはまずこれを読む。システム設計は
   [oer-kit の設計書](https://github.com/takedatoshiyuki/oer-kit/blob/main/docs/design.md)、
@@ -11,17 +11,14 @@
 | 項目 | 状態 |
 |------|------|
 | リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
-| 公開サイト | **停止中**（2026-07-26 に一旦 private 化。Pages 設定も削除済み） |
+| 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （415件）。oer-world は public、**oer-kit は private のまま**（メンテ体制が整うまで公開タイミングを選ぶ判断・2026-07-27）。このため CI ではなく **`make deploy`（ローカルビルド → gh-pages ブランチ）** で配信する。CI 3本は手動起動のみに変更済み（oer-kit 公開後にトリガを復元） |
 | 公開済みリソース | **415件**（名大413・東大series 1・自作教材1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施） |
 | 下書き（`drafts/`・Git外） | 0件（全件昇格済み） |
 | コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録） |
 | バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
 | キャッシュ（`.cache/`・Git外） | 名大413コース＋京大・東大のサンプルページ、名大ダイジェスト（`nagoya_u_digest.jsonl`） |
 
-再公開の手順: ①両リポを `gh repo edit --visibility public` ②`gh api
-repos/takedatoshiyuki/oer-world/pages -X POST -f build_type=workflow` ③publish
-ワークフロー再実行。※両方 private の間は oer-world の CI が oer-kit を
-pip install できず**失敗する**（既知。ローカルは `make validate` で問題なし）。
+配信の手順: `make deploy`（検証→ビルド→gh-pages へ push→Pages が配信）。oer-kit を公開したら CI トリガを復元して push 毎の自動配信に戻せる。
 
 ## 2. 主要な決定（日付つき）
 
@@ -59,7 +56,7 @@ JOCW 系11サイトの生存確認:
 
 ## 4. 保留中の判断
 
-1. **リポジトリの public 復帰と Pages 再開**（カタログ415件は準備完了。これが最後の公開スイッチ）
+1. **oer-kit の公開タイミング**（連合モデルの前提。メンテ体制と合わせて判断）
 2. **w3id.org 名前空間取得**（本運用と判断した時点で。移管に耐える恒久ID）
 3. 環境学研究科13件の主題分類（現在 engineering。学際組織なので要確認）
 4. 収録方針（何を目録に入れるか）の文書化 — 個人資料が増えた段階で

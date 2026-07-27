@@ -25,3 +25,10 @@ preview: prerender   ## ローカルプレビュー
 
 clean:
 	rm -rf _site site/r site/_quarto.yml site/.quarto
+
+deploy: site         ## 手元でビルドして gh-pages ブランチへ配信 (oer-kit 非公開の間の方式)
+	touch _site/.nojekyll
+	cd _site && rm -rf .git && git init -qb gh-pages && git add -A \
+	  && git commit -qm "deploy: $$(date +%Y-%m-%dT%H:%M)" \
+	  && git push -qf https://github.com/takedatoshiyuki/oer-world.git gh-pages \
+	  && rm -rf .git

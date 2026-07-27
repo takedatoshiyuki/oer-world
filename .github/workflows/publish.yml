@@ -1,11 +1,11 @@
+# oer-kit が private の間は自動実行しない (pip install が失敗する)。
+# 検証・配信はローカルの make validate / make deploy で行い、oer-kit 公開後にトリガを復元する。
 name: publish
 
 # main への push でサイトを生成し GitHub Pages へ配信する。
 # 事前に Settings → Pages → Source を「GitHub Actions」にしておくこと
 # (config.yaml の base_url も公開URLに合わせる。docs/user-guide.md §6)。
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
