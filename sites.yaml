@@ -71,6 +71,29 @@ sites:
       講義情報は cnt_left/cnt_right のラベル・値ペア。タグに種別 (公開講座/学部/大学院)・
       ジャンル・部局・言語 (japanese/english)。動画は旧 iTunesU リンク中心 (129件)。
 
+  - code: ocw_tsukuba
+    name: TSUKUBA OCW
+    organization: 筑波大学
+    url: https://ocw.tsukuba.ac.jp/
+    sitemap: https://ocw.tsukuba.ac.jp/sitemap.xml (AIOSEO。コースは page-sitemap.xml 内)
+    course_url_pattern: "https://ocw.tsukuba.ac.jp/course/<分野>/<slug>/ ほか /data-science/<slug>/・/discovery/<slug>/"
+    rendering: static
+    parser: tsukuba
+    usage_summary: サイト全体が CC BY-NC-SA 2.1 日本 (表示-非営利-継承)。クレジット表示・非営利・同一条件での頒布を条件に複製・頒布・展示・実演・二次的著作物の作成が可能。
+    license_status: cc
+    license_url: https://ocw.tsukuba.ac.jp/guide/
+    license_note: >-
+      /guide/ が「TSUKUBA OCWで公開されるすべてのコンテンツの利用許諾条件は、
+      クリエイティブ・コモンズ・ライセンス『表示-非営利-継承 2.1 日本』に従います」と明記。
+      全エントリに license: CC URL (by-nc-sa/2.1/jp) を付与。確認日 2026-07-27
+    status: active
+    date_checked: "2026-07-27"
+    notes: WordPress 固定ページ階層。目録単位は3系統 = 講義動画 /course/分野/slug (50)・
+      データサイエンス講義 /data-science/slug (26)・筑波大の人々 /discovery/slug (16)。
+      コース下位の /p-N/ (239頁) は各回ページで目録単位にしない。レイアウトは
+      page_ttl 型と movie 型の2系統が URL 系統と独立に混在。講師は c_lect リンク。
+      年度表示はデータサイエンス講義のみ (公開日)。
+
   - code: utokyo_channel
     name: UTokyo Channel (旧 UTokyo OCW)
     organization: 東京大学
