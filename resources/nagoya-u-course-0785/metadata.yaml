@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0785
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0785-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E7%89%B9%E8%AB%96%EF%BC%8F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9a-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: ファイナンス特論／ファイナンスA
+description:
+  ja: 投資家の意思決定をモデル化し、そこから株価の決定理論を導く内容を扱う。公開教材では、リスク回避度の評価と、それに基づく最適な株式投資額の計算にも触れる。
+quotedDescription:
+  text:
+    ja: '学部生向けの「ファイナンス特論」では、学部レベルの金融経済学（フィナンシャル・エコノミクス）の知識を既に習得している学生を対象として、この分野における自主的探求力のさらなる育成を図る。院生向けの「ファイナンス
+      A」では、証券投資と資産価格の決定に関する標準的な理論を解説し、この分野の研究能力の基礎を養う。「ファイナンス特論」および「ファイナンス A」ともに、ゴールは、（1）現代投資理論（MPT）に基づくポートフォリオ選択の実行、（2）資産価格の標準的な評価式（CAPM）の導出、（3）CAPM
+      を用いた株価評価の 3 つであり、PC を用いた演習も適宜行う。
+
+      投資家の意思決定をモデル化して、株価の決定理論を導きます
+
+      （オープンキャンパスの模擬講義では、自分自身のリスク回避度を評価して、最適な株式の投資額を各自求めます）'
+  source: https://ocw.nagoya-u.jp/courses/0785-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E7%89%B9%E8%AB%96%EF%BC%8F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9a-2021/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中島英喜
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 株
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: ファイナンス事始め
+  contentUrl: https://ocw.nagoya-u.jp/files/785/slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0785-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E7%89%B9%E8%AB%96%EF%BC%8F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9a-2021/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 後期火曜4限
+  targetAudience: 経済学部３・４年／院生（博士前期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

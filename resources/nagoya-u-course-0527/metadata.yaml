@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0527
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0527-%E7%92%B0%E5%A2%83%E3%81%A8%E6%B3%95-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 環境と法
+description:
+  ja: この教材は、環境保護に関わる法制度を扱う講義の導入資料である。自然保護、水環境保全、廃棄物、大気、気候変動、原子力、環境法の基本原則、環境権、環境影響評価など、環境法のさまざまな論点を通して全体像を示す。
+quotedDescription:
+  text:
+    ja: 'イントロダクション
+
+      自然保護
+
+      自然保護
+
+      水環境保全
+
+      種の保存
+
+      廃棄物・リサイクル
+
+      国内の廃棄物問題
+
+      廃棄物の国際的管理と国内法
+
+      大気
+
+      大気汚染
+
+      気候変動
+
+      原子力
+
+      原子力安全規制
+
+      原子力損害賠償
+
+      環境法の基本原則
+
+      予防原則
+
+      環境権
+
+      環境影響評価
+
+      環境保全の手法
+
+      経済的手法その他ソフトな手法'
+  source: https://ocw.nagoya-u.jp/courses/0527-%E7%92%B0%E5%A2%83%E3%81%A8%E6%B3%95-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 増沢陽子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 環境学
+- 環境保全
+- 原子力学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: イントロダクション
+  contentUrl: https://ocw.nagoya-u.jp/files/527/MCcommon-1-intro-ocw-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0527-%E7%92%B0%E5%A2%83%E3%81%A8%E6%B3%95-2015/
+extensions:
+  faculty: 環境学研究科
+  term: 前期
+  targetAudience: 環境学研究科 博士前期課程1年、2年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

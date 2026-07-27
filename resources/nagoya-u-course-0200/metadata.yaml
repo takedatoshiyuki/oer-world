@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0200
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0200-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AE%E3%81%93%E3%81%AE%E4%B8%80%E5%B9%B4%E9%96%93%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本経済のこの一年間と今後の見通し
+description:
+  ja: リーマン・ブラザーズ破たん以降の金融危機と実体経済の落ち込みを背景に、日本の輸出減少、雇用や企業収益の悪化、東海地方への影響を取り上げる。あわせて、この一年間の国内経済動向を振り返り、今回の危機が日本経済にもたらしたものを扱う。
+quotedDescription:
+  text:
+    ja: 昨年９月の、リーマンブラザーズの破たん以来、金融危機と実体経済の落ち込みが相乗的に作用して、世界経済が混乱に陥った。日本は輸出の著しい減少に見舞われ、かつてない不況に直面している。雇用の落ち込みと企業収益の減少が消費の不振を招いているが、東海地方は、自動車生産への影響が大きいため、全国の中でも特に厳しい状況にある。
+      この一年間の、国内の経済動向を振り返り、今回の危機が日本経済になにをもたらしたのか
+  source: https://ocw.nagoya-u.jp/courses/0200-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AE%E3%81%93%E3%81%AE%E4%B8%80%E5%B9%B4%E9%96%93%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 塚田弘志
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 経済学/経営学
+- 日本経済
+- 講義内容
+- 講義ビデオ
+- 日本経済のこの一年間と今後の見通し
+- 講義資料
+- 日本経済のこの一年間と今後の見通し
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 日本経済のこの一年間と今後の見通し
+  contentUrl: https://ocw.nagoya-u.jp/files/200/tsukada.pdf
+  page: https://ocw.nagoya-u.jp/courses/0200-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AE%E3%81%93%E3%81%AE%E4%B8%80%E5%B9%B4%E9%96%93%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

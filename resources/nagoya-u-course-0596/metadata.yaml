@@ -1,0 +1,53 @@
+slug: nagoya-u-course-0596
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0596-%E4%B8%AD%E4%B8%8A%E7%B4%9A(SJ300)%E8%AA%9E%E5%BD%99%E4%BC%9A%E8%A9%B1-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 中上級(SJ300)語彙会話
+description:
+  ja: 名古屋大学の国際機構が2016年前期に開講した、留学生向けの日本語の授業である。中上級(SJ300)として、語彙と会話を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 俵山雄司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 国際
+- 日本語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 国際機構
+  term: 前期
+  targetAudience: 名古屋大学の留学生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

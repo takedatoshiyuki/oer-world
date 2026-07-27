@@ -1,0 +1,116 @@
+slug: nagoya-u-course-0041
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済理論 I
+description:
+  ja: 本講義は、マクロ経済学の基礎をケインズ経済学の観点から扱う。国民経済、GDPの決定、消費と貯蓄、投資の理論などに関する講義ノートが公開されている。
+quotedDescription:
+  text:
+    ja: 本講義は、一国の経済活動全体を捉えるマクロ経済学について、その１つの考え方であるケインズ経済学からのマクロ理論の基礎的な部分を扱います。「現実の経済を理論的に捉える」とはどういうことであるかを学生のみなさんがより直感的に理解できるように、日本のマクロデータを適宜提示します。
+  source: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 柳原光芳
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 経済理論
+- 金融政策
+- マクロ経済学
+- 授業の目的及びねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 経済とは？マクロ経済学とは?'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 国民経済(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 配付資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara02m.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 国民経済(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 補充資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara03m.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 国民経済(3)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: GDP の決定(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: GDP の決定(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 消費と貯蓄(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 消費と貯蓄(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 投資の理論(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 投資の理論(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 配付資料 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara10m1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 貨幣(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 貨幣(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: IS−LM 分析(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: IS−LM 分析(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+- name: '講義ノート: 練習'
+  contentUrl: https://ocw.nagoya-u.jp/files/41/yanagihara15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0041-%E7%B5%8C%E6%B8%88%E7%90%86%E8%AB%96-I-2004/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 後期
+  targetAudience: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

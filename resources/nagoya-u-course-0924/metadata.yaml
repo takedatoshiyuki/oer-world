@@ -1,0 +1,61 @@
+slug: nagoya-u-course-0924
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0924-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6I-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 宇宙物理学I
+description:
+  ja: 名古屋大学の理学部／理学研究科で、理学部3・4年生を対象に春学期に開講される宇宙物理学の講義である。担当は中澤知洋で、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中澤 知洋
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 物理
+- 宇宙物理学
+- 天文学
+- 宇宙論
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部／理学研究科
+  term: 春学期
+  targetAudience: 理学部3・4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '宇宙物理、天体物理は、身近な物理学を用いて、宇宙を理解しようとする学問である。本講義は、恒星や銀河、ブ ラックホールなどを題材に、その天体の性質を決定する背景の物理、さらにそれを理解する上で有用な物理法則を知り、「宇宙を物理の言葉で理解する」方法を学ぶことを目的とする。具体的には、重力で束縛されている系である恒星の熱力学的な性質や進化を学ぶとともに、その結果誕生する白色矮星、中性子星、ブラックホールといったコンパクト星につながる基礎物理を学ぶ。また現代宇宙論の基礎を導入し、インフレーション宇宙論の考え方を理解することを目的とする。
+
+      学生が、天体の状態と進化を支配する基礎物理の方程式を把握し、これを実際の天体に近似的に当てはめて、その性質を半定量的に理解できること。具体的には、重力、力学、熱力学、輻射圧、フェルミオンの縮退圧の基本的な方程式を利用して、天体の性質を理解し、これにより宇宙の天体進化が本質的にカタストロフィックであることを理解すること。また、膨張する時空の力学の概要を理解することで、我々が宇宙のどのような時代に生きているのかを、宇宙論的視点で大まかに理解できること。'
+  source: https://ocw.nagoya-u.jp/courses/0924-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6I-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

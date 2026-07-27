@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0510
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0510-%E9%9B%BB%E6%B0%97%E3%83%BB%E9%9B%BB%E5%AD%90%E3%83%BB%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電気・電子・情報工学序論
+description:
+  ja: エネルギー工学、物性・デバイス工学、情報・通信工学、情報工学を扱う講義ノートである。名古屋大学の工学部／工学研究科で2015年度前期に開講された「電気・電子・情報工学序論」に対応し、電気電子工学コースと情報工学コースの学生を対象とする。
+quotedDescription:
+  text:
+    ja: 1. エネルギー工学  2. 物性・デバイス工学  3. 情報・通信工学  4. 情報工学
+  source: https://ocw.nagoya-u.jp/courses/0510-%E9%9B%BB%E6%B0%97%E3%83%BB%E9%9B%BB%E5%AD%90%E3%83%BB%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2015/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 天野浩
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 材料工学
+- 情報工学
+- エネルギー工学
+- デバイス工学
+- 授業内容
+- エネルギー工学
+- 物性・デバイス工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 電気電子情報工学序論'
+  contentUrl: https://ocw.nagoya-u.jp/files/510/lecture2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0510-%E9%9B%BB%E6%B0%97%E3%83%BB%E9%9B%BB%E5%AD%90%E3%83%BB%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2015/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学部／電気電子工学コース、情報工学コース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

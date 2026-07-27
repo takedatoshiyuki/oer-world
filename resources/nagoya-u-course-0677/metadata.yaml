@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0677
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0677-%E5%8C%96%E5%AD%A6%E7%94%9F%E5%91%BD%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: 化学生命工学序論
+description:
+  ja: 化学生命工学の基礎を扱い、有機・高分子化学、応用物質化学、生命分子化学の3分野を柱として講義する。あわせて、これらの分野に関連する最先端の化学・技術の話題も取り上げる。
+quotedDescription:
+  text:
+    ja: 化学生命工学の基礎に関する講義を実施する。有機・高分子、応用物質科学および生命分子工学の基礎について講述するとともに、これらの分野の最先端の化学・技術に関する話題を紹介する。 1. 有機・高分子化学　2.
+      応用物質化学　3. 生命分子化学
+  source: https://ocw.nagoya-u.jp/courses/0677-%E5%8C%96%E5%AD%A6%E7%94%9F%E5%91%BD%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2018/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 村上裕
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 生命工学
+- 生命分子工学
+- 科学技術
+- 化学
+- 授業内容
+- 有機・高分子化学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 化学生命工学科1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

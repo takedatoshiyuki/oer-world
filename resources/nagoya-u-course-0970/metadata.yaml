@@ -1,0 +1,61 @@
+slug: nagoya-u-course-0970
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0970-%E5%9B%BD%E9%9A%9B%E6%B3%95%E5%90%84%E8%AB%96%E2%85%B0-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際法各論Ⅰ
+description:
+  ja: 法学部3・4年生向けの「国際法各論Ⅰ」の教材で、名古屋大学の2023年度春学期開講分に属する。公開されているファイルでは、第14回として国際経済法と国際労働法の交錯を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 水島 朋則
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 国際法
+- 国際経済法
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第14 回：国際経済法と国際労働法の交錯（２）
+  contentUrl: https://ocw.nagoya-u.jp/files/970/%E5%90%8D%E5%A4%A7%E3%81%AE%E6%8E%88%E6%A5%AD%EF%BC%88%E6%B3%95%E3%83%BB%E6%B0%B4%E5%B3%B6%E3%83%BB%E5%9B%BD%E9%9A%9B%E6%B3%95%E5%90%84%E8%AB%96%E2%85%A0%EF%BC%89%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99.pdf
+  page: https://ocw.nagoya-u.jp/courses/0970-%E5%9B%BD%E9%9A%9B%E6%B3%95%E5%90%84%E8%AB%96%E2%85%B0-2024/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 春学期
+  targetAudience: 法学部３・４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 貿易や投資など、基本的には国ではない経済主体（企業など）の活動を、基本的には国の間の法である国際法（条約）が、どのように規制しているのでしょうか。経済に関するさまざまな分野における国際法上の主要な論点について、例えば、世界貿易機関（WTO）における日本産水産物等に対する韓国の輸入規制事件や、TPP協定（および包括的・先進的TPP協定）、日米貿易協定、投資条約に基づく仲裁（野村證券グループによるチェコでの投資に関するサルカ事件など）を取り上げながら授業します。
+  source: https://ocw.nagoya-u.jp/courses/0970-%E5%9B%BD%E9%9A%9B%E6%B3%95%E5%90%84%E8%AB%96%E2%85%B0-2024/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

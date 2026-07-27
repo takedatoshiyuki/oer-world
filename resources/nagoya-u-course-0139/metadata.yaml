@@ -1,0 +1,72 @@
+slug: nagoya-u-course-0139
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0139-%E6%AF%94%E8%BC%83%E6%96%87%E5%AD%A6%E8%AB%96a-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 比較文学論a
+description:
+  ja: 文学作品の比較考察を通じて、「拒食」をモチーフにした作品群を扱う講義である。公開教材には、論文の書き方に関するノートのほか、欧米の拒食症や『嵐が丘』と『“文学少女”と飢え渇く幽霊（ゴースト）』の人物対照表が含まれている。
+quotedDescription:
+  text:
+    ja: 文学作品は文学的伝統の中で作られていくが、そうした文学作品の伝統的な素材の一つに「食の文化」がある。今回はその中から「拒食」をモチーフとした文学作品を幾つか取り上げて比較考察していきたい。
+  source: https://ocw.nagoya-u.jp/courses/0139-%E6%AF%94%E8%BC%83%E6%96%87%E5%AD%A6%E8%AB%96a-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 渡辺美樹
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 文学作品
+- 翻訳
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 論文の書き方'
+  contentUrl: https://ocw.nagoya-u.jp/files/139/how_to_write.pdf
+  page: https://ocw.nagoya-u.jp/courses/0139-%E6%AF%94%E8%BC%83%E6%96%87%E5%AD%A6%E8%AB%96a-2011/
+- name: '講義ノート: 欧米の拒食症について'
+  contentUrl: https://ocw.nagoya-u.jp/files/139/anorexia%20nervosa.pdf
+  page: https://ocw.nagoya-u.jp/courses/0139-%E6%AF%94%E8%BC%83%E6%96%87%E5%AD%A6%E8%AB%96a-2011/
+- name: '講義ノート: 『嵐が丘』と『“文学少女”と飢え渇く幽霊（ゴースト）』の人物対照表'
+  contentUrl: https://ocw.nagoya-u.jp/files/139/jimbutsu-taishouhyou.pdf
+  page: https://ocw.nagoya-u.jp/courses/0139-%E6%AF%94%E8%BC%83%E6%96%87%E5%AD%A6%E8%AB%96a-2011/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 前期
+  targetAudience: 国際言語文化研究科 日本言語文化専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

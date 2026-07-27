@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0247
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0247-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A69-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理情報学9
+description:
+  ja: 確率論の復習から統計的推定、信頼区間・仮説検定、回帰分析、最尤推定までを扱う講義ノート群である。名古屋大学の情報文化学部自然情報学科3年向けに、2011年度後期に開講された授業の教材として公開されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 金森敬文
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- ict
+keywords:
+- 情報学
+- 数学
+- 数理科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 確率論の復習'
+  contentUrl: https://ocw.nagoya-u.jp/files/247/01_prob.pdf
+  page: https://ocw.nagoya-u.jp/courses/0247-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A69-2011/
+- name: '講義ノート: 統計的推定'
+  contentUrl: https://ocw.nagoya-u.jp/files/247/02_unbias_estimator.pdf
+  page: https://ocw.nagoya-u.jp/courses/0247-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A69-2011/
+- name: '講義ノート: 信頼区間・仮説検定'
+  contentUrl: https://ocw.nagoya-u.jp/files/247/03_conf_interval_test.pdf
+  page: https://ocw.nagoya-u.jp/courses/0247-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A69-2011/
+- name: '講義ノート: 回帰分析'
+  contentUrl: https://ocw.nagoya-u.jp/files/247/04_regression.pdf
+  page: https://ocw.nagoya-u.jp/courses/0247-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A69-2011/
+- name: '講義ノート: 最尤推定'
+  contentUrl: https://ocw.nagoya-u.jp/files/247/05_mle.pdf
+  page: https://ocw.nagoya-u.jp/courses/0247-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A69-2011/
+extensions:
+  faculty: 情報文化学部
+  term: 後期
+  targetAudience: 情報文化学部自然情報学科3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

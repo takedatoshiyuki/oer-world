@@ -1,0 +1,216 @@
+slug: nagoya-u-course-0863
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物理学基礎II（電磁気学）
+description:
+  ja: 電磁気学の基礎を、電場と電位から始めて、ガウスの法則、電流と抵抗、コンデンサ、磁場、電磁誘導、マクスウェル方程式へと順に扱う授業資料である。あわせて、ベクトル代数・ベクトル解析や各種積分を用いて、電磁場を表すための数学的道具も学ぶ。公開されている講義ノートは第1回から第13回までに対応する。
+quotedDescription:
+  text:
+    ja: '電磁気学すなわち電気と磁気に関する物理理論を学ぶ。場の概念を把握し、電磁場の基本法則を理解し、比較的簡単な状況において電場や磁場を計算・描画し、その物理的意味を吟味・検討できるようになることを目指す。電磁場を記述する数学的道具としてベクトル代数とベクトル解析を習得する。
+
+      （以下は 2021 年度秋学期に情報学部 1 年生向けに実施した授業の記録および資料である。）
+
+      第 1 回　電場
+
+      物質のなりたち、摩擦電気、クーロンの法則、ベクトルの基本、電場の概念
+
+      講義ノート（第 1, 2 回）
+
+      講義ビデオ
+
+      第 2 回　電場
+
+      点電荷・線電荷・面電荷、電荷の加法性、電荷の保存則、電場の重ね合わせの原理、ベクトルのノルム・内積・外積
+
+      講義ノート（第 1, 2 回）
+
+      講義ビデオ
+
+      第 3 回　座標系
+
+      直交座標・極座標、線要素・面要素・体積要素、線積分・面積分・体積積分
+
+      講義ノート（第 3 回）
+
+      講義ビデオ
+
+      第 4 回　クーロンの法則と重ね合わせの原理の応用（前半）
+
+      点・線の電荷が作る電場
+
+      講義ノート（第 4 回）
+
+      講義ビデオ
+
+      第 5 回　クーロンの法則と重ね合わせの原理の応用（後半）
+
+      円周・球殻・球体の電荷が作る電場、ベクトル場の線積分
+
+      講義ノート（第 5 回）
+
+      講義ビデオ
+
+      第 6 回　中心力場と保存力場
+
+      数学のことばづかい（公理・定義・定理・補題・命題・系）、仕事と線積分、電位
+
+      講義ノート（第 6 回）
+
+      講義ビデオ
+
+      第 7 回　電位
+
+      点電荷と球殻電荷が作る電位
+
+      講義ノート（第 7 回）
+
+      講義ビデオ
+
+      第 8 回　電位と等電位面
+
+      等電位面の描き方、等電位面の性質
+
+      講義ノート（第 8 回）
+
+      講義ビデオ
+
+      第 9 回　電場のガウスの法則
+
+      電気力線と電束、向きづけられた曲面、法線ベクトル場、ベクトル場の面積分
+
+      講義ノート（第 9, 10 回）
+
+      講義ビデオ
+
+      第 10 回　ガウスの法則の応用
+
+      幾何学的対称性、対称性とガウスの法則を使った電場の計算方法、電場に対する物質の応答、絶縁体と良導体
+
+      講義ノート（第 9, 10 回）
+
+      講義ノート（第 10, 11 回）
+
+      講義ビデオ
+
+      第 11 回　電流と電気抵抗とコンデンサ
+
+      誘電分極と電流、電流の定義、電流密度、電荷保存則、オームの法則、電気伝導率、電気抵抗率、コンデンサ、電気容量、電場のエネルギー
+
+      講義ノート（第 10, 11 回）
+
+      講義ノート（第 11 回）
+
+      講義ビデオ
+
+      第 12 回　磁場
+
+      ローレンツ力の法則、ビオ・サバールの法則、アンペールの法則、ベクトルの外積、電流素片、無限直線電流が作る磁場
+
+      講義ノート（第 12 回）
+
+      講義ビデオ
+
+      第 13 回　磁場のガウスの法則とファラデイの法則
+
+      磁力線と磁束と磁場のガウスの法則、時間変化する磁場とファラデイの電磁誘導の法則、ソレノイドコイルが作る磁場
+
+      講義ノート（第 13 回）
+
+      講義ビデオ
+
+      第 14 回　時間変化する電磁場
+
+      変位電流とアンペール・マクスウェルの法則、マクスウェルの法則、ベクトル解析、gradient、divergence、rotation、微分形のマクスウェル方程式
+
+      講義ノート（第 14 回）
+
+      講義ビデオ'
+  source: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+  note: 名大の授業 (NU OCW) 「授業の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 谷村 省吾
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 物理
+- 電気
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート（第 1, 2 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 3 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 4 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 5 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 6 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 7 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 8 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 9, 10 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 10, 11 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 11 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 12 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 13 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+- name: 講義ノート（第 14 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/863/slide14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0863-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EII-2022/
+extensions:
+  faculty: 教養教育院
+  term: 秋学期
+  targetAudience: 情報学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

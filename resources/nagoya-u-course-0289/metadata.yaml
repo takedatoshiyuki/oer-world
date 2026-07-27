@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0289
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0289-%E6%98%A0%E7%94%BB%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%82%88%E3%81%86-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 映画を読んでみよう
+description:
+  ja: 身振り、音楽、文字、絵画、映像など、表現の媒体によって生じる違いを手がかりに、表現されたものをどのように「読んで」理解するかを扱う。あわせて、伝えようとする側が理解されるために工夫を重ねることにも触れる。公開教材には、講義ノートと高校生の取り組みの様子が含まれる。
+quotedDescription:
+  text:
+    ja: 何かを伝えようとする時、その表現にはさまざまな「かたち」が用いられます。身振り、音楽、文字、絵画、映像・・・。文字で表現する場合でも、メモ、手紙(私的なもの・公的なもの)、文書、詩、散文、小説・・・。それら媒体の異なりは直接表現の違いになります。そうした特徴を理解したうえで表現されたものを「読んで」(理解して)みましょう。伝えようとする人は理解されることを望んでいます。そのためにいろいろな工夫
+  source: https://ocw.nagoya-u.jp/courses/0289-%E6%98%A0%E7%94%BB%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%82%88%E3%81%86-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 杉山寛行 理事・副総長
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 音楽/美術/芸術
+- 絵画
+- 中津川プロジェクト
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 高校生の取り組みの様子'
+  contentUrl: https://ocw.nagoya-u.jp/files/289/kikaku2_kokosei.pdf
+  page: https://ocw.nagoya-u.jp/courses/0289-%E6%98%A0%E7%94%BB%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%82%88%E3%81%86-2010/
+- name: '講義ノート: 映画を読んでみよう'
+  contentUrl: https://ocw.nagoya-u.jp/files/289/kikaku2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0289-%E6%98%A0%E7%94%BB%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%82%88%E3%81%86-2010/
+extensions:
+  faculty: 教育学部附属中・高等学校
+  term: 特別講義
+  targetAudience: 附属高校1・2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

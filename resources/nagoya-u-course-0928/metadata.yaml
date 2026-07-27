@@ -1,0 +1,55 @@
+slug: nagoya-u-course-0928
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0928-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地球科学実験
+description:
+  ja: 名古屋大学の教養教育院が2023年度に開講する、地球科学に関する実験科目である。対象は情報学部・農学部2年生と理学部1年生で、春学期と2023年度秋学期にそれぞれ別の対象向けに実施する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 地球科学
+- 岩石
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 春学期（情報学部・農学部向け），2023年度秋学期（理学部向け）
+  targetAudience: 情報学部・農学部２年生，理学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 地球科学の研究対象である，岩石圏，大気圏，水圏の構成物質に関する観察や実験を通して，地球科学の基本的な研究手法を習得します。それと並行して，期間中の休日に１回，野外見学に参加し，講義や実験で学ぶ事項が野外でどのような形で現れているのか実際に目で確かめることによって，より具体的に地球科学の基礎を体得できるようにします。
+  source: https://ocw.nagoya-u.jp/courses/0928-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

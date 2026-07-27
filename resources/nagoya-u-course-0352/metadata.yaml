@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0352
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0352-%E6%97%A5%E4%B8%AD%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96ab%E2%80%94%E5%8F%A4%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%A8%E5%A4%96%E6%9D%A5%E6%96%87%E5%8C%96-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日中比較文化論ab
+description:
+  ja: 古代日本と古代中国の文化的交渉を扱い、文化要素がどのように流動し、衝突し、融合するかを観察する方法を学ぶ講義である。掲載されている教材は、大伴坂上郎女の怨恨歌を題材にした講義ノート2件で、恋歌（和歌）と閨怨詩（漢詩）の関係も扱う。原典と研究文献を読みながら、作品分析を行う構成になっている。
+quotedDescription:
+  text:
+    ja: 古代日本と外来文化の関係を探求する。主に古代日本と古代中国の文化的交渉の諸問題を取り扱っているが、単に両国の文化の相違点を洗い出すのみならず、文化要素の流動、衝突、融合の過程を観察する方法を学ぶ。毎年トピックを変える。今年度（２４年度）は前期、後期を通じて、恋歌（和歌）と閨怨詩（漢詩）の交渉について考える。参加者は、各トピックに関する原典と研究文献を事前に読み、その方法や発想を学びながら、作品の分析を行う。先行研究と原典を読むことによって、読解力、問題点を発見する能力、論理的に考える能力を身につけることがこの授業の目的である。
+  source: https://ocw.nagoya-u.jp/courses/0352-%E6%97%A5%E4%B8%AD%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96ab%E2%80%94%E5%8F%A4%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%A8%E5%A4%96%E6%9D%A5%E6%96%87%E5%8C%96-2012/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 胡潔
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 中国文学
+- 少数民族
+- 研究論文
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 大伴坂上郎女の怨恨歌について(一)'
+  contentUrl: https://ocw.nagoya-u.jp/files/352/NewH24ko_note1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0352-%E6%97%A5%E4%B8%AD%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96ab%E2%80%94%E5%8F%A4%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%A8%E5%A4%96%E6%9D%A5%E6%96%87%E5%8C%96-2012/
+- name: '講義ノート: 大伴坂上郎女の怨恨歌について(二)'
+  contentUrl: https://ocw.nagoya-u.jp/files/352/NewH24ko_note2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0352-%E6%97%A5%E4%B8%AD%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96ab%E2%80%94%E5%8F%A4%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%A8%E5%A4%96%E6%9D%A5%E6%96%87%E5%8C%96-2012/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 通年
+  targetAudience: 国際言語文化研究科および文学研究科の大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

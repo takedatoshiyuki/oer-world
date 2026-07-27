@@ -1,0 +1,134 @@
+slug: nagoya-u-course-0025
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナーボードゲームを究める
+description:
+  ja: 主にドイツ製のボードゲームやカードゲームを題材に、受講生同士がゲームを紹介し合いながら進める講義である。ルールの理解と説明、実際のプレイ、戦略の検討、討論を通して、20種類程度のゲームを扱う。公開教材には、個別のゲーム紹介や講義ノート、参考資料が含まれる。
+quotedDescription:
+  text:
+    ja: 'この講義は、主にドイツ製のボードゲームやカードゲームを題材として、受講生同士がゲームを紹介しあい遊びながら、考えることの楽しさを味わってもらうことを目的としています。
+
+      ルールを読み、理解し、他の受講生に説明し、プレイし (勝ったり負けたりし)、戦略を考え、討論する、というように、盛りだくさんです。
+
+      他大学のごく一部でも囲碁、あるいは将棋を題材にした授業を行っているところがありますが、本講義の場合、海外の未知なゲームを扱う場合が多いので、受講生がまったく知識のないところから平等にスタートすることができますし、外国の文化を楽しめます。
+
+      ボードゲーム先進国のドイツでは毎年数百の新作が発表されています。
+
+      ゲームが扱うテーマは、思いつく限りの範囲をカバーしているといっても過言ではなく、ゲームのメカニズム自体も継続的に洗練がなされ、工夫されてきています。
+
+      この講義では、そのように多様な世界の一端を 20 種類程度のゲームで味わいます。
+
+      根本的な問題意識をここでほんの少しだけ述べましょう。
+
+      私は (特に日本の) 現代社会が直面する問題群の根底には、人と人のインタラクション (相互作用) における想像力の不足、欠如があるのではないかと考えています (ちなみに、私の専門は人間関係に限らずに様々なインタラクションから創発する現象を計算機の中の世界で起こして理解することです)。
+
+      ドイツのボードゲームは人と人との様々な状況における様々な種類のインタラクションについて考え、悩み、楽しむものです。
+
+      ワクワクするようなプレイを通じて、他人の立場に立って、他人の気持ちを想像する力をトレーニングすることができるのです。
+
+      そうしないと勝てませんので。
+
+      このような意味からも、受講生はもちろん、それ以外の人たちにも、いろいろな場面で、ドイツなどの質の高いボードゲームをプレイする楽しさを知ってほしいと心から願っています。
+
+      幸いなことに、このような私の問題意識やボードゲーム利用による教育効果は徐々に社会でも共有されるようになってきたようで、この授業やその実践に基づく知見は国内外のメディアで紹介されるようになってきました
+      (北欧の大学が発行する雑誌への寄稿、テレビ番組での模擬授業の実施、テレビ番組へのコメンテーター出演など)。
+
+      この授業の受講生達には、この先いろいろな場面で受講体験を活かしてほしいと願っています。'
+  source: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 有田隆也
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: 「なぜボードゲーム?」'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/nazeboardgame.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '参考資料: ククの紹介'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/arita_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '参考資料: カムバック by Reinhard Staupe (学生のプレゼン例)'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/arita_6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '参考資料: マニトウ by Guenter Burkhardt(学生のプレゼン例)'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/arita_8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '参考資料: ゲーム貸し出しにあたっての注意事項)'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/arita_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '参考資料: ハグルの紹介'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/arita_12-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '参考資料: たほいやの紹介)'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/arita_12-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '参考資料: レポートの一部'
+  contentUrl: http://ocw.nagoya-u.jp/files/25/arita_15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: 「なぜボードゲーム?」'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/nazeboardgame.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: ククの紹介'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/arita_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: カムバック by Reinhard Staupe (学生のプレゼン例)'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/arita_6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: マニトウ by Guenter Burkhardt (学生のプレゼン例)'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/arita_8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: ゲーム貸し出しにあたっての注意事項'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/arita_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: ハグル by Sid Sackson'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/arita_12-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: たほいや'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/arita_12-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+- name: '講義ノート: レポートの一部'
+  contentUrl: https://ocw.nagoya-u.jp/files/25/arita_15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0025-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B-2015/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 文系学部、情報文化学部（自然）、理学部、農学部、工学部(II, IV, III系）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

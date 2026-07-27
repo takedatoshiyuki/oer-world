@@ -1,0 +1,94 @@
+slug: nagoya-u-course-0021
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 宇宙物理学γ-(宇宙論)
+description:
+  ja: この教材は、宇宙論の基礎となる一般相対論的な幾何学量やロバートソン・ウォーカー計量、フリードマン方程式を扱う。さらに、宇宙の大局的ふるまい、宇宙論パラメータ、線形摂動、ボルツマン方程式、インフレーション由来のゆらぎ、宇宙背景放射、銀河分布、弱重力レンズ場までを講義ノートで扱う。レポート課題も付属する。
+quotedDescription:
+  text:
+    ja: 宇宙論は、この宇宙全体がどのようにはじまり、どのように進化するのか、そもそも宇宙とはなにものなのかを明らかにしようとする研究分野である。最近のめざましい観測の進展を背景として、宇宙論の研究は大きく発展している。本講義では宇宙論の最近のトピックのいくつかに焦点を当てて紹介する。
+  source: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松原隆彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- natural_sciences_math
+keywords:
+- 物理
+- 量子力学
+- 力学
+- 統計力学
+- 宇宙物理学
+- 講義の目的
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: ロバートソン・ウォーカー計量のアインシュタイン方程式/フリードマン方程式の解法/多成分系の場合/宇宙論パラメータ'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '講義ノート: 宇宙の大局的ふるまい/赤方偏移と宇宙論的距離のまとめ/宇宙論パラメータの「古典的」決定法'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '講義ノート: ロバートソン・ウォーカー計量における線形摂動/ゲージ自由度とゲージ固定/線形アインシュタイン方程式'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '講義ノート: 線形ボルツマン方程式/インフレーション理論におけるゆらぎの生成'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '講義ノート: 単成分近似におけるゆらぎの成長/パワースペクトルと遷移関数/光子とバリオンの相互作用効果/再結合後のゆらぎの成長'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '講義ノート: 宇宙背景放射ゆらぎ'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '講義ノート: 銀河の空間分布/弱重力レンズ場'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '講義ノート: 一般相対論と宇宙論の基本的な幾何学量'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/lecture_note_appendix.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '課題: レポート 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/report06-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+- name: '課題: レポート 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/21/report06-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0021-%E5%AE%87%E5%AE%99%E7%89%A9%E7%90%86%E5%AD%A6%CE%B3-(%E5%AE%87%E5%AE%99%E8%AB%96)-2006/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学研究科、素粒子宇宙物理学専攻および物質理学専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

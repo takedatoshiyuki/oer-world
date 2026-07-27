@@ -1,0 +1,107 @@
+slug: nagoya-u-course-0002
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 民法-II
+description:
+  ja: この講義は、民法第2編の物権を対象に、物権法の基礎と全体像、物権変動論を順に扱う。後半では担保物権に進み、担保法の問題を詳細に検討する構成になっている。公開教材として、課題と複数回分の講義ノートが付属する。
+quotedDescription:
+  text:
+    ja: '本講義は、民法第２編に規定されている物権を扱うものである。物を所有・支配する、取引により物を流通させる、担保により債権回収の実をあげる等、物権法の規律する法理は経済活動の根幹をなすものであり、古くから学説・判例が緻密な理論を積み重ねてきた。加えて近時は、区分所有法や担保法の改正等、この領域でも社会の複雑化・多様化にあわせ、新たな動きが種々みられる。この講義を通じて、経済秩序の基底にあるものを理解し、取引社会の「いま」を実感し、また法的思考の養成に努めてもらいたい。
+
+      講義はまず、第１部として、物権とは何か、どのような物権があるか等、物権法の基礎、全体像をひととおり概観し、第２部で総論としての物権変動論を検討する。
+
+      講義の後半、第３部として扱う担保物権に関しては、バブル崩壊をも受けて、最近新たな判例が続々と登場しており、大規模な法改正もなされた（2004 年 4 月、2005 年 3 月、2005 年 10
+      月と、目白押しである）。金融取引において重要な役割を担っている担保法に今何がおこっているのか、担保法の直面する問題についても、詳細に扱うこととしたい。'
+  source: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+  note: 名大の授業 (NU OCW) 「授業の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 田高寛貴
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- business_law
+keywords:
+- 法学
+- 民法
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 課題
+  contentUrl: https://ocw.nagoya-u.jp/files/2/tadaka_kadai.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ１'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ２'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ３'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ４'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ解説４'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-4kaisetsu.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ５'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ６'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ７'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ８'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ９'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ１０'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ１１'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+- name: '講義ノート: レジュメ１２'
+  contentUrl: https://ocw.nagoya-u.jp/files/2/note-12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0002-%E6%B0%91%E6%B3%95-II-2005/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 前期
+  targetAudience: 法学部2年生以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

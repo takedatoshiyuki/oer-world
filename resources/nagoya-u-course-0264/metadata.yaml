@@ -1,0 +1,98 @@
+slug: nagoya-u-course-0264
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナー遺伝子を使うと何がわかる？何ができる？
+description:
+  ja: 遺伝子とDNAの関係や、遺伝子を使って何ができるかを扱う基礎セミナーである。講義ノートでは、DNAの基礎から遺伝子組換え、PCR、身近な試料の同定や親子鑑定までを題材にしている。実験を通して、遺伝子を調べたり利用したりする方法を学ぶ。
+quotedDescription:
+  text:
+    ja: いまどき「遺伝子」という言葉を知らない人はいないでしょう。遺伝子組換え、遺伝子診断、DNA 鑑定など、遺伝子を扱う技術はずいぶん身近なものになってきました。でも、遺伝子と DNA の関係は？
+      と聞かれたり、赤花遺伝子と白花遺伝子は何が違うの？ と聞かれたりしたとき、正確に答えられる人は多くないかもしれません。この基礎セミナーでは、大腸菌に新しい遺伝子を導入する「遺伝子組換え実験」や、遺伝子を検出する方法である「PCR
+      実験」を実際に行いながら、遺伝子とは何か、遺伝子を使うとどんなことができるのかについて理解を深めます。
+  source: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 石黒澄衞
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 情報学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: イントロダクション'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/lecnote_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 遺伝子と DNA の基礎知識'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/lecnote_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: DNA の構造と DNA の複製'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/lecnote_05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 遺伝子組換え'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/experiment_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: DNA の抽出と PCR 法'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/experiment_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 関連資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/experiment_02_result.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 課題概要とレポート課題'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/study_report.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 身近にいるバイ菌たちを同定しよう'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/study_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 関連資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/study_01_ref.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 入っているのは何の肉？'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/study_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 関連資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/study_02_ref.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+- name: '講義ノート: 親子鑑定って何だろう'
+  contentUrl: https://ocw.nagoya-u.jp/files/264/study_03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0264-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%81%BA%E4%BC%9D%E5%AD%90%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E4%BD%95%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%9F%E4%BD%95%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%9F-2011/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部、情報文化学部（自然）、理学部、農学部、工学部（I、III、IV、V系）1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

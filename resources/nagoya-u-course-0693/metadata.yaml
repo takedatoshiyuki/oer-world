@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0693
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0693-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018-2020/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語（コミュニケーション）
+description:
+  ja: 原則として英語で進む授業で、毎週の授業では複数の学生が discussion leaders を担当し、指定された話題についてクラス内の討論を進める。授業は予定に沿って進み、議論を通じたコミュニケーションを扱う。
+quotedDescription:
+  text:
+    ja: As a rule, the language of instruction is English. Each week, several students will serve as discussion
+      leaders to facilitate in-class discussions on a particular topic, following the schedule.
+  source: https://ocw.nagoya-u.jp/courses/0693-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018-2020/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 三輪晃司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 英語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

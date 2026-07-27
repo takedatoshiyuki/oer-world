@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0150
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0150-%E7%94%9F%E7%89%A9%E5%9C%8F%E7%92%B0%E5%A2%83%E5%AD%A61-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物圏環境学1
+description:
+  ja: 生物圏における水・エネルギー循環を軸に、地球環境と生物圏の相互作用を扱う講義資料である。植物がこれらの循環に及ぼす影響や、水・エネルギー循環と物質循環の関係にも触れる。
+quotedDescription:
+  text:
+    ja: '生物圏（あるいは植生圏）における水・エネルギー循環の実態を理解し，植物がこれらの諸循環にどの様に影響しているかを考える．
+
+      生物圏は周辺環境から一方的に影響を受けているだけでなく，生物圏の存在が周辺環境へも影響を与え，現在の生物圏が形成されていると考えられる．本講義では，生物圏が存在する地球の概要をまず理解し，水・エネルギー循環の視点から生物圏と環境の相互作用を学ぶ．特に，本講義では水・エネルギー循環の物理的特徴のみでなく，そこに働く生物圏の生理的・生態的影響の理解が深まることを目指す．なお，水・エネルギー循環は炭素などの物質循環とも密接に関連している現象であり，物質循環を理解する生物圏環境学２の基礎ともなる．'
+  source: https://ocw.nagoya-u.jp/courses/0150-%E7%94%9F%E7%89%A9%E5%9C%8F%E7%92%B0%E5%A2%83%E5%AD%A61-2011/
+  note: 名大の授業 (NU OCW) 「講義の概要」・「講義の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 太田岳史 教授, 小谷亜由美
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 環境学
+- 生物
+- 農学
+- 植物
+- 生物圏
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/150/lect.pdf
+  page: https://ocw.nagoya-u.jp/courses/0150-%E7%94%9F%E7%89%A9%E5%9C%8F%E7%92%B0%E5%A2%83%E5%AD%A61-2011/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 後期
+  targetAudience: 農学部 2年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

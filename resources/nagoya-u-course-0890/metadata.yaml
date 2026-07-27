@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0890
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0890-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E2%85%B0-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 民事訴訟法Ⅰ
+description:
+  ja: 民事訴訟法を扱う講義で、判決手続きの流れや既判力に関する資料が公開されている。レジュメのほか、流れを示すフローチャートや図が含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 村上 正子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 判決手続きの流れ
+  contentUrl: https://ocw.nagoya-u.jp/files/890/%E5%88%A4%E6%B1%BA%E6%89%8B%E7%B6%9A%E3%81%AE%E6%B5%81%E3%82%8C.pdf
+  page: https://ocw.nagoya-u.jp/courses/0890-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E2%85%B0-2023/
+- name: 第 28 回・第 29 回レジュメ
+  contentUrl: https://ocw.nagoya-u.jp/files/890/%E7%AC%AC28%E5%9B%9E%E3%83%BB%E7%AC%AC29%E5%9B%9E%E3%83%AC%E3%82%B8%E3%83%A5%E3%83%A1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0890-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E2%85%B0-2023/
+- name: 既判力フローチャート
+  contentUrl: https://ocw.nagoya-u.jp/files/890/%E6%97%A2%E5%88%A4%E5%8A%9B%E3%83%95%E3%83%AD%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88.pdf
+  page: https://ocw.nagoya-u.jp/courses/0890-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E2%85%B0-2023/
+- name: 既判力の主観的範囲（図）
+  contentUrl: https://ocw.nagoya-u.jp/files/890/%E6%97%A2%E5%88%A4%E5%8A%9B%E3%81%AE%E4%B8%BB%E8%A6%B3%E7%9A%84%E7%AF%84%E5%9B%B2%EF%BC%88%E5%9B%B3%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0890-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E2%85%B0-2023/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 春学期
+  targetAudience: 法科大学院既修１年・未修２年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 本講義では、民事訴訟を規律する法律である民事訴訟法の内容を、訴えの提起から判決が下されるまでの第一審手続を中心に、訴訟手続の流れにそって説明する。本講義は，民事訴訟法に関する知識を断片的に提供するのではなく，体系的に整理された基礎理論と個別の論点を、手続全体の流れとの関係で受講者全員が理解することを目的とする。
+      単に現時点における実務処理や教科書の抽象的な記述を暗記するだけではなく、当事者間の衡平、裁判の適正・迅速という民事訴訟の理念を実現するために考慮されるべき要素と、それぞれのバランスをどうとるべきかについて、自分なりに利益衡量できるようになること、さらには実務における法形成ができるようになるための準備段階として、基礎理論の理解を深めることを目指す。
+      なお、本講義においては、「法科大学院における共通的な到達目標」を踏まえつつ、具体的な講義内容を設定している。
+  source: https://ocw.nagoya-u.jp/courses/0890-%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95%E2%85%B0-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

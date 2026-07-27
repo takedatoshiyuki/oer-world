@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0975
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0975-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A4%8E%EF%BD%89-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地球科学基礎Ｉ
+description:
+  ja: 名古屋大学の教養教育院が2024年春学期に開講する、学部1年生向けの理学部対象講義である。地球科学基礎Ｉという科目名で、渡邊 誠一郎教授と中川 書子が担当する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 渡邊 誠一郎 教授，中川 書子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 地球科学
+- 化学
+- 生物
+- 地球
+- 太陽系
+- 宇宙大気
+- 海洋
+- 固体地球
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 春学期（理学部向け）
+  targetAudience: 学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

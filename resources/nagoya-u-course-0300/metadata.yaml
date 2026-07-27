@@ -1,0 +1,108 @@
+slug: nagoya-u-course-0300
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: オートマトン・形式言語特論
+description:
+  ja: この教材は、木言語上のオートマトンを中心に、形式言語と論理の関係を扱う。講義ノートではNFTAやDFTA、反復補題、閉包性、Myhill-Nerode定理、正規木文法、木正規表現、WSkS、線形時間命題論理などを学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: オートマトン理論は情報科学の土台ともいえ、コンパイラへの応用やモデル検査アルゴリズムへの応用など、情報処理全般の理論的基礎となっている。本講義では、木言語上のオートマトンを学び、論理との関係や応用について論ずる。
+  source: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 酒井正彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- ict
+keywords:
+- 情報学
+- 情報科学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '課題: レポート 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/report1_slide1_p10_Q1,2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '課題: レポート 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/report2_slide2_p2_Q1,p6_Q2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '課題: レポート 3'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/report3slide5_p3_Q5-1,p9_Q5-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: 準備、NFTA'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: NFTA と DFTA の等価性、反復補題'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: 閉包性'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: Myhill-Nerode 定理'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: 正規木文法、木正規表現 I'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: 木正規表現 II'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: 関係と NFTA'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: WSkS:弱 2 階単項論理'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: 線形時間命題論理'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: AWEDC:等値制約つき NFTA'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: AWCBB:兄弟間の等値制約つき NFTA、リダクションオートマトン'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: 木変換'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide12,13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+- name: '講義ノート: ヘッジオートマトン'
+  contentUrl: https://ocw.nagoya-u.jp/files/300/new_slide14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0300-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%88%E3%83%B3%E3%83%BB%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E%E7%89%B9%E8%AB%96-2014/
+extensions:
+  faculty: 情報科学研究科
+  term: 前期
+  targetAudience: 情報科学研究科・計算機数理科学専攻 前期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

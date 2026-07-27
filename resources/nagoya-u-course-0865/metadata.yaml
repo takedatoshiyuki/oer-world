@@ -1,0 +1,52 @@
+slug: nagoya-u-course-0865
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0865-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%AE%9F%E9%A8%93-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物学実験
+description:
+  ja: 名古屋大学の教養教育院が2021年度に春学期向けに開講した、生物学実験の講義である。対象は理系学部1年生で、担当は高橋宏和である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 高橋 宏和
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 生物
+- 動植物
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 理系学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

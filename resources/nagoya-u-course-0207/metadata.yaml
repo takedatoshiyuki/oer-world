@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0207
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0207-%E4%BF%A1%E5%8F%B7%E4%BC%9D%E9%80%81%E6%A4%9C%E5%87%BA%E7%90%86%E8%AB%96%E7%89%B9%E8%AB%96-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: 信号伝送検出理論特論
+description:
+  ja: この教材は、センサネットワークを題材に、複数のセンサデバイスを情報通信ネットワークで結ぶ考え方を扱う。あわせて、環境計測やセキュリティ、知的空間の構築、大災害時の救助活動、娯楽などの応用分野に触れる。従来のネットワークとの違いにも言及している。
+quotedDescription:
+  text:
+    ja: センサネットワークは，多くのセンサデバイスを情報通信ネットワークで結ぶことでセンシングの高度化を図る目的をもつが，単にセンシングの高度化をもたらすばかりでなく，今後の情報通信分野に新しい概念を与え，基盤技術となる可能性を秘めている．それと同時に，環境計測，セキュリティ，知的空間の構築，大災害時の救助活動，娯楽など多様な応用分野が予想される．センサネットワークが従来のネットワークと異なる点は，その構
+  source: https://ocw.nagoya-u.jp/courses/0207-%E4%BF%A1%E5%8F%B7%E4%BC%9D%E9%80%81%E6%A4%9C%E5%87%BA%E7%90%86%E8%AB%96%E7%89%B9%E8%AB%96-2012/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山里敬也
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 応用分野
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/207/ocw_yamazato.pdf
+  page: https://ocw.nagoya-u.jp/courses/0207-%E4%BF%A1%E5%8F%B7%E4%BC%9D%E9%80%81%E6%A4%9C%E5%87%BA%E7%90%86%E8%AB%96%E7%89%B9%E8%AB%96-2012/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学研究科電子情報システム専攻　博士前期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

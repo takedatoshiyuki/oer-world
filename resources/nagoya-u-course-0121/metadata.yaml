@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0121
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0121-A.-%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E7%89%A9%E7%90%86%E3%81%A8%E7%A0%94%E7%A9%B6%E6%9C%80%E5%89%8D%E7%B7%9A-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: A.-電子ブロックで体験する物理と研究最前線
+description:
+  ja: 名古屋大学が高校生向けに公開した2008年の講座教材で、担当は水津光司である。公開資料は「実験概要」「実験を始める前に」「実験の流れ」の3件からなり、実験の内容と進め方に関する構成になっている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 水津光司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 物理
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 実験概要
+  contentUrl: https://ocw.nagoya-u.jp/files/121/A1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0121-A.-%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E7%89%A9%E7%90%86%E3%81%A8%E7%A0%94%E7%A9%B6%E6%9C%80%E5%89%8D%E7%B7%9A-2008/
+- name: 実験を始める前に
+  contentUrl: https://ocw.nagoya-u.jp/files/121/A2new.pdf
+  page: https://ocw.nagoya-u.jp/courses/0121-A.-%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E7%89%A9%E7%90%86%E3%81%A8%E7%A0%94%E7%A9%B6%E6%9C%80%E5%89%8D%E7%B7%9A-2008/
+- name: 実験の流れ
+  contentUrl: https://ocw.nagoya-u.jp/files/121/A3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0121-A.-%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E7%89%A9%E7%90%86%E3%81%A8%E7%A0%94%E7%A9%B6%E6%9C%80%E5%89%8D%E7%B7%9A-2008/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 公開講座
+  targetAudience: 高校生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

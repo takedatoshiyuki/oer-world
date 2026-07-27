@@ -1,0 +1,98 @@
+slug: nagoya-u-course-0491
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: Multi-Ethnic-Society-多民族社会論
+description:
+  ja: 民族、民族主義、国民国家形成、多数派・少数派関係など、民族に関わる概念と論点を扱う講義である。講義ノートには、国籍と市民権、マスメディア、言語、先住民族と開発、事例研究などの項目が含まれる。
+quotedDescription:
+  text:
+    ja: This course will deal with ethnicity-related issues. Starting from key concepts (ethnicity, nationalism,
+      etc.), it will cover various topics and cases of nation-state building and majority-minority relations
+      mainly from a sociological viewpoint. Students may be requested to make presentations on case studies
+      depending on their research interests.
+  source: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 東村岳史
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 国際
+- 社会科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: Comparing concepts: ethnic group, nation, race, etc.'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/note2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Modern nation-state building (1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Modern nation-state building (2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Pluralism (1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Pluralism (2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Nationality and citizenship'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Ethnic groups in mass media'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes9_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: National integration and languages'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes10_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Indigenous peoples, states and development (1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes11_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Indigenous peoples, states and development (2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes12_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Case study (1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/notes13_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+- name: '講義ノート: Case study (2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/491/s_notes14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0491-Multi-Ethnic-Society-%E5%A4%9A%E6%B0%91%E6%97%8F%E7%A4%BE%E4%BC%9A%E8%AB%96-2014/
+extensions:
+  faculty: 国際開発研究科
+  term: 前期
+  targetAudience: 国際協力専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

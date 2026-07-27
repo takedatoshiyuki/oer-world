@@ -1,0 +1,72 @@
+slug: nagoya-u-course-0290
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0290-%E6%9B%B8%E3%81%8F%E3%80%81%E3%81%AE%E3%81%AF%E3%81%84%E3%81%84%E3%81%8C%E3%80%81%E3%82%A4%E3%83%83%E3%82%BF%E3%82%A4%E4%BD%95%E3%81%AE%E3%81%9F%E3%82%81%EF%BC%9F%E2%80%94%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%87%E7%AB%A0%E6%95%99%E5%AE%A4-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 書く、のはいいが、イッタイ何のため？
+description:
+  ja: 名古屋大学で2010年に行われた特別講義の教材で、附属高校1・2年生を対象にしたものだ。公開されている資料は、高校生の取り組みの様子を示す講義ノートと、文章を書くことの目的を扱う講義ノートの2件である。出典サイトには、生徒アンケートの問いとして中津川プロジェクトで印象に残ったことや、教科を超えた学問との連携体験に関する項目がある。
+quotedDescription:
+  text:
+    ja: '生徒アンケートより
+
+      中津川プロジェクトに参加して最も印象に残ったことは何でしたか?
+
+      「教科を超えて学問に触れる・社会や大学の学問と連携する」を体験できたとあなたが思う企画は何でしたか?
+
+      学習成果'
+  source: https://ocw.nagoya-u.jp/courses/0290-%E6%9B%B8%E3%81%8F%E3%80%81%E3%81%AE%E3%81%AF%E3%81%84%E3%81%84%E3%81%8C%E3%80%81%E3%82%A4%E3%83%83%E3%82%BF%E3%82%A4%E4%BD%95%E3%81%AE%E3%81%9F%E3%82%81%EF%BC%9F%E2%80%94%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%87%E7%AB%A0%E6%95%99%E5%AE%A4-2010/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 戸田山和久
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 教育学
+- 中津川プロジェクト
+- 国語教育
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 高校生の取り組みの様子'
+  contentUrl: https://ocw.nagoya-u.jp/files/290/kikaku5_kokosei.pdf
+  page: https://ocw.nagoya-u.jp/courses/0290-%E6%9B%B8%E3%81%8F%E3%80%81%E3%81%AE%E3%81%AF%E3%81%84%E3%81%84%E3%81%8C%E3%80%81%E3%82%A4%E3%83%83%E3%82%BF%E3%82%A4%E4%BD%95%E3%81%AE%E3%81%9F%E3%82%81%EF%BC%9F%E2%80%94%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%87%E7%AB%A0%E6%95%99%E5%AE%A4-2010/
+- name: '講義ノート: 書く、のはいいが、イッタイ何のため？—サバイバルのための文章教室'
+  contentUrl: https://ocw.nagoya-u.jp/files/290/kikaku5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0290-%E6%9B%B8%E3%81%8F%E3%80%81%E3%81%AE%E3%81%AF%E3%81%84%E3%81%84%E3%81%8C%E3%80%81%E3%82%A4%E3%83%83%E3%82%BF%E3%82%A4%E4%BD%95%E3%81%AE%E3%81%9F%E3%82%81%EF%BC%9F%E2%80%94%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%87%E7%AB%A0%E6%95%99%E5%AE%A4-2010/
+extensions:
+  faculty: 教育学部附属中・高等学校
+  term: 特別講義
+  targetAudience: 附属高校1・2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

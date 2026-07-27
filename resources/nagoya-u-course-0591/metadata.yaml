@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0591
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0591-%E8%A5%BF%E6%B4%8B%E6%B3%95%E5%88%B6%E5%8F%B2-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 西洋法制史
+description:
+  ja: 中世以降のフランスを中心に、法制度の変化だけでなく、法を取り巻く社会や担い手の動きも含めて法の歴史をたどる講義である。神判や魔女裁判、アンシャン・レジームの法制度、刑法改革、フランス革命期の近代刑法典の成立までを扱い、具体例や一次文献にも触れる。
+quotedDescription:
+  text:
+    ja: 'この講義では、中世以降のフランスを中心とした法の歴史を、単に法制度だけでな く、法を取り巻く社会や広い意味での法の担い手たちの動向にも留意しながら、近代 法の形成されるナポレオン期までを取り扱うことにする。
+
+      具体的には、イントロダクションのあと、中世ヨーロッパの神判や近世の魔女裁判について法社会史的な講義をし、時代のコンテクストの中で考えることの重要性を理解してもらうようにする。つぎに、アンシャン・レジームの法制度について概観し、いわゆる啓蒙時代の刑法改革の動きを
+      18 世紀後半の冤罪事件と刑法改革思想、そして当時の法学者たちの反応について説明して、フランス革命期の近代刑法典の成立までを跡付け、最後に、革命をはさんで法制度や法曹や法学教育がどのように変化するのかを考察し、近代法の歴史的な意味を検討する。
+
+      講義に際しては，具体的な事件や図像など示し、また一次文献に実際に接してもらうことによって、生き生きとした法の歴史を描き出すようにしたい。こうして、法を歴史的に奥行きのある視点で考察することが、今日の法制度の正確な理解と評価につながり、ひいては、批判的な検討も可能になるだろう。
+
+      法をその時代の歴史的な文脈の中で考察することにより、過去の法がどのようなもので、社会のなかでどのような機能を果たしていたのかを理解する。こうして、単純な進歩史観から脱し、と同時に、近代法の正当な歴史的な意義を見失うことなく、評価・検討できる歴史的なセンスを獲得する。法の歩みにおける法律家たちの社会的な役割についても理解を深め、法の歴史におけるユマニテの重要性にも注意を向けるようにする。'
+  source: https://ocw.nagoya-u.jp/courses/0591-%E8%A5%BF%E6%B4%8B%E6%B3%95%E5%88%B6%E5%8F%B2-2016/
+  note: 名大の授業 (NU OCW) 「授業の概要」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 石井三記
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+- 国際
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第六章イギリスの国制について
+  contentUrl: https://ocw.nagoya-u.jp/files/591/2017023516.pdf
+  page: https://ocw.nagoya-u.jp/courses/0591-%E8%A5%BF%E6%B4%8B%E6%B3%95%E5%88%B6%E5%8F%B2-2016/
+- name: モンテスキュー
+  contentUrl: https://ocw.nagoya-u.jp/files/591/143525.pdf
+  page: https://ocw.nagoya-u.jp/courses/0591-%E8%A5%BF%E6%B4%8B%E6%B3%95%E5%88%B6%E5%8F%B2-2016/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 後期
+  targetAudience: 全学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

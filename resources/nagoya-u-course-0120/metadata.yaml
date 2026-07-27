@@ -1,0 +1,72 @@
+slug: nagoya-u-course-0120
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0120-%E9%81%BA%E4%BC%9D%E3%81%A8%E9%81%BA%E4%BC%9D%E5%AD%90-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 遺伝と遺伝子
+description:
+  ja: 遺伝とは何か、遺伝子とは何かを出発点に、遺伝子発現の制御とその異常として起こる遺伝病を扱う講義である。あわせて、遺伝子配列の違いが疾患へのなりやすさなどの多様性を生む仕組みも学ぶ。公開教材として、神経遺伝情報学とゲノムマップの講義ノートがある。
+quotedDescription:
+  text:
+    ja: '誰しも一度は心に浮かぶ「私とは何か?」、「私はどこから来たのか？」という疑問は、ギリシャ・ローマの時代から提起されている、人間にとってもっとも根源的・普遍的な疑問です。私たちの学ぶ医学は、病気を対象とする科学であると共に、この「私とは何か？」という疑問を物質的な基盤から追及してきた学問でもあります。
+
+      この講義では、生物の化学で学んだ私たちの体を構成する物質についての知識を元に、私たちの遺伝とは何か、遺伝子とは何か、その発現は如何に制御されているか、そしてその異常としての遺伝病はいかにして起きるかを学びます。
+
+      2003 年のヒトゲノムプロジェクトの完了とともに私たちの体を構成する遺伝子暗号が同定されました。しかし、DNA 配列の多くは暗号のままであり、どのゲノム領域がどのような制御を受けてどのタイミングでどのような細胞に発現をし、どのような機能を担うかの全貌はまだ明らかになっていません。「遺伝と遺伝子」の講義では、現在も解明されつつあるこの制御機構を学ぶとともにその異常による疾患についても学びます。さらに、遺伝子配列の違いが疾患へのなりやすさなど人の多様性を産む機構についても学びます。'
+  source: https://ocw.nagoya-u.jp/courses/0120-%E9%81%BA%E4%BC%9D%E3%81%A8%E9%81%BA%E4%BC%9D%E5%AD%90-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 大野欽司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 細胞生物学
+- タンパク質
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 神経遺伝情報学（大野欽司）'
+  contentUrl: https://ocw.nagoya-u.jp/files/120/iden_lectnote_re.pdf
+  page: https://ocw.nagoya-u.jp/courses/0120-%E9%81%BA%E4%BC%9D%E3%81%A8%E9%81%BA%E4%BC%9D%E5%AD%90-2011/
+- name: '講義ノート: ゲノムマップ（京都大学大学院生命科学研究科生命文化学研究室制作）'
+  contentUrl: https://ocw.nagoya-u.jp/files/120/genomemap.pdf
+  page: https://ocw.nagoya-u.jp/courses/0120-%E9%81%BA%E4%BC%9D%E3%81%A8%E9%81%BA%E4%BC%9D%E5%AD%90-2011/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 後期
+  targetAudience: 医学部医学科2年生、3年次編入生生物の化
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

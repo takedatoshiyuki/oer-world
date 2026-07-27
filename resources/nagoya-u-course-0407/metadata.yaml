@@ -1,0 +1,81 @@
+slug: nagoya-u-course-0407
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0407-%E7%B4%B0%E8%83%9E%E5%AD%A6II-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 細胞学II
+description:
+  ja: 前半では、脳や神経系の研究で用いられる小規模モデル生物を起点に、感覚受容の細胞基盤や神経回路の働きを扱う。後半では、細菌と植物の細胞壁を取り上げ、その構造、生合成、成分の生理活性、成長に伴う構造変化を扱う。
+quotedDescription:
+  text:
+    ja: '前半
+
+      脳や神経系の研究を支える小規模モデル生物
+
+      感覚受容の細胞基盤
+
+      感覚情報処理を担う脳の神経回路
+
+      行動を制御する神経回路
+
+      後半
+
+      細菌細胞壁
+
+      細胞壁成分の生理活性
+
+      植物細胞壁の構造と生合成
+
+      植物細胞の成長に伴う細胞壁の構造変化'
+  source: https://ocw.nagoya-u.jp/courses/0407-%E7%B4%B0%E8%83%9E%E5%AD%A6II-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 上川内あづさ
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 情報学
+- 生物
+- 細胞
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート(抜粋)
+  contentUrl: https://ocw.nagoya-u.jp/files/407/Kamikouchi_Handout.pdf
+  page: https://ocw.nagoya-u.jp/courses/0407-%E7%B4%B0%E8%83%9E%E5%AD%A6II-2013/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学部生命理学科3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,149 @@
+slug: nagoya-u-course-0109
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 固体電子工学
+description:
+  ja: 固体中の電子の挙動と、固体の電気電子物性を扱う講義である。公開教材には課題の問題・解答に加え、原子軌道と分子軌道の計算を扱う資料が含まれる。
+quotedDescription:
+  text:
+    ja: 電気電子材料の基礎である固体中の電子の挙動ならびに固体の電気電子物性について学ぶ。
+  source: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中里和郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- engineering
+keywords:
+- 工学
+- 物性物理学
+- 半導体
+- 材料工学
+- 授業の目的とねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/exercises.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/exercises_answers.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/Maxima_exercises.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 原子軌道と分子軌道を計算してみよう'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/orbital.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2005sem_exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2006mid_exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2006mid_exam_ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2006sem_exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2006sem_exam_ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2007mid_exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2007mid_exam_ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2007sem_exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2007sem_exam_ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2008mid_exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2008mid_exam_ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2008sem_exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/2008sem_exam_ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: イントロダクション'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 原子軌道と分子軌道'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 固体における化学結合'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 結晶構造'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 結晶構造と対称性'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 逆格子と回折'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 自由電子モデル'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 格子振動'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 固体中の電子'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 半導体'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 電子の運動と輸送現象'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+- name: '課題: 磁場の中の電子'
+  contentUrl: https://ocw.nagoya-u.jp/files/109/lecnote_12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0109-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6-2011/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学部電気電子・情報工学科電気電子工学コース3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

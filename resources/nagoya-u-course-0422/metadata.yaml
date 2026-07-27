@@ -1,0 +1,102 @@
+slug: nagoya-u-course-0422
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: パワーエレクトロニクス
+description:
+  ja: 名古屋大学の工学部／工学研究科で2013年度後期に開講された、工学部電気電子工学コース向けの講義資料である。公開されている講義ノートでは、整流回路や平滑回路、降圧・昇圧・昇降圧チョッパ回路、DCモータ駆動、ブレーキ回路、ハーフブリッジ／フルブリッジインバータなどを扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 古橋武
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 電子回路工学
+- 授業の目標
+- 達成目標
+- 直流・交流モータの制御原理を理解する。
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 準備'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 準備(つづき)'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 整流回路'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 平滑回路'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/s_furuhashi04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 降圧チョッパ回路'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 降圧チョッパ回路(平滑回路)'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 昇圧,昇降圧チョッパ回路'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: オペアンプ'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/s_furuhashi08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: チョッパによる DC モータ駆動'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/s_furuhashi09-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: ブレーキのかけられる回路'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: ハーフブリッジインバータ'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: フルブリッジインバータ'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: フルブリッジインバータ(つづき)'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 3 相 PWM インバータ'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+- name: '講義ノート: 3 相 PWM インバータ(つづき)'
+  contentUrl: https://ocw.nagoya-u.jp/files/422/furuhashi15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0422-%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9-2013/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 後期
+  targetAudience: 工学部 電気電子工学コース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

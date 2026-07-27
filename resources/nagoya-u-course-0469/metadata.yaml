@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0469
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0469-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCI-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: フィールドセミナーI
+description:
+  ja: 地球惑星科学の講義で得た知識を、野外での観察を通して確かめる実習である。岩石や地層に含まれる情報を読み取り、自然の多様さや地球の歴史を観察から考える内容を扱う。
+quotedDescription:
+  text:
+    ja: 'フィールドセミナー Ⅰ は、講義で得た地球惑星科学に関する知識について、野外で実際に観察し、理解を深める実習です。授業では岩石はシンプルに数種類に分類されることを教わりますが、野外で実際に観察すると、同じ種類の岩石でも多様な特徴があり、自然界の多様性を認識します。
+
+      地球が数万年、数億年とかけて営んできた歴史は、これらの岩石や地層に様々な情報として刻まれています。その情報をできるだけ多く読み取ることが、地球の理解へとつながります。この実習では、講義で得た知識の理解を深めるとともに、野外における観察力を身につける授業です。'
+  source: https://ocw.nagoya-u.jp/courses/0469-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCI-2014/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 竹内誠
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 岩石
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 木曽川河畔鵜沼セクション'
+  contentUrl: https://ocw.nagoya-u.jp/files/469/field.pdf
+  page: https://ocw.nagoya-u.jp/courses/0469-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCI-2014/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 集中講義
+  targetAudience: 理学部地球惑星科学科2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

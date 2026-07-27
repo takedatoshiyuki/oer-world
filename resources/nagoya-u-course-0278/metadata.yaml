@@ -1,0 +1,60 @@
+slug: nagoya-u-course-0278
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0278-%E6%94%BE%E5%B0%84%E7%B7%9A%E8%A8%88%E6%B8%AC%E5%AD%A6-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 放射線計測学
+description:
+  ja: 放射線計測の基礎を扱い、放射線検出器の物理と測定原理の理解に重点を置く講義である。さらに、各種放射線の測定に対して適切な測定システムを選定する力を養うことを目指す。
+quotedDescription:
+  text:
+    ja: 放射線計測の基礎的事項、特に放射線検出器の物理と測定原理の理解を目的とする。最終的に、各放射線の測定に対して、適切な測定システムを選定できる能力を培う。
+  source: https://ocw.nagoya-u.jp/courses/0278-%E6%94%BE%E5%B0%84%E7%B7%9A%E8%A8%88%E6%B8%AC%E5%AD%A6-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 井口哲夫
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 基礎物理
+- 放射線
+- 本講義の目的とねらい
+- 達成目標
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 工学部／工学研究科
+  term: 春学期
+  targetAudience: 工学部量子エネルギー工学コースおよび応用物理学コース3、4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,77 @@
+slug: nagoya-u-course-0832
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: インフォマティクス3
+description:
+  ja: 名古屋大学の情報学部／情報学研究科が2021年度に秋学期開講した、日本語で行う情報学部1年生向けの講義である。公開教材として、マルチメディアシステム、人工知能、ユーザインタフェース、画像処理、自然言語処理、機械学習の6件を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- インフォマティクス
+- 情報処理技術
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: マルチメディアシステム
+  contentUrl: https://ocw.nagoya-u.jp/files/832/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+- name: 人工知能
+  contentUrl: https://ocw.nagoya-u.jp/files/832/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+- name: ユーザインタフェース
+  contentUrl: https://ocw.nagoya-u.jp/files/832/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+- name: 画像処理
+  contentUrl: https://ocw.nagoya-u.jp/files/832/slide6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+- name: 自然言語処理
+  contentUrl: https://ocw.nagoya-u.jp/files/832/slide7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+- name: 機械学習
+  contentUrl: https://ocw.nagoya-u.jp/files/832/slide8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 秋学期
+  targetAudience: 情報学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '高度な知能システムを実現するために必要となるさまざまな情報処理技術について俯瞰的に学びます。
+
+      この講義により、知能システム及びそれを構成する要素技術の基礎について理解するとともに、専門科目でそれらの理論と応用について学んでいくためのきっかけとします。'
+  source: https://ocw.nagoya-u.jp/courses/0832-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B93-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

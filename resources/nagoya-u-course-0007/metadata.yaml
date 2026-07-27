@@ -1,0 +1,76 @@
+slug: nagoya-u-course-0007
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0007-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-2005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナー図書館情報リテラシー：図書館と情報を使いこなす
+description:
+  ja: 図書館情報学の立場から、文献や情報を探す方法、図書館の使い方、情報のまとめ方と発表のしかたを扱う講義である。公開教材には、講義ノートのほか、プレゼンテーション課題の例が含まれる。
+quotedDescription:
+  text:
+    ja: 大学生となって、身につけるべき情報リテラシーには多くのものがあります。名古屋大学では「情報リテラシー」という科目を文系・理系それぞれに開講しています。この基礎セミナー A では数ある情報リテラシーの中でも、図書館情報学のアプローチから文献と情報の探索、図書館の利用方法、情報のまとめ方とプレゼンテーションに重点をおきます。また少人数かつ文理融合という特性を存分に生かした内容とします。
+  source: https://ocw.nagoya-u.jp/courses/0007-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-2005/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 逸村裕
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 情報学
+- 情報リテラシー
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: プレゼンテーション課題の例 1
+  contentUrl: https://ocw.nagoya-u.jp/files/7/achievement01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0007-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-2005/
+- name: プレゼンテーション課題の例 2
+  contentUrl: https://ocw.nagoya-u.jp/files/7/achievement02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0007-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-2005/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/7/note_1-4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0007-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-2005/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/7/note_5-8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0007-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-2005/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/7/note_9-.pdf
+  page: https://ocw.nagoya-u.jp/courses/0007-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99-2005/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部情報文化学部 (自然)理学部工学部 (I、IV、V、III系)農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

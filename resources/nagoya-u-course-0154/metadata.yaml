@@ -1,0 +1,57 @@
+slug: nagoya-u-course-0154
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0154-%E6%B5%B7%E5%A4%96%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 海外実地研修
+description:
+  ja: 名古屋大学の農学部／生命農学研究科で2011年に開講された集中講義で、農学部資源生物科学科の3・4年生を対象とする。公開教材として、参考資料「名大トピックス No.190 p.21」が付いている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 前多敬一郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- agriculture
+keywords:
+- 農学
+- 農業技術
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: 名大トピックス No.190p.21'
+  contentUrl: https://ocw.nagoya-u.jp/files/154/no190.pdf
+  page: https://ocw.nagoya-u.jp/courses/0154-%E6%B5%B7%E5%A4%96%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 集中講義
+  targetAudience: 農学部 資源生物科学科3・4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

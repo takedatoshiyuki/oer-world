@@ -1,0 +1,73 @@
+slug: nagoya-u-course-0997
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0997-%E5%8C%96%E5%AD%A6%E7%94%9F%E5%91%BD%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 化学生命工学序論
+description:
+  ja: 名古屋大学の工学部／工学研究科で、工学部1年生向けに春学期に開講される「化学生命工学序論」の教材である。公開教材は「MOF（有機金属構造体）」で、このテーマに関する内容を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松田 亮太郎　教授　ほか
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 化学
+- 有機化学
+- 無機化学
+- 生化学
+- 高分子化学
+- 物理化学
+- 分析化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: MOF（有機金属構造体）
+  contentUrl: https://ocw.nagoya-u.jp/files/997/slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0997-%E5%8C%96%E5%AD%A6%E7%94%9F%E5%91%BD%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2025/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 春学期
+  targetAudience: 工学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '本授業では、化学生命工学に関連する有機・高分子、応用物質化学および生命分子工学分野について現在進められている研究や産業の発展について俯瞰的に学ぶことを目的とする。
+
+      本講義の受講により
+
+      現在の化学生命工学についての新しい知識が身につく。
+
+      化学や生化学分野における課題や企業における研究者の役割などについて理解できる。'
+  source: https://ocw.nagoya-u.jp/courses/0997-%E5%8C%96%E5%AD%A6%E7%94%9F%E5%91%BD%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

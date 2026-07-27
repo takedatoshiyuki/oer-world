@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0203
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0203-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%A8%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: ウイルス感染症と現代社会
+description:
+  ja: 細菌性伝染病の制圧に至る歴史を踏まえつつ、ウイルスによる疾病の制御を扱う教材である。人類が微生物の存在を知るようになった経緯から、痘瘡、黄熱病、麻疹、ポリオなどの病気までを取り上げる内容になっている。
+quotedDescription:
+  text:
+    ja: 人類は様々な疫病に苦しめられてきたが、その原因が目に見えない微生物によるものであることを知ったのはたかだか130年程前のことである。炭疽菌に始まり、結核菌、コレラ菌、ペスト菌など重要な病原細菌が次々と発見され、消毒概念の確立、さらには化学療法剤、抗生物質が開発されて細菌性伝染病の制圧には大きな成功を収めてきた。一方、ウイルスによって起こる疾病（痘瘡、黄熱病、麻疹、ポリオなど）の制御は専らワクチンに
+  source: https://ocw.nagoya-u.jp/courses/0203-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%A8%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 西山幸廣
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 生物
+- 抗生物質
+- ウイルス
+- 人類
+- 講義内容
+- 講義資料
+- ウイルス感染症と現代社会
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: ウイルス感染症と現代社会
+  contentUrl: https://ocw.nagoya-u.jp/files/203/nishiyama.pdf
+  page: https://ocw.nagoya-u.jp/courses/0203-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%A8%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0490
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0490-%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%BBB%E9%A1%9E%EF%BC%BD-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: アジアコミュニケーション[B類]
+description:
+  ja: アジア諸国におけるマス・コミュニケーション史を軸に、報道と政治体制・経済・開発との関係を扱う講義である。ナショナリズムやメディアとイデオロギー、プロパガンダ、開発コミュニケーション論、文化帝国主義などの事例と理論を、講義、文献輪読、ディスカッションを通じて学ぶ。あわせて、論文構成や研究の進め方、研究計画書を論文へ発展させる方法も取り上げる。
+quotedDescription:
+  text:
+    ja: '本講義のテーマは、アジアにおけるマス・コミュニケーション史である。前期『アジアのメディア』の授業内容を踏まえ、本講義では、アジア諸国におけるマス・コミュニケーションを通じた報道が、いかに国内の政治体制や経済水準および開発状況によって影響を受けてきたか、そうした中でメディアはいかなる役割を果たしてきたのか、また、そうした中でマス・コミュニケーションがメディアや政治に与える影響はいかなるものであったのかに関する知識、視座、分析手法およびそれらを研究でいかに使うのかに関して学ぶ。
+
+      以上のねらいのもと、本講義を受講した学生は、アジア諸国のメディア史やメディアの分析理論のみならず、アジア諸国の政治体制やその政治史を学ぶ。とりわけ、ナショナリズムと国民統合、メディアとイデオロギー、メディアとプロパガンダ、開発コミュニケーション論および文化帝国主義とその批判に関する事例、理論研究を取り上げる。授業では、これらを講義形式で論じるほか、古典を含む文献の輪読、さらには、受講生とのディスカッションを通じて理解を深める。さらに、論文の構成や研究の進め方の基本についても講義し、執筆した研究計画書をいかに論文へと発展させるかに関し、必要な知識や技術を習得する。また、取り上げるテーマに関しては、受講生の関心に応じて変化することもあり得る。'
+  source: https://ocw.nagoya-u.jp/courses/0490-%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%BBB%E9%A1%9E%EF%BC%BD-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 井原伸浩
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- slide
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 古典
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/490/slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0490-%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%BBB%E9%A1%9E%EF%BC%BD-2015/
+- name: 'スライド: レジュメ'
+  contentUrl: https://ocw.nagoya-u.jp/files/490/resume.pdf
+  page: https://ocw.nagoya-u.jp/courses/0490-%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%BBB%E9%A1%9E%EF%BC%BD-2015/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 後期
+  targetAudience: 国際言語文化研究科　メディアプロフェッショナルコース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

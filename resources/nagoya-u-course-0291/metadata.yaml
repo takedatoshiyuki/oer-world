@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0291
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0291-%E5%8C%BB%E5%B8%AB%E3%81%AF%E8%A8%BA%E5%AF%9F%E4%B8%AD%E3%81%AB%E4%BD%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%E3%80%8C%E5%8C%BB%E5%B8%AB%E3%82%A2%E3%82%BF%E3%83%9E%E3%82%92%E3%81%AE%E3%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%82%8B%E3%80%8D-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 医師は診察中に何をしているのか？「医師アタマをのぞいてみる」
+description:
+  ja: 医師が診察中に行う思考の流れを、患者との会話や身体診察で得た情報を手がかりにたどる内容である。診察で集めた情報をもとに、患者の問題をどう整理し解決へつなげるかを扱う。
+quotedDescription:
+  text:
+    ja: みなさん、医師はどんなことを「アタマの中」で考えて、患者さんを診察していると思いますか?目の前の患者さんにピッタリ当てはまる病名を探すための、特殊な推理能力でも持っているのでしょうか?残念ながら、医師は特殊な力を持っている訳ではありません。実は、患者さんとの会話や体の診察から得た情報を基に、科学の他の領域でも利用されているある思考法を用いて、患者さんの問題を解決するお手伝いをしているのです。
+  source: https://ocw.nagoya-u.jp/courses/0291-%E5%8C%BB%E5%B8%AB%E3%81%AF%E8%A8%BA%E5%AF%9F%E4%B8%AD%E3%81%AB%E4%BD%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%E3%80%8C%E5%8C%BB%E5%B8%AB%E3%82%A2%E3%82%BF%E3%83%9E%E3%82%92%E3%81%AE%E3%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%82%8B%E3%80%8D-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 安井浩樹 准教授, 青松棟吉
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 医学/薬学
+- 中津川プロジェクト
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 高校生の取り組みの様子'
+  contentUrl: https://ocw.nagoya-u.jp/files/291/kikaku4_kokosei.pdf
+  page: https://ocw.nagoya-u.jp/courses/0291-%E5%8C%BB%E5%B8%AB%E3%81%AF%E8%A8%BA%E5%AF%9F%E4%B8%AD%E3%81%AB%E4%BD%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%E3%80%8C%E5%8C%BB%E5%B8%AB%E3%82%A2%E3%82%BF%E3%83%9E%E3%82%92%E3%81%AE%E3%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%82%8B%E3%80%8D-2010/
+- name: '講義ノート: 医師は診察中に何をしているのか？「医師アタマをのぞいてみる」'
+  contentUrl: https://ocw.nagoya-u.jp/files/291/kikaku4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0291-%E5%8C%BB%E5%B8%AB%E3%81%AF%E8%A8%BA%E5%AF%9F%E4%B8%AD%E3%81%AB%E4%BD%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%E3%80%8C%E5%8C%BB%E5%B8%AB%E3%82%A2%E3%82%BF%E3%83%9E%E3%82%92%E3%81%AE%E3%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%82%8B%E3%80%8D-2010/
+extensions:
+  faculty: 教育学部附属中・高等学校
+  term: 特別講義
+  targetAudience: 附属高校1・2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

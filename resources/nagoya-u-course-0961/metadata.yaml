@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0961
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0961-%E9%83%BD%E5%B8%82%E3%81%A8%E6%96%87%E6%98%8E%E3%81%AE%E6%AD%B4%E5%8F%B2-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: 都市と文明の歴史
+description:
+  ja: 都市計画史と都市形態の歴史を、名古屋を含む日本と西洋の事例を通して扱う講義である。古代から近代までの都市の変化に加え、インフラの歴史や現代都市の課題、新しい都市デザインの理念までを取り上げる。
+quotedDescription:
+  text:
+    ja: '古代から現代までの人類の都市文明の歴史を，自然条件，経済発展段階や社会背景に基づく都市の成長･衰退，環境衛生の問題と克服，交通などのインフラの形成，および建築の技術発展やデザインの傾向と関連させつつ概説し，都市の将来について考えるための基礎的知識の習得を図る．
+
+      第1週：都市計画史の概要〜名古屋の都市史
+
+      第2週：都市形態の歴史①西洋古代：アテネ・ローマ等
+
+      第3週：都市形態の歴史②西洋中世：ベネチア・シエナ等
+
+      第4週：インフラの歴史①古代文明及び中世の西洋のインフラ
+
+      第5週：都市形態の歴史③西洋ルネサンス・バロック：フィレンツェ等
+
+      第6週：都市形態の歴史④西洋19世紀：ロンドン・パリ等
+
+      第7週：都市形態の歴史⑤西洋近代：近代都市論：ニューヨーク等
+
+      第8週：インフラの歴史②19世紀・近代の西洋のインフラ
+
+      第9週：都市形態の歴史⑥日本古代～中世：平城京・平安京、都の変容
+
+      第10週：都市形態の歴史⑦日本近世：城下町・宿場町・門前町
+
+      第11週：都市形態の歴史⑧日本近世〜近代：江戸から東京へ
+
+      第12週：インフラの歴史③近世・近代の日本のインフラ
+
+      第13週：都市形態の歴史⑨日本近代の都市計画、震災・戦災復興、戦後
+
+      第14週：都市形態の歴史⑩_日本の都市空間：景観、形成原理，構成技法
+
+      第15週：現代都市の課題、新しい都市デザインの理念'
+  source: https://ocw.nagoya-u.jp/courses/0961-%E9%83%BD%E5%B8%82%E3%81%A8%E6%96%87%E6%98%8E%E3%81%AE%E6%AD%B4%E5%8F%B2-2024/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 恒川 和久 教授、中村 晋一郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 西洋都市史
+- 日本都市史
+- 建築
+- インフラ
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 都市計画史の概要〜名古屋の都市史
+  contentUrl: https://ocw.nagoya-u.jp/files/961/slide01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0961-%E9%83%BD%E5%B8%82%E3%81%A8%E6%96%87%E6%98%8E%E3%81%AE%E6%AD%B4%E5%8F%B2-2024/
+- name: 都市形態の歴史①西洋古代：アテネ・ローマ等
+  contentUrl: https://ocw.nagoya-u.jp/files/961/slide02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0961-%E9%83%BD%E5%B8%82%E3%81%A8%E6%96%87%E6%98%8E%E3%81%AE%E6%AD%B4%E5%8F%B2-2024/
+- name: 都市形態の歴史②西洋中世：ベネチア・シエナ等
+  contentUrl: https://ocw.nagoya-u.jp/files/961/slide03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0961-%E9%83%BD%E5%B8%82%E3%81%A8%E6%96%87%E6%98%8E%E3%81%AE%E6%AD%B4%E5%8F%B2-2024/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 春学期
+  targetAudience: 学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

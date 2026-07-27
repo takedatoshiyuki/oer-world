@@ -1,0 +1,104 @@
+slug: nagoya-u-course-0156
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育方法学講義-I-教育方法概論
+description:
+  ja: 教育方法の基礎となる理論と授業実践事例を、今日の教育上の課題と関わらせながら扱う講義である。公開教材には、教育課題や学習指導要領、教材研究、体験学習、模擬授業、学校を基盤とする研究、授業分析などに関する講義ノートが含まれる。2回は演習形式で、模擬授業の計画と実施を行う。
+quotedDescription:
+  text:
+    ja: 今日の教育上の課題と関わらせながら、教育方法の基礎となる理論や、優れた授業実践事例を学ぶともに、教師に必要とされる授業実践力の基礎を身につける。２回は、演習形式とし、模擬授業を計画・実施する。
+  source: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 柴田好章
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- education
+keywords:
+- 教育学
+- 教育実践
+- 授業研究
+- 教育方法
+- 教育環境
+- 現職教育
+- 学習指導要領
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 目指すところは？ 行く手を阻むものは？ —豊かな教育実践の構想—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 実践にとって実践学とは？ —学問的探究と実践との関わり—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 我が国の教育は、どこへ行くべきか？（１）—今日の教育課題と学習指導要領—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 我が国の教育は、どこへ行くべきか？（２）—教育環境と学習指導要領の変遷—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 授業者にとって大切なことは？（１） —デザイナーとしての教師—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 授業者にとって大切なことは？（２） —教材研究—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 体験を通して学ぶことの意味は何か？（１）—体験学習の事例分析—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 体験を通して学ぶことの意味は何か？（２）—体験学習の意義の考察—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 学ぶ立場から教える立場へ(1) —模擬授業の計画—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 学び合う組織としての学校とは？—学校を基盤とする研究の意義と方法—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 学ぶ立場から教える立場へ(2)—模擬授業の実施—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 専門家としての教師の成長とは？（1）—子どもの可能性をとらえる授業分析—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+- name: '講義ノート: 専門家としての教師の成長とは？（２）—育ち合う教師と子ども—'
+  contentUrl: https://ocw.nagoya-u.jp/files/156/shibata13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0156-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-I-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E6%A6%82%E8%AB%96-2010/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 後期
+  targetAudience: 教育学部2年以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

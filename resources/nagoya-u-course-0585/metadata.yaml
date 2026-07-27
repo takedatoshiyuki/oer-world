@@ -1,0 +1,52 @@
+slug: nagoya-u-course-0585
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0585-%E6%AF%94%E8%BC%83%E5%9B%BD%E9%9A%9B%E6%95%99%E8%82%B2%E5%AD%A6-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 比較国際教育学
+description:
+  ja: 名古屋大学の国際開発研究科で、国際開発専攻を対象に前期に開講された講義である。山田肖子が担当し、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山田肖子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 国際
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 国際開発研究科
+  term: 前期
+  targetAudience: 国際開発専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

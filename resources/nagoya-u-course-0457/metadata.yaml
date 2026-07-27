@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0457
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0457-%E9%83%BD%E5%B8%82%E6%8C%81%E7%B6%9A%E7%99%BA%E5%B1%95%E5%AD%A6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCE-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 都市持続発展学セミナーE
+description:
+  ja: 都市・地域の発展段階やインフラ整備、街区ストック化の方法論を扱い、都市の持続的発展を支える技術・制度・政策を地域計画学と公共政策学の視点から考えるセミナーである。学生は国内外の文献を収集・購読し、その成果を英語で発表して議論する。
+quotedDescription:
+  text:
+    ja: 都市・地域の発展段階とインフラストラクチュア整備、および街区ストック化の方法論構築を目指し、地域計画学、公共政策学の視点から都市の持続的発展を可能にする技術・制度・政策に関するセミナーを行う。学生が自主的に国内外を問わず先進的な文献を収集、購読し、その成果を英語で発表し、教員を交えた学生内の議論を行う。
+  source: https://ocw.nagoya-u.jp/courses/0457-%E9%83%BD%E5%B8%82%E6%8C%81%E7%B6%9A%E7%99%BA%E5%B1%95%E5%AD%A6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCE-2014/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 林良嗣
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 環境学
+- 授業内容
+- 目的・ねらい
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/457/hayashi_ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0457-%E9%83%BD%E5%B8%82%E6%8C%81%E7%B6%9A%E7%99%BA%E5%B1%95%E5%AD%A6%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCE-2014/
+extensions:
+  faculty: 環境学研究科
+  term: 前期
+  targetAudience: 環境学研究科都市環境学専攻、後期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

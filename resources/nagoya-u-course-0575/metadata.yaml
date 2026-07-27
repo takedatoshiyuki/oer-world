@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0575
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0575-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCA-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナーA
+description:
+  ja: 名古屋大学の教養教育院が医学部向けに前期開講した「基礎セミナーA」の教材である。公開されている講義ノートは、導入、食事や生活習慣の変化と長期的な体重増加、長距離走レース中の心停止を扱う3件で構成される。日本語と英語の両方で利用される。
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: アレクシッチ・ブランコ
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 医学/薬学
+- 英語
+- 本授業の目的
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: Orientation'
+  contentUrl: https://ocw.nagoya-u.jp/files/575/Aleksic_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0575-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCA-2016/
+- name: '講義ノート: Changes in Diet and Lifestyle and Long-Term Weight Gain'
+  contentUrl: https://ocw.nagoya-u.jp/files/575/Aleksic2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0575-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCA-2016/
+- name: '講義ノート: Cardiac Arrest during Long-Distance Running Races'
+  contentUrl: https://ocw.nagoya-u.jp/files/575/Aleksic.pdf
+  page: https://ocw.nagoya-u.jp/courses/0575-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCA-2016/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 医学部(医)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

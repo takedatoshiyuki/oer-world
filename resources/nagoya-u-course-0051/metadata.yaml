@@ -1,0 +1,74 @@
+slug: nagoya-u-course-0051
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0051-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E1-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: ドイツ語1
+description:
+  ja: 教科書のテクスト、単語集、文法表、練習問題を用いてドイツ語を学ぶ授業である。受講生は本文読解と練習問題へのドイツ語での応答を通して、文法説明を踏まえた運用を行う。授業中には、用意した答えだけでなく、その場で考えて答えるやり取りも組み込まれている。
+quotedDescription:
+  text:
+    ja: '授業は基本的に教科書に沿って進められます。教科書は、１）テクスト、２）単語集、３）文法表、４）練習問題から成っています。受講生は授業で文法の説明を聞いたあと、家で単語集を参考にしてテクストを読み、練習問題の答えを用意します。練習問題は、テクストの内容に関する質問にドイツ語で答えるものです。
+
+      次の授業では、まず、練習問題の質問を私が口頭で行い、指名された受講生がそれに口頭で答えるようにします。家で用意した答えを見てもかまいません。当たっていない人はそれをよく聞いて、自分が用意した答えを添削します。そして、ここが肝心なのですが、切りのいいところで、私から似たようなことをいきなり問いかけます。指名された人はその場で考えて、ドイツ語で答えなければなりません。
+
+      練習問題でも授業中の質問でも、原則として誤答は逐一直さず、次の人を指名します。指名された人は前の答えのどこが違っていたかを考えて答えるようにします。そうすれば、３人目か４人目で必ず正答にたどり着きます。正答はさらに数名の受講者に繰り返していただきます。ぼやぼやしている暇はありません。このような作業を通じてドイツ語では何をどう言うかを体験的に学習します。'
+  source: https://ocw.nagoya-u.jp/courses/0051-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E1-2006/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 成田克史
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- ドイツ語
+- 言語
+- 文法
+- 文法表
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 教科書第 1 課'
+  contentUrl: https://ocw.nagoya-u.jp/files/51/textbook1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0051-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E1-2006/
+- name: 第 1 課講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/51/lecturenote1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0051-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E1-2006/
+- name: '講義ノート: 想定されるシナリオ（第 2 課の例）'
+  contentUrl: https://ocw.nagoya-u.jp/files/51/assignment.pdf
+  page: https://ocw.nagoya-u.jp/courses/0051-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E1-2006/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 工学部1年生、医学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

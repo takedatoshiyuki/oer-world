@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0884
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 美術史講義Ⅶｂ
+description:
+  ja: 名古屋大学の2021年度秋学期に開講された美術史の講義教材で、文学部／人文学研究科の授業として提供される。公開教材は第1回から第12回までそろっており、学部2〜4年生と博士前期課程の院生を対象としている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 伊藤 大輔
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 音楽/美術/芸術
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 第１回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC1%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第２回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC2%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第３回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC3%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第４回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC4%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第５回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC5%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第６回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC6%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第７回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC7%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第８回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC8%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第９回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC9%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第 10 回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC10%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第 11 回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC11%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第 12 回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC12%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第 13 回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC13%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+- name: 第 14 回
+  contentUrl: https://ocw.nagoya-u.jp/files/884/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A97b%EF%BC%88%E7%AC%AC14%E5%9B%9E%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 秋学期
+  targetAudience: 学部２〜４年生／院生（博士前期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 日本美術史の専門的な内容について理解を深め、作品鑑賞力を高める。古代絵画についての知識を深める。
+  source: https://ocw.nagoya-u.jp/courses/0884-%E7%BE%8E%E8%A1%93%E5%8F%B2%E8%AC%9B%E7%BE%A9%E2%85%B6%EF%BD%82-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

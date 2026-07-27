@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0786
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0786-%E5%9B%BD%E9%9A%9B%E7%B5%8C%E6%B8%88%E6%B3%95-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際経済法
+description:
+  ja: 経済のグローバル化に関する国際法を扱い、WTO法とそれに関連する貿易・投資協定を中心に構成する。貿易自由化と投資保護の法的枠組みの歴史をたどったうえで、GATTやDSUを中心とするWTO協定、さらにGATS、金融サービス、知的財産にも触れる。加えて、国際貿易法の知識をもとに、貿易に影響する規制措置がこれらの法に適合するかを分析する視点を扱う。
+quotedDescription:
+  text:
+    ja: This course provides an examination of international law concerning economic globalization, in
+      particular the law on the World Trade Organization (WTO) and related trade and investment agreements
+      as the main aspects of global economic order.It first provides a brief introduction to the history
+      and evolution of the legal framework for trade liberalization and investment protection.It then
+      proceeds to examine WTO law, focusing primarily on the WTO Agreement on Goods (GATT) and on the
+      WTO Dispute Settlement Understanding (DSU), while a brief overview of topics such as the General
+      Agreement on Services (GATS) and financial services in the GATS as well as intellectual property
+      under the WTO will also be provided.The purposeof this course is for students to obtain both the
+      knowledge of international trade law –including a critical mass of case-law –and the skills which
+      will enable them toanalyze to what extent regulatory measures that have impact on international
+      trade are consistent with these laws.It also provides the basis for the analysis of issues of controversy
+      such as the role of these fields of law in the global legal order.
+  source: https://ocw.nagoya-u.jp/courses/0786-%E5%9B%BD%E9%9A%9B%E7%B5%8C%E6%B8%88%E6%B3%95-2021/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 石川知子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 国際
+- 経済学/経営学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 国際開発研究科
+  term: 前期火曜2限
+  targetAudience: 法学部・法学研究科、国際開発研究科　院生（博士前期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

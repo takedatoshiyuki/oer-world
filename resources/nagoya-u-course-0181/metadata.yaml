@@ -1,0 +1,81 @@
+slug: nagoya-u-course-0181
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0181-%E3%81%93%E3%82%8C%E3%82%82%E6%95%B0%E5%AD%A6%EF%BC%81%EF%BC%9F%E7%B5%90%E3%81%B3%E7%9B%AE%E7%90%86%E8%AB%96-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: これも数学！？結び目理論
+description:
+  ja: 結び目を題材に、紐がほどける図とほどけない図をどのように見分けるかを、色分けのルールを通して考える。あわせて、結び目理論がトポロジーの一分野であることにも触れる教材である。
+quotedDescription:
+  text:
+    ja: '黒板に書かれた二つの「結び目」の図。片方はほどけて一本の紐に戻る“蝶結び”で、もう片方は結び目ができる“かた結び”です。
+
+      紐を使わずにこの二つを区別するにはどうしたらよいでしょうか？
+
+      数学では、例えば次の定理を使ってこの二つを区別します。
+
+      定理：「次の色分けのルールに従って色を塗り分けた時、ほどける結び目の図は 1 色しか使えない」
+
+      色分けのルール：使う色は三色。
+
+      「結び目」図で線が交わるところは、(1)三色で塗り分けるか、(2)一色だけで塗るかのどちらかにしなければならない。
+
+      この定理を証明するには、大学で何年も勉強する必要があります。ここでは証明は省略し、実際に塗り分けてみることにしましょう。このように（図）、かた結びの方は三色で塗り分けられますが、蝶結びの方は一色でしか塗れません。数学を使えば、この二つの結び目の一方がほどけ、もう一方はほどけないということがよく分かるようになりました。しかし、他の結び目もこの定理ですべて分類できるかというと、残念ながらこの定理は万能ではありません。例えばこの結び目（図）は、ほどけないことが分かっていますが、一色でしかません。
+
+      結び目理論は、トポロジー（位相幾何学）という分野の中に含まれています。トポロジーでは、○ や □ を同じものと考えるような不思議な世界が研究の対象となっています。'
+  source: https://ocw.nagoya-u.jp/courses/0181-%E3%81%93%E3%82%8C%E3%82%82%E6%95%B0%E5%AD%A6%EF%BC%81%EF%BC%9F%E7%B5%90%E3%81%B3%E7%9B%AE%E7%90%86%E8%AB%96-2008/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 川村友美
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 数学
+- トポロジー
+- 位相幾何学
+- 定理
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 図１'
+  contentUrl: https://ocw.nagoya-u.jp/files/181/math_figure1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0181-%E3%81%93%E3%82%8C%E3%82%82%E6%95%B0%E5%AD%A6%EF%BC%81%EF%BC%9F%E7%B5%90%E3%81%B3%E7%9B%AE%E7%90%86%E8%AB%96-2008/
+- name: '講義ノート: 図２：ほどけないが１色しか使えない結び目'
+  contentUrl: https://ocw.nagoya-u.jp/files/181/math_figure2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0181-%E3%81%93%E3%82%8C%E3%82%82%E6%95%B0%E5%AD%A6%EF%BC%81%EF%BC%9F%E7%B5%90%E3%81%B3%E7%9B%AE%E7%90%86%E8%AB%96-2008/
+extensions:
+  faculty: 男女共同参画室
+  term: 公開講座
+  targetAudience: 高校生と保護者
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

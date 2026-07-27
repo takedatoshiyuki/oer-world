@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0788
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0788-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%EF%BC%9A%E8%8B%B1%E8%AA%9E%E3%81%A7%E5%AD%A6%E3%81%B6%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%AE%E5%8C%BB%E7%99%82%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナー：英語で学ぶアジアの医療サービス
+description:
+  ja: 医学部1年生向けのセミナーで、小グループに分かれて発表や討論を行う。基礎医学・社会医学の教授がチューターとして参加し、身近に接しながら話を聞く機会を設ける。
+quotedDescription:
+  text:
+    ja: 小グループに分かれ、様々な問題についての発表や討論を行います。チューターとなる医学部の基礎医学・社会医学の教授と身近に接し、様々な話を聞く機会として活用して下さい。
+  source: https://ocw.nagoya-u.jp/courses/0788-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%EF%BC%9A%E8%8B%B1%E8%AA%9E%E3%81%A7%E5%AD%A6%E3%81%B6%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%AE%E5%8C%BB%E7%99%82%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-2021/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 浜島信之
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- slide
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 基礎セミナー
+- 英語
+- 言語
+- 基礎医学
+- 英語論文
+- 医療支援
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第 3 回スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/788/slides03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0788-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%EF%BC%9A%E8%8B%B1%E8%AA%9E%E3%81%A7%E5%AD%A6%E3%81%B6%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%AE%E5%8C%BB%E7%99%82%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-2021/
+- name: 第 8 回スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/788/slides08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0788-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%EF%BC%9A%E8%8B%B1%E8%AA%9E%E3%81%A7%E5%AD%A6%E3%81%B6%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%AE%E5%8C%BB%E7%99%82%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-2021/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 秋学期
+  targetAudience: 医学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

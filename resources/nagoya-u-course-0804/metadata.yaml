@@ -1,0 +1,93 @@
+slug: nagoya-u-course-0804
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 金融特論
+description:
+  ja: 名古屋大学で開講された金融分野の講義で、経済学部3・4年生と経済学研究科博士前期課程を対象とする。第1回から第12回までの講義ノートが公開されており、授業内容を回ごとにたどれる構成になっている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 齊藤 誠
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 金融政策
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 「第 1 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 2 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 3・4 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 5 回講義ノート_1」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/05a.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 5 回講義ノート_2」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/05b.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 6 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 7 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 8 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 9 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 10 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 11 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 12 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+- name: 「第 13 回講義ノート」
+  contentUrl: https://ocw.nagoya-u.jp/files/804/13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0804-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2021/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 前期
+  targetAudience: 経済学部3. 4年生・経済学研究科博士前期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,91 @@
+slug: nagoya-u-course-0022
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 留学生と日本〜異文化を通しての日本理解〜
+description:
+  ja: この教材は、名古屋大学で行われた留学生をめぐる授業の課題資料をまとめたもので、留学生受け入れの実態や日常生活上の問題を扱う。グループでテーマを設定して資料を作成し、発表する活動を通して、留学生に伝わる説明の仕方を考える構成になっている。あわせて、毎回の授業アンケートやレポート課題も含まれる。
+quotedDescription:
+  text:
+    ja: '外国人留学生と日本人学生が共同作業を通じて、両者の日本に対する理解と相互の理解を深めることを目的とします。
+
+      名古屋大学内及びこの地域で異なる文化を持つ人々が共に学び生きることの意味を考え直し、多文化共生のあり方を模索します。
+
+      この授業では、まず本学における留学生受け入れの実態を把握し、留学生が勉学その他の日常生活で直面する問題点を取りあげ、ディスカッションを行います。次に、グループ分けを行い、それぞれグループでテーマを決め、資料を作成し発表してもらいます。グループの中には必ず留学生を入れ、専門用語や背景知識の伝達をその場で行うことで、留学生に分かりやすく説明するテクニックを学ぶことにします。
+
+      この授業は、留学生センターの複数の教員を中心に行われますが、教師の主な役割は問題提起とアドバイスであり、授業の主体はあくまでも学生諸君です。日頃の留学生とのやり取りのなかで共感あるいは違和感を持ち、それを積極的に表現できるパワーのある学生の受講を期待します。なお受講生には、グループごとの課題だけでなく、毎時間配付する授業アンケートへの記入を義務づけます。'
+  source: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+  note: 名大の授業 (NU OCW) 「講義目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 浮葉正親
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 国際
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 「GAL」'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/group_gal.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: '課題: 「大学生のアルバイト事情」'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/group_part-time_job.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: レポート課題一覧 (3 枚)
+  contentUrl: https://ocw.nagoya-u.jp/files/22/report_2014.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: '課題: 人間ビンゴ(1 枚)'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/no-2_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: '課題: 留学生と日本社会(5 枚)'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/no-3_note_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: '課題: 文化の定義(4 枚)'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/no-5_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: '課題: アンケート用紙'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/no-13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: '課題: アンケート結果'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/no-13_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+- name: '課題: 悩み相談に答える(3 枚)'
+  contentUrl: https://ocw.nagoya-u.jp/files/22/no-14_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0022-%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%80%9C%E7%95%B0%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%90%86%E8%A7%A3%E3%80%9C-2014/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 学部生 (他大学を含む)日本語・日本文化研修コース (1年コース)生短期交換留学生日韓共同理工系学部留学生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,95 @@
+slug: nagoya-u-course-0302
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 先端分野総合研究(外国人と法)
+description:
+  ja: 戦後の東アジア情勢のもとで形作られた日本の外国人に関する法政策を扱い、その後の変化にも目を向ける。公法・国際法の基礎を前提に、外国人登録や在留資格、退去強制、難民、在留保障などの論点を講義ノートで扱う。
+quotedDescription:
+  text:
+    ja: '日本における外国人の状況は、法の眼でみるとどのように見ることができるのか、その全体的動向を把握し、背景を理解する。
+
+      入管法をめぐる主要問題について、実務的側面を含む基礎的知識を修得し、 入管法の構造について問題意識をもつ。
+
+      入管法を変動させる重要な要因となっている国際法的規制について、それら の内容と性格、日本法における適用状況についての基礎知識を修得する。
+
+      外国人法政策をめぐる最近の議論とその背景について基礎知識をもち、今後 の変動に対応できる問題意識をもつ。
+
+      入管難民法についての調査について基礎を修得する。'
+  source: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+  note: 名大の授業 (NU OCW) 「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小畑郁
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+- 法科大学院
+- 講義概要
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 外国人登録・在留資格制度'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: 在日コリアン'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: 年表・在日コリアン'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata3n.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: 在留管理・退去強制'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: 難民 01'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: 難民２'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: ノンルフールマン'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: 在留保障１'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+- name: '講義ノート: 在留保障２'
+  contentUrl: https://ocw.nagoya-u.jp/files/302/obata9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0302-%E5%85%88%E7%AB%AF%E5%88%86%E9%87%8E%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6(%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E6%B3%95)-2011/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 前期
+  targetAudience: 法学研究科実務法曹養成専攻(法科大学院)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

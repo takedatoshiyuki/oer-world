@@ -1,0 +1,73 @@
+slug: nagoya-u-course-0298
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0298-%E5%8F%8D%E5%BF%9C%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 反応プロセス工学特論
+description:
+  ja: 反応プロセス工学に関する講義で、講義概要に加えて、プロセス開発、触媒分子反応工学、反応分離工学、反応装置工学、反応場の工学を扱う講義ノートが公開されている。対象は工学研究科化学・生物工学専攻前期課程1、2年で、反応工学の基礎知識があれば生物工学専攻以外の学生も受講できる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 田川智彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 化学工学
+- 反応工学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 講義概要の説明'
+  contentUrl: https://ocw.nagoya-u.jp/files/298/kktagawa1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0298-%E5%8F%8D%E5%BF%9C%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: プロセス開発と反応工学'
+  contentUrl: https://ocw.nagoya-u.jp/files/298/ktagawa2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0298-%E5%8F%8D%E5%BF%9C%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: 触媒分子反応工学と触媒工学の体系'
+  contentUrl: https://ocw.nagoya-u.jp/files/298/ktagawa3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0298-%E5%8F%8D%E5%BF%9C%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: 反応分離工学の体系'
+  contentUrl: https://ocw.nagoya-u.jp/files/298/ktagawa4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0298-%E5%8F%8D%E5%BF%9C%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: 反応装置工学の体系'
+  contentUrl: https://ocw.nagoya-u.jp/files/298/ktagawa5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0298-%E5%8F%8D%E5%BF%9C%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: 反応場の工学とその体系'
+  contentUrl: https://ocw.nagoya-u.jp/files/298/ktagawa6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0298-%E5%8F%8D%E5%BF%9C%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学研究科 化学・生物工学専攻前期課程1、2年、反応工学の基礎知識があれば生物工学専攻以外でも受講可能
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

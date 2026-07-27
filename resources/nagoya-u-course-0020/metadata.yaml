@@ -1,0 +1,88 @@
+slug: nagoya-u-course-0020
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 管理会計
+description:
+  ja: この講義は、企業経営における会計の役割を扱う。財務諸表作成のための原価計算を起点に、その計算が経営上の意思決定やマネジメント・コントロールでどう使われるかを説明する。公開資料には、原価計算編、意思決定会計、管理会計の有用性、戦略的コストマネジメントなどの教材が含まれる。
+quotedDescription:
+  text:
+    ja: 会計が企業経営にどのように貢献するかについて理解を深めることを講義の目的とする。はじめに財務諸表作成のための原価計算について説明する。そして、そうした原価計算が経営上の意思決定のどのように利用されるか説明し、マネジメント・コントロールなどにおける会計の役割とその有用性について説明していく。
+  source: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 木村彰吾
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 管理会計, 牧戸孝郎・木村彰吾, 経済科学 第 50 巻別冊, 2002.'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/KIMURA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: 原価計算編 (1):原価計算の前提'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: 原価計算編 (4):総合原価計算'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: 原価計算編 (5):標準原価計算'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: 管理会計編(1):意思決定会計'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: 管理会計 編(4):管理会計の有用性について'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: その 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura12_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: その 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura12_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: その 3'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura12_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+- name: '講義ノート: 管理会計編(6):戦略的コストマネジメント'
+  contentUrl: https://ocw.nagoya-u.jp/files/20/kimura13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0020-%E7%AE%A1%E7%90%86%E4%BC%9A%E8%A8%88-2005/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 後期
+  targetAudience: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

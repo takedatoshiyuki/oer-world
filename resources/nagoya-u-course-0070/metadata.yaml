@@ -1,0 +1,105 @@
+slug: nagoya-u-course-0070
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学展望-II
+description:
+  ja: 数学と物理の関係をテーマにした講義の資料をまとめた教材である。公開されているのは第1回から第12回までの講義ノートで、数学を学ぶうえで物理との関連に目を向ける内容を扱う。
+quotedDescription:
+  text:
+    ja: 歴史をひもといてみますと、数学と物理は互いに大きく影響をおよぼし合 いながら発展してきたことが分かります。19 世紀以前ですと、ニュートン力学と微分積 分や位相幾何学、電磁気学とベクトル解析などが代表的なものです。20
+      世紀そして今世 紀になると、その関係は更に深くなってきています。ですから、数学をより良く理解する ためには、物理を全く無視する訳にはいきません。 本講義では、数学と物理の関わりにつ
+  source: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 粟田英資
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- ニュートン力学
+- 量子力学
+- ヒルベルト空間
+- フーリエ級数
+- 線形代数
+- 微分積分学
+- 量子論
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 第 1 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 2 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 3 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 4 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 5 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 6 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 7 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 8 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 9 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 10 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 11 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 12 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+- name: '講義ノート: 第 13 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/70/lec13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0070-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-II-2006/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学部1年生全学開放科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

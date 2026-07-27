@@ -1,0 +1,105 @@
+slug: nagoya-u-course-0443
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際私法
+description:
+  ja: この講義は、私人間または私人と国家のあいだに生じる国際的な法律関係を扱い、それらを規律する抵触法を主題とする。公開教材には、外国国家行為の承認、国際裁判管轄、国家管轄権、外国法の適用、身分関係、契約に関する回が含まれる。説明文では、外国法適用制度を中心に基本的知識を提供するとしている。
+quotedDescription:
+  text:
+    ja: '経済のボーダーレス化に従い私人の国際的活動は増加の一途を辿り、それに伴い私人間の(或いは私人と国家間の)国際的法律関係に関する問題も多様化且つ複雑化しつつある。海外での交通事故、国際的な自動車の盗難、独占禁止法や通信法の域外適用また各国法規の抵触、国有化・収用措置や資産凍結措置の国際取引への介入、多国籍企業の複数国での大型倒産、アメリカ懲罰的損害賠償判決の我が国での執行の可否等、そういった問題の例としては枚挙に暇がない。また、このような財産関係事件に限らず、身分関係事件においても、離婚の国際裁判管轄、子供の引渡を命じた外国判決の我が国での執行の可否、国を跨った子供の奪い合い、代理出産に関する親子関係を確認した外国判決の我が国での承認等、国際的紛争事例は夥しい。
+
+      このような複雑な国際的法律関係を規律する法律が抵触法(広義の国際私法)である。本講義では、外国法適用制度を中心に、その基本的知識を提供する。受講者には、教科書・参考書により各テーマについて予習を行うこと、及び、レジュメに挙げられた裁判例や参考文献を出来る限り読むことが期待される。'
+  source: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 横溝大
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+- 国家
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: オリエンテーション
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 原論
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 外国国家行為承認制度(1)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 外国国家行為承認制度(2)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 国際裁判管轄(1)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 国家管轄権理論(2)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 国家管轄権理論(3)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 外国法適用制度総論(1)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 外国法適用制度総論(2)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 身分関係(1)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 身分関係(2)
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 契約
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 契約外の債権債務関係
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 知的財産権
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+- name: 2013 年度学期末試験問題
+  contentUrl: https://ocw.nagoya-u.jp/files/443/yokomizo_test.pdf
+  page: https://ocw.nagoya-u.jp/courses/0443-%E5%9B%BD%E9%9A%9B%E7%A7%81%E6%B3%95-2013/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 後期
+  targetAudience: 法学部3,4年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

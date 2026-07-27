@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0348
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0348-%E3%81%82%E3%81%9F%E3%82%89%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E5%BB%BA%E7%AF%89%E2%80%94%E5%90%8D%E5%A4%A7%E5%BB%BA%E7%AF%89%EF%BC%93%E5%B9%B4%E7%94%9F%E3%81%8C%E8%80%83%E3%81%88%E3%82%8B%E9%99%84%E5%B1%9E%E5%AD%A6%E6%A0%A1%E3%81%AE%E6%A0%A1%E8%88%8E-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: あたらしい学校建築
+description:
+  ja: 名大建築3年生が附属学校の校舎のあり方を考えて提案する設計課題をもとに、学校建築の変化を扱う講義ノートである。戦後の標準化された学校建築と、1970年代以降に現れた新しい学校建築の動きを取り上げ、学校を学びと生活の場として見直す視点を示す。
+quotedDescription:
+  text:
+    ja: 昨年度から附属学校の校舎のあり方を考え、提案する設計課題を名大建築 3 年生の設計演習の中で取り組んでいます。日本の学校建築は戦後、標準化された校舎建築を全国一律に適用する方法で建設されてきました。皆さんが勉強し、生活した学校は、通った学校は違えども、おそらく同じような校舎だと思います。しかし、学校建築のあり方を考え直す機運は
+      1970 年代からあり、全体の数からすればまだまだ少ないですが、新しい学びの場、そして生活の場としての学校建築が生まれています。建築家ルイス・カーンは「学校は木の下のひとりの男とともに始まりました。自分が教師であることを知らない一人の男が、自分たちが学生であることを知らないわずかの人たちと自らの自覚について話していました。・・・」と語っています。普段見慣れた学校建築を忘れて、学びの場について一緒に考えたいと思います。
+  source: https://ocw.nagoya-u.jp/courses/0348-%E3%81%82%E3%81%9F%E3%82%89%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E5%BB%BA%E7%AF%89%E2%80%94%E5%90%8D%E5%A4%A7%E5%BB%BA%E7%AF%89%EF%BC%93%E5%B9%B4%E7%94%9F%E3%81%8C%E8%80%83%E3%81%88%E3%82%8B%E9%99%84%E5%B1%9E%E5%AD%A6%E6%A0%A1%E3%81%AE%E6%A0%A1%E8%88%8E-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小松尚
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 音楽/美術/芸術
+- 建築
+- 中津川プロジェクト
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: あたらしい学校建築—名大建築 3 年生が考える附属学校の校舎—'
+  contentUrl: https://ocw.nagoya-u.jp/files/348/H23_komatsu_LectureNote.pdf
+  page: https://ocw.nagoya-u.jp/courses/0348-%E3%81%82%E3%81%9F%E3%82%89%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E5%BB%BA%E7%AF%89%E2%80%94%E5%90%8D%E5%A4%A7%E5%BB%BA%E7%AF%89%EF%BC%93%E5%B9%B4%E7%94%9F%E3%81%8C%E8%80%83%E3%81%88%E3%82%8B%E9%99%84%E5%B1%9E%E5%AD%A6%E6%A0%A1%E3%81%AE%E6%A0%A1%E8%88%8E-2011/
+extensions:
+  faculty: 教育学部附属中・高等学校
+  term: 特別講義
+  targetAudience: 附属高校1、2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

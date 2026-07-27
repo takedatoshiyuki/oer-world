@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0442
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0442-Introductory-Accounting-I-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: Introductory-Accounting-I
+description:
+  ja: 会計を「ビジネスの言語」として捉え、その基礎を学ぶ講義ノートである。仕訳の書き方と財務諸表の読み方を通して、会計の初歩的な内容を扱う。
+quotedDescription:
+  text:
+    ja: Accounting is called "language of business", as they are used to communicate among interested
+      parties of the business. Students will be learning very basics of how to write (make entries) and
+      read (financial statement analysis) that "language".
+  source: https://ocw.nagoya-u.jp/courses/0442-Introductory-Accounting-I-2014/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 野口晃弘
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: Introduction'
+  contentUrl: https://ocw.nagoya-u.jp/files/442/Noguchi_lec_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0442-Introductory-Accounting-I-2014/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 後期
+  targetAudience: 経済学部1,2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

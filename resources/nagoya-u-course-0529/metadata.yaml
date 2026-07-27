@@ -1,0 +1,91 @@
+slug: nagoya-u-course-0529
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語-(中級)
+description:
+  ja: 英語の読解と文章作成を中心に、記事を読んで議論し、グループで発表する活動を扱う。課題では、科学的な話題ごとに、段落構成、レポート執筆、剽窃、論述、論理的な議論、スピーキングなどのテーマを取り上げる。英語を学ぶ対象としてではなく、科学的なコミュニケーションに用いる手段として英語を使う構成である。
+quotedDescription:
+  text:
+    ja: 'This class focuses on English reading and writing. Students read articles and discuss them in
+      class. They work in groups to give presentations. Students write two papers and read extensively
+      outside of class.
+
+      The course is taught entirely in English. Students do not study about English; they use English
+      as a tool to learn about scientific communication. Students are required to read, write, and speak
+      English as much as possible.'
+  source: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: Chad NILEP
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 英語
+- 言語
+- 授業の目標
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: Impact craters. Using English as a tool.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/OCW-Nilep-English_Intermediate-materials01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+- name: '課題: Great Pacific garbage patch. Paragraphs.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/OCW-Nilep-English_Intermediate-materials02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+- name: '課題: Life in extreme environments. Writing lab reports.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/OCW-Nilep-English_Intermediate-materials03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+- name: '課題: Birth of genetics. Plagiarism.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/OCW-Nilep-English_Intermediate-materials04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+- name: '課題: Monarch butterfly migration. Writing essays.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/OCW-Nilep-English_Intermediate-materials05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+- name: '課題: Natural selection. The writing process.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/new06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+- name: '課題: Coral reefs. Logical argumentation.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/new07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+- name: '課題: Renewable energy. Public speaking techniques.'
+  contentUrl: https://ocw.nagoya-u.jp/files/529/OCW-Nilep-English_Intermediate-materials09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0529-%E8%8B%B1%E8%AA%9E-(%E4%B8%AD%E7%B4%9A)-2015/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

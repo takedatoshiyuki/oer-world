@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0286
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0286-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 金融特論
+description:
+  ja: この教材は、金融論のうち金融システム論を扱い、金融市場の構造や金融機関経営を中心に論じる。あわせて、金融システムや金融規制の特徴を情報の経済学の基本概念に沿って説明する。
+quotedDescription:
+  text:
+    ja: '金融論として扱うべき問題は、金融政策論と金融システム論に大別されるが、この講義は後者をカバーしている。経済学部 2 年生向けに講義している「金融システム」の成績優秀者を標準的な受講者と想定して、上級レベル（アメリカの有力大学の
+      MBA レベル）の講義を行っている。この講義の目的は、金融市場の構造や金融機関経営について受講者の理解を深めることにある。とくに、金融システムや金融規制の特徴を、情報の経済学の基本概念に沿って解説することを目指している。具体的には、Frederic
+      Mishkin,
+
+      Economics of Money, Banking, and Financial Markets
+
+      , (9th Edition Prentice Hall, July 2009) をテキストとして、金融システムに関する第 1、2、8、9、10、11、12 章を各章ごとに 2 回程度のペースで解説していった。'
+  source: https://ocw.nagoya-u.jp/courses/0286-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 家森信善
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 金融論
+- 金融政策論
+- 金融特論
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 第 1 回 Why Study Money, Banking, and Financial Markets?'
+  contentUrl: https://ocw.nagoya-u.jp/files/286/yamori_lect1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0286-%E9%87%91%E8%9E%8D%E7%89%B9%E8%AB%96-2011/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 前期
+  targetAudience: 経済学部経済学科3、4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

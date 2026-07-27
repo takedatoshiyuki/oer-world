@@ -1,0 +1,56 @@
+slug: nagoya-u-course-0636
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0636-%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E7%89%B9%E8%AB%961-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: 量子情報特論1
+description:
+  ja: 名古屋大学の「量子情報特論1」に付随する教材で、量子情報理論の入門講義向けのワーキングノートが公開されている。対象は情報学部／情報学研究科の修士1、2年で、2018年後期に日本語で開講された講義に対応する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: BUSCEMI Francesco
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- 量子コンピュータ
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: Working notes for an introductory course on quantum information theory
+  contentUrl: https://ocw.nagoya-u.jp/files/636/course%20notes.pdf
+  page: https://ocw.nagoya-u.jp/courses/0636-%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E7%89%B9%E8%AB%961-2018/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 後期
+  targetAudience: 修士1, 2年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: nagoya-u-course-0831
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0831-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 固体電子工学及び演習
+description:
+  ja: 名古屋大学の「固体電子工学及び演習」に関する公開教材で、第1回講義スライド「固体電子工学とは？」が含まれる。2021年度の工学部／工学研究科で開講され、工学部電気電子情報工学科3年生を対象としている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 須田 淳
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- slide
+about:
+- engineering
+keywords:
+- 工学
+- 材料工学
+- 固体電子工学
+- 固体物理学
+- 半導体
+- 授業の目的及びねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第 1 回講義スライド「固体電子工学とは？」
+  contentUrl: https://ocw.nagoya-u.jp/files/831/slide831.pdf
+  page: https://ocw.nagoya-u.jp/courses/0831-%E5%9B%BA%E4%BD%93%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2021/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期（木曜3限、月曜4限）
+  targetAudience: 工学部電気電子情報工学科3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

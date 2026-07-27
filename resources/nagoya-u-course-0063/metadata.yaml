@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0063
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0063-%E6%83%85%E5%A0%B1%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E7%A9%BA%E9%96%93%E6%A7%8B%E6%88%90%E7%89%B9%E8%AB%96-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報メディア空間構成特論
+description:
+  ja: コンテンツとロボットのハード・ソフトを扱い、レゴマインドストームを教材にして学ぶ講義である。モーターとセンサーの仕組みと、そのプログラミングを対象にする。
+quotedDescription:
+  text:
+    ja: コンテンツおよびロボットのハードとソフトについて実践的に学習する。レゴマインドストームを教材として、ロボット(モーターとセンサー)のメカニズムとそのプログラミングを学習する。
+  source: https://ocw.nagoya-u.jp/courses/0063-%E6%83%85%E5%A0%B1%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E7%A9%BA%E9%96%93%E6%A7%8B%E6%88%90%E7%89%B9%E8%AB%96-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 長尾確
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- ict
+keywords:
+- 情報学
+- プログラミング
+- メディア
+- ロボティクス
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '課題: 第 1 回 講義全体の概要'
+  contentUrl: https://ocw.nagoya-u.jp/files/63/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0063-%E6%83%85%E5%A0%B1%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E7%A9%BA%E9%96%93%E6%A7%8B%E6%88%90%E7%89%B9%E8%AB%96-2011/
+extensions:
+  faculty: 情報科学研究科
+  term: 後期
+  targetAudience: 情報科学研究科 メディア科学専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

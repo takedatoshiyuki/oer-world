@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0294
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0294-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%929%EF%BC%88%E8%A6%B3%E5%AF%9F%E6%B3%95%EF%BC%89-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 心理行動科学実験演習9（観察法）
+description:
+  ja: 学校での授業場面を観察し、発話や行動のデータを集めて、コード化・整理・検討まで行う流れを扱う。心理学・行動科学における観察法を、実際の観察作業を通して学ぶ内容である。
+quotedDescription:
+  text:
+    ja: 心理学・行動科学の主要な研究方法のひとつである、行動観察法について、学校での実際の授業場面の観察を実施し、発話・行動データを収集し、データのコード化、整理、検討を行いながら、体験的に学習する。単に、日常的に見たり聴いたりする、いうこと以上に、人間の行動を客観的、科学的にアプローチする方法である、心理学研究法としての観察法を学ぶことを目的とする。
+  source: https://ocw.nagoya-u.jp/courses/0294-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%929%EF%BC%88%E8%A6%B3%E5%AF%9F%E6%B3%95%EF%BC%89-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中谷素之
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- education
+keywords:
+- 教育学
+- 心理学
+- 学習指導
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 各授業ごとの課題および準備
+  contentUrl: https://ocw.nagoya-u.jp/files/294/S_nakaya.pdf
+  page: https://ocw.nagoya-u.jp/courses/0294-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%929%EF%BC%88%E8%A6%B3%E5%AF%9F%E6%B3%95%EF%BC%89-2011/
+- name: '講義ノート: 第 2 回授業資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/294/index1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0294-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%929%EF%BC%88%E8%A6%B3%E5%AF%9F%E6%B3%95%EF%BC%89-2011/
+- name: '講義ノート: 最終発表コメント資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/294/index2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0294-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%929%EF%BC%88%E8%A6%B3%E5%AF%9F%E6%B3%95%EF%BC%89-2011/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: 教育学部2年生以上 3年時編入生、研究生、大学院前期課程院生も履修可能
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,103 @@
+slug: nagoya-u-course-0523
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語(上級)
+description:
+  ja: この教材は、英語(上級)の授業で用いる講義ノートや図版、評価シート、用紙をまとめたものである。ガイダンスや授業日程に加え、ディクテーション、文章構造と表現、シャドウイング、プレゼンテーション、多読、Book
+    Reportに関する資料を含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 杉浦正利
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 英語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 『「英語(上級)」ガイダンス』'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「授業日程」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「ディクテーションシートの例」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「文章構造と表現の説明の図 1」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「文章構造と表現の説明の図 2」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「シャドウイングの仕方二種類の説明の図」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「プレゼンテーションのコツ」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「プレゼンテーション評価シート」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「プレゼンテーションの評価結果グラフ」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「プレゼンテーションの様子」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「多読教材への道 2014」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「Book Report 用紙」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「Book Report 累積語数」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「読解速度の平均」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「プレゼンテーション教材 eFACE」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+- name: '講義ノート: 「NuAcT for Presentation」'
+  contentUrl: https://ocw.nagoya-u.jp/files/523/sugiura-kougi16.pdf
+  page: https://ocw.nagoya-u.jp/courses/0523-%E8%8B%B1%E8%AA%9E(%E4%B8%8A%E7%B4%9A)-2015/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 工学部(I系・IV系)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

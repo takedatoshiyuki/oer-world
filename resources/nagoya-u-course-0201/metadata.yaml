@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0201
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0201-%E3%81%93%E3%81%93%E3%82%8D%E3%81%AE%E5%81%A5%E5%BA%B7%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%99%E3%82%8B-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: こころの健康を維持する
+description:
+  ja: この教材は、うつ病をめぐる状況を背景に、予防と早期発見に関わる内容を扱う。うつ病について全般的な知識を与え、その理解を深めることを目的とする公開講座の教材である。
+quotedDescription:
+  text:
+    ja: 近年、わが国の自殺者は３万人を超え高い水準を維持している。その背景にはうつ病の存在が指摘されている。そのため、うつ病の予防、早期発見のために、様々な対策が講じられてきている。こうした努力によって、うつ病に対する知識は、一般の人々の間に、かなり普及していると考えられる。しかし、必ずしもまだ十分とは言えない。そのため、本講座では、うつ病について全般的な知識を与えることによって、うつ病に対する理解を深め
+  source: https://ocw.nagoya-u.jp/courses/0201-%E3%81%93%E3%81%93%E3%82%8D%E3%81%AE%E5%81%A5%E5%BA%B7%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%99%E3%82%8B-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 本城秀次
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 医学/薬学
+- 精神医学
+- 心理学
+- 講義内容
+- 講師紹介
+- 学歴
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: こころの健康を維持する
+  contentUrl: https://ocw.nagoya-u.jp/files/201/honzyo.pdf
+  page: https://ocw.nagoya-u.jp/courses/0201-%E3%81%93%E3%81%93%E3%82%8D%E3%81%AE%E5%81%A5%E5%BA%B7%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%99%E3%82%8B-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

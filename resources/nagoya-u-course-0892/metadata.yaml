@@ -1,0 +1,57 @@
+slug: nagoya-u-course-0892
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0892-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8F%A3%E9%A0%AD%E8%A1%A8%E7%8F%BE%E6%B3%95-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本語口頭表現法
+description:
+  ja: 名古屋大学の教養教育院が2022年春学期に開講した、学部1年生向けの日本語による講義である。石﨑俊子が担当し、日本語の口頭表現を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 石﨑 俊子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 日本語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 本授業科目は，専門的学習のツールとして外国語の能力を高め，異文化理解を深めて，国際社会に相応しい教養を育むことが目的である。特に大学での研究を行う上で必要とされる口頭表現を日本語で行えるスキルを身に付けることが目的である。
+  source: https://ocw.nagoya-u.jp/courses/0892-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8F%A3%E9%A0%AD%E8%A1%A8%E7%8F%BE%E6%B3%95-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

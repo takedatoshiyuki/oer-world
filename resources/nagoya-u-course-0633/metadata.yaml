@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0633
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0633-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A6%E6%BC%94%E7%BF%92-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理情報学演習
+description:
+  ja: 名古屋大学の2017年度前期に開講された、情報学研究科修士1年向けの数理情報学演習である。公開教材には、確率変数・エントロピー・情報、無雑音符号化定理、最適ソース符号の存在、雑音通信路、通信路容量を扱う講義ノートが含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: BUSCEMI Francesco
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- 情報学
+- 数理科学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: Random Variables, Entropy, and Information'
+  contentUrl: https://ocw.nagoya-u.jp/files/633/bu1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0633-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A6%E6%BC%94%E7%BF%92-2017/
+- name: '講義ノート: The Noiseless Coding Theorem for Information Sources'
+  contentUrl: https://ocw.nagoya-u.jp/files/633/bu2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0633-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A6%E6%BC%94%E7%BF%92-2017/
+- name: '講義ノート: Existence of Optimal Source Codes'
+  contentUrl: https://ocw.nagoya-u.jp/files/633/bu3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0633-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A6%E6%BC%94%E7%BF%92-2017/
+- name: '講義ノート: Communication through Noisy Channels'
+  contentUrl: https://ocw.nagoya-u.jp/files/633/bu4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0633-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A6%E6%BC%94%E7%BF%92-2017/
+- name: '講義ノート: The Channel Capacity'
+  contentUrl: https://ocw.nagoya-u.jp/files/633/Lecture5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0633-%E6%95%B0%E7%90%86%E6%83%85%E5%A0%B1%E5%AD%A6%E6%BC%94%E7%BF%92-2017/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 前期
+  targetAudience: 情報学研究科修士1年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

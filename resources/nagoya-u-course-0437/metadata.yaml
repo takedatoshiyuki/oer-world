@@ -1,0 +1,88 @@
+slug: nagoya-u-course-0437
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 産業社会と企業
+description:
+  ja: 企業や市場の成立と変化を、古代から現代までの歴史の流れの中で扱う講義である。市場経済の発展が生んだ問題として、公害や格差にも触れ、現代社会を複数の側面から考える視点を扱う。
+quotedDescription:
+  text:
+    ja: 現代の経済では企業が中心的な役割を果しており、市場経済や資本主義（資本制）経済などと呼ばれている。しかし、人類の誕生時から企業や市場があったわけではないし、これらが誕生してからも、その中身は時代を通じて変化してきた。また、企業や市場の発展によって多くの問題が解決されてきた半面、公害や格差のように新たに深刻化した問題もある。この講義では、企業や市場の誕生・発展プロセスを歴史的に学ぶことで、現代社会をプラスとマイナスとの両面から考察できる姿勢を養うことを目指す。
+  source: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小堀聡
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 文化
+- 現代社会
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 経済と市場経済
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 経済発展の諸要因(1)
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 経済発展の諸要因(2)
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori4,5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 古代オリエントから古代ギリシアへ
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori6_new.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 中世の西ヨーロッパ:封建制
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori7_new.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 産業革命
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori8_new.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 市場経済の発展と失業・貧困
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: グローバリゼーションと日本型経済システムの変容
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 経済成長と環境-水俣病-
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori11,12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+- name: 市場経済と国際関係:南北問題と世界平和
+  contentUrl: https://ocw.nagoya-u.jp/files/437/kobori13,14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0437-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2013/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 工学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

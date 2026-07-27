@@ -1,0 +1,85 @@
+slug: nagoya-u-course-0509
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0509-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%80%8C%E6%B3%95%E3%80%8D%E3%81%A8%E7%B4%9B%E4%BA%89%E8%A7%A3%E6%B1%BA%E2%80%95%E6%B0%91%E4%BA%8B%E4%BA%8B%E4%BB%B6%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナー「法」と紛争解決―民事事件を通じて考える
+description:
+  ja: 民事事件を素材に、法による紛争解決の仕組みを検討するセミナーである。前半では、具体的な紛争例を用いた交渉ゲームと文献調査の方法を扱い、後半では日本社会における法の適用・運用に関する文献を講読する。交渉による解決と法律を適用した解決を比べ、その異同を考える構成になっている。
+quotedDescription:
+  text:
+    ja: 'セミナーのテーマ: 「法」と紛争解決――民事事件を通じて考える
+
+      日本では、「法」が適用される場面というと刑事裁判をイメージする人が少なくありません。しかし、「法」の本来の機能は社会の中の様々な紛争を解決することにあります。このセミナーでは、なぜ、「法」によって紛争を解決するという仕組みが要請されるのか、主に民事事件を素材に検討します。それを通じて、「法」の役割・意義について考えることがこのセミナーのねらいです。その中で、情報を調査・収集する能力、論理的な思考力、プレゼンテーションの能力を涵養することも目指します。
+
+      目的を達成するために、セミナーの前半では、参加者で 3 名程度のチームを作り、具体的な紛争例を素材として、ある紛争における適切な解決をめぐる交渉ゲームを行ないます。議論の準備に必要となる文献の調査方法などについても、授業の冒頭で説明を行ないます。さらに、「法」による紛争解決の意義・限界について一定の理解をもつと、法律家の間で争われている様々な問題の意味について、より深く理解できるようになります。セミナーの後半では、日本社会における法の適用・運用に関する重要な文献の講読を行ないます。
+
+      ガイダンス (授業内容・進行方法の説明、報告グループの決定など)
+
+      リーガル・リサーチ (文献・裁判例の調査・利用方法、図書館の利用方法)
+
+      交渉ゲーム: 受講者でチームを作り、ある紛争をめぐって対立している当事者の立場から、当該紛争の解決方法をめぐって交渉ゲームを行ないます。
+
+      法律による解決の調査報告・議論: 交渉ゲームで取り上げた紛争に法律が適用されるとどのような解決がされるのか、受講者に調査報告をしてもらいます。受講者の交渉ゲームで示された解決との間にどのような異同があるのか、その原因は何かなどについて議論を行ないます。
+
+      文献講読：文献の内容を理解した上で、交渉ゲームの経験を踏まえて、従来の研究業績の意義や限界について受講者で議論をします。'
+  source: https://ocw.nagoya-u.jp/courses/0509-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%80%8C%E6%B3%95%E3%80%8D%E3%81%A8%E7%B4%9B%E4%BA%89%E8%A7%A3%E6%B1%BA%E2%80%95%E6%B0%91%E4%BA%8B%E4%BA%8B%E4%BB%B6%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-2015/
+  note: 名大の授業 (NU OCW) 「授業のねらい」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉政知広
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 事件その 1: 雨の夜の事故'
+  contentUrl: https://ocw.nagoya-u.jp/files/509/yoshimasa1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0509-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%80%8C%E6%B3%95%E3%80%8D%E3%81%A8%E7%B4%9B%E4%BA%89%E8%A7%A3%E6%B1%BA%E2%80%95%E6%B0%91%E4%BA%8B%E4%BA%8B%E4%BB%B6%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-2015/
+- name: '講義ノート: 事件その 2: 時代の荒波と職場'
+  contentUrl: https://ocw.nagoya-u.jp/files/509/yoshimasa2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0509-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%80%8C%E6%B3%95%E3%80%8D%E3%81%A8%E7%B4%9B%E4%BA%89%E8%A7%A3%E6%B1%BA%E2%80%95%E6%B0%91%E4%BA%8B%E4%BA%8B%E4%BB%B6%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-2015/
+- name: '講義ノート: 事件その 3: 食品と安全'
+  contentUrl: https://ocw.nagoya-u.jp/files/509/yoshimasa3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0509-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%80%8C%E6%B3%95%E3%80%8D%E3%81%A8%E7%B4%9B%E4%BA%89%E8%A7%A3%E6%B1%BA%E2%80%95%E6%B0%91%E4%BA%8B%E4%BA%8B%E4%BB%B6%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-2015/
+- name: '講義ノート: 事件その 4: 信仰をめぐる争い'
+  contentUrl: https://ocw.nagoya-u.jp/files/509/yoshimasa4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0509-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%80%8C%E6%B3%95%E3%80%8D%E3%81%A8%E7%B4%9B%E4%BA%89%E8%A7%A3%E6%B1%BA%E2%80%95%E6%B0%91%E4%BA%8B%E4%BA%8B%E4%BB%B6%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-2015/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文学部、教育学部、経済学部、法学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

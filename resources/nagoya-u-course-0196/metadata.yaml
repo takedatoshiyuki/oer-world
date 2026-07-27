@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0196
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0196-%E3%81%A0%E3%81%84%E3%81%98%E3%82%87%E3%81%86%E3%81%B6%E3%81%8B%EF%BC%81-%E5%85%AC%E6%95%99%E8%82%B2-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E3%81%A8%E7%A4%BE%E4%BC%9A%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E7%99%BA%E5%B1%95%E3%81%AE%E8%A6%96%E7%82%B9%E3%81%8B%E3%82%89-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: だいじょうぶか！-公教育-人間発達と社会の持続的発展の視点から
+description:
+  ja: 公教育をめぐる議論として、学力向上を求める動きと、それに伴って学力を得点能力やテスト対策として捉える見方を扱う。あわせて、公教育が競争の場になっていくことや、成績や経済条件によって排除が起こる状況を取り上げる。
+quotedDescription:
+  text:
+    ja: 「ゆとり教育」批判をきっかけに、また経済不況の閉塞感に駆り立てられて、人々は学力向上にがむしゃらにがんばっている。しかし、人々がしゃかりきになればなるほど、「学力＝得点能力、学習＝テスト対策」という風潮が強まってきた。「学力＝競争手段」と考えて、公教育を排他的競争の場に変えようとする動きもある。また、学業成績が振るわない子どもや経済的に不利な人々が、公教育から排除されはじめている。しかし、学力とは
+  source: https://ocw.nagoya-u.jp/courses/0196-%E3%81%A0%E3%81%84%E3%81%98%E3%82%87%E3%81%86%E3%81%B6%E3%81%8B%EF%BC%81-%E5%85%AC%E6%95%99%E8%82%B2-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E3%81%A8%E7%A4%BE%E4%BC%9A%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E7%99%BA%E5%B1%95%E3%81%AE%E8%A6%96%E7%82%B9%E3%81%8B%E3%82%89-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中嶋哲彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 教育学
+- 講義内容
+- 講義ビデオ
+- 講義資料
+- 名古屋大学 関連授業
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: だいじょうぶか！公教育 − 人間発達と社会の持続的発展の視点から −
+  contentUrl: https://ocw.nagoya-u.jp/files/196/nakajima.pdf
+  page: https://ocw.nagoya-u.jp/courses/0196-%E3%81%A0%E3%81%84%E3%81%98%E3%82%87%E3%81%86%E3%81%B6%E3%81%8B%EF%BC%81-%E5%85%AC%E6%95%99%E8%82%B2-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E3%81%A8%E7%A4%BE%E4%BC%9A%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E7%99%BA%E5%B1%95%E3%81%AE%E8%A6%96%E7%82%B9%E3%81%8B%E3%82%89-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

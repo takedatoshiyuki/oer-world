@@ -1,0 +1,96 @@
+slug: nagoya-u-course-0805
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0805-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%87%E5%8C%96%E5%AD%A6%E8%AC%9B%E7%BE%A9iia-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: フランス文化学講義IIa / フランス文学講義
+description:
+  ja: ロマン主義を中心に、フランス文学の作品とその時代背景、文学史上の位置づけを扱う講義である。あわせて、絵画・音楽・建築など他分野の芸術や、古典主義、社会・政治との関係にも踏み込む。ドイツ、日本、イギリスのロマン主義にも触れ、比較の視点を含む。
+quotedDescription:
+  text:
+    ja: '本講義の目的は、18 世紀から 19 世紀末までのフランス文学主要な作品のうち、ロマン主義に関わるものを取り上げて、考察することです。目標は文学と芸術（音楽、美術、建築）についての考察を深め、同時にフランス文学史についての知識を修得することにあります。
+
+      ロマン主義とはなにか、考察を深めます。関連するフランス文学の作品を取り上げ、作品の特徴や時代背景を説明して文学史の知識を習得した上で、特徴的な箇所を鑑賞します。また関連する絵画、音楽、建築等の芸術の各ジャンルとの連動についても解説します。
+
+      主に扱う主題は以下の通りです。
+
+      ロマン主義と古典主義、芸術運動と社会・政治
+
+      18 世紀フランス文学におけるロマン主義
+
+      ドイツロマン主義とスタール夫人
+
+      シャトーブリアン
+
+      ラマルチーヌ、ヴィニー、ユゴー、ミュッセの詩
+
+      演劇、特にエルナニ事件とユゴー『クロムウエル』序文
+
+      中世への回帰、ユゴー、バルザック、フロべール、ネルヴァル
+
+      ロマン主義の継続と反動、ボードレール、ルコント・ド・リール
+
+      日本におけるロマン主義
+
+      イギリスにおけるロマン主義、シェークスピアからラスキンへ'
+  source: https://ocw.nagoya-u.jp/courses/0805-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%87%E5%8C%96%E5%AD%A6%E8%AC%9B%E7%BE%A9iia-2021/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 加藤 靖恵
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- フランス語
+- 文化
+- 西洋美術
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第 1 回
+  contentUrl: https://ocw.nagoya-u.jp/files/805/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0805-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%87%E5%8C%96%E5%AD%A6%E8%AC%9B%E7%BE%A9iia-2021/
+- name: 第 7 回
+  contentUrl: https://ocw.nagoya-u.jp/files/805/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0805-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%87%E5%8C%96%E5%AD%A6%E8%AC%9B%E7%BE%A9iia-2021/
+- name: 第 8 回
+  contentUrl: https://ocw.nagoya-u.jp/files/805/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0805-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%87%E5%8C%96%E5%AD%A6%E8%AC%9B%E7%BE%A9iia-2021/
+- name: 第 13 回
+  contentUrl: https://ocw.nagoya-u.jp/files/805/slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0805-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%87%E5%8C%96%E5%AD%A6%E8%AC%9B%E7%BE%A9iia-2021/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 春学期金曜3限
+  targetAudience: 文学部2・3・4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

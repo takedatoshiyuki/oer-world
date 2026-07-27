@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0746
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0746-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E2%85%A0-2019/
+type:
+- LearningResource
+- Course
+name:
+  ja: 解析力学Ⅰ
+description:
+  ja: ラグランジアンやハミルトニアンを用いて、質点や剛体の運動を扱う解析力学の内容を学ぶ教材である。基本原理の理解に加え、簡単な応用を通して手法を身につける構成になっている。
+quotedDescription:
+  text:
+    ja: 'ラクラジアンやハミルトニアンを用いた理論形式は，質点や剛体などの力学系の運動を調べるために非常に有効である。また、2 年後期に学ぶ量子力学 I を理解する上でも、解析力学は必要不可欠である。本講義では，その基本原理を理解すると共に，簡単な応用を通じて手法を取得する。
+
+      ラグラジアンやハミルトニアンを構築する方法を習得し，それらを用いて力学系の運動を理解することができるようになる。'
+  source: https://ocw.nagoya-u.jp/courses/0746-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E2%85%A0-2019/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 野尻伸一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 物理
+- 解析力学
+- 古典力学
+- 量子力学
+- 力学
+- 方程式
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 解析力学１
+  contentUrl: https://ocw.nagoya-u.jp/files/746/kaiseki1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0746-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E2%85%A0-2019/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 前期
+  targetAudience: 物理学科2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

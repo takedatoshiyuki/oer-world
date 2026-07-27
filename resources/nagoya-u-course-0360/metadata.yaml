@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0360
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0360-%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E8%AA%9E%E5%85%A5%E9%96%80Ia%E3%80%81Ib-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: ベトナム語入門Ia、Ib
+description:
+  ja: ベトナム語を通してベトナムを知ることを目的とする入門科目である。公開教材には、プレゼンテーション用の講義ノートと、日本人向けのベトナム語発音の講義ノートが含まれる。
+quotedDescription:
+  text:
+    ja: ベトナムは、近年めざましい発展を遂げる新興国の一つに数えられています。日本と距離的に近く、文化的にも似た部分があり、日本人にとってますます身近な国になってきています。みなさんの中には、これからベトナムに旅行したり、ベトナムについて研究をしたり、あるいはベトナムで仕事をすることになる方もいるかもしれません。
+      この授業は、ベトナム語を通してベトナムを知り、親しく感じてもらえるようになることを目的と
+  source: https://ocw.nagoya-u.jp/courses/0360-%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E8%AA%9E%E5%85%A5%E9%96%80Ia%E3%80%81Ib-2012/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 金村久美
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- ベトナム語
+- 言語
+- ベトナム
+- 文法
+- 漢語
+- 漢字
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: プレゼンテーション'
+  contentUrl: https://ocw.nagoya-u.jp/files/360/note_kanamura.pdf
+  page: https://ocw.nagoya-u.jp/courses/0360-%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E8%AA%9E%E5%85%A5%E9%96%80Ia%E3%80%81Ib-2012/
+- name: '講義ノート: 日本人のためのベトナム語の発音レベル１'
+  contentUrl: https://ocw.nagoya-u.jp/files/360/hatuon_kanamura.pdf
+  page: https://ocw.nagoya-u.jp/courses/0360-%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E8%AA%9E%E5%85%A5%E9%96%80Ia%E3%80%81Ib-2012/
+extensions:
+  faculty: 教養教育院
+  term: 通年
+  targetAudience: 全学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

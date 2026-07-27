@@ -1,0 +1,82 @@
+slug: nagoya-u-course-0735
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学問の面白さを知る
+description:
+  ja: 初年次学部生を対象に、学問の面白さと研究に向き合う姿勢を扱う講義である。名古屋大学高等研究院のメンバーや学内教員らが担当し、8件の公開教材がある。
+quotedDescription:
+  text:
+    ja: 初年次学部生（1 年生）を対象とし、講師は高等研究院アカデミーメンバー、高等研究院教員、院友、学内教員等で構成され、学問の面白さや研究に対する心構えを知ることを目的とする
+  source: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 医学/薬学
+- 化学
+- 生物
+- 経済学/経営学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 素粒子物理学の歩み
+  contentUrl: https://ocw.nagoya-u.jp/files/735/kobayashi.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+- name: 酵素を創る：化学と生物学の境界線
+  contentUrl: https://ocw.nagoya-u.jp/files/735/3_Watanabe.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+- name: ヘレニズム文明を発掘する
+  contentUrl: https://ocw.nagoya-u.jp/files/735/Suto.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+- name: 思想史入門の魅力
+  contentUrl: https://ocw.nagoya-u.jp/files/735/Ando.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+- name: デモクラシーを分析する
+  contentUrl: https://ocw.nagoya-u.jp/files/735/08_Takeda.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+- name: 小さな生き物に秘められた脳の大きな謎
+  contentUrl: https://ocw.nagoya-u.jp/files/735/11_Mori.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+- name: 脳はどうやってできるだろう？ 細胞たちの生き様を問う
+  contentUrl: https://ocw.nagoya-u.jp/files/735/12_Miyata.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+- name: テラヘルツ光源の開発と非破壊検査応用
+  contentUrl: https://ocw.nagoya-u.jp/files/735/14_Kawase.pdf
+  page: https://ocw.nagoya-u.jp/courses/0735-%E5%AD%A6%E5%95%8F%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E7%9F%A5%E3%82%8B-2019/
+extensions:
+  faculty: 高等研究院
+  term: 前期
+  targetAudience: 全学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

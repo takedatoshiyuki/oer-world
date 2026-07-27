@@ -1,0 +1,112 @@
+slug: nagoya-u-course-0920
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0920-%E6%B3%95%E3%81%A8%E9%96%8B%E7%99%BA-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法と開発
+description:
+  ja: 法と開発に関する講義で、名古屋大学の国際開発研究科で2023年度春学期に開講された。対象は国際開発研究科博士前期課程で、公開教材は5件ある。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 島田 弦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 国際
+- 政治
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: No.1
+  contentUrl: https://ocw.nagoya-u.jp/files/920/20230413_Law%20and%20Development%20No01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0920-%E6%B3%95%E3%81%A8%E9%96%8B%E7%99%BA-2023/
+- name: No.2
+  contentUrl: https://ocw.nagoya-u.jp/files/920/20230420_Law%20and%20Development%20No02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0920-%E6%B3%95%E3%81%A8%E9%96%8B%E7%99%BA-2023/
+- name: No.3
+  contentUrl: https://ocw.nagoya-u.jp/files/920/20230427_Law%20and%20Development%20No03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0920-%E6%B3%95%E3%81%A8%E9%96%8B%E7%99%BA-2023/
+- name: No.4
+  contentUrl: https://ocw.nagoya-u.jp/files/920/20230511_Law%20and%20Development%20No04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0920-%E6%B3%95%E3%81%A8%E9%96%8B%E7%99%BA-2023/
+- name: No.5
+  contentUrl: https://ocw.nagoya-u.jp/files/920/20230525_Law%20and%20Development%20No05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0920-%E6%B3%95%E3%81%A8%E9%96%8B%E7%99%BA-2023/
+extensions:
+  faculty: 国際開発研究科
+  term: 春学期
+  targetAudience: 国際開発研究科 博士前期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'As a basic subject, by taking this course, participants are expected to understand the outline
+      of law and institution in the context of development, as well as how to implement legal regulations
+      for the development.
+
+      Through this course, students should understand: what is the relationship between the legal system
+      and socio-economic-politicaldevelopment; what legal system is desirable for socio-economic development;
+      what is the mechanism of legal development; what is adifference of legal system and practice between
+      developing society and developed society.
+
+      In the first part of the lecture, the lecture will discuss theoretical aspects of the law and development,
+      including economic theory, legaltheory, and cultural theory. The focus of this course is not limited
+      to the law in narrow definitions such as legislation, regulation, orjudgment. The discussion also
+      covers various forms of government mechanisms, public administration, and political regimes. Furthermore,informal
+      law (such as religious or customary norms and institutions) has a significant impact on development.
+      Thus, the course alsodiscusses the relationship between development and informal institutions.
+
+      In the second part, this lecture will try conducting practical lessons, namely, learning legislation.
+      In implementing a development project,legislation plays a significant role by changing peoples behavior
+      (imposing sanctions), legitimating resource allocation (e.g., allowing agovernment to allocate budget
+      to a particular area), giving guidelines (showing what is an expected goal), or maintaining social
+      order (solvingdisputes in a peaceful way).
+
+      In this lecture, we will make a draft bill to achieve a development goal (the issue will be discussed
+      in the class). Legal drafting includes goalsetting, making legal research on facts, determining
+      ways of the regulation (punishment or incentive), constructing a consistent structureof rules, and
+      so on. Students are expected to participate actively in the class and preparation work.
+
+      本授業の英語ページはこちら：
+
+      Law and Development
+
+      Participants can:
+
+      obtain essential knowledge about the development that is necessary to understand the relationship
+      between law and development;
+
+      acquire the essential skill to apply the institutional theory in studying own research topic;
+
+      obtain knowledge on the importance of legislation and legal policy in the development and basic
+      skills in legislative drafting.'
+  source: https://ocw.nagoya-u.jp/courses/0920-%E6%B3%95%E3%81%A8%E9%96%8B%E7%99%BA-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

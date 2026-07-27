@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0187
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0187-%E5%AE%B6%E6%97%8F%E7%9C%8B%E8%AD%B7%E5%AD%A6-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 家族看護学
+description:
+  ja: 家族看護の定義と目標、主要理論を確認し、家族の発達段階と各期の発達課題を扱う講義である。あわせて、健康問題を中心にした家族アセスメントの目的と方法の概要、家族全体のQOLに資する援助方法の基本を学ぶ。
+quotedDescription:
+  text:
+    ja: 家族看護とは何か，家族看護における看護職の役割，健康問題を中心にした家族看護アセスメント方法および家族全体のＱＯＬに資する援助方法の基本について講義する。   1. 家族看護の定義と目標および家族看護学の主要な理論について説明できる。   2.
+      家族の発達段階とその特徴，各期における家族の発達課題について説明できる。  3. 家族アセスメントの目的と方法の概要が説明できる。  4. 健康
+  source: https://ocw.nagoya-u.jp/courses/0187-%E5%AE%B6%E6%97%8F%E7%9C%8B%E8%AD%B7%E5%AD%A6-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 浅野みどり
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 看護
+- 看護職
+- 家族看護学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 家族看護学概論'
+  contentUrl: https://ocw.nagoya-u.jp/files/187/note4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0187-%E5%AE%B6%E6%97%8F%E7%9C%8B%E8%AD%B7%E5%AD%A6-2009/
+- name: '講義ノート: '
+  contentUrl: https://ocw.nagoya-u.jp/files/187/note1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0187-%E5%AE%B6%E6%97%8F%E7%9C%8B%E8%AD%B7%E5%AD%A6-2009/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 前期
+  targetAudience: 医学部／保健学科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

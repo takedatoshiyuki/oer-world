@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0995
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0995-%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%8C%E7%A0%94%E7%A9%B6%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E3%80%80%E2%80%93%E8%84%B3%E7%A5%9E%E7%B5%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A%E2%80%93-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 患者さんとの出会いが研究を変える
+description:
+  ja: 医学部4年生向けの選択特別講義で、名古屋大学の医学部／医学系研究科で秋学期に開講される。公開教材として、20年後の脳神経内科を題材にした講義スライドが含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 勝野 雅央　教授　ほか
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- slide
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 神経科学
+- 病理学
+- 脳神経内科
+- ゲノム
+- 臨床試験
+- 授業の概要・目的
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 5. みんなで考えよう！20年後の脳神経内科 講義スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/995/slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0995-%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%8C%E7%A0%94%E7%A9%B6%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E3%80%80%E2%80%93%E8%84%B3%E7%A5%9E%E7%B5%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A%E2%80%93-2025/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 秋学期（選択特別講義）
+  targetAudience: 医学部４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low
+quotedDescription:
+  text:
+    ja: '授業終了時に学生は、以下のことができる。
+
+      医学研究における臨床医の視点について説明できる。
+
+      自分もこんな研究ができたらと想像できる。'
+  source: https://ocw.nagoya-u.jp/courses/0995-%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%8C%E7%A0%94%E7%A9%B6%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E3%80%80%E2%80%93%E8%84%B3%E7%A5%9E%E7%B5%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A%E2%80%93-2025/
+  note: 名大の授業 (NU OCW) 「到達目標」より（同サイトの利用条件に基づく転載）

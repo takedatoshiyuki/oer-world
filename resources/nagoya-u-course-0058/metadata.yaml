@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0058
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 計算情報学-I
+description:
+  ja: 数値計算の基礎として、連立一次方程式、非線形方程式の逐次近似法、常微分方程式、偏微分方程式の差分解法を扱う。計算機応用の立場からこれらの問題の基礎を説明し、講義ノートとチェックテストの問題・解答が公開されている。
+quotedDescription:
+  text:
+    ja: 数値計算の基礎となる連立一次方程式、非線形方程式の逐次近似法、ならびに、ならびに常微分方程式（初期値・境界値問題）と偏微分方程式の差分解法の基礎について、計算機応用の立場から解説する。
+  source: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 鈴木泰博
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- ict
+keywords:
+- 情報学
+- 物理
+- 微分方程式
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: チェックテスト（第１回）-問題と解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/check1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '課題: チェックテスト（第２回）-問題と解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/check2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 1 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 2 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 3 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 4 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 5 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 7 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 8 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 9 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 11 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 12 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+- name: '講義ノート: 第 13 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/58/13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0058-%E8%A8%88%E7%AE%97%E6%83%85%E5%A0%B1%E5%AD%A6-I-2011/
+extensions:
+  faculty: 情報文化学部
+  term: 前期
+  targetAudience: 情報文化学部自然情報学科3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

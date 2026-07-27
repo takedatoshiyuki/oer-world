@@ -1,0 +1,88 @@
+slug: nagoya-u-course-0914
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報セキュリティとリテラシー１
+description:
+  ja: 情報セキュリティと情報リテラシに関する基礎的なテーマを扱う講義資料である。名大内の基盤やサービス、ネットワークサービスの仕組み、認証、サイバー攻撃とマルウェア、情報倫理、ソーシャルエンジニアリング、関連法規までを資料として含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 嶋田 創
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- ict
+keywords:
+- 情報学
+- 情報セキュリティ
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: ガイダンス資料
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide01g.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: レポート（演習）課題資料
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide01r.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: 情報学部学生が利用可能な名大内の基盤とサービス
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: 近年の情報セキュリティと関連して必要とされる情報リテラシ
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: ネットワークとサーバによるネットワークサービス提供
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: 各種認証とその運用
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: サイバー攻撃とマルウェア
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: 情報倫理、ソーシャルエンジニアリング
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+- name: 情報セキュリティと情報倫理に関連する法律
+  contentUrl: https://ocw.nagoya-u.jp/files/914/slide07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 春学期
+  targetAudience: 学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '近年では金銭目的をゴールとする情報セキュリティ侵害が激増しており、情報系学部出身者には情報セキュリティを重視したリテラシが期待されるようになってきている。
+
+      本講義では、近年の情報セキュリティ関係のニュースについて、バックエンドの情報システム側の構造もある程度踏まえた上で理解できる能力を習得することを目的とする。'
+  source: https://ocw.nagoya-u.jp/courses/0914-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%91-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0157
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0157-%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88%E5%B8%83%E7%BD%AE%E8%A7%A3%E9%87%88%E5%AD%A6%E5%8E%9F%E8%AB%96-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: テクスト布置解釈学原論
+description:
+  ja: 名古屋大学で2008年後期に文学研究科を対象として開講された講義の資料である。公開されている教材は講義ノート1件で、講義資料としてまとめられている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐藤彰一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 文学
+- 歴史研究
+- テクスト
+- テクスト布置とは
+- 講義概要、講義ノート
+- 講義リスト
+- テクスト布置とは
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/157/lect_shigemi%20.pdf
+  page: https://ocw.nagoya-u.jp/courses/0157-%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88%E5%B8%83%E7%BD%AE%E8%A7%A3%E9%87%88%E5%AD%A6%E5%8E%9F%E8%AB%96-2008/
+extensions:
+  faculty: 文学部／文学研究科
+  term: 後期
+  targetAudience: 文学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

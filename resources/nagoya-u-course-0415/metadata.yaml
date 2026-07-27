@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0415
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0415-%E7%B5%8C%E5%96%B6%E5%8A%B4%E5%8B%99-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営労務
+description:
+  ja: 企業における労働と人事管理を扱う講義で、人事管理がどのような目的で行われ、どのように成り立ってきたかを考える。あわせて、その課題を検討し、企業と人々の関係をめぐる実践へつなげることをめざす。
+quotedDescription:
+  text:
+    ja: '企業経営は、労働者を従業員として雇用し、労働力を引き出すことで成立する。
+
+      また、多くの人々にとって、人生を営み自らを成長させる最大の手段が企業での労働である。
+
+      企業と人々のマッチングを図る人事管理は、近年変化の最中にある。
+
+      この講義では、人事管理の目的、成り立ち、課題を検討することを通じ、受講生が自らのみならず他者の生き方、働き方をよりよいものとするような実践に踏み出すきっかけを共有することを目指す。'
+  source: https://ocw.nagoya-u.jp/courses/0415-%E7%B5%8C%E5%96%B6%E5%8A%B4%E5%8B%99-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 江夏幾多郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: ガイダンス（経営労務・第 1 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/415/enatsumaterial2013.pdf
+  page: https://ocw.nagoya-u.jp/courses/0415-%E7%B5%8C%E5%96%B6%E5%8A%B4%E5%8B%99-2015/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 後期
+  targetAudience: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0039
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0039-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2003/
+type:
+- LearningResource
+- Course
+name:
+  ja: 解析力学及び演習
+description:
+  ja: 解析力学を扱い、ラグランジェ形式にもとづいて複雑な系の運動を解析的に解く方法を学ぶ講義・演習である。あわせて、力学形式の基本的な考え方も取り上げる。
+quotedDescription:
+  text:
+    ja: 物理学には「力学」「電磁気学」「熱・統計力学」「量子力学」など重要な学問体系がある。この中で、「解析力学」は力学体系のうち、数学的手法を用いる比較的高度な内容を含むものである。そもそも力学はニュートンの３原則をもととして体系化されている。そのなかでニュートンの運動方程式は物体の運動を記述するものであるが、この基礎方程式は、このほかにもラグランジェ形式とハミルトン形式からも導かれる。本講義・演習ではラグランジェ形式にもとづいて、複雑な系の運動を解析的に解くことを学ぶ。同時に背景にある力学形式の基本的考え方についても学習する。
+  source: https://ocw.nagoya-u.jp/courses/0039-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2003/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 井上順一郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- engineering
+keywords:
+- 工学
+- 物理
+- 量子力学
+- 統計力学
+- 力学
+- 解析力学
+- 微分積分学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 講義ノート'
+  contentUrl: https://ocw.nagoya-u.jp/files/39/Mechanics4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0039-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2003/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 後期
+  targetAudience: 工学部物理工学科応用物理学コース量子エネルギー工学コース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

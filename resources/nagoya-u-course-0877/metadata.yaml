@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0877
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0877-%E6%A9%9F%E6%A2%B0%E3%83%BB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96%E3%80%8D-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 機械・航空宇宙工学序論
+description:
+  ja: 名古屋大学の工学部1年生向けに開講された、機械工学と航空宇宙工学の入門講義である。公開教材として、マイクロ・ナノ機械、飛行、脱炭素社会、流体力学を扱う4件の資料がある。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松本 健郎　教授　ほか
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 機械工学
+- 航空宇宙工学
+- 機械力学
+- 流体力学
+- 授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: マイクロ・ナノ機械
+  contentUrl: https://ocw.nagoya-u.jp/files/877/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0877-%E6%A9%9F%E6%A2%B0%E3%83%BB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96%E3%80%8D-2022/
+- name: 飛行について
+  contentUrl: https://ocw.nagoya-u.jp/files/877/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0877-%E6%A9%9F%E6%A2%B0%E3%83%BB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96%E3%80%8D-2022/
+- name: 脱炭素社会の実現に向けて
+  contentUrl: https://ocw.nagoya-u.jp/files/877/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0877-%E6%A9%9F%E6%A2%B0%E3%83%BB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96%E3%80%8D-2022/
+- name: 流体力学
+  contentUrl: https://ocw.nagoya-u.jp/files/877/slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0877-%E6%A9%9F%E6%A2%B0%E3%83%BB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B7%A5%E5%AD%A6%E5%BA%8F%E8%AB%96%E3%80%8D-2022/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 春学期
+  targetAudience: 工学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

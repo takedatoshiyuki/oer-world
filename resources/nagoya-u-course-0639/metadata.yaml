@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0639
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0639-%E7%94%9F%E4%BD%93%E3%81%AE%E6%A9%9F%E8%83%BDII-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生体の機能II
+description:
+  ja: 生体の植物機能を中心に、呼吸、循環、消化吸収、排泄、生殖、内分泌系、自律神経系の働きを分子・細胞レベルから個体レベルまで扱う講義である。公開教材としては、恒常性と体液を扱う講義ノートが1件ある。
+quotedDescription:
+  text:
+    ja: '生体の機能は、個体の新生、発達、維持のための機能（植物機能）と、外界の変化の受容、外界への働きかけ、そして高次の精神活動などの機能（動物機能）とに分けられる。
+
+      生体の機能 II の講義では主に植物機能について学ぶ。すなわち、ガス交換を行う呼吸機能、物質と熱の運搬に関与する循環機能、エネルギー摂取を行う消化吸収機能、老廃物の排泄機能、新個体発生のための生殖機能、これらを調節する内分泌系および自律神経系の機能を、分子・細胞レベルから、さらに組織・臓器・個体レベルにおいて包括的に理解することを目標とする。
+
+      この正常の生体機能を理解することで、異常状態としての疾患を扱う臨床医学を学ぶ基礎を身につける。'
+  source: https://ocw.nagoya-u.jp/courses/0639-%E7%94%9F%E4%BD%93%E3%81%AE%E6%A9%9F%E8%83%BDII-2017/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久場博司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 臨床医学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 恒常性・体液'
+  contentUrl: https://ocw.nagoya-u.jp/files/639/medical%20physiology.pdf
+  page: https://ocw.nagoya-u.jp/courses/0639-%E7%94%9F%E4%BD%93%E3%81%AE%E6%A9%9F%E8%83%BDII-2017/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 前期
+  targetAudience: 医学部2年　編入生3年人体の機能
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0397
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0397-%E7%84%A1%E6%A9%9F%E5%8C%96%E5%AD%A6IV-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 無機化学IV
+description:
+  ja: 無機化学I, IIで学んだ基礎を土台に、周期表の1, 2, 13〜18族元素の化学を扱う教材である。族ごとの元素の性質や反応性を整理し、代表的な単体や小分子の分子軌道・エネルギー準位を通して、電子構造との関係を学ぶ。
+quotedDescription:
+  text:
+    ja: 'この講義では、先に無機化学 I, II で習得した無機化学の基礎的な知識を基に、周期表における 1, 2, 13〜18 族元素（典型元素）の化学について、更なる理解を目指す。
+
+      周期表の族ごとに元素の性質を整理し、基本的な反応性について学ぶ。
+
+      いくつかの主だった元素の単体および元素を含む小分子の分子軌道とエネルギー準位について学び、単体や小分子の性状・反応性を電子構造と結び付けて理解し、予測する力を習得する。'
+  source: https://ocw.nagoya-u.jp/courses/0397-%E7%84%A1%E6%A9%9F%E5%8C%96%E5%AD%A6IV-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中島洋
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 化学
+- 有機化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 無機化学 IV 講義資料
+  contentUrl: https://ocw.nagoya-u.jp/files/397/inorganic_chemistry_IV.pdf
+  page: https://ocw.nagoya-u.jp/courses/0397-%E7%84%A1%E6%A9%9F%E5%8C%96%E5%AD%A6IV-2013/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 前期
+  targetAudience: 理学部化学科3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: nagoya-u-course-0958
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0958-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: フィールドワーク入門
+description:
+  ja: '名古屋大学国際開発研究科の博士前期課程向けに、2024年春学期に開講された講義の教材を公開する。公開されている教材は「Class 1: Course Introduction」の1件で、講義の導入回にあたる内容を扱う。'
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 伊賀　司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- フィールドワーク
+- ※本授業の英語ページはこちら：
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 'Class 1: Course Introduction'
+  contentUrl: https://ocw.nagoya-u.jp/files/958/%E4%BC%8A%E8%B3%80%E5%85%88%E7%94%9Fslide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0958-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-2024/
+extensions:
+  faculty: 国際開発研究科
+  term: 春学期
+  targetAudience: 博士前期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: この授業では、教員がフィールドワークの方法を説明するだけでなく、学生がチームを組んで実際に行動する時間を重視しています。授業の前半は講義にあて、後半はチームに分かれてグループワークに取り組みます。グループワークでは、各グループに対して、インタビューの計画や質問の仕方などの具体的なスキルを講師が直接指導します。学生は、2種類のインタビューを自分たちで計画し実施します。一つは、家族や親しい友人に対して行うライフストーリーを中心とした「非構造化インタビュー」、もう一つは、特定のテーマに沿った職業人に対する「半構造化インタビュー」です。これらの実践を通じて、学生はフィールドワークの疑似体験を積むことができます。最終的には、インタビュー結果を基にしたレポートや論文を作成する力を養うことが、この授業の最大の目標です。
+  source: https://ocw.nagoya-u.jp/courses/0958-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-2024/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

@@ -1,0 +1,75 @@
+slug: nagoya-u-course-0124
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0124-%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A63-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 微生物学3
+description:
+  ja: 名古屋大学の「微生物学3」で、農学部応用生命科学科3年生を対象とする前期科目である。公開教材には、酵母研究、転写活性化因子の構造と機能、接合現象、細胞周期、老化研究に関する講義ノートが含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 饗場浩文
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 生物
+- 農学
+- モデル生物
+- 生命現象
+- 遺伝子
+- 細胞
+- ヒト
+- 微生物学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 酵母と酵母研究'
+  contentUrl: https://ocw.nagoya-u.jp/files/124/sugi1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0124-%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A63-2011/
+- name: '講義ノート: 転写活性化因子の構造と機能'
+  contentUrl: https://ocw.nagoya-u.jp/files/124/sugi8~9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0124-%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A63-2011/
+- name: '講義ノート: 接合現象'
+  contentUrl: https://ocw.nagoya-u.jp/files/124/sugi11~12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0124-%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A63-2011/
+- name: '講義ノート: 細胞周期'
+  contentUrl: https://ocw.nagoya-u.jp/files/124/sugi13~14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0124-%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A63-2011/
+- name: '講義ノート: 老化研究'
+  contentUrl: https://ocw.nagoya-u.jp/files/124/sugi15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0124-%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A63-2011/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 前期
+  targetAudience: 農学部 応用生命科学科3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,59 @@
+slug: nagoya-u-course-0681
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0681-%E6%B3%95%E5%93%B2%E5%AD%A6-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法哲学
+description:
+  ja: 法とは何かという法概念論・法理論と、法はどうあるべきかという正義論を扱う。自然法論や法実証主義、リベラリズムなどの基本概念を押さえたうえで、具体的な問題を考察するための基礎を築く内容である。
+quotedDescription:
+  text:
+    ja: 法とは何かと法はどうあるべきかという法哲学上の問題を説明する。前者は法概念論や法理論を内容とする。後者は正義論を内容とする。キーワードとしては、自然法論、法実証主義、リベラリズム、リバタリアニズム、コミュニタリアニズムなどの基本概念を理解し、そのうえで、具体的な問題を考察できるようにすることが狙いである。そうすると、さまざまな公共政策をめぐる問題にアプローチするための基礎が獲得できるだろう。
+      第0
+  source: https://ocw.nagoya-u.jp/courses/0681-%E6%B3%95%E5%93%B2%E5%AD%A6-2018/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松尾陽
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+- 哲学
+- 講義概要
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 法学部／法学研究科
+  term: 前期
+  targetAudience: 法学部　3年　4年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

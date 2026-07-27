@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0728
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0728-Practical-Presentation-Skills-(Research-Skills-C-1)-2019/
+type:
+- LearningResource
+- Course
+name:
+  ja: Practical-Presentation-Skills-(Research-Skills-C-1)
+description:
+  ja: 研究を発表で伝えるための技能とその実践を扱う講義ノートである。論理的に明確に伝えることや、分野をまたいだ建設的なコミュニケーションを意識した内容を含む。
+quotedDescription:
+  text:
+    ja: 'In an informal atmosphere, this course provides students with important
+
+      skills, practice and confidence in communicating research effectively through presentations. It
+      emphasizes logical clarity and enjoying constructive communication across fields.'
+  source: https://ocw.nagoya-u.jp/courses/0728-Practical-Presentation-Skills-(Research-Skills-C-1)-2019/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: Mark WEEKS
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 経済学/経営学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: Presentation Skills/Techniques'
+  contentUrl: https://ocw.nagoya-u.jp/files/728/book.pdf
+  page: https://ocw.nagoya-u.jp/courses/0728-Practical-Presentation-Skills-(Research-Skills-C-1)-2019/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 大学院生共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

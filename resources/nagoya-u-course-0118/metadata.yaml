@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0118
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0118-%E9%80%A3%E5%88%86%E6%95%B0%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E4%B8%96%E7%95%8C-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: 連分数の不思議な世界
+description:
+  ja: 連分数の基本的な形と、無理数の連分数表示が無限に続くことを扱う講義である。さらに、連分数と幾何学の結びつきに話題を進める。高校生と高校教員を対象とした公開講座の教材として、講義ノートが公開されている。
+quotedDescription:
+  text:
+    ja: 連分数というのは分数の分母がまた分数になっていて,またその分数の分母が分数になっていて…という入れ子の形をした分数のことです.特に無理数(2の平方根とか)の連分数表示は無限に続きます.この連分数は数学のいたるところに現れますが,ここでは幾何学との意外な結びつきについてお話します.身近なところに無限が潜んでいる様を感じ取ってもらえたら,と思います.
+  source: https://ocw.nagoya-u.jp/courses/0118-%E9%80%A3%E5%88%86%E6%95%B0%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E4%B8%96%E7%95%8C-2008/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 糸健太郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 数学アゴラ
+- 幾何学
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/118/ito.pdf
+  page: https://ocw.nagoya-u.jp/courses/0118-%E9%80%A3%E5%88%86%E6%95%B0%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E4%B8%96%E7%95%8C-2008/
+extensions:
+  faculty: 多元数理科学研究科
+  term: 公開講座
+  targetAudience: 高校生と高校教員
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

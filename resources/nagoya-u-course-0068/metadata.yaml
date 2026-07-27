@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0068
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0068-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電磁気学-I
+description:
+  ja: この教材は、電磁気学の基礎概念と手法を学ぶ講義に対応する講義ノートである。内容は、真空中や誘電体、導体を含む空間における、時間的に変化しない電荷分布と静的な電界を扱う。
+quotedDescription:
+  text:
+    ja: 本講義では、現代科学技術における重要な基礎分野の一つである電磁気学を学び、その基礎概念と手法について理解を深めるとともに、電磁気学とその概念を利用した理工学分野を学ぶための基礎学力を養う。本講義では、真空中や誘電体および導体をふくむ空間に、電荷が分布していて時間的に変化しない静的な電界（電場）について学ぶ。
+  source: https://ocw.nagoya-u.jp/courses/0068-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松村年郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 数学
+- ガウス
+- 基礎学力
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 電磁気学 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/68/ts1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0068-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2011/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 工学部4系
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

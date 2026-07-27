@@ -1,0 +1,101 @@
+slug: nagoya-u-course-0045
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 科学・技術の哲学
+description:
+  ja: 科学哲学の観点から、ID論、フロイト派精神分析、常温核融合などの題材を扱う講義である。あわせて、ポパーや新科学哲学、過小決定といった論点にも触れる教材が公開されている。
+quotedDescription:
+  text:
+    ja: １７世紀以降発展してきた西洋流の自然科学の成功は否定することができない。しかし、この成功の副産物として、怪しげな主張が「科学」の装いをまとうことで受け入れられようとする、いわゆる疑似科学が多く見られるのも事実である。しかし、では何が科学で何が疑似科学かという問に答えるのは一見して考えられるほど容易ではない。  本講義では、科学哲学の観点からこれらの疑似科学とよばれるものを分析することを通じて、科
+  source: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 伊勢田哲治
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 工学
+- 創造科学
+- 哲学
+- 実在論
+- 核融合
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '配布資料: イントロダクション'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: ID 論と科学哲学'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: ポパー'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: フロイト派精神分析'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: 過小決定について補足'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: ヘルメス的科学'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: 新科学哲学'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: 常温核融合'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: コミュニケーションシート'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/communication.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: '配布資料: 期末試験について'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/sp_note09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: 第一回レポート課題
+  contentUrl: https://ocw.nagoya-u.jp/files/45/report1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: 第二回レポート課題
+  contentUrl: https://ocw.nagoya-u.jp/files/45/report2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+- name: 'レポート: 期末試験'
+  contentUrl: https://ocw.nagoya-u.jp/files/45/exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0045-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2006/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 全学の1、2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

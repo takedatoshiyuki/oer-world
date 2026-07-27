@@ -1,0 +1,59 @@
+slug: nagoya-u-course-0971
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0971-%E7%B4%B0%E8%83%9E%E5%AD%A6ia-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: 細胞学Ia
+description:
+  ja: 名古屋大学の理学部／理学研究科で、学部3年生を対象に2024年度春学期に開講された「細胞学Ia」の教材である。公開教材として「2024年度 細胞学 Ⅰa」があり、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 大澤 志津江
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 生物
+- 細胞間相互作用
+- 形態形成
+- がん
+- ショウジョウバエ
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 2024年度 細胞学 Ⅰa
+  contentUrl: https://ocw.nagoya-u.jp/files/971/1112slidenew.pdf
+  page: https://ocw.nagoya-u.jp/courses/0971-%E7%B4%B0%E8%83%9E%E5%AD%A6ia-2024/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 春学期
+  targetAudience: 理学部・理学研究科　学部3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

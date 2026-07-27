@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0740
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0740-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%92-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: インフォマティクス２
+description:
+  ja: この教材は、情報化が人間や社会にもたらす変化を、複数の学問分野の視点から扱う。公開されている教材では、哲学・倫理学、心理学・認知科学、美学・芸術学、複雑系科学の観点から変化を考える内容がそろっている。
+quotedDescription:
+  text:
+    ja: 情報社会をさらに進め、人々に幸せをもたらすには、さまざまな分野の力を結集することが必要です。この授業では、情報化による人間・社会の変化について、倫理学・芸術学・心理学・メディア研究・情報社会デザイン、そして複雑系科学の視点から語ってもらいます。それぞれの分野は情報化とそれによる変化をどう捉えようとしているのか、その方法に注目してください。
+  source: https://ocw.nagoya-u.jp/courses/0740-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%92-2021/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- メディア
+- 情報社会
+- 心理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 哲学・倫理学からみた変化
+  contentUrl: https://ocw.nagoya-u.jp/files/740/01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0740-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%92-2021/
+- name: 心理学・認知科学から見た変化
+  contentUrl: https://ocw.nagoya-u.jp/files/740/02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0740-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%92-2021/
+- name: 美学・芸術学から見た変化
+  contentUrl: https://ocw.nagoya-u.jp/files/740/03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0740-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%92-2021/
+- name: 複雑系科学から見た変化
+  contentUrl: https://ocw.nagoya-u.jp/files/740/06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0740-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%92-2021/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 春学期
+  targetAudience: 情報学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

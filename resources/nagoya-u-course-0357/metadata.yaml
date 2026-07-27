@@ -1,0 +1,99 @@
+slug: nagoya-u-course-0357
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: Development-Sociology-開発社会学
+description:
+  ja: この教材は、国際開発に関する基本的な理論とアプローチを扱う講義資料である。開発の定義や測定から始まり、歴史、理論、ポスト開発、ジェンダー、グローバル化、援助の制度的主体、市民社会、環境、農村開発までを順に扱う。
+quotedDescription:
+  text:
+    ja: This lecture series will introduce students to basic theories and approaches in international
+      development. We will begin by examining how development has been defined, measured, and approached
+      by the
+  source: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 伊東早苗
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 国際
+- 目的・概要
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: Development Sociology 2015 (Full Document)
+  contentUrl: https://ocw.nagoya-u.jp/files/357/full.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: 'Introduction: what is development?'
+  contentUrl: https://ocw.nagoya-u.jp/files/357/1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: History of development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Theories of development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Post-development and alternatives to development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Gender and development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Globalization and development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: The state, development agencies, and bilateral aid
+  contentUrl: https://ocw.nagoya-u.jp/files/357/7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Multilateral actors in development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Civil society and development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Enviroment and development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Rural development
+  contentUrl: https://ocw.nagoya-u.jp/files/357/11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+- name: Social Research Methods
+  contentUrl: https://ocw.nagoya-u.jp/files/357/12-15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0357-Development-Sociology-%E9%96%8B%E7%99%BA%E7%A4%BE%E4%BC%9A%E5%AD%A6-2015/
+extensions:
+  faculty: 国際開発研究科
+  term: 前期
+  targetAudience: 国際協力専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

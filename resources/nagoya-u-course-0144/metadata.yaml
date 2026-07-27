@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0144
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0144-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E8%AB%96b-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本語文法論b
+description:
+  ja: 現代日本語の文法をいくつかの話題に分け、具体例をもとに分析・考察する講義である。あわせて、日本語教科書や文法解説書における文法項目の扱いを整理し、日本語教育への応用や実用的な文法指導の方法まで扱う。
+quotedDescription:
+  text:
+    ja: 現代日本語の文法にかかわるトピックをいくつか取りあげ、具体例をあげながら分析・考察する。また、日本語教科書、文法解説書などで、文法項目がどのように扱われ、記述されているかを整理・検討し、日本語教育への効果的な応用、特に実用的な文法指導の方法についても論じる。
+  source: https://ocw.nagoya-u.jp/courses/0144-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E8%AB%96b-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 李 澤熊
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 日本語
+- 言語
+- 文法項目
+- 文法
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 「テンス・アスペクト」'
+  contentUrl: https://ocw.nagoya-u.jp/files/144/le1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0144-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E8%AB%96b-2011/
+- name: '講義ノート: 「はじめる・かける・だす」'
+  contentUrl: https://ocw.nagoya-u.jp/files/144/le2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0144-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E8%AB%96b-2011/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 後期
+  targetAudience: 国際言語文化研究科 日本言語文化専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

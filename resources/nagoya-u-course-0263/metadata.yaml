@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0263
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0263-%E5%85%89%E3%83%BB%E6%94%BE%E5%B0%84%E7%B7%9A%E5%8C%96%E5%AD%A6-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 光・放射線化学
+description:
+  ja: この教材は、光化学と放射線化学の基本的考えを、理論と物理化学の側面から扱う講義である。あわせて、感光性樹脂や接着剤、環境化学、生化学、医学、塗料など、光や放射線を利用する技術の応用先にも触れる。
+quotedDescription:
+  text:
+    ja: 化学や材料の分野においても光や放射線を使った技術は今後ますます重要となっていきます。その応用は感光性樹脂や接着剤、環境化学、生化学、医学、塗料など多岐に渡ります。本講義は、光化学と放射線化学の基本的考えを理論と物理化学的な側面から捉えることを目的としています。
+  source: https://ocw.nagoya-u.jp/courses/0263-%E5%85%89%E3%83%BB%E6%94%BE%E5%B0%84%E7%B7%9A%E5%8C%96%E5%AD%A6-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 関隆広
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 物理化学
+- 環境化学
+- 材料科学
+- 生化学
+- 放射線
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義資料抜粋'
+  contentUrl: https://ocw.nagoya-u.jp/files/263/seki.pdf
+  page: https://ocw.nagoya-u.jp/courses/0263-%E5%85%89%E3%83%BB%E6%94%BE%E5%B0%84%E7%B7%9A%E5%8C%96%E5%AD%A6-2011/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 後期
+  targetAudience: 工学部 化学生物工学科応用化学コース3年生・物理工学科量子エネルギーコース4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

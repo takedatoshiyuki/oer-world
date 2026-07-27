@@ -1,0 +1,82 @@
+slug: nagoya-u-course-0459
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0459-%E7%97%85%E7%90%86%E5%AD%A6%E7%B7%8F%E8%AB%96%E3%83%BB%E5%90%84%E8%AB%96-(%E7%97%85%E5%9B%A0%E3%81%A8%E7%97%85%E6%85%8B%E5%AD%A6)-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 病理学総論・各論-(病因と病態学)
+description:
+  ja: 病理学を、疾病の原因や本質から臓器・組織ごとの主要な病変まで段階的に扱う講義として構成している。総論では肉眼的・組織学的変化や細胞小器官の変化を学び、各論では顕微鏡観察やバーチュアルスライドを用いた実習を通して個々の疾患を扱う。症例検討は5年次に行う内容として位置づけられている。
+quotedDescription:
+  text:
+    ja: '病理学はヒトの病気の成り立ちを学ぶ「基礎と臨床の架け橋」となるコースであり、総論・各論と症例検討より構成される。
+
+      総論では、疾病の原因および本質に関する一般原則を考究する。特に、疾病時の肉眼的・組織学的変化および細胞小器官の変化について学習する。実習として形態学的観察ならびにそのスケッチを行うことにより、講義内容について、より具体的なイメージを持つことができるよう指導する。スケッチのために、講義も含めた毎時間、24
+      色以上の色鉛筆と実習時にはスケッチブックを持参されたい。本学では写真を撮影するだけの安易な実習は行わない。真理を見出すには、努力と忍耐が必要である。
+
+      各論では、個々の臓器や組織に見出される主要な疾病に関する講義を行ない、特に光学顕微鏡やバーチュアルスライドを使用した実習に重点をおいて、自主的に個々の疾病についての病理学的知識および考え方を修得できるよう指導する。講義時間に限りがあるため重要な疾患を中心に講義を行うので、自学自習も必須である。そのための教科書としては、ロビンス基礎病理学第
+      9 版 (日本語・英語) を推薦する。
+
+      症例検討は 5 年次で行なうが、3 年次で習得した病理学の基礎的知識の上に、臨床教育の成果をふまえて、病理解剖症例を通じて個体レベルで疾患をとらえ、患者が死に至るまでの病理学的変化の過程を基礎医学と臨床医学の双方の知識をもって統合的に考える修練をする。
+
+      病理学を学ぶためには、解剖学・組織学に関する基礎的な知識を持っていることを前提としている。疾患に関する用語・概念はこのコースで初めて習うので、その習得を重視する。現在、医師国家試験は日本語の医学用語で行われているが、日進月歩の著しい医学・生命医学領域で活躍するためには、英語の文献を難なく読め、そして英語で議論し、自らの主張を英語で表現できることが必須である。この時期に英語の病理学教科書を読破できるようにすれば、それは諸君の一生の宝となるであろう。試験では主要な医学用語については、英語に関する知識も問うので留意しておくこと。
+
+      病理学は病気を理解するための学問であり、使用する方法論を選択するわけではないが、ヘマトキシリン・エオジン染色を基本とした形態学を普遍的軸足として重視している。これはひとえに臓器における病態の俯瞰的な理解が容易であることによる。熟練した病理医は、何十種類もの細胞が入り交じりながら数万個存在する組織の病理標本をひとめ見ただけで病態を把握することができる。社会における病理医の重要性は山崎豊子著「白い巨塔」やアーサー・ヘイリー著「最後の診断」などに描かれている通りである。教育にあたっては既成の病理学の体系を尊重するとともに、
+      最近の新しい動向にも十分留意する方針である。なお、平成 22 年度よりサーバーとコンピュータ端末を利用したバーチュアルスライドシステムを導入しており、試験にもこれを使用する。'
+  source: https://ocw.nagoya-u.jp/courses/0459-%E7%97%85%E7%90%86%E5%AD%A6%E7%B7%8F%E8%AB%96%E3%83%BB%E5%90%84%E8%AB%96-(%E7%97%85%E5%9B%A0%E3%81%A8%E7%97%85%E6%85%8B%E5%AD%A6)-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 豊國伸哉
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- slide
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 基礎医学
+- 化学物質
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 病理学総論・各論講義・実習予定表 (平成 27 年度) 4 月〜7 月
+  contentUrl: https://ocw.nagoya-u.jp/files/459/schedule.pdf
+  page: https://ocw.nagoya-u.jp/courses/0459-%E7%97%85%E7%90%86%E5%AD%A6%E7%B7%8F%E8%AB%96%E3%83%BB%E5%90%84%E8%AB%96-(%E7%97%85%E5%9B%A0%E3%81%A8%E7%97%85%E6%85%8B%E5%AD%A6)-2015/
+- name: 配布資料を開く
+  contentUrl: https://ocw.nagoya-u.jp/files/459/handout.pdf
+  page: https://ocw.nagoya-u.jp/courses/0459-%E7%97%85%E7%90%86%E5%AD%A6%E7%B7%8F%E8%AB%96%E3%83%BB%E5%90%84%E8%AB%96-(%E7%97%85%E5%9B%A0%E3%81%A8%E7%97%85%E6%85%8B%E5%AD%A6)-2015/
+- name: 講義スライドを見る
+  contentUrl: https://ocw.nagoya-u.jp/files/459/lecturematerial.pdf
+  page: https://ocw.nagoya-u.jp/courses/0459-%E7%97%85%E7%90%86%E5%AD%A6%E7%B7%8F%E8%AB%96%E3%83%BB%E5%90%84%E8%AB%96-(%E7%97%85%E5%9B%A0%E3%81%A8%E7%97%85%E6%85%8B%E5%AD%A6)-2015/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 前期
+  targetAudience: 医学部医学科3年生、3年次編入生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

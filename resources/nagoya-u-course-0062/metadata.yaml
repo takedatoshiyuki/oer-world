@@ -1,0 +1,75 @@
+slug: nagoya-u-course-0062
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0062-%E6%A9%9F%E6%A2%B0%E5%89%B5%E9%80%A0%E8%A8%AD%E8%A8%88%E8%A3%BD%E4%BD%9C-2007/
+type:
+- LearningResource
+- Course
+name:
+  ja: 機械創造設計製作
+description:
+  ja: 機械技術者としての設計製作の流れを、与えられたテーマをもとに構想から実演まで通して扱う講義である。公開教材には、配布資料とグループコンテストのルール、PDF資料が含まれる。
+quotedDescription:
+  text:
+    ja: 機械技術者として必要な創造的設計力の習得のため，与えられたテーマに関し，構想，設計，製作，実演までの一貫したプロセスを体験させる。
+  source: https://ocw.nagoya-u.jp/courses/0062-%E6%A9%9F%E6%A2%B0%E5%89%B5%E9%80%A0%E8%A8%AD%E8%A8%88%E8%A3%BD%E4%BD%9C-2007/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 生田幸士
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 機械工学
+- ロボティクス
+- 授業の目的およびねらい
+- 1分間授業紹介
+- を参照してください。
+- -->
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 96.pdf
+  contentUrl: https://ocw.nagoya-u.jp/files/62/96.pdf
+  page: https://ocw.nagoya-u.jp/courses/0062-%E6%A9%9F%E6%A2%B0%E5%89%B5%E9%80%A0%E8%A8%AD%E8%A8%88%E8%A3%BD%E4%BD%9C-2007/
+- name: 21.pdf
+  contentUrl: https://ocw.nagoya-u.jp/files/62/21.pdf
+  page: https://ocw.nagoya-u.jp/courses/0062-%E6%A9%9F%E6%A2%B0%E5%89%B5%E9%80%A0%E8%A8%AD%E8%A8%88%E8%A3%BD%E4%BD%9C-2007/
+- name: 初回配布資料
+  contentUrl: https://ocw.nagoya-u.jp/files/62/ikuta2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0062-%E6%A9%9F%E6%A2%B0%E5%89%B5%E9%80%A0%E8%A8%AD%E8%A8%88%E8%A3%BD%E4%BD%9C-2007/
+- name: 'レポート: グループコンテストルール'
+  contentUrl: https://ocw.nagoya-u.jp/files/62/ikuta1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0062-%E6%A9%9F%E6%A2%B0%E5%89%B5%E9%80%A0%E8%A8%AD%E8%A8%88%E8%A3%BD%E4%BD%9C-2007/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学部機械・航空工学科機械システム工学コース電子機械工学コース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

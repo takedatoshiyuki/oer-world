@@ -1,0 +1,75 @@
+slug: nagoya-u-course-0570
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0570-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9B%E2%85%A2-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理科学展望Ⅲ
+description:
+  ja: パーコレーション理論の基本概念から始め、非浸透相から浸透相への相転移と無限クラスターの一意性を扱う教材である。あわせて、これらの話題の中で測度論的確率論の手法と初歩的なエルゴード理論がどのように用いられるかを概観する。
+quotedDescription:
+  text:
+    ja: パーコレーション (浸透理論) の基本的概念から出発し、非浸透相から浸透相への相転移、無限クラスターの一意性について述べる。これらを通じ、測度論的確率論の手法、さらに (初歩的な) エルゴード理論が、物理的問題の中でどのように使われるかを概観する。
+  source: https://ocw.nagoya-u.jp/courses/0570-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9B%E2%85%A2-2016/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉田伸生
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 数理科学
+- 英語講義
+- 微分積分学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: Percolation(一括ファイル, 50 ページ)
+  contentUrl: https://ocw.nagoya-u.jp/files/570/handout_total.pdf
+  page: https://ocw.nagoya-u.jp/courses/0570-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9B%E2%85%A2-2016/
+- name: §0. Introdution
+  contentUrl: https://ocw.nagoya-u.jp/files/570/handout_0.pdf
+  page: https://ocw.nagoya-u.jp/courses/0570-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9B%E2%85%A2-2016/
+- name: §1. The percolation probability
+  contentUrl: https://ocw.nagoya-u.jp/files/570/handout_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0570-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9B%E2%85%A2-2016/
+- name: §2. Ergodic theory in the context of percolation
+  contentUrl: https://ocw.nagoya-u.jp/files/570/handout_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0570-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9B%E2%85%A2-2016/
+- name: §3. Infinite cluster
+  contentUrl: https://ocw.nagoya-u.jp/files/570/handout_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0570-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9B%E2%85%A2-2016/
+extensions:
+  faculty: 多元数理科学研究科
+  term: 前期
+  targetAudience: 理学部4年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

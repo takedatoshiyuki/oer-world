@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0136
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 古代国家と手工業
+description:
+  ja: 日本古代の律令国家が手工業生産をどのように統制しようとしたかを、瓦生産を例に扱う講義である。六国史・律令格式・正倉院文書と、発掘調査で出土した文字瓦の分析を通じて、生産の実態と国家の関与を検討する。文字瓦から生産現場の情報を読み取り、国家が把握していない生産のあり方にも目を向ける。
+quotedDescription:
+  text:
+    ja: この講義は、文献史学の方法により、日本古代の律令国家が手工業生産をどのように支配しようとしたのか、という問題について、国家が掌握していない部分も視野に入れながら考えることを目的とします。今回は、その中でも瓦の生産を題材とします。まず、六国史、律令格式、正倉院文書などから、古代における瓦生産の基本的なあり方について整理した上で、次に発掘調査によって出土した文字瓦の分析を行います。瓦に記された箆書きの文字は、瓦を焼く前にしか記すことはできません。従って、箆書文字瓦の内容からは、生産現場の情報を知ることができます。文字瓦の分析に基づいて、国家による瓦生産の支配や、国家掌握外の瓦生産の問題について検討したいと思います。
+  source: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 古尾谷知浩
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- arts_humanities
+keywords:
+- 文学
+- 文献史学
+- 考古学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 第 1 回講義資料 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page001.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 1 回講義資料 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page002.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 2,3,4 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page003.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 5,6,7 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page004.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 8,9 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page005.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 10,11 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 12 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page007.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 13 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page008.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 14 回講義資料 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page009.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 14 回講義資料 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page010.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: '講義ノート: 第 14 回講義資料 3'
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page011.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: 参考資料 1
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page012.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+- name: 参考資料 2
+  contentUrl: https://ocw.nagoya-u.jp/files/136/page013.pdf
+  page: https://ocw.nagoya-u.jp/courses/0136-%E5%8F%A4%E4%BB%A3%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%89%8B%E5%B7%A5%E6%A5%AD-2011/
+extensions:
+  faculty: 文学部／文学研究科
+  term: 前期
+  targetAudience: 文学部3・4年生文学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

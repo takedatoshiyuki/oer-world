@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0517
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0517-%E7%B5%8C%E5%96%B6%E7%B5%84%E7%B9%94-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営組織
+description:
+  ja: 本講義は、経営学における環境適応を軸に、外部環境と組織目標の関係を前半で扱う。後半では、組織目標の実現に必要な内部環境適応の諸理論を詳しく扱う。あわせて、組織内で課題を発見し解決する力の育成を目指す。
+quotedDescription:
+  text:
+    ja: 本講義では、経営学の基本である環境適応について正しく理解することで、組織の中で自ら課題を発見し、解決ができる力 (自主的探求力) を育成する。前半では、外部環境と組織目標の関わりを中心に講義する。後半では、そうした組織目標の実現に必要とされる内部環境適応のための諸理論について詳説する。
+  source: https://ocw.nagoya-u.jp/courses/0517-%E7%B5%8C%E5%96%B6%E7%B5%84%E7%B9%94-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 犬塚篤
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 経営組織(序論)「環境適応」とは何か
+  contentUrl: https://ocw.nagoya-u.jp/files/517/keiseisoshiki1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0517-%E7%B5%8C%E5%96%B6%E7%B5%84%E7%B9%94-2015/
+- name: 講義資料(拡大ゼミ)
+  contentUrl: https://ocw.nagoya-u.jp/files/517/LectureNote.pdf
+  page: https://ocw.nagoya-u.jp/courses/0517-%E7%B5%8C%E5%96%B6%E7%B5%84%E7%B9%94-2015/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 前期
+  targetAudience: 経済学部 3・4年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

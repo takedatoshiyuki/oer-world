@@ -1,0 +1,108 @@
+slug: nagoya-u-course-0261
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電磁気学-I
+description:
+  ja: 固定された電荷がつくる電界と、一定速度で運動する電荷のまわりに生じる磁界を扱う講義である。公開されている講義ノートでは、電磁気学の歴史や必要な数学から始め、クーロンの法則、ガウスの法則、電位、導体、コンデンサ、電流回路、ローレンツ力までを順に扱う。
+quotedDescription:
+  text:
+    ja: 電磁気学 I では、固定された電荷がある場合、その電荷によって影響を受ける、即ち力を受ける別の電荷にとっての電界や、一定の速度で電荷が運動するとき、その周りにどのような磁界ができるかを定式化して、様々な例についての電界・磁界の解析を行います。
+  source: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 天野浩
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 数学
+- ガウス
+- 法則
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 電磁気学構築の歴史および身の回りの電磁気学的現象'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 電磁気学を理解するために必要な数学 その１ 微分と積分'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 電磁気学を理解するために必要な数学 その２ ベクトル演算'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: クーロンの法則'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 電界と電束密度、ガウスの発散定理とガウスの法則の積分形と微分'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 電位の定義、静電ポテンシャルエネルギー'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 電気双極子、種々の帯電体による電界と電位の計算法'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 導体、金属による静電遮蔽、アースの意味'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: コンデンサ'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 誘電体 コンデンサに蓄えられるエネルギー'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: アンペアの定義 電流と回路 キルヒホッフの法則の導出'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: ローレンツ力 磁性体 磁界と磁束密度'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: アンペアの周回積分 ビオ・サバールの法則'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: ストークスの定理 アンペアの周回積分の微分形 復習'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_LN14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 第 1 回理解度チェックテスト'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_Check1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+- name: '講義ノート: 第 2 回理解度チェックテスト'
+  contentUrl: https://ocw.nagoya-u.jp/files/261/Amano_Check2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0261-%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6-I-2010/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 工学部社会環境工学科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

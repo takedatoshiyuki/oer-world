@@ -1,0 +1,83 @@
+slug: nagoya-u-course-0349
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナージェンダーを学ぶ
+description:
+  ja: この教材は、ジェンダーを社会・文化的に構成された性として捉え、日常生活や社会の現象をその視点から問い直す内容を扱う。あわせて、文献検索、レジュメ作成、発表、討議といった基礎的な学習方法も取り上げる。公開資料には、ワークシート、課題、講義ノート、プレゼン資料、レジュメが含まれる。
+quotedDescription:
+  text:
+    ja: ジェンダーとは、生物学的な性＝セックスに対して、社会・文化的に構成された性のことです。 本セミナーでは、日常生活や社会の様々な現象をジェンダーの視点から問い直す過程で、文献の検索方法、レジュメの作成方法、発表や討議の方法などの基礎を身に着けることをねらいとします。
+  source: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+  note: 名大の授業 (NU OCW) 「授業のねらい」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 窪田由紀
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 社会科学
+- ジェンダー
+- 心理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 第 1 回ワークシート'
+  contentUrl: https://ocw.nagoya-u.jp/files/349/kubota_worksheet_no1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+- name: '課題: 第 3 回資料「ジェンダークイズ」'
+  contentUrl: https://ocw.nagoya-u.jp/files/349/kubota_quiz.pdf
+  page: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+- name: '課題: ワークシート'
+  contentUrl: https://ocw.nagoya-u.jp/files/349/kubota_worksheet.pdf
+  page: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+- name: '課題: テーマ'
+  contentUrl: https://ocw.nagoya-u.jp/files/349/kubota_theme.pdf
+  page: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+- name: '課題: 発表時相互評価用紙'
+  contentUrl: https://ocw.nagoya-u.jp/files/349/H24kubota_hyouka.pdf
+  page: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+- name: '講義ノート: 第 3 回プレゼン資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/349/H24kubota3pre.pdf
+  page: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+- name: '講義ノート: 第 3 回レジュメ'
+  contentUrl: https://ocw.nagoya-u.jp/files/349/kubota_resume_no3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0349-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-2012/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

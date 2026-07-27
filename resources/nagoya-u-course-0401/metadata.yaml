@@ -1,0 +1,89 @@
+slug: nagoya-u-course-0401
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0401-Word-and-Image-in-Japanese-Narrative-I%E3%80%9ClV-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: Word-and-Image-in-Japanese-Narrative-I〜lV
+description:
+  ja: 日本の物語文化における文字とイメージの関係を、前近代から近代・現代まで通して扱う講義である。個別作品やジャンルを取り上げながら、視覚的物語の制作と受容、さらにテキストとイメージの関係や改作、相互テクスト性を考えるための語彙を導入する。
+quotedDescription:
+  text:
+    ja: '(Semester 1): This course, the first part of a year-long survey, will introduce students to the
+      rich traditions of visual storytelling in medieval and early modern Japan. Through a series of units
+      on individual works and genres, including the Tale of
+
+      Genji
+
+      scrolls, medieval
+
+      gunki-monogatari
+
+      scrolls, Buddhist scriptures and early modern illustrated books, students will gain practical knowledge
+      about the production and reception of visual narratives, as well as broad-based historical and cultural
+      knowledge to enhance appreciation. Secondary readings will introduce critical vocabulary for analyzing
+      interactions between text and image, adaptation across genres, and intertextuality.
+
+      (Semester 2): This course, the second part of a year-long survey, will introduce students to traditions
+      of visual storytelling popular during the late nineteenth- and twentieth-centuries, highlighting
+      points of contingency with traditions introduced in the first course. Through a series of units
+      on individual works and genres, including woodblock prints,
+
+      ponchi-e, manga, shashin shōsetsu
+
+      (photo novels) and other popular print genres, film,
+
+      anime
+
+      , and
+
+      keitai shōsetsu
+
+      (cell phone novels) students will gain practical knowledge about the production and reception of
+      visual narratives, with a view towards gaining historical and cultural context for appreciating
+      the interplay between technology and narrative form.'
+  source: https://ocw.nagoya-u.jp/courses/0401-Word-and-Image-in-Japanese-Narrative-I%E3%80%9ClV-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: ミギー・ディラン・パトリック
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 芸術/美術/音楽
+- G30
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: G30
+  term: 後期
+  targetAudience: G30
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

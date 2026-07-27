@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0285
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0285-%E6%86%B2%E6%B3%95-II%EF%BC%88%E4%BA%BA%E6%A8%A9%E3%83%BB%E6%86%B2%E6%B3%95%E8%A8%B4%E8%A8%9F%EF%BC%89-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 憲法-II（人権・憲法訴訟）
+description:
+  ja: 本教材は、憲法のうち人権と憲法訴訟論を扱い、まず日本国憲法における違憲審査制度の概要を示す。そのうえで、人権条項の解釈と適用をめぐる憲法学説および判例を検討する。公開教材には、司法権と違憲審査制度、総論、表現の自由に関する講義ノートが含まれる。
+quotedDescription:
+  text:
+    ja: この講義では、憲法・憲法学のうち、人権および憲法訴訟論を取り上げる(総論 および統治機構については憲法 I で取り扱う)。日本国憲法の下で採用されてい る違憲審査制度について概説した後、人権条項の解釈・適用にかんする憲法学説
+      および判例の分析・検討を行う。
+  source: https://ocw.nagoya-u.jp/courses/0285-%E6%86%B2%E6%B3%95-II%EF%BC%88%E4%BA%BA%E6%A8%A9%E3%83%BB%E6%86%B2%E6%B3%95%E8%A8%B4%E8%A8%9F%EF%BC%89-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 大河内美紀
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 司法権の観念と違憲審査制度'
+  contentUrl: https://ocw.nagoya-u.jp/files/285/ohkouchi2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0285-%E6%86%B2%E6%B3%95-II%EF%BC%88%E4%BA%BA%E6%A8%A9%E3%83%BB%E6%86%B2%E6%B3%95%E8%A8%B4%E8%A8%9F%EF%BC%89-2015/
+- name: '講義ノート: 総論:「人権保障」のあり方をめぐる諸問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/285/ohkouchi3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0285-%E6%86%B2%E6%B3%95-II%EF%BC%88%E4%BA%BA%E6%A8%A9%E3%83%BB%E6%86%B2%E6%B3%95%E8%A8%B4%E8%A8%9F%EF%BC%89-2015/
+- name: '講義ノート: 表現の自由'
+  contentUrl: https://ocw.nagoya-u.jp/files/285/ohkouchi4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0285-%E6%86%B2%E6%B3%95-II%EF%BC%88%E4%BA%BA%E6%A8%A9%E3%83%BB%E6%86%B2%E6%B3%95%E8%A8%B4%E8%A8%9F%EF%BC%89-2015/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 前期
+  targetAudience: 法学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

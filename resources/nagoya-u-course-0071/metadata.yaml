@@ -1,0 +1,102 @@
+slug: nagoya-u-course-0071
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 図情報とコンピュータ
+description:
+  ja: 表計算ソフトウェアを用いて、最小二乗近似や相関解析、自己相関分析、判別分析、気温予測などの時系列データ解析を扱う。続いて、数式処理ソフトウェアを使った基礎数学、代数計算、微分・積分、グラフ作成、2次元アニメーションの操作を扱う。
+quotedDescription:
+  text:
+    ja: 表計算ソフトウェアを用いた実用的な時系列データ解析法について学習する．続いて，数式処理ソフトウェアを利用して基礎数学・グラフ作成・アニメーション・サウンド処理を行う方法について学習する．
+  source: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 北栄輔
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 情報学
+- 数学
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: Excel による最小二乗近似'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/nizyo1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Excel による最小二乗近似(追加問題)'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/nizyo2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Excel による相関解析'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/soukan.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Excel による自己相関分析'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/jiko-soukan.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Excel による判別分析'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/handan.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Excel による気温予測(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/temp.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Excel による気温予測(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/temp2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Mathematica の基礎'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/math-kiso.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Mathematica による代数計算'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/math-daisu.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Mathematica による微分・積分'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/math-biseki.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Mathematica によるグラフィックス'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/math-graphic.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Mathematica による 2 次元アニメーション'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/2d.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Mathematica による 3 次元図形処理'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/3d.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+- name: '講義ノート: Mathematica によるサウンド処理'
+  contentUrl: https://ocw.nagoya-u.jp/files/71/sound1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0071-%E5%9B%B3%E6%83%85%E5%A0%B1%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF-2014/
+extensions:
+  faculty: 教養教育院
+  term: 通年
+  targetAudience: 【前期】　情報文化学部(社会)、文学部、経済学部、教育学部、法学部【後期】　情報文化学部(自然)、理学部、医学部、農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

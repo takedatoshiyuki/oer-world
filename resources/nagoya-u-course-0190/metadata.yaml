@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0190
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0190-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 産業社会と企業
+description:
+  ja: 現代の産業社会における企業の役割を軸に、グローバル競争の中で日本企業が直面する経営戦略や事業構造の変化を扱う講義である。あわせて、経営学の基礎理論の理解と、実際の企業経営の事例を通じた考察を目標にしている。
+quotedDescription:
+  text:
+    ja: 現代の産業社会において、企業の重要性はますます高まっている。 厳しさを増すグローバル競争のなかで、日本企業は、根本的な経営戦略の転換と様々な事業構造の再構築を迫られている。 21世紀における企業経営はどうあるべきなのか。本講義の最終的なねらいはその指針を見いだすことにある。
+      より具体的には、以下の点を目標とする。   1. 経営学の基礎的な理論の理解を深める。  2. 現実の企業経営の事例を
+  source: https://ocw.nagoya-u.jp/courses/0190-%E7%94%A3%E6%A5%AD%E7%A4%BE%E4%BC%9A%E3%81%A8%E4%BC%81%E6%A5%AD-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 涌田幸宏
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 文化
+- 産業社会
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

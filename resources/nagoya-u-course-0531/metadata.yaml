@@ -1,0 +1,103 @@
+slug: nagoya-u-course-0531
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: ギリシア神話学
+description:
+  ja: この教材は、ギリシア神話を題材に、神話とは何かという問題を扱う。複数のヴァージョンを持つ個々の神話を取り上げ、似た話を並べて比較しながら、その背後にある意味を探る構成になっている。
+quotedDescription:
+  text:
+    ja: 神話とは何かと考えた時、昔話や御伽噺や伝説なら比較的たやすく説明できるのに、神話はなかなかすっきりと説明できないことに気付きます。神が出てくることは多いが、必ずしも神の話ではありません。荒唐無稽な話ばかりですが、子供だましでもありません。ギリシア神話のひとつひとつには、高度の脚色されたさまざまなヴァージョンがありますが、脚色をとりのぞいてゆくと単純なストーリーが残り、たいていそこには何らかの真実が力強く埋込まれています。似た話を並べてみることによってそれが見えてくることもあります。この授業は、そういう神話の性質を伝え、それぞれの神話の奥にある意味をさぐる力を涵養することを目指しています。それは、読んだり覚えたりして楽しむだけでなく、世界や人生や神をとらえ直したり、西欧人の考え方の枠組みを理解する助けにもなるはずです。
+  source: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉武純夫
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 国際
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 神話とは何か
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 世界の成立
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 人類の成立 プロメテウスとパンドラ
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 神々の名誉と領分
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 神と人の恋
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: ヘラクレス
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: トロイア戦争とアキレウス
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: オデュッセウス
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: タンタロス家
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: テーバイ家
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 死別する夫婦 オルフェウス/アルケスティス
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 山
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 洞窟
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 川と泉
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+- name: 冥界
+  contentUrl: https://ocw.nagoya-u.jp/files/531/document15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0531-%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E7%A5%9E%E8%A9%B1%E5%AD%A6-2015/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 後期
+  targetAudience: 文学部2-4年生、文学研究科大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,53 @@
+slug: nagoya-u-course-0936
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0936-%E7%A9%BA%E9%96%93%E8%A8%88%E7%94%BB%E8%AB%96-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: 空間計画論
+description:
+  ja: 名古屋大学の工学部／工学研究科で、学部2年生を対象に秋学期に開講する講義である。担当は加藤博和で、2023年度の授業として提供される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 加藤 博和
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 土木工学
+- 建築工学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 工学部／工学研究科
+  term: 秋学期
+  targetAudience: 学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

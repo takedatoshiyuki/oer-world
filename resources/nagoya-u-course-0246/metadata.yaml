@@ -1,0 +1,91 @@
+slug: nagoya-u-course-0246
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人間発達科学-I
+description:
+  ja: 人間発達科学に関わる基本概念として、〈人間〉、〈発達〉、〈教育〉を取り上げる講義である。これらの概念をめぐる議論とその背景に注目しながら概説する内容になっている。
+quotedDescription:
+  text:
+    ja: 'この授業では、〈人間〉、〈発達〉、〈教育〉など、人間発達科学における基本的な概念についてそれをめぐる議論と背景に注目しながら概説する。
+
+      〈人間〉、〈発達〉、〈教育〉などの諸概念に関する知識を得ることを通して人間発達科学への基本的な視座を身につけること。'
+  source: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉川卓治
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 生物
+- 人間発達科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: 参考文献リスト'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa_reference.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 2 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 3 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 4 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 5 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 6 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 7 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 8 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 9 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+- name: '講義ノート: 第 10 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/246/yoshikawa-10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0246-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2008/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 後期
+  targetAudience: 教育学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0112
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0112-B.-%E3%82%A8%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AA%E7%99%BA%E9%9B%BB%E8%A3%85%E7%BD%AE%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: B.-エコロジーな発電装置を作ろう！
+description:
+  ja: 高校生向けの公開講座として、エコロジーな発電装置を作る実験を扱う教材である。公開されている資料は、実験の概要、開始前の準備、実験の進め方に分かれている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 一野祐亮 准教授, 本田善央
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 本授業の目的およびねらい
+- 実験資料
+- 実験概要
+- 実験を始める前に
+- 実験の流れ
+- 名古屋大学 関連授業
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 実験概要
+  contentUrl: https://ocw.nagoya-u.jp/files/112/B1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0112-B.-%E3%82%A8%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AA%E7%99%BA%E9%9B%BB%E8%A3%85%E7%BD%AE%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81-2008/
+- name: 実験を始める前に
+  contentUrl: https://ocw.nagoya-u.jp/files/112/B2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0112-B.-%E3%82%A8%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AA%E7%99%BA%E9%9B%BB%E8%A3%85%E7%BD%AE%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81-2008/
+- name: 実験の流れ
+  contentUrl: https://ocw.nagoya-u.jp/files/112/B3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0112-B.-%E3%82%A8%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AA%E7%99%BA%E9%9B%BB%E8%A3%85%E7%BD%AE%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81-2008/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 公開講座
+  targetAudience: 高校生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

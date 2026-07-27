@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0597
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0597-%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%9B%B8%E4%BA%92%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9E-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会的相互行為と言語
+description:
+  ja: 名古屋大学で2016年度前期に開講された、日本語で行う講義である。文学部／人文学研究科に属し、G30対象として、文学部2年生以上や他学部3年生以上、NUPACE学生を受講対象に含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 安井永子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- G30
+- 授業の内容・方法
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 前期
+  targetAudience: G30対象、文学部2年生以上、他学部3年生以上可、NUPACE学生修復可
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '相互行為の仕組みについて理解し、説明できる
+
+      会話分析の研究手法と知見を理解し、応用できる
+
+      会話分析で得られた知見を、実際のコミュニケーションの状況に適応させることができる
+
+      文献を正確に読み解き、説明できる能力を身につける'
+  source: https://ocw.nagoya-u.jp/courses/0597-%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%9B%B8%E4%BA%92%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9E-2016/
+  note: 名大の授業 (NU OCW) 「到達目標」より（同サイトの利用条件に基づく転載）

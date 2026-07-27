@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0249
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0249-%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E6%96%87%E5%AD%A6b%E2%88%92%E6%97%A5%E4%B8%AD%E3%81%AE%E3%83%95%E3%82%A7%E3%83%9F%E3%83%8B%E3%82%BA%E3%83%A0%EF%BC%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E6%96%87%E5%AD%A6%E6%89%B9%E8%A9%95%E3%81%AE%E6%B5%81%E3%82%8C-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: ジェンダーと文学b−日中のフェミニズム＼ジェンダー文学批評の流れ
+description:
+  ja: 日中のフェミニズム／ジェンダー批評を、文学批評を中心に読み、討論しながら、その批評史や方法、傾向を扱う。あわせて、フェミニズム／ジェンダーの視点から中国映画批評にも触れる。
+quotedDescription:
+  text:
+    ja: 日中のフェミニズム＼ジェンダー批評を、文学批評を中心に読み、討論することによって、その批評史、傾向と様々な方向性、方法等を学ぶ。付随して、フェミニズム＼ジェンダーの視点による中国映画批評に触れる。
+  source: https://ocw.nagoya-u.jp/courses/0249-%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E6%96%87%E5%AD%A6b%E2%88%92%E6%97%A5%E4%B8%AD%E3%81%AE%E3%83%95%E3%82%A7%E3%83%9F%E3%83%8B%E3%82%BA%E3%83%A0%EF%BC%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E6%96%87%E5%AD%A6%E6%89%B9%E8%A9%95%E3%81%AE%E6%B5%81%E3%82%8C-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 星野幸代
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 文学批評
+- 中国文学
+- 日本近代文学
+- 語彙
+- ジェンダー
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 中文版
+  contentUrl: https://ocw.nagoya-u.jp/files/249/tips_chinese_ver.pdf
+  page: https://ocw.nagoya-u.jp/courses/0249-%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E6%96%87%E5%AD%A6b%E2%88%92%E6%97%A5%E4%B8%AD%E3%81%AE%E3%83%95%E3%82%A7%E3%83%9F%E3%83%8B%E3%82%BA%E3%83%A0%EF%BC%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E6%96%87%E5%AD%A6%E6%89%B9%E8%A9%95%E3%81%AE%E6%B5%81%E3%82%8C-2011/
+- name: 是枝裕和監督『歩いても 歩いても』'08 にみる日本の「家」
+  contentUrl: https://ocw.nagoya-u.jp/files/249/lec_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0249-%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E6%96%87%E5%AD%A6b%E2%88%92%E6%97%A5%E4%B8%AD%E3%81%AE%E3%83%95%E3%82%A7%E3%83%9F%E3%83%8B%E3%82%BA%E3%83%A0%EF%BC%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E6%96%87%E5%AD%A6%E6%89%B9%E8%A9%95%E3%81%AE%E6%B5%81%E3%82%8C-2011/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 後期
+  targetAudience: 国際言語文化研究科 国際多元文化専攻・文学研究科の大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

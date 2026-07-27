@@ -1,0 +1,73 @@
+slug: nagoya-u-course-0250
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0250-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%923%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%B8%AC%E5%AE%9A%E6%B3%95%EF%BC%89-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 心理行動科学実験演習3（検査・測定法）
+description:
+  ja: 乳幼児から児童期、さらに成人期までのアセスメントを扱い、心理検査法の習得とその方法論を学ぶ教材である。公開されている講義ノートは、検査・測定法、発達検査、知能、人格検査・その他の検査の4件で構成される。
+quotedDescription:
+  text:
+    ja: '乳幼児〜児童期のアセスメントと成人期のアセスメントについて、心理検査法の習得と方法論についての学習を目的とする。
+
+      心理検査を実施し、検査結果をレポートとしてまとめる。個々の心理検査に関する学習ではなく、教育・臨床場面等における心理アセスメントの実践的な方法論について学習をする。'
+  source: https://ocw.nagoya-u.jp/courses/0250-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%923%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%B8%AC%E5%AE%9A%E6%B3%95%EF%BC%89-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 永田雅子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 教育学
+- 心理学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 検査・測定法'
+  contentUrl: https://ocw.nagoya-u.jp/files/250/lec_note1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0250-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%923%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%B8%AC%E5%AE%9A%E6%B3%95%EF%BC%89-2011/
+- name: '講義ノート: 発達検査'
+  contentUrl: https://ocw.nagoya-u.jp/files/250/lec_note6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0250-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%923%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%B8%AC%E5%AE%9A%E6%B3%95%EF%BC%89-2011/
+- name: '講義ノート: 知能とは'
+  contentUrl: https://ocw.nagoya-u.jp/files/250/lec_note5_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0250-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%923%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%B8%AC%E5%AE%9A%E6%B3%95%EF%BC%89-2011/
+- name: '講義ノート: 人格検査・その他の検査'
+  contentUrl: https://ocw.nagoya-u.jp/files/250/lec_note4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0250-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%923%EF%BC%88%E6%A4%9C%E6%9F%BB%E3%83%BB%E6%B8%AC%E5%AE%9A%E6%B3%95%EF%BC%89-2011/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 後期
+  targetAudience: 対象学年は2年生、教育学部対象ですが、3年時編入生、大学院修士1年生（他大学進学）も含まれます。
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

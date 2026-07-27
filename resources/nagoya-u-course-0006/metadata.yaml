@@ -1,0 +1,93 @@
+slug: nagoya-u-course-0006
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報と法
+description:
+  ja: 情報化社会の現状とそれに伴う法的諸問題を扱い、情報技術の発展や社会の情報化が何を意味するかを考察する。あわせて、ネットワーク、セキュリティ、知的財産権、著作権、ソフトウェア保護に関する参考資料を公開している。
+quotedDescription:
+  text:
+    ja: '情報化社会の現状と法的諸問題について講義するとともに、情報技術の発展が何を意味するのか、社会の情報化の本質は何かという問題に考察を加える。特に、それが従来の社会とそれを支えていた様々な価値・理念にいかなる変容をもたらすか（あるいはもたらさないか）を理論的見地から問題とし、具体的な法制度との関連を追求する。基本的に講義形式だが、前提となる技術的知識については適宜説明を加えるとともに、実際に利用・経験してみる課題を課す。
+
+      情報化の進展に伴う法的諸問題の現状について、正確な知識を習得する。
+
+      情報化社会論の知識と考え方を習得する。
+
+      社会の理論的分析を行うための知識と考え方を習得する。
+
+      情報技術について一定程度の正確な知識を習得する。'
+  source: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 大屋雄裕
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+- 情報社会
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '参考資料: 情報化社会と情報'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: 情報化社会と国家'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: ネットワークと言論空間'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: ネットワークと統治可能性'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: 情報とセキュリティ'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: 補足配付資料「インターネットにおけるセキュリティ」'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: 情報化と知的財産権'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: 著作権制度とその変容'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+- name: '参考資料: ソフトウェアの法的保護'
+  contentUrl: https://ocw.nagoya-u.jp/files/6/notes08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0006-%E6%83%85%E5%A0%B1%E3%81%A8%E6%B3%95-2005/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 前期
+  targetAudience: 法科大学院（大学院法学研究科実務法曹養成専攻）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

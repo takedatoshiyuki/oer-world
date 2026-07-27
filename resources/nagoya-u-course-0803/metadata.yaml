@@ -1,0 +1,54 @@
+slug: nagoya-u-course-0803
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0803-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%EF%BC%89-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語（セミナー）
+description:
+  ja: 名古屋大学の教養教育院が2020年に開講した、学部生向けの講義である。後期の木曜2限に実施され、担当は長山智香子で、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 長山 智香子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 言語
+- 文化
+- 英語
+- 授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 後期木曜2限
+  targetAudience: 学部生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

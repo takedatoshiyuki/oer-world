@@ -1,0 +1,86 @@
+slug: nagoya-u-course-0128
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報リテラシー
+description:
+  ja: 情報処理やコンピュータ・インターネットの基本的なしくみを扱い、メール、情報検索、文章作成といった実践的な操作を取り上げる。さらに、文章や図形を用いて情報を表現する手法も扱う。公開教材には講義ノートと複数の課題が含まれる。
+quotedDescription:
+  text:
+    ja: '情報処理（コンピュータ・インターネット）の基本的なしくみを理解し、情報処理の実践的なテクニック（メールや情報検索・文章作成）を身に付ける。
+
+      また、文章や図形をつかって情報を表現する手法についてテクニックと表現手法を身に付ける。'
+  source: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+  note: 名大の授業 (NU OCW) 「授業のねらい」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 横井茂樹
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 情報学
+- 情報リテラシー
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/128/lect1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+- name: '講義ノート: 講義 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/128/lect2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+- name: 課題 1-1
+  contentUrl: https://ocw.nagoya-u.jp/files/128/assig1-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+- name: 課題 1-2
+  contentUrl: https://ocw.nagoya-u.jp/files/128/assig1-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+- name: 課題 2
+  contentUrl: https://ocw.nagoya-u.jp/files/128/assig2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+- name: 課題 3-1
+  contentUrl: https://ocw.nagoya-u.jp/files/128/assig3-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+- name: 課題 3-2
+  contentUrl: https://ocw.nagoya-u.jp/files/128/assig3-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+- name: 課題 3-3
+  contentUrl: https://ocw.nagoya-u.jp/files/128/assig3-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0128-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2008/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文学部、教育学部、法学部、経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

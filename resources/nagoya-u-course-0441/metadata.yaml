@@ -1,0 +1,225 @@
+slug: nagoya-u-course-0441
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: アカデミック日本語５（漢字２２００）
+description:
+  ja: 約2200字の漢字とその単語を、使用頻度の高い順に学ぶ講義である。既習の約800字を土台に、語彙を増やしながら漢字数を広げていく構成になっている。公開教材には、読み書きの問題と解答、単語と例文の資料が含まれる。
+quotedDescription:
+  text:
+    ja: この講義では約2200字の漢字とその単語をよく使われる順に学びます。800字程度の漢字を既に学習した人が、既習漢字の語彙を増やし、さらに漢字を増やすためのクラスです。 一回の授業は二部に分かれます。一部では漢字とその語彙を、よく使われる順にテストをしながら学びます。二部では、漢字に関するさまざまなトピックで授業を進めます。この講義は、漢字に関する総合的な知識を持ち、漢字とその語彙を理解し、使え
+  source: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 徳弘康代
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 日本語
+- 言語
+- G30
+- 授業の予定と内容
+- 本授業の英語ページはこちら：
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 理工系留学生のための重要漢字ー単語と例文ー
+  contentUrl: https://ocw.nagoya-u.jp/files/441/00-examples.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1-80 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1-80R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1-80 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1-80RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1-80 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1-80W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1-80 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1-80WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 81-160 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/81-160R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 81-160 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/81-160RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 81-160 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/81-160W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 81-160 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/81-160WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 161-240 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/161-240R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 161-240 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/161-240RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 161-240 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/161-240W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 161-240 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/161-240WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 241-320 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/241-320R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 241-320 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/241-320RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 241-320 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/241-320W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 241-320 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/241-320WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 321-400 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/321-400R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 321-400 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/321-400RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 321-400 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/321-400W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 321-400 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/321-400WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 401-480 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/401-480R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 401-480 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/401-480RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 401-480 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/401-480W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 401-480 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/401-480WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 481-560 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/481-560R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 481-560 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/481-560RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 481-560 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/481-560W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 481-560 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/481-560WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 561-640 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/561-640W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 561-640 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/561-640WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 641-720 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/641-720R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 641-720 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/641-720RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 641-720 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/641-720W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 641-720 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/641-720WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 721-800 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/721-800R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 721-800 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/721-800RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 721-800 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/721-800W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 721-800 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/721-800WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 801-880 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/801-880R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 801-880 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/801-880RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 801-880 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/801-880W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 801-880 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/801-880WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 881-960 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/881-960R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 881-960 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/881-960RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 881-960 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/881-960W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 881-960 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/881-960WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 961-1040 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/961-1040R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 961-1040 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/961-1040RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 961-1040 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/961-1040W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 961-1040 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/961-1040WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1041-1120 読みの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1041-1120R.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1041-1120 読みの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1041-1120RA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1041-1120 書きの問題
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1041-1120W.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+- name: 1041-1120 書きの解答
+  contentUrl: https://ocw.nagoya-u.jp/files/441/1041-1120WA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%95%EF%BC%88%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%89-2018/
+extensions:
+  faculty: G30
+  targetAudience: G30学部生、大学院生、留学生、外国人教職員・研究員  週1回全15回
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

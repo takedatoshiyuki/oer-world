@@ -1,0 +1,113 @@
+slug: nagoya-u-course-0044
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育方法学講義-II-授業分析と教育の科学化
+description:
+  ja: 授業分析を軸に、授業で学習者が何を学び、何を実現しつつあるのかを捉える方法を扱う講義である。公開教材には、授業の観察と記録、逐語記録にもとづく分析、授業設計・実施・評価、協同的な教育実践研究に関する資料が含まれる。
+quotedDescription:
+  text:
+    ja: 名古屋大学教育方法研究室では、教育の科学化を標榜し、50 年にわたり授業分析を研究の柱としてきた。本講義では、授業において学習者がどのようなことを学び，何を実現しつつあるのかをとらえるために、授業分析の方法を学ぶ。
+  source: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 柴田好章 教授, 的場正美
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- education
+keywords:
+- 教育学
+- 教育実践研究
+- 教育方法概論
+- 授業研究
+- 教育方法学講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 「学び合うことの意義の探究 —授業におけるコミュニケーションの分析—」
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method02ref.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 「目標に準拠した授業の設計・実施・評価の技法 —授業の設計・実施・評価のサイクル—」
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method03ref.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 「協同的問題解決としての参加型授業研究会 ワークショップの方法と手順」
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method13-14ref_a.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 「問題解決指向の協同的教育実践研究のあり方」
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method13-14ref_b.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業分析とは何か
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 教育の今日的な課題と授業分析
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業の可能性
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業の観察と記録
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業分析の多様なアプローチ
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 名大教育方法の授業分析と教育の科学化
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 逐語記録にもとづく授業分析諸手法
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業記録との対話
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 質的な授業分析への量的手法の統合の可能性
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業研究と教師の成長
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業分析と授業研究
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 研究を媒介とした大学と学校との連携のあり方
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+- name: 授業研究と学校経営
+  contentUrl: https://ocw.nagoya-u.jp/files/44/edu_method15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0044-%E6%95%99%E8%82%B2%E6%96%B9%E6%B3%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E6%8E%88%E6%A5%AD%E5%88%86%E6%9E%90%E3%81%A8%E6%95%99%E8%82%B2%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8C%96-2010/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

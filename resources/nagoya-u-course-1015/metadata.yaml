@@ -1,0 +1,64 @@
+slug: nagoya-u-course-1015
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/1015-%E5%BB%BA%E7%AF%89%E5%8F%B2-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 建築史
+description:
+  ja: 名古屋大学の環境学研究科博士課程向けに、2025年度秋学期に開講される建築史の講義である。公開教材として、東アジアの近代建築史研究に関わる「日本近代建築総覧」と「中国近代建築総覧」を扱う最終回の資料がある。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 西澤 泰彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 環境学
+- 建築史
+- 東アジア
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 最終回：日本近代建築総覧と中国近代建築総覧－東アジアの近代建築史研究
+  contentUrl: https://ocw.nagoya-u.jp/files/1015/slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/1015-%E5%BB%BA%E7%AF%89%E5%8F%B2-2025/
+extensions:
+  faculty: 環境学研究科
+  term: 秋学期
+  targetAudience: 環境学研究科博士課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '19世紀から20世紀における日本を含む東アジア地域の建築を具体的な題材として、その近代化を政治、経済、社会の動きと連動させて理解する。
+
+      授業を通して建築史という学問分野の存在意義を理解し、建築を復元し、かつ、批評するという建築史学の本質を学ぶことを通じて、新たな建築史研究の視点と手法を習得する。さらに、これらによって建築や都市を分析する能力を養い、また、具体的な事物を歴史的な視点から分析する能力を身に付け、地域が有する歴史的環境の保全再生に資する能力を身に付けることを目標とする。'
+  source: https://ocw.nagoya-u.jp/courses/1015-%E5%BB%BA%E7%AF%89%E5%8F%B2-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

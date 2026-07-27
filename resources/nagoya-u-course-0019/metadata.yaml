@@ -1,0 +1,82 @@
+slug: nagoya-u-course-0019
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語（リーディング）4
+description:
+  ja: この教材は、英語の多読を通じて読む速度や語彙力の向上をねらう内容を扱う。あわせて、長い英文を読みきるための読書経験にも触れている。公開教材には、複数の多読用素材や課題、ブックレポートが含まれる。
+quotedDescription:
+  text:
+    ja: 多読を通じて読むスピード・語彙力などを伸ばすと同時に、英語の読書を楽しみつつ、長い英文を読みきる体力をつける。
+  source: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山下淳子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 英語
+- 言語
+- 語彙
+- 授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: Oxford Bookworms'
+  contentUrl: https://ocw.nagoya-u.jp/files/19/oxford_bookworms.pdf
+  page: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+- name: '課題: Heinemann'
+  contentUrl: https://ocw.nagoya-u.jp/files/19/heinemann.pdf
+  page: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+- name: '課題: Cambridge'
+  contentUrl: https://ocw.nagoya-u.jp/files/19/cambridge.pdf
+  page: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+- name: '課題: Penguin'
+  contentUrl: https://ocw.nagoya-u.jp/files/19/penguin.pdf
+  page: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+- name: '課題: Oxford Factfiles'
+  contentUrl: https://ocw.nagoya-u.jp/files/19/oxford_factfiles.pdf
+  page: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+- name: '課題: 提案教材一覧'
+  contentUrl: https://ocw.nagoya-u.jp/files/19/book_list.pdf
+  page: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+- name: '課題: Book report'
+  contentUrl: https://ocw.nagoya-u.jp/files/19/BookReport05zenki.pdf
+  page: https://ocw.nagoya-u.jp/courses/0019-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%894-2005/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

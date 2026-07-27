@@ -1,0 +1,89 @@
+slug: nagoya-u-course-0494
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0494-%E5%BE%AE%E5%88%86%E7%A9%8D%E5%88%86%E5%AD%A6I-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 微分積分学I
+description:
+  ja: 数列・関数の極限と連続性から始まり、一変数関数の微分法と積分法までを扱う。微分では平均値の定理やテイラーの定理、積分ではリーマン積分と広義積分を含み、講義ノートと宿題リストが公開されている。
+quotedDescription:
+  text:
+    ja: '以下の授業内容は標準的に教えられるものであり、講義の順序を示すものではない。また、クラスによっては、さらに進んだ内容が教えられる場合もある。実際の講義予定は別に提示する。
+
+      数列・関数の極限と連続性
+
+      数列・関数の極限に関する基本的事項と連続関数の基本性質を学ぶ。
+
+      (キーワード) 数列・関数の極限、有界単調数列の収束定理、連続関数の基本性質とその応用
+
+      (発展的内容) 実数の連続性・完備性、区間縮小法、収束・発散の速さの評価、ε－Ν論法、ε－δ論法
+
+      一変数関数の微分法
+
+      微分の基本的性質およびその解析・幾何・物理的な意味について理解する。さらに、微分法を用いて関数の様々な性質について調べられるようにする。
+
+      (キーワード) 微分の定義と幾何的意味、導関数と基本公式、初等関数の逆関数とその導関数、平均値の定理、高階導関数、テイラーの定理、不定形の極限
+
+      (発展的内容) 接線、平均値の定理の応用、極値問題、近似計算と誤差の評価、漸近展開、(無限次) テイラー展開、べき級数の収束半径、凸性
+
+      一変数関数の積分法
+
+      リーマン積分を通して定積分を理解する。さらに、広義積分について学習する。
+
+      (キーワード) 区分求積法、定積分、不定積分、微積分学の基本定理、広義積分
+
+      (発展的内容) 種々の関数の積分法、部分分数展開、連続関数の積分可能性、曲線の長さ、広義積分の収束発散の判定、ガンマ関数、ベータ関数、直交多項式'
+  source: https://ocw.nagoya-u.jp/courses/0494-%E5%BE%AE%E5%88%86%E7%A9%8D%E5%88%86%E5%AD%A6I-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 藤江双葉
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 数学
+- 微分積分学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/494/calc1_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0494-%E5%BE%AE%E5%88%86%E7%A9%8D%E5%88%86%E5%AD%A6I-2015/
+- name: '講義ノート: 宿題リスト'
+  contentUrl: https://ocw.nagoya-u.jp/files/494/calc1_hw.pdf
+  page: https://ocw.nagoya-u.jp/courses/0494-%E5%BE%AE%E5%88%86%E7%A9%8D%E5%88%86%E5%AD%A6I-2015/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

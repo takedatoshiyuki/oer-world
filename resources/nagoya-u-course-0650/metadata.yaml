@@ -1,0 +1,55 @@
+slug: nagoya-u-course-0650
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0650-%E5%81%A5%E5%BA%B7%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A7%91%E5%AD%A6%E8%AC%9B%E7%BE%A9-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: 健康・スポーツ科学講義
+description:
+  ja: 名古屋大学の教養教育院が2017年度前期に開講した、日本語で行われる講義である。理・医・農・情報学部を対象とし、健康とスポーツ科学を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山本裕二
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 医学/薬学
+- 健康
+- スポーツ
+- 心理学
+- 講義概要
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 理・医・農・情報学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

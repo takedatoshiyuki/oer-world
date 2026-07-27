@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0064
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0064-%E5%BF%9C%E7%94%A8%E8%A1%8C%E5%8B%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E7%94%A3%E6%A5%AD%E3%83%BB%E7%B5%84%E7%B9%94%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 応用行動学講義-II-産業・組織の心理学
+description:
+  ja: 大学卒業後に職業や組織に入る場面を念頭に、産業・組織に関わる心理学の知見を扱う講義である。組織で起こる現象を心理学の視点から検討し、その理解を深めることを目的とする。
+quotedDescription:
+  text:
+    ja: 大学を卒業後、多くの人は何らかの職業に就き、組織に参入することになる。このため、産業・組織におけるさまざまな心理学的知見について、学んでおくことは有用である。こういった視点を持つことで、実際に働き始めた後の組織現象の理解につながると考えられるからである。本講義では産業・組織について心理学的知見から検討し、理解を深めることを目的とする。
+  source: https://ocw.nagoya-u.jp/courses/0064-%E5%BF%9C%E7%94%A8%E8%A1%8C%E5%8B%95%E5%AD%A6%E8%AC%9B%E7%BE%A9-II-%E7%94%A3%E6%A5%AD%E3%83%BB%E7%B5%84%E7%B9%94%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6-2010/
+  note: 名大の授業 (NU OCW) 「授業のねらい」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 金井篤子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 経済学/経営学
+- 心理学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: 文系学部3年以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

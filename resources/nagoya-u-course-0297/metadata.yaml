@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0297
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0297-%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9B%BD%E8%AA%9E%E8%A1%A8%E7%8F%BE%E8%AB%96ab-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代中国語表現論ab
+description:
+  ja: 現代中国語の特定の言語事象を対象に、問題の所在を整理しながら形式・意味・語用・認知の観点から分析する講義である。中国語学の諸問題を扱い、大学院生を対象として開講されている。公開教材として2011年度前期レポート課題がある。
+quotedDescription:
+  text:
+    ja: 中国語学の諸問題を扱う。現代中国語におけるある言語事象について、その問題の所在を明らかにするとともに、形式・意味・語用・認知などの側面から、総合的に分析を加えていく。
+  source: https://ocw.nagoya-u.jp/courses/0297-%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9B%BD%E8%AA%9E%E8%A1%A8%E7%8F%BE%E8%AB%96ab-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 丸尾誠
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- arts_humanities
+keywords:
+- 中国語
+- 国際
+- 文学
+- 言語
+- 言語理論
+- 文法研究
+- 中国語学
+- 文法体系
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 2011 年度前期レポート課題
+  contentUrl: https://ocw.nagoya-u.jp/files/297/r_maruo.pdf
+  page: https://ocw.nagoya-u.jp/courses/0297-%E7%8F%BE%E4%BB%A3%E4%B8%AD%E5%9B%BD%E8%AA%9E%E8%A1%A8%E7%8F%BE%E8%AB%96ab-2011/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 通年
+  targetAudience: 国際言語文化研究科および文学研究科の大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0202
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0202-%E5%8C%BB%E7%99%82%E4%BA%8B%E6%95%85%E5%AF%BE%E5%BF%9C%E3%81%A8%E5%8C%BB%E7%99%82%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 医療事故対応と医療安全管理
+description:
+  ja: 医療事故への対応と医療安全の管理を扱う教材である。医療をめぐる安全・安心の実現に関する課題や、医療従事者の教育・配置、医療事故の扱いを論じる内容になっている。
+quotedDescription:
+  text:
+    ja: 「医療は危機に瀕している」と言えば、大げさかもしれないが、すでに一部では現実の問題となっている。目指すのは「安全・安心の医療」であることに異論はないが、それには医療費の増加、さらに多くの人材の育成・投入なしには実現できない。人材については、総数で不足しているのは明がだが、医師を始めとする医療従事者の専門教育や適正配置にも問題を残している。また、約10年前までは、医療事故は隠されていたと言っても過言
+  source: https://ocw.nagoya-u.jp/courses/0202-%E5%8C%BB%E7%99%82%E4%BA%8B%E6%95%85%E5%AF%BE%E5%BF%9C%E3%81%A8%E5%8C%BB%E7%99%82%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 上田裕一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 医学/薬学
+- 医療
+- 医師
+- 講義内容
+- 講義ビデオ
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 医療事故対応と医療安全管理
+  contentUrl: https://ocw.nagoya-u.jp/files/202/ueda.pdf
+  page: https://ocw.nagoya-u.jp/courses/0202-%E5%8C%BB%E7%99%82%E4%BA%8B%E6%95%85%E5%AF%BE%E5%BF%9C%E3%81%A8%E5%8C%BB%E7%99%82%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

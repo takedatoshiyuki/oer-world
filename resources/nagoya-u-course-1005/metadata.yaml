@@ -1,0 +1,97 @@
+slug: nagoya-u-course-1005
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 哲学
+description:
+  ja: 中国思想史に関わる内容を扱う講義で、神話伝説から諸子百家の時代、前漢、後漢、魏晋南北朝、隋唐・宋代、明代までの教材が公開されている。ガイダンスを含めて14件の教材ファイルがあり、春学期に文学部2年生向けとして開講される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐野 大介
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 歴史
+- 中国哲学
+- 漢文
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: ガイダンス
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/01.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 神話伝説
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/02.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 諸子百家の時代 01 儒家・墨家
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/03.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 諸子百家の時代 02 道家・陰陽家・名家
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/04.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 諸子百家の時代 03 兵家・法家
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/05.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 前漢
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/06.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 後漢
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/07.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 魏晋南北朝
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/08.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 隋唐・宋代１
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/09.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 宋代２
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/10.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 宋代３・元代
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/11.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 明代
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/12.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 清代
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/13.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+- name: 近現代
+  contentUrl: https://ocw.nagoya-u.jp/files/1005/14.pdf
+  page: https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 春学期
+  targetAudience: 文学部２年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0976
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0976-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語（コミュニケーション）
+description:
+  ja: 名古屋大学の2024年度開講科目「英語（コミュニケーション）」に関する教材で、教養教育院が学部1年生を対象に秋学期に実施する。公開されている資料は「学生へのインストラクション」1件で、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小島　ますみ
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 英語
+- 言語
+- ディスカッション
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 学生へのインストラクション
+  contentUrl: https://ocw.nagoya-u.jp/files/976/instruction.pdf
+  page: https://ocw.nagoya-u.jp/courses/0976-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2025/
+extensions:
+  faculty: 教養教育院
+  term: 秋学期
+  targetAudience: 学部1年生(文学部・法学部・情報学部・理学部・医学部・工学部）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '本授業科目は、専門的学習のツールとして外国語の能力を高め、異文化理解を深めて、国際社会に相応しい教養を育むことが目的である。本授業では、リスニングとスピーキングを主としたコミュニケーションの能力を高め、ディスカッションやプレゼンテーションのための基礎力を養成する。
+
+      リスニングとスピーキングを主としたコミュニケーションの能力を高める授業活動を通じて、ディスカッションやプレゼンテーションのための基礎力を身につける。'
+  source: https://ocw.nagoya-u.jp/courses/0976-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

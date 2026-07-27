@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0998
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0998-%E5%9B%BD%E9%9A%9B%E6%94%BF%E6%B2%BB%E5%AD%A6-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際政治学
+description:
+  ja: 名古屋大学の法学部／法学研究科で開講される「国際政治学」の講義で、三浦 聡が担当する。法学部3・4年生を対象に、2025年度の春学期に日本語で実施する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 三浦 聡
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+- 国際政治
+- 国際関係
+- 持続可能な開発目標(SDGs)
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 法学部／法学研究科
+  term: 春学期
+  targetAudience: 法学部３・４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '本授業は、国際政治の現実と理論を踏まえつつ、大局的見地に立ってものごとを理論的・戦略的・戦略的に判断する能力を養うことです。
+
+      日本、アメリカ、中国などの外交をはじめとする国際政治に関心を持っていても、それらをどう読むかは難しいと感じる人は多いかもしれません。本授業は、そのような受講者を対象として、国際政治について、単なる感情や感想を越えて学術的に分析する能力を養います。
+
+      本講義の到達目標は以下の3点です。
+
+      国際政治とグローバル・ガバナンスへの関心を高め、関連する新聞記事や資料を受講前よりも深く読める。
+
+      国際政治とグローバル・ガバナンスについての一定程度の知識と分析能力を身につける。
+
+      卒業後を見据え、ディスカッションや共同作業に慣れる。
+
+      以上の目標を踏まえ、本授業では受講者によるグループ・ディスカッションとグループ・ワークを取り入れます。'
+  source: https://ocw.nagoya-u.jp/courses/0998-%E5%9B%BD%E9%9A%9B%E6%94%BF%E6%B2%BB%E5%AD%A6-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

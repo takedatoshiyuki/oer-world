@@ -1,0 +1,56 @@
+slug: nagoya-u-course-0626
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0626-%E6%A7%8B%E9%80%A0%E7%89%A9%E3%81%A8%E6%8A%80%E8%A1%93%E3%81%AE%E7%99%BA%E5%B1%95-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: 構造物と技術の発展
+description:
+  ja: 名古屋大学の工学部／工学研究科で、工学部向けに前期開講された講義である。2017年に開講され、日本語で行われる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学
+- 材料工学
+- 構造工学
+- 地盤工学
+- 建築工学
+- 土木工学
+- 地震
+- 授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

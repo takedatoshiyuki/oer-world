@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0054
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0054-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人間発達科学-I
+description:
+  ja: 日本の社会構造の変化を背景に、これまで自明とされてきた社会や就職のあり方が揺らぐ状況を扱う講義である。あわせて、学校教育を中心とした人材育成の枠組みから、生涯にわたり学び続ける方向への展開を論じる。
+quotedDescription:
+  text:
+    ja: 日本の社会構造が大きく転換し、就職を含めて、これまで私たちが自明としてきた社会のあり方が大きく崩れ始めている。このような中、人々は自分らしく生きることを求めて、彷徨しているように見える。そして、それはまた、学校教育を中心とした人材育成・国民形成のシステムから、生涯にわたって学習し続けることで、自らの潜在力を開発し続けることを求める社会へと、人々の学びのあり方の大きな展開をもたらしている。この講義で
+  source: https://ocw.nagoya-u.jp/courses/0054-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2006/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 牧野篤
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 教育学
+- 心理学
+- 人間発達科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 人間発達科学 I(講義ノート)
+  contentUrl: https://ocw.nagoya-u.jp/files/54/makino.pdf
+  page: https://ocw.nagoya-u.jp/courses/0054-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E7%A7%91%E5%AD%A6-I-2006/
+extensions:
+  faculty: 教養教育院
+  targetAudience: 教育学部以外の学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

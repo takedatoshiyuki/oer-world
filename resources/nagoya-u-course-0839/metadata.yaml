@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0839
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0839-%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6i-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 量子化学I
+description:
+  ja: 名古屋大学の理学部／理学研究科で、理学部2年生を対象に通年で開講された講義である。担当は柳井 毅で、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 柳井 毅
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 化学
+- 量子力学
+- 講義の目的とねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部／理学研究科
+  term: 通年
+  targetAudience: 理学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 量子力学の初歩的な理解を得て、分子軌道理論による分子の電子状態や結合機構を理解します。
+  source: https://ocw.nagoya-u.jp/courses/0839-%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6i-2022/
+  note: 名大の授業 (NU OCW) 「到達目標」より（同サイトの利用条件に基づく転載）

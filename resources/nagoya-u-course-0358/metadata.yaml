@@ -1,0 +1,99 @@
+slug: nagoya-u-course-0358
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 比較文化論
+description:
+  ja: フィリピンを主な題材に、歴史、言語、民族、宗教、社会、都市と地方の様子を扱う。さらに、マニラの貧困と発展、ロハスの日常風景やカトリック生活、日本とフィリピンの関係にも触れる。講義では映像資料などを用いて進める。
+quotedDescription:
+  text:
+    ja: 講義は、以下の5つの内容をそれぞれ複数回に分けて、映像資料なども用いながら進めていく。   1. フィリピンを知っていますか?      フィリピンの概説。歴史、言語、民族、宗教、社会など   2.
+      マニラ—スタバとスラムが同居する街      首都マニラについて。貧困と発展の光と影   3. ロハス—フィリピンの地方都市      地方都市ロハスの日常風景やカトリック生活など
+  source: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 東賢太朗
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 文化
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: イントロダクション—異文化理解とは?'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: フィリピンを知っていますか？—フィリピンの概説'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: マニラ—スタバとスラムが同居する街 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: マニラ—スタバとスラムが同居する街 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: ロハス—フィリピンの地方都市 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: ロハス—フィリピンの地方都市 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: ロハス—フィリピンの地方都市 3'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: ロハス—フィリピンの地方都市 4'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: ボラカイ—ビーチリゾートの裏と表 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: ボラカイ—ビーチリゾートの裏と表 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: 日本とフィリピン 1—出稼ぎ・移住を中心に'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: 日本とフィリピン 2—フィリピン人女性表象の変遷'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+- name: '講義ノート: 日本とフィリピン 3—第二次世界大戦'
+  contentUrl: https://ocw.nagoya-u.jp/files/358/H24azuma_LectureNote_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0358-%E6%AF%94%E8%BC%83%E6%96%87%E5%8C%96%E8%AB%96-2014/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

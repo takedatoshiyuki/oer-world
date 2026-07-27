@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0173
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0173-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%88%E7%99%BA%E9%81%94%E6%95%99%E8%82%B2%E8%87%A8%E5%BA%8A%E5%9F%BA%E7%A4%8E%E8%AB%96%EF%BC%89-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人間発達の心理学（発達教育臨床基礎論）
+description:
+  ja: 胎児期から老年期までの人間の社会的・情動的発達を扱い、古典的研究と最近の研究を参照しながら進める講義である。発達を広く捉えるための基本的な枠組みや視点を示す内容になっている。
+quotedDescription:
+  text:
+    ja: この授業は、胎児期から成人・老年期にいたる人間の社会的・情動的発達の入門コースである。様々な古典的研究や最近の研究を紹介するとともに、広角的に発達を捉える基本的枠組み・視点を提供する。
+  source: https://ocw.nagoya-u.jp/courses/0173-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%88%E7%99%BA%E9%81%94%E6%95%99%E8%82%B2%E8%87%A8%E5%BA%8A%E5%9F%BA%E7%A4%8E%E8%AB%96%EF%BC%89-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 氏家達夫
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート（第 2 回〜第 14 回）
+  contentUrl: https://ocw.nagoya-u.jp/files/173/note_ujiie.pdf
+  page: https://ocw.nagoya-u.jp/courses/0173-%E4%BA%BA%E9%96%93%E7%99%BA%E9%81%94%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%88%E7%99%BA%E9%81%94%E6%95%99%E8%82%B2%E8%87%A8%E5%BA%8A%E5%9F%BA%E7%A4%8E%E8%AB%96%EF%BC%89-2011/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: 教育学部2年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

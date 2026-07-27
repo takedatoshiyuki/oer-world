@@ -1,0 +1,72 @@
+slug: nagoya-u-course-1016
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/1016-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%91%EF%BC%88%E8%87%AA%E7%84%B6%EF%BC%89-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: プログラミング１（自然）
+description:
+  ja: 名古屋大学の情報学部1年生向けに、2025年度秋学期に開講されるプログラミングの講義である。公開教材は、クラスの作成、モジュールの利用、開発環境の利用を扱う4件で構成される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 鈴木 麗璽
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- プログラミング
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: クラスのつくり方（１）
+  contentUrl: https://ocw.nagoya-u.jp/files/1016/%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9%EF%BC%88%EF%BC%91%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/1016-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%91%EF%BC%88%E8%87%AA%E7%84%B6%EF%BC%89-2025/
+- name: クラスのつくり方（２）
+  contentUrl: https://ocw.nagoya-u.jp/files/1016/%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9%EF%BC%88%EF%BC%92%EF%BC%89.pdf
+  page: https://ocw.nagoya-u.jp/courses/1016-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%91%EF%BC%88%E8%87%AA%E7%84%B6%EF%BC%89-2025/
+- name: モジュールの利活用
+  contentUrl: https://ocw.nagoya-u.jp/files/1016/%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E5%88%A9%E6%B4%BB%E7%94%A8.pdf
+  page: https://ocw.nagoya-u.jp/courses/1016-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%91%EF%BC%88%E8%87%AA%E7%84%B6%EF%BC%89-2025/
+- name: 開発環境の利活用
+  contentUrl: https://ocw.nagoya-u.jp/files/1016/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%88%A9%E6%B4%BB%E7%94%A8.pdf
+  page: https://ocw.nagoya-u.jp/courses/1016-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%91%EF%BC%88%E8%87%AA%E7%84%B6%EF%BC%89-2025/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 秋学期
+  targetAudience: 情報学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'インタプリタ形式のオブジェクト指向スクリプト言語について，発展的なデータ型やライブラリ，オブジェクト指向など広範囲の問題解決に対応できるプログラミング技法について学び，演習によって身につける．
+
+      本講義を通じて，履修生はスクリプト系プログラミング言語を用いたプログラミングの発展的知識ならびにプログラミング技法を習得し，演習を通じて各種のデータ型やライブラリの使用方法を修得することができる．'
+  source: https://ocw.nagoya-u.jp/courses/1016-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%91%EF%BC%88%E8%87%AA%E7%84%B6%EF%BC%89-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

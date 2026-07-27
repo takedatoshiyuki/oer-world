@@ -1,0 +1,60 @@
+slug: nagoya-u-course-0791
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0791-%E5%81%A5%E5%BA%B7%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A7%91%E5%AD%A6%E8%AC%9B%E7%BE%A9-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 健康・スポーツ科学講義
+description:
+  ja: 名古屋大学の教養教育院が2020年春学期に開講した、日本語の講義である。理学部・医学部・農学部の1年生を対象に、健康とスポーツ科学を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 秋間 広
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 医学/薬学
+- 健康
+- スポーツ
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 理学部・医学部・農学部　１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '第一部　共通講義：大学生活を心身ともに健康に過ごすために必要な基礎的知識と、運動の意義・必要性について、全学生が共通概念を持てるよう、全クラスで同一内容の授業を２回にわたって行う。
+
+      第二部　個別講義：この授業では人間の「筋肉（骨格筋）」と「持久力（スタミナ）」に焦点を当てて授業を行います．最初は基礎的な学習を行った後に，応用的な学習としてトレーニング，運動不足，加齢，整形外科的疾患および遺伝的筋疾患によって筋肉やスタミナがどのように変化するのかについて学びます．'
+  source: https://ocw.nagoya-u.jp/courses/0791-%E5%81%A5%E5%BA%B7%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A7%91%E5%AD%A6%E8%AC%9B%E7%BE%A9-2021/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

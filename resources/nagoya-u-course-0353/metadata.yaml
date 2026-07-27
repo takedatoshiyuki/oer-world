@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0353
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0353-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88II-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: 計量経済II
+description:
+  ja: 計量経済Iで学ぶ単回帰モデルと重回帰モデルを前提に、その先の計量経済の話題を扱う講義である。ガウス・マルコフの定理などの統計理論的な説明に加え、標準的な仮定が成り立たない回帰分析や、同時方程式モデル、時系列モデルを取り上げる。公開教材としては、講義ノート「ダミー変数（１）」がある。
+quotedDescription:
+  text:
+    ja: 計量経済学ではデータに基づいて経済を分析するための統計的方法を学ぶ。本講義では、「計量経済 I」で習った単回帰モデル、重回帰モデルの基礎的知識をもつ者を対象に、その先の話題を解説する。具体的には、やや統計理論的な観点からの説明（ガウス・マルコフの定理など）、標準的な仮定が成り立たない場合の回帰分析（不均一分散、系列相関）、
+      回帰モデル以外のモデル（同時方程式モデル、時系列モデル）などを扱う。それにより、データを用いた経済の基礎的分析力を養う。
+  source: https://ocw.nagoya-u.jp/courses/0353-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88II-2012/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 紙屋英彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 計量経済
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: ダミー変数（１）'
+  contentUrl: https://ocw.nagoya-u.jp/files/353/h24kamiya-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0353-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88II-2012/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 前期
+  targetAudience: 経済学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0195
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0195-%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 世界の中の日本語
+description:
+  ja: 日本語を世界の諸言語の中に位置づけ、その系統上の特徴を扱う教材である。さらに、主語や目的語の表し方、語順、時間表現といった言語の仕組みにも触れる。
+quotedDescription:
+  text:
+    ja: 日本語は世界で使われている七千にものぼる諸言語の一つです。世界の言語の多くは、数十の「語族」と呼ばれる、祖先を共通にするグループのどれかに属しているのですが、日本語はどの語族にも属していません。この点で日本語は、起源的に孤立した言語です。一方で、主語や目的語を表す方法や、語順の規則、事柄が起きた時間を表す方法のような、言語としての特徴については、世界の言語の中でも多数派に属する「普通の」言語です。
+  source: https://ocw.nagoya-u.jp/courses/0195-%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 町田健
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 日本語
+- 言語
+- 講義内容
+- 講義ビデオ
+- 世界の中の日本語
+- 講義資料
+- 世界の中の日本語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 世界の中の日本語
+  contentUrl: https://ocw.nagoya-u.jp/files/195/machida.pdf
+  page: https://ocw.nagoya-u.jp/courses/0195-%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

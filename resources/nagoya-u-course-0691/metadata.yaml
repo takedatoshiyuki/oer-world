@@ -1,0 +1,59 @@
+slug: nagoya-u-course-0691
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0691-First-Year-Seminar-A-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: First-Year-Seminar-A
+description:
+  ja: 1学期で行うディスカッション形式のゼミ科目で、学生はチームで関心のある特定テーマを調べ、授業内で発表する。対象は Science, Engineering and Agriculture の1年次G30学生で、名古屋大学のG30で後期に開講される。
+quotedDescription:
+  text:
+    ja: This is one-semester long discussion-based seminar course. Students work in teams to research
+      specific topics of interest and present them in class. The aim of this course is to widen students`
+      perspe
+  source: https://ocw.nagoya-u.jp/courses/0691-First-Year-Seminar-A-2018/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 経済学/経営学
+- 生物学
+- G30
+- Course Overview
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: G30
+  term: 後期
+  targetAudience: 1st-year G30 students from Science, Engineering and Agriculture.
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

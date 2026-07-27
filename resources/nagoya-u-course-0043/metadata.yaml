@@ -1,0 +1,72 @@
+slug: nagoya-u-course-0043
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0043-%E6%B3%95%E5%AD%A6-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法学
+description:
+  ja: 法の基本的な考え方から、現行の法制度、家族生活・財産関係・消費者に関わる法までを扱う教材である。講義ノート5件と課題1件が公開されており、工学部向けに前期開講された講義の内容を示す。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 岡本裕樹
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 「法」とは何か'
+  contentUrl: https://ocw.nagoya-u.jp/files/43/okamoto01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0043-%E6%B3%95%E5%AD%A6-2011/
+- name: '講義ノート: 現行の法制度'
+  contentUrl: https://ocw.nagoya-u.jp/files/43/okamoto02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0043-%E6%B3%95%E5%AD%A6-2011/
+- name: '講義ノート: 家族生活と法'
+  contentUrl: https://ocw.nagoya-u.jp/files/43/okamoto08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0043-%E6%B3%95%E5%AD%A6-2011/
+- name: '講義ノート: 財産関係と法'
+  contentUrl: https://ocw.nagoya-u.jp/files/43/okamoto09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0043-%E6%B3%95%E5%AD%A6-2011/
+- name: '講義ノート: 消費者と法'
+  contentUrl: https://ocw.nagoya-u.jp/files/43/okamoto10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0043-%E6%B3%95%E5%AD%A6-2011/
+- name: '課題: こちら'
+  contentUrl: https://ocw.nagoya-u.jp/files/43/assignment.pdf
+  page: https://ocw.nagoya-u.jp/courses/0043-%E6%B3%95%E5%AD%A6-2011/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

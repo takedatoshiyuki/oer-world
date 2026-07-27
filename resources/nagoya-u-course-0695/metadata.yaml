@@ -1,0 +1,83 @@
+slug: nagoya-u-course-0695
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0695-%E3%81%99%E3%81%BE%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83-2018-2020/
+type:
+- LearningResource
+- Course
+name:
+  ja: すまいと環境
+description:
+  ja: 「すまい」に関わるテーマを、住宅の歴史や居住のあり方、温熱環境や居住環境評価、さらに建築構造や材料まで含めて扱う講義である。公開教材には、温熱環境と暮らし方、居住環境評価、環境と心理状態に関する回の資料が含まれる。
+quotedDescription:
+  text:
+    ja: '「すまい」に関する歴史・意匠・計画、建築環境・設備・エネルギー、建築構造・材料の各分野から、いくつかのテーマをピックアップして講義する。
+
+      建築学とは
+
+      住宅の歴史、ライフステージ・ライフスタイル、郊外・都心居住、都市インフラ、ユニバーサルデザイン など
+
+      住宅の断熱・気密性能、自然・未利用エネルギー利用等の各種省エネルギー手法、熱環境・空気質環境と健康、換気、快適性、居住環境評価 など
+
+      建築構造システム、各種構造（RC、鉄骨、木）、構造材料・一般材料、建築生産・管理、建築廃棄物・リサイクル、建築維持・管理、耐震診断・補強・改修、防災・防火など'
+  source: https://ocw.nagoya-u.jp/courses/0695-%E3%81%99%E3%81%BE%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83-2018-2020/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久野覚
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 環境学
+- 地震
+- 建築工学
+- -->
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 第 1 回「温熱環境と暮らし方」
+  contentUrl: https://ocw.nagoya-u.jp/files/695/slide01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0695-%E3%81%99%E3%81%BE%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83-2018-2020/
+- name: 第 2 回「居住環境評価」
+  contentUrl: https://ocw.nagoya-u.jp/files/695/slide02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0695-%E3%81%99%E3%81%BE%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83-2018-2020/
+- name: 第 3 回「Varying Environmental and Psychological States in Human Life」
+  contentUrl: https://ocw.nagoya-u.jp/files/695/slide03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0695-%E3%81%99%E3%81%BE%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83-2018-2020/
+- name: 第 1 回配布資料
+  contentUrl: https://ocw.nagoya-u.jp/files/695/handout01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0695-%E3%81%99%E3%81%BE%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83-2018-2020/
+- name: 第 3 回配布資料
+  contentUrl: https://ocw.nagoya-u.jp/files/695/handout03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0695-%E3%81%99%E3%81%BE%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83-2018-2020/
+extensions:
+  faculty: 環境学研究科
+  term: 後期
+  targetAudience: 環境学研究科全専攻（都市環境学専攻建築学系を除く）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

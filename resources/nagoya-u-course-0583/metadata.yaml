@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0583
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0583-%E5%AD%A6%E6%A0%A1%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学校臨床心理学講義
+description:
+  ja: 学校心理学の観点から、学校という場で子どもの心理的課題にどう向き合うかを扱う講義である。公開されている資料には、日本の学校と学校心理学、学校での援助対象、援助者の活動としてのアセスメントとカウンセリングに関する参考資料が含まれる。
+quotedDescription:
+  text:
+    ja: 現在，子どもたちの心理的課題に注目が集まっている。学校という場において，これらの課題に向き合っていくためには，どうすればよいのか。本授業では，学校心理学の観点からこの問いに対する考えを深めていく。
+  source: https://ocw.nagoya-u.jp/courses/0583-%E5%AD%A6%E6%A0%A1%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9-2016/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 五十嵐哲也
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- education
+keywords:
+- 医学/薬学
+- 心理学
+- 講義概要
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: 第 2 回 日本の学校と学校心理学'
+  contentUrl: https://ocw.nagoya-u.jp/files/583/dai2kai.pdf
+  page: https://ocw.nagoya-u.jp/courses/0583-%E5%AD%A6%E6%A0%A1%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9-2016/
+- name: '参考資料: 第 3 回 学校での援助対象とは'
+  contentUrl: https://ocw.nagoya-u.jp/files/583/dai3kai.pdf
+  page: https://ocw.nagoya-u.jp/courses/0583-%E5%AD%A6%E6%A0%A1%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9-2016/
+- name: '参考資料: 第 5 回 援助者の諸活動 ① アセスメント'
+  contentUrl: https://ocw.nagoya-u.jp/files/583/dai5kai.pdf
+  page: https://ocw.nagoya-u.jp/courses/0583-%E5%AD%A6%E6%A0%A1%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9-2016/
+- name: '参考資料: 第 6 回 援助者の諸活動 ② カウンセリング'
+  contentUrl: https://ocw.nagoya-u.jp/files/583/dai6kai.pdf
+  page: https://ocw.nagoya-u.jp/courses/0583-%E5%AD%A6%E6%A0%A1%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9-2016/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: ３年以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0180
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0180-%E5%A5%B3%E6%80%A7%E3%82%82%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%EF%BC%81%E3%80%9C%E2%80%9C%E5%9C%9F%E6%9C%A8%E2%80%9D%E3%81%AE%E4%B8%96%E7%95%8C%E3%80%9C-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: 女性も頑張ってます！〜“土木”の世界〜
+description:
+  ja: 土木分野の中でも、地盤に関係する研究を取り上げる講義である。高速道路の建設を例に、トンネルや橋、盛土などの要素を通して土木の研究内容を紹介する。
+quotedDescription:
+  text:
+    ja: 土木というと皆さんそれぞれイメージすることがあると思いますが、「土木」分野における研究についてはどのようなイメージを持っていますか？ 今回は土木のうち、「地盤」に関係する研究について紹介します。
+      例えば高速道路を新しく建設することを考えてみましょう。  　高速道路は、山にトンネルを掘ったり谷に橋を架けたりする他に、地盤の上に土を盛って建設します。これを「盛土」と言います。  　水
+  source: https://ocw.nagoya-u.jp/courses/0180-%E5%A5%B3%E6%80%A7%E3%82%82%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%EF%BC%81%E3%80%9C%E2%80%9C%E5%9C%9F%E6%9C%A8%E2%80%9D%E3%81%AE%E4%B8%96%E7%95%8C%E3%80%9C-2008/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 田代むつみ 研究員
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- slide
+about:
+- generic
+keywords:
+- 工学
+- 土木工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/180/doboku.pdf
+  page: https://ocw.nagoya-u.jp/courses/0180-%E5%A5%B3%E6%80%A7%E3%82%82%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%EF%BC%81%E3%80%9C%E2%80%9C%E5%9C%9F%E6%9C%A8%E2%80%9D%E3%81%AE%E4%B8%96%E7%95%8C%E3%80%9C-2008/
+extensions:
+  faculty: 男女共同参画室
+  term: 公開講座
+  targetAudience: 高校生と保護者
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

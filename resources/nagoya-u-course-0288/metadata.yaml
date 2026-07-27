@@ -1,0 +1,94 @@
+slug: nagoya-u-course-0288
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際開発学
+description:
+  ja: 途上国が直面する問題と、開発に伴って生じる論点を、政治・経済・文化・社会の各側面から扱う講義である。DVD映像や写真を用いながら、国際開発の取り組みと、大学研究での議論の概観に触れる。
+quotedDescription:
+  text:
+    ja: 本講義の目的は途上国が直面する諸問題について考察するとともに、開発に関連して生起する諸問題について、政治、経済、文化、社会にまたがる多種多様な見地から国際開発がどのように取り組まれてきたかを考察することである。講義はDVD映像や写真を活用して行うとともに、国際開発が大学研究においてどのように議論されているかについての全体像についても触れる。
+  source: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 西川由紀子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 国際
+- 国際社会
+- 国際開発
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 途上国と開発
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 開発をめぐるさまざまな考え方
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 経済成長 1：農業(農村開発から地域開発へ)
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 経済成長 2：工業化と産業育成
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 開発政治学とガバナンス論
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec5-6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 社会開発：保健と医療／教育
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: グローバル化時代の開発とその課題
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 地球規模の課題：ジェンダー・人口・平和
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec9-10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 開発協力のフレームワーク
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec11-12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 非政府組織(NGO)と開発協力
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+- name: 開発の倫理
+  contentUrl: https://ocw.nagoya-u.jp/files/288/nishikawa_lec14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0288-%E5%9B%BD%E9%9A%9B%E9%96%8B%E7%99%BA%E5%AD%A6-2011/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

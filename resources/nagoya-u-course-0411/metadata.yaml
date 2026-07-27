@@ -1,0 +1,72 @@
+slug: nagoya-u-course-0411
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0411-%E5%8C%BB%E5%B7%A5%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 医工連携セミナー
+description:
+  ja: 工学部と医学部の講師が交代で登壇し、医工連携研究に関わる最新の研究内容を扱う講義である。講義は主にパワーポイントで進め、必要に応じて資料を配布する。公開教材として、ナノバイオデバイス、免疫、コホート研究、突発性側湾症に関する4件の講義資料がある。
+quotedDescription:
+  text:
+    ja: 本講義では毎回異なる工学部／医学部から講師を招き、医工連携研究にまつわる最新の研究内容を紹介する。講義はパワーポイントで主に行い、必要に応じて資料を配布する。
+  source: https://ocw.nagoya-u.jp/courses/0411-%E5%8C%BB%E5%B7%A5%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 馬場嘉信
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 医学/薬学
+- 工学
+- 計算力学
+- 講義概要
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 「ナノバイオデバイスが拓く未来医療」講義資料
+  contentUrl: https://ocw.nagoya-u.jp/files/411/s_Baba_nanobioH25.pdf
+  page: https://ocw.nagoya-u.jp/courses/0411-%E5%8C%BB%E5%B7%A5%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2013/
+- name: 「免疫の新しい考え方」講義資料
+  contentUrl: https://ocw.nagoya-u.jp/files/411/isobematerials.pdf
+  page: https://ocw.nagoya-u.jp/courses/0411-%E5%8C%BB%E5%B7%A5%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2013/
+- name: 「コホート研究」講義資料
+  contentUrl: https://ocw.nagoya-u.jp/files/411/hamajima_materials.pdf
+  page: https://ocw.nagoya-u.jp/courses/0411-%E5%8C%BB%E5%B7%A5%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2013/
+- name: 「突発性側湾症の成因解明と臨床応用の可能性〜計算力学によるアプローチ〜」講義資料
+  contentUrl: https://ocw.nagoya-u.jp/files/411/azegami_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0411-%E5%8C%BB%E5%B7%A5%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2013/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学研究科目化学・生物工学専攻,物質制御工学専攻,機械理工学専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

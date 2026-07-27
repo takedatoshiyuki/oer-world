@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0119
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0119-%E5%9B%B3%E5%BD%A2%E3%82%92%E3%83%89%E3%83%9F%E3%83%8E%E3%81%A7%E6%95%B7%E3%81%8D%E8%A9%B0%E3%82%81%E3%82%8B-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: 図形をドミノで敷き詰める
+description:
+  ja: ドミノによる図形の敷き詰めを題材に、与えられた図形を隙間なく埋める方法を考える。あわせて、どのような図形が敷き詰め可能か、敷き詰め方が何通りあるかを調べる。
+quotedDescription:
+  text:
+    ja: ドミノは辺の長さが1:2の長方形で,  ドミノ倒しなどでおなじみのものです.  このドミノで, あたえられた図形を隙間なく敷きつめることを考えます. これは畳がちょうど1:2の長方形なので, 
+      いろいろな形の部屋を,  畳で隙間なく敷 きつめる問題と同じで,  何通りの敷きつめ方が存在するのか,  そもそもいかなる図形が敷きつめ可能なのかを調べる, 一種のパズルと言ってよいでしょう.
+      しか
+  source: https://ocw.nagoya-u.jp/courses/0119-%E5%9B%B3%E5%BD%A2%E3%82%92%E3%83%89%E3%83%9F%E3%83%8E%E3%81%A7%E6%95%B7%E3%81%8D%E8%A9%B0%E3%82%81%E3%82%8B-2008/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 南和彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 自然科学
+- 数学アゴラ
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/119/syllabus.pdf
+  page: https://ocw.nagoya-u.jp/courses/0119-%E5%9B%B3%E5%BD%A2%E3%82%92%E3%83%89%E3%83%9F%E3%83%8E%E3%81%A7%E6%95%B7%E3%81%8D%E8%A9%B0%E3%82%81%E3%82%8B-2008/
+extensions:
+  faculty: 多元数理科学研究科
+  term: 公開講座
+  targetAudience: 高校生と高校教員
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0882
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0882-%E5%8C%BB%E7%99%82%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%B0%EF%BC%88%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%89-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 医療臨床心理学講義Ⅰ（健康・医療心理学）
+description:
+  ja: 健康・医療心理学に関する講義で、名古屋大学の学部3・4年生向けに2022年春学期に開講された。公開教材は、ストレスと心身の疾病との関連と、災害時等に必要な心理支援の2つの主題に分かれている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 狐塚 貴博
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- education
+keywords:
+- 医学/薬学
+- 心理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: ストレスと心身の疾病との関連１
+  contentUrl: https://ocw.nagoya-u.jp/files/882/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0882-%E5%8C%BB%E7%99%82%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%B0%EF%BC%88%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%89-2022/
+- name: ストレスと心身の疾病との関連２
+  contentUrl: https://ocw.nagoya-u.jp/files/882/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0882-%E5%8C%BB%E7%99%82%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%B0%EF%BC%88%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%89-2022/
+- name: 災害時等に必要な心理に関する支援１
+  contentUrl: https://ocw.nagoya-u.jp/files/882/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0882-%E5%8C%BB%E7%99%82%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%B0%EF%BC%88%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%89-2022/
+- name: 災害時等に必要な心理に関する支援２
+  contentUrl: https://ocw.nagoya-u.jp/files/882/slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0882-%E5%8C%BB%E7%99%82%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%B0%EF%BC%88%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%89-2022/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 春学期
+  targetAudience: 学部３・４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: この授業では、人間の健康について、心理学的観点のみならず、医療や保健領域における身体との関連を踏まえて検討していく。心身の問題や疾患の予防、治療、健康の維持と増進について、さらにはライフイベントや災害時の心理社会的問題と支援といった環境要因との関連も含め、健康心理学の包括的な理解を試みる。
+      この授業を通して、人間と社会の諸問題への関心を高めることを目的とする。
+  source: https://ocw.nagoya-u.jp/courses/0882-%E5%8C%BB%E7%99%82%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%B0%EF%BC%88%E5%81%A5%E5%BA%B7%E3%83%BB%E5%8C%BB%E7%99%82%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%89-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

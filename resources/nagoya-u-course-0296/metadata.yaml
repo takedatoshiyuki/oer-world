@@ -1,0 +1,91 @@
+slug: nagoya-u-course-0296
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 動物生理学2
+description:
+  ja: 哺乳類の消化器官を中心に、消化器官の構造と機能、消化管機能の調節、分泌、消化と吸収を扱う。公開されている講義ノートからは、消化器官の構造・調節・分泌・消化吸収の各段階を順に学ぶ構成であることが分かる。
+quotedDescription:
+  text:
+    ja: 哺乳類の内分泌系、生殖機能、腎臓の働き、消化・吸収などについて講義する。講義の前半（内分泌系、生殖、腎臓）は束村が担当し、後半（消化・吸収）は村井が担当する。
+  source: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 束村博子 教授, 村井篤嗣
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 消化器官の構造と機能'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/lect1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化管機能の調節'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/lect2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化管の分泌 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/lect3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化管の分泌 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/lect4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化器官の構造と機能'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/note1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化管機能の調節'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/note2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化管の分泌'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/note3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化管の分泌 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/note4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化と吸収ー非発酵過程'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/note5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化と吸収 2 ー非発酵過程'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/note6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+- name: '講義ノート: 消化ー発酵過程'
+  contentUrl: https://ocw.nagoya-u.jp/files/296/note7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0296-%E5%8B%95%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A62-2011/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 後期
+  targetAudience: 農学部生物環境学科・資源生物科学科・応用生命科学科2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

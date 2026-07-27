@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0969
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0969-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報セキュリティとリテラシー２
+description:
+  ja: 名古屋大学の情報学部／情報学研究科で開講された「情報セキュリティとリテラシー２」の教材である。公開されているファイルは第5講から第8講までを収めており、2024年春学期の学部1年生向け講義に対応する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 浦田 真由 准教授、久木田 水生
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- プログラミング
+- Ruby
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 第５講〜第８講
+  contentUrl: https://ocw.nagoya-u.jp/files/969/security_and_literacy_Kukita%5Ball%5D.pdf
+  page: https://ocw.nagoya-u.jp/courses/0969-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2024/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 春学期
+  targetAudience: 情報学部・情報学研究科　学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: この授業では，インタプリタ形式のオブジェクト指向スクリプト言語について学修することで，基礎的なプログラミングのリテラシーを身につける。プログラミング言語に関する概要を学び，プログラムにおける変数の概念，基本的なデータ型や制御文について学ぶ。
+      さらには関数を作成したり既存のライブラリを利用することによって，問題解決のためのプログラミング技法の基礎を学修する。
+  source: https://ocw.nagoya-u.jp/courses/0969-%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-2024/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

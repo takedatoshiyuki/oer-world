@@ -1,0 +1,97 @@
+slug: nagoya-u-course-0504
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学展望-I
+description:
+  ja: 有理数を幾何学的な視点から捉え直す内容で、連分数から始めてフォードの円へと進み、最後に双曲幾何を扱う。連分数による有理数・無理数の表し方や、フォードの円との対応を通して、有理数同士の関係を考察する。講義の終盤では、円の反転を用いて双曲幾何を初等的に説明する。
+quotedDescription:
+  text:
+    ja: 有理数を高校までとは全く違った視点から特に幾何学的に考察する方法を学ぶ。具体的には連分数、フォードの円、双曲幾何の順に解説する。連分数とは有理数を入れ子状の分数で表したものである。計算には向かないが面白い性質を多く持っており、有理数や無理数に対する新たな見地が開けるだろう。次に各有理数に対応したフォードの円を学ぶ。このフォードの円を使うと、有理数同士の関係が幾何学的に理解できるようになる。またこのフォードの円は連分数と大変相性がよいのも特色である。以上の有理数とフォードの円の対応は、実は双曲幾何学を通してみると自然に理解できるものとなっている。講義の終盤ではこの双曲幾何の解説をする。双曲幾何とは通常のユークリッド幾何とは違い、「平行線の公理」を仮定しないで成り立つ幾何学である。この双曲幾何を円の反転を用いて初等的に説明する。
+  source: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 糸健太郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- フィボナッチ数列
+- 数学展望
+- 幾何学
+- 分数
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 数学展望 Ⅰ(一括ファイル, 67 ページ)
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 連分数とは?
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote1.1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 黄金比の連分数展開
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote1.2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 無理数の連分数展開
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote1.3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 収束分数列
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote1.4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 2 次の無理数
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote1.5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: フォードの円
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote2.1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: よい近似分数
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote2.2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: フルビッツの定理
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote2.3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 円に関するの反転
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote3.1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 双曲平面
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote3.2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+- name: 双曲平面とフォードの円
+  contentUrl: https://ocw.nagoya-u.jp/files/504/LectureNote3.3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0504-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2015/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 前期
+  targetAudience: 理学部1年生全学開放科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

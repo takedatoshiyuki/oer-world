@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0684
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0684-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9BI-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理科学展望I
+description:
+  ja: 有限グラフを対象に、固有値・固有ベクトルの復習を行いながら、グラフのスペクトル解析の基礎を扱う講義である。グラフ理論と作用素の理論の関係にも触れ、解析学的な側面からグラフを見ていく。
+quotedDescription:
+  text:
+    ja: 'グラフ理論は、組合せ論などの応用数理方面で活発に研究されている分野の一つであるが、その解析学的な側面に注目すると、作用素の理論と深く関わりをもつものであることが知られている。
+
+      この授業では、有限グラフを主たる対象とし、固有値・固有ベクトルの復習と同時にグラフのスペクトル解析の基礎について学ぶ。
+
+      と同時に、自ら数学を実践する、というと大げさかも知れないが、少なくともあれこれ考えるとはどういうことかを実感できれば幸い。'
+  source: https://ocw.nagoya-u.jp/courses/0684-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9BI-2010/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山上滋
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 線型代数
+- 数理科学展望
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: Operator Analysis'
+  contentUrl: https://ocw.nagoya-u.jp/files/684/oa2010.pdf
+  page: https://ocw.nagoya-u.jp/courses/0684-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9BI-2010/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学部数理学科３年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

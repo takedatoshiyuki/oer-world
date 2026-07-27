@@ -1,0 +1,107 @@
+slug: nagoya-u-course-0979
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上級所得理論Ⅰ
+description:
+  ja: 名古屋大学の「上級所得理論Ⅰ」に対応する教材で、経済学研究科の博士前期・博士後期を対象に春学期に開講される。公開教材には、導入、非線形微分方程式、線形システム、安定性、最適化、無限期間、ネオクラシカル、数値計算、動的計画法、一般均衡、貨幣などの題目が含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 工藤 教孝
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 差分方程式
+- 動学的最適化
+- ダイナミック・プログラミング
+- 英語ページ：
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: Indroduction
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/01_Introduction.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: NonlinearDE
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/02_NonlinearDE.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: LinearSystems
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/03_LinearSystems.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: Stability
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/04_Stability.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: NonlinearSystems
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/05_NonlinearSystems.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: Optimization
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/06_Optimization.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: InfiniteHorizon
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/07_InfiniteHorizon.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: Neoclassical
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/08_Neoclassical.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: Numerical
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/09_Numerical.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: DP
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/10_DP.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: GE
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/11_GE.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: Monetary
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/12_Monetary.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+- name: Imperfect
+  contentUrl: https://ocw.nagoya-u.jp/files/0979/13_Imperfect.pdf
+  page: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 春学期
+  targetAudience: 経済学研究科 博士前期・博士後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'This course is designed to build your research ability by providing particularly important methodological
+      skills that are often used in modern macroeconomic research. In particular, we shall focus on (1)
+      difference equations for describing variables that evolve over time, and (2) dynamic optimization
+      methods for describing the optimal allocation over time.
+
+      After this course, students should be able to (1) solve any system of difference equations; (2)
+      solve any dynamic optimizing problem using either by Lagrange method or by dynamic programming;
+      and (3) read and understand advanced textbooks and professional articles in the field of macroeconomics.'
+  source: https://ocw.nagoya-u.jp/courses/0979-%E4%B8%8A%E7%B4%9A%E6%89%80%E5%BE%97%E7%90%86%E8%AB%96%E2%85%B0-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

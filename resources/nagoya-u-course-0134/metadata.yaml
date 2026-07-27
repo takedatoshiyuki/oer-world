@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0134
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0134-%E4%B8%AD%E7%B4%9A%E4%B8%AD%E5%9B%BD%E8%AA%9E2-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 中級中国語2
+description:
+  ja: 名古屋大学の教養教育院が2015年度前期に開講した、学部2年生向けの中国語科目である。担当は杉村泰で、講義は日本語で行われる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 杉村泰
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 中国語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 学部 3 年次以降に中国語で書かれた新聞や専門書が読めるようにするための基礎的な読解力をつけさせる。また、日常会話で使われる基本的な表現を身につけさせることを目的とする。
+  source: https://ocw.nagoya-u.jp/courses/0134-%E4%B8%AD%E7%B4%9A%E4%B8%AD%E5%9B%BD%E8%AA%9E2-2015/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

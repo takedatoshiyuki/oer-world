@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0421
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0421-%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A62-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物化学2
+description:
+  ja: 細胞内での物質代謝とエネルギー獲得の仕組みを扱い、酵素の基本概念や反応速度論、数値計算にも触れる。解糖系を含む代謝経路とその調節、さらに酸化的リン酸化によるATP生産機構までを講義する。
+quotedDescription:
+  text:
+    ja: '生物に共通する細胞での物質代謝とエネルギー獲得の概念、具体的な詳細経路に関する理解、そして代謝に関わる酵素の基本概念と数値計算にも習熟することを到達目標とする。
+
+      生物が食物あるいは栄養成分として摂り入れた物質は、エネルギーを得るため、あるいは自らの構成成分を作り出す素材を得るために様々な仕組みで代謝される。本講義では酵素触媒反応の特徴、酵素反応の速度論、解糖系をはじめとする代謝経路と調節機構、生理的意義、さらに酸化的リン酸化による
+      ATP 生産機構とその調節などを中心に代謝のダイナミズムについて深く理解できるよう講義する。'
+  source: https://ocw.nagoya-u.jp/courses/0421-%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A62-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 前島正義
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 生物
+- 農学
+- 生物化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 生物化学 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/421/maeshima_lecture_handout.pdf
+  page: https://ocw.nagoya-u.jp/courses/0421-%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A62-2013/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 前期
+  targetAudience: 農学部生物環境科学科・資源生物科学科・応用生命科学科2年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

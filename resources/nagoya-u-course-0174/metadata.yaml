@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0174
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0174-%E7%A7%BB%E5%8B%95%E7%8F%BE%E8%B1%A1%E8%AB%96-1996/
+type:
+- LearningResource
+- Course
+name:
+  ja: 移動現象論
+description:
+  ja: 工学基礎としての移動現象を扱い、運動量・熱・物質移動の基本を学ぶ教材である。材料製造プロセスで起こる移動現象を理解するために必要な基礎知識までを対象とする。
+quotedDescription:
+  text:
+    ja: 工学基礎としての移動現象（運動量、熱、物質移動）を学び、材料製造プロセスにおいて起こっている移動現象を理解するために必要な基礎知識を習得することを目的とする。
+  source: https://ocw.nagoya-u.jp/courses/0174-%E7%A7%BB%E5%8B%95%E7%8F%BE%E8%B1%A1%E8%AB%96-1996/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山本一良
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '1996'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 工学基礎
+- 数学基礎
+- 伝熱工学
+- 物理学基礎
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義メモ'
+  contentUrl: https://ocw.nagoya-u.jp/files/174/00TRTEXT.pdf
+  page: https://ocw.nagoya-u.jp/courses/0174-%E7%A7%BB%E5%8B%95%E7%8F%BE%E8%B1%A1%E8%AB%96-1996/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 後期
+  targetAudience: 量子エネルギー工学
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

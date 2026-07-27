@@ -1,0 +1,76 @@
+slug: nagoya-u-course-0351
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0351-%E3%83%89%E3%83%A9%E3%83%9E%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96b%EF%BC%8F%E5%9B%BD%E9%9A%9B%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E6%BC%94%E7%BF%92b-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: ドラマ研究概論b／国際多元文化演習b
+description:
+  ja: ドラマを、台本だけでなく役者や演技、観客、舞台を含む総合的な対象として捉え、作品全体と細部を結びつけて考える視点を扱う。あわせて、研究の進め方、論文の体裁、パラグラフの扱いなど、研究・執筆の基礎に関する講義ノートを公開している。英語論文を読む力を養うことや、英語文献も参照しながら研究する姿勢にも触れている。
+quotedDescription:
+  text:
+    ja: '現代人がフィクションに向かう姿勢は近代小説によって規定されているとする説があります。1970 年代末に述べられた「文学の領域でも明治以降の日本では（中略）小説の特権的位置が当たり前になっていて、詩や戯曲は非常に狭いところに押し込められてきた」（『劇的言語』）という言葉が今も当てはまる状況があると感じています。近代小説と比べると、ドラマは確かに台本という形で文字テキストの要素をもちますが、他に役者（とその身体）、演技（またはパフォーマンス）、観客、舞台（物理的条件）などの重要な要素を含みます。これらは小説にはない要素です。その意味においてドラマは総合芸術であり、歴史的に見ても近代のメディアが登場する以前の時代においては、社会の重要なメディア・娯楽・儀式でありました。近代演劇の代表であるチェーホフとイプセンの作品は文庫本で読めるものはわずか。この劣勢を跳ね返し、ドラマの特質と面白さを多くの人々に伝えたいと思っています。一つの演劇作品は通常短いものですので、作品を全体的に捉える訓練、細部（ディテール）を全体と関連付ける訓練としても適しています。対象のサイズは小さいけれども、多様な視点から思い巡らすことができるのがドラマなのです。
+
+      この世のものとは思えない言い回しが頻出する英語論文を読む力をつけるための訓練をする（この読みの力は研究にとても役立ちます）——英語ができるから英語論文が読んで理解できるかというとなかなか困難のようだと、これも学生諸君を見ていて思います。あなたはご自分のリサーチを日本語文献の範囲に、また母語文献の範囲に限定しようとしていますか。英語文献をリサーチしないでおいて、先行研究はないと豪語している学生も見かけます。とても残念だし、もったいないです。少し英語文献を覗いてみると、すぐに今まで知らなかった理論やアプローチが見つかることが多いからです。'
+  source: https://ocw.nagoya-u.jp/courses/0351-%E3%83%89%E3%83%A9%E3%83%9E%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96b%EF%BC%8F%E5%9B%BD%E9%9A%9B%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E6%BC%94%E7%BF%92b-2012/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 村主幸一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 近代小説
+- 戯曲
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 「研究のティップス（村主流）」'
+  contentUrl: https://ocw.nagoya-u.jp/files/351/students_research_tips.pdf
+  page: https://ocw.nagoya-u.jp/courses/0351-%E3%83%89%E3%83%A9%E3%83%9E%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96b%EF%BC%8F%E5%9B%BD%E9%9A%9B%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E6%BC%94%E7%BF%92b-2012/
+- name: '講義ノート: 「論文の体裁」（MLA スタイルによる）'
+  contentUrl: https://ocw.nagoya-u.jp/files/351/students_thesis_writing_manual.pdf
+  page: https://ocw.nagoya-u.jp/courses/0351-%E3%83%89%E3%83%A9%E3%83%9E%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96b%EF%BC%8F%E5%9B%BD%E9%9A%9B%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E6%BC%94%E7%BF%92b-2012/
+- name: '講義ノート: 「パラグラフとは何か？」'
+  contentUrl: https://ocw.nagoya-u.jp/files/351/students_paragraph_concept.pdf
+  page: https://ocw.nagoya-u.jp/courses/0351-%E3%83%89%E3%83%A9%E3%83%9E%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96b%EF%BC%8F%E5%9B%BD%E9%9A%9B%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E6%BC%94%E7%BF%92b-2012/
+- name: '講義ノート: ドラマ研究概論 b/国際多元文化演習 b の補助教材'
+  contentUrl: https://ocw.nagoya-u.jp/files/351/supplementaryMaterial_replace.pdf
+  page: https://ocw.nagoya-u.jp/courses/0351-%E3%83%89%E3%83%A9%E3%83%9E%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96b%EF%BC%8F%E5%9B%BD%E9%9A%9B%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E6%BC%94%E7%BF%92b-2012/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 後期
+  targetAudience: 大学院前期課程及び後期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

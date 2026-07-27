@@ -1,0 +1,79 @@
+slug: nagoya-u-course-0365
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0365-%E6%95%99%E8%82%B2%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%AC%9B%E7%BE%A9II-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育社会学講義II
+description:
+  ja: 教育社会学の理論や考え方を、教育学や心理学との比較も交えながら扱う講義である。あわせて、社会調査の危うさや基礎的な考え方、教育に関する常識や思い込みを問い直す視点を学ぶ。公開教材として、講義ノートが3件ある。
+quotedDescription:
+  text:
+    ja: 'この授業のねらいは、教育社会学・社会学の理論や知見、そして社会調査の基本的な考え方を学習することをとおして、教育に関する「常識」や「思い込み」を一旦停止させ、一歩引き下がった広い視野から冷静な分析ができるような態度を身につけることです。自分自身の意見の相対化を出発点とするクリティカルな思考過程をとおして、教育と社会の新しい世界像へと迫っていきます。
+
+      「教育社会学」のおもしろさに迫るために、授業では次の 3 つのことにこだわります。
+
+      第一に、「学問」（discipline）にこだわります。社会学あるいは教育社会学の理論や考え方とはどのようなものか、さまざまな例を用いながら、またときに教育学や心理学との比較をおこないながら、描き出していきます。
+
+      第二が、「調査」（research）にこだわります。社会を知るには調査が不可欠です。ただしこの授業では、社会調査の技術をマジメに学ぶことはありません。調査の危うさや裏側を学ぶ（＝「黒」を知る）ことをとおして、調査の基礎的な考え方を習得する（＝「白」を知る）ことを目指します。numeracy
+      を鍛える場です。
+
+      第三が、「常識」（common sense）にこだわります。私たちは社会の成員である以上、誰でも社会について容易に語ることができます。したがって、社会学がそうした語りに準じていては、学問になりません。皆が容易に語る「常識」からはみえてこない、もう一つの社会の姿に到達すること、これが社会学の最大の魅力です。
+
+      授業では、上の 3 つのこだわりを柔軟に使いこなしながら、教育と社会の新しい世界像へと迫っていきます。'
+  source: https://ocw.nagoya-u.jp/courses/0365-%E6%95%99%E8%82%B2%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%AC%9B%E7%BE%A9II-2012/
+  note: 名大の授業 (NU OCW) 「授業のねらい」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 内田良
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 教育学
+- 心理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 「教育社会学」という学問'
+  contentUrl: https://ocw.nagoya-u.jp/files/365/H24uchida_ch1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0365-%E6%95%99%E8%82%B2%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%AC%9B%E7%BE%A9II-2012/
+- name: '講義ノート: 「主体」の社会学'
+  contentUrl: https://ocw.nagoya-u.jp/files/365/H24uchida_ch2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0365-%E6%95%99%E8%82%B2%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%AC%9B%E7%BE%A9II-2012/
+- name: '講義ノート: 教育の言葉'
+  contentUrl: https://ocw.nagoya-u.jp/files/365/H24uchida_ch3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0365-%E6%95%99%E8%82%B2%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%AC%9B%E7%BE%A9II-2012/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 後期
+  targetAudience: 教育学部3年生以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

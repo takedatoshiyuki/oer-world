@@ -1,0 +1,147 @@
+slug: nagoya-u-course-0612
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報リテラシー（理系）
+description:
+  ja: 情報リテラシーの基礎として、コンピュータやネットワークの概説から、情報社会のモラル、情報セキュリティ、電子メール、情報検索までを扱う。あわせて、文書作成、表計算、プレゼンテーション、ウェブによる情報発信に触れ、演習を交えながら進める。理系のレポートや論文執筆で用いられるTeXやgnuplotも簡単に紹介する。
+quotedDescription:
+  text:
+    ja: 'インターネットの普及とネットワーク環境の充実により，いつでもどこでも大量の情報に接することが可能になった．これらの情報を活用するため，情報を収集/整理分析/伝達する能力が必要とされる．これらの能力の中で，特に伝達(レポート，プレゼンテーション)は，大学の講義/実験/卒業研究で重要となる．また，近年では情報セキュリティ情報機器のセキュリティ確保やネットワーク利用におけるモラルが重大な問題となっているため，これらについての説明も行う．この講義の最終目標は，情報関連技術の活用能力の基礎と基本的なルールを講義と演習を通して習得することである．
+
+      情報リテラシー/コンピュータ/ネットワーク概説
+
+      情報社会のモラル/マナー
+
+      情報セキュリティ
+
+      電子メール(全学メール)の利用方法
+
+      インターネットによる情報検索
+
+      電子図書館と文献利用
+
+      ワードプロセッサによる文書作成
+
+      ウェブページなどによる情報発信
+
+      表計算ソフトによる数値処理
+
+      プレゼンテーションの手順と表現のコツ
+
+      講義は上記のような内容を取り上げ，演習を交えながら進めるが，順序が前後する場合もある．
+
+      また，演習内容においては一般的なウェブブラウザやオフィススイートを用いるが，講義内容においては，理系のレポート/論文執筆において良く使われるツール(TeX, gnuplot, など)についての簡単な紹介も行う.'
+  source: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 嶋田創
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 情報学
+- 情報リテラシー
+- 情報社会
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 情報リテラシ（理系）ガイダンス'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/jouhou0.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: メディアセンター端末/サービス概要'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 1 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 情報の送受信における倫理'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 2 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 全学メールの利用'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 3 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: インターネットを利用した情報検索'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: Word によるレポート作成'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: Excel によるグラフ作成'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 6-1 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu6-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 6-2 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu6-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: PowerPoint によるプレゼンテーション作成'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 7 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 図書館情報検索'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 8 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: ウェブページ作成'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 演習問題 9 回目'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu9-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: 実習の補足'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/enshu9-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: アンケートからのピックアップ内容'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+- name: '講義ノート: コンピュータとネットワークの概要(計算機概要)'
+  contentUrl: https://ocw.nagoya-u.jp/files/612/kougi11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0612-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E7%90%86%E7%B3%BB%EF%BC%89-2016/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 農学部, 情報文化学部（自然）, 医学部, 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

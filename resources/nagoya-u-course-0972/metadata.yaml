@@ -1,0 +1,76 @@
+slug: nagoya-u-course-0972
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0972-%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BE%E8%B1%A1-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%922-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: '[留学生対象]日本語総合演習2'
+description:
+  ja: 留学生を対象とする日本語科目で、食文化、生活習慣と宗教、リサイクル、ジェンダーを扱う教材が公開されている。各教材には音読評価シートや表現の資料が含まれ、一部にはアンケート設問調査も付属する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 許明子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 言語
+- 日本語の四技能の総合的な上達
+- 問題解決型の学習
+- アンケート調査
+- 論理的な議論
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 1. 食文化 音読評価シート＆表現
+  contentUrl: https://ocw.nagoya-u.jp/files/972/sheet_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0972-%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BE%E8%B1%A1-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%922-2024/
+- name: 3. 生活習慣と宗教 音読評価シート、表現
+  contentUrl: https://ocw.nagoya-u.jp/files/972/sheet_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0972-%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BE%E8%B1%A1-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%922-2024/
+- name: 4. リサイクル 音読評価シート、表現
+  contentUrl: https://ocw.nagoya-u.jp/files/972/sheet_4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0972-%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BE%E8%B1%A1-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%922-2024/
+- name: 5. ジェンダー 音読評価シート、表現
+  contentUrl: https://ocw.nagoya-u.jp/files/972/sheet_5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0972-%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BE%E8%B1%A1-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%922-2024/
+- name: アンケート設問調査
+  contentUrl: https://ocw.nagoya-u.jp/files/972/1112questionnaire.pdf
+  page: https://ocw.nagoya-u.jp/courses/0972-%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BE%E8%B1%A1-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%922-2024/
+extensions:
+  faculty: 教養教育院
+  term: 秋学期
+  targetAudience: 文系全般、学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 外国人留学生を対象に、日本語による話す、聞く、読む、書く活動を行い，ピアラーニングを通してアカデミックライティングを学びます。論理的な思考や客観的なデータに基づいて、自分のレポートの課題を説明することができるようになることを目指します。
+  source: https://ocw.nagoya-u.jp/courses/0972-%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BE%E8%B1%A1-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%922-2024/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

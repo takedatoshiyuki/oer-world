@@ -1,0 +1,110 @@
+slug: nagoya-u-course-0561
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物情報工学
+description:
+  ja: 生命科学で扱う各種データベースを対象に、情報の検索と収集、遺伝子配列の相同性解析、ゲノム解析を扱う。あわせて、立体構造データベースの利用と分子グラフィックスも取り上げる。公開教材には、文献・特許、遺伝子、ゲノム、解析ツール、KEGG、立体構造に関する項目が含まれる。
+quotedDescription:
+  text:
+    ja: '現在、生命科学分野は、遺伝子の一次配列情報、遺伝子発現情報や、蛋白質・核酸の立体構造情報など、様々な情報がデータベース化されており、その量は毎年凄まじい勢いで増大しています。現代生物学およびそれと関連する学問領域において、それらのデータベースにアクセスし、情報を正しく収集し、それを科学手的に解析することは、必要不可欠な技術と言ってよいでしょう。
+
+      本講義では，これら生物情報工学の基礎となる概念・手法の中で、主にデータベース検索、遺伝子配列情報に対する相同性解析，およびゲノム解析に関して解説します。また 立体構造データベースの利用，および分子グラフィックスについて解説します。
+
+      最大の特徴は、実際にコンピューターを用いた実習形式の授業を行っていることです。ともすれば教科書からの一方的知識の積み上げになりがちな生命現象を、コンピューターの力を借りることで、「手のひらの上で転がしてみる」体験をすることにより、より一層理解が深まることを期待しています。'
+  source: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中野秀雄
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- agriculture
+keywords:
+- 生物
+- 農学
+- 生体分子
+- 生命現象
+- ゲノム解析
+- 遺伝子
+- 核酸
+- タンパク質
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 生物情報工学概論
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 文献データベースと特許データベース
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 遺伝子データベース
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 遺伝子解析のためのツール
+  contentUrl: https://ocw.nagoya-u.jp/files/561/4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: ゲノムデータベース
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 遺伝子の探索と遺伝子の機能予測
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: DNA 配列の中から遺伝子を探す
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: アラインメントと系統樹作成
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 遺伝子解析ソフトの使い方
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: システムバイオロジー入門- KEGG の使い方
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 立体構造のグラフィックス表示ソフトの使い方
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 立体構造データベースの利用
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 蛋白質の構造と機能 (DNA 結合蛋白質を中心として)
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+- name: 蛋白質の構造と機能 (酵素の構造と機能について)
+  contentUrl: https://ocw.nagoya-u.jp/files/561/lecnote_14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0561-%E7%94%9F%E7%89%A9%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-2015/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 後期
+  targetAudience: 農学部応用生命科学科3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

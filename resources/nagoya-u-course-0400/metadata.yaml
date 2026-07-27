@@ -1,0 +1,79 @@
+slug: nagoya-u-course-0400
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 対照表現論II-a,b
+description:
+  ja: 具体的な日本語表現を手がかりに、日本語教育で用いる文法教授法を扱う講義である。公開教材には、授業本編の資料に加えて学生の発表資料も含まれている。
+quotedDescription:
+  text:
+    ja: この授業では具体的な日本語表現を材料にして、日本語教育上有効な文法教授法について議論します。
+  source: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 杉村泰
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 対照言語学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 学生の発表 1
+  contentUrl: https://ocw.nagoya-u.jp/files/400/H25_Presentation_of_student_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+- name: 学生の発表 2
+  contentUrl: https://ocw.nagoya-u.jp/files/400/H25_Presentation_of_student_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+- name: 学生の発表 3
+  contentUrl: https://ocw.nagoya-u.jp/files/400/H25_Presentation_of_student_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+- name: 対照表現論 II-1
+  contentUrl: https://ocw.nagoya-u.jp/files/400/H25Sugimura_Lecture_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+- name: 対照表現論 II-2
+  contentUrl: https://ocw.nagoya-u.jp/files/400/H25_Sugimura_Lecture_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+- name: 対照表現論 II-3
+  contentUrl: https://ocw.nagoya-u.jp/files/400/H25Sugimura_Lecture_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+- name: 対照表現論 II-4
+  contentUrl: https://ocw.nagoya-u.jp/files/400/H25_Sugimura_Lecture_4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0400-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96II-a,b-2013/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 後期
+  targetAudience: 国際言語文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

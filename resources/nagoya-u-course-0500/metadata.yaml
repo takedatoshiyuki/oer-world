@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0500
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0500-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 科学・技術の哲学
+description:
+  ja: 科学とは何かをめぐって、科学的実践の特徴やあるべき姿を考察する。あわせて、科学者や技術者の社会的責任、科学・技術と社会や人間のあり方との相互作用を、具体例を交えながら扱う。
+quotedDescription:
+  text:
+    ja: '科学とは何か: 科学を科学たらしめるのはいかなる特徴であるか、科学的な実践とはどのようなものであるか、あるいはあるべきかを考え、議論する。
+
+      科学・技術と倫理: 科学者や技術者はどのような社会的責任を持っているか、またそれにはどのような根拠があるのかを考え、議論する。
+
+      科学・技術と社会: 科学・技術が社会や人間のあり方とどのように影響を与え合っているか、具体的な例を取り上げながら考え、議論する。'
+  source: https://ocw.nagoya-u.jp/courses/0500-%E7%A7%91%E5%AD%A6%E3%83%BB%E6%8A%80%E8%A1%93%E3%81%AE%E5%93%B2%E5%AD%A6-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久木田水生
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 工学
+- 哲学
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

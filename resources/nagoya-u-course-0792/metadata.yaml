@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0792
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0792-%E8%A4%87%E7%B4%A0%E9%96%A2%E6%95%B0%E8%AB%96-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 複素関数論
+description:
+  ja: 複素関数論を扱う名古屋大学の講義で、2020年度に教養教育院が理学部・工学部の2年生向けに前期開講した記録である。公開教材として講義ノートと宿題付きの講義ノートがある。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 杉本充
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 数学
+- 初等関数
+- コーシー
+- オイラー
+- 自然科学
+- 複素関数
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/792/LectureNote.pdf
+  page: https://ocw.nagoya-u.jp/courses/0792-%E8%A4%87%E7%B4%A0%E9%96%A2%E6%95%B0%E8%AB%96-2021/
+- name: '講義ノート: 宿題'
+  contentUrl: https://ocw.nagoya-u.jp/files/792/Assignment.pdf
+  page: https://ocw.nagoya-u.jp/courses/0792-%E8%A4%87%E7%B4%A0%E9%96%A2%E6%95%B0%E8%AB%96-2021/
+extensions:
+  faculty: 教養教育院
+  term: 前期火曜1限 木曜3限
+  targetAudience: 理学部・工学部　２年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 複素関数は，自然科学の様々な箇所に現れ，基本的役割を果たすと共に幅広い応用を持っている。特に，その微分積分学は，実数のそれと全く異なった美しく統一的な世界を形作っている。本科目はこうした複素関数の微分積分学の基礎，特に複素解析関数（正則関数ともよばれる）の基本的性質を学び，応用上重要な，その様々な取り扱いに習熟することを目的とする。
+      特に，ベキ級数および複素積分の取り扱いを重視する。
+  source: https://ocw.nagoya-u.jp/courses/0792-%E8%A4%87%E7%B4%A0%E9%96%A2%E6%95%B0%E8%AB%96-2021/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

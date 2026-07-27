@@ -1,0 +1,115 @@
+slug: nagoya-u-course-0842
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 微生物の科学
+description:
+  ja: 微生物の世界や取り扱い方、細胞構造、エネルギーと生育、細菌の分類などを扱う講義資料が公開されている。教材ファイルには「はじめに」や補足資料も含まれており、講義内容の導入から関連事項までを参照できる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 浅川 晋　教授, 池田 素子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 生物
+- 地球環境
+- 細菌
+- 微生物学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: はじめに
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の世界
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の取り扱い方
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の細胞構造１
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_04-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の細胞構造２
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_04-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: エネルギーと生育
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 細菌の分類
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物たち
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学（補足資料）
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_08-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学（補足資料）
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_09-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学（補足資料）
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_10-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学（補足資料）
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_11-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学（補足資料）
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_12-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+- name: 微生物の科学（補足資料）
+  contentUrl: https://ocw.nagoya-u.jp/files/842/PDF/842_13-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0842-%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E7%A7%91%E5%AD%A6-2022/
+extensions:
+  faculty: 教養教育院
+  term: 秋学期
+  targetAudience: 情報学部・理学部・医学部・農学部の2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

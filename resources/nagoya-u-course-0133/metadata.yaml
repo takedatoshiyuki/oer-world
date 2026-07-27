@@ -1,0 +1,112 @@
+slug: nagoya-u-course-0133
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: ミクロ経済学-II
+description:
+  ja: 競争市場における需給均衡分析を前提に、ミクロ経済学の基本事項を学ぶ講義である。公開教材には、第1回から第10回までの講義ノートと、練習問題の解答例が含まれる。
+quotedDescription:
+  text:
+    ja: 経済社会の成り立ちや動きを理解するためには、個々の構成員がどのような動機に基づいて各自の行動を選択しているか、またその意思決定がどのように相互連関しているのかを調べることが重要である。 ミクロ経済学は、行動の選択とその連関を分析し、経済社会の働きについて理解するための学問である。
+      本講義では、競争市場における需給均衡分析の理解を前提として、その他のミクロ経済学の基本事項を学ぶ。
+  source: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 花薗誠
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 経済社会
+- ミクロ経済学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第 1 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 2 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 3 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 4 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: '講義ノート: 練習問題解答例'
+  contentUrl: https://ocw.nagoya-u.jp/files/133/quiz1Ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 5 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 6 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 7 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 8 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: '講義ノート: 練習問題解答例'
+  contentUrl: https://ocw.nagoya-u.jp/files/133/quiz2Ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 9 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 10 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 11 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 12 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: '講義ノート: 練習問題解答例'
+  contentUrl: https://ocw.nagoya-u.jp/files/133/quiz3ans.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 13 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+- name: 第 14 回講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/133/microeconII-14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0133-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6-II-2011/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 前期
+  targetAudience: 経済学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0790
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0790-special-lecture-and-seminar-contemporary-intellectual-property-law-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: Special Lecture and Seminar (Contemporary Intellectual Prope
+description:
+  ja: 知的財産の保護をめぐる基本的な法枠組みと、先端的な論点を扱う講義である。特許、商標、著作権を例に、日本法と国際条約を中心に据えつつ、米国とEUの法にも触れる。
+quotedDescription:
+  text:
+    ja: 'This course covers basic legal frameworks and advanced issues concerning the protection of intellectual
+      property (IP) (e.g., patents, trademarks, copyrights). Main focus will be put on Japanese law and
+      international treaties (such as the Paris and Berne Conventions, and the TRIPS Agreement), but laws
+      of other major countries, particularly the US and the EU, will be also touched on.
+
+      Professor Nishii will teach the first four classes, and then Professor Suzuki will teach the rest
+      of the classes.'
+  source: https://ocw.nagoya-u.jp/courses/0790-special-lecture-and-seminar-contemporary-intellectual-property-law-2021/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 鈴木將文
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 講義資料
+  contentUrl: https://ocw.nagoya-u.jp/files/790/slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0790-special-lecture-and-seminar-contemporary-intellectual-property-law-2021/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 後期火曜3限
+  targetAudience: 学部３・４年生、院生（博士前期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

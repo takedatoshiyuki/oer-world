@@ -1,0 +1,81 @@
+slug: nagoya-u-course-0148
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国内実地研修
+description:
+  ja: 農業生産の現場や、それを支える行政・流通・研究の現場を訪れて体験する内容である。東海農政局、JAあいち経済連、愛知県農業総合試験場などを実習先とし、講義や実習で学んだことが農業生産にどう結びつくかを考える。
+quotedDescription:
+  text:
+    ja: 農業生産の現場あるいは農業生産を支えるさまざまな活動の現場、さらに農業に直結する応用研究の現場などを実体験することにより、農業生産の臨場感を味わうとともに、講義や実習で学んだことがどのように農業生産に結びつけていくかを実感する。
+  source: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 堀尾文彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- agriculture
+keywords:
+- 農学
+- 生物工学
+- 応用研究
+- 学問分野
+- 農学系
+- 農業
+- 授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 実習先：東海農政局(企画調整室)
+  contentUrl: https://ocw.nagoya-u.jp/files/148/1-H23.pdf
+  page: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+- name: 実習先：JA あいち経済連 畜産課
+  contentUrl: https://ocw.nagoya-u.jp/files/148/2-H23.pdf
+  page: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+- name: 実習先：JA あいち経済連 農産資材部
+  contentUrl: https://ocw.nagoya-u.jp/files/148/3-H23.pdf
+  page: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+- name: 実習先：愛知県農業総合試験場 野菜グループ
+  contentUrl: https://ocw.nagoya-u.jp/files/148/4-H23.pdf
+  page: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+- name: 実習先：愛知県農業総合試験場作物研究部 水田利用グループ
+  contentUrl: https://ocw.nagoya-u.jp/files/148/5-H23.pdf
+  page: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+- name: 実習先：東海農政局(消費・安全部消費生活課 食育推進班)
+  contentUrl: https://ocw.nagoya-u.jp/files/148/6-H23.pdf
+  page: https://ocw.nagoya-u.jp/courses/0148-%E5%9B%BD%E5%86%85%E5%AE%9F%E5%9C%B0%E7%A0%94%E4%BF%AE-2011/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 集中講義
+  targetAudience: 農学部 資源生物科学科3・4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

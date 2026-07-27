@@ -1,0 +1,79 @@
+slug: nagoya-u-course-0875
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 岩石学
+description:
+  ja: 名古屋大学の理学部2年生向けに春学期に開講された「岩石学」の講義資料である。公開教材は第1回から第6回までと第11回の計7件で、2022年度の授業内容を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 道林 克禎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 地球科学
+- 岩石
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第１回
+  contentUrl: https://ocw.nagoya-u.jp/files/875/%E5%B2%A9%E7%9F%B3%E5%AD%A6%E7%AC%AC%EF%BC%91%E5%9B%9E.pdf
+  page: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+- name: 第２回
+  contentUrl: https://ocw.nagoya-u.jp/files/875/%E5%B2%A9%E7%9F%B3%E5%AD%A6%E7%AC%AC%EF%BC%92%E5%9B%9E.pdf
+  page: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+- name: 第３回
+  contentUrl: https://ocw.nagoya-u.jp/files/875/%E5%B2%A9%E7%9F%B3%E5%AD%A6%E7%AC%AC%EF%BC%93%E5%9B%9E.pdf
+  page: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+- name: 第４回
+  contentUrl: https://ocw.nagoya-u.jp/files/875/%E5%B2%A9%E7%9F%B3%E5%AD%A6%E7%AC%AC4%E5%9B%9E.pdf
+  page: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+- name: 第５回
+  contentUrl: https://ocw.nagoya-u.jp/files/875/%E5%B2%A9%E7%9F%B3%E5%AD%A6%E7%AC%AC%EF%BC%95%E5%9B%9E.pdf
+  page: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+- name: 第６回
+  contentUrl: https://ocw.nagoya-u.jp/files/875/%E5%B2%A9%E7%9F%B3%E5%AD%A6%E7%AC%AC%EF%BC%96%E5%9B%9E.pdf
+  page: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+- name: 第 11 回
+  contentUrl: https://ocw.nagoya-u.jp/files/875/%E5%B2%A9%E7%9F%B3%E5%AD%A6%E7%AC%AC%EF%BC%91%EF%BC%91%E5%9B%9E.pdf
+  page: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 春学期
+  targetAudience: 理学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 火成岩や変成岩等の岩石は地球型惑星を構成する主要な物質であり、地球の進化やその内部構造を理解するために重要である。本講義では、火成岩と変成岩の基本的な分類とそれらがどのような鉱物で構成されているかについて学ぶ。さらに、これらの岩石の成因について、主要造岩鉱物の結晶化学的特徴・熱力学の初歩と相平衡の考え方を併せて理解する。
+  source: https://ocw.nagoya-u.jp/courses/0875-%E5%B2%A9%E7%9F%B3%E5%AD%A6-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

@@ -1,0 +1,78 @@
+slug: nagoya-u-course-0248
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0248-%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E3%81%AE%E6%A7%8B%E9%80%A0%EF%BC%88%E7%99%BA%E7%94%9F%E5%AD%A6%EF%BC%89-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人体器官の構造（発生学）
+description:
+  ja: 人体器官の構造に関する発生学を扱う講義で、名古屋大学医学部／医学系研究科の2014年度後期に開講された。対象は医学部医学科2年生と3年次編入生で、講義スライドの教材が公開されている。
+quotedDescription:
+  text:
+    ja: 「発生学」は毎年、最も劇的に、研究成果が教科書の修正や加筆につながっている分野である。再生医療や生殖医療など、社会的な討論のタネとなる話題もきわめて豊富である。つまり、みずみずしく生きている。また、「発生」はじつは「ガン」の「知恵袋」であるので、その営みを知ることが「ガン」の「悪知恵」を暴きその営みを封じることにつながる。加えて、医学科学生が学ぶ「発生学」には、発生過程をひとつの「正常モデル」とし
+  source: https://ocw.nagoya-u.jp/courses/0248-%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E3%81%AE%E6%A7%8B%E9%80%A0%EF%BC%88%E7%99%BA%E7%94%9F%E5%AD%A6%EF%BC%89-2014/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 宮田卓樹
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- slide
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 生化学
+- 細胞生物学
+- タンパク質
+- はじめに
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/248/lecnote15_01_.pdf
+  page: https://ocw.nagoya-u.jp/courses/0248-%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E3%81%AE%E6%A7%8B%E9%80%A0%EF%BC%88%E7%99%BA%E7%94%9F%E5%AD%A6%EF%BC%89-2014/
+- name: '講義ノート: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/248/lecnote15_02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0248-%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E3%81%AE%E6%A7%8B%E9%80%A0%EF%BC%88%E7%99%BA%E7%94%9F%E5%AD%A6%EF%BC%89-2014/
+- name: '講義ノート: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/248/lecnote15_03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0248-%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E3%81%AE%E6%A7%8B%E9%80%A0%EF%BC%88%E7%99%BA%E7%94%9F%E5%AD%A6%EF%BC%89-2014/
+- name: '講義ノート: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/248/lecnote15_04_05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0248-%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E3%81%AE%E6%A7%8B%E9%80%A0%EF%BC%88%E7%99%BA%E7%94%9F%E5%AD%A6%EF%BC%89-2014/
+- name: '講義ノート: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/248/lecnote15_06_.pdf
+  page: https://ocw.nagoya-u.jp/courses/0248-%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E3%81%AE%E6%A7%8B%E9%80%A0%EF%BC%88%E7%99%BA%E7%94%9F%E5%AD%A6%EF%BC%89-2014/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 後期
+  targetAudience: 医学部医学科2年生、3年次編入生人体器官の構造
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,59 @@
+slug: nagoya-u-course-0645
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0645-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6%E2%85%A0-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: ミクロ経済学Ⅰ
+description:
+  ja: 効率的な資源配分と市場メカニズムを考えるための価格理論を扱う。前半では消費者の意思決定と需要、価格変化が需要や厚生に与える影響を分析し、後半では生産者の意思決定と供給、生産技術や費用構造の関係を数式やグラフで扱う。最後に競争均衡を導入し、市場を通じた取引がどのように機能するかをモデル化する。
+quotedDescription:
+  text:
+    ja: 本講義では、効率的な資源配分と市場メカニズムの機能を分析する価格理論を扱います。講義の前半では、市場の需要サイドを決定する消費者の合理的意思決定を分析し、価格の変化が需要や消費者の厚生に与える効果を厳密に議論するための道具を提供します。講義の後半では、供給サイドを決定する生産者の合理的意思決定を分析し、生産技術や費用構造がどのように供給を決定するか数式やグラフを用いて分析します。これら需要と供給に関する理論を前提に、市場を通じて自由に取引が行われる状況をモデル分析するために「競争均衡」というコンセプトを導入し、市場メカニズムの機能を議論します。
+  source: https://ocw.nagoya-u.jp/courses/0645-%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6%E2%85%A0-2017/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 田村彌
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- ミクロ経済学
+- HP
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 後期
+  targetAudience: 経済学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

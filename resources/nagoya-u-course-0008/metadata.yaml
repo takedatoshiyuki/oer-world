@@ -1,0 +1,105 @@
+slug: nagoya-u-course-0008
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+type:
+- LearningResource
+- Course
+name:
+  ja: 力学-I
+description:
+  ja: 力学の基礎を扱う講義で、ニュートンの運動の法則から始まり、ベクトル、速度、加速度、単位系、放物運動、円運動などの運動の記述を学ぶ。さらに、保存力とポテンシャル、万有引力、振動、波動、慣性力と回転座標系までを講義ノートで順に扱う。
+quotedDescription:
+  text:
+    ja: 自然科学の基礎学問である力学を、身近な現象の力学的解明を通じて学ぶことを指針とする。物理学科進学を希望する学生および専門を学ぶ上で力学が重要となる学生を対象とする。それのみならず、科学を学ぶ学生には必要な基礎である。この「力学
+      I 」および後期に開講される「力学 II 」と合わせて、ニュートン力学の基礎についてのまとまった内容を講義する。
+  source: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 大島隆義
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 物理
+- 物理法則
+- 力学現象
+- ニュートン力学
+- 力学
+- 運動方程式
+- 微分方程式
+- 方程式
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: Newton の運動の法則 ／ ベクトル、速度、加速度'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 単位系 ／ 放物運動'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 速度に依存する抵抗がはたらくとき'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: アリの落下運動'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 円運動'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 単振子 ／ 運動方程式の積分'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 保存力とポテンシャル'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: ポテンシャルの具体例：万有引力 ／ 単振動'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 減衰振動'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 強制振動 ／ 連成振動'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 波動'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: 慣性力 ／ 回転座標系'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+- name: '講義ノート: フーコーの振り子'
+  contentUrl: https://ocw.nagoya-u.jp/files/8/kyoiku-in_c02_14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0008-%E5%8A%9B%E5%AD%A6-I-2003/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 理学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

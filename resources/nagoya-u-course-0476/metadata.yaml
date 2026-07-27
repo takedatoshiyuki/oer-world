@@ -1,0 +1,97 @@
+slug: nagoya-u-course-0476
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 離散数学及び演習
+description:
+  ja: 集合や関係、同値関係、半順序、束、関数を扱うほか、約数・倍数、素数、1次不定方程式、合同式、多項式、環、群、部分系、準同型へと内容が進む。離散数学の基礎事項を、講義ノート形式で順に学ぶ構成になっている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 外山勝彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 数学
+- 基礎数学
+- 離散数学
+- 整数論
+- 集合論
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義の概要、集合・集合演算'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 直積・関係、２項関係の性質'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 同値関係、半順序'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 束'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 関数'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 約数・倍数'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 素数'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 1 次不定方程式、合同式'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 合同式(続き)'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 多項式、環'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 環（続き）、群'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 部分系、準同型'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+- name: '講義ノート: 商系'
+  contentUrl: https://ocw.nagoya-u.jp/files/476/toyama13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0476-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2014/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学部　電気電子・情報工学科(Bクラス)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

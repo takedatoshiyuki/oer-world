@@ -1,0 +1,71 @@
+slug: nagoya-u-course-0687
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0687-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9BIII-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理科学展望III
+description:
+  ja: この教材は、アフィン空間と射影空間の基礎を確認し、射影幾何学の基本定理へ進む内容を扱う。さらに、物理における対称性に関わるWignerの定理まで踏み込む構成である。
+quotedDescription:
+  text:
+    ja: In his celebrated Erlangen Program in 1872, F. Klein opened a way to synthesize geometric objects
+      based on group symmetry. Since then the notion of group has been playing signiﬁcant roles in the
+      study of various geometries. Among them, fundamental is the so-called projective geometry, which
+      is intimately related to that of vector spaces. Interrelations of geometric positions of ﬂat objects
+      such as lines and planes in Euclidean spaces are described most aesthetically in the framework of
+      projective geometry. The fundamental theorem of projective geometry then states that the three-point
+      collinearity is enough to recover the linear group structure behind them. Its importance is not
+      just restricted within purely mathematical subjects and we shall review here, in quantum theory
+      and special relativity, two fundamentals in physics, how their symmetries can be realized as linear
+      groups as applications of the fundamental theorem.
+  source: https://ocw.nagoya-u.jp/courses/0687-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9BIII-2015/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山上滋
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 物理
+- 数理科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: Projective Geometry and Symmetry in Physics
+  contentUrl: https://ocw.nagoya-u.jp/files/687/symmetry-in-physics.pdf
+  page: https://ocw.nagoya-u.jp/courses/0687-%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6%E5%B1%95%E6%9C%9BIII-2015/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 前期
+  targetAudience: 理学部数理学科4年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

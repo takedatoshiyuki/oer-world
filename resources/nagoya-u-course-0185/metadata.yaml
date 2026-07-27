@@ -1,0 +1,78 @@
+slug: nagoya-u-course-0185
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0185-%E5%85%88%E7%AB%AF%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E8%AB%96ab-2012/
+type:
+- LearningResource
+- Course
+name:
+  ja: 先端文化思想論ab
+description:
+  ja: 前期では、近代資本主義の成立と禁欲の倫理、性への態度の関係を手がかりに、西欧の支配文明がどのように形づくられたかを検討する。後期では、20世紀後半の性と女性の解放運動を、女性アーティストの作品も参照しながら、性の商品化や労働力の均質化との関係で捉える。
+quotedDescription:
+  text:
+    ja: '＜前期＞
+
+      ひとつの文化が幾多ある文化を凌駕し支配文明の高みにいたるには、文化の個別性を超越した「だれもが参加しうる」人間関係を作り出せることが条件となる。16 世紀にアルプス北方ヨーロッパに誕生した近代資本主義は、民主主義とならび、まさに「だれもが参加しうる」システムとなるべく今日まで発展しつづけてきた。
+
+      しかし本講義が問題にするのは、普遍を標榜しているはずの資本主義が、その誕生の起源に目を向けると、じつは普遍とあまりにかけ離れた特殊な目的を志向していたことである。資本主義を支える職業倫理が、16
+      世紀の宗教改革を契機とする禁欲の世俗化をとおして生まれたことは広く知られている。ただここで問題となるのは、なぜ性を極度に恐れ嫌う禁欲の倫理観が、とりわけアルプス北方のドイツ語圏を中心に強く浸透したのかという点がひとつ。いまひとつは、これほど普遍に無関心な禁欲の倫理から、いかにして「だれもが参加しうる」資本の論理が発展し得たのかである。この２点を視野に入れながら、西欧という支配文明が、じつは相反する二重構造からなる流れとして発展してきたことを明らかにする。
+
+      ＜後期＞
+
+      なぜ 20 世紀後半期になって、資本主義最大の障碍とみなされてきた性と女性を解放する動きが活発化したのか。当時西欧の若者たちは何に対抗し、何を求めたのか。そうしたなかで、女性はどういう位置づけにあったのか。こうした時代意識の先端を自らの身体を舞台に表現した、キャロリー・シュニーマン、ヴァリー・エクスポート、レベッカ・ホルン、シンディ・シャーマンら女性アーティストの作品を紹介するなかから、文化という地理的な隔たりと、時代という歴史的な隔たりにより、今日の人びとにとっては理解が困難と化した、西欧の女性が長きにわたっておかれてきた性的体現者としての姿を浮き彫りにする。
+
+      その結果明らかにされる問題は、じつは性の解放も女性たちが主体的に求めた思い込みとは裏腹に、資本が仕組んだ戦略であった可能性である。性と女性を邪悪と罪悪の呪縛から解き放つことは、20 世紀前半期にいたるまでまともな労働力として取り込めていなかった女性と非西欧人を、男性と同等に均質化された労働力として動員するうえで、是非とも行わなければならなかった作業である。最後の障害であったセクシュアリティをセックスに還元することで、すべてを商品化する道を開いた時期として性と女性の解放運動を位置づける。'
+  source: https://ocw.nagoya-u.jp/courses/0185-%E5%85%88%E7%AB%AF%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E8%AB%96ab-2012/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 越智和弘
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 参考資料・先端文化思想論 A
+  contentUrl: https://ocw.nagoya-u.jp/files/185/sanko.pdf
+  page: https://ocw.nagoya-u.jp/courses/0185-%E5%85%88%E7%AB%AF%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E8%AB%96ab-2012/
+- name: '講義ノート: 労働力均質化時代の性と文化 I.支配文明の基本構造(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/185/ochi_lectnote_2012.pdf
+  page: https://ocw.nagoya-u.jp/courses/0185-%E5%85%88%E7%AB%AF%E6%96%87%E5%8C%96%E6%80%9D%E6%83%B3%E8%AB%96ab-2012/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 通年
+  targetAudience: 国際言語文化研究科 国際多元文化専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

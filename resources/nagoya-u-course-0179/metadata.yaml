@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0179
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0179-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%B7%E3%83%B3%E3%80%9C%E3%83%9F%E3%83%AA%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%8A%E3%83%8E%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: マイクロマシン〜ミリ・マイクロ・ナノ世界のためのものつくり
+description:
+  ja: この教材は、マイクロマシンを手がかりに、ミリ・マイクロ・ナノ尺度でのものづくりを扱う。説明文では、マイクロの意味や1マイクロメートルの大きさを示し、小さな機械では空気や摩擦の性質が日常の感覚と異なることを述べる。
+quotedDescription:
+  text:
+    ja: マイクロマシンとは、とても小さな機械のことです。 マイクロとは、１０のマイナス６乗という意味です。  　例えば１マイクロメートルは、１００万分の１メートルです。こんな小さな機械では、わたしたちの日常で問題にならないようなことが問題となってきます。
+      例えば、マイクロマシンにとって空気というのは、周りにまとわりつく重たく粘性が高い液体の様な存在になります。それから摩擦力が強くなるために
+  source: https://ocw.nagoya-u.jp/courses/0179-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%B7%E3%83%B3%E3%80%9C%E3%83%9F%E3%83%AA%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%8A%E3%83%8E%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A-2008/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 安藤妙子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- slide
+about:
+- generic
+keywords:
+- 物理
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/179/kikai.pdf
+  page: https://ocw.nagoya-u.jp/courses/0179-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%B7%E3%83%B3%E3%80%9C%E3%83%9F%E3%83%AA%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%8A%E3%83%8E%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A-2008/
+extensions:
+  faculty: 男女共同参画室
+  term: 公開講座
+  targetAudience: 高校生と保護者
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

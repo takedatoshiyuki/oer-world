@@ -1,0 +1,80 @@
+slug: nagoya-u-course-0680
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: インフォマティクス１
+description:
+  ja: 情報システムの中心となるプログラミングと計算機の仕組みを学んだうえで、組み込みシステム、ハイパフォーマンスコンピューティング、ネットワーク、データベース、オートマトン・形式言語へと内容を広げる。基礎理論と具体的な処理方法を扱い、全7回の授業として構成されている。
+quotedDescription:
+  text:
+    ja: 'まず，情報システムの中心部分であるプログラミングおよび計算機の仕組みについて学んだ後に，関連技術である，組込みシステム，ハイパフォーマンスコンピューティング，ネットワーク，データベース(Web)，オートマトン・形式言語について，基礎となる理論と具体的な処理方法について学ぶ。
+
+      この講義ではクォーター制を採用しており、全 7 回授業となる。'
+  source: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- コンピュータ科学
+- インフォマティクス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: １ 計算機の仕組み１（論理設計・ハードウェアアーキテクチャ）
+  contentUrl: https://ocw.nagoya-u.jp/files/680/1_handout.pdf
+  page: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+- name: ２ 計算機の仕組み２（ソフトウェアアーキテクチャ）
+  contentUrl: https://ocw.nagoya-u.jp/files/680/2_handout.pdf
+  page: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+- name: ３ プログラミング
+  contentUrl: https://ocw.nagoya-u.jp/files/680/programing.pdf
+  page: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+- name: ４ 組み込みシステム・ハイパフォーマンスコンピューティング
+  contentUrl: https://ocw.nagoya-u.jp/files/680/4_handout.pdf
+  page: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+- name: ５ ネットワーク
+  contentUrl: https://ocw.nagoya-u.jp/files/680/5_network.pdf
+  page: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+- name: ６ データベース
+  contentUrl: https://ocw.nagoya-u.jp/files/680/database.pdf
+  page: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+- name: ７ オートマトン・形式言語
+  contentUrl: https://ocw.nagoya-u.jp/files/680/7-handout.pdf
+  page: https://ocw.nagoya-u.jp/courses/0680-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%EF%BC%91-2018/
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 春2期
+  targetAudience: 情報学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

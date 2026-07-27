@@ -1,0 +1,122 @@
+slug: nagoya-u-course-0930
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: プラズマ理工学
+description:
+  ja: プラズマの生成から基本的性質、荷電粒子の運動、衝突と電気抵抗、電磁流体力学、波動、平衡、輸送までを扱い、さらにプラズマ・材料相互作用や核融合プラズマにも触れる。公開教材は第1回から第12回まで用意されており、レポート返却時には解答の説明を行う。
+quotedDescription:
+  text:
+    ja: 'プラズマの物理と工学の基礎を習得する。特に、プラズマを構成する荷電粒子の単一粒子としての運動とプラズマの流体としての運動を理解する。
+
+      原子分子過程とプラズマの生成
+
+      プラズマの基本的性質
+
+      単一荷電粒子の運動
+
+      クーロン衝突と電気抵抗
+
+      電磁流体力学とプラズマの流体としての運動
+
+      プラズマ中の波動
+
+      プラズマの平衡
+
+      プラズマにおける熱・粒子の輸送
+
+      プラズマ・材料相互作用
+
+      核融合プラズマ
+
+      レポート返却時の授業でレポートの解答を説明するので、理解を深めること。'
+  source: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 藤田 隆明
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 物理
+- 荷電粒子
+- 電磁流体力学
+- 波動
+- 核融合
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第 1 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 2 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 3 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 4 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 5 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 6 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 7 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 8 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 9 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 10 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 11 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 12 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+- name: 第 13 回
+  contentUrl: https://ocw.nagoya-u.jp/files/930/slide_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0930-%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%90%86%E5%B7%A5%E5%AD%A6-2023/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 秋学期
+  targetAudience: 工学部3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

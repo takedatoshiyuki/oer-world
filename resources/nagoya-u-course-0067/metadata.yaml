@@ -1,0 +1,97 @@
+slug: nagoya-u-course-0067
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営学
+description:
+  ja: 現実の企業が直面する問題に対応づけながら、経営学の基礎的概念を扱う講義ノート集である。個別テーマごとに、問題を考えるための思考ツールの習得を求める内容になっている。
+quotedDescription:
+  text:
+    ja: 現実の企業が直面している問題と対応づけながら、経営学分野の基礎的概念を解説していきます。受講者には、個別テーマごとに取上げられる問題を考えるための「思考ツール」の習得が求められます。
+  source: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 宮崎正也
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 経済学/経営学
+- イノベーション
+- 本講座の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: ゴミ箱モデル／顧客満足'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: 系列取引／組織間関係論'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: 協調行動の進化／対話としての競争'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: デファクト・スタンダード／戦略的提携'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: 製品アーキテクチャ／ユーザー・イノベーション'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: プロデューサー／ゲートキーパー'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: トランスナショナル企業／組織文化'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: ドミナント・ロジック／個体群生態学'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: 価値ネットワーク／知識連鎖'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: 情報粘着性／クラスター'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: その概念の違い'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+- name: '講義ノート: 諸項目の総括的な解説と今後への展望'
+  contentUrl: https://ocw.nagoya-u.jp/files/67/L13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0067-%E7%B5%8C%E5%96%B6%E5%AD%A6-2007/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 学部生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

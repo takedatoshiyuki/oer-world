@@ -1,0 +1,85 @@
+slug: nagoya-u-course-0919
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0919-%E6%95%99%E8%82%B2%E9%96%8B%E7%99%BA%E8%A8%88%E7%94%BB%E3%83%BB%E8%A9%95%E4%BE%A1%E8%AB%96-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育開発計画・評価論
+description:
+  ja: 教育開発計画と評価を扱う講義の教材で、教育政策の進め方にも触れる。公開されているファイルは、教育開発計画・評価の概要、教育政策プロセス、優先順位と戦略、活動計画、運営計画に関する内容を含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 内海 悠二
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 国際
+- 教育
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 'Session 4: What is the Education Development Planning and Assessment?'
+  contentUrl: https://ocw.nagoya-u.jp/files/919/Educational%20Development%20Planning%20and%20Evaluation_Session4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0919-%E6%95%99%E8%82%B2%E9%96%8B%E7%99%BA%E8%A8%88%E7%94%BB%E3%83%BB%E8%A9%95%E4%BE%A1%E8%AB%96-2023/
+- name: 'Session 5: How is the Education Policy Processed?'
+  contentUrl: https://ocw.nagoya-u.jp/files/919/Educational%20Development%20Planning%20and%20Evaluation_Session5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0919-%E6%95%99%E8%82%B2%E9%96%8B%E7%99%BA%E8%A8%88%E7%94%BB%E3%83%BB%E8%A9%95%E4%BE%A1%E8%AB%96-2023/
+- name: 'Section 8&9: Priorities & Strategies, Activity and Operational Plan'
+  contentUrl: https://ocw.nagoya-u.jp/files/919/Educational%20Development%20Planning%20and%20Evaluation_Session8&9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0919-%E6%95%99%E8%82%B2%E9%96%8B%E7%99%BA%E8%A8%88%E7%94%BB%E3%83%BB%E8%A9%95%E4%BE%A1%E8%AB%96-2023/
+extensions:
+  faculty: 国際開発研究科
+  term: 春学期
+  targetAudience: 国際開発研究科 博士前期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'This course aims to increase students’understanding on the concept, practice and methodology
+      of education policy planning andassessment in the area of educational development.
+
+      The course provides not only the theoretical overview of educational development planning and assessment,
+      but also reviews practicalsteps to prepare for a national education strategic plan (NESP) and to
+      assess the NESP implementation in a country. After reviewing thescope and dimension of education
+      policies, the course further discusses the structure, formulation process and practical issues of
+      NESPpreparation which varies by the country’s context and situation, as well as the concepts and
+      calculation methods of key educationindicators. The course further introduces the methodologies
+      of major assessment analysis used as a tool of policy/project assessment inboth practical and academic
+      fields.
+
+      本授業の英語ページはこちら：
+
+      Educational Development Planning and Evaluation
+
+      At the end of this course, students are expected to be able to understand the concept of educational
+      development planning andassessment, to calculate major educational indicators, to explain each component
+      of NESP, and to develop basic shape of NESP withsupport of experts.'
+  source: https://ocw.nagoya-u.jp/courses/0919-%E6%95%99%E8%82%B2%E9%96%8B%E7%99%BA%E8%A8%88%E7%94%BB%E3%83%BB%E8%A9%95%E4%BE%A1%E8%AB%96-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

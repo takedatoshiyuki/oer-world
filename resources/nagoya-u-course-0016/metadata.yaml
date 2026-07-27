@@ -1,0 +1,99 @@
+slug: nagoya-u-course-0016
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 離散数学及び演習
+description:
+  ja: 集合・命題・関数や関係・順序、集合の計数をはじめ、約数・倍数、ユークリッドの互除法、素数、合同式、中国人の剰余定理などの初等整数論を扱う。さらに、群、環・整域・体、多項式環・ガロア体までの代数系の理論を学ぶ。演習では証明問題を書き下し、論述を行う。
+quotedDescription:
+  text:
+    ja: 本講義では，集合・関数・関係に関する諸概念，初等整数論，代数系の理論を学びます．また，演習として大量の証明問題を書き下して貰い，論述力を習得して貰います．
+  source: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 草刈圭一朗
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- engineering
+keywords:
+- 工学
+- 数学
+- ユークリッド
+- 離散数学
+- 初等整数論
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/kadai.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 集合・命題・関数'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 関係・順序'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 集合の計数'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 約数・倍数,ユークリッドの互除法'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 素数 (1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 1 次不定方程式'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 合同式，中国人の剰余定理'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 素数 (2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 群'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 環・整域・体'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+- name: '講義ノート: 多項式環・ガロア体'
+  contentUrl: https://ocw.nagoya-u.jp/files/16/lec11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学部 電気電子・情報工学科 情報工学コース 1年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

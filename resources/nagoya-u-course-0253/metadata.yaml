@@ -1,0 +1,224 @@
+slug: nagoya-u-course-0253
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: パターン認識及び演習
+description:
+  ja: 音声・画像・文字などの認識を対象に、パターン認識の基本的な考え方と識別理論、学習理論、各種アルゴリズムを扱う。あわせてコンピュータ演習を通じて具体的な問題を解く構成になっている。公開教材には講義資料や配布資料に加えて授業アンケートが含まれる。
+quotedDescription:
+  text:
+    ja: '音声、画像、文字などを高精度で認識するパターン認識技術の基本的な考え方、識別理論、学習理論およびそれらのアルゴリズムを習得する。さらにコンピュータを用いた演習で具体的な問題を解き、理解を深めるとともに実際の場で本技術を適用できる応用力を身につける。達成目標は以下の二点である。
+
+      パターン認識の基本概念を理解し、説明できる
+
+      識別、学習のアルゴリズムを用いて具体的な問題を解ける'
+  source: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 石井健一郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- engineering
+keywords:
+- 工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: パターン認識及び演習 第 1 回授業アンケート
+  contentUrl: https://ocw.nagoya-u.jp/files/253/enquete1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: パターン認識及び演習 第 2 回授業アンケート
+  contentUrl: https://ocw.nagoya-u.jp/files/253/enquete2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 01
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(01).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 02
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(02).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 03
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(03).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 03-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(03-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 03-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(03-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 03-3
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(03-3).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 04
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(04).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 04-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(04-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 04-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(04-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 04-3
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(04-3).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 04-4
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(04-4).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 04-5
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(04-5).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 05
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(05).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 05-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(05-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 05-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(05-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 06
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(06).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 06-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(06-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 06-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(06-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 07
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(07).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 07-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(07-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 08
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(08).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 08-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(08-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 08-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(08-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 09
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(09).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 09-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(09-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 09-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(09-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 10
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(10).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 10-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(10-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 10-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(10-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 10-3
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(10-3).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 11
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(11).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 11-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(11-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 11-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(11-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 11-3
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(11-3).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 12
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(12).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 12-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(12-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 12-2
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(12-2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 12-3
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(12-3).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 13
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(13).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 13-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(13-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 14
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(14).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 配布資料 14-1
+  contentUrl: https://ocw.nagoya-u.jp/files/253/haifu(14-1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 講義資料 15
+  contentUrl: https://ocw.nagoya-u.jp/files/253/kougi(15).ppt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 本演習について
+  contentUrl: https://ocw.nagoya-u.jp/files/253/on_exercise.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 課題 1「最近傍決定則による認識実験」
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exercise1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 課題 1 補足説明
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exercise1_data.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 課題 2「最近傍決定則による認識プログラムの作成」
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exercise2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 課題 3「多クラスのパーセプトロンによる学習」
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exercise3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 課題 4「最近傍決定則による手書き文字の認識」
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exercise4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 課題 5「Glucksman の特徴を利用した手書き文字認識」
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exercise5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 課題 6「フィッシャーの判別分析」
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exercise6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+- name: 期末試験問題
+  contentUrl: https://ocw.nagoya-u.jp/files/253/exam.pdf
+  page: https://ocw.nagoya-u.jp/courses/0253-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2011/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学部情報工学コース3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0784
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0784-%E4%BB%A3%E6%95%B0%E5%AD%A6%E2%85%B0-%EF%BC%8F%E4%BB%A3%E6%95%B0%E5%AD%A6%E6%A6%82%E8%AB%96v-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 代数学Ⅰ ／代数学概論V
+description:
+  ja: Coxeter群、ルート系、Weyl群を扱う入門的な講義ノートである。ルート系に親しむことを目標にしており、関連する基本的な概念を導入する内容である。
+quotedDescription:
+  text:
+    ja: 'Coxeter 群、ルート系、Weyl 群に関する入門的な講義です。
+
+      ルート系は数学の様々な分野に現れる重要な概念で、それに親しむことを目標としました。'
+  source: https://ocw.nagoya-u.jp/courses/0784-%E4%BB%A3%E6%95%B0%E5%AD%A6%E2%85%B0-%EF%BC%8F%E4%BB%A3%E6%95%B0%E5%AD%A6%E6%A6%82%E8%AB%96v-2021/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 柳田伸太郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 数学原論
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/784/material.pdf
+  page: https://ocw.nagoya-u.jp/courses/0784-%E4%BB%A3%E6%95%B0%E5%AD%A6%E2%85%B0-%EF%BC%8F%E4%BB%A3%E6%95%B0%E5%AD%A6%E6%A6%82%E8%AB%96v-2021/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 前期木曜3限
+  targetAudience: 学部４年生・院生（博士前期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

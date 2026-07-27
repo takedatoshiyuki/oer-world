@@ -1,0 +1,99 @@
+slug: nagoya-u-course-0609
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: リサーチスキルズB2
+description:
+  ja: 大学院生を対象に、研究やアカデミック・ライティングに必要な基礎技能を扱う教材群である。注釈付き参考文献、論文の主張、文献レビュー、論理的議論、演繹と帰納、資料の使い方、口頭発表、引用スタイルなどを収録している。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: Chad NILEP
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 物理
+- 英語
+- 目的と目標
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: Annotated bibliography
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_2_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: What is a thesis statement?
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_3_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: What is a literature review?
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_4_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: What is a logical argument?
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_5_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Deductive_reasoning
+  contentUrl: https://ocw.nagoya-u.jp/files/609/deductive_reasoning%20(1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Inductive_reasoning
+  contentUrl: https://ocw.nagoya-u.jp/files/609/inductive_reasoning%20(1).pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Logical arguments
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_6_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Logical arguments homework
+  contentUrl: https://ocw.nagoya-u.jp/files/609/logical-argument-homework.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Using logic, Using sources
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_7_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Literature Review
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_9_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Developing Academic Writing - How to prepare your oral presentation?
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_10_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Citation styles
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Citation%20styles.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Paraphrasing_lecture.pdf
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Paraphrasing_lecture.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Developing Academic Writing - How do I cite sources?
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_11_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+- name: Quoting – Paraphrasing – Summarizing – Synthesizing
+  contentUrl: https://ocw.nagoya-u.jp/files/609/Class_12_slides.pdf
+  page: https://ocw.nagoya-u.jp/courses/0609-%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BAB2-2016/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

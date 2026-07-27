@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0364
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0364-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%92%EF%BC%96%EF%BC%88%E8%87%A8%E5%BA%8A%E4%BA%8B%E4%BE%8B%E7%A0%94%E7%A9%B6%E6%B3%95%EF%BC%89-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 心理行動科学実験演習６（臨床事例研究法）
+description:
+  ja: '相談場面で用いるセラピストの技法を扱い、あわせて事例を多面的に理解することを目指す講義である。公開教材として「講義ノート: 面接の技法」が付属する。'
+quotedDescription:
+  text:
+    ja: '学部授業でのアドバンスドコースとして、相談場面におけるセラピストの各種技法を身につけることと、事例の多面的な理解を目指している。
+
+      臨床面接の各種の技法が使用できる。多面的な視点から、臨床事例を理解できる。'
+  source: https://ocw.nagoya-u.jp/courses/0364-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%92%EF%BC%96%EF%BC%88%E8%87%A8%E5%BA%8A%E4%BA%8B%E4%BE%8B%E7%A0%94%E7%A9%B6%E6%B3%95%EF%BC%89-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 金子一史
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 医学/薬学
+- 心理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 面接の技法'
+  contentUrl: https://ocw.nagoya-u.jp/files/364/H24kaneko_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0364-%E5%BF%83%E7%90%86%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E6%BC%94%E7%BF%92%EF%BC%96%EF%BC%88%E8%87%A8%E5%BA%8A%E4%BA%8B%E4%BE%8B%E7%A0%94%E7%A9%B6%E6%B3%95%EF%BC%89-2015/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: 教育学部4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

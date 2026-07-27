@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0151
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: メディアアート論
+description:
+  ja: 映像、コンピュータ、インターネットなどの電子メディアと関わる芸術表現としてのメディアアートを扱う講義である。あわせて、コンテンポラリーアートと、それを取り巻くメディアの可能性と課題、電子社会におけるヴィジュアルリテラシーも扱う。
+quotedDescription:
+  text:
+    ja: 映像やコンピュータ，インターネットなど電子メディアと深くかかわる芸術表現である，メディアアートについて講義する．さらにコンテンポラリーアートや，それをとりまくメディアの可能性と課題，そして電子社会における重要なコミュニケーションのツールとしてのヴィジュアルリテラシーについても講義する．
+  source: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 茂登山清文
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- 情報学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 写真新世紀レポート'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/report3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: 田中紀子レポート'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/report4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: 林緑子レポート'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/report5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: 岡川卓詩ワークショップ'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/report2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: アートビデオ視聴レポート（試験）'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/report1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: media art intorduction'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: photography now'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: media art short histor'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: ad & artists'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: Warhol'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: new media art'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: media & art'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: video'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+- name: '講義ノート: vision & aveugle'
+  contentUrl: https://ocw.nagoya-u.jp/files/151/lect13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0151-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%88%E8%AB%96-2014/
+extensions:
+  faculty: 情報文化学部
+  term: 前期
+  targetAudience: 情報文化学部2・3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

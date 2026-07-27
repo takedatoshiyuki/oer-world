@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0075
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: メディアディスコース分析論
+description:
+  ja: 批判的言説分析を手段として、マスメディアと社会の力関係の関係を考察する講義である。あわせて、その力関係がメディアテクストにどのように現れるかを扱い、批評的メディアリテラシーの基礎を学ぶ内容になっている。
+quotedDescription:
+  text:
+    ja: 本講義では、批判的言説分析（以下ＣＤＡ：Critical Discourse Analysis）分析方法を研究手段とし、マスメディアが社会の力関係から受ける影響、またマスメディアがそれに与える影響そしてこの力関係がメディアテクストで具現化される様相を考察し、批評的メディアリテラシーの確固たる基礎を学習することを授業のねらいとする。
+  source: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+  note: 名大の授業 (NU OCW) 「授業のねらい」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: ヘイグ・エドワード
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+- slide
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 社会科学
+- テクスト
+- 学問分野
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '課題: Chapter 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/DQ_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '課題: Chapter 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/DQ_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '課題: Chapter 3'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/DQ_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '課題: Chapter 4'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/DQ_4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '講義ノート: 配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/notes_chap1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '配布資料: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/slides_chap1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: 配布資料
+  contentUrl: https://ocw.nagoya-u.jp/files/75/notes_chap2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '配布資料: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/slides_chap2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: 配布資料
+  contentUrl: https://ocw.nagoya-u.jp/files/75/notes_chap3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '配布資料: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/slides_chap3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: 配布資料
+  contentUrl: https://ocw.nagoya-u.jp/files/75/notes_chap4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+- name: '配布資料: 講義スライド'
+  contentUrl: https://ocw.nagoya-u.jp/files/75/slides_chap4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0075-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E5%88%86%E6%9E%90%E8%AB%96-2009/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  targetAudience: 国際言語文化研究科メディアプロフェッショナルコース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

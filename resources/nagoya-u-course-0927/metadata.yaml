@@ -1,0 +1,75 @@
+slug: nagoya-u-course-0927
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会学演習（アーレント『活動的生』を読む）
+description:
+  ja: アーレント『活動的生』を読む社会学演習で、序章・第一章から第六章までの教材ファイルが公開されている。名古屋大学の文学部／人文学研究科で2022年春学期に開講され、文学部2〜4年生を対象とする。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 上村 泰裕
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 序章・第一章
+  contentUrl: https://ocw.nagoya-u.jp/files/927/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+- name: 第二章
+  contentUrl: https://ocw.nagoya-u.jp/files/927/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+- name: 第三章
+  contentUrl: https://ocw.nagoya-u.jp/files/927/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+- name: 第四章
+  contentUrl: https://ocw.nagoya-u.jp/files/927/slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+- name: 第五章
+  contentUrl: https://ocw.nagoya-u.jp/files/927/slide5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+- name: 第六章
+  contentUrl: https://ocw.nagoya-u.jp/files/927/slide6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 春学期
+  targetAudience: 文学部２〜４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: ハンナ・アーレント（森一郎訳）『活動的生』（みすず書房、2015 年）をめぐる素人談義です。専門的読解も大事ですが、アーレントの議論は私たちの人生や社会について深く考察しているので、学生だけでなく社会人の皆さんにも触れていただきたいものです。
+  source: https://ocw.nagoya-u.jp/courses/0927-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%BC%94%E7%BF%92-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

@@ -1,0 +1,112 @@
+slug: nagoya-u-course-0042
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地理学
+description:
+  ja: 名古屋大学で開講された地理学の講義で、文系学部の新一年生を対象に南アジアを取り上げる。公開教材には、インドやバングラデシュに関する気候、カースト制度、宗教、生活文化、流通、災害などの講義ノートが含まれる。
+quotedDescription:
+  text:
+    ja: 新一年生用の地理学の講義では、いきなり南アジアに連れていくことにしている。 近くて遠いアジアの中でも、南アジア諸国（インド・バングラデシュ・ネパールなど）となると、気候、人種、言語、そして社会システムなど総てに於いて異質である。そんな国々から名古屋大学への留学生も増えつつあり、キャンパス内で彼らと接する機会も増えてきた。その一方、名古屋大学の学生は欧米、あるいはアジアのなかでも中国・韓国・東南
+  source: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 溝口常俊
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 地球科学
+- テーマ
+- 「インド・いちば・フィールドワーク」
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: ガイダンス'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: インドの気候'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: カースト制度'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: 食事'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: 結婚'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: 火葬'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: さまざまなカーストの民'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: ヒンドゥー教とイスラム教'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: ヒンドゥー教の神々'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: 定期市'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: アルミ食器の行商人'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: バングラデシュの大洪水'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: ネパール山岳地帯の通行人'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '講義ノート: 開発と援助'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/note14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '課題: 中間テスト 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/m_test.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '課題: 定期試験 問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/h_test.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+- name: '参考資料: 講義風景'
+  contentUrl: https://ocw.nagoya-u.jp/files/42/060803.pdf
+  page: https://ocw.nagoya-u.jp/courses/0042-%E5%9C%B0%E7%90%86%E5%AD%A6-2011/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

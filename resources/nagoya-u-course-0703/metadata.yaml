@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0703
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0703-%E5%A4%9A%E5%88%86%E9%87%8E%E8%9E%8D%E5%90%88%E5%AE%9F%E8%B7%B5%E6%BC%94%E7%BF%92%E3%83%BB%E5%AE%9F%E7%BF%92-2018-2020/
+type:
+- LearningResource
+- Course
+name:
+  ja: 多分野融合実践演習・実習
+description:
+  ja: 創薬科学研究科の基盤創薬学専攻を対象にした集中講義の教材である。公開資料は、実施概要、全体説明と構造系資料、有機系の実習資料の3件からなる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 生物学
+- G30
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 実施概要'
+  contentUrl: https://ocw.nagoya-u.jp/files/703/outline.pdf
+  page: https://ocw.nagoya-u.jp/courses/0703-%E5%A4%9A%E5%88%86%E9%87%8E%E8%9E%8D%E5%90%88%E5%AE%9F%E8%B7%B5%E6%BC%94%E7%BF%92%E3%83%BB%E5%AE%9F%E7%BF%92-2018-2020/
+- name: '講義ノート: 全体説明＋構造系資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/703/intro.pdf
+  page: https://ocw.nagoya-u.jp/courses/0703-%E5%A4%9A%E5%88%86%E9%87%8E%E8%9E%8D%E5%90%88%E5%AE%9F%E8%B7%B5%E6%BC%94%E7%BF%92%E3%83%BB%E5%AE%9F%E7%BF%92-2018-2020/
+- name: '講義ノート: 多分野融合実践実習有機系'
+  contentUrl: https://ocw.nagoya-u.jp/files/703/jisenjishu.pdf
+  page: https://ocw.nagoya-u.jp/courses/0703-%E5%A4%9A%E5%88%86%E9%87%8E%E8%9E%8D%E5%90%88%E5%AE%9F%E8%B7%B5%E6%BC%94%E7%BF%92%E3%83%BB%E5%AE%9F%E7%BF%92-2018-2020/
+extensions:
+  faculty: 創薬科学研究科
+  term: 集中講義
+  targetAudience: 基盤創薬学専攻（1年次通年集中博士課程前期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0622
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0622-%E6%9D%B1%E6%B4%8B%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3%E5%8F%B2-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 東洋政治思想史
+description:
+  ja: 日本・中国・朝鮮半島における国内・国際政治に関わる思想の歴史を、当時の文脈に即して扱う講義である。2016年度は「概念史としての政治思想史」をテーマとし、思想家そのものに加えて、政治思想の継承や断絶に関わる概念の歴史を中心に取り上げる。
+quotedDescription:
+  text:
+    ja: '東洋政治思想史は、東アジア地域－ただし、日本・中国・朝鮮半島に限定－に存在した国内・国際政治にかかわる精神的営みの歴史を当時のコンテクストから理解することを目指す。ところが、対象になる地域や歴史が広範囲にわたることから、「近世東アジア政治思想史」、「近現代東アジア政治思想史」、「中国政治思想史」、「日本政治思想史」、「韓国政治思想史」、「概念史としての政治思想史」に細分化して、毎年の講義の対象としている。2016
+      年度は、「概念史としての政治思想史」の順番になるため、主体としての思想家とともに、政治思想の継承と断絶において重要な役割を担っている概念の歴史を中心に東アジアの政治思想を取り扱う。
+
+      一. 概念史の意義と方法を理解する。
+
+      二. 東アジアの重要な政治関連概念について知見を獲得する。
+
+      三. 政治概念の文明的な再構成の展望を獲得する。'
+  source: https://ocw.nagoya-u.jp/courses/0622-%E6%9D%B1%E6%B4%8B%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3%E5%8F%B2-2016/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 姜東局
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+- 政治学
+- 国際政治学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 概念史とは何か
+  contentUrl: https://ocw.nagoya-u.jp/files/622/Kang.pdf
+  page: https://ocw.nagoya-u.jp/courses/0622-%E6%9D%B1%E6%B4%8B%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3%E5%8F%B2-2016/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 後期
+  targetAudience: 法学部3,4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

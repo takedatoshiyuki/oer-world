@@ -1,0 +1,82 @@
+slug: nagoya-u-course-0053
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: ポスト・ローマ期ヨーロッパの表象構造
+description:
+  ja: ポスト・ローマ期ヨーロッパの表象構造を主題とする名古屋大学の2006年前期講義で、講義ノートと参考資料の模範答案が公開されている。教材には、ラテン語の会話の消滅や文字表象、キルペリクス指令、エヒテルナッハに関する項目が含まれる。
+quotedDescription:
+  text:
+    ja: この授業は「特殊研究」という授業科目で、毎回新しい主題が設定され、リーピートはない。 2006 年前期が、上記のテーマでの講義である。授業の目的は関連分野での最新の知見に基づき、オリジナリティのある発見的思考を養う訓練でもある。選ばれた主題を解明するために、どのような論点を設定し、どのような記録を利用し、どのような事実を相互に関連づけて議論を展開したらよいか、教師に取ってその実演の場であり、受講生に思考のレベルで追体験と検証を求める機会と位置づけている。歴史学的思考の作法を学んで貰う機会であり、同時にそれ自体完全にオリジナルな一つの研究でもある。
+  source: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐藤彰一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 文学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: 模範答案 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/sample_answer1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+- name: '参考資料: 模範答案 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/sample_answer2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+- name: '講義ノート: ポスト・ローマ期ヨーロッパの表象構造-コミュニケーション行為の歴史的考察(1)-'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/lecturenotes.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+- name: '講義ノート: ラテン語の会話の消滅'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/reference567.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+- name: '講義ノート: 文字表象の理路関連地図'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/reference8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+- name: '講義ノート: キルペリクス指令'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/reference9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+- name: '講義ノート: エヒテルナッハ図版'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/reference1112.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+- name: '講義ノート: 北海・エヒテルナッハ'
+  contentUrl: https://ocw.nagoya-u.jp/files/53/reference12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0053-%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%9E%E6%9C%9F%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AE%E8%A1%A8%E8%B1%A1%E6%A7%8B%E9%80%A0%E2%80%94%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A1%8C%E7%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%80%83%E5%AF%9F(1)%E2%80%94-2006/
+extensions:
+  faculty: 文学部／文学研究科
+  term: 前期
+  targetAudience: 2年生以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,91 @@
+slug: nagoya-u-course-0690
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0690-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%9F%BA%E7%A4%8E%E2%85%A0-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物学基礎Ⅰ
+description:
+  ja: 細胞の構成成分、化学反応とエネルギー、細胞膜や細胞内小器官の基本的な構造と機能を扱う。あわせて、遺伝子の構造と機能、遺伝子発現、核酸とタンパク質の構造と機能、多細胞生物の制御や遺伝子異常と疾患・病態までを扱う。
+quotedDescription:
+  text:
+    ja: '生物学の基礎的知識と科学的探究法を学ぶ。Essential Biology を教科書として、章ごとに段階的に学習する。
+
+      よって、将来的に専門とする医学や生物学の学習の基礎を醸成する。
+
+      生物学の基礎となる細胞の細胞構成化学成分
+
+      各高分子の構造と機能
+
+      化学反応とエネルギー論
+
+      細胞の基本構造と機能、細胞膜と細胞内小器官
+
+      遺伝子の構造と機能
+
+      遺伝子発現と遺伝子産物
+
+      核酸及びタンパク質の構造と機能
+
+      多細胞生物としての生命体の成り立ちと制御のメカニズム
+
+      遺伝子異常と疾患・病態'
+  source: https://ocw.nagoya-u.jp/courses/0690-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%9F%BA%E7%A4%8E%E2%85%A0-2018/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 生物
+- ヒト
+- 細胞
+- タンパク質
+- 細胞生物学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: Protein Structure and Function
+  contentUrl: https://ocw.nagoya-u.jp/files/690/okajima_book.pdf
+  page: https://ocw.nagoya-u.jp/courses/0690-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%9F%BA%E7%A4%8E%E2%85%A0-2018/
+- name: 転写・翻訳
+  contentUrl: https://ocw.nagoya-u.jp/files/690/masuda_book.pdf
+  page: https://ocw.nagoya-u.jp/courses/0690-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%9F%BA%E7%A4%8E%E2%85%A0-2018/
+- name: 遺伝子発現の調節
+  contentUrl: https://ocw.nagoya-u.jp/files/690/nakagawa_book.pdf
+  page: https://ocw.nagoya-u.jp/courses/0690-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%9F%BA%E7%A4%8E%E2%85%A0-2018/
+- name: 細胞の中の分子
+  contentUrl: https://ocw.nagoya-u.jp/files/690/kiyonari_book.pdf
+  page: https://ocw.nagoya-u.jp/courses/0690-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%9F%BA%E7%A4%8E%E2%85%A0-2018/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 医学部（医）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

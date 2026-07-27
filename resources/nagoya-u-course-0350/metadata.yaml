@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0350
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0350-%E3%80%8C%E3%82%88%E3%82%80%E3%80%8D%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「よむ」って何？
+description:
+  ja: この教材は、表現された内容を受け止めるときに、媒体ごとの特質を踏まえる必要があることを扱う。文章に限らず、音や線など、異なる表現媒体に対して「よむ」ことを考える内容である。表現する側が理解されるために工夫する点にも触れる。
+quotedDescription:
+  text:
+    ja: '誰かが表現しようとした内容をそのまま受け止めること、それは思いのほか簡単なことではありません（「現代文」の授業で悩んだことはありませんか？）。また文章だけでなく、表現の媒体には様々なものがあります。音（音楽、はなしことば・・・）線（まんが、デザイン、パフォーマンス、演劇・・・）などなど。媒体にはそれぞれ特質があり、そこに表現された内容を受けとめるためには、その特質を充分理解したうえで内容に到達しなければなりません。
+
+      一方表現する人たちは「よむ」人たちに理解してもらうために、様々な工夫をします。そんな工夫を了解したうえで「よむ」ことを進めれば今まで気づかなかった世界が眼前に開けてくるかもしれません。'
+  source: https://ocw.nagoya-u.jp/courses/0350-%E3%80%8C%E3%82%88%E3%82%80%E3%80%8D%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 杉山寛行 理事・副総長
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 中津川プロジェクト
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 「よむ」って何？
+  contentUrl: https://ocw.nagoya-u.jp/files/350/sugiyama.pdf
+  page: https://ocw.nagoya-u.jp/courses/0350-%E3%80%8C%E3%82%88%E3%82%80%E3%80%8D%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F-2011/
+extensions:
+  faculty: 教育学部附属中・高等学校
+  term: 特別講義
+  targetAudience: 付属高校1・2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

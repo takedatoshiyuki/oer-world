@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0406
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0406-%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E7%B5%8C%E6%B8%88a,b-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: ジェンダーと経済a,b
+description:
+  ja: 名古屋大学で2013年に開講された、国際言語文化研究科を対象とする通年の講義である。文学部と国際言語文化研究科の開講部局に置かれ、新井美佐子が担当する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 新井美佐子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 経済学/経営学
+- 言語
+- 社会科学
+- 理論研究
+- 国内外
+- 演習の内容
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 通年
+  targetAudience: 国際言語文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

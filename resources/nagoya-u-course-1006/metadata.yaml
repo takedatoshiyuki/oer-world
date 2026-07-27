@@ -1,0 +1,52 @@
+slug: nagoya-u-course-1006
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/1006-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E%E5%9F%BA%E7%A4%8E%EF%BC%92-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: ドイツ語基礎２
+description:
+  ja: 名古屋大学の教養教育院が2025年度の春学期に開講する、学部1年生向けの「ドイツ語基礎２」である。担当は山口庸子で、授業は日本語で行う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山口 庸子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 言語
+- ドイツ語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

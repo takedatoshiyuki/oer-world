@@ -1,0 +1,111 @@
+slug: nagoya-u-course-0259
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: アルゴリズム
+description:
+  ja: アルゴリズムの基礎と代表的な手法を扱う講義で、課題とともに基本アルゴリズム、再帰、リスト処理、ハッシュ処理を学ぶ構成になっている。さらに、グラフ処理、木構造、整列などのテーマに分かれた講義ノートが公開されており、計算手法の具体的な扱いまで含む教材である。
+quotedDescription:
+  text:
+    ja: '問題を解くための計算法であるアルゴリズムについて、それを理解する素質と、代表的なアルゴリズムについての知識を得ます。
+
+      アルゴリズムを利用して、具体的に問題解決を行うための力を身に付けます。
+
+      コンピュータの機能と、プログラミングに関する見識を深めます。'
+  source: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 渡邉崇
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- ict
+keywords:
+- 情報学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: アルゴリズム・課題'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/practice.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: BNF，正規表現'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/1st.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 基本アルゴリズムと再帰（プログラミングの復習）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/2nd.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: リスト処理'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/3rd.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: ハッシュ処理'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/4th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: グラフ処理（グラフの定義とコスト最小生成木）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/5th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: グラフ処理（無向木、有向木の最小コスト）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/6th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 木構造（木構造の定義と、トラバース、２分木）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/7th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 木構造（完全２分木の構成，ヒープ）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/alg8th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 木構造（完全２分木の操作と、その他の木）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/9th-2nd.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 整列（古典的な整列）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/10th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 整列（マージソート、クイックソート、ヒープソート）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/alg11th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 整列（その他の整列）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/12th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 探索（単純な探索）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/13th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 探索（コストを考慮した探索）'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/14th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+- name: '講義ノート: 情報理論'
+  contentUrl: https://ocw.nagoya-u.jp/files/259/15th.pdf
+  page: https://ocw.nagoya-u.jp/courses/0259-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-2016/
+extensions:
+  faculty: 情報文化学部
+  term: 前期
+  targetAudience: 情報文化学部自然情報学科・社会システム情報学科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

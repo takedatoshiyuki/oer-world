@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0643
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0643-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E2-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: ドイツ語2
+description:
+  ja: ドイツ語の複数のテクストを精読し、本文中の文法事項を練習問題で確認する教材である。授業ではドイツ語の文章を読み、日本語に訳しながら、文法説明を通して文構造を扱う。各テクストの読解後には、文構造や日本語訳をレポートとしてまとめる。
+quotedDescription:
+  text:
+    ja: 'いくつかのタイプのドイツ語のテクストを精読します。また、テクスト中の文法事項に関しての練習問題を解いていきます。
+
+      授業では、最初に、前回の授業の内容についての小テストを行います。毎回、テクストについての予習と小テストのための復習が必要になります。
+
+      授業中は、ドイツ語の文章を読みそれを日本語に訳すという地道な作業が中心となりますが、その際、文法的な説明をきっちり行いますので、ドイツ語の文構造をしっかりと把握できるようにがんばってください。
+
+      何種類かのテクストを読んでいきますが、各テクストを読み終えた時点で、担当者を決め、文構造や日本語訳をレポートとしてまとめ、提出してもらいます。'
+  source: https://ocw.nagoya-u.jp/courses/0643-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E2-2017/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 西川智之
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- ドイツ語
+- 言語
+- 文法事項
+- ドイツ
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 「ラプンツェル」'
+  contentUrl: https://ocw.nagoya-u.jp/files/643/Rapunzel.pdf
+  page: https://ocw.nagoya-u.jp/courses/0643-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E2-2017/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

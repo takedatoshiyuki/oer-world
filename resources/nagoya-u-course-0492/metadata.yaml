@@ -1,0 +1,88 @@
+slug: nagoya-u-course-0492
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0492-%E4%B8%AD%E5%9B%BD%E8%AA%9E1-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 中国語1
+description:
+  ja: 中国語の初級段階を扱い、音声・文法・表現の基礎に触れる講義である。文法に重点を置き、基本文法の説明と例文学習、日本語との比較を通して、声調や基本文型、所有や位置を表す表現までを学ぶ。
+quotedDescription:
+  text:
+    ja: '中国語の初級段階を総合的に学習し、音声面・文法面・表現面において中国語の全体像がつかめるような基礎的能力の養成を目標とする。この中国語 1 は中国語 2 とセットの授業であり、相互に補完しあう関係にある。この中国語
+      1 では、特に文法面に重点を置いたテキストを使用し、基本文法の理論的な説明だけでなく、身近な分かりやすい実用的例文を多く学習すること、語順・基本文型等について、日本語と中国語の比較を行うことにより、中国語の基礎固めを達成する。また、言葉の勉強を通じて、中国社会の現状や中国の人びとのものの見方・考え方に親しむ。
+
+      具体的な授業内容は以下の通りである。
+
+      発音 (1) 声調 (四声)
+
+      発音 (2) 母音 子音
+
+      発音 (3) 有気音と無気音 ほか
+
+      人称代名詞 動詞「是」 ほか
+
+      指示代名詞 形容詞述語文 ほか
+
+      動詞述語文 疑問詞疑問文 ほか
+
+      助動詞「想」 選択疑問文 語気助詞「吧」 ほか
+
+      数詞 量詞 反復疑問文 ほか
+
+      動詞「有」(所有) 動詞「在」 前置詞「离」 ほか
+
+      まとめ 復習'
+  source: https://ocw.nagoya-u.jp/courses/0492-%E4%B8%AD%E5%9B%BD%E8%AA%9E1-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 勝川裕子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 中国語
+- 言語
+- 文化領域
+- 漢字
+- 発音
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 中国語 TPR 指導案
+  contentUrl: https://ocw.nagoya-u.jp/files/492/lecturenote.pdf
+  page: https://ocw.nagoya-u.jp/courses/0492-%E4%B8%AD%E5%9B%BD%E8%AA%9E1-2015/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

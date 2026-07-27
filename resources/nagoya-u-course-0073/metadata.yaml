@@ -1,0 +1,59 @@
+slug: nagoya-u-course-0073
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0073-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E4-2007/
+type:
+- LearningResource
+- Course
+name:
+  ja: ドイツ語4
+description:
+  ja: I期でドイツ語を学んだ受講生を対象に、基礎知識と運用力を養成する講義である。聞く・話す・読む・書くの4技能を総合的に扱い、あわせて視聴覚メディアなどを通じてドイツ語圏の文化・風俗・歴史・社会事情も学ぶ。
+quotedDescription:
+  text:
+    ja: Ｉ期でドイツ語を学んだ受講生を対象に、一貫した授業計画に基づいてドイツ語に関する基礎知識と運用力を養成する科目である。「聞く」「話す」「読む」「書く」の４技能をバランスよく総合的に身につけることを目指す。また、ドイツ語世界がみぢかになるよう、視聴覚メディアなどを通じて、文化・風俗・歴史・社会事情等についても学び、国際的視野を涵養する一歩とする。
+  source: https://ocw.nagoya-u.jp/courses/0073-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E4-2007/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小坂光一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- ドイツ語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 文系学部1年週1回
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

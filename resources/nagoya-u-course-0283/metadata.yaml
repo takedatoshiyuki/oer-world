@@ -1,0 +1,75 @@
+slug: nagoya-u-course-0283
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0283-Gauss%E3%81%AE%E5%92%8C%E3%82%92%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: Gaussの和を計算してみよう
+description:
+  ja: 高校1年生夏までの知識を前提に、Gaussの和について説明する講義である。公開教材には課題や配布資料、講義原案に加え、正17角形の描画手順の例が含まれる。講義の後には、正17角形の描き方を自分で考えることが促される。
+quotedDescription:
+  text:
+    ja: 高校1年生夏までの知識を前提に、Gaussの和についてできるだけ説明する。終了後、うまく行っても行かなくてもいいから正17角形の描き方などを、自分で考えてもらえるとうれしい。
+  source: https://ocw.nagoya-u.jp/courses/0283-Gauss%E3%81%AE%E5%92%8C%E3%82%92%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 鈴木浩志
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 数学アゴラ
+- 目的とねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 講義内容に関するコメント'
+  contentUrl: https://ocw.nagoya-u.jp/files/283/comment.pdf
+  page: https://ocw.nagoya-u.jp/courses/0283-Gauss%E3%81%AE%E5%92%8C%E3%82%92%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-2010/
+- name: '課題: 配付資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/283/note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0283-Gauss%E3%81%AE%E5%92%8C%E3%82%92%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-2010/
+- name: '課題: 講義の原案'
+  contentUrl: https://ocw.nagoya-u.jp/files/283/gsumPrm.pdf
+  page: https://ocw.nagoya-u.jp/courses/0283-Gauss%E3%81%AE%E5%92%8C%E3%82%92%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-2010/
+- name: '配布資料: 課題に関するヒント'
+  contentUrl: https://ocw.nagoya-u.jp/files/283/gsumHnt.pdf
+  page: https://ocw.nagoya-u.jp/courses/0283-Gauss%E3%81%AE%E5%92%8C%E3%82%92%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-2010/
+- name: '配布資料: 正 17 角形描画手順の例'
+  contentUrl: https://ocw.nagoya-u.jp/files/283/d17.pdf
+  page: https://ocw.nagoya-u.jp/courses/0283-Gauss%E3%81%AE%E5%92%8C%E3%82%92%E8%A8%88%E7%AE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-2010/
+extensions:
+  faculty: 多元数理科学研究科
+  term: 公開講座
+  targetAudience: 高校生と高校教員
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

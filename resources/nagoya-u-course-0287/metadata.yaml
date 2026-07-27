@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0287
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0287-%E6%A0%B8%E5%8C%BB%E5%AD%A6%E8%A8%BA%E6%96%AD%E6%8A%80%E8%A1%93%E5%AD%A6-I-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 核医学診断技術学-I
+description:
+  ja: 核医学の基礎を扱い、放射性同位元素を用いた診断・治療や、臓器の機能・代謝を知るための方法を学ぶ内容である。SPECTやPET、核医学治療などの近年の動向にも触れ、臨床診断に役立つデータ収集の知識を身につける。実際の症例を通して、国家試験に対応する知識の習得もめざす。
+quotedDescription:
+  text:
+    ja: '核医学（nuclear medicine）とは、放射性同位元素（radioisotope: RI）を利用して診断や治療を行う医学です。 放射線医学を構成する主要な分野であり，臓器の機能・代謝を知る方法として重要です。
+      とりわけ単一光子横断断層像（single photon emission computed tomography、SPECT）、ポジトロン横断断層像（positron emission tomography、PET）を用いる施設も増加し，この分野における進歩はめざましいものがあります。
+      また、核医学治療（内用療法）は 50 年以上歴史があるバセドウ病や甲状腺癌に対する I-131 治療のみならず、近年、骨転移疼痛緩和治療（メタストロン、Sr-89）や悪性リンパ腫に対するモノクローナル抗体による治療（ゼヴァリン、Y-90）が盛んに行われるようになりました。
+
+      核医学の基礎を学ぶとともに，臨床診断に役立つデータを収集するための知識を得るのみでなく，最近の動向をふまえ， 将来新しい核医学の分野における技術の進歩に対応できる基礎知識を習得できるようにします。また、実際の症例を勉強しながら、国家試験に対応する知識の習得もできるようにします。'
+  source: https://ocw.nagoya-u.jp/courses/0287-%E6%A0%B8%E5%8C%BB%E5%AD%A6%E8%A8%BA%E6%96%AD%E6%8A%80%E8%A1%93%E5%AD%A6-I-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 加藤克彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 検査技術科学専攻
+- 臨床実習
+- 放射線
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 核医学診断技術学 I'
+  contentUrl: https://ocw.nagoya-u.jp/files/287/lec.pdf
+  page: https://ocw.nagoya-u.jp/courses/0287-%E6%A0%B8%E5%8C%BB%E5%AD%A6%E8%A8%BA%E6%96%AD%E6%8A%80%E8%A1%93%E5%AD%A6-I-2011/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 通年
+  targetAudience: 医学部保健学科放射線技術科学専攻3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

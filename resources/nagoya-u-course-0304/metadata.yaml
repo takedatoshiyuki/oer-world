@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0304
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0304-%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96a%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E3%81%AE%E7%90%86%E8%A7%A3-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第二言語習得研究概論a：第二言語習得研究の理解
+description:
+  ja: 第二言語習得研究に関する講義で、公開教材として転移に関する講義ノートと、習得法・指導法に関する講義ノートが含まれる。文学部／国際言語文化研究科で開講され、国際言語文化研究科・日本言語文化専攻の博士課程前・後期を対象とする。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 稲垣俊史
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 学問分野
+- 批評
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 転移(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/304/inagaki4_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0304-%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96a%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E3%81%AE%E7%90%86%E8%A7%A3-2011/
+- name: '講義ノート: 習得法・指導法(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/304/inagaki7_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0304-%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96a%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E3%81%AE%E7%90%86%E8%A7%A3-2011/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 前期
+  targetAudience: 国際言語文化研究科・日本言語文化専攻(博士課程 前・後期)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 第二言語習得 (second language acquisition / SLA) 研究を概観し、SLA とはどんな学問分野であるか、今までどんなことが明らかにされてきたかを理解する。
+  source: https://ocw.nagoya-u.jp/courses/0304-%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96a%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E3%81%AE%E7%90%86%E8%A7%A3-2011/
+  note: 名大の授業 (NU OCW) 「講義目的」より（同サイトの利用条件に基づく転載）

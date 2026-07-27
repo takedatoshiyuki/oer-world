@@ -1,0 +1,74 @@
+slug: nagoya-u-course-0143
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0143-%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物理学実験
+description:
+  ja: 実際の物理現象を観察しながら、物理量の測定とその背景にある法則を扱う教材である。基本的な測定の方法や原理、実験技術に加え、測定データの記録、処理、表現まで演習を通して学ぶ。
+quotedDescription:
+  text:
+    ja: 今日の医療技術では，放射線，電子計測器，高磁場，超伝導など，物理的な技術や 測定の知識がますます重要になっている。 本授業ではこのような物理の教養を，実際の物理現象を観察し，様々な物理量を測定し，背景にある法則を理解することによって習得する。この中には，基本的な物理測定の方法と原理，実験の技術などを習得することが含まれる。さらに，演習を通して測定データの記録と処理，表現の方法についても学ぶ。
+  source: https://ocw.nagoya-u.jp/courses/0143-%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 千代 勝実
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 物理
+- 物理現象
+- 力学
+- 放射線
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 物理学実験ガイダンス'
+  contentUrl: https://ocw.nagoya-u.jp/files/143/guide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0143-%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93-2010/
+- name: '講義ノート: 演習 1 測定と誤差論'
+  contentUrl: https://ocw.nagoya-u.jp/files/143/Ex_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0143-%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93-2010/
+- name: '講義ノート: 演習 2 レポート・グラフの書き方'
+  contentUrl: https://ocw.nagoya-u.jp/files/143/Ex_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0143-%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93-2010/
+- name: '講義ノート: 演習 3 最小自乗法'
+  contentUrl: https://ocw.nagoya-u.jp/files/143/Ex_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0143-%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93-2010/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

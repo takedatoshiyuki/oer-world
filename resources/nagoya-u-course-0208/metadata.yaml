@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0208
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0208-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%A5%E9%96%80-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物学入門
+description:
+  ja: 遺伝子組換え食品や遺伝子診断などを例に、生物学に関連する問題を平易に解説する教材である。日常生活で出会う生物学的な諸問題を理解し、判断するための内容に加え、生命現象の基本も扱う。
+quotedDescription:
+  text:
+    ja: 近年、遺伝子組換え食品や遺伝子診断などに代表されるように、生物学に関連する様々な問題が広範な分野において顕在化しつつあり、日常的な話題にも上るようになってきている。本講義では、それらの問題を平易に解説する。これによって、日常生活で遭遇する生物学的な諸問題を正確に理解し適切な判断を行うための素養を養成し、また、生命現象の基本について理解を深める。
+  source: https://ocw.nagoya-u.jp/courses/0208-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%A5%E9%96%80-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 青木摂之
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 生物
+- 生命現象
+- Biology
+- 本授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 生物学入門 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/208/Aoki_biology_notes.pdf
+  page: https://ocw.nagoya-u.jp/courses/0208-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%A5%E9%96%80-2010/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

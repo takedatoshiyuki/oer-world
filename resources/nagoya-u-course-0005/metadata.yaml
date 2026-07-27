@@ -1,0 +1,120 @@
+slug: nagoya-u-course-0005
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理解析・計算機数学-I
+description:
+  ja: 名古屋大学の後期科目「数理解析・計算機数学-I」の教材で、講義シラバスと講義ノートが公開されている。内容はUNIX、C言語、リテラシ、アルゴリズムに関する回ごとのノートで構成され、理学部数理学科3年生と多元数理科学研究科を対象としている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久保仁 准教授, 内藤久資
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- プログラミング
+- 数理解析
+- アルゴリズム
+- 講義の目的
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 講義シラバス'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/resume.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: UNIX(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/unix.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: UNIX(1)・C 言語(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: UNIX(2)・C 言語(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: リテラシ(1)・C 言語(3)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: C 言語(4)・リテラシ(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: リテラシ(3)・C 言語(5)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: アルゴリズム(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: C 言語(6)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: リテラシ(4)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: リテラシ(5)：ネットワークリテラシ'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/exam-09-with-answer.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: C 言語(7)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: アルゴリズム(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: C 言語(8)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: C 言語(9)・アルゴリズム(3)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: アルゴリズム(4)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex13-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: C 言語(10)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: C 言語(11)'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/ex15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: 中間レポートの問題、レポートに関する注意事項'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/report.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: 学期末レポートの問題、レポートに関する注意事項、採点基準'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/report-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+- name: '講義ノート: 学期末レポート問題の訂正'
+  contentUrl: https://ocw.nagoya-u.jp/files/5/correction-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0005-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6-I-2011/
+extensions:
+  faculty: 多元数理科学研究科
+  term: 後期
+  targetAudience: 理学部数理学科3年生 多元数理科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

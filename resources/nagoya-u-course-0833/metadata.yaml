@@ -1,0 +1,89 @@
+slug: nagoya-u-course-0833
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 線形代数学I
+description:
+  ja: 線形代数学の基礎として、連立方程式、行列計算、基本変形、行列階数を扱う。あわせて、ベクトルの内積・外積、線形写像、直交行列、行列式に関するレポートも公開されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 須田 淳
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 数学
+- 線形代数
+- 演算法則
+- 近代科学
+- 正則行列
+- 写像
+- 行列
+- 授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 'レポート: 電気回路'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: ベクトル内積外積'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 行列計算練習'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 線形写像と行列'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 中間まとめ'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 線形写像・直交行列他'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 行列式'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 行列式練習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 連立方程式'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+- name: 'レポート: 基本変形行列階数'
+  contentUrl: https://ocw.nagoya-u.jp/files/833/slide10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/
+extensions:
+  faculty: 教養教育院
+  term: 春学期（金曜2限）
+  targetAudience: 工学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

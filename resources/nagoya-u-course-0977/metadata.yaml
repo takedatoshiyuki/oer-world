@@ -1,0 +1,98 @@
+slug: nagoya-u-course-0977
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 労働経済
+description:
+  ja: 名古屋大学の経済学部／経済学研究科で2023年度に開講された「労働経済」の講義資料である。対象は学部3年生で、秋学期に日本語で実施される。公開教材は9件のスライドで構成される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 工藤　教孝
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- slide
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 労働市場
+- 失業
+- 格差
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/01slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/02slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/03slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/04slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/05slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/10slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/11slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/12slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/977/13slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 秋学期
+  targetAudience: 学部3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'この講義では、労働市場に関する指標や統計に理解を深め、関連する理論を習得し現実のデータに応用する。特に、数理モデルに適切 な数値を与えて数量分析を行うことを通じてデータの推移を理解し、国際比較を通じて日本や世界の労働市場の特徴を明らかにすることを目的とする。
+
+      伝統的需要供給分析を応用した労働市場分析を数式と数値計算を用いて遂行できる。
+
+      労働市場に関する主要な統計について定義や計測方法を理解し、自ら利用できる。
+
+      労働力フローについてデータを用いて解説でき、対応する数理モデルの骨子を説明できる。
+
+      日本や世界の所得格差についてテデータに基づいて論じ、その理論仮説について説明できる。
+
+      初歩的なプログラミングを通じて数理モデルを解析できる。'
+  source: https://ocw.nagoya-u.jp/courses/0977-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

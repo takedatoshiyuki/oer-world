@@ -1,0 +1,82 @@
+slug: nagoya-u-course-0403
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 複雑系プログラミング特論
+description:
+  ja: 複雑系研究で扱う代表的なモデルを題材に、Pythonの基礎やデータの可視化、オブジェクト指向的なプログラミングの基礎を順に学ぶ講義である。あわせて、モデル構築から実装、実験、可視化と分析、再検討までの流れに沿った研究手法を実習する。
+quotedDescription:
+  text:
+    ja: '講義とプログラミングの実習を行います。
+
+      複雑系研究の幅広い分野からいくつかの代表的なモデルを題材として取り上げ、プログラミング言語 python の基礎、データの可視化、オブジェクト指向的なプログラミングの基礎等を順次紹介します。
+
+      同時に、モデル構築・実装・実験・可視化と分析・再検討からなる構成論的アプローチに基づく研究手法を実践的に学びます。'
+  source: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 鈴木麗璽
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 0)イントロダクション
+  contentUrl: https://ocw.nagoya-u.jp/files/403/0_introduction.pdf
+  page: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+- name: 1)個体群生態学で python の基礎
+  contentUrl: https://ocw.nagoya-u.jp/files/403/1_python_basic.pdf
+  page: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+- name: 2)matplotlib を用いた実験結果の可視化
+  contentUrl: https://ocw.nagoya-u.jp/files/403/matplotlib.pdf
+  page: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+- name: 3)セルオートマトン
+  contentUrl: https://ocw.nagoya-u.jp/files/403/3_cell_automaton.pdf
+  page: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+- name: 4)エージェントベースモデル
+  contentUrl: https://ocw.nagoya-u.jp/files/403/4_agent.pdf
+  page: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+- name: 5)遺伝的アルゴリズム
+  contentUrl: https://ocw.nagoya-u.jp/files/403/5_genetic_algorithm.pdf
+  page: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+- name: 6)まとめ
+  contentUrl: https://ocw.nagoya-u.jp/files/403/6_conclusion.pdf
+  page: https://ocw.nagoya-u.jp/courses/0403-%E8%A4%87%E9%9B%91%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E7%89%B9%E8%AB%96-2013/
+extensions:
+  faculty: 情報科学研究科
+  term: 前期
+  targetAudience: 大学院情報科学研究科　複雑系科学専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

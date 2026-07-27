@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0462
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0462-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC(%E7%90%86%E7%B3%BB)-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報リテラシー(理系)
+description:
+  ja: 情報リテラシーの基礎として、コンピュータの概要や電子メール、ネットワーク上の倫理とマナー、情報セキュリティを扱う。あわせて、インターネット検索、電子図書館での文献検索、表計算ソフトによる情報分析、プレゼンテーション支援ソフトによるスライド作成、ワードプロセッサの利用を取り上げる。
+quotedDescription:
+  text:
+    ja: 以下を中心に進める。  1. 情報リテラシー概要  2. コンピュータ概説  3. 電子メールとテキストメッセージ  4. ネットワーク情報社会の倫理とマナー  5. 情報セキュリティ  6.
+      インターネットによる情報検索  7. 電子図書館の利用と文献検索  8. 表計算ソフトによる情報分析  9. プレゼンテーション支援ソフトによるスライド作成 10. ワードプロセッサに
+  source: https://ocw.nagoya-u.jp/courses/0462-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC(%E7%90%86%E7%B3%BB)-2014/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 森崎修司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- 授業内容
+- 以下を中心に進める。
+- 情報リテラシー概要
+- コンピュータ概説
+- 電子メールとテキストメッセージ
+- ネットワーク情報社会の倫理とマナー
+- 情報セキュリティ
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 情報科学研究科
+  term: 後期
+  targetAudience: 農学部情報文化学部医学部理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0362
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0362-Clinician-at-the-crossroads-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: Clinician-at-the-crossroads
+description:
+  ja: この講義は、医療者が扱う問題と、体や心の問題だけでは捉えきれない医療のあり方をテーマにする。診療の流れを体験しながら、患者と医療者の間に生じる問題への対応を考える構成になっている。
+quotedDescription:
+  text:
+    ja: '私たち医療者は、様々な問題を抱える人々がそれを解決するための手伝いを日々行っています。そして、私たちが扱う問題は、人々の体や心に関係するものがほとんどです。しかし、体と心の問題がなければ、人々は健康であるといえるでしょうか？実は、医療というのは人々の問題の一部を扱うだけで目前の問題を解決するだけでは本当の解決にむすびつかない事が頻繁にあるのです。
+
+      今回は、まず私たちが日常に行っている診療の一連の流れを皆さんにも体験していただきたいと思います。その上で、患者と医療者の間に生じる問題に、どのように対応して行けばよいかを、一緒に考えていきましょう。'
+  source: https://ocw.nagoya-u.jp/courses/0362-Clinician-at-the-crossroads-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 安井浩樹 准教授, 阿部恵子 助教, 青松棟吉
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 環境学
+- 中津川プロジェクト
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: Clinician at the crossroads'
+  contentUrl: https://ocw.nagoya-u.jp/files/362/aomatsu.pdf
+  page: https://ocw.nagoya-u.jp/courses/0362-Clinician-at-the-crossroads-2011/
+extensions:
+  faculty: 教育学部附属中・高等学校
+  term: 特別講義
+  targetAudience: 附属高校1、2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

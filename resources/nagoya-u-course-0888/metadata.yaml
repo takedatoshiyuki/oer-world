@@ -1,0 +1,61 @@
+slug: nagoya-u-course-0888
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0888-%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生産管理
+description:
+  ja: 生産管理に関する講義で、名古屋大学の経済学部／経済学研究科で2022年春学期に開講された教材である。公開されている教材ファイルは「8.スケジューリング」で、学部3・4年生を対象としている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 樋野 励
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 生産管理
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 8.スケジューリング
+  contentUrl: https://ocw.nagoya-u.jp/files/888/scheduling.pdf
+  page: https://ocw.nagoya-u.jp/courses/0888-%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86-2022/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 春学期
+  targetAudience: 学部３・４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 生産管理を行う上で必要な知識とその解法を身につけるため、生産管理における基本的な課題の理論的な理解を深めることを目的とする。本授業では、自動車に代表される工業製品の製造を行う生産システムを対象に、現代の企業が直面する諸課題を把握・分析し、課題解決に取り組むことができる能力の育成を行う。
+  source: https://ocw.nagoya-u.jp/courses/0888-%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

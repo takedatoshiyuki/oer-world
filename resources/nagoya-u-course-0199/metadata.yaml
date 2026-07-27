@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0199
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0199-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E5%A0%B1%E9%81%93%E3%81%AF%E4%BF%A1%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: メディアの報道は信じられるか
+description:
+  ja: メディア報道に含まれる虚報や誤報を取り上げ、事例を通してその問題点を考える教材である。拉致問題、オウム真理教、北朝鮮のミサイル発射、中川昭一財務相（当時）の「酔いどれ会見」問題などを例に、報道と取材源の関係にも目を向ける。
+quotedDescription:
+  text:
+    ja: 日常的に伝えられるメディア報道は、いちいち検証を必要とする時代になったようだ。昔から虚報、誤報のたぐいは多々あるが、近年は民主主義、あるいは安全保障上からみてもゆゆしき問題を引き起こすケースが目立っている。拉致問題、オウム真理教、北朝鮮のミサイル発射など豊富な事例を挙げて、問題点をえぐり出したいと思う。また、中川昭一財務相（当時）の「酔いどれ会見」問題などから、記者と取材源の間で過度の癒着も顕著に
+  source: https://ocw.nagoya-u.jp/courses/0199-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E5%A0%B1%E9%81%93%E3%81%AF%E4%BF%A1%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 春名幹男
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 社会科学
+- ジャーナリズム
+- 記者
+- 講義内容
+- 講義ビデオ
+- メディアの報道は信じられるか
+- 講義資料
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: メディアの報道は信じられるか
+  contentUrl: https://ocw.nagoya-u.jp/files/199/haruna.pdf
+  page: https://ocw.nagoya-u.jp/courses/0199-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E5%A0%B1%E9%81%93%E3%81%AF%E4%BF%A1%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

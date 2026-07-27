@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0889
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0889-%E5%81%A5%E5%BA%B7%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A7%91%E5%AD%A6%E8%AC%9B%E7%BE%A9-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 健康・スポーツ科学講義
+description:
+  ja: 健康の維持増進に必要な身体に関する科学的知識と、安全で効果的な運動の実践方法を扱う。あわせて、これらの知識を通して自己管理能力を身につけることを目的とする。
+quotedDescription:
+  text:
+    ja: '健康の維持増進に必要な身体に関する科学的知識や，安全で効果的な運動の実践方法についての知識を習得し，自己管理能力を身につけることを目的とします。
+
+      本授業の目標は，
+
+      １）大学生活を心身ともに健康に過ごすために必要な基礎的知識の修得と，運動の意義・必要性について多面的に学ぶ。
+
+      ２）体力や運動能力の現状を把握しそれを向上させるためのトレーニングの方法は，持久力や筋力など，その目標とする体力要素によって異なっている。トレーニングに対する考え方，トレーニングを行う上で必要となる基礎理論や注意点について学び，さらにトレーニング実施によってその効果を検証する。'
+  source: https://ocw.nagoya-u.jp/courses/0889-%E5%81%A5%E5%BA%B7%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A7%91%E5%AD%A6%E8%AC%9B%E7%BE%A9-2022/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 蛭田 秀一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- education
+keywords:
+- 医学/薬学
+- 健康
+- スポーツ
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 運動の見方・考え方
+  contentUrl: https://ocw.nagoya-u.jp/files/889/%E9%81%8B%E5%8B%95%E3%81%AE%E8%A6%8B%E6%96%B9%E3%83%BB%E8%80%83%E3%81%88%E6%96%B9_%E8%91%97%E4%BD%9C%E6%A8%A9OK.pdf
+  page: https://ocw.nagoya-u.jp/courses/0889-%E5%81%A5%E5%BA%B7%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A7%91%E5%AD%A6%E8%AC%9B%E7%BE%A9-2022/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 春学期
+  targetAudience: 工学部、文系学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

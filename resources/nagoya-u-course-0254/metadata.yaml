@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0254
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 計量経済-I
+description:
+  ja: 回帰モデルを中心に、最小二乗法による推定の基礎を扱う講義である。講義ノートでは、単回帰から重回帰、仮説検定、統計的推測、ダミー変数までを順に学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: 本講義では、興味のある変数(例えば労働者の時給)を他の変数(例えば教育を受けた年数，仕事の経験，年齢，性別)で説明する「回帰モデル」に焦点をあて、その最も基本的な推定法である「最小二乗法」について学ぶ。また，この方法にもとづく統計的推測(例えば教育を長く受けるほど労働者の時給は上がるのか，男女間で労働者の時給に差はあるのか)の方法についても学ぶ。
+  source: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 園田正
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- 計量経済学
+- 計量経済
+- 講義の目的
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 計量経済学と経済データの性質'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 単回帰分析に必要な分析道具'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 単回帰モデル(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 単回帰モデル(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 単回帰モデル(3)'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 重回帰モデル:推定(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 重回帰モデル:推定(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 仮説検定の考え方の復習'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 重回帰モデル:統計的推測(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 重回帰モデル:統計的推測(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 重回帰分析で利用するその他の分析'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: ダミー変数'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+- name: '講義ノート: 総復習'
+  contentUrl: https://ocw.nagoya-u.jp/files/254/sonoda_kougi13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0254-%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88-I-2010/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 後期
+  targetAudience: 経済学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: nagoya-u-course-0973
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0973-%E8%80%83%E5%8F%A4%E5%AD%A6%E8%AC%9B%E7%BE%A9i-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: 考古学講義I
+description:
+  ja: 名古屋大学の文学部・人文学研究科で2024年秋学期に開講される講義で、担当は中川朋美である。文学部・人文学研究科の学生を対象とし、学年は問わない。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中川 朋美
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 歴史
+- 弥生時代
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 秋学期
+  targetAudience: 文学部・人文学研究科　学年は問わない
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 本講義では弥生時代の考古学を中心に概説する。研究史の流れや、最近の研究動向について学ぶことを目的とする。
+  source: https://ocw.nagoya-u.jp/courses/0973-%E8%80%83%E5%8F%A4%E5%AD%A6%E8%AC%9B%E7%BE%A9i-2024/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

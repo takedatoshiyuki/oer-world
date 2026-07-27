@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0559
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0559-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%9F%BA%E7%A4%8E%E8%AB%96-A%E9%A1%9E-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: メディア基礎論-A類
+description:
+  ja: 20世紀に発達したマス・コミュニケーション型メディア・システムを題材に、その社会の成り立ちと研究史を前半でたどる。後半では、インターネットやケータイの普及を背景とするメディア社会の現状と未来を、ワークショップやディスカッションを交えて考察する。
+quotedDescription:
+  text:
+    ja: 20世紀を通して発達したマス・コミュニケーション型メディア・システムは、インターネットやケータイなどの普及によって新たなかたちへと変化を迫られている。本講義では、前半でマス・コミュニケーション型社会の生成過程と研究の系譜を振り返り、後半では、今後のメディア社会の現状と未来をワークショップやディスカッションといったアクティヴ・ラーニングの手法を交えながら、批判的、実践的に考察していきたい。
+  source: https://ocw.nagoya-u.jp/courses/0559-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%9F%BA%E7%A4%8E%E8%AB%96-A%E9%A1%9E-2015/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小川明子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 現代社会
+- メディア
+- 講義概要
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: メディア基礎論 授業概要'
+  contentUrl: https://ocw.nagoya-u.jp/files/559/gaiyou.pdf
+  page: https://ocw.nagoya-u.jp/courses/0559-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%9F%BA%E7%A4%8E%E8%AB%96-A%E9%A1%9E-2015/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 前期
+  targetAudience: 国際言語文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

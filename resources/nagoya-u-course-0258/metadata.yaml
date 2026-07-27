@@ -1,0 +1,61 @@
+slug: nagoya-u-course-0258
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0258-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%95%99%E8%82%B2%E5%AD%A6%E5%8E%9F%E8%AB%96ab-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本語教育学原論ab
+description:
+  ja: 言語を対象とする研究で用いる実証的方法論の基礎を扱い、直感に依存しない議論の進め方を学ぶ内容である。得られたデータを適切に検証しながら、言語現象をどのように論じるかに踏み込む。
+quotedDescription:
+  text:
+    ja: '#### ＜前期＞日本語教育学原論a—実証的言語研究法・基礎編 本講義は，言語を対象としたあらゆる研究における実証的方法論を身につけることを目的とする。従来，言語の研究はとかく一個人内の「直感」で行われ，その議論は科学的な「実証」に基づかないまま展開される傾向があった。研究領域の健全な発展のためには，然るべき手法で得られたデータの適切な検証を通して，言語現象が論じられなければならない。本講義で'
+  source: https://ocw.nagoya-u.jp/courses/0258-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%95%99%E8%82%B2%E5%AD%A6%E5%8E%9F%E8%AB%96ab-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 玉岡賀津雄
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 日本語
+- 言語
+- 言語理論
+- 授業の目標と講義内容
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 通年
+  targetAudience: 国際言語文化研究科 日本言語文化専攻 大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,92 @@
+slug: nagoya-u-course-0033
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 資源植物環境学
+description:
+  ja: 植物の光合成を中心に、光化学反応と炭酸固定反応の生理・生化学を扱う。あわせて、高温や乾燥環境に適応した光合成様式の違い、代謝と結びついた組織・細胞構造、環境変化の感知と防御・適応の分子機構を取り上げる。公開教材には、C3/C4光合成、CO2濃縮機構、CAM型光合成、光環境、光阻害などの講義ノートと試験問題が含まれる。
+quotedDescription:
+  text:
+    ja: 植物を特徴づける機能として光合成があげられます。光合成は地球の物質循環を規定する因子であり、光合成効率の最適化や向上が生命科学の重要課題の一つとされています。本授業では、光合成の光化学反応と炭酸固定反応に関する生理学、生化学を詳しく講述します。さらに、高温や乾燥気候に適応進化した光合成様式の多様性を学ぶとともに、その代謝機能と密接に関連した組織・細胞構造の分化についても紹介します・また、移動できない植物が環境の変化を敏感に感知し、防御や適応を行う分子機構についても講述します。この授業から植物の生産性や生存能力の向上を目指した研究に興味をもっていただければ幸いです。
+  source: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 谷口光隆 教授, 三宅博
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- agriculture
+keywords:
+- 環境学
+- 農学
+- 生化学
+- 細胞生物学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 平成 16 年度試験問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/shiken.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: 光合成についてのおさらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/1-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: C3 光合成と C4 光合成の特性比較'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/8-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: CO2 濃縮機構'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/9-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: C4 様光合成，細胞間の代謝産物輸送'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/10-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: 生体膜間の代謝産物輸送'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/11-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: CAM 型光合成'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/12-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: 光環境１：光強度の変動に対する植物の適応'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/13-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: 光環境２：光情報の受容とシグナル伝達'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/14-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+- name: '講義ノート: 光環境３：光阻害'
+  contentUrl: https://ocw.nagoya-u.jp/files/33/15-note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 後期
+  targetAudience: 農学部資源生物環境学科2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

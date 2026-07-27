@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0887
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代数学への流れ
+description:
+  ja: 現代数学に関する講義で、名古屋大学の教養教育院が2022年度秋学期に学部2年生向けに開講した教材を収録する。公開資料は第1回から第12回まであり、各回の講義資料が分かる構成になっている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 谷本 祥
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 数学
+- 現代数学
+- 代数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第１回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第２回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第３回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第４回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第５回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第６回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第７回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第８回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第９回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第 10 回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第 11 回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第 12 回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+- name: 第 13 回
+  contentUrl: https://ocw.nagoya-u.jp/files/887/13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+extensions:
+  faculty: 教養教育院
+  term: 秋学期
+  targetAudience: 学部２年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '本授業科目は，自然科学系分野の諸現象について，それらの諸現象を学際的，総合的に分析，把握する能力を育むとともに，他の学問分野との関連性について理解することが目的である。
+
+      現代数学の「考え方」の一端を、いくつかの具体例を通じて学ぶ。'
+  source: https://ocw.nagoya-u.jp/courses/0887-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

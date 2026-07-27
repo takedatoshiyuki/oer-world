@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0277
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0277-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E8%8B%B1%E8%AA%9E-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: メディア英語
+description:
+  ja: 英語の総合力を高めることを軸に、英字新聞・雑誌の読解やテレビ・ラジオの英語放送の理解に必要な力を扱う。さらに、PowerPointを用いた英語発表と、英語で議論するための技能も目標に含む。
+quotedDescription:
+  text:
+    ja: 授業を進めてゆくにあたり、主に 4 つの目的がある。1 つ目は、学生の総合的な英語能力を高める。2 つ目は、英字新聞・雑誌の読解およびテレビやラジオの英語放送を理解するのに必要な英語力を身につける。3
+      つ目はパワーポイントを使用して英語で発表を行うのに十分なスキルを身につける。そして 4 つ目は、英語で自信を持って議論ができるようになる。
+  source: https://ocw.nagoya-u.jp/courses/0277-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E8%8B%B1%E8%AA%9E-2011/
+  note: 名大の授業 (NU OCW) 「授業のねらい」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: ヘイグ・エドワード
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 英語
+- 言語
+- Language
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 春学期
+  targetAudience: 国際言語文化研究科 国際多元文化専攻 メディアプロフェッショナルコース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

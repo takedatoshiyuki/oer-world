@@ -1,0 +1,66 @@
+slug: nagoya-u-course-0426
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0426-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E6%96%87%E7%B3%BB%EF%BC%89-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報リテラシー（文系）
+description:
+  ja: 文系学部の1年生を対象に、大学での学術活動の基盤となる情報リテラシーを扱う。講義と実習を通じて、情報の伝達・収集・整理・分析に関わる技術の活用と必要な知識を身につけることを目指す。教材としては、シラバスと第1回オリエンテーションの講義ノートが公開されている。
+quotedDescription:
+  text:
+    ja: 大学での学術的活動で基盤となる情報リテラシーの習得を目的としている。本授業では特に文系学部生向けに、情報の伝達・収集・整理・分析といった情報関連技術の活用能力およびそのために必要な知識を、講義と実習を通じて主体的に身につけることを目指す。情報関連技術は時代と共に急速に変化していくものであるため、現時点でのソフトの使い方や知識を覚えるよりも、自分で必要な情報を探したり使い方を考えたりする活動を重視し
+  source: https://ocw.nagoya-u.jp/courses/0426-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E6%96%87%E7%B3%BB%EF%BC%89-2014/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐藤弘毅
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 情報学
+- 情報リテラシー
+- 講義概要
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: シラバス'
+  contentUrl: https://ocw.nagoya-u.jp/files/426/sato-syllabus-detail.pdf
+  page: https://ocw.nagoya-u.jp/courses/0426-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E6%96%87%E7%B3%BB%EF%BC%89-2014/
+- name: '講義ノート: 第 1 回オリエンテーション'
+  contentUrl: https://ocw.nagoya-u.jp/files/426/zengaku-literacy01pdf.pdf
+  page: https://ocw.nagoya-u.jp/courses/0426-%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%EF%BC%88%E6%96%87%E7%B3%BB%EF%BC%89-2014/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部／1年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

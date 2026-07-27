@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0918
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0918-%E8%A5%BF%E6%B4%8B%E6%94%BF%E6%B2%BB%E5%8F%B2-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 西洋政治史
+description:
+  ja: 名古屋大学の法学部／法学研究科で2022年度秋学期に開講された「西洋政治史」の教材である。法学部3・4年生を対象とし、公開教材として「第14回」が示されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 近藤 康史
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 法学
+- 政治学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第 14 回
+  contentUrl: https://ocw.nagoya-u.jp/files/918/202314.pdf
+  page: https://ocw.nagoya-u.jp/courses/0918-%E8%A5%BF%E6%B4%8B%E6%94%BF%E6%B2%BB%E5%8F%B2-2023/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 秋学期
+  targetAudience: 法学部3・4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'ヨーロッパの国々の間で、政治体制や政治制度、政策の共通性や差異はどのようにして生まれたのだろうか。また現代のヨーロッパ政治は流動期にあるが、その源流はどこにあるのだろうか。本講義では、①
+      民主主義制度、② 政党と政党システム、③ 福祉国家を中心として 20 世紀以降のヨーロッパ政治を検討し、これらの問題について考えることを目的とする。また時々、ヨーロッパ政治に関わる映画なども取り上げ、多面的な形で理解を深める。
+
+      上記の ①②③ を中心に、現在のヨーロッパ政治の確立や安定化の歴史、またその展開や制度に関し、ヨーロッパ諸国間でどのような共通性や違いがあったのかなどについて理解する。また単に政治史の知識を獲得するだけでなく、歴史・比較の理論や概念についても理解を深め、それらを用いて自ら関心を持つ西洋政治史上の事象を分析する能力を身につけることも目標とする。'
+  source: https://ocw.nagoya-u.jp/courses/0918-%E8%A5%BF%E6%B4%8B%E6%94%BF%E6%B2%BB%E5%8F%B2-2023/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

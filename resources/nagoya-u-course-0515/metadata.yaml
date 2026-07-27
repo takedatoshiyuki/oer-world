@@ -1,0 +1,110 @@
+slug: nagoya-u-course-0515
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教師発達論講義Ⅰ
+description:
+  ja: 教員養成教育、現職教育、教師教育者に関する理論的・実践的な知識と技能を扱う講義である。具体的な実践事例を基に、個人の考察やペア学習、グループ学習、全体討論、個人発表を通して教師発達を考える。公開教材には講義ノートに加え、学生が提出した感想や宿題が含まれる。
+quotedDescription:
+  text:
+    ja: 受講者は、教員養成教育、現職教育、教師教育者に関する理論的・実践的な知識と、基本的・専門的な技能を習得する。授業方法の特徴としては、具体的な実践の事例 (エビデンス) を基に個人の考察、ペア学習・グループ学習を行い、全体討論や個人の発表の機会を通してさまざまな考え・アイデアを交換し、教師発達について理解を深める。
+  source: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: サルカール アラニ
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- education
+keywords:
+- 教育学
+- 教師教育
+- 教育実践
+- 現職教育
+- 授業研究
+- 教員養成
+- 授業実践
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: オリエンテーション'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/intoro.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 学生が提出した授業後の感想'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/kansou01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 授業研究会を通した教師同士の学び合い(学生が提出した宿題）'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/homework01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 学生が提出した授業後の感想'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/kansou02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: リーダーシップに挑む日本の教師(学生が提出した宿題）'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/homework02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 学生が提出した授業後の感想'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/kansou03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 現職教育における校内研修の授業実践に対してもつ意識(次回までの宿題・課題)'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/gensyokukyouiku.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 現職教育における校内研修の授業実践に対してもつ意義(学生が提出した宿題）'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/homework03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 学生が提出した授業後の感想'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/kansou04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 考える子ども(次回までの宿題)'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/kangaerukodomo.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 数学教育における授業観の解明と質的変化 —「正の数・負の数」のティーチング・スクリプトの比較授業分析を通して—(次回までの宿題)'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/suugakukyouiku.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 東南アジアにおける学校改革の進展：学びの共同体を中心に(齊藤英介)'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/gest1202.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 学生が提出した授業後の感想'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/eve20151216.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: 授業評価アンケート'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+- name: '講義ノート: ホームカミングデイ(2015)'
+  contentUrl: https://ocw.nagoya-u.jp/files/515/homecomigday.pdf
+  page: https://ocw.nagoya-u.jp/courses/0515-%E6%95%99%E5%B8%AB%E7%99%BA%E9%81%94%E8%AB%96%E8%AC%9B%E7%BE%A9%E2%85%A0-2015/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 後期
+  targetAudience: 教育学部3年生、4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

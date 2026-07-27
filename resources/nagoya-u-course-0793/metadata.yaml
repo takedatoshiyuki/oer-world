@@ -1,0 +1,78 @@
+slug: nagoya-u-course-0793
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0793-%E3%80%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80%E3%80%8D-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: システム工学入門
+description:
+  ja: 名古屋大学の「システム工学入門」で、理系全般を対象とする春学期開講の教材である。公開ファイルには、システムの計画と評価、統計的解析、モデリングとシミュレーション、最適化が含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 川尻 喜章
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 工学
+- システム工学
+- 機械学習
+- 人工知能
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: システムの計画と評価 Part1
+  contentUrl: https://ocw.nagoya-u.jp/files/793/note1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0793-%E3%80%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80%E3%80%8D-2021/
+- name: システムの計画と評価 Part2
+  contentUrl: https://ocw.nagoya-u.jp/files/793/note2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0793-%E3%80%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80%E3%80%8D-2021/
+- name: データの統計的解析
+  contentUrl: https://ocw.nagoya-u.jp/files/793/note3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0793-%E3%80%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80%E3%80%8D-2021/
+- name: モデリングとシミュレーション
+  contentUrl: https://ocw.nagoya-u.jp/files/793/note4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0793-%E3%80%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80%E3%80%8D-2021/
+- name: 最適化
+  contentUrl: https://ocw.nagoya-u.jp/files/793/note5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0793-%E3%80%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80%E3%80%8D-2021/
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 理系全般　学年不問
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '本授業科目は，自然科学系分野の諸現象について，それらの諸現象を学際的，総合的に分析，把握する能力を育むとともに，他の学問分野との関連性について理解することが目的です。
+
+      横断的、学際的な学問であるシステム工学の手法について学びます。特にシステムのモデル化や解析・設計法の手法を解説します。また高校で学んだ数学から、大学でこれから学ぶデータサイエンス、機械学習、人工知能などの関連科目へ橋渡しとなる内容である統計や最適化についての内容も含みます。'
+  source: https://ocw.nagoya-u.jp/courses/0793-%E3%80%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80%E3%80%8D-2021/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

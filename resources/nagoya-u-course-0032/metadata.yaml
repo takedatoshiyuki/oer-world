@@ -1,0 +1,70 @@
+slug: nagoya-u-course-0032
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0032-%E7%89%A9%E8%B3%AA%E6%83%85%E5%A0%B1%E5%AD%A62-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物質情報学2
+description:
+  ja: 自然現象を理解するための数学的手法として、微分方程式とフーリエ解析を扱う講義である。公開教材には、微分方程式の基礎概念、1階常微分方程式、データ解析に関する講義ノートが含まれる。
+quotedDescription:
+  text:
+    ja: 自然現象を理解するための数学的手法の中から、微分方程式、フーリエ解析を取り上げ、どのように解析に用いられるのかについて講義する。
+  source: https://ocw.nagoya-u.jp/courses/0032-%E7%89%A9%E8%B3%AA%E6%83%85%E5%A0%B1%E5%AD%A62-2010/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中村泰之
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- ict
+keywords:
+- 情報学
+- 物理
+- 微分方程式
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 微分方程式の基礎概念'
+  contentUrl: https://ocw.nagoya-u.jp/files/32/text05_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0032-%E7%89%A9%E8%B3%AA%E6%83%85%E5%A0%B1%E5%AD%A62-2010/
+- name: '講義ノート: 1 階常微分方程式'
+  contentUrl: https://ocw.nagoya-u.jp/files/32/text05_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0032-%E7%89%A9%E8%B3%AA%E6%83%85%E5%A0%B1%E5%AD%A62-2010/
+- name: '講義ノート: データ解析'
+  contentUrl: https://ocw.nagoya-u.jp/files/32/text05_15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0032-%E7%89%A9%E8%B3%AA%E6%83%85%E5%A0%B1%E5%AD%A62-2010/
+extensions:
+  faculty: 情報文化学部
+  term: 後期
+  targetAudience: 情報文化学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

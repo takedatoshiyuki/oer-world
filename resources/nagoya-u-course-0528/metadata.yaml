@@ -1,0 +1,117 @@
+slug: nagoya-u-course-0528
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語-(基礎)
+description:
+  ja: 英語で段落を書く練習を中心に、準備・執筆・推敲を含む書く過程を扱う教材である。食品を題材にした複数回の活動を通じて、書く内容の整理や段落構成、修正の進め方を学ぶ。公開教材には、アウトライン、コヒーレンス、つなぎ語、典型的な誤りなど、英作文の形式面を扱う資料が含まれる。
+quotedDescription:
+  text:
+    ja: 'Students work on writing well-structured paragraphs and practice a writing process that includes
+      preparing, writing, and revising to improve written work. Every week in class students practice
+      writing a paragraph very quickly.
+
+      Three of these paragraphs are rewritten and submitted for a grade.
+
+      Students also read extensively outside of class in addition to reading in class.
+
+      Students learn about world cultures by reading and writing about food ways.
+
+      The course is taught entirely in English.
+
+      Students are required to participate actively in class discussions and to write paragraphs in English.
+
+      Grades are based not only on English language ability but also on control of writing forms such
+      as proper topic sentences and paragraph structure.'
+  source: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: Chad NILEP
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 英語
+- 言語
+- 授業の目標
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: Class introduction. Food in Australia
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Timed writing; Topic sentences. Food in Chad
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Brainstorming. Food in China
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Revising and editing. Food in Cuba
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Supporting the topic; Reading journal check 1. Food in France
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Unity in writing; Revised paper 1 due. Food in Germany
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Common mistakes
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Using an outline
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Outline for revising
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Coherence
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Transition signals; Revised paper 2 due. Food in Kuwait
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Logic in academic writing. Food in Mexico
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: Papers with several paragraphs. Food in Mongolia
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+- name: The writing process. Food in Turkey
+  contentUrl: https://ocw.nagoya-u.jp/files/528/siryou14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0528-%E8%8B%B1%E8%AA%9E-(%E5%9F%BA%E7%A4%8E)-2015/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 法学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

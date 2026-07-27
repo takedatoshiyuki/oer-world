@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0493
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0493-%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%A1%EF%BC%8F%E8%A8%88%E7%94%BB%E8%AC%9B%E7%BE%A9%E2%85%A1%E2%80%95%E7%8F%BE%E4%BB%A3%E3%81%AE%E5%AD%A6%E5%8A%9B%E3%81%A8%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: カリキュラム学講義Ⅱ／計画講義Ⅱ―現代の学力とカリキュラム
+description:
+  ja: カリキュラム学の基礎と日本の教育課程の動向を手がかりに、学力観の意味と位置づけを考える講義である。前半では、日本の教育改革の流れや国際学力比較調査、21世紀型能力、教育現場での実現可能性を多面的に扱う。公開教材には、講義予定のほか、学習指導要領や国際学力調査に関する資料が含まれる。
+quotedDescription:
+  text:
+    ja: 本講義では、幅広い視野に立ってカリキュラム学の基礎ならびに日本の教育課程の動向に着目し、その底流を流れる学力観の意味と立ち位置を考える。前半では、A) 近年の国内の「教育改革」の系譜、B)
+      国際学力比較調査やいわゆる「21世紀型能力」 (次世代型教育) など、世界における「学力」をめぐる動向、C) 実際の教育現場での実現可能性 (実践的視点) などから多面的に検討を行います。後半では、第2
+  source: https://ocw.nagoya-u.jp/courses/0493-%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%A1%EF%BC%8F%E8%A8%88%E7%94%BB%E8%AC%9B%E7%BE%A9%E2%85%A1%E2%80%95%E7%8F%BE%E4%BB%A3%E3%81%AE%E5%AD%A6%E5%8A%9B%E3%81%A8%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0-2015/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久野弘幸
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- education
+keywords:
+- 経済学/経営学
+- 教育学
+- 講義概要
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義予定
+  contentUrl: https://ocw.nagoya-u.jp/files/493/schedule.pdf
+  page: https://ocw.nagoya-u.jp/courses/0493-%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%A1%EF%BC%8F%E8%A8%88%E7%94%BB%E8%AC%9B%E7%BE%A9%E2%85%A1%E2%80%95%E7%8F%BE%E4%BB%A3%E3%81%AE%E5%AD%A6%E5%8A%9B%E3%81%A8%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0-2015/
+- name: 総合学習で読む学習指導要領
+  contentUrl: https://ocw.nagoya-u.jp/files/493/gakusyuu2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0493-%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%A1%EF%BC%8F%E8%A8%88%E7%94%BB%E8%AC%9B%E7%BE%A9%E2%85%A1%E2%80%95%E7%8F%BE%E4%BB%A3%E3%81%AE%E5%AD%A6%E5%8A%9B%E3%81%A8%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0-2015/
+- name: 国際学力調査が問う「学力」
+  contentUrl: https://ocw.nagoya-u.jp/files/493/kokusaigakuryoku.pdf
+  page: https://ocw.nagoya-u.jp/courses/0493-%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E5%AD%A6%E8%AC%9B%E7%BE%A9%E2%85%A1%EF%BC%8F%E8%A8%88%E7%94%BB%E8%AC%9B%E7%BE%A9%E2%85%A1%E2%80%95%E7%8F%BE%E4%BB%A3%E3%81%AE%E5%AD%A6%E5%8A%9B%E3%81%A8%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0-2015/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: 学部3,4年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

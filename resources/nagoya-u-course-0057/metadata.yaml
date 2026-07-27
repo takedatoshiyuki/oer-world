@@ -1,0 +1,107 @@
+slug: nagoya-u-course-0057
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教養科目-名大の歴史をたどる
+description:
+  ja: 名古屋大学の歴史を、源流となる官立医科大学や旧制の高等教育機関から、新制名古屋大学、国立大学期までたどる講義である。公開教材には、歴史地図や沿革図のほか、関連する諸学校や大学運営、名大祭の歩みを扱う講義ノートが含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 羽賀祥二
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 経済学/経営学
+- 大学改革
+- 名古屋大学
+- 全学教育科目
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 感想文用紙'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_impressions_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名古屋大学の歴史地図'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect01_2006_history_map.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名古屋大学沿革図'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect01_2006_history.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名古屋大学の源流から官立医科大学へ'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect02_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 旧制大学の展開'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect03_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 第八高等学校'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect04_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名古屋高等商業学校'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect05_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 岡崎高等師範学校'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect06_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 旧制名古屋大学から新制名古屋大学へ'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect07_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名古屋大学（国立大学期）'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect08_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名古屋大学運営の基本姿勢'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect09_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名大祭のあゆみ'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect10_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名古屋大学のスポーツの歩み'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect11_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 草創期名古屋大学と渋沢元治初代総長'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect12_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名大の寄付建物'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect13_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名大最初の外国人教師'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect14_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+- name: '講義ノート: 名大キャンパス史'
+  contentUrl: https://ocw.nagoya-u.jp/files/57/nua_lect15_2006.pdf
+  page: https://ocw.nagoya-u.jp/courses/0057-%E5%85%A8%E5%AD%A6%E6%95%99%E9%A4%8A%E7%A7%91%E7%9B%AE-%E5%90%8D%E5%A4%A7%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%9F%E3%81%A9%E3%82%8B-2006/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 全学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

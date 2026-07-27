@@ -1,0 +1,242 @@
+slug: nagoya-u-course-0122
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: フィンランド語文法
+description:
+  ja: この教材は、フィンランド語の文法の初歩を学ぶ講義資料である。名詞や動詞の語形変化をはじめ、格の用法、疑問文・否定文、存在文・所有文、不定人称受動文までを扱う。講義ノートや配布資料が公開されている。
+quotedDescription:
+  text:
+    ja: '言語学は人間の言語のしくみを考える学問ですが、言語のしくみを解明するためには、できるだけ多くの、しかも異なるタイプの言語を知っておく必要があります。なぜなら、世界中の言語は何らかの共通性を持っているのですが、それが何であるのかを理解するためには、言語の多様性についての認識が欠かせないからです。この講義では、フィンランド語の文法の初歩を学びます。フィンランド語はヨーロッパで話されている言語ですが、英語やドイツ語、フランス語、ロシア語など他のヨーロッパの言語とは著しく異なる特徴を持っています。世界の多様な言語の一つとして、フィンランド語の特徴を知ることにより、人間の言語の多様性や普遍性について考えるきっかけにしたいと思います。
+
+      フィンランド語は、英語に比べると、はるかに語形変化の多い言語です。そのため、最初は大変に思うかもしれませんが、語形変化には一定のパターンがあり、そのパターンさえ覚えてしまえば、例外はほとんどありません。文法事項としては、名詞や動詞の語形変化の他、格の用法、疑問文や否定文の作り方、存在文や所有文、不定人称受動文の用法などを学びます。'
+  source: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐久間淳一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- arts_humanities
+keywords:
+- フィンランド語
+- 文学
+- 言語
+- 文法事項
+- 文法
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 第１回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第１回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第２回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第２回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第３回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第３回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第４回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第４回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第５回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第５回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第６回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第６回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第７回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第７回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第８回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第８回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第９回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第９回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 10 回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 10 回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 11 回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 11 回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 12 回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 12 回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 13 回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 13 回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 14 回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 14 回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 15 回ねらい'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aim15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '講義ノート: 第 15 回配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/material15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第３回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第４回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第５回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第６回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第７回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第８回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第９回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第 10 回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第 11 回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第 12 回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第 13 回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第 14 回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: 第 15 回課題
+  contentUrl: https://ocw.nagoya-u.jp/files/122/homework15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/aoh15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 学期末試験の問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/examination.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 学期末試験の解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/answer.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+- name: '課題: 単語の一覧'
+  contentUrl: https://ocw.nagoya-u.jp/files/122/list.pdf
+  page: https://ocw.nagoya-u.jp/courses/0122-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E%E6%96%87%E6%B3%95-2008/
+extensions:
+  faculty: 文学部／文学研究科
+  term: 前期
+  targetAudience: 文学部２年生以上、文学研究科博士前期課程、他学部３年生以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

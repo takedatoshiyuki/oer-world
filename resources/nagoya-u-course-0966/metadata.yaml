@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0966
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0966-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%97%A5%E6%9C%AC%E8%AA%9E%E2%85%A2-2024/
+type:
+- LearningResource
+- Course
+name:
+  ja: ビジネス日本語Ⅲ
+description:
+  ja: 名古屋大学のG30で2024年度秋学期に開講される、日本語使用の講義である。対象はG30とNUPACEで、学年の指定はない。単位履修はG30学部生とNUPACE学生に限られる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 加藤　淳
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 日本語能力
+- 就職活動
+- キャリアパス
+- 敬語
+- 関連授業：
+- ビジネス日本語Ⅳ
+- 英語ページ：
+- Business JapaneseⅢ
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: G30
+  term: 秋学期
+  targetAudience: G30, NUPACE (学年は問わない, 単位履修はG30学部生/NUPACE学生のみ)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

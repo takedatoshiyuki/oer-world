@@ -1,0 +1,60 @@
+slug: nagoya-u-course-0040
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0040-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%892-2005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語（リーディング）2
+description:
+  ja: 大学入学者を対象に、大学での英語の学び方を具体例と課題を通して扱う。英語の文章を日本語に訳すだけでなく、英英辞典の活用や多読、英語を用いて学ぶ姿勢などを学ぶ。
+quotedDescription:
+  text:
+    ja: 大学に入学してきた人を対象に、大学での英語の学び方として重要だと考えられる事柄を、具体例を取り上げて学びます。また、課された課題を自分で行って、そこから何が大事かを実感することで学びます。英語の文章を、日本語に訳せば、それで終わりなのではなく、英英辞典を活用すること、英語の文章をたくさん読むこと、英語を道具として、英語で学ぶことなどが大事だということを理解して、自分でさらに先へ進むための条件を整えるという意味も重要です。
+  source: https://ocw.nagoya-u.jp/courses/0040-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%892-2005/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 外池俊幸
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 英語
+- 言語
+- 英語学習
+- 文法項目
+- 単語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 農学部、医学部保健学科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

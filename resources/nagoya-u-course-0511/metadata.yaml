@@ -1,0 +1,92 @@
+slug: nagoya-u-course-0511
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 前衛芸術概論
+description:
+  ja: ドイツ・オーストリア近現代音楽とオペラを軸に、調性や美、価値、資本形態、欲望と欲動の関係を扱う講義である。ワーグナーやモーツァルト、ベルクを題材とする講義ノートを通して、音楽史・オペラ史を文化現象として見直す内容になっている。
+quotedDescription:
+  text:
+    ja: ドイツ・オーストリア近現代音楽の基底に認められる一定の構造と、資本制のもとでの経済体系や心的装置のメカニズムとの相同性に着目し、マルクスの価値形態論、フロイト=ラカンの欲望・欲動論などを参照しながら、ドイツ・オーストリア近現代音楽史・オペラ史を複合的な文化現象として領域横断的に捉えなおすことを目的としている。
+  source: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 藤井たぎる
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 国際
+- 芸術/美術/音楽
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: ワーグナー『ローエングリン』・第二幕第五場のアンサンブル場面について'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 主体/主調はいかにして確立されるのか?～主調と主体の相同性について'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: モーツァルト『コシ・ファン・トゥッテ』における自我理想 (象徴界) と超自我 (現実界)'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 美とフィボナッチ数列と黄金比'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 価値とは?'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 価値、そしてあるいは調性'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 価値/調性の自己増殖?'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 調性とその喪失のものがたり'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture8+9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 資本形態と恋愛形態- 欲望の愛から、欲動の愛へ'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture10+11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: 調性という名の不在の中心'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+- name: '講義ノート: ルルという名の欲望'
+  contentUrl: https://ocw.nagoya-u.jp/files/511/lecture13+14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 前期
+  targetAudience: 国際多元文化専攻 先端文化論講座
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,157 @@
+slug: nagoya-u-course-0689
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: Biochemistry-I
+description:
+  ja: 生命現象の化学を扱う生化学の入門的な講義で、熱力学、水、アミノ酸、タンパク質構造などの基礎項目を順に学ぶ内容である。さらに、クロマトグラフィーやアフィニティークロマトグラフィー、ELISA、NMR
+    presentation などの項目も含み、実験・分析に関わる話題まで扱う。
+quotedDescription:
+  text:
+    ja: Course Overview    Biochemistry is the study of the chemistry of life processes. It is the unifying
+      principle underlying biological diversity.  Through biochemistry, we learn microscopic processes
+  source: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: YOU Young‐Jai
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 化学
+- 生化学
+- G30
+- Course Overview
+- 'Textbooks:'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 01_Introduction'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/1_Introduction.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 02_Thermodynamics'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/2_Thermodynamics.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 03_Water'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/3_Water.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 04_amino acids'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/4_amino20%acids.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 05_Protein structures 2D'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/5_Protein%20structures%202D.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 06_Protein structures 3D'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/6_Protein%20structures%203D.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 07_HG'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/7_HG.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-01_Chromatography'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-01_Chromatography.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-02_Affinity Chromatography'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-02_Affinity20%25Chromatography.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-03_BIOCHEM anh'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-03_BIOCHEM.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-04_ELISA'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-04_ELISA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-05_NMR presentation'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-05_NMR.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-06_Protein NMR'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-06_Protein20%25NMR.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-07_PROTEIN SEQUENCING BACH'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-07_PROTEIN20%25SEQUENCING.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-08_Protein sequencing'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-08_Protein20%25sequencing(2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-09_western blot Cindy'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-09_western20%25blot.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 08-10_western blot may'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/8-10_western20%25blot(2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 09_enzymes I'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/9_enzymes20%25I.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 10_enzyme II'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/10_enzyme20%25II.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 11_nucleic acids'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/11_nucleic20%acids.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-01_Biochem 1 PCR'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-01_Biochem%251%25PCR.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-02_biochem ppt (DNA sequencing)'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-02_biochem%25II%25(DNA%25sequencing).pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-04_Biochem_recombination and cloning'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-04_Biochem_recombination20%25and20%25cloning.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-05_DNA sequencing Bach'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-05_DNA20%25sequencing.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-06_Gene Editing'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-06_Gene20%Editing.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-07_PCR'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-07_PCR.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-08_Gene Editing'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-08_Gene%Editing.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-09_RNA interfernce'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-09_RNA%25interfernce.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 12-10_RNA-interference'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/12-10_RNA-interference(2).pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: 13_review'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/13_review.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+- name: '講義ノート: Answers for HW'
+  contentUrl: https://ocw.nagoya-u.jp/files/689/answers%25for%25HW.pdf
+  page: https://ocw.nagoya-u.jp/courses/0689-Biochemistry-I-2018/
+extensions:
+  faculty: G30
+  term: 後期
+  targetAudience: G30
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

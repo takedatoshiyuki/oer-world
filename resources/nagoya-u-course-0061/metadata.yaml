@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0061
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0061-%E5%9B%BA%E4%BD%93%E5%8A%9B%E5%AD%A6-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 固体力学
+description:
+  ja: この教材は、固体力学の講義で扱う内容のうち、物体の運動と変形の記述、および応力の概念と保存法則に関する一部の講義ノートを公開している。名古屋大学の工学部／工学研究科で、機械・航空工学科機械システム工学コース2年生向けに2014年後期に開講された講義に対応する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 田中英一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 物理
+- 材料工学
+- 固体力学
+- 弾性力学
+- 力学
+- 方程式
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 物体の運動と変形の記述(一部)'
+  contentUrl: https://ocw.nagoya-u.jp/files/61/3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0061-%E5%9B%BA%E4%BD%93%E5%8A%9B%E5%AD%A6-2014/
+- name: '講義ノート: 応力の概念と保存法則(一部)'
+  contentUrl: https://ocw.nagoya-u.jp/files/61/4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0061-%E5%9B%BA%E4%BD%93%E5%8A%9B%E5%AD%A6-2014/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 後期
+  targetAudience: 工学部 機械・航空工学科 機械システム工学コース2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

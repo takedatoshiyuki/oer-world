@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0866
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0866-%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88%E5%8F%A3%E8%AA%9E%E8%A1%A8%E7%8F%BE%EF%BC%89-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本語（口語表現）
+description:
+  ja: 名古屋大学の教養教育院が2021年春学期に開講した、日本語の口語表現を扱う講義である。公開教材として、ディスカッションとディベートのための準備シートが2件含まれている。対象は文系学部1年生で、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 俵山 雄司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 日本語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 口頭表現ディスカッション準備シート 2
+  contentUrl: https://ocw.nagoya-u.jp/files/866/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0866-%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88%E5%8F%A3%E8%AA%9E%E8%A1%A8%E7%8F%BE%EF%BC%89-2022/
+- name: 口頭表現ディベート準備シート 2
+  contentUrl: https://ocw.nagoya-u.jp/files/866/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0866-%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88%E5%8F%A3%E8%AA%9E%E8%A1%A8%E7%8F%BE%EF%BC%89-2022/
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 文系学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 本授業科目は、専門的学習のツールとして外国語の能力を高め、異文化理解を深めて、国際社会に相応しい教養を育むことが目的です。
+  source: https://ocw.nagoya-u.jp/courses/0866-%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88%E5%8F%A3%E8%AA%9E%E8%A1%A8%E7%8F%BE%EF%BC%89-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

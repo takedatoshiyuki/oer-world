@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0197
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0197-%E3%83%86%E3%83%A9%E3%83%98%E3%83%AB%E3%83%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8B%E9%9D%9E%E7%A0%B4%E5%A3%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E8%A1%93-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: テラヘルツイメージングによる非破壊検査技術
+description:
+  ja: テラヘルツ波を用いたイメージング技術の研究を扱い、レーザー光の波長変換技術で広帯域かつ波長可変のテラヘルツ光源を開発する内容を含む。さらに、その光源を用いた新しいイメージング技術の研究開発として、テラヘルツ分光イメージングによる試薬類の非破壊診断技術に触れる。
+quotedDescription:
+  text:
+    ja: テラヘルツ波を用いた新しいイメージング技術に関する研究がこの数年日米欧で強力に推進されている。我々はレーザー光の波長変換技術を用いて既存の自由電子レーザーなどに較べはるかに小型簡便な広帯域波長可変テラヘルツ光源の開発に成功し、さらなる高性能化、小型化などを進めている。また、波長可変テラヘルツ光源を用いた新しいイメージング技術の研究開発を進め、テラヘルツ分光イメージングによる試薬類の非破壊診断技術を
+  source: https://ocw.nagoya-u.jp/courses/0197-%E3%83%86%E3%83%A9%E3%83%98%E3%83%AB%E3%83%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8B%E9%9D%9E%E7%A0%B4%E5%A3%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E8%A1%93-2009/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 川瀬晃道
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 工学
+- 講義内容
+- 講義ビデオ
+- 講義資料
+- 名古屋大学 関連授業
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: テラヘルツイメージングによる非破壊検査技術
+  contentUrl: https://ocw.nagoya-u.jp/files/197/kawase.pdf
+  page: https://ocw.nagoya-u.jp/courses/0197-%E3%83%86%E3%83%A9%E3%83%98%E3%83%AB%E3%83%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8B%E9%9D%9E%E7%A0%B4%E5%A3%8A%E6%A4%9C%E6%9F%BB%E6%8A%80%E8%A1%93-2009/
+extensions:
+  faculty: 研究協力部社会連携課
+  term: 公開講座
+  targetAudience: 満18才以上の方
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

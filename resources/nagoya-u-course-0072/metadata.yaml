@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0072
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0072-%E5%8B%95%E7%89%A9%E6%84%9F%E8%A6%9A%E6%83%85%E5%A0%B1%E5%AD%A6-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 動物感覚情報学
+description:
+  ja: 動物が生き残るうえでの感覚器の役割を扱い、食物の確保や配偶相手の探索といった生物過程との関係を考える。あわせて、感覚器だけで処理できる問題、脳を動員して成立する感覚、錯覚が生じる理由にも踏み込む。理科系の内容を軸にしつつ、文理融合型として構成された授業である。
+quotedDescription:
+  text:
+    ja: 動物が生き残るために必要なものは何か？ 食べ物がまず第一に必要だろう。ついで、配偶相手を見つけ子供を残すことが必要だ。これがうまく行けば、当面その動物種は地球上に生き残ることができる。動物の感覚器は、この２つの生物過程をうまく行うためにあると考えても間違いは無いと思う。感覚器は情報と知識の窓口になる。生きてゆくためには常に感覚を研ぎすましておかなければならない理由はここにある。授業では、感覚器だけで処理できる問題と脳を動員してまで感覚を成立させる点にも注目する。錯覚が生まれる理由はそこにある。授業は理科系だが、大学で学んで生きてゆくためには、物事を総合的に見る必要があることを強調したい。そこで授業は文理融合型のものとなる。「エー！ソウナノ！」「もっと、自分で勉強してみるか！」となってくれたら、うれしいなー。と思いながら、授業をやっています。
+  source: https://ocw.nagoya-u.jp/courses/0072-%E5%8B%95%E7%89%A9%E6%84%9F%E8%A6%9A%E6%83%85%E5%A0%B1%E5%AD%A6-2006/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 宗宮弘明
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- agriculture
+keywords:
+- 農学
+- 生物
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 第 1 回資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/72/lect01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0072-%E5%8B%95%E7%89%A9%E6%84%9F%E8%A6%9A%E6%83%85%E5%A0%B1%E5%AD%A6-2006/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 後期
+  targetAudience: 農学部資源生物学科3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

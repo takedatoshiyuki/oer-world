@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0252
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0252-%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB%E3%81%A8%E8%A1%8C%E6%94%BF-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代日本の政治と行政
+description:
+  ja: 第2次世界大戦後の日本における政治と行政の歴史を概略的に扱い、参考文献やヴィデオ教材、日々の新聞も参照しながら現代日本政治への理解を深める内容である。公開されている教材は、第2講、第3講、第10講の予習プリントである。
+quotedDescription:
+  text:
+    ja: 第２次世界大戦後の日本における政治と行政の歴史を概略的に理解する。そのために、適宜紹介する参考文献やヴィデオ教材に加え、日々の新聞などを参照しながら、現代日本政治への理解を深める。最終的には、日本政治への主体的判断能力を獲得することを獲得目標とする。
+  source: https://ocw.nagoya-u.jp/courses/0252-%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB%E3%81%A8%E8%A1%8C%E6%94%BF-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小野耕二
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 第 2 講予習プリント'
+  contentUrl: https://ocw.nagoya-u.jp/files/252/ono2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0252-%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB%E3%81%A8%E8%A1%8C%E6%94%BF-2011/
+- name: '講義ノート: 第 3 講予習プリント'
+  contentUrl: https://ocw.nagoya-u.jp/files/252/ono6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0252-%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB%E3%81%A8%E8%A1%8C%E6%94%BF-2011/
+- name: '講義ノート: 第 10 講予習プリント'
+  contentUrl: https://ocw.nagoya-u.jp/files/252/ono10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0252-%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB%E3%81%A8%E8%A1%8C%E6%94%BF-2011/
+extensions:
+  faculty: 法学部／法学研究科
+  term: 後期
+  targetAudience: 法学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

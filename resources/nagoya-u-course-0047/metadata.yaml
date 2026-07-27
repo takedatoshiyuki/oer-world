@@ -1,0 +1,119 @@
+slug: nagoya-u-course-0047
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報通信工学第2
+description:
+  ja: 音声、画像、データを無線で伝送する技術を扱い、アナログ方式とディジタル方式の両方を対象にする。変調・復調や多元接続技術を数式を用いて扱い、CDMAにも触れる。
+quotedDescription:
+  text:
+    ja: この授業では、音声や画像、データといった多様な情報を無線伝送するための技術について、ラジオの放送や従来のテレビ放送で用いられて来たアナログ方式、そして衛星・地上波ディジタル放送や携帯電話等で用いられているディジタル方式の両方を取り上げ講義します。この授業は、情報を電波に乗せ（変調）、また電波から情報を取り出す（復調）技術について、イメージだけでなく数式を用いた正確な記述での理解を与えます。また、無線伝送の共通媒体である空間を複数の信号で共有し使用するための多元接続技術についても講義します。携帯電話等でおなじみの単語である
+      CDMA も多元接続技術のひとつです。
+  source: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 片山正昭
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- engineering
+keywords:
+- 工学
+- 電気電子工学コース
+- 情報通信
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 宿題 No. 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '課題: 宿題 No. 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '課題: 宿題 No. 3'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '課題: 宿題 No. 4'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '課題: 宿題 No. 5'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '課題: 宿題 No. 6'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '課題: 宿題 No. 7'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '課題: 宿題 No. 8'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/assgn08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 目次'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/contents.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 公式集'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/formula.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 1 章 無線通信システムの基礎'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 2 章 確定信号と周波数スペクトル'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 3 章 変調の基礎'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 4 章 アナログ変調'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 5 章 自己相関関数とそのフーリエ変換'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 6 章 線形ディジタル変調方式'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 7 章 ディジタル FM と OFDM'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 8 章 スペクトル拡散'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+- name: '講義ノート: 第 9 章 多元接続'
+  contentUrl: https://ocw.nagoya-u.jp/files/47/lecnote09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0047-%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E5%B7%A5%E5%AD%A6%E7%AC%AC2-2011/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 後期
+  targetAudience: 工学部 電気電子・情報工学科 電気電子工学コース4年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

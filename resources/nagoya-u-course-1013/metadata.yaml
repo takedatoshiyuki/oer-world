@@ -1,0 +1,53 @@
+slug: nagoya-u-course-1013
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/1013-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A4%8E%E2%85%B1-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地球科学基礎Ⅱ
+description:
+  ja: 名古屋大学の教養教育院が2025年度秋学期に開講する、情報学部1年生向けの講義である。地球科学基礎Ⅱという題名のとおり、地球科学の基礎を扱う授業で、持田陸宏教授、高橋聡准教授、道林克禎が担当する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 持田 陸宏　教授，高橋 聡　准教授，道林 克禎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 地球科学
+- 環境学
+- 地球環境
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 秋学期
+  targetAudience: 情報学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,58 @@
+slug: nagoya-u-course-0211
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0211-%E7%89%A9%E7%90%86%E7%92%B0%E5%A2%83%E8%A8%AD%E8%A8%88%E5%AD%A6-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物理環境設計学
+description:
+  ja: 室内温湿度や温熱環境の評価法を基に、温熱・空気環境の設計で必要となる室内設計条件の考え方を扱う講義である。建物の用途ごとの条件を踏まえ、空調設計や気流分布設計に用いる室内熱負荷や室内気流分布の予測・評価方法まで解説する。さらに、予測・解析技術の適用性や運用事例も扱う。
+quotedDescription:
+  text:
+    ja: 室内温湿度の動的評価，室内温熱環境の評価法，温熱環境の設計法などを基に，温熱・空気環境の設計に必要となる室内温湿度や空気清浄度，室内気流分布などの室内設計条件の 考え方を各種の用途の建物について解説し，それを基に空調設計，気流分布設計などを行うための室内熱負荷や室内気流分布の各種の予測・評価方法についての知識と，現在行われているそれらの予測・解析技術の実際の空間設計に対する適用性・運用事例と将来の
+  source: https://ocw.nagoya-u.jp/courses/0211-%E7%89%A9%E7%90%86%E7%92%B0%E5%A2%83%E8%A8%AD%E8%A8%88%E5%AD%A6-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 奥宮正哉
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- engineering
+keywords:
+- 建築
+- 環境学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 環境学研究科
+  term: 前期
+  targetAudience: 環境学研究科都市環境学専攻博士前期課程1、2年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

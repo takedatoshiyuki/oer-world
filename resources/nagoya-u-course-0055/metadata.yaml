@@ -1,0 +1,120 @@
+slug: nagoya-u-course-0055
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学展望-I
+description:
+  ja: 名古屋大学の理学部／理学研究科で2006年前期に開講された「数学展望-I」の教材を収録する。理学部1年生向けの全学開放科目として実施され、講義ノートに加えて練習問題やレポート問題、レポート問題解答が公開されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉田健一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- ガロア理論
+- 線形代数
+- オイラー
+- ユークリッド
+- 微分積分学
+- トポロジー
+- 離散数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: 第１回レポート問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/Treport-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '参考資料: 第２回レポート問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/Treport-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '参考資料: 第２回レポート問題解答'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/Areport-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '参考資料: 第３回レポート問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/Treport-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第１回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第２回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第１回練習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_rensyuu1-02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第３回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第４回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第２回練習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_rensyuu2-04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第５回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第６回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第７回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第８回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第 9 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第 10 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第 11 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第 12 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第 13 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+- name: '講義ノート: 第 14 回講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/55/ocw_tenbou14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0055-%E6%95%B0%E5%AD%A6%E5%B1%95%E6%9C%9B-I-2006/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 前期
+  targetAudience: 理学部1年生全学開放科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

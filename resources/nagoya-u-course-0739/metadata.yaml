@@ -1,0 +1,125 @@
+slug: nagoya-u-course-0739
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+type:
+- LearningResource
+- Course
+name:
+  ja: Fundamentals of Earth Science I
+description:
+  ja: 地球科学の基礎を扱う講義で、名古屋大学の教養教育院が2019年度後期に開講した。公開教材としてNOTES 1から12までの12件が示されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: マーク・ハンブレ
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 地球科学
+- 岩石
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: NOTES 1
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%201_ES1_INTRO_2018_2020-05-28_15-17.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 2
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%202_ES1_ORIGIN_2018_2020-05-28_15-19.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 3
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%203_ES1_TECTO_2018-1_2020-05-28_15-19.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 4
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%204_ES1_MIN_2018_2020-05-28_15-19.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 5
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%205_ES1_ROCKINTRO_2018_2020-05-28_15-19.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 6
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%206_ES1_ROCK1_2018-1_2020-05-28_15-19.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 7
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%207_ES1_ROCK2_2018_2020-05-28_15-20.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 8
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%208_ES1_ROCK3_2018_2020-05-28_15-20.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 9
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%209_ES1_AGE_2018_2020-05-28_15-20.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 10
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%2010_ES1_CONTINENTS_2018_2020-05-28_15-18.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 11
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%2011_ES1_EVOL1_2018_2020-05-28_15-18.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: NOTES 12
+  contentUrl: https://ocw.nagoya-u.jp/files/739/NOTES%2012_ES1_EVOL2_2018_2020-05-28_15-19.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 1
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%201_ES1_INTRO_2018_print.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 2
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%202_ES1_ORIGIN_2018_print%20.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 3
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%203_ES1_TECTO_2018_print.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 4
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%204_ES1_MIN_2018_print-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 5
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%205_ES1_ROCKINTRO_2018_print.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 6
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%206_ES1_ROCK1_2018_print.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 7
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%207_ES1_ROCK2_2018_print.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 8
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%208_ES1_ROCK3_2018_print.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 10
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%2010_ES1_AGE_2018_print.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 11
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES_11_CONTINENTS_print_2018.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES 12
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES%2012_ES1_EVOL1&2_2018_print_.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+- name: SLIDES ES1 LABO 2018
+  contentUrl: https://ocw.nagoya-u.jp/files/739/SLIDES_ES1_LABO_2018_print_2020-05-28_15-47.pdf
+  page: https://ocw.nagoya-u.jp/courses/0739-fundamentals-of-earth-science-i-2020/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: Sc(P･C･B)･En(P･C･Au)･Ag(B)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

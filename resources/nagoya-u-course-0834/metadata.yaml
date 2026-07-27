@@ -1,0 +1,100 @@
+slug: nagoya-u-course-0834
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本近現代文学史概説
+description:
+  ja: 日本近現代文学史を扱う講義で、名古屋大学の文学部／人文学研究科で2021年度後期に開講された。対象は文学部2年生以上で、他学部生は3年生以上が受講できる。公開教材は第1回から第13回までの複数回分があり、講義の進行に沿って配布されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 飯田 祐子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 日本
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第１回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide00.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第２回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第３回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第４回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第５回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第６回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第７回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第８回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第９回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第 10 回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第 12 回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第 13 回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第 14 回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+- name: 第 15 回
+  contentUrl: https://ocw.nagoya-u.jp/files/834/slide13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 後期（水曜2限）
+  targetAudience: 文学部2年生以上、他学部3年生以上可
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: この授業では、文学史について理解を深めつつ、文学作品を、それが書かれた時代をふまえ細かく読み込む方法を学びます。講義に演習形式を組み込み、文学テクストの読解を目的とした発表の方法を学びます。
+  source: https://ocw.nagoya-u.jp/courses/0834-%E6%97%A5%E6%9C%AC%E8%BF%91%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E6%A6%82%E8%AA%AC-2021/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

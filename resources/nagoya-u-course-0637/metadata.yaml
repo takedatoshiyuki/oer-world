@@ -1,0 +1,89 @@
+slug: nagoya-u-course-0637
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0637-%E6%83%85%E5%A0%B1%E3%81%AE%E6%8C%91%E6%88%A6%E8%80%85%E3%83%BB%E9%96%8B%E6%8B%93%E8%80%85%E3%81%9F%E3%81%A1-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報の挑戦者・開拓者たち
+description:
+  ja: 名古屋大学の情報学部／情報学研究科1年向けに、2017年春1期に開講された講義である。北栄輔、安田孝美、村瀬洋が担当し、授業は日本語で行われる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 北栄輔 教授, 安田孝美 教授, 村瀬洋
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- 講義概要
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 情報学部／情報学研究科
+  term: 春1期
+  targetAudience: 情報学部／情報学研究科 1年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '授業内容
+
+      教科書・参考文献・履修条件等
+
+      授業期間中の課題・宿題等
+
+      成績評価方法・基準
+
+      情報の挑戦者・開拓者たち-2017
+
+      講師
+
+      北栄輔 教授, 安田孝美 教授, 村瀬洋 教授
+
+      開講部局
+
+      情報学部／情報学研究科
+
+      2017年度 春1期
+
+      対象者
+
+      情報学部／情報学研究科 1年
+
+      タグ
+
+      情報学
+
+      講義概要
+
+      本講義の目的は，情報学を身につけた人材が社会でどのような役割を求められているかについて理解し，学生自身が自分の社会での活躍の場を構想することである。
+
+      そのために，情報学を駆使して課題発見・解決できる人材，情報社会基盤を構想・設計できる人材，情報学を駆使して組織をマネジメントできる人材について，情報学の外部有識者に講演をお願いし，教員と学生が参加してフリーディスカッションを行うことで理解を深める。'
+  source: https://ocw.nagoya-u.jp/courses/0637-%E6%83%85%E5%A0%B1%E3%81%AE%E6%8C%91%E6%88%A6%E8%80%85%E3%83%BB%E9%96%8B%E6%8B%93%E8%80%85%E3%81%9F%E3%81%A1-2017/
+  note: 名大の授業 (NU OCW) 「講義目的」より（同サイトの利用条件に基づく転載）

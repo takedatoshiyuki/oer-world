@@ -1,0 +1,79 @@
+slug: nagoya-u-course-0295
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0295-%E7%B5%B1%E8%A8%88%E7%89%A9%E7%90%86%E5%AD%A6III-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 統計物理学III
+description:
+  ja: 量子統計の基礎、理想フェルミ気体、理想ボース気体、相互作用する系と相転移の4つの講義ノートを公開する。名古屋大学理学部の2011年度後期に開講された「統計物理学III」の教材で、理学部物理学科3年生を対象としている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 上羽牧夫
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 物理
+- 量子力学
+- 統計力学
+- リフシッツ
+- エントロピー
+- 素粒子
+- 物性
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 量子統計の基礎'
+  contentUrl: https://ocw.nagoya-u.jp/files/295/uwaha1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0295-%E7%B5%B1%E8%A8%88%E7%89%A9%E7%90%86%E5%AD%A6III-2011/
+- name: '講義ノート: 理想フェルミ気体'
+  contentUrl: https://ocw.nagoya-u.jp/files/295/uwaha2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0295-%E7%B5%B1%E8%A8%88%E7%89%A9%E7%90%86%E5%AD%A6III-2011/
+- name: '講義ノート: 理想ボース気体'
+  contentUrl: https://ocw.nagoya-u.jp/files/295/uwaha3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0295-%E7%B5%B1%E8%A8%88%E7%89%A9%E7%90%86%E5%AD%A6III-2011/
+- name: '講義ノート: 相互作用する系と相転移'
+  contentUrl: https://ocw.nagoya-u.jp/files/295/uwaha4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0295-%E7%B5%B1%E8%A8%88%E7%89%A9%E7%90%86%E5%AD%A6III-2011/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学部物理学科3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '量子多体系の基本的な概念と現実の物性との関係を理解し、簡単な計算ができるようになる。
+
+      相互作用する系の共同現象を理解し、簡単な近似法を習得する。'
+  source: https://ocw.nagoya-u.jp/courses/0295-%E7%B5%B1%E8%A8%88%E7%89%A9%E7%90%86%E5%AD%A6III-2011/
+  note: 名大の授業 (NU OCW) 「到達目標」より（同サイトの利用条件に基づく転載）

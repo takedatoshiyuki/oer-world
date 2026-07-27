@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0153
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0153-%E7%A9%BA%E9%96%93%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%88%B6%E5%BE%A1%E8%AB%96-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 空間エネルギー制御論
+description:
+  ja: 都市の温熱環境・微気象を中心に、地球温暖化と都市温暖化の違いを整理する内容である。あわせて、人間活動に伴うエネルギー消費や都市化が都市の温熱環境・微気象に及ぼす影響と、その解析方法を扱う。
+quotedDescription:
+  text:
+    ja: 主として、都市の温熱環境・微気象について取り上げる。まず最初に、地球温暖化と都市温暖化の違いについて整理する。次に、人間活動に伴うエネルギー消費や都市化が都市の温熱環境・微気象に及ぼす影響について学習する。また、温熱環境・微気象を解析する方法についても学習する。
+  source: https://ocw.nagoya-u.jp/courses/0153-%E7%A9%BA%E9%96%93%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%88%B6%E5%BE%A1%E8%AB%96-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 飯塚悟
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 環境学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 地球温暖化と都市温暖化（地球温暖化編）'
+  contentUrl: https://ocw.nagoya-u.jp/files/153/warm.pdf
+  page: https://ocw.nagoya-u.jp/courses/0153-%E7%A9%BA%E9%96%93%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%88%B6%E5%BE%A1%E8%AB%96-2011/
+- name: '講義ノート: 地球温暖化と都市温暖化（都市温暖化編）'
+  contentUrl: https://ocw.nagoya-u.jp/files/153/warm2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0153-%E7%A9%BA%E9%96%93%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%88%B6%E5%BE%A1%E8%AB%96-2011/
+extensions:
+  faculty: 環境学研究科
+  term: 後期
+  targetAudience: 環境学研究科都市環境学専攻博士前期課程1、2年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

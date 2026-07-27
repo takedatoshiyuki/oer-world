@@ -1,0 +1,95 @@
+slug: nagoya-u-course-0221
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人間形成学講義-III
+description:
+  ja: アメリカを中心に、教育思想と教育実践の展開を歴史的にたどる講義である。公開講義ノートでは、植民地期から独立期、フランクリンやエマソンの思想、公教育制度の成立、多民族社会、プラグマティズムまでを扱う。
+quotedDescription:
+  text:
+    ja: 'アメリカの歴史一般、教育思想、教育哲学を学びながら、資本主義社会の変遷とポスト資本主義社会の行方、それらの社会における教育のあり方について基本的な知見と理解を得る。
+
+      今年度は、アングロサクソン圏の教育思想と歴史をたどりながら、社会・文化・経済と教育の発展についてともに考えていく。特にアメリカに誕生した哲学、教育思想、教育実践を概説する。'
+  source: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+  note: 名大の授業 (NU OCW) 「授業のねらい」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松下晴彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 経済学/経営学
+- 哲学
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 人間形成を捉えるための基本的な枠組み'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: 植民地時代から独立まで'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: 富と徳の合一の精神：最初のアメリカ人 − ベンジャミン・フランクリン'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: フランクリンの思想の現代的意義（先駆性）'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: 知的独立宣言 −R.W.エマソンの教育思想：超越主義'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: 中間まとめ − 多文化・多民族社会を捉えるための枠組'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: アメリカ近代公教育制度の出現と背景'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: 海外教育思想移植期 −1860 年〜1890 年'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: 黄金狂時代のアメリカと「誇示的消費」'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: 世紀転換期：多民族国家アメリカ'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+- name: '講義ノート: プラグマティズムの黎明期 − 形而上学クラブからシカゴ実験学校まで'
+  contentUrl: https://ocw.nagoya-u.jp/files/221/lec11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0221-%E4%BA%BA%E9%96%93%E5%BD%A2%E6%88%90%E5%AD%A6%E8%AC%9B%E7%BE%A9-III-2011/
+extensions:
+  faculty: 教育学部／教育発達科学研究科
+  term: 前期
+  targetAudience: 教育学部3年生以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

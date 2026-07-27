@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0050
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0050-%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%B3%E3%83%BC%E3%82%B9%E4%B8%AD%E7%B4%9A-%E8%81%B4%E8%A7%A3-2006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代日本語コース中級-聴解
+description:
+  ja: さまざまな場面の日本語音声を聞き取り、自然な話しことばを理解する力を扱う講義である。縮約形や音の変化、聞き取りにくい表現に注目し、未知の語彙や表現があっても内容を推測するためのポイントを示す。
+quotedDescription:
+  text:
+    ja: いろいろな場面の多様な日本語を聞いて、「自然な話しことば」を聞き取る力を伸ばす。縮約形、音の変化、わかりにくい表現を聞き取るポイントを示し、知らない語彙、表現があっても内容が推測できるようになることを目標とする。
+  source: https://ocw.nagoya-u.jp/courses/0050-%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%B3%E3%83%BC%E3%82%B9%E4%B8%AD%E7%B4%9A-%E8%81%B4%E8%A7%A3-2006/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 石崎俊子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 国際
+- 日本語
+- 言語
+- 国際言語センター
+- 語彙
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 国際機構
+  term: 前期
+  targetAudience: 名古屋大学に在籍する外国人留学生（大学院生、研究生など）・客員研究員・外国人教師で、日本語のレベルが初中級終了程度の人 (留学生センターの実施するプレースメントテストに合格しなければいけない)
+    もしくは留学生センターのSJ200を終了した人
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

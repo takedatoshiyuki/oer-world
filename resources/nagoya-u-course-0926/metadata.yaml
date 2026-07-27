@@ -1,0 +1,125 @@
+slug: nagoya-u-course-0926
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物理学基礎I
+description:
+  ja: 名古屋大学で2023年春学期に開講された「物理学基礎I」の教材で、情報学部1年生を対象とする。講義計画と履修上の注意に加え、古典力学の成り立ちや位置付け、微積分、ベクトル、座標系、質点の運動、運動の法則、保存力、単位系を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 時田 恵一郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 物理
+- 古典力学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義計画と履修上の注意
+  contentUrl: https://ocw.nagoya-u.jp/files/926/01-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 古典力学の成り立ち
+  contentUrl: https://ocw.nagoya-u.jp/files/926/01-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 微積分
+  contentUrl: https://ocw.nagoya-u.jp/files/926/01-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 古典力学の位置付け
+  contentUrl: https://ocw.nagoya-u.jp/files/926/02-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: ベクトル
+  contentUrl: https://ocw.nagoya-u.jp/files/926/02-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 座標と座標系
+  contentUrl: https://ocw.nagoya-u.jp/files/926/03-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 質点の運動
+  contentUrl: https://ocw.nagoya-u.jp/files/926/03-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 運動の法則と運動方程式
+  contentUrl: https://ocw.nagoya-u.jp/files/926/04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 保存力
+  contentUrl: https://ocw.nagoya-u.jp/files/926/05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 物理量の単位と単位系
+  contentUrl: https://ocw.nagoya-u.jp/files/926/06-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: ニュートンの運動の法則（続）
+  contentUrl: https://ocw.nagoya-u.jp/files/926/06-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 演習問題：単振動と質量の相対測定
+  contentUrl: https://ocw.nagoya-u.jp/files/926/06-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 球殻による万有引力のポテンシャル
+  contentUrl: https://ocw.nagoya-u.jp/files/926/07-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 演習問題：単振り子と振り子の等時性
+  contentUrl: https://ocw.nagoya-u.jp/files/926/07-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 演習問題：単振動の一般解と減衰振動
+  contentUrl: https://ocw.nagoya-u.jp/files/926/07-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 演習問題：単振動の一般解と減衰振動 問５の補足
+  contentUrl: https://ocw.nagoya-u.jp/files/926/07-4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 楕円
+  contentUrl: https://ocw.nagoya-u.jp/files/926/08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: ２次元平面上の中心力と運動方程式
+  contentUrl: https://ocw.nagoya-u.jp/files/926/09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: ケプラーとニュートンの偉業
+  contentUrl: https://ocw.nagoya-u.jp/files/926/10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 万有引力の法則からケプラーの法則へ
+  contentUrl: https://ocw.nagoya-u.jp/files/926/11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 演習問題：抵抗をおよぼす媒質中での物体の運動
+  contentUrl: https://ocw.nagoya-u.jp/files/926/12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 角運動量（再）
+  contentUrl: https://ocw.nagoya-u.jp/files/926/13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 質点系
+  contentUrl: https://ocw.nagoya-u.jp/files/926/14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+- name: 質点系(2)
+  contentUrl: https://ocw.nagoya-u.jp/files/926/15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0926-%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A4%8EI-2023/
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 情報学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

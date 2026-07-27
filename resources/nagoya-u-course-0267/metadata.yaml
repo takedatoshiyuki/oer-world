@@ -1,0 +1,92 @@
+slug: nagoya-u-course-0267
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0267-%E8%A8%80%E8%AA%9E%E6%96%87%E5%8C%96%E5%AD%A6%E6%96%B9%E6%B3%95%E8%AB%96a%EF%BC%9A%E8%A1%A8%E8%B1%A1%E3%81%AE%E9%A0%98%E5%9F%9F%E2%80%94%E6%99%AE%E9%81%8D%E7%9A%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E6%88%90%E7%AB%8B%E3%82%92%E5%B7%A1%E3%81%A3%E3%81%A6-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語文化学方法論a：表象の領域
+description:
+  ja: 表象をめぐる具体例と、その分析・考察の方法を扱う講義資料である。富士山や美人、病気、自然、不気味なものといった題材を通して、何がどのように表象されるかを検討する。公開教材として「富士山と浴場」「自分が知っている絵」の2件がある。
+quotedDescription:
+  text:
+    ja: 'われわれの身近にある事象を詳細に検討してみると、いったいどのような理由でわれわれに重要な意味を持つようになったのか不明な場合がある。 理由も分からず、愛でていたり、尊重していたりすることがある。そうした事象のひとつひとつの成り立ち、また意識に上る条件を、考察・検討してみる。そして、その表象を、自らまとめて互いにプレゼンテーションすることで、表象の確認作業をする。それは、PPT（PowerPoint）や
+      Keynote（Macintosh）というソフトウェアを使った発表を促し、いわば表象のルーツ探しの方法を探りかつそれを表象するセミナーである。参加型授業である。
+
+      イントロダクション。表象の具体的提示。ディスカッション。
+
+      分析と考察の方法論。ディスカッション。
+
+      典型的な日本文化を表象するものの例示。
+
+      「富士山」の表象するもの、表象されるもの。
+
+      「美人」という表象。
+
+      病気がもたらす美人像の変化。佳人薄命。現実と空想の狭間で。
+
+      「自然」の呪縛とそこからの解放。
+
+      「不気味なもの」の意味について。
+
+      「病気」とは何かの表象について。
+
+      まとめ。
+
+      講義資料
+
+      富士山と浴場
+
+      自分が知っている絵'
+  source: https://ocw.nagoya-u.jp/courses/0267-%E8%A8%80%E8%AA%9E%E6%96%87%E5%8C%96%E5%AD%A6%E6%96%B9%E6%B3%95%E8%AB%96a%EF%BC%9A%E8%A1%A8%E8%B1%A1%E3%81%AE%E9%A0%98%E5%9F%9F%E2%80%94%E6%99%AE%E9%81%8D%E7%9A%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E6%88%90%E7%AB%8B%E3%82%92%E5%B7%A1%E3%81%A3%E3%81%A6-2009/
+  note: 名大の授業 (NU OCW) 「講義目的」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 福田眞人
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 富士山と浴場
+  contentUrl: https://ocw.nagoya-u.jp/files/267/2009_fukuda_fuji.pdf
+  page: https://ocw.nagoya-u.jp/courses/0267-%E8%A8%80%E8%AA%9E%E6%96%87%E5%8C%96%E5%AD%A6%E6%96%B9%E6%B3%95%E8%AB%96a%EF%BC%9A%E8%A1%A8%E8%B1%A1%E3%81%AE%E9%A0%98%E5%9F%9F%E2%80%94%E6%99%AE%E9%81%8D%E7%9A%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E6%88%90%E7%AB%8B%E3%82%92%E5%B7%A1%E3%81%A3%E3%81%A6-2009/
+- name: 自分が知っている絵
+  contentUrl: https://ocw.nagoya-u.jp/files/267/2009_fukuda_shitteirue.pdf
+  page: https://ocw.nagoya-u.jp/courses/0267-%E8%A8%80%E8%AA%9E%E6%96%87%E5%8C%96%E5%AD%A6%E6%96%B9%E6%B3%95%E8%AB%96a%EF%BC%9A%E8%A1%A8%E8%B1%A1%E3%81%AE%E9%A0%98%E5%9F%9F%E2%80%94%E6%99%AE%E9%81%8D%E7%9A%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E6%88%90%E7%AB%8B%E3%82%92%E5%B7%A1%E3%81%A3%E3%81%A6-2009/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 後期
+  targetAudience: 国際言語文化研究科 日本言語文化専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

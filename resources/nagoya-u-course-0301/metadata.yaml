@@ -1,0 +1,84 @@
+slug: nagoya-u-course-0301
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: システム論の基礎
+description:
+  ja: システムの基本的な考え方を扱い、システム思考やシステムの見方としてトップダウンとボトムアップを取り上げる。あわせて、地球、生態、社会、経済、集団の各システムを例に、要素のつながりや関係を考える内容で構成される。
+quotedDescription:
+  text:
+    ja: システムとは、いくつかの要素が相互に密接に影響を及ぼしあい有機的につながっていて、まとまりや仕組みを形作って機能を発揮する集合体を言う。自然科学・社会科学・人文科学いずれの分野にも種々のシステムを見ることができる。本講義では、よく見られる代表的なシステムの例を取り上げながら、それらのシステムを分析し、システムを構成する要素間のつながり、結びつき、関係などを複眼的な視点で見ることによって、そのシステ
+  source: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐野充
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 環境学
+- 人文科学
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 授業の目的、ガイダンス、システムとは'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/sano1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+- name: '講義ノート: システム思考、システムの見方：トップダウンとボトムアップ'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/sano2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+- name: '講義ノート: システム原型１（応急措置の失敗、問題の転嫁）'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/sano3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+- name: '講義ノート: システムの例１ 地球システム'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/sano7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+- name: '講義ノート: システムの例２ 生態システム'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/yoda8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+- name: '講義ノート: システムの例３ 社会システム'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/maruyama9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+- name: '講義ノート: システムの例４ 経済システム'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/kuroda10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+- name: '講義ノート: システムの例５ 集団システム'
+  contentUrl: https://ocw.nagoya-u.jp/files/301/karasawa11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0301-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E-2011/
+extensions:
+  faculty: 環境学研究科
+  term: 前期
+  targetAudience: 情報文化学部2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

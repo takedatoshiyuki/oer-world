@@ -1,0 +1,91 @@
+slug: nagoya-u-course-0579
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 素粒子論と現代数学
+description:
+  ja: 本講義は、数学と物理学の関係を起点に、20世紀の物理学の展開をたどりながら、相対性理論、量子力学、ブラックホール物理学へと進む。さらに、素粒子物理学の標準模型関連と弦理論を取り上げ、現代数学とのつながりを扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 浜中真志
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 現代数学
+- 数理科学
+- ニュートン力学
+- トポロジー
+- 量子力学
+- 微分積分学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '参考資料: 素粒子論と現代数学'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/Agora2015ver2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 1. イントロダクション(数学と物理学)'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 2. 20 世紀の物理学'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 2.1 相対性理論'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/Agora2015_2-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 2.2 量子力学'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/2_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 2.3 ブラックホール物理学'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/2_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 3. 素粒子論と現代数学'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 3.1 素粒子物理学(標準模型関連)'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/3_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 3.2 弦理論と現代数学'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/3_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: '参考資料: 4. 参考文献・出典一覧'
+  contentUrl: https://ocw.nagoya-u.jp/files/579/kannmatsu.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+- name: 参考資料
+  contentUrl: http://www.math.nagoya-u.ac.jp/~hamanaka/hamanaka-3S15-01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0579-%E7%B4%A0%E7%B2%92%E5%AD%90%E8%AB%96%E3%81%A8%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6-2015/
+extensions:
+  faculty: 多元数理科学研究科
+  term: 公開講座
+  targetAudience: 高校生及び高校の教員、一般社会人
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

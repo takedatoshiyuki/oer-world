@@ -1,0 +1,93 @@
+slug: nagoya-u-course-0532
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会的行為と言語I
+description:
+  ja: この講義は、個人が言語やスタイルをどのように使い分けてコミュニケーション上の課題に対処するかを扱う。また、個々の言語活動が言語変化などのより大きな現象とどう結びつき、社会がそれにどう対応するかも扱う。公開教材には、多言語使用、方言、社会的変異、語用論、ポライトネス、談話、言語と文化などの項目が含まれる。
+quotedDescription:
+  text:
+    ja: 以下のトピックについて学びます。扱うトピックは、  1. 個々人がどのように異なる言語やスタイルを使い分け、コミュニケーションにおける課題を解決しているか、また  2. 個々人の言語活動が、言語変化などより大きなスケールでの現象とどのように結びつき、また社会はそれにどう対応していくのかという2つの問題に大きく分けることができます。授業中は、英語による議論への積極的参加が求められます。
+  source: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 淺尾仁彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 言語
+- G30
+- 授業の内容・方法
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: Introduction
+  contentUrl: https://ocw.nagoya-u.jp/files/532/asao_siryo1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: multilingualism
+  contentUrl: https://ocw.nagoya-u.jp/files/532/asao_siryo2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: pidgin and creole
+  contentUrl: https://ocw.nagoya-u.jp/files/532/asao_siryo3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: dialect
+  contentUrl: https://ocw.nagoya-u.jp/files/532/asao_siryo4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: social variation
+  contentUrl: https://ocw.nagoya-u.jp/files/532/1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: language change
+  contentUrl: https://ocw.nagoya-u.jp/files/532/asao_siryo6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: gender
+  contentUrl: https://ocw.nagoya-u.jp/files/532/2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: pragmatics
+  contentUrl: https://ocw.nagoya-u.jp/files/532/3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: politeness
+  contentUrl: https://ocw.nagoya-u.jp/files/532/asao_siryo9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: discourse
+  contentUrl: https://ocw.nagoya-u.jp/files/532/4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+- name: language and culture
+  contentUrl: https://ocw.nagoya-u.jp/files/532/asao_siryo11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0532-%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E7%82%BA%E3%81%A8%E8%A8%80%E8%AA%9EI-2015/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 前期
+  targetAudience: 文学部2年生以上他学部3年生以上可NUPACE学生履修可
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

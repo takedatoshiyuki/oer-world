@@ -1,0 +1,129 @@
+slug: nagoya-u-course-0149
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代数学への流れ
+description:
+  ja: 自然界の「数」に関わる現象を、数学的な論理として捉え直す考え方を扱う講義教材である。文系の研究対象にも数理的現象が関わることに触れ、現代数学の基本的な手法を通してその見方を示す内容である。
+quotedDescription:
+  text:
+    ja: 数学とは自然界における「数」に関わる現象をその背後にある数学的論理とともに人間が認識し抽象化し定式化したものである。そのようなことが可能であることも大きな驚きであるが、数学がわれわれの住む「自然」の中に組み込まれていることから、このような数理的現象が一見数学とは無関係な「文系」の研究対象においても、いろいろな形で結び付いていることはまた「自然」なことである。この講義では、現代数学の基本的な手法であ
+  source: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中西知樹
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 数学
+- 現代数学
+- 講義の目的と受講生の到達目標
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/hand1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '配布資料: 講義ノート'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 配布資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/hand4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '配布資料: 講義ノート'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: '講義ノート: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/149/exer10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/149/lect13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0149-%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%B8%E3%81%AE%E6%B5%81%E3%82%8C-2008/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

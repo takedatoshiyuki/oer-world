@@ -1,0 +1,55 @@
+slug: nagoya-u-course-0456
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0456-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3I-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: アカデミックプレゼンテーションI
+description:
+  ja: 名古屋大学の教養教育院が2014年に提供する、大学院生向けの通年講義である。担当はMark WEEKSで、使用言語は日本語と英語である。
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: Mark WEEKS
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 英語
+- 目的と目標
+- 履修条件あるいは関連科目等
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 教養教育院
+  term: 通年
+  targetAudience: 大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

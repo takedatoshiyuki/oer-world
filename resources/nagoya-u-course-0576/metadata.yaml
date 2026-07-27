@@ -1,0 +1,64 @@
+slug: nagoya-u-course-0576
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0576-%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96a-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第二言語習得研究概論a
+description:
+  ja: 第二言語習得における教室内外のインタラクションを、会話分析の方法論から扱う講義ノートである。会話分析の理論的背景と基本的な考え方を確認したうえで、日常会話の構造を分析するための切り口を示し、収集した会話データの分析につなげる。
+quotedDescription:
+  text:
+    ja: 教室内・外での言語習得のプロセスを理解するためには、教師と学習者、学習者と学習者、あるいは学習者と地域コミュニティの母語話者がどのようなインタラクションを行っているかを詳細に分析する必要があります。本概論では、そうした対人コミュニケーションのプロセスを分析するためのツールとして社会学の分野で確立された「会話分析」（Conversation
+      Analysis）の方法論について学びます。まず、会話分析の理論的背景や基本的な考え方を押さえたあと、日常会話の構造を分析するためのさまざまな切り口を紹介し、各自が収集した具体的な会話データを分析できる素地を養成します。
+  source: https://ocw.nagoya-u.jp/courses/0576-%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96a-2016/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 林誠
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 会話分析から見た第二言語習得研究'
+  contentUrl: https://ocw.nagoya-u.jp/files/576/hayashi.pdf
+  page: https://ocw.nagoya-u.jp/courses/0576-%E7%AC%AC%E4%BA%8C%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E7%A0%94%E7%A9%B6%E6%A6%82%E8%AB%96a-2016/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 前期
+  targetAudience: 大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

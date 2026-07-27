@@ -1,0 +1,84 @@
+slug: nagoya-u-course-0487
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0487-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6I-2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: 量子力学I
+description:
+  ja: 波動関数とシュレディンガー方程式を出発点に、1次元量子力学の基礎を扱う。さらに、ヒルベルト空間とエルミート演算子、演算子法、角運動量の量子化、3次元回転群の表現、3次元量子力学の中心力問題へと進む。
+quotedDescription:
+  text:
+    ja: 'はじめに
+
+      波動関数とシュレディンガー方程式
+
+      時間に依存しないシュレディンガー方程式
+
+      １次元量子力学
+
+      ヒルベルト空間とエルミート演算子
+
+      演算子法
+
+      角運動量の量子化: 球面調和関数
+
+      角運動量の量子化: ３次元回転群の表現
+
+      ３次元量子力学の中心力問題
+
+      基本的なシュレーディンガー方程式の解法、波動関数の確率解釈、演算子の性質を理解すること。'
+  source: https://ocw.nagoya-u.jp/courses/0487-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6I-2017/
+  note: 名大の授業 (NU OCW) 「授業の内容」・「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 棚橋誠治
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 物理
+- 量子力学
+- 波動関数
+- 量子化
+- 数学
+- ヒルベルト空間
+- 演算子
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 量子力学 Ⅰ(157 ページ)
+  contentUrl: https://ocw.nagoya-u.jp/files/487/qm1-17v3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0487-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6I-2017/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学部物理学科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

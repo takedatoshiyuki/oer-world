@@ -1,0 +1,74 @@
+slug: nagoya-u-course-0410
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0410-%E6%B0%B4%E3%81%AE%E7%92%B0%E5%A2%83%E5%AD%A6-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 水の環境学
+description:
+  ja: 水をめぐるテーマを、地球水循環、地域との関係、社会・制度・文化、世界の話題といった複数の観点から扱う講義である。理学、工学、社会科学の領域をまたぎ、オムニバス形式で講義を行う。公開教材には、講義要旨のほか、都市環境や水都再生、水に関する環境政策を扱う資料が含まれる。
+quotedDescription:
+  text:
+    ja: 「水の環境学」は体系理解科目として本学の環境学研究科教員を中心として、オムニバス形式にて講義を行います。理学、工学、社会科学の様々な領域から地球水循環、地域と水、社会・制度・文化と水、水に関する世界の話題など幅広く講義し、水に関する様々な知見を広げてもらい、各々の研究や生活の中での実践に反映させてもらうことを期待しています。
+  source: https://ocw.nagoya-u.jp/courses/0410-%E6%B0%B4%E3%81%AE%E7%92%B0%E5%A2%83%E5%AD%A6-2013/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 河村則行
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 環境学
+- 人文科学
+- 工学
+- 農学
+- 目的・ねらい
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 講義要旨'
+  contentUrl: https://ocw.nagoya-u.jp/files/410/lec_abst.pdf
+  page: https://ocw.nagoya-u.jp/courses/0410-%E6%B0%B4%E3%81%AE%E7%92%B0%E5%A2%83%E5%AD%A6-2013/
+- name: '講義ノート: 都市環境と水'
+  contentUrl: https://ocw.nagoya-u.jp/files/410/lec_no6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0410-%E6%B0%B4%E3%81%AE%E7%92%B0%E5%A2%83%E5%AD%A6-2013/
+- name: '講義ノート: 水都再生に向けて'
+  contentUrl: https://ocw.nagoya-u.jp/files/410/lec_no11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0410-%E6%B0%B4%E3%81%AE%E7%92%B0%E5%A2%83%E5%AD%A6-2013/
+- name: '講義ノート: 水に関する環境政策'
+  contentUrl: https://ocw.nagoya-u.jp/files/410/Lecture_13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0410-%E6%B0%B4%E3%81%AE%E7%92%B0%E5%A2%83%E5%AD%A6-2013/
+extensions:
+  faculty: 環境学研究科
+  term: 前期
+  targetAudience: 環境学研究科　前期課程
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

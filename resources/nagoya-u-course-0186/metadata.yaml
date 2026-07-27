@@ -1,0 +1,118 @@
+slug: nagoya-u-course-0186
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナーオペラの魔力とはなにか
+description:
+  ja: オペラを題材に、代表的な作品を取り上げながらグループで調査・討論し、発表とレポートにまとめる基礎セミナーである。作品に描かれる人間関係や感情を手がかりに、オペラの内容と登場人物の行動について考える。
+quotedDescription:
+  text:
+    ja: '基礎セミナー A(前期開講)と基礎セミナー B(後期開講)は関連するテーマを扱います。
+
+      基礎セミナーでは「大学生として自立した学習を行うために必要な、『読む』『書く』『話す』という能力を身につける」ことを目標にしている。この授業では、『オペラの魔力とは何か』をテーマに、文系の学生たちと理系の学生たちが討論や共同での調査をとおして、「人とは異なる視点を持つ」、「調べる」、「書く」、「討論する」、「発表する」能力を身につけ、自立的な学習能力をつける事を目指しています。
+      特に、「人は自分とは異なる意見を持ち、その意見を十分尊重した上で、自分の意見を述べることによって、そこから新しい世界が開ける」ことを実感して欲しいと思っています。また共同で調査し、討論することでチームワークの重要性を学ばせたいと思っています。
+
+      オペラは音楽、演劇、舞台芸術などが一体となった総合芸術であり、その内容は歴史や神話をはじめとして、多くの文学作品によるものが多く、人生で遭遇するあらゆることが作品に凝縮されています。この授業では、いくつかの代表的なオペラを取り上げ、その中で展開される人間模様、すなわち「恋」「愛」「喜び」「苦悩」「憎しみ」「嫉妬」「裏切り」「哀しみ」「背徳」など、人間の持つあらゆる感情に基づく行動について考えるとともに、音楽と結びつくことによって、それらの感情を強く訴えかけることが出来るのだということを体験して欲しいと思っています。さらに、その体験を通して、オペラとは何なのか考え、またオペラの登場人物の行動から、人間としてのあり方についても考えさせたいと思っています。
+
+      オペラとしては、これまで、ヴェルディ作曲「椿姫」「マクベス」、モーツアルト作曲「フィガロの結婚」「ドン・ジョバンニ」、プッチーニ作曲「ラ・ボエーム」「トスカ」、チャイコフスキー作曲「エフゲニー・オネーギン」、ビゼー作曲「カルメン」、ヨハン・シュトラウス作曲「こうもり」、オッフェンバック作曲「美しきエレーヌ」などを取り上げてきました。これらのオペラについて、4
+      人一組のグループで、調査・討論し、その結果をまとめさせて、パワーポイントにより発表させるとともに、その内容をレポートにまとめさせます。また、その結果に基づいて、全体での討論を行っています。'
+  source: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 一宮彪彦
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 音楽/美術/芸術
+- オペラ
+- 演劇
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: パワーポイントの作り方'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/pp.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: グループ発表コメント用紙'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/comment.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: 椿姫（La Traviata）'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: フィガロの結婚'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: ドン・ジョヴァンニ'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: カルメン'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: マクベス'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: 授業内容'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/B.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: トスカ'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: エフゲニー・オネーギン'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline3-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: 美しきエレーヌ'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: エフゲニー・オネーギンより'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: イル・トロヴァトーレ'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline1-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: ロメオとジュリエット'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: セヴィリアの理髪師'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+- name: '講義ノート: トゥーランドット'
+  contentUrl: https://ocw.nagoya-u.jp/files/186/outline6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0186-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%AA%E3%83%9A%E3%83%A9%E3%81%AE%E9%AD%94%E5%8A%9B%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-2010/
+extensions:
+  faculty: 教養教育院
+  term: 通年
+  targetAudience: 文系学部　情報文化学部（自然）理学部　農学部　工学部（I・II・III・IV系）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,85 @@
+slug: nagoya-u-course-0270
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 古代手工業生産史の考古学的研究
+description:
+  ja: 日本古代の手工業生産のうち、奈良時代の国分寺創建期における地方の造瓦組織を中心に、地域ごとのあり方を検討する教材である。あわせて、律令制の成立から変質、崩壊に至るなかで造瓦組織がどのように移り変わるかを扱う。公開されている講義ノートには、瓦の基礎事項、研究史、造瓦工房、各地域の国分寺瓦生産や官営瓦工房に関する回が含まれる。
+quotedDescription:
+  text:
+    ja: '日本古代の手工業生産について、おもに奈良時代における国分寺創建期の地方造瓦組織を題材として、その地域的諸様相を検討し、律令制の成立から変質、崩壊という過程において、どのような変遷を遂げていくかを論じる。
+
+      講義の目的としては、古代手工業生産に関する知識の取得ばかりでなく、本講義における担当者の研究手法を通して、受講者が自らの研究対象を深めていくにあたっての論理的思考や叙述能力を涵養することが望まれる。'
+  source: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 梶原義実
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 文学
+- 文献史学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: オリエンテーション・瓦について'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+- name: '講義ノート: 古代瓦に関する研究史'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara2-3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+- name: '講義ノート: 平瓦・丸瓦からみた造瓦工房'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+- name: '講義ノート: 西海道における国分寺の造瓦組織'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara5-7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+- name: '講義ノート: 山陽道諸国における平城宮系瓦の展開'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara8-9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+- name: '講義ノート: 東海地方における国分寺造瓦組織の研究'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara10-11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+- name: '講義ノート: 奈良時代における伊勢・伊賀・志摩の官営瓦工房'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+- name: '講義ノート: 国分寺瓦屋と瓦陶兼業窯'
+  contentUrl: https://ocw.nagoya-u.jp/files/270/Kajiwara13-15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0270-%E5%8F%A4%E4%BB%A3%E6%89%8B%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E5%8F%B2%E3%81%AE%E8%80%83%E5%8F%A4%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%94%E5%9B%BD%E5%88%86%E5%AF%BA%E7%93%A6%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E2%80%94-2009/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 後期
+  targetAudience: 文学部2年生以上
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

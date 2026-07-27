@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0255
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0255-%E6%A3%AE%E6%9E%97%E7%92%B0%E5%A2%83%E4%BA%BA%E9%96%93%E5%AD%A6-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 森林環境人間学
+description:
+  ja: '森林と人間社会の関係の変遷を取り上げ、生態系との共生や環境保全と利用のバランスを人間側の視点から考える講義である。公開教材としては「講義ノート: 森林バイオマス」が示されている。環境倫理の観点から森林観を見直し、生物環境科学におけるヒューマンファクターにも触れる。'
+quotedDescription:
+  text:
+    ja: 自然環境と生態系に育まれた人間社会が、その歴史の中で形成してきたアントロトープを概観し、生態系と人間社会の共生、あるいは環境保全と人間の利用のバランスを人間サイドの視点から総合的に捉えることを目的とする。
+      この講義では、森林と人間のかかわりあいの変遷を学び、近視眼的な経済性原理によって左右される森林観について環境倫理の視点からの理解を深める。そして、生物環境科学におけるヒューマンファクターの視
+  source: https://ocw.nagoya-u.jp/courses/0255-%E6%A3%AE%E6%9E%97%E7%92%B0%E5%A2%83%E4%BA%BA%E9%96%93%E5%AD%A6-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山田容三
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 環境学
+- 農学
+- 生物環境科学
+- 環境保全
+- 自然環境
+- 森林
+- 共生
+- 講義の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 森林バイオマス'
+  contentUrl: https://ocw.nagoya-u.jp/files/255/notes_yamada_6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0255-%E6%A3%AE%E6%9E%97%E7%92%B0%E5%A2%83%E4%BA%BA%E9%96%93%E5%AD%A6-2011/
+extensions:
+  faculty: 農学部／生命農学研究科
+  term: 後期
+  targetAudience: 農学部生物環境科学科3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

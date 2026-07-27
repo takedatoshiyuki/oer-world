@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0996
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0996-%E4%B8%80%E8%88%AC%E7%B5%8C%E6%B8%88%E5%8F%B2%E2%85%B0-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 一般経済史Ⅰ
+description:
+  ja: 名古屋大学の一般経済史Ⅰで使われる公開教材の1件で、第3回のテーマとしてグローバル・ヒストリーを扱う。教材としては、講義全体の中でその回の内容に対応する資料である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 木越 義則
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- グローバル・ヒストリー
+- 産業革命
+- 計量経済史
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 第３回 グローバル・ヒストリー
+  contentUrl: https://ocw.nagoya-u.jp/files/996/slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0996-%E4%B8%80%E8%88%AC%E7%B5%8C%E6%B8%88%E5%8F%B2%E2%85%B0-2025/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 秋学期
+  targetAudience: 経済学部１年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'この講義では、世界の経済の歴史を学ぶことによって、現代の世界経済が直面する諸課題を、学術的に分析できる基礎的能力を培う。
+
+      古代から現代に至る世界史を経済の動きから理解し、授業で得た知識と概念によって経済の歴史を説明できる。'
+  source: https://ocw.nagoya-u.jp/courses/0996-%E4%B8%80%E8%88%AC%E7%B5%8C%E6%B8%88%E5%8F%B2%E2%85%B0-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

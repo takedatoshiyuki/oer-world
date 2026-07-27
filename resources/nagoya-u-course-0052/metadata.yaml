@@ -1,0 +1,69 @@
+slug: nagoya-u-course-0052
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0052-%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E2-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: ロシア語2
+description:
+  ja: 発音の基礎からロシア語の文法体系へ進み、文章読解に必要な基本事項を学ぶ。あわせて、辞書を使いながら文章を理論的に分析する力を身につけることを目指す。
+quotedDescription:
+  text:
+    ja: この授業では、発音の仕方から始め、ロシア語の文法体系をきちんと、しかもできるだけ効率よく習得してゆき、文章読解などの際に必要不可欠となるロシア語の基本事項を学ぶことを主眼とします。そして、辞書を使いこなしつつ、自分の力で文章を理論的に分析していくことができるような能力を養い、言語に対する正確な作法というべきものを身につけてもらいます。これは、ロシア語の学習を将来も続け、ロシア語を実際に使用してゆくにあたっての第一歩であり、大切な基礎となるはずです。
+  source: https://ocw.nagoya-u.jp/courses/0052-%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E2-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: サヴェリエフ・イゴリ
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- ロシア語
+- 言語
+- 文法体系
+- 文法解説
+- 文法
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/52/lecturenotes.pdf
+  page: https://ocw.nagoya-u.jp/courses/0052-%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E2-2011/
+- name: 課題
+  contentUrl: https://ocw.nagoya-u.jp/files/52/assignments.pdf
+  page: https://ocw.nagoya-u.jp/courses/0052-%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E2-2011/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,62 @@
+slug: nagoya-u-course-0444
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0444-%E7%89%A9%E6%80%A7%E7%89%A9%E7%90%86%E5%AD%A6V%EF%BC%8F%E7%89%A9%E6%80%A7%E7%89%A9%E7%90%86%E7%89%B9%E8%AB%963-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物性物理学V／物性物理特論3
+description:
+  ja: 金属中の自由電子を扱う教材と、最新の研究を扱う教材の2件が公開されている。講義は名古屋大学の2014年度後期に開講された「物性物理学V／物性物理特論3」で、理学部物理学科4年生と理学研究科院生を対象とする。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 寺崎一郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 物理
+- 量子力学
+- 統計力学
+- 物性物理学
+- 半導体
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: 金属中の自由電子
+  contentUrl: https://ocw.nagoya-u.jp/files/444/bbvnote01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0444-%E7%89%A9%E6%80%A7%E7%89%A9%E7%90%86%E5%AD%A6V%EF%BC%8F%E7%89%A9%E6%80%A7%E7%89%A9%E7%90%86%E7%89%B9%E8%AB%963-2014/
+- name: 最新の研究
+  contentUrl: https://ocw.nagoya-u.jp/files/444/index.pdf
+  page: https://ocw.nagoya-u.jp/courses/0444-%E7%89%A9%E6%80%A7%E7%89%A9%E7%90%86%E5%AD%A6V%EF%BC%8F%E7%89%A9%E6%80%A7%E7%89%A9%E7%90%86%E7%89%B9%E8%AB%963-2014/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学部物理学科4年生/理学研究科院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

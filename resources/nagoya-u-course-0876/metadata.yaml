@@ -1,0 +1,85 @@
+slug: nagoya-u-course-0876
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会学概論（政策社会学史）
+description:
+  ja: 社会学の中でも政策社会学の歴史を扱う講義で、資本主義が生む孤立や貧困、同業組合、科学と政治の関係、社会調査にもとづく政策立案などを取り上げる。あわせて、戦争から福祉国家への流れ、福祉国家行政を支える社会学、福祉国家の危機、福祉社会とNPOまでを教材として並べている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 上村 泰裕
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 社会
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 資本主義が生んだ孤立と貧困
+  contentUrl: https://ocw.nagoya-u.jp/files/876/1%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%8C%E7%94%9F%E3%82%93%E3%81%A0%E5%AD%A4%E7%AB%8B%E3%81%A8%E8%B2%A7%E5%9B%B0.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 有機的連帯のための同業組合
+  contentUrl: https://ocw.nagoya-u.jp/files/876/2%E6%9C%89%E6%A9%9F%E7%9A%84%E9%80%A3%E5%B8%AF%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%90%8C%E6%A5%AD%E7%B5%84%E5%90%88.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 政策論議における科学と政治
+  contentUrl: https://ocw.nagoya-u.jp/files/876/3%E6%94%BF%E7%AD%96%E8%AB%96%E8%AD%B0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%A8%E6%94%BF%E6%B2%BB.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 上からの政策と下からの連帯
+  contentUrl: https://ocw.nagoya-u.jp/files/876/4%E4%B8%8A%E3%81%8B%E3%82%89%E3%81%AE%E6%94%BF%E7%AD%96%E3%81%A8%E4%B8%8B%E3%81%8B%E3%82%89%E3%81%AE%E9%80%A3%E5%B8%AF.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 社会調査に基づく政策立案
+  contentUrl: https://ocw.nagoya-u.jp/files/876/5%E7%A4%BE%E4%BC%9A%E8%AA%BF%E6%9F%BB%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E6%94%BF%E7%AD%96%E7%AB%8B%E6%A1%88.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 戦争から福祉国家への青写真
+  contentUrl: https://ocw.nagoya-u.jp/files/876/6%E6%88%A6%E4%BA%89%E3%81%8B%E3%82%89%E7%A6%8F%E7%A5%89%E5%9B%BD%E5%AE%B6%E3%81%B8%E3%81%AE%E9%9D%92%E5%86%99%E7%9C%9F.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 福祉国家行政を支える社会学
+  contentUrl: https://ocw.nagoya-u.jp/files/876/7%E7%A6%8F%E7%A5%89%E5%9B%BD%E5%AE%B6%E8%A1%8C%E6%94%BF%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E7%A4%BE%E4%BC%9A%E5%AD%A6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 福祉国家の危機と国際比較
+  contentUrl: https://ocw.nagoya-u.jp/files/876/8%E7%A6%8F%E7%A5%89%E5%9B%BD%E5%AE%B6%E3%81%AE%E5%8D%B1%E6%A9%9F%E3%81%A8%E5%9B%BD%E9%9A%9B%E6%AF%94%E8%BC%83.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+- name: 福祉社会と NPO の社会学
+  contentUrl: https://ocw.nagoya-u.jp/files/876/9%E7%A6%8F%E7%A5%89%E7%A4%BE%E4%BC%9A%E3%81%A8NPO%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AD%A6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 秋学期
+  targetAudience: 文学部２〜４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 社会学は社会問題をどのように捉え、どのような政策形成を支えてきたのか。また、社会問題と向き合うなかで、社会学自体はどのように形成されてきたのか。政策という観点から社会学の歴史を読み直し、古典を未来に活かす道を探りたいと思います。
+  source: https://ocw.nagoya-u.jp/courses/0876-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%A6%82%E8%AB%96%EF%BC%88%E6%94%BF%E7%AD%96%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%8F%B2%EF%BC%89-2022/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

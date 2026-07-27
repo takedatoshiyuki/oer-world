@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0307
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0307-%E5%AE%9F%E9%A8%93%E9%9F%B3%E5%A3%B0%E5%AD%A6%E5%9F%BA%E7%A4%8E-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 実験音声学基礎
+description:
+  ja: コンピューターを用いて音声を音響的に分析し、その結果から言語音声の性質を考える内容を扱う。音声の特徴抽出を通じて、人間の声の成り立ちや音の識別、発話における韻律的特徴を見ていく。公開教材として講義ノートがある。
+quotedDescription:
+  text:
+    ja: この授業は、コンピューターを用いて音声を音響的に分析し、その特徴を抽出する手法を習得することを目的とする。授業ではあらかじめ用意された音声を素材として分析を行い、その結果として得られる画像や数値から、人間の声の成り立ち、音と音を識別するための手がかり、連鎖による音の変容、発話における韻律的特徴など、言語音声の性質やそこに生じる現象について、音響の側面から理解を進めていく。参加者はテーマごとに理論面
+  source: https://ocw.nagoya-u.jp/courses/0307-%E5%AE%9F%E9%A8%93%E9%9F%B3%E5%A3%B0%E5%AD%A6%E5%9F%BA%E7%A4%8E-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 成田克史
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 文学
+- 情報学
+- 授業の目的および内容
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 実験音声学基礎'
+  contentUrl: https://ocw.nagoya-u.jp/files/307/lec_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0307-%E5%AE%9F%E9%A8%93%E9%9F%B3%E5%A3%B0%E5%AD%A6%E5%9F%BA%E7%A4%8E-2011/
+extensions:
+  faculty: 文学部／人文学研究科
+  term: 前期
+  targetAudience: 国際開発研究科 国際コミュニケーション専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0233
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0233-%E7%B5%B1%E8%A8%88%E8%A7%A3%E6%9E%90-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 統計解析
+description:
+  ja: 確率変数と確率分布に基づいて、母集団と標本の関係を整理する講義ノートである。一変量の統計的推測を扱い、母平均の推定と検定を中心に学ぶ内容になっている。
+quotedDescription:
+  text:
+    ja: 確率変数と確率分布の考え方に基づいて母集団と標本の関係を理解し、一変量の統計的推測の方法を習得する。特に、母平均に関する推定と検定の問題を軸に講義を進める。
+  source: https://ocw.nagoya-u.jp/courses/0233-%E7%B5%B1%E8%A8%88%E8%A7%A3%E6%9E%90-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 根本二郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 数学
+- 経済学/経営学
+- 中心極限定理
+- 確率変数
+- 統計解析
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノート（第 1 回分）
+  contentUrl: https://ocw.nagoya-u.jp/files/233/note1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0233-%E7%B5%B1%E8%A8%88%E8%A7%A3%E6%9E%90-2011/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 前期
+  targetAudience: 経済学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

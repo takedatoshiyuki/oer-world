@@ -1,0 +1,107 @@
+slug: nagoya-u-course-0921
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: アカデミック日本語１B
+description:
+  ja: 日本語の発音やイントネーションに慣れる短文聴解から、教科書本文の内容理解、語彙・文法の学習までを扱う。さらに、テーマ設定から資料・スクリプト作成、質疑応答を含む発表、1分間スピーチへとつなげていく。公開教材には、自己紹介や各種トピックを扱う12件のファイルが含まれる。
+quotedDescription:
+  text:
+    ja: '日本語の発音やイントネーションに慣れる。（短文聴解）
+
+      教科書：内容を理解する。新しい単語や文法表現を学ぶ。（長文聴解）
+
+      1 分間スピーチ：テーマに沿って、自分で考えた後、グループでディスカッションし、その後、短いスピーチを行う。
+
+      発表：指定されたカテゴリーの中で、テーマを決める。資料やスクリプトを作成する。研究室や学会を想定した場面に沿う。質疑応答も行う。
+
+      期末試験：スクリプト、資料、ディスカッション等準備を経て、発表。
+
+      宿題：長文聴解（TACT で行う。）・発表の資料やスクリプト等。'
+  source: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 関口 美緒
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 日本語
+- 言語
+- G30
+- 授業目的
+- 本授業の英語ページはこちら：
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: プレゼンテーションって何？
+  contentUrl: https://ocw.nagoya-u.jp/files/921/P1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: プレゼンテーションの基本表現
+  contentUrl: https://ocw.nagoya-u.jp/files/921/P2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 富士山
+  contentUrl: https://ocw.nagoya-u.jp/files/921/L1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 隠れキリシタン
+  contentUrl: https://ocw.nagoya-u.jp/files/921/L2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: ゴリラの食事
+  contentUrl: https://ocw.nagoya-u.jp/files/921/L3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 東京の温泉
+  contentUrl: https://ocw.nagoya-u.jp/files/921/L4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 信号
+  contentUrl: https://ocw.nagoya-u.jp/files/921/L5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 自己紹介
+  contentUrl: https://ocw.nagoya-u.jp/files/921/S1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 無人島
+  contentUrl: https://ocw.nagoya-u.jp/files/921/S2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 歳をとったら
+  contentUrl: https://ocw.nagoya-u.jp/files/921/S3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: インターネットがなかったら
+  contentUrl: https://ocw.nagoya-u.jp/files/921/S4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+- name: 春休みに行きたいところ
+  contentUrl: https://ocw.nagoya-u.jp/files/921/S5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0921-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%91B-2023/
+extensions:
+  faculty: G30
+  term: 秋学期
+  targetAudience: G30 １〜４年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

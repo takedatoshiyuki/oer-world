@@ -1,0 +1,93 @@
+slug: nagoya-u-course-0869
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代の量子論
+description:
+  ja: 現代の量子論を扱う名古屋大学の集中講義で、2021年に教養教育院が開講した。他大学向けに行われ、情報学・理学・工学の3、4年生と博士前期課程の院生を対象とする。公開教材には複数回分の課題と課題解答例が含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 谷村 省吾
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- generic
+keywords:
+- 数学
+- ニュートン力学
+- 量子力学
+- ヒルベルト空間
+- コーシー
+- 微分積分学
+- 物理現象
+- 演算子
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '課題: 集中講義 2021-1'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: '課題: 集中講義 2021-2'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: '課題: 集中講義 2021-3'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: '課題: 集中講義 2021-4'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: '課題: 集中講義 2021-6'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: '課題: 集中講義 2021-7'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: '課題: 集中講義 2021-8'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: '課題: 集中講義 2021-9'
+  contentUrl: https://ocw.nagoya-u.jp/files/869/slide9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: 課題 1-5
+  contentUrl: https://ocw.nagoya-u.jp/files/869/task1-5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: 課題 4 マーミンの魔法陣
+  contentUrl: https://ocw.nagoya-u.jp/files/869/task4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+- name: 課題解答例
+  contentUrl: https://ocw.nagoya-u.jp/files/869/task_answer.pdf
+  page: https://ocw.nagoya-u.jp/courses/0869-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96-2022/
+extensions:
+  faculty: 教養教育院
+  term: 集中講義
+  targetAudience: 他大学向け集中講義(情報学部・情報学研究科、理学部・理学研究科、工学部・工学研究科の3、4年生、院生(博士前期課程))
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

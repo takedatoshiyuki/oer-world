@@ -1,0 +1,107 @@
+slug: nagoya-u-course-0132
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+type:
+- LearningResource
+- Course
+name:
+  ja: トポロジー特論-I
+description:
+  ja: 圏の分類空間や単体集合の幾何学的実現をはじめ、極限・余極限、随伴関手、ホモトピー群、写像繊維、長完全系列を扱う講義資料である。さらに、有限群の分類空間や弱同値、Serreファイブレーションとコファイブレーション、Quillenのモデル圏、ホモトピー圏、Quillen関手までを含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: ヘッセルホルト・ラース
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- Theorem
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '課題: Problem set 1.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/ps1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '課題: Problem set 2.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/ps2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: The classifying space of a category.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: The geometric realization of a simplicial set.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Limits and colimit; filtered colimits and finite limits commute.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Adjoint functors, limits and colimits.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Characterizing the geometric realization by maps from it.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Geometric realization preserves finite products; k-spaces.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Homotopy groups; mapping fiber; long-exact sequence.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: The classifying space of a finite group.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Weak equivalences, Serre fibrations, Serre cofibrations; Quillen model categories.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: The homotopy category; Quillen functors.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Reedy model structure on the category of simplicial spaces; geometric realization is a
+    left Quillen functor.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Bi-simplicial sets and their geometric realization; geometric realization and weak equivalences;
+    Quillen''s m A an'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Algebraic K-theory.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: The additivity theorem.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+- name: '講義ノート: Hochschild homology of a ringoid: An introduction.'
+  contentUrl: https://ocw.nagoya-u.jp/files/132/lecture15.pdf
+  page: https://ocw.nagoya-u.jp/courses/0132-%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E7%89%B9%E8%AB%96-I-2008/
+extensions:
+  faculty: 多元数理科学研究科
+  targetAudience: 多元数理科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,77 @@
+slug: nagoya-u-course-0440
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0440-%E5%BF%9C%E7%94%A8%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%89%B9%E6%AE%8A%E7%A0%94%E7%A9%B6b-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 応用言語学特殊研究b
+description:
+  ja: 日本語の形式名詞と複合動詞を手がかりに、日本語の語彙と文法の関係を扱う教材である。あわせて、意味論と統語論の接点にも触れ、これらの観点をめぐる議論を促す内容になっている。
+quotedDescription:
+  text:
+    ja: 日本語の形式名詞や複合動詞の特質を観察することにより、日本語における語彙と文法の接点、さらには意味論と統語論の接点について、受講者の方たちと議論を深めたいと思います。
+  source: https://ocw.nagoya-u.jp/courses/0440-%E5%BF%9C%E7%94%A8%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%89%B9%E6%AE%8A%E7%A0%94%E7%A9%B6b-2014/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 奥田智樹
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 文法
+- 語彙
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 日本語の形式名詞の諸相'
+  contentUrl: https://ocw.nagoya-u.jp/files/440/keisiki.pdf
+  page: https://ocw.nagoya-u.jp/courses/0440-%E5%BF%9C%E7%94%A8%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%89%B9%E6%AE%8A%E7%A0%94%E7%A9%B6b-2014/
+- name: '講義ノート: 日本語の複合動詞研究の諸相'
+  contentUrl: https://ocw.nagoya-u.jp/files/440/hukugou.pdf
+  page: https://ocw.nagoya-u.jp/courses/0440-%E5%BF%9C%E7%94%A8%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%89%B9%E6%AE%8A%E7%A0%94%E7%A9%B6b-2014/
+- name: '講義ノート: 形式名詞関連 [2011 年度後期]'
+  contentUrl: https://ocw.nagoya-u.jp/files/440/keishiki_meishi_2011.pdf
+  page: https://ocw.nagoya-u.jp/courses/0440-%E5%BF%9C%E7%94%A8%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%89%B9%E6%AE%8A%E7%A0%94%E7%A9%B6b-2014/
+- name: '講義ノート: 複合動詞関連 [2013 年度後期]'
+  contentUrl: https://ocw.nagoya-u.jp/files/440/fukugo_doshi_2013.pdf
+  page: https://ocw.nagoya-u.jp/courses/0440-%E5%BF%9C%E7%94%A8%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%89%B9%E6%AE%8A%E7%A0%94%E7%A9%B6b-2014/
+- name: '講義ノート: 複合動詞関連 2 [2014 年度後期]'
+  contentUrl: https://ocw.nagoya-u.jp/files/440/fukugo_doshi_2014.pdf
+  page: https://ocw.nagoya-u.jp/courses/0440-%E5%BF%9C%E7%94%A8%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%89%B9%E6%AE%8A%E7%A0%94%E7%A9%B6b-2014/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 後期
+  targetAudience: 大学院生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

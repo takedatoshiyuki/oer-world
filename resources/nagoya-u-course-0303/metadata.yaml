@@ -1,0 +1,59 @@
+slug: nagoya-u-course-0303
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0303-%E5%A4%9A%E5%85%83%E6%AF%94%E8%BC%83%E8%A1%A8%E8%B1%A1%E8%AB%96ab-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 多元比較表象論ab
+description:
+  ja: 名古屋大学で2011年に開講された「多元比較表象論ab」の講義ノートで、題名は「印刷革命：第2章：拡散と標準化」である。教材として公開されているのはこの1件の講義ノートで、通年開講の授業に関連する内容を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 鈴木繁夫
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 心理学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 印刷革命：第 2 章：拡散と標準化'
+  contentUrl: https://ocw.nagoya-u.jp/files/303/lec_note.pdf
+  page: https://ocw.nagoya-u.jp/courses/0303-%E5%A4%9A%E5%85%83%E6%AF%94%E8%BC%83%E8%A1%A8%E8%B1%A1%E8%AB%96ab-2011/
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  term: 通年
+  targetAudience: 国際言語文化研究科 国際多元文化専攻
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

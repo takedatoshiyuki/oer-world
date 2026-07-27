@@ -1,0 +1,79 @@
+slug: nagoya-u-course-0682
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナーA
+description:
+  ja: 思い込みや第一印象を扱う教材に加え、NASAゲームや水平思考ゲーム、社説比較の講義ノートを収録する。問題文、解答用紙、解説が分かれている教材もあり、授業内で扱う活動とその振り返りを含む構成になっている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 江頭智宏
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 経済学/経営学
+- 大学教育
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 思い込みについての質問'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture3-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+- name: '講義ノート: 第一印象ゲーム'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture3-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+- name: '講義ノート: 第一印象ゲーム・解説'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture3-4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+- name: '講義ノート: NASA ゲーム・問題文'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture5-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+- name: '講義ノート: NASA ゲーム・解答用紙'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture5-2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+- name: '講義ノート: NASA ゲーム・解説'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture5-3-re.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+- name: '講義ノート: 水平思考ゲーム'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture7-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+- name: '講義ノート: 社説比較'
+  contentUrl: https://ocw.nagoya-u.jp/files/682/lecture9to11-1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0682-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCa-2017-2020/
+extensions:
+  faculty: 教養教育院
+  term: 前期
+  targetAudience: 文系・情(自然・コン)・理・農・工(化生・物工・マテ・電情・エネ) 1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

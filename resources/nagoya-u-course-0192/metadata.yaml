@@ -1,0 +1,87 @@
+slug: nagoya-u-course-0192
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 発達障害治療学及び実習
+description:
+  ja: 'この教材は、発達期に障害のある子どもを対象にした作業療法の理論と実践を扱う。講義では実際のビデオをもとに障害特性を学び、実習では評価、課題整理、作業療法計画の立案までを進める。
+
+
+    公開教材には課題資料と講義ノートが含まれており、広汎性発達障害の評価と治療も扱う。対象は医学部保健学科3年で、後期開講の授業である。'
+quotedDescription:
+  text:
+    ja: 本授業は，18 歳未満の発達期になんらかの障害をもった子どもたちが乳幼児期から成人，老年期に至るまでの作業療法の治療理論と技術を学習し，身につけることを目指しています．病気や事故から生じた障害と共に，子どもたちが自分らしく社会と共生しながら，自己実現できるような支援体制の中で，子どもたちにとって意味のある作業活動(例えば，日常生活活動，遊び，趣味，学習，買い物，レジャーなど)を手段として作業療法を実施します．また，さまざまな障害により身体機能，心理機能が環境との関係性から上手く機能しなくなる要因を科学的に分析し，機能を回復する治療や発達を促す援助，回復した機能をベースにしてより良く環境に適応するための活動や参加の方策を考え出すための理論と技術を学びます．講義では，発達障害をもつ子どもたちの実際のビデオをもとに疾患ごとに障害の特性を学びます．実習では発達障害をもつ子どもの活動制限の様子をビデオから理解し，学生ひとりひとりが適切な評価を実施します．そして実習後のディスカッションを通じて，治療または支援が必要となる課題を整理し，作業療法計画(治療計画や支援計画)を立案するまでを学びます．つまり，作業療法学が実践学であることを知るための扉を叩く授業といえます．
+  source: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 辛島千恵子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- health_welfare
+keywords:
+- 医学/薬学
+- 心理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '課題: 資料 1'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/data_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+- name: '課題: 資料 2'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/data_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+- name: '課題: 資料 3'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/data_3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+- name: '課題: 資料 4'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/data_4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+- name: '課題: 資料 5'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/data_5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+- name: '課題: 資料 6'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/data_6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+- name: '課題: 資料 7'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/data_7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+- name: '講義ノート: 広汎性発達障害・評価と治療'
+  contentUrl: https://ocw.nagoya-u.jp/files/192/lecture_notes.pdf
+  page: https://ocw.nagoya-u.jp/courses/0192-%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E6%B2%BB%E7%99%82%E5%AD%A6%E5%8F%8A%E3%81%B3%E5%AE%9F%E7%BF%92-2009/
+extensions:
+  faculty: 医学部／医学系研究科
+  term: 後期
+  targetAudience: 医学部保健学科3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,129 @@
+slug: nagoya-u-course-0023
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナー民法の世界で遊ぶ
+description:
+  ja: 少人数グループで役割を交替しながら進める民法の講義である。BBSやメールを使った事前の意見交換と相談を通じて、授業での主張の準備を行う内容になっている。公開教材には、プレゼン資料や事件名を付した講義ノートが含まれる。
+quotedDescription:
+  text:
+    ja: 受講生は少人数ののグループに分かれ、原告役・被告役・裁判官役を交替で務めます。自分の役割を果たすために、事前に BBS などを利用してグループ内で意見交換をし、また、メールで先生に作戦の相談をし、授業でどのような主張を展開するのかを準備します。みんなで助け合って情報を収集し説得のしかたを考えるうちに、参加者全員が自然に発表・司会・ディベートの能力を身につけ、議論を楽しめるようになります。
+  source: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 千葉恵美子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 基礎セミナー
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 夏休みの課題についてのプレゼン 1
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1014.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: 夏休みの課題についてのプレゼン 2
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1021.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: 夏休みの課題についてのプレゼン 3
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1028.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: 夏休みの課題についてのプレゼン 4
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1111.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: 夏休みの課題についてのプレゼン 5
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1118_1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: ウルトラマン事件第 1 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0520.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: ウルトラマン事件第 2 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0527.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: ウルトラマン事件第 3 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0603.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: ウルトラマン事件第 4 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0610.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: ウルトラマン事件第 5 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0617.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: ウルトラマン事件第 6 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0624.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: カフェ丸玉ホステス事件第 1 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0701.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: カフェ丸玉ホステス事件第 2 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0708.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: ノートの取り方について'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/0715.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: レインメーカー事件第 1 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1118_2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: レインメーカー事件第 2 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1125.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '講義ノート: レインメーカー事件第 3 回'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/1202.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '課題: ウルトラマン事件'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/assignments01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '課題: 情報の検索'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/assignments02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '課題: カフェ丸玉ホステス事件'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/assignments03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '課題: 映画の中から法律問題を探る'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/assignments04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '課題: レインメーカー事件'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/assignments05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+- name: '課題: 離婚事件'
+  contentUrl: https://ocw.nagoya-u.jp/files/23/assignments06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0023-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%B0%91%E6%B3%95%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E9%81%8A%E3%81%B6-2003/
+extensions:
+  faculty: 教養教育院
+  term: 通年
+  targetAudience: 文学部、教育学部、経済学部、法学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

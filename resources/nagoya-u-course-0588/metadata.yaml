@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0588
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0588-%E8%A4%87%E9%9B%91%E7%B3%BB%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E2%85%A1-2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 複雑系科学実験Ⅱ
+description:
+  ja: 名古屋大学の情報文化学部3年向け後期科目として開講された「複雑系科学実験Ⅱ」の教材群である。公開ファイルには、科目本体の教材に加えて、NetLogo の基礎とネットワーク科学に関する資料が含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 鈴木麗璽 准教授, 青木摂之 准教授, 吉田久美
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- ict
+keywords:
+- 情報学
+- バイオインフォマティクス
+- 工学
+- 目的・ねらい：
+- 授業の工夫：
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 複雑系科学実験 II
+  contentUrl: https://ocw.nagoya-u.jp/files/588/intro_suzuki.pdf
+  page: https://ocw.nagoya-u.jp/courses/0588-%E8%A4%87%E9%9B%91%E7%B3%BB%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E2%85%A1-2016/
+- name: NetLogo の基礎
+  contentUrl: https://ocw.nagoya-u.jp/files/588/netlogo_intro.pdf
+  page: https://ocw.nagoya-u.jp/courses/0588-%E8%A4%87%E9%9B%91%E7%B3%BB%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E2%85%A1-2016/
+- name: NetLogo でネットワーク科学
+  contentUrl: https://ocw.nagoya-u.jp/files/588/netlogo_network.pdf
+  page: https://ocw.nagoya-u.jp/courses/0588-%E8%A4%87%E9%9B%91%E7%B3%BB%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93%E2%85%A1-2016/
+extensions:
+  faculty: 情報文化学部
+  term: 後期
+  targetAudience: 情報文化学部3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

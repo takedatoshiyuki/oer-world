@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0125
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0125-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%90%84%E8%AB%96-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物学各論
+description:
+  ja: 植物を中心に、生殖、遺伝、発生の分子機構を扱い、細胞間コミュニケーションに関わるシグナリング分子に注目する講義である。細胞間シグナリング分子の発見の経緯も取り上げ、仕組みの理解を通して多細胞生物の進化的背景まで考察する。
+quotedDescription:
+  text:
+    ja: '植物を中心に生殖、遺伝、発生の分子機構について講義を行う。特に細胞間のコミュニケーションを担うシグナリング分子に着目することで、幅広く生物界を俯瞰する。
+
+      バクテリアから高等動植物に至るまで、個々の細胞は、他の細胞とコミュニケーションをとることで、生命の営みを維持している。それは細胞の増殖の協調や、細胞の出会い、位置情報や生理情報の交換といった、様々な局面で見られる。本講義では、特に細胞間シグナリング分子が発見されてきた経緯については詳しく紹介する。最終的には、細胞間シグナリングの様々な仕組みを理解することで、現在の多細胞生物を生み出してきた進化的背景についても考察したい。'
+  source: https://ocw.nagoya-u.jp/courses/0125-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%90%84%E8%AB%96-2011/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 東山哲也
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- natural_sciences_math
+keywords:
+- 生物
+- 増殖
+- 分子機構
+- 遺伝
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 花粉管のガイダンス(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/125/bio.pdf
+  page: https://ocw.nagoya-u.jp/courses/0125-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%90%84%E8%AB%96-2011/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 前期
+  targetAudience: 理学部生命理学科3年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

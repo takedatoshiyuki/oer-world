@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0436
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0436-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E2%88%92%E9%A3%9F%E3%81%A8%E5%81%A5%E5%BA%B7-2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎セミナー−食と健康
+description:
+  ja: 食と健康に関する基本テーマを扱い、その中から受講生がサブテーマを選んで調査する形式の講義である。選んだテーマについて、図書・文献・インターネット等を使って調べ、内容をまとめて発表資料と要旨を作成する。最後にパワーポイントで発表し、質疑応答を行う。
+quotedDescription:
+  text:
+    ja: '基本テーマについて説明を行い、複数のサブテーマを学生に伝える。
+
+      受講生に、基本的にサブテーマの中から自分のサブテーマを選択させる。
+
+      受講生は、図書、文献、インターネット等を利用して、選択したテーマについて調査・学習する。
+
+      調査内容をまとめて、発表のための資料をパワーポイントで作成する。また、その要旨も作成する。
+
+      受講生はパワーポイントを用いて、他の学生に対してプレゼンテーションする。続いて、質疑に対して応答 する。
+
+      教員は、発表および質疑応答について助言を行う。'
+  source: https://ocw.nagoya-u.jp/courses/0436-%E5%9F%BA%E7%A4%8E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E2%88%92%E9%A3%9F%E3%81%A8%E5%81%A5%E5%BA%B7-2014/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 下村吉治
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 医学/薬学
+- 基礎セミナー
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 農学部文系学部情報文化学部(自然)理学部工学部(II,III,IV系)
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

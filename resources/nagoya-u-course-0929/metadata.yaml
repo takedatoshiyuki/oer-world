@@ -1,0 +1,60 @@
+slug: nagoya-u-course-0929
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0929-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E7%AB%A0%E8%A1%A8%E7%8F%BE%E6%B3%95-2023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本語文章表現法
+description:
+  ja: 日本語で文章を書くための表現法を扱う講義である。公開教材として、スライドとワークシート付きのスライドが用意されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐藤 弘毅
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- slide
+about:
+- generic
+keywords:
+- 日本語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: スライド
+  contentUrl: https://ocw.nagoya-u.jp/files/929/slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0929-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E7%AB%A0%E8%A1%A8%E7%8F%BE%E6%B3%95-2023/
+- name: 'スライド: ワークシート'
+  contentUrl: https://ocw.nagoya-u.jp/files/929/worksheet.pdf
+  page: https://ocw.nagoya-u.jp/courses/0929-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E7%AB%A0%E8%A1%A8%E7%8F%BE%E6%B3%95-2023/
+extensions:
+  faculty: 教養教育院
+  term: 春学期
+  targetAudience: 文系全般, 理系全般, 言語教育センター日本語・日本文化研修生、名古屋大学短期交換留学プログラム（NUPACE）生など
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

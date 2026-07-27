@@ -1,0 +1,108 @@
+slug: nagoya-u-course-0978
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 労働経済B
+description:
+  ja: 労働経済の内容を扱う講義で、名古屋大学の経済学部・経済学研究科向けに春学期に開講される。公開教材には、労働市場における貿易、職の創出、賃金決定、定常状態均衡、技術進歩、異質な職や企業などの項目が含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 工藤 教孝
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 経済学/経営学
+- サーチ理論
+- 技術進歩
+- 格差
+- 英語ページ：
+- Labor Economics B
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: Introduction
+  contentUrl: https://ocw.nagoya-u.jp/files/978/01_Introduction.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Trade In The Labor Market
+  contentUrl: https://ocw.nagoya-u.jp/files/978/02_slide.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Job Creation
+  contentUrl: https://ocw.nagoya-u.jp/files/978/03_JobCreation.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Workers
+  contentUrl: https://ocw.nagoya-u.jp/files/978/04_Workers.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Wage Determination
+  contentUrl: https://ocw.nagoya-u.jp/files/978/05_WageDetermination.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Steady State Equilibrium
+  contentUrl: https://ocw.nagoya-u.jp/files/978/06_SteadyStateEquilibrium.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Numerical
+  contentUrl: https://ocw.nagoya-u.jp/files/978/07_Numerical.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Technological Progress
+  contentUrl: https://ocw.nagoya-u.jp/files/978/08_TechnologicalProgress.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Heterogeneous Jobs
+  contentUrl: https://ocw.nagoya-u.jp/files/978/09_HeterogeneousJobs.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: LaborShare
+  contentUrl: https://ocw.nagoya-u.jp/files/978/10_LaborShare.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: FirmEntry
+  contentUrl: https://ocw.nagoya-u.jp/files/978/11_FirmEntry.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Heterogeneous Firms
+  contentUrl: https://ocw.nagoya-u.jp/files/978/12_HeterogeneousFirms.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+- name: Heterogeneous Workers
+  contentUrl: https://ocw.nagoya-u.jp/files/978/13_HeterogeneousWorkers.pdf
+  page: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+extensions:
+  faculty: 経済学部／経済学研究科
+  term: 春学期
+  targetAudience: 経済学部・経済学研究科、大学院生（博士前期課程・博士後期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: 'This course is designed for 2nd year graduate students to build their research ability in the
+      field of macro-labor economics. The course focuses on the long-run labor market issues such as (1)
+      technological progress and unemployment; and (2) wage inequality. The goal is to catch up with the
+      frontier of research on the aggregate labor market.
+
+      After this course, students should be able to (1) understand the frontier of research in the field
+      of growth and inequality; (2) write their own computer codes to replicate existing quantitative
+      results found in professional articles; and (3) design their own research.'
+  source: https://ocw.nagoya-u.jp/courses/0978-%E5%8A%B4%E5%83%8D%E7%B5%8C%E6%B8%88b-2025/
+  note: 名大の授業 (NU OCW) 「授業の目的」・「到達目標」より（同サイトの利用条件に基づく転載）

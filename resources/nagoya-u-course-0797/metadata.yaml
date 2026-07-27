@@ -1,0 +1,63 @@
+slug: nagoya-u-course-0797
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0797-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%AE%9F%E9%A8%93-2021/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物学実験
+description:
+  ja: 名古屋大学の教養教育院が2020年度に開講した「生物学実験」で、塚田祐基が担当する。対象はG30と理学部1年生で、前期の火曜3・4限に実施される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 塚田 祐基
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 生物
+- 植物細胞
+- 生命現象
+- メダカ
+- G30
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教養教育院
+  term: 前期火曜3，4限
+  targetAudience: G30, 理学部1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
+quotedDescription:
+  text:
+    ja: '本授業科目は，自然科学系分野の学問体系を認識するとともに，自主的判断能力を培うことが目的である。
+
+      本実習は、動物、植物および微生物の取り扱い方法、観察方法、実験観察 器具の操作法などをそれぞれ修得すると共に、肉眼や顕微鏡による多様な生物の観察、解剖、実験を通して、生物の構造と機能についての基礎的な理解を得ることを目的とする。またそれにより、構造や機能と遺伝子の関係を学び、観察の学問であった
+      古典生物学から分子的理解を追求する近代生物学への流れを理解することを目標とする。'
+  source: https://ocw.nagoya-u.jp/courses/0797-%E7%94%9F%E7%89%A9%E5%AD%A6%E5%AE%9F%E9%A8%93-2021/
+  note: 名大の授業 (NU OCW) 「授業の目的」より（同サイトの利用条件に基づく転載）

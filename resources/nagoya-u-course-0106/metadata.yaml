@@ -1,0 +1,102 @@
+slug: nagoya-u-course-0106
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語（コミュニケーション）
+description:
+  ja: 英語劇を中心に、シナリオ作りやセリフの暗唱を通じて英語を発信する練習を行う教材である。あわせて、グループで劇を作り上げる活動を通じて、協力して進める学習の流れも扱う。
+quotedDescription:
+  text:
+    ja: この授業では英語劇を行います。シナリオ作りやセリフの暗唱などを通じて、能動的に英語を発信する技能を磨きます。英語を話すことに慣れ、豊かな表現能力を養うとともに、グループで協力してひとつの劇を作り上げることで協調性と創造力を伸ばすことが、この授業の目的です。
+  source: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松下千雅子
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- generic
+keywords:
+- 英語
+- 言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義ノート: 「Animal Panic!」'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/Animal_Panic.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect3.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect4.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect5.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect6.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect7.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect8.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect9.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+- name: '講義ノート: 講義資料'
+  contentUrl: https://ocw.nagoya-u.jp/files/106/lect13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0106-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2018/
+extensions:
+  faculty: 教養教育院
+  term: 後期
+  targetAudience: 文学部／農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

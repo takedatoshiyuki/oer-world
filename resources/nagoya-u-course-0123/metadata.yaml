@@ -1,0 +1,124 @@
+slug: nagoya-u-course-0123
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報デバイス工学特論
+description:
+  ja: 情報処理に利用される電子デバイスの役割と、CMOSテクノロジーの動向を扱う講義である。CMOSデバイスの構造と動作原理を基礎から復習し、CMOS集積回路の設計法まで学ぶ内容になっている。公開教材には、CMOSFETの特性、基本回路、シミュレーション技術、演習問題、レポート問題が含まれる。
+quotedDescription:
+  text:
+    ja: 1. 情報処理に利用される電子デバイスの役割と、最新のCMOSテクノロジーの動向を把握する。  2. CMOSデバイスの構造と動作原理を基礎から復習し、素子の動作を明確に理解する。  3.
+      CMOS集積回路の設計法を学ぶ。
+  source: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中里和郎
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+- assessment
+about:
+- engineering
+keywords:
+- 工学
+- 電子回路工学
+- 半導体
+- 授業の目的とねらい
+- CMOS 集積回路の設計法を学ぶ。
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '課題: 情報デバイス特論演習 設計ルール'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/design.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '課題: 情報デバイス特論レポート問題 CMOS 基本回路 60 選'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_report.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '課題: 例題 1 CMOS インバーターの解析'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_Example1.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '課題: 例題 2 Schmitt trigger 回路の解析'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_Example2.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '課題: 演習問題'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_practice.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS 集積回路概観'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note01.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOSFET の基本特性'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note02.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: Mathematica による CMOSFET の基本特性計算'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/MOSusingMATHEMATICA.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOSFET の更に進んだ特性'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note03.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS 基本特性とシミュレーション技術'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note04.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS 基本回路(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note05.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS 基本回路(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note06.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS ロジック集積回路(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note07.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS ロジック集積回路(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note08.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: 伝送路による信号伝達'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note09.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS アナログ集積回路(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note10.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS アナログ集積回路(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note11.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS スイッチトキャパシタ集積回路'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note12.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS メモリ集積回路(1)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note13.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+- name: '講義ノート: CMOS メモリ集積回路(2)'
+  contentUrl: https://ocw.nagoya-u.jp/files/123/r_note14.pdf
+  page: https://ocw.nagoya-u.jp/courses/0123-%E6%83%85%E5%A0%B1%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%89%B9%E8%AB%96-2011/
+extensions:
+  faculty: 工学部／工学研究科
+  term: 前期
+  targetAudience: 工学研究科電子工学分野博士前期課程1年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

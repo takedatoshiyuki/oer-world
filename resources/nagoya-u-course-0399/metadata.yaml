@@ -1,0 +1,67 @@
+slug: nagoya-u-course-0399
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0399-%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E5%AD%A6-2013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 構造解析学
+description:
+  ja: 構造物の力学的挙動を理論的に予測する構造解析を扱い、その基礎理論と計算機を用いた計算手法を学ぶ講義である。講義に加えて演習を行い、構造解析の方法を身につけることを目指す。公開教材として、講義ノートが2件ある。
+quotedDescription:
+  text:
+    ja: '構造解析は構造物の力学的挙動を理論的に予測する手段であり、構造解析学はその基礎を構成する理学と応用力学から成る学問体系である。この講義ではその基礎理論と計算機利用による計算手法について、講義を通して学習し，適宜の演習を通して構造解析の方法を体得することを目的とする。
+
+      加えて、担当教員の実務経歴と研究活動に裏付けられた高度な専門知識や最先端の理論に触れることにより、建築構造設計を理論的側面から深く分析し、具体的、総合的に設計する力を養う事を目指す。インターンシップを行う上で、建築構造設計に不可欠な構造デザイン・構造設計実践のための知識・能力を習得する科目である。'
+  source: https://ocw.nagoya-u.jp/courses/0399-%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E5%AD%A6-2013/
+  note: 名大の授業 (NU OCW) 「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 大森博司
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 環境学
+- 建築工学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義ノート: 構造解析学'
+  contentUrl: https://ocw.nagoya-u.jp/files/399/Contents_rev.pdf
+  page: https://ocw.nagoya-u.jp/courses/0399-%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E5%AD%A6-2013/
+- name: '講義ノート: Computational Morphogenesis -Its Current State and Possibility for the Future-'
+  contentUrl: https://ocw.nagoya-u.jp/files/399/Slide_IASS-IACM_2008.pdf
+  page: https://ocw.nagoya-u.jp/courses/0399-%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E5%AD%A6-2013/
+extensions:
+  faculty: 環境学研究科
+  term: 前期
+  targetAudience: 環境学研究科都市環境学専攻建築学コース
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

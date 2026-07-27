@@ -1,0 +1,56 @@
+slug: nagoya-u-course-1010
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/1010-%E6%95%B0%E7%90%86%E8%A7%A3%E6%9E%90%E3%83%BB%E8%A8%88%E7%AE%97%E6%A9%9F%E6%95%B0%E5%AD%A6%E6%A6%82%E8%AB%96iv-2025/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理解析・計算機数学概論IV
+description:
+  ja: 名古屋大学の多元数理科学研究科で、博士前期課程・博士後期課程を対象に春学期に開講される講義である。Jacques Garrigueが担当し、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: Jacques Garrigue
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 型理論
+- 定理証明支援系
+- プログラムの証明
+- 数学的証明
+- 数理解析・計算機数学IV
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 多元数理科学研究科
+  term: 春学期
+  targetAudience: 多元数理科学研究科（博士前期課程・博士後期課程）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

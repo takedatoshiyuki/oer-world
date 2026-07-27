@@ -1,0 +1,65 @@
+slug: nagoya-u-course-0282
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0282-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語（コミュニケーション）
+description:
+  ja: 基本的な英語文法と日常的語彙を復習し、定着させる内容を扱う。スピーキングやライティングを通して実際に使い、コミュニケーションの場面の中で文法・語法を身につけることを目指す。
+quotedDescription:
+  text:
+    ja: '* 基本的な英語文法や日常的語彙の復習と定着を図り、スピーキングやライティングの形で実際に使用する。  * 実際のコミュニケーションの場面の中で英語文法・語法を習得する。'
+  source: https://ocw.nagoya-u.jp/courses/0282-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2010/
+  note: 名大の授業 (NU OCW) 「og:description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 尾関修治
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 英語
+- 言語
+- 文法
+- 語彙
+- 授業の目的およびねらい
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義ノートの例
+  contentUrl: https://ocw.nagoya-u.jp/files/282/n_ozeki.pdf
+  page: https://ocw.nagoya-u.jp/courses/0282-%E8%8B%B1%E8%AA%9E%EF%BC%88%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89-2010/
+extensions:
+  faculty: 教養教育院
+  term: 集中講義
+  targetAudience: 文学部1年生、工学部電気電子・情報工学科1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

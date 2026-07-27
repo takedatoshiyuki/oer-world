@@ -1,0 +1,68 @@
+slug: nagoya-u-course-0256
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0256-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6-II-2011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 解析力学-II
+description:
+  ja: 解析力学Iで学ぶラグランジアンとハミルトニアンの手法を用い、物理学の基本的な力学系の運動を扱う講義である。後半では、特殊相対性理論に基づく運動へと進む。公開教材として「解析力学 II 講義ノート」がある。
+quotedDescription:
+  text:
+    ja: 解析力学の手法に基づき、物理現象の理解を深める。また、特殊相対性理論について理解する。
+  source: https://ocw.nagoya-u.jp/courses/0256-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6-II-2011/
+  note: 名大の授業 (NU OCW) 「到達目標」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 野尻伸一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理
+- 物理現象
+- 物理法則
+- 解析力学
+- 力学
+- ハミルトニアン
+- 慣性テンソル
+- ローレンツ変換
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 解析力学 II 講義ノート
+  contentUrl: https://ocw.nagoya-u.jp/files/256/nojiri.pdf
+  page: https://ocw.nagoya-u.jp/courses/0256-%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6-II-2011/
+extensions:
+  faculty: 理学部／理学研究科
+  term: 後期
+  targetAudience: 理学部物理学科2年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: nagoya-u-course-0074
+mode: referenced
+externalUrl: https://ocw.nagoya-u.jp/courses/0074-%E5%AF%BE%E7%85%A7%E8%A1%A8%E7%8F%BE%E8%AB%96%E6%BC%94%E7%BF%92-I-2007/
+type:
+- LearningResource
+- Course
+name:
+  ja: 対照表現論演習-I
+description:
+  ja: 名古屋大学で2007年に開講された、小坂光一担当の講義で、文学部／国際言語文化研究科に属する。国際言語文化研究科を対象とし、日本語で実施される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.nagoya-u.jp/about/
+  summary:
+    ja: 非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小坂光一
+  affiliation:
+    name: 名古屋大学
+publisher:
+- type: Organization
+  name: 名古屋大学
+sourceCollection:
+  name: 名大の授業 (NU OCW)
+  url: https://ocw.nagoya-u.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-21'
+learningResourceType:
+- course
+- assessment
+about:
+- arts_humanities
+keywords:
+- 国際
+- 文学
+- 言語
+- 言語教育
+- 文法事項
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 文学部／国際言語文化研究科
+  targetAudience: 国際言語文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-21'
+  notes: tools/make_drafts.py + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low
