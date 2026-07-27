@@ -10,11 +10,12 @@
 
 | 項目 | 状態 |
 |------|------|
-| リポジトリ | oer-world = このリポジトリ（`~/Dropbox/Projects/OER`。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
+| リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
 | 公開サイト | **停止中**（2026-07-26 に一旦 private 化。Pages 設定も削除済み） |
 | 公開済みリソース | 3件（名大2・自作教材 lms-learning-analytics-for-education） |
 | 下書き（`drafts/`・Git外） | **412件**＝名大411＋東大series 1。全件が機械検査・引用照合・description 生成（gpt-5.4-mini）済み。aggregator の公開条件は充足しており `approve --all` でいつでも公開可 |
 | コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録） |
+| バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
 | キャッシュ（`.cache/`・Git外） | 名大413コース＋京大・東大のサンプルページ、名大ダイジェスト（`nagoya_u_digest.jsonl`） |
 
 再公開の手順: ①両リポを `gh repo edit --visibility public` ②`gh api
@@ -79,7 +80,7 @@ JOCW 系11サイトの生存確認:
 ## 6. 再開の仕方（新セッション向け）
 
 ```sh
-cd ~/Dropbox/Projects/OER   # プロジェクト（config.yaml がルートの目印）
+cd ~/Projects/oer-world     # プロジェクト（config.yaml がルートの目印）
 make validate               # 動作確認（oer-kit は ~/Projects/oer-kit を既定参照）
 ```
 
