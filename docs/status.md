@@ -1,6 +1,6 @@
 # OER World — 開発状況と引き継ぎ
 
-- 更新: 2026-07-26
+- 更新: 2026-07-27
 - 位置づけ: **このプロジェクトの現在地・決定記録・再開手順の正本**。
   新しい作業セッションはまずこれを読む。システム設計は
   [oer-kit の設計書](https://github.com/takedatoshiyuki/oer-kit/blob/main/docs/design.md)、
@@ -12,8 +12,8 @@
 |------|------|
 | リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
 | 公開サイト | **停止中**（2026-07-26 に一旦 private 化。Pages 設定も削除済み） |
-| 公開済みリソース | 3件（名大2・自作教材 lms-learning-analytics-for-education） |
-| 下書き（`drafts/`・Git外） | **412件**＝名大411＋東大series 1。全件が機械検査・引用照合・description 生成（gpt-5.4-mini）済み。aggregator の公開条件は充足しており `approve --all` でいつでも公開可 |
+| 公開済みリソース | **415件**（名大413・東大series 1・自作教材1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施） |
+| 下書き（`drafts/`・Git外） | 0件（全件昇格済み） |
 | コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録） |
 | バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
 | キャッシュ（`.cache/`・Git外） | 名大413コース＋京大・東大のサンプルページ、名大ダイジェスト（`nagoya_u_digest.jsonl`） |
@@ -59,23 +59,19 @@ JOCW 系11サイトの生存確認:
 
 ## 4. 保留中の判断
 
-1. **412件の公開タイミング** — 条件は揃っている。公開前にレビューシート
-   （`review-sheet` → 面での確認）でのサンプリングを推奨
-2. **リポジトリの public 復帰**（Pages 再開）と、その際の **w3id.org 名前空間取得**
-   （本運用と判断した時点で。移管に耐える恒久ID）
+1. **リポジトリの public 復帰と Pages 再開**（カタログ415件は準備完了。これが最後の公開スイッチ）
+2. **w3id.org 名前空間取得**（本運用と判断した時点で。移管に耐える恒久ID）
 3. 環境学研究科13件の主題分類（現在 engineering。学際組織なので要確認）
 4. 収録方針（何を目録に入れるか）の文書化 — 個人資料が増えた段階で
 
 ## 5. 次の作業候補（優先順）
 
-1. **412件の公開**: `make validate` → サンプリング確認 → `python3 -m oer_kit.approve --all`
-   → push（public 復帰後にデプロイ）
-2. **コーパスのテキスト抽出**: `archive/*/manifest.json` を起点に PDF→テキスト
+1. **コーパスのテキスト抽出**: `archive/*/manifest.json` を起点に PDF→テキスト
    （`common_knowledge` の docling/OCR。`~/Applications/lib/python`）。
    LLM 学習データとオントロジー構築（LMS-NG 側の抽出器を使う）の前段
-3. **次サイトの収集**: 京大から（構造調査済み）。discover → fetch --batch →
+2. **次サイトの収集**: 京大から（構造調査済み）。discover → fetch --batch →
    パーサ作成 → make-drafts → generate → 横断検査
-4. 閉鎖3サイトの目録化（2023キャッシュ＋Wayback。掲載ポリシーは §2 のとおり掲載推奨）
+3. 閉鎖3サイトの目録化（2023キャッシュ＋Wayback。掲載ポリシーは §2 のとおり掲載推奨）
 
 ## 6. 再開の仕方（新セッション向け）
 
