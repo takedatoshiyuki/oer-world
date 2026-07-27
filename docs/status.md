@@ -1,6 +1,6 @@
 # OER World — 開発状況と引き継ぎ
 
-- 更新: 2026-07-27 (京大・東大・北大は description 生成済み 2,234件。筑波92件を下書き生成)
+- 更新: 2026-07-28 (JOCW系の生存7サイト全て収集完了。上智454・ICU442・九大86を追加)
 - 位置づけ: **このプロジェクトの現在地・決定記録・再開手順の正本**。
   新しい作業セッションはまずこれを読む。システム設計は
   [oer-kit の設計書](https://github.com/takedatoshiyuki/oer-kit/blob/main/docs/design.md)、
@@ -13,7 +13,7 @@
 | リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
 | 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （415件）。oer-world は public、**oer-kit は private のまま**（メンテ体制が整うまで公開タイミングを選ぶ判断・2026-07-27）。このため CI ではなく **`make deploy`（ローカルビルド → gh-pages ブランチ）** で配信する。CI 3本は手動起動のみに変更済み（oer-kit 公開後にトリガを復元） |
 | 公開済みリソース | **414件**（名大413・東大series 1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施）。自作教材1件は未完のため drafts へ差し戻し（07-27） |
-| 下書き（`drafts/`・Git外） | **京大 1,078＋東大 579＋北大 584＋筑波 92＋自作1件**（description は京大・東大・北大の2,234件生成済み、筑波92件が generate 待ち。承認可 2,174件は dry-run 済み・`.cache/approve_slugs.txt`。年度不明 = 京大23・東大17・北大20・筑波42件は datePublished 無しの検証エラーとして残し人手調査。筑波分は Wayback 初出年での補完も選択肢） |
+| 下書き（`drafts/`・Git外） | **京大1,078＋東大579＋北大584＋筑波92＋上智454＋ICU442＋九大86＋自作1件 = 3,316件**（description は京大・東大・北大の2,234件生成済み。筑波・上智・ICU・九大の計1,074件が generate 待ち。年度不明 = 京大23・東大17・北大20・筑波42・ICU5・九大若干は datePublished 無しの検証エラーとして残し人手調査。九大は Wayback 初出年を公開年の代理指標に採用・provenance 明記） |
 | コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録）。京大の資料 PDF 2,839件は未取得（harvest 未実行） |
 | バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
 | キャッシュ（`.cache/`・Git外） | 名大413・**京大1,209ページ**・**東大series 580ページ**（いずれも全量・失敗0）、ダイジェスト（`nagoya_u_digest.jsonl`・`kyoto_u_digest.jsonl`・`utokyo_channel_digest.jsonl`）、**`kyoto_taxonomy.json`**（検索一覧から逆引きしたカテゴリ・分野・年度。消すと make-drafts の再現性が落ちるので保持） |
@@ -45,8 +45,8 @@ JOCW 系11サイトの生存確認:
 
 | 状態 | サイト |
 |------|--------|
-| 生存・構造良好 | **京大**（→ §3.1）、**名大**、**北大**（→ §3.3）、**筑波**（収集済み → §3.4）、上智（WP・小規模・説明文抽出0%）、九大（**http のみ**・2000年代の手組み静的） |
-| 生存・移転 | 東大 → **ch.u-tokyo.ac.jp**（**収集済み → §3.2**。旧OCWのURLは series へ301。**規約が複製禁止**＝目録のみ）、ICU → ocw.info.icu.ac.jp |
+| 生存・構造良好 | 生存7サイト**全て収集済み**: 名大・京大（§3.1）・東大（§3.2）・北大（§3.3）・筑波（§3.4）・上智（§3.5）・九大（§3.5）・ICU（§3.5） |
+| 生存・移転 | 東大 → ch.u-tokyo.ac.jp（収集済み）、ICU → ocw.info.icu.ac.jp（収集済み・Google Sites）|
 | 閉鎖 | 東工大 OCW・早稲田 course-channel・放送大学 vod（3つとも Wayback にスナップショットあり。2023年キャッシュが手元にある） |
 
 名大の実測ノート: SPA なので Playwright 必須／og:description はサイト定型文が混入
@@ -118,6 +118,40 @@ JOCW 系11サイトの生存確認:
 - セクション本文が `</section>` を越えると隣接要素の CSS が引用に混入する事故が
   1件あった（機械照合 check-quotes が検出）→ パーサ側で境界を修正済み
 
+### 3.5 上智・九大・ICU の実測（2026-07-28）
+
+**上智 (ocw.cc.sophia.ac.jp・454講義)**
+- WordPress の lecture 投稿型が **REST API 公開** → 発見・分類は REST ダンプ
+  （`.cache/sophia_lectures.json`・`sophia_dep.json`）。**サイト全体 CC BY-NC-SA
+  2.1 日本**（/about/ 明記）
+- dep タクソノミで大分類: 講義60・最終講義10・**オープンキャンパス270**・
+  高校生向け26・講演会等88。OC・高校生向けは student + upper_secondary
+- 講義概要があるのは正規講義中心（108件）。OC・講演会は概要無し → LLM 生成頼み
+  （2023調査の「上智0%」予測どおり）。年度は開催年度欄→REST公開日で**全件確保**
+- 引用抽出の事故2種を check-quotes が検出（スクリプト内エスケープ断片への誤マッチ・
+  `class="result_list"` での捕捉切れ）→ 本文領域限定と終端条件で修正
+
+**九大 QOCW (ocw.kyushu-u.ac.jp・86講義)**
+- **サイトが崩壊**（PHP 非実行で生ソース露出・ナビ喪失・2016年更新止まり）だが
+  講義本文は静的 HTML で生存。URL は**旧 科研STOER 収集データ (2023) から復元**
+- charset ヘッダ無し → requests の latin-1 仮定で二重符号化 → **fetch に
+  apparent_encoding 対応を追加**（oer-kit 修正）
+- ライセンス表記が確認できない（規約類は壊れた PHP 側と推定）→ 全件 reuse:
+  unspecified・引用は32条
+- **日付情報が皆無 → Wayback 初出年を公開年の代理指標に**（`.cache/
+  kyushu_wayback_years.json`、metadataProvenance に明記。make_drafts に
+  provenance_note 追記対応を追加）
+- 部局欄（旧データ）は種別混在: 一般向け講演会20・最終講義18・基幹教育14・OC 3
+
+**ICU (ocw.info.icu.ac.jp・442頁)**
+- **Google Sites**。1ページ約800KB（全ページにサイト全体のナビ埋め込み）→
+  `role="main"` 以降のみ解析。題名は title タグ。失敗0
+- 内訳: for_high（OC講義）177・majors 112・ge 73・sl 63・その他17。
+  スラグの年度・学期（BIO101_2017W）で年度不明は5件のみ
+- Course Description は英日併記が多い → inLanguage を本文から推定
+- **新サイトにライセンス表記が無い**（フッタ All Rights Reserved + CC への
+  一般リンクのみ。理念文はあるが条件不明）→ 全件 reuse: unspecified・引用は32条
+
 ## 4. 保留中の判断
 
 1. **oer-kit の公開タイミング**（連合モデルの前提。メンテ体制と合わせて判断）
@@ -127,11 +161,12 @@ JOCW 系11サイトの生存確認:
 
 ## 5. 次の作業候補（優先順）
 
-1. **4大学の公開まで**: 京大・東大・北大は description 生成済み（2,234件・不採用7）。
-   筑波92件を `python3 -m oer_kit.generate --model gpt-5.4-mini` で生成 →
-   レビューシート（`.cache/review.html`）→ `approve --from-file .cache/approve_slugs.txt`
-   （筑波分は再作成が必要）→ `make deploy`。年度不明（京大23・東大17・北大20・筑波42件）
-   は昇格対象外のまま調査
+1. **7大学の公開まで**: 京大・東大・北大は description 生成済み（2,234件・不採用7）。
+   筑波92＋上智454＋ICU442＋九大86 = 1,074件を
+   `python3 -m oer_kit.generate --model gpt-5.4-mini`（約1.1M tok）で生成 →
+   レビューシート → 承認リスト再作成（lms を除外）→ approve → `make deploy`。
+   年度不明（京大23・東大17・北大20・筑波42・ICU5・九大若干）は昇格対象外のまま調査
+   （筑波分は九大と同じ Wayback 初出年方式での補完が可能になった）
 2. **コーパスのテキスト抽出**: `archive/*/manifest.json` を起点に PDF→テキスト
    （`common_knowledge` の docling/OCR。`~/Applications/lib/python`）。
    LLM 学習データとオントロジー構築（LMS-NG 側の抽出器を使う）の前段。
