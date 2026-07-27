@@ -7,8 +7,10 @@ URL 一覧は旧 科研STOER の収集データ (2023) から復元
 - <article class="course"><dl><h3>題名</h3>講師名<dt><h4>授業の概要</h4>本文…
 - 資料: table.list 内の相対リンク PDF (講義スライド等)
 - 部局は旧収集データの course_department から
-- 日付情報がサイトにも旧データにも無い → Wayback 初出年
-  (.cache/kyushu_wayback_years.json) を公開年の代理指標にする
+- 日付情報がサイトにも旧データにも無く、サーバの Last-Modified は移行で
+  リセット済み、Wayback 初出も 2019-22 と遅すぎて使えない →
+  資料 PDF 内部の CreationDate (.cache/kyushu_pdf_years.json) を
+  作成年の証拠として使う (2005〜2016 の実年代が残っている)
 - ライセンス表記はページに無い (規約類は壊れた PHP 側にあったと推定) →
   reuse: unspecified
 """
@@ -55,7 +57,7 @@ def _legacy():
 def _years():
     global _years_cache
     if _years_cache is None:
-        _years_cache = _load("kyushu_wayback_years.json", "_years_cache")
+        _years_cache = _load("kyushu_pdf_years.json", "_years_cache")
     return _years_cache
 
 
@@ -119,8 +121,8 @@ def parse_course(html: str, url: str):
     faculty = (legacy.get("department") or "").strip()
 
     year = _years().get(url)
-    provenance_note = ("datePublished は Wayback Machine 初出年"
-                       "（サイトに日付情報が無いため公開年の代理指標）" if year else None)
+    provenance_note = ("datePublished は講義資料 PDF 内部の作成日 (CreationDate) 由来"
+                       "（サイトに日付情報が無いため）" if year else None)
 
     about = []
     for keyword, subject in FACULTY_SUBJECT:
