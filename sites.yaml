@@ -25,6 +25,29 @@ sites:
       レンダリング後に取得可能。旧パーサ parsers/ocw_nagoya_u.py・旧収集 ocw_nagoya_u.xlsx あり。
       方針決定 (2026-07-21) — usageTerms (allowed_with_conditions) 付きで目録化対象
 
+  - code: ocw_kyoto_u
+    name: 京都大学OCW
+    organization: 京都大学
+    url: https://ocw.kyoto-u.ac.jp/
+    sitemap: https://ocw.kyoto-u.ac.jp/sitemap.xml
+    course_url_pattern: "https://ocw.kyoto-u.ac.jp/course/<id>/"
+    rendering: static
+    parser: kyoto_u
+    usage_summary: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+    license_status: custom_reuse
+    license_url: https://ocw.kyoto-u.ac.jp/guideline/
+    license_note: >-
+      利用規約 (guideline) が「非営利かつ教育的な目的において、適切なクレジット表記を
+      おこなうことで、共有、転載、改変などの二次利用がおこなえます」と明示 (実質 CC BY-NC 相当)。
+      コンテンツごとに CC BY-NC-SA 4.0 / BY-NC-ND 4.0 バッジがあるページはそれが優先。
+      確認日 2026-07-27
+    status: active
+    date_checked: "2026-07-27"
+    notes: 2021年リニューアル後の WordPress 静的サイト (旧 Plone から移行)。sitemap に
+      course 1,209件。カテゴリ (通常/公開/最終講義・国際会議・その他) と分野タグはページに
+      現れず、検索一覧の走査 (.cache/kyoto_taxonomy.json) から逆引きする。
+      REST API は無効。動画は YouTube 埋め込み、講義資料 PDF は rel="archives" リンク。
+
   - code: utokyo_channel
     name: UTokyo Channel (旧 UTokyo OCW)
     organization: 東京大学
