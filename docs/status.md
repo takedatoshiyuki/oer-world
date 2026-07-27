@@ -1,6 +1,6 @@
 # OER World — 開発状況と引き継ぎ
 
-- 更新: 2026-07-27 (京大1,078件を下書き生成、description 生成待ち)
+- 更新: 2026-07-27 (京大1,078件＋東大579件を下書き生成、description 生成待ち)
 - 位置づけ: **このプロジェクトの現在地・決定記録・再開手順の正本**。
   新しい作業セッションはまずこれを読む。システム設計は
   [oer-kit の設計書](https://github.com/takedatoshiyuki/oer-kit/blob/main/docs/design.md)、
@@ -12,11 +12,11 @@
 |------|------|
 | リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
 | 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （415件）。oer-world は public、**oer-kit は private のまま**（メンテ体制が整うまで公開タイミングを選ぶ判断・2026-07-27）。このため CI ではなく **`make deploy`（ローカルビルド → gh-pages ブランチ）** で配信する。CI 3本は手動起動のみに変更済み（oer-kit 公開後にトリガを復元） |
-| 公開済みリソース | **415件**（名大413・東大series 1・自作教材1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施） |
-| 下書き（`drafts/`・Git外） | **京大 1,078件**（2026-07-27 生成。description 未作成 = 次は generate。年度不明23件は datePublished 無しの検証エラーとして残し人手調査に回す） |
+| 公開済みリソース | **414件**（名大413・東大series 1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施）。自作教材1件は未完のため drafts へ差し戻し（07-27） |
+| 下書き（`drafts/`・Git外） | **京大 1,078件＋東大 579件＋自作1件**（2026-07-27 生成。description 未作成 = 次は generate。年度不明は京大23件・東大17件で、datePublished 無しの検証エラーとして残し人手調査に回す） |
 | コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録）。京大の資料 PDF 2,839件は未取得（harvest 未実行） |
 | バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
-| キャッシュ（`.cache/`・Git外） | 名大413・**京大1,209ページ（全量・失敗0）**＋東大サンプル、ダイジェスト（`nagoya_u_digest.jsonl`・`kyoto_u_digest.jsonl`）、**`kyoto_taxonomy.json`**（検索一覧から逆引きしたカテゴリ・分野・年度。消すと make-drafts の再現性が落ちるので保持） |
+| キャッシュ（`.cache/`・Git外） | 名大413・**京大1,209ページ**・**東大series 580ページ**（いずれも全量・失敗0）、ダイジェスト（`nagoya_u_digest.jsonl`・`kyoto_u_digest.jsonl`・`utokyo_channel_digest.jsonl`）、**`kyoto_taxonomy.json`**（検索一覧から逆引きしたカテゴリ・分野・年度。消すと make-drafts の再現性が落ちるので保持） |
 
 配信の手順: `make deploy`（検証→ビルド→gh-pages へ push→Pages が配信）。oer-kit を公開したら CI トリガを復元して push 毎の自動配信に戻せる。
 
@@ -46,7 +46,7 @@ JOCW 系11サイトの生存確認:
 | 状態 | サイト |
 |------|--------|
 | 生存・構造良好 | **京大**（収集中 → §3.1）、**名大**（収集済み）、北大、筑波、上智、九大 |
-| 生存・移転 | 東大 → **ch.u-tokyo.ac.jp**（UTokyo Channel。旧OCWのURLは series へ301。**規約が複製禁止**＝目録のみ）、ICU → ocw.info.icu.ac.jp |
+| 生存・移転 | 東大 → **ch.u-tokyo.ac.jp**（**収集済み → §3.2**。旧OCWのURLは series へ301。**規約が複製禁止**＝目録のみ）、ICU → ocw.info.icu.ac.jp |
 | 閉鎖 | 東工大 OCW・早稲田 course-channel・放送大学 vod（3つとも Wayback にスナップショットあり。2023年キャッシュが手元にある） |
 
 名大の実測ノート: SPA なので Playwright 必須／og:description はサイト定型文が混入
@@ -69,6 +69,21 @@ JOCW 系11サイトの生存確認:
 - 検索UIの分野タグ34種 → about 語彙への対応表はパーサ内 `SUBJECT_MAP`
 - 講義資料 PDF は `rel="archives"` リンクで2,839件（コーパス取得は未実施）
 
+### 3.2 UTokyo Channel の実測（2026-07-27）
+
+- 目録単位は**シリーズ**（sitemap `wp-sitemap-ut-ch-series-1.xml` に580件 =
+  東大TV 403＋旧OCW 177。個別講義 ut-ch-content は約6,000件で目録単位にしない）。
+  07-21 調査時のメモ「278件」は誤り（当時の数え方が不明。実際は580）
+- 手作業の試作1件 (`utokyo-series-digital-humanities`) は公開済みのまま。
+  make_drafts が公開済み externalUrl をスキップするため重複しない（579件生成）
+- シリーズページのタグ（`?tag=…`）が有用: ジャンル（AI・情報〜食料・農業）→ about、
+  中高生向け → student + upper_secondary、英語話者向け → inLanguage en (92件)、
+  東京大学正規授業/Produced by → audience と learningResourceType の切替
+- 「資料あり」はアイコン表記から検出できるが、**視聴のみ規約のため materials
+  （ファイルURL）は載せない**。引用は著作権法32条の書式（make_drafts が
+  license_status で切替）
+- 年度不明17件は数理・情報系の正規授業群（ページに開講年表示なし）
+
 ## 4. 保留中の判断
 
 1. **oer-kit の公開タイミング**（連合モデルの前提。メンテ体制と合わせて判断）
@@ -78,9 +93,10 @@ JOCW 系11サイトの生存確認:
 
 ## 5. 次の作業候補（優先順）
 
-1. **京大の公開まで**: `python3 -m oer_kit.generate --model gpt-5.4-mini`（1,078件
-   ×実測約1,025 tok ≒ 1.1M tok。無料枠10M/日内）→ 横断検査 → レビュー →
-   `approve --all` → `make deploy`。年度不明23件は昇格対象外のまま調査
+1. **京大＋東大の公開まで**: `python3 -m oer_kit.generate --model gpt-5.4-mini`
+   （1,078＋579 = 1,657件 × 実測約1,025 tok ≒ 1.7M tok。無料枠10M/日内）
+   → 横断検査 → レビュー → `approve --all` → `make deploy`。
+   年度不明（京大23・東大17件）は昇格対象外のまま調査
 2. **コーパスのテキスト抽出**: `archive/*/manifest.json` を起点に PDF→テキスト
    （`common_knowledge` の docling/OCR。`~/Applications/lib/python`）。
    LLM 学習データとオントロジー構築（LMS-NG 側の抽出器を使う）の前段。

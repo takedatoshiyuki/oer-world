@@ -55,6 +55,8 @@ sites:
     sitemap: https://ch.u-tokyo.ac.jp/wp-sitemap.xml
     course_url_pattern: "https://ch.u-tokyo.ac.jp/series/?id=<ChXXX> (旧 ocw.u-tokyo.ac.jp/course_NNNNN/ は series へ 301)"
     rendering: static
+    parser: utokyo_channel
+    usage_summary: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
     license_status: no_reuse
     license_url: https://ch.u-tokyo.ac.jp/privacy-policy/
     license_note: >-
@@ -62,6 +64,8 @@ sites:
       旧 UTokyo OCW の CC BY-NC-ND 表記はサイト上で確認できず。確認日 2026-07-21
     status: active
     date_checked: "2026-07-21"
-    notes: WordPress 静的。sitemap に series 278件。各 series ページに講義一覧 (「資料あり」
-      マーカー)。旧OCWコースURLが series へリダイレクトするため旧収集データのURLは解決可能。
-      方針決定 (2026-07-21) — usageTerms (not_allowed) と「再利用不可」ラベル付きで目録化対象
+    notes: WordPress 静的。sitemap に series 580件 (東大TV 403 / 旧OCW 177。2026-07-27 取得)。
+      各 series ページに講義一覧 (「資料あり」マーカー)・タグ (ジャンル/中高生向け/英語話者向け/
+      学内限定など)。旧OCWコースURLが series へリダイレクトするため旧収集データのURLは解決可能。
+      方針決定 (2026-07-21) — usageTerms (not_allowed) と「再利用不可」ラベル付きで目録化対象。
+      視聴のみ規約のため materials (ファイルURL) は載せない
