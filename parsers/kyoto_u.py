@@ -183,6 +183,22 @@ def parse_course(html: str, url: str):
     materials = _materials(html)
     has_video = "video_id=" in html or "youtube.com/embed" in html
 
+    # 年度の予備: 検索UIの年度フィルタ逆引き → 題名中の「NNNN年度」
+    # → 資料ファイル名中の西暦 (最古を採用)。どれも無ければ datePublished 無しで
+    # 下書きに残り、検証エラーとして人手調査に回る
+    if not year:
+        year = taxonomy.get("year", {}).get(course_id)
+    if not year:
+        title_year = re.search(r"((?:19|20)\d{2})年度", name)
+        if title_year:
+            year = title_year.group(1)
+    if not year:
+        file_years = [y for m in materials
+                      for y in re.findall(r"(?:19[89]\d|20[012]\d)",
+                                          m["contentUrl"].rsplit("/", 1)[-1])]
+        if file_years:
+            year = min(file_years)
+
     # 分野タグ → about (複数可)。タグが無いページは開講部局名から推定
     about = []
     for key in subject_keys:

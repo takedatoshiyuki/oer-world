@@ -1,6 +1,6 @@
 # OER World — 開発状況と引き継ぎ
 
-- 更新: 2026-07-27 (サイト公開)
+- 更新: 2026-07-27 (京大1,078件を下書き生成、description 生成待ち)
 - 位置づけ: **このプロジェクトの現在地・決定記録・再開手順の正本**。
   新しい作業セッションはまずこれを読む。システム設計は
   [oer-kit の設計書](https://github.com/takedatoshiyuki/oer-kit/blob/main/docs/design.md)、
@@ -13,10 +13,10 @@
 | リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
 | 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （415件）。oer-world は public、**oer-kit は private のまま**（メンテ体制が整うまで公開タイミングを選ぶ判断・2026-07-27）。このため CI ではなく **`make deploy`（ローカルビルド → gh-pages ブランチ）** で配信する。CI 3本は手動起動のみに変更済み（oer-kit 公開後にトリガを復元） |
 | 公開済みリソース | **415件**（名大413・東大series 1・自作教材1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施） |
-| 下書き（`drafts/`・Git外） | 0件（全件昇格済み） |
-| コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録） |
+| 下書き（`drafts/`・Git外） | **京大 1,078件**（2026-07-27 生成。description 未作成 = 次は generate。年度不明23件は datePublished 無しの検証エラーとして残し人手調査に回す） |
+| コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録）。京大の資料 PDF 2,839件は未取得（harvest 未実行） |
 | バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
-| キャッシュ（`.cache/`・Git外） | 名大413コース＋京大・東大のサンプルページ、名大ダイジェスト（`nagoya_u_digest.jsonl`） |
+| キャッシュ（`.cache/`・Git外） | 名大413・**京大1,209ページ（全量・失敗0）**＋東大サンプル、ダイジェスト（`nagoya_u_digest.jsonl`・`kyoto_u_digest.jsonl`）、**`kyoto_taxonomy.json`**（検索一覧から逆引きしたカテゴリ・分野・年度。消すと make-drafts の再現性が落ちるので保持） |
 
 配信の手順: `make deploy`（検証→ビルド→gh-pages へ push→Pages が配信）。oer-kit を公開したら CI トリガを復元して push 毎の自動配信に戻せる。
 
@@ -45,7 +45,7 @@ JOCW 系11サイトの生存確認:
 
 | 状態 | サイト |
 |------|--------|
-| 生存・構造良好 | **京大**（?video_id= のサブページ型・242コース確認・CC 表記は要個別確認）、**名大**（収集済み）、北大、筑波、上智、九大 |
+| 生存・構造良好 | **京大**（収集中 → §3.1）、**名大**（収集済み）、北大、筑波、上智、九大 |
 | 生存・移転 | 東大 → **ch.u-tokyo.ac.jp**（UTokyo Channel。旧OCWのURLは series へ301。**規約が複製禁止**＝目録のみ）、ICU → ocw.info.icu.ac.jp |
 | 閉鎖 | 東工大 OCW・早稲田 course-channel・放送大学 vod（3つとも Wayback にスナップショットあり。2023年キャッシュが手元にある） |
 
@@ -53,6 +53,21 @@ JOCW 系11サイトの生存確認:
 （頻度除外で対応済み）／「授業の目的」等のラベル辞書は `parsers/nagoya_u.py`。
 説明文抽出の的中率（2023キャッシュ実測）: 旧東大100%・ICU84%・北大63%・上智0%
 （ラベルも meta も無し → LLM の出番）。
+
+### 3.1 京大OCW の実測（2026-07-27）
+
+- WordPress 静的（requests で可）。sitemap のコース1,209行のうち**実コースは1,078件**
+  （131行は部局別一覧ページ）。全ページ取得済み・パース失敗0
+- **カテゴリ・分野・年度はコースページに出ない** → 検索UI（`/?s=&category=…` 等）の
+  結果一覧を走査して逆引き（`.cache/kyoto_taxonomy.json`、判明率100%）。
+  内訳: 通常講義337・**公開講義475**・最終講義81・国際会議95・その他90
+- ライセンスは**ページごとの CC バッジ**（886件・BY-NC-SA 4.0 中心）が優先、
+  無いページは guideline の独自条件（非営利・教育目的・クレジットで二次利用可）を
+  usageTerms に。make_drafts はこのコース単位ライセンスに対応済み
+- カテゴリで対象者を切替: 通常講義 → student（部局名から bachelor/master）、
+  公開講義 → general_public + continuing_education、国際会議 → professional
+- 検索UIの分野タグ34種 → about 語彙への対応表はパーサ内 `SUBJECT_MAP`
+- 講義資料 PDF は `rel="archives"` リンクで2,839件（コーパス取得は未実施）
 
 ## 4. 保留中の判断
 
@@ -63,11 +78,13 @@ JOCW 系11サイトの生存確認:
 
 ## 5. 次の作業候補（優先順）
 
-1. **コーパスのテキスト抽出**: `archive/*/manifest.json` を起点に PDF→テキスト
+1. **京大の公開まで**: `python3 -m oer_kit.generate --model gpt-5.4-mini`（1,078件
+   ×実測約1,025 tok ≒ 1.1M tok。無料枠10M/日内）→ 横断検査 → レビュー →
+   `approve --all` → `make deploy`。年度不明23件は昇格対象外のまま調査
+2. **コーパスのテキスト抽出**: `archive/*/manifest.json` を起点に PDF→テキスト
    （`common_knowledge` の docling/OCR。`~/Applications/lib/python`）。
-   LLM 学習データとオントロジー構築（LMS-NG 側の抽出器を使う）の前段
-2. **次サイトの収集**: 京大から（構造調査済み）。discover → fetch --batch →
-   パーサ作成 → make-drafts → generate → 横断検査
+   LLM 学習データとオントロジー構築（LMS-NG 側の抽出器を使う）の前段。
+   京大の資料 PDF 2,839件の harvest もここで
 3. 閉鎖3サイトの目録化（2023キャッシュ＋Wayback。掲載ポリシーは §2 のとおり掲載推奨）
 
 ## 6. 再開の仕方（新セッション向け）
