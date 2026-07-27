@@ -48,6 +48,29 @@ sites:
       現れず、検索一覧の走査 (.cache/kyoto_taxonomy.json) から逆引きする。
       REST API は無効。動画は YouTube 埋め込み、講義資料 PDF は rel="archives" リンク。
 
+  - code: ocw_hokudai
+    name: 北海道大学OCW
+    organization: 北海道大学
+    url: https://ocw.hokudai.ac.jp/
+    sitemap: https://ocw.hokudai.ac.jp/sitemap.xml (講義は含まれない。/lecture/page/N の一覧走査で発見)
+    course_url_pattern: "https://ocw.hokudai.ac.jp/lecture/<slug>"
+    rendering: static
+    parser: hokudai
+    usage_summary: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+    license_status: custom_reuse
+    quote_basis: quotation   # /licence は教材のマークを定めるもので、ページ本文の転載許諾ではない
+    license_url: https://ocw.hokudai.ac.jp/licence
+    license_note: >-
+      /licence がマーク方式を定義: 制限資料 (閲覧のみ・二次利用不可) / CC BY-NC / CC BY。
+      実測 (2026-07-27・584講義): 制限資料 444・CC BY-NC 2・無表記 138。無表記は
+      reuse: unspecified として扱う。確認日 2026-07-27
+    status: active
+    date_checked: "2026-07-27"
+    notes: WordPress。講義はカスタム投稿型で REST・sitemap に出ないため /lecture/page/N
+      (24頁) を走査して発見。トップページのみ locale クッキー要 (講義ページは不要)。
+      講義情報は cnt_left/cnt_right のラベル・値ペア。タグに種別 (公開講座/学部/大学院)・
+      ジャンル・部局・言語 (japanese/english)。動画は旧 iTunesU リンク中心 (129件)。
+
   - code: utokyo_channel
     name: UTokyo Channel (旧 UTokyo OCW)
     organization: 東京大学
