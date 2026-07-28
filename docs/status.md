@@ -13,7 +13,7 @@
 | リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
 | 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （415件）。oer-world は public、**oer-kit は private のまま**（メンテ体制が整うまで公開タイミングを選ぶ判断・2026-07-27）。このため CI ではなく **`make deploy`（ローカルビルド → gh-pages ブランチ）** で配信する。CI 3本は手動起動のみに変更済み（oer-kit 公開後にトリガを復元） |
 | 公開済みリソース | **414件**（名大413・東大series 1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施）。自作教材1件は未完のため drafts へ差し戻し（07-27） |
-| 下書き（`drafts/`・Git外） | **京大1,078＋東大579＋北大584＋筑波92＋上智454＋ICU442＋九大86＋自作1件 = 3,316件**（description は京大・東大・北大の2,234件生成済み。筑波・上智・ICU・九大の計1,074件が generate 待ち。年度不明 = 京大23・東大17・北大20・筑波42・ICU5・九大58は datePublished 無しの検証エラーとして残し人手調査。九大の判明28件は資料PDF内部の CreationDate 由来・provenance 明記） |
+| 下書き（`drafts/`・Git外） | 公開判断済み3,123件は resources へ昇格済み。残る下書き = 保留166＋**MIコンソーシアム131＋MDSC 27**（generate 待ち）＋自作1件（description は京大・東大・北大の2,234件生成済み。筑波・上智・ICU・九大の計1,074件が generate 待ち。年度不明 = 京大23・東大17・北大20・筑波42・ICU5・九大58は datePublished 無しの検証エラーとして残し人手調査。九大の判明28件は資料PDF内部の CreationDate 由来・provenance 明記） |
 | コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録）。京大の資料 PDF 2,839件は未取得（harvest 未実行） |
 | バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
 | キャッシュ（`.cache/`・Git外） | 名大413・**京大1,209ページ**・**東大series 580ページ**（いずれも全量・失敗0）、ダイジェスト（`nagoya_u_digest.jsonl`・`kyoto_u_digest.jsonl`・`utokyo_channel_digest.jsonl`）、**`kyoto_taxonomy.json`**（検索一覧から逆引きしたカテゴリ・分野・年度。消すと make-drafts の再現性が落ちるので保持） |
@@ -144,6 +144,24 @@ JOCW 系11サイトの生存確認:
   metadataProvenance に明記。make_drafts に provenance_note 追記対応を追加）。
   残り58件は年度不明のまま保留
 - 部局欄（旧データ）は種別混在: 一般向け講演会20・最終講義18・基幹教育14・OC 3
+
+**数理・データサイエンス・AI教育強化拠点コンソーシアム (mi.u-tokyo.ac.jp/consortium・131教材)**
+- リテラシー/応用基礎の2ページにモデルカリキュラム節ごとの各大学教材が並ぶ
+  **1ページ複数エントリ型** → make_drafts に parse_many 契約を新設
+- 利用条件は**提供大学ごと**（滋賀大・阪大 CC BY-NC-SA / 九大・北海道医療大 CC BY —
+  いずれも**版の明示なし**のため license 欄でなく usageTerms に写す。東大等は個別条件）
+  → make_drafts に usage_terms（エントリ単位）と creator_organizations を新設
+- 年度: 動画は **YouTube uploadDate**（72件走査・全件判明）、スライドはファイル名 →
+  **PDF 内部 CreationDate**（26件・全件判明。九大方式の再利用）。残る年度不明11件
+  （プレイリスト5・外部ページ6）は保留
+- 旧東大OCWの各回講義リンク34件は除外（UTokyo Channel シリーズ単位で収録済み。
+  各回は目録単位にしない方針）。筑波OCW等への既収録リンクはURL重複ガードで自動スキップ
+
+**北大MDSC 教育用データ提供システム (data.mdsc.hokudai.ac.jp・27データセット)**
+- **CKAN**。API (package_search) ダンプを正とし HTML は引用照合用。
+  learningResourceType は **data**（カタログ初のデータセット収録）
+- ライセンスはデータセットごと（CC BY 15 / other-open 7 / CC BY-SA 2 / 配布元参照 2 /
+  GFDL 1。CC は版の明示なし → usageTerms）。提供元企業・組織を creator (Organization) に
 
 **ICU (ocw.info.icu.ac.jp・442頁)**
 - **Google Sites**。1ページ約800KB（全ページにサイト全体のナビ埋め込み）→

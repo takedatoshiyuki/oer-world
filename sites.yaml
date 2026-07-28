@@ -164,6 +164,48 @@ sites:
       (BIO101_2017W)。動画 YouTube・資料 Google Drive。内訳は for_high 177 / majors 112 /
       ge 73 / sl 63 / その他 17。
 
+  - code: mi_consortium
+    name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+    organization: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+    url: https://www.mi.u-tokyo.ac.jp/consortium/
+    sitemap: 対象2ページ固定 (.cache/urls_mi_consortium.tsv = リテラシー/応用基礎)
+    course_url_pattern: "1ページ複数エントリ (parse_many)。externalUrl は YouTube・PDF・各大学サイト"
+    rendering: static
+    parser: mi_consortium
+    usage_summary: 提供大学ごとに利用条件が異なる（滋賀大・阪大 = CC BY-NC-SA、九大・北海道医療大 = CC BY — いずれも版の明示なし。東大・筑波・都市大・名大は個別条件）。
+    license_status: custom_reuse
+    license_url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning.html
+    license_note: >-
+      e-learning ページの「利用条件とアンケート」が提供大学別の条件を列挙。CC 表記に
+      版の明示が無いため license 欄でなく usageTerms にエントリ単位で写す (版を捏造しない)。
+      確認日 2026-07-28
+    status: active
+    date_checked: "2026-07-28"
+    notes: モデルカリキュラム (リテラシー/応用基礎) の節ごとに各大学提供の講義動画
+      (YouTube)・スライド (PDF) が並ぶ。プレースホルダ行・書籍/協力企業リンクは除外。
+      筑波OCW等への既収録リンクは URL 重複ガードで自動スキップ。動画の年度は YouTube
+      uploadDate (.cache/mi_video_years.json)、スライドはファイル名の年。
+
+  - code: mdsc_hokudai
+    name: 教育用データ提供システム (北大MDSC)
+    organization: 北海道大学 数理・データサイエンス教育研究センター
+    url: https://data.mdsc.hokudai.ac.jp/
+    sitemap: CKAN API (package_search) → .cache/mdsc_datasets.json / urls_mdsc.tsv
+    course_url_pattern: "https://data.mdsc.hokudai.ac.jp/dataset/<name>"
+    rendering: static
+    parser: mdsc
+    usage_summary: データセットごとにライセンスが異なる（CC BY 15 / other-open 7 / CC BY-SA 2 / 配布元参照 2 / GFDL 1 — CC は版の明示なし）。
+    license_status: custom_reuse
+    license_url: https://data.mdsc.hokudai.ac.jp/
+    license_note: >-
+      CKAN の license_id をデータセット単位で usageTerms に写す (CC は版の明示が
+      無いため license 欄に入れない)。確認日 2026-07-28
+    status: active
+    date_checked: "2026-07-28"
+    notes: CKAN (27データセット・教育用データベース分科会)。メタデータは API ダンプが正、
+      HTML キャッシュは引用照合用。learningResourceType は data。
+      ダウンロードにはログインが必要な場合がある。
+
   - code: utokyo_channel
     name: UTokyo Channel (旧 UTokyo OCW)
     organization: 東京大学
