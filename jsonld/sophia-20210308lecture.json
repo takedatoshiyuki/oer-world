@@ -1,0 +1,131 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.cc.sophia.ac.jp/lecture/20210308lecture/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "HPSRとCOVID-19ーヘルスシステムの強靭性を探るー",
+  "description": "COVID-19を題材に、ヘルスシステムの強靭性を探る講義である。上智大学が主催する講演会・シンポジウムとして開講され、複数の担当者が関わっている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "Lucy Gilson",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Katherine Ann Villegas Reyes",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Valéry Ridde",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Fanny Chabrol",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Lola Traverson",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "他",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "上智大学"
+    }
+  ],
+  "datePublished": "2020",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "講演会・イベント"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "上智大学OpenCourseWare",
+      "id": "https://ocw.cc.sophia.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/sophia-20210308lecture",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成。確からしさ: 低（要確認）"
+    }
+  ]
+}

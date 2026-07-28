@@ -1,0 +1,89 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/854/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "京都大学経済研究所先端政策分析研究センター 国際シンポジウム  再生可能エネルギーが開く未来－欧州の経験と日本の挑戦－",
+  "description": "再生可能エネルギーの普及をめぐり、ドイツとデンマークの経験を手がかりに、制度設計と導入の状況を扱うシンポジウムである。日本の固定価格買取制度の最新動向や地域ごとの取り組みも取り上げ、普及策を議論する。",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2012-05-12",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/professional",
+      "prefLabel": {
+        "ja": "実務者・専門職",
+        "en": "professional"
+      }
+    }
+  ],
+  "keywords": [
+    "経済学・金融",
+    "国際会議"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0854",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

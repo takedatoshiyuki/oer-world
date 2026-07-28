@@ -1,0 +1,96 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ch.u-tokyo.ac.jp/series/?id=UHRQyUYaf1uM",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "東洋文化研究所公開講座 第20回 アジアの書",
+  "description": "東洋文化研究所に新たに加わった、明代刊行の『新刻彙正十八国闘宝伝』を手がかりに、中国の書物を扱う。春秋時代の伍子胥を主人公とする通俗小説として、この資料の性格を紹介しつつ、新発見の作品に触れる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ch.u-tokyo.ac.jp/privacy-policy/",
+    "description": "UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "上原 究一",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "東京大学"
+    }
+  ],
+  "datePublished": "2022",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "文化・芸術・文芸",
+    "歴史",
+    "小説",
+    "資料",
+    "東大TV"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "UTokyo Channel (旧 UTokyo OCW)",
+      "id": "https://ch.u-tokyo.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/utokyo-series-uhrqyuyaf1um",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成。確からしさ: 低（要確認）"
+    }
+  ]
+}

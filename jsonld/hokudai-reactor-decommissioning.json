@@ -1,0 +1,106 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/reactor-decommissioning",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力人材育成事業（*） オープン教材の活用による原子力教育の受講機会拡大と質的向上「我国の原子炉廃止措置の現状と重要施策のポイント」",
+  "description": "北海道大学が提供する、日本語の講義教材である。原子炉廃止措置の現状と、重要施策のポイントを扱う内容で、原子力人材育成事業に関連する教材として開講されている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "佐藤忠道",
+      "affiliation": {
+        "type": "Organization",
+        "name": "原電エンジニアリング株式会社 顧問　原子力デコミッショニング研究会 事務局長"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2017",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/master",
+      "prefLabel": {
+        "ja": "修士課程",
+        "en": "Master's level"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "原子力バックエンド教育",
+    "オープン教材",
+    "専門教育",
+    "原子炉廃止措置",
+    "工学／情報"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-reactor-decommissioning",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成。確からしさ: 低（要確認）"
+    }
+  ]
+}

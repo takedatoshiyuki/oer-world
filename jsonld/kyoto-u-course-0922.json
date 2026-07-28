@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/922/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "E. FORUM 2016 全国スクールリーダー育成研修",
+  "description": "学校や地域の教育改革を担うスクールリーダーの育成を扱う研修である。公開教材には、課題設定能力の育成に向けた指導と評価、および高校での教員の職能成長や授業改善に関する講義資料が含まれる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "渡邉 久暢",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "西條 哲司",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "岡本 真澄",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "桑原 知子（京都大学教育学研究科 教授",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "教育実践コラボレーション・センター センター長）",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "西岡 加名恵",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "高見 茂",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2016-08-19",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/continuing_education",
+      "prefLabel": {
+        "ja": "生涯学習・リカレント教育",
+        "en": "Continuing education"
+      }
+    }
+  ],
+  "keywords": [
+    "教育学",
+    "公開講義"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 課題設定能力の育成を目指す指導と評価の実際　資料１",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.forum_1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 課題設定能力の育成を目指す指導と評価の実際　資料２",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.forum_2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 高校における教員の職能成長と授業改善の可能性を探る～演劇的手法を用いたコミュニケーション力の育成とその評価研究から～　資料１",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.foum_3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 高校における教員の職能成長と授業改善の可能性を探る～演劇的手法を用いたコミュニケーション力の育成とその評価研究から～　資料２",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.foum_4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0922",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

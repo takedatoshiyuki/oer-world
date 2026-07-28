@@ -1,0 +1,88 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/770/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "2017年 若手パブリックヘルス研究者京都国際会議",
+  "description": "本教材は、2017年に京都大学医学研究科が開催した若手パブリックヘルス研究者京都国際会議の記録である。会議では、医療制度、疾病予防、産業活動と健康、環境安全、健康と生活の質など、公衆衛生に関する複数のテーマの講演と発表を扱う。",
+  "inLanguage": [
+    "en"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2017-12-06",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/health_welfare",
+      "prefLabel": {
+        "ja": "保健・福祉",
+        "en": "Health and welfare"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/professional",
+      "prefLabel": {
+        "ja": "実務者・専門職",
+        "en": "professional"
+      }
+    }
+  ],
+  "keywords": [
+    "医学",
+    "国際会議"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0770",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

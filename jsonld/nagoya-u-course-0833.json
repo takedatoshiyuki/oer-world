@@ -1,0 +1,220 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.nagoya-u.jp/courses/0833-%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0%E5%AD%A6i-2021/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "線形代数学I",
+  "description": "線形代数学の基礎として、連立方程式、行列計算、基本変形、行列階数を扱う。あわせて、ベクトルの内積・外積、線形写像、直交行列、行列式に関するレポートも公開されている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.nagoya-u.jp/about/",
+    "description": "非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "須田 淳",
+      "affiliation": {
+        "type": "Organization",
+        "name": "名古屋大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "名古屋大学"
+    }
+  ],
+  "datePublished": "2020",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "数学",
+    "線形代数",
+    "演算法則",
+    "近代科学",
+    "正則行列",
+    "写像",
+    "行列",
+    "授業の目的およびねらい"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "名大の授業 (NU OCW)",
+      "id": "https://ocw.nagoya-u.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 電気回路",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: ベクトル内積外積",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 行列計算練習",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 線形写像と行列",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 中間まとめ",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 線形写像・直交行列他",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide6.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 行列式",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 行列式練習問題",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide8.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 連立方程式",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide9.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "レポート: 基本変形行列階数",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/833/slide10.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/nagoya-u-course-0833",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-21",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

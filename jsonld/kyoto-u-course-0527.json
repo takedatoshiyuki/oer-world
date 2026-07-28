@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/527/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "MOOCは大学教育をどのように進化させるのか",
+  "description": "MOOCの普及が大学教育にもたらす変化を主題に、京都大学のedX参加やKyotoUxとしてのMOOC配信を取り上げる。あわせて、MOOCをめぐる世界の動向と、京都大学での取組、データ分析、実践事例、今後の展望を扱う。",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "飯吉 透",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山極 壽一",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Kathy Pugh",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "酒井 博之",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山田 亮",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山田 亮",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "伊藤 哲史",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山内 裕",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2015-12-09",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/professional",
+      "prefLabel": {
+        "ja": "実務者・専門職",
+        "en": "professional"
+      }
+    }
+  ],
+  "keywords": [
+    "教育学",
+    "国際会議"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0527",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

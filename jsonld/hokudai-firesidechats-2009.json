@@ -1,0 +1,89 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/firesidechats-2009",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "遠友学舎炉辺談話 情報の可視化技術 コンピュータグラフィックスが可能にする科学と社会の見える化(2009)",
+  "description": "北海道大学遠友学舎で開催された講義の映像資料を収録する。題名から、情報の可視化技術とコンピュータグラフィックスによる科学・社会の見える化を扱う内容である。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "山本 強",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院情報科学研究科"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2009",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-firesidechats-2009",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

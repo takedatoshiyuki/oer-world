@@ -1,0 +1,179 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ch.u-tokyo.ac.jp/series/?id=MlRyrBAy1Nnm",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "東京大学公開講座「恵み」",
+  "description": "人間の社会性を政治思想の観点から考察する公開講座である。人と人との絆を「恵み」とみなす考え方と、関係のしがらみが自由を妨げるという見方を取り上げ、その意味を問い直す。著名な哲学者たちの思想にも触れる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ch.u-tokyo.ac.jp/privacy-policy/",
+    "description": "UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "川出 良枝",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "寺島 一郎",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "菅 豊",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "北村 友人",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "越塚 登",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "前田 章",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "鷲谷 いづみ",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "多部田 茂",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "東京大学"
+    }
+  ],
+  "datePublished": "2014",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/health_welfare",
+      "prefLabel": {
+        "ja": "保健・福祉",
+        "en": "Health and welfare"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/upper_secondary",
+      "prefLabel": {
+        "ja": "高等学校",
+        "en": "Upper secondary education"
+      }
+    }
+  ],
+  "keywords": [
+    "環境",
+    "生命・医療",
+    "文化・芸術・文芸",
+    "教育",
+    "国際関係",
+    "AI・情報",
+    "エネルギー・資源",
+    "経済・金融",
+    "東大TV"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "UTokyo Channel (旧 UTokyo OCW)",
+      "id": "https://ch.u-tokyo.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/utokyo-series-mlryrbay1nnm",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

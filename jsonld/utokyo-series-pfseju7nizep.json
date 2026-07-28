@@ -1,0 +1,167 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ch.u-tokyo.ac.jp/series/?id=PFsejU7NIZEP",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "数学を創る－数学者達の挑戦（学術俯瞰講義）",
+  "description": "数学が自然、社会、技術の現象とどのように結びつくかを起点に、数理モデルの考え方を扱う講義である。あわせて、数学者がどのように試行錯誤しながら理論を作り、新しい数学の道具を生み出していくかという研究の過程も紹介する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ch.u-tokyo.ac.jp/privacy-policy/",
+    "description": "UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "Kazuo Okamoto",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "斎藤 毅",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "甘利 俊一",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "新井 仁之",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "坪井 俊",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "東京大学"
+    }
+  ],
+  "datePublished": "2009",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/ict",
+      "prefLabel": {
+        "ja": "情報通信技術",
+        "en": "Information and Communication Technologies"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    },
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "数理",
+    "歴史",
+    "AI・情報",
+    "心理・認知",
+    "宇宙・物理",
+    "数学",
+    "データ分析",
+    "数論",
+    "UTokyo OCW"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "UTokyo Channel (旧 UTokyo OCW)",
+      "id": "https://ch.u-tokyo.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/utokyo-series-pfseju7nizep",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

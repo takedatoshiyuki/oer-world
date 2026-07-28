@@ -1,0 +1,129 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ch.u-tokyo.ac.jp/series/?id=LNvWBtv1TGZc",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "日本航空（JAL）×東京大学生産技術研究所 飛行機ワークショップ開催10周年記念対談",
+  "description": "JALと東京大学生産技術研究所が2016年度から続けてきた「飛行機ワークショップ」の10周年を記念する対談である。JALの赤坂祐二と東京大学の藤井輝夫が、これまでの歩みを振り返りつつ、次世代育成やSTEAM教育への考えを語る。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ch.u-tokyo.ac.jp/privacy-policy/",
+    "description": "UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "藤井 輝夫",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "赤坂 祐二",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "川越 至桜",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "東京大学"
+    }
+  ],
+  "datePublished": "2025",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/upper_secondary",
+      "prefLabel": {
+        "ja": "高等学校",
+        "en": "Upper secondary education"
+      }
+    }
+  ],
+  "keywords": [
+    "教育",
+    "ロボット・技術",
+    "飛行機",
+    "ものづくり",
+    "対談・座談会・インタビュー",
+    "東大TV"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "UTokyo Channel (旧 UTokyo OCW)",
+      "id": "https://ch.u-tokyo.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/utokyo-series-lnvwbtv1tgzc",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

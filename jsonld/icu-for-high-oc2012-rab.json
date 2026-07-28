@@ -1,0 +1,97 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.info.icu.ac.jp/for_high/oc2012_rab",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "The ICU Difference:Critical, Creative and Lateral Thinking",
+  "description": "国際基督教大学が提供し、同大学が担当する講義である。講義名からは、批判的思考、創造的思考、水平思考を扱う内容であることが読み取れる。",
+  "inLanguage": [
+    "en"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.info.icu.ac.jp/index/icu-ocw",
+    "description": "新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "datePublished": "2012-07-21",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/upper_secondary",
+      "prefLabel": {
+        "ja": "高等学校",
+        "en": "Upper secondary education"
+      }
+    }
+  ],
+  "keywords": [
+    "オープンキャンパス講義"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "ICU OpenCourseWare",
+      "id": "https://ocw.info.icu.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/icu-for-high-oc2012-rab",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成。確からしさ: 低（要確認）"
+    }
+  ]
+}

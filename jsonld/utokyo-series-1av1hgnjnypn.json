@@ -1,0 +1,93 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ch.u-tokyo.ac.jp/series/?id=1AV1hgNjnYPN",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "UTokyo OCW説明会",
+  "description": "東京大学のオープンコースウェアであるUTokyo OCWについて、その概要と活用の流れを説明する説明会である。東京大学の正規講義の資料や映像が公開される仕組みを扱い、講義公開を希望する教員が公開までに行う内容を案内する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ch.u-tokyo.ac.jp/privacy-policy/",
+    "description": "UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "小松祐美",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "東京大学"
+    }
+  ],
+  "datePublished": "2019",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "教育",
+    "東大TV"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "UTokyo Channel (旧 UTokyo OCW)",
+      "id": "https://ch.u-tokyo.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/utokyo-series-1av1hgnjnypn",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

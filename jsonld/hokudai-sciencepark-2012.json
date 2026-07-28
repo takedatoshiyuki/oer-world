@@ -1,0 +1,127 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/sciencepark-2012",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "サイエンスパーク in 北海道大学総合博物館 ノーベル化学賞鈴木章先生と 見て、触れて、楽しみ、学ぼう！ （2012）",
+  "description": "北海道大学名誉教授の鈴木章氏を招き、子どもたちが科学技術に触れる機会をつくる内容である。見て、触れて、楽しみながら学ぶ体験型の交流の場として構成されている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "高橋 はるみ",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道知事"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山口 佳三",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学副学長"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "鈴木 章",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学名誉教授"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山本 靖典",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学工学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "津曲 敏郎",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学博物館館長"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2012",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/web_page",
+      "prefLabel": {
+        "ja": "ウェブページ",
+        "en": "Web Page"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "サイエンスパーク",
+    "ノーベル賞",
+    "鈴木カップリング",
+    "理学／自然科学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-sciencepark-2012",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

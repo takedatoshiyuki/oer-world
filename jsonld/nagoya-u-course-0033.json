@@ -1,0 +1,230 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.nagoya-u.jp/courses/0033-%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%92%B0%E5%A2%83%E5%AD%A6-2005/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "資源植物環境学",
+  "description": "植物の光合成を中心に、光化学反応と炭酸固定反応の生理・生化学を扱う。あわせて、高温や乾燥環境に適応した光合成様式の違い、代謝と結びついた組織・細胞構造、環境変化の感知と防御・適応の分子機構を取り上げる。公開教材には、C3/C4光合成、CO2濃縮機構、CAM型光合成、光環境、光阻害などの講義ノートと試験問題が含まれる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.nagoya-u.jp/about/",
+    "description": "非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "谷口光隆 教授, 三宅博",
+      "affiliation": {
+        "type": "Organization",
+        "name": "名古屋大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "名古屋大学"
+    }
+  ],
+  "datePublished": "2005",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/assessment",
+      "prefLabel": {
+        "ja": "評価・試験問題",
+        "en": "Assessment"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/agriculture",
+      "prefLabel": {
+        "ja": "農林水産・獣医学",
+        "en": "Agriculture, forestry, fisheries and veterinary"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "環境学",
+    "農学",
+    "生化学",
+    "細胞生物学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "名大の授業 (NU OCW)",
+      "id": "https://ocw.nagoya-u.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "課題: 平成 16 年度試験問題",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/shiken.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 光合成についてのおさらい",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/1-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: C3 光合成と C4 光合成の特性比較",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/8-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: CO2 濃縮機構",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/9-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: C4 様光合成，細胞間の代謝産物輸送",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/10-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 生体膜間の代謝産物輸送",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/11-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: CAM 型光合成",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/12-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 光環境１：光強度の変動に対する植物の適応",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/13-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 光環境２：光情報の受容とシグナル伝達",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/14-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 光環境３：光阻害",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/33/15-note.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/nagoya-u-course-0033",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-21",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

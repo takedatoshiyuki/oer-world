@@ -1,0 +1,271 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/444/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "動物生体機構学",
+  "description": "動物の生体機構と生理機能を主題に、細胞・組織・器官の構造と働きを順に扱う。あわせて、内分泌機能、免疫機能、家畜の遺伝的改良に伴う体の構造と生理機能の変化と適応も取り上げる。公開資料では、細胞から各器官系までを通して学ぶ構成になっている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "久米 新一",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2012",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/agriculture",
+      "prefLabel": {
+        "ja": "農林水産・獣医学",
+        "en": "Agriculture, forestry, fisheries and veterinary"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "農学",
+    "生物学・生命科学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第1回　動物の生体機構",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_01.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第2回　動物の細胞",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_02.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第3回　動物の細胞と細胞膜",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_03.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第4回　動物の組織",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_04.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第5回　動物の血液の機能",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_05.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第6回　動物の免疫機能",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_06.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第7回　動物の内分泌系",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_07.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第8回　動物の筋肉と骨",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_08.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第9回　動物の神経系",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_09.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第10回　動物の消化器系",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_10.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第11回　動物の循環器系",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第12回　動物の泌尿器系",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_12.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第13回　反芻動物のルーメン機能",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_13.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第14回　乳牛の疾病予防",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_14.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0444",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

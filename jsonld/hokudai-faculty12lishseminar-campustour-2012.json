@@ -1,0 +1,199 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "全学教育 英語演習 初級：All-English Training for Giving a Campus Tour (2012)",
+  "description": "北海道大学で2012年度に開講された英語演習で、キャンパスツアーを英語で案内するための内容を扱う。キャンパスや市の説明のしかたに加え、札幌で英語を使って人と接する場面にも触れる。公開教材は8件のスライド資料である。",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "河合 剛",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2012",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "文学／思想／言語"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121003_wed1_week1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121010_wed1_week2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121017_wed1_week3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121024_wed1_week4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121031_wed1_week5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121107_wed1_week6.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121114_wed1_week7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: スライド資料",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121121_wed1_week8.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-faculty12lishseminar-campustour-2012",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

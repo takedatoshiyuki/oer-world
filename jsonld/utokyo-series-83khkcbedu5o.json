@@ -1,0 +1,155 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ch.u-tokyo.ac.jp/series/?id=83khkcbeDu5O",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "令和７年度「東京大学安全の日」講演会",
+  "description": "東京大学が毎年7月4日に行う「東京大学安全の日」の講演会であり、2025年度版として実施された。内容は「野外活動のリスクと安全、その対策」をテーマに、野外活動における危険と安全対策を扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ch.u-tokyo.ac.jp/privacy-policy/",
+    "description": "UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "藤井 輝夫",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "齊藤 延人",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "岸 利治",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "飯本 武志",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "橋谷 晃",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "黒田 玲子",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山田 育穂",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "砂田 武俊",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "東京大学"
+    }
+  ],
+  "datePublished": "2025",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "災害・防災",
+    "ロボット・技術",
+    "安全管理",
+    "リスク対策",
+    "ドローン",
+    "自転車",
+    "事故",
+    "東大TV"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "UTokyo Channel (旧 UTokyo OCW)",
+      "id": "https://ch.u-tokyo.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/utokyo-series-83khkcbedu5o",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

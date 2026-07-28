@@ -1,0 +1,106 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/english1-tsuchinaga",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "全学教育 英語I 補助教材「（電子辞書や語学放送にまつわる）英語学習に関する雑多な情報」（日本語字幕付き）",
+  "description": "2022年度の「英語I」で使われた日本語字幕付きのオンデマンド教材で、英語学習に使える電子辞書やNHKラジオの語学放送の利用法を扱う。さらに、Oxford English Dictionaryの案内も含め、英語学習に関連する情報をまとめている。",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "土永 孝",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院メディア・コミュニケーション研究院"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2022",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-english1-tsuchinaga",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

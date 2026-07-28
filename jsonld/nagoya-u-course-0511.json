@@ -1,0 +1,232 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.nagoya-u.jp/courses/0511-%E5%89%8D%E8%A1%9B%E8%8A%B8%E8%A1%93%E6%A6%82%E8%AB%96-2015/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "前衛芸術概論",
+  "description": "ドイツ・オーストリア近現代音楽とオペラを軸に、調性や美、価値、資本形態、欲望と欲動の関係を扱う講義である。ワーグナーやモーツァルト、ベルクを題材とする講義ノートを通して、音楽史・オペラ史を文化現象として見直す内容になっている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.nagoya-u.jp/about/",
+    "description": "非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "藤井たぎる",
+      "affiliation": {
+        "type": "Organization",
+        "name": "名古屋大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "名古屋大学"
+    }
+  ],
+  "datePublished": "2015",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "国際",
+    "芸術/美術/音楽"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "名大の授業 (NU OCW)",
+      "id": "https://ocw.nagoya-u.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: ワーグナー『ローエングリン』・第二幕第五場のアンサンブル場面について",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 主体/主調はいかにして確立されるのか?～主調と主体の相同性について",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: モーツァルト『コシ・ファン・トゥッテ』における自我理想 (象徴界) と超自我 (現実界)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 美とフィボナッチ数列と黄金比",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 価値とは?",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 価値、そしてあるいは調性",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture6.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 価値/調性の自己増殖?",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 調性とその喪失のものがたり",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture8+9.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 資本形態と恋愛形態- 欲望の愛から、欲動の愛へ",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture10+11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: 調性という名の不在の中心",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture12.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義ノート: ルルという名の欲望",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/511/lecture13+14.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/nagoya-u-course-0511",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-21",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

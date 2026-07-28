@@ -1,0 +1,125 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/533/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "ピア・インストラクションによるアクティブラーニングの深化",
+  "description": "ピア・インストラクションを扱うアクティブラーニングの講義である。京都大学の高等教育研究開発推進センターが開講し、飯吉透、エリック・マズール、溝上慎一、松下佳代、大塚雄作が担当する。使用言語は日本語と英語である。",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "飯吉 透",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "エリック・マズール",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "溝上 慎一",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "松下 佳代",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "大塚 雄作",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2012-10-10",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/professional",
+      "prefLabel": {
+        "ja": "実務者・専門職",
+        "en": "professional"
+      }
+    }
+  ],
+  "keywords": [
+    "教育学",
+    "国際会議"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0533",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

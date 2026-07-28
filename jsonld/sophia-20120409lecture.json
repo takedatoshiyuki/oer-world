@@ -1,0 +1,99 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.cc.sophia.ac.jp/lecture/20120409lecture/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "実学 国際貢献論 第1回：日本・モンゴル国際交流で学ぶ真実と親切を真理で学ぶ",
+  "description": "上智大学が主催する連続講演会「実学 国際貢献論」の第1回で、日本・モンゴルの国際交流を扱う。白鵬翔がユネスコ親善大使としての立場から、国際交流や親善への思いを語る内容である。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "白鵬 翔",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "石河 信昭",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "上智大学"
+    }
+  ],
+  "datePublished": "2012",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "講演会・イベント"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "上智大学OpenCourseWare",
+      "id": "https://ocw.cc.sophia.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/sophia-20120409lecture",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

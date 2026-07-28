@@ -1,0 +1,98 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.tsukuba.ac.jp/data-science/social_science/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "データサイエンス講義 データサイエンスと社会科学",
+  "description": "社会科学分野の研究例を通して、データサイエンスが社会科学で担う役割と、将来どのようなことが可能になるかを扱う講義である。説明にはグラフや動画を用い、専門外の学生にも向けて内容を示す。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "内藤 久裕",
+      "affiliation": {
+        "type": "Organization",
+        "name": "人文社会系"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "筑波大学"
+    }
+  ],
+  "datePublished": "2020-09-04",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/ict",
+      "prefLabel": {
+        "ja": "情報通信技術",
+        "en": "Information and Communication Technologies"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "データサイエンス"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "TSUKUBA OCW",
+      "id": "https://ocw.tsukuba.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/tsukuba-ds-social-science",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

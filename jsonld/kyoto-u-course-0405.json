@@ -1,0 +1,173 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/405/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "箱庭の木を作る",
+  "description": "箱庭療法で用いる木の作り方を扱い、実際に作成する内容である。作成の過程や、作ったミニチュアを棚に並べる場面で生じる感情にも触れる。2005年秋に学内研究会で行った研修の資料を収録する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "青木 健次",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "中川 純子",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2005-10-19",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/continuing_education",
+      "prefLabel": {
+        "ja": "生涯学習・リカレント教育",
+        "en": "Continuing education"
+      }
+    }
+  ],
+  "keywords": [
+    "人文科学",
+    "公開講義"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義資料（低解像度軽量版）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/21c90d02b234bdfe5ac96ab3e6448f65.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義資料（高解像度版）Part 1",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/77b29b58e345289e7c5aebd904405082.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義資料（高解像度版）Part 2",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a6312224367c03b7ecb0704a08fb5bed.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義資料（高解像度版）Part 3",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/7f7543b92e4de603545263116c1e1bf4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義資料（ppsx版）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2015_hakoniwanokiwotukuru.ppsx.zip",
+          "encodingFormat": "application/zip"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0405",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

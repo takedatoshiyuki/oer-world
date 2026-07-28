@@ -1,0 +1,426 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/798/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "What is Life? The Next 100 Years of Yukawa’s Dream",
+  "description": "京都大学基礎物理学研究所が提供・担当する、英語による講義である。公開資料には「What is Life?」のほか、Masatoshi Murase、Nobuhiro Minaka、Alex Mogilner、Toshio Yanagida、Luciano Floridi、Raphael Pinaud、Seunghwan Kim、Kuniaki Otsuka などの講義資料が含まれる。",
+  "inLanguage": [
+    "en"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2007-10-15",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/professional",
+      "prefLabel": {
+        "ja": "実務者・専門職",
+        "en": "professional"
+      }
+    }
+  ],
+  "keywords": [
+    "国際会議"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: What is Life?",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What-is-life_top.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Masatoshi Murase",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_01.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Nobuhiro Minaka",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_02.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Alex Mogilner",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_03.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Toshio Yanagida",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_04.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Luciano Floridi",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_05.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Raphael Pinaud",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_06.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Seunghwan Kim",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_07.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Kuniaki Otsuka 1/5",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-01.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Kuniaki Otsuka 2/5",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-02.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Kuniaki Otsuka 3/5",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-03.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Kuniaki Otsuka 4/5",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-04.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Kuniaki Otsuka 5/5",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-05.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Kunihiko Kaneko",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_09.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hiroyuki Takeda",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_10.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: John Evans",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Mitsuhiko Shionoya",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_12.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Rudy Rucker",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_13.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Susumu Goto",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_14.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Kiyoshi Miyagawa",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_15.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Franz Halberg",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_16.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Aage R. Moller",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_17.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: David Deamer",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_18.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Robert Arking",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_19.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Musashi Tachikawa",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_20.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Junji Takabayashi",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_21.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Nicholas Humphrey",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_22.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Donald W. Pfaff",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_23.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Masami Ishido",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_24.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Leif G. Solford",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_25.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0798",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

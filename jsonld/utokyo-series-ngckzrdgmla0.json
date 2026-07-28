@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ch.u-tokyo.ac.jp/series/?id=ngckzrdgMLA0",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "深層学習の先にあるもの – 記号推論との融合を目指して（２）",
+  "description": "この講義は、知能の中で想像が果たす役割を手がかりに、知能を記号系と知覚運動系の二階建てモデルとして捉える視点を扱う。そこから、記号推論とディープラーニングを結びつける人工知能の可能性を考える内容である。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ch.u-tokyo.ac.jp/privacy-policy/",
+    "description": "UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "松尾 豊",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山川 宏",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "麻生 英樹",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "谷口 忠大",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "尾形 哲也",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "國吉 康夫",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "中島 秀之",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "東京大学"
+    }
+  ],
+  "datePublished": "2018",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/ict",
+      "prefLabel": {
+        "ja": "情報通信技術",
+        "en": "Information and Communication Technologies"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "AI・情報",
+    "心理・認知",
+    "東大TV"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "UTokyo Channel (旧 UTokyo OCW)",
+      "id": "https://ch.u-tokyo.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/utokyo-series-ngckzrdgmla0",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

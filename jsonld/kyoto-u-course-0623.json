@@ -1,0 +1,264 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/623/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "基礎物理化学B",
+  "description": "熱力学の基礎から出発し、自由エネルギーや化学ポテンシャルを用いて、理想気体・溶液、活量、質量作用の法則、蒸気圧降下や沸点上昇などの化学現象を扱う。あわせて、マックスウェル・ボルツマン分布や分子分配関数、平衡定数、遷移状態理論までを含めて、巨視的な熱現象と微視的な分子の振る舞いのつながりを学ぶ。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.kyoto-u.ac.jp/guideline/",
+    "description": "非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "安藤 耕司",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2007",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "化学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第1回　講義の概要、熱力学第一法則",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ffa0f4789def946b060b14b3985f08d1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第2回　エントロピーの導入、熱力学第二法則",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/af5009c4ec050569421e6ca32ad74128.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第3回　種々の熱力学ポテンシャル、ルジャンドル変換",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b2103633482f01af5210817d1228f17a.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第4回　自発的過程と自由エネルギー",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/f35dd60798417f9772eefe375766add7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第5回　エントロピーの示量性、Gibbs-Duhemの式",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6153a532706d175559bf02948523f955.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第6回　化学ポテンシャル、理想気体、理想混合気体",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/364334e4bb594f660c6621efcd9e32ee.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第7回　理想溶液、非理想溶液、活量と活量係数",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a908b60ed9e70606a7b8e553374952d7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第8回　質量作用の法則、Gibbs-Helmholtzの式",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/5436c553a4f31b240921debfbf6182b1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第9回　蒸気圧降下と沸点上昇、ラウールの法則",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4c6f33873ddb68ef220137c40d505fb4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第10回　エンタルピー変化の測定、クラウジウス・クラペイロンの式",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4a61d92881bc624ab7bba71ebe8432b3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第11回　マックスウェル・ボルツマン分布、ボルツマンの原理",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b50bca62b4442333d33c8b793e28e95e.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第12回　分子分配関数、平衡定数、遷移状態理論",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3973a8093e0220d5b9fd442dd15ff4b5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 第13回　光と分子、電子スペクトル、振動・回転スペクトル",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/423c241937f4894a920e22487a54f487.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2007年度試験問題",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a3c4ed285952cc6f7f689c579d56b0d5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0623",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

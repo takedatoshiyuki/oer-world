@@ -1,0 +1,123 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/662/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "Culture, Sustainability and Disaster Recovery :A Sociological, Architectural and Cultural Approach",
+  "description": "自然災害と人為災害を題材に、災害対応を支える文化的・社会学的・心理的要因を検討する。家族、ジェンダー、障害、芸術表現、建築、援助、持続可能な再生、政策までを扱い、複数の事例を比較しながら考察する。",
+  "inLanguage": [
+    "en"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "John Robert Clammer（Professor",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "O.P. Jindal Global University",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "India）",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2019",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "社会科学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0662",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

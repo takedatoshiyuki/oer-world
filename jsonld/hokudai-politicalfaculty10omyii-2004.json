@@ -1,0 +1,210 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "学部専門教育 グローバル・エコノミーの政治経済学（2004）",
+  "description": "1990年代以降に形成されたグローバル・エコノミーを対象に、現代資本主義の構造と変動を分析する講義である。あわせて、その過程で生じた緊張や矛盾に対して、どのような対応が考えられるかを扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "佐々木 隆生",
+      "affiliation": {
+        "type": "Organization",
+        "name": "公共政策大学院"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2004",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "グローバル・エコノミー，国際資本移動，世界経済管理",
+    "ビジネス／経済"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-00.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-01.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-02.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-03.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-04.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-05.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-06.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Reference.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 全講義ノート",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-all.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-politicalfaculty10omyii-2004",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

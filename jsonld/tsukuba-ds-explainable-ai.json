@@ -1,0 +1,98 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.tsukuba.ac.jp/data-science/explainable-ai/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "データサイエンス講義 説明可能なAI",
+  "description": "この講義は、機械学習のブラックボックスモデルを題材に、信頼性・公平性・有用性に関わる問題を扱う。あわせて、モデルの仕組みを確認し、どのような場合に解釈可能性が生まれ、どのような場合に不明瞭になるかを取り上げる。さらに、ブラックボックス問題を軽減するための技術的手法、その使用例、現在の課題まで概説する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "Bogdanova Anna",
+      "affiliation": {
+        "type": "Organization",
+        "name": "筑波大学システム情報系"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "筑波大学"
+    }
+  ],
+  "datePublished": "2024-09-27",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/ict",
+      "prefLabel": {
+        "ja": "情報通信技術",
+        "en": "Information and Communication Technologies"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "データサイエンス"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "TSUKUBA OCW",
+      "id": "https://ocw.tsukuba.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/tsukuba-ds-explainable-ai",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

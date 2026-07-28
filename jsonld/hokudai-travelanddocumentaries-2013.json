@@ -1,0 +1,392 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/travelanddocumentaries-2013",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "全学教育 英語IV All-English Training for Travel and Documentaries（2013）",
+  "description": "英語のみで行う1学期の講義で、人と会う場面でのやり取り、アニメやドキュメンタリーのような短い映像の理解を扱う。あわせて、日常会話やドキュメンタリー番組でよく現れる語句を使って、話す・聞く・読む・書くことを扱う。",
+  "inLanguage": [
+    "en"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "河合 剛",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2013",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "文学／思想／言語"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131002_wed234_week1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131009_wed234_week2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131009_wed234_week2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131016_wed234_week3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131016_wed234_week3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131023_wed234_week4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131023_wed234_week4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131030_wed234_week5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131030_wed234_week5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131106_wed234_week6.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131106_wed234_week6.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131113_wed234_week7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131113_wed234_week7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131120_wed234_week8.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131120_wed234_week8.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131127_wed234_week9.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131127_wed234_week9.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131204_wed234_week10.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131204_wed234_week10.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131211_wed234_week11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131211_wed234_week11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/131218_wed234_week12.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_131218_wed234_week12.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Slide",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/140115_wed234_week13.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: Hand-out",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Handout_140115_wed234_week13.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-travelanddocumentaries-2013",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

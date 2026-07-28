@@ -1,0 +1,260 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.nagoya-u.jp/courses/1005-%E5%93%B2%E5%AD%A6-2025/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "哲学",
+  "description": "中国思想史に関わる内容を扱う講義で、神話伝説から諸子百家の時代、前漢、後漢、魏晋南北朝、隋唐・宋代、明代までの教材が公開されている。ガイダンスを含めて14件の教材ファイルがあり、春学期に文学部2年生向けとして開講される。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.nagoya-u.jp/about/",
+    "description": "非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "佐野 大介",
+      "affiliation": {
+        "type": "Organization",
+        "name": "名古屋大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "名古屋大学"
+    }
+  ],
+  "datePublished": "2025",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "文学",
+    "歴史",
+    "中国哲学",
+    "漢文"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "名大の授業 (NU OCW)",
+      "id": "https://ocw.nagoya-u.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "ガイダンス",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/01.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "神話伝説",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/02.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "諸子百家の時代 01 儒家・墨家",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/03.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "諸子百家の時代 02 道家・陰陽家・名家",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/04.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "諸子百家の時代 03 兵家・法家",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/05.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "前漢",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/06.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "後漢",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/07.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "魏晋南北朝",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/08.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "隋唐・宋代１",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/09.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "宋代２",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/10.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "宋代３・元代",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "明代",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/12.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "清代",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/13.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "近現代",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/1005/14.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/nagoya-u-course-1005",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-21",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

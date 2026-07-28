@@ -1,0 +1,99 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.cc.sophia.ac.jp/lecture/20140614igc/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "「国際家族農業年と人びとの食料主権国連食糧農業機関(FAO)のパラダイム転換を学ぶ」",
+  "description": "国際機関が大規模企業的農業中心の政策転換を求める背景を取り上げ、2014年の「国際家族農業年」と結びつけて考える講義である。あわせて、日本の農業政策や南の地域の自立に向けた活動の方向性も扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "関根佳恵 (愛知学院大学経済学部教員",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "農業経済学)",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "上智大学"
+    }
+  ],
+  "datePublished": "2014",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "講演会・イベント"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "上智大学OpenCourseWare",
+      "id": "https://ocw.cc.sophia.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/sophia-20140614igc",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

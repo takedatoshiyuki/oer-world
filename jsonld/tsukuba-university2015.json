@@ -1,0 +1,98 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.tsukuba.ac.jp/course/others/university2015/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "2015年度 特別講義「大学と学問」",
+  "description": "現代社会で生じているエネルギー・資源、産業・経済、食料、人口構成、格差社会といった問題を背景に、大学と学問の役割を考える講義である。科学と技術の進歩がもたらした影響を踏まえつつ、地球規模で捉える必要のある課題にどう向き合うかを扱う。基礎科学から創薬までの研究経験をもとに、大学における学問のあり方を考察する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "永田 恭介",
+      "affiliation": {
+        "type": "Organization",
+        "name": "筑波大学 学長"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "筑波大学"
+    }
+  ],
+  "datePublished": "2015-06-18",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "その他"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "TSUKUBA OCW",
+      "id": "https://ocw.tsukuba.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/tsukuba-university2015",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

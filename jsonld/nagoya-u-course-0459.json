@@ -1,0 +1,145 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.nagoya-u.jp/courses/0459-%E7%97%85%E7%90%86%E5%AD%A6%E7%B7%8F%E8%AB%96%E3%83%BB%E5%90%84%E8%AB%96-(%E7%97%85%E5%9B%A0%E3%81%A8%E7%97%85%E6%85%8B%E5%AD%A6)-2015/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "病理学総論・各論-(病因と病態学)",
+  "description": "病理学を、疾病の原因や本質から臓器・組織ごとの主要な病変まで段階的に扱う講義として構成している。総論では肉眼的・組織学的変化や細胞小器官の変化を学び、各論では顕微鏡観察やバーチュアルスライドを用いた実習を通して個々の疾患を扱う。症例検討は5年次に行う内容として位置づけられている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.nagoya-u.jp/about/",
+    "description": "非営利の教育目的に限り、コピー・配布・翻訳・編集を含め利用可。クレジット「© 講義の年 教員の氏名（名大の授業）」の明記が条件。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "豊國伸哉",
+      "affiliation": {
+        "type": "Organization",
+        "name": "名古屋大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "名古屋大学"
+    }
+  ],
+  "datePublished": "2015",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/slide",
+      "prefLabel": {
+        "ja": "スライド",
+        "en": "Slide(s)"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/health_welfare",
+      "prefLabel": {
+        "ja": "保健・福祉",
+        "en": "Health and welfare"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "医学/薬学",
+    "基礎医学",
+    "化学物質"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "名大の授業 (NU OCW)",
+      "id": "https://ocw.nagoya-u.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "病理学総論・各論講義・実習予定表 (平成 27 年度) 4 月〜7 月",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/459/schedule.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "配布資料を開く",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/459/handout.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義スライドを見る",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.nagoya-u.jp/files/459/lecturematerial.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/nagoya-u-course-0459",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-21",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.info.icu.ac.jp/majors/hst221_2014a",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "History of Contemporary Japan 日本現代史",
+  "description": "本講義は、近年の日本史を、日本の太平洋戦争参戦を軸にたどる。植民地政策や日米関係、南京事件、真珠湾攻撃、原爆投下、占領、東京裁判、天皇制、戦後日本の位置づけまでを扱う。\n\n講義ではさらに、帝国主義やナショナリズム、総力戦、国家神道、敗戦後のアイデンティティ、冷戦期の対米関係、経済復興とバブル崩壊後の社会変化、戦後宗教、オウム真理教、オタク文化も取り上げる。全17回の講義と1本の動画で構成される。",
+  "inLanguage": [
+    "en",
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.info.icu.ac.jp/index/icu-ocw",
+    "description": "新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "datePublished": "2014",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "専攻科目",
+    "History 歴史学 | Course ID: HST22",
+    "HST221 | Course Schedule: *4/W,*4/F | Update: 2016.03.28"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "ICU OpenCourseWare",
+      "id": "https://ocw.info.icu.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/icu-majors-hst221-2014a",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

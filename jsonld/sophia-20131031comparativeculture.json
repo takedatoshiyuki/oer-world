@@ -1,0 +1,111 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.cc.sophia.ac.jp/lecture/20131031comparativeculture/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "Angry Ghosts: 1900’s Boxer Crisis as Global History",
+  "description": "1900年のボクサー危機を、世界史の視点から扱う講義の資料である。上智大学比較文化研究所で2013年10月31日に開講され、Dr. Jeff Wasserstromが担当した。公開教材は講義資料1件で、PDF形式のファイルが提供されている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "Dr. Jeff Wasserstrom",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "上智大学"
+    }
+  ],
+  "datePublished": "2013",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "講演会・イベント"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "上智大学OpenCourseWare",
+      "id": "https://ocw.cc.sophia.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 131031_Wasserstrom.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/131031_Wasserstrom.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/sophia-20131031comparativeculture",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

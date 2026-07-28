@@ -1,0 +1,95 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/nobelprize-2010",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "鈴木章名誉教授ノーベル化学賞受賞記念 講演会 「夢は自分で探すもの －有機化学は面白い！－」（2010）",
+  "description": "北海道大学名誉教授の鈴木章が2010年のノーベル化学賞を受賞したことを受けた記念講演会の様子を公開する教材である。北海道大学オープンコースウェア上で、本学学生、一般市民、同窓会向けに配信している。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "鈴木 章",
+      "affiliation": {
+        "type": "Organization",
+        "name": "名誉教授"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2010",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/web_page",
+      "prefLabel": {
+        "ja": "ウェブページ",
+        "en": "Web Page"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "ノーベル賞",
+    "鈴木章",
+    "鈴木カップリング",
+    "理学／自然科学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-nobelprize-2010",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

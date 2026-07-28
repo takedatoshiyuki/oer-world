@@ -1,0 +1,161 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/fdworkshop-2011",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "第18回 北海道大学教育ワークショップ （2011）",
+  "description": "北海道大学が提供する、2011年開催の第18回北海道大学教育ワークショップの映像資料である。ないえ温泉「ホテル北乃湯」で実施された回を収録している。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "山口 佳三",
+      "affiliation": {
+        "type": "Organization",
+        "name": "理事・副学長"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山口 淳二",
+      "affiliation": {
+        "type": "Organization",
+        "name": "理学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "岡部 成玄",
+      "affiliation": {
+        "type": "Organization",
+        "name": "情報基盤センター"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "細川 敏幸",
+      "affiliation": {
+        "type": "Organization",
+        "name": "高等教育推進機構"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "西森 敏之",
+      "affiliation": {
+        "type": "Organization",
+        "name": "高等教育推進機構"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "三上 直之",
+      "affiliation": {
+        "type": "Organization",
+        "name": "高等教育推進機構"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山田 邦雅",
+      "affiliation": {
+        "type": "Organization",
+        "name": "高等教育推進機構"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "鈴木 誠",
+      "affiliation": {
+        "type": "Organization",
+        "name": "高等教育推進機構"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2011",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "北海道大学教育ワークショップ",
+    "総合入試",
+    "著作権",
+    "シラバス",
+    "学習目標",
+    "教育方針",
+    "教育／学習"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-fdworkshop-2011",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

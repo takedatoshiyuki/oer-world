@@ -1,0 +1,98 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.tsukuba.ac.jp/data-science/disability_science/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "データサイエンス講義 障害科学におけるデータに基づく意思決定",
+  "description": "障害科学においてデータが必要とされる理由と、障害に関係するデータの扱い方を取り上げる。あわせて、障害の見えやすさ・見えにくさを外れ値として捉え、福祉施設の事例を通して実践現場でのデータに基づく意思決定を扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "佐々木 銀河",
+      "affiliation": {
+        "type": "Organization",
+        "name": "筑波大学 人間系"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "筑波大学"
+    }
+  ],
+  "datePublished": "2021-09-13",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/ict",
+      "prefLabel": {
+        "ja": "情報通信技術",
+        "en": "Information and Communication Technologies"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "データサイエンス"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "TSUKUBA OCW",
+      "id": "https://ocw.tsukuba.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/tsukuba-ds-disability-science",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

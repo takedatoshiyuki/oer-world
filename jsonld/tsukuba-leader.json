@@ -1,0 +1,98 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.tsukuba.ac.jp/course/others/leader/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "2015年度 特別講義「次世代のリーダー達に期待すること」",
+  "description": "筑波大学で開講された2015年度の特別講義で、大竹美喜が担当する。大竹美喜はアフラック（アメリカンファミリー生命保険会社）の創業者・最高顧問であり、この講義はその人物による特別講義として構成される。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "大竹 美喜",
+      "affiliation": {
+        "type": "Organization",
+        "name": "アメリカンファミリー生命保険会社 創業者・前最高顧問"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "筑波大学"
+    }
+  ],
+  "datePublished": "2015-08-07",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "その他"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "TSUKUBA OCW",
+      "id": "https://ocw.tsukuba.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/tsukuba-leader",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

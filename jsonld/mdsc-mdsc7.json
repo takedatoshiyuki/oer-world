@@ -1,0 +1,98 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc7",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "海外在留邦人数調査統計_平成２９年_詳細版",
+  "description": "平成28年10月時点の海外在留邦人数と進出日系企業数の統計を扱う教材である。DATA.GO.JPに掲載された外務省提供データから選定されたデータを用いる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc7",
+    "description": "クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "教育用データベース分科会"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学 数理・データサイエンス教育研究センター"
+    }
+  ],
+  "datePublished": "2019-06-07",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/data",
+      "prefLabel": {
+        "ja": "データ",
+        "en": "Data"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    },
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/teacher",
+      "prefLabel": {
+        "ja": "教員",
+        "en": "teacher"
+      }
+    }
+  ],
+  "keywords": [
+    "分類不能の産業",
+    "宿泊業・飲食サービス業",
+    "複合サービス事業",
+    "表形式"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "教育用データ提供システム (北大MDSC)",
+      "id": "https://data.mdsc.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/mdsc-mdsc7",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

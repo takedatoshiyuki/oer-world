@@ -1,0 +1,125 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.info.icu.ac.jp/ge/ges057_2012w",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "S2: Education Projects for Global and Social Change Ｓ２：グローバル・社会変革のための教育プロジェ",
+  "description": "教育を通じてグローバル社会に関わる役割を考えながら、教育プロジェクトの企画と実施を進める講義である。欧米やアジアの高等教育の展開、発展途上国の大学事例、高等教育と経済・政治発展の関係を扱い、学外セミナーとグループでのプロジェクト発表につなげる。",
+  "inLanguage": [
+    "en",
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.info.icu.ac.jp/index/icu-ocw",
+    "description": "新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "datePublished": "2012",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "一般教育科目",
+    "GES057 | Course Schedule: 4*/M, 4*/TH | Update: 2013.04.01"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "ICU OpenCourseWare",
+      "id": "https://ocw.info.icu.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1bEwwFmrLumBY7PZgp-sov5kfBkGF6aI5/view?usp=sharing"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/icu-ge-ges057-2012w",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.info.icu.ac.jp/ge/GEN013_2016S",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "GEN013 2016S N1: The Chemical Basis of Nature Ｎ１：自然の化学的基礎」のコピー",
+  "description": "国際基督教大学が提供する、2016年開講の日本語講義である。担当は小林潤司、峰島知芳、久保謙哉で、講義名には自然の化学的基礎を扱うことが示されている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.info.icu.ac.jp/index/icu-ocw",
+    "description": "新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "小林 潤司",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "峰島 知芳",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "久保謙哉",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "datePublished": "2016",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "一般教育科目",
+    "GEN013 | Course Schedule:"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "ICU OpenCourseWare",
+      "id": "https://ocw.info.icu.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/icu-ge-gen013-2016s",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成。確からしさ: 低（要確認）"
+    }
+  ]
+}

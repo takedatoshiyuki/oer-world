@@ -1,0 +1,110 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.info.icu.ac.jp/gs/qeps515-2013s-the-psychology-of-peace-and-conflict-resolution",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "QEPS515 2013S The Psychology of Peace and Conflict Resolution",
+  "description": "人間を取り巻く物理的・社会的環境と、平和・安全・紛争との関係を心理学の観点から扱う科目である。偏見や差別、集団力学、紛争と暴力の影響を取り上げ、紛争の回避や対応、平和のための教育方法まで考察する。公開動画は授業の一部を収録したものだ。",
+  "inLanguage": [
+    "en",
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.info.icu.ac.jp/index/icu-ocw",
+    "description": "新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "笹尾 敏明",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "datePublished": "2013",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/master",
+      "prefLabel": {
+        "ja": "修士課程",
+        "en": "Master's level"
+      }
+    }
+  ],
+  "keywords": [
+    "大学院科目",
+    "QEPS515"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "ICU OpenCourseWare",
+      "id": "https://ocw.info.icu.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/icu-gs-qeps515-2013s-the-psychology-of-peace-and-conflict-resolution",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-introduction-deterioration-of-nuclear-power-plant-facility-and-durability-assessment-for-construction-materials",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「導入：原子力施設の経年劣化と建設材料の耐久性評価」",
+  "description": "原子力施設の経年劣化と建設材料の耐久性評価を導入として扱い、社会基盤施設に用いるコンクリートと鋼材の建設、セメントコンクリートの材料特性の基礎を取り上げる。さらに、鉄筋コンクリート構造物について設計・施工・維持管理の観点を含めて整理する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "橋本 勝文",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学 大学院工学研究院 環境機能マテリアル工学研究室"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2025",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "原子力規制人材育成事業",
+    "外部ハザードとその対応",
+    "コンクリート",
+    "建設材料",
+    "基礎"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 導入：原子力施設の経年劣化と建設材料の耐久性評価",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2025/09/Nuclear-Regulatory-Human-Resource-Development-Project_Introduction_Deterioration-of-Nuclear-Power-Plant-Facility-and-Durability-Assessment-for-Construction-Materials.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-nuclear-regulatory-human-resource-development-project-introduction-deterioration-of-nuclear-",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

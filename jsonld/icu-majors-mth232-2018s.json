@@ -1,0 +1,328 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.info.icu.ac.jp/majors/mth232_2018s",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "Basic Concepts in Mathematics I (Sets and Algebraic Structures) 数学通論 I（集合と代",
+  "description": "この教材は、現代数学の基礎として集合と代数系を扱い、集合と写像、同値関係と同値類、濃度、代数系までを取り上げる。毎週の講義1時限と演習2時限という構成で進む。",
+  "inLanguage": [
+    "en",
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.info.icu.ac.jp/index/icu-ocw",
+    "description": "新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "鈴木寛",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "名誉教授",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "datePublished": "2018",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "専攻科目",
+    "Mathematics 数学 | Course ID: MT",
+    "MTH232 | Course Schedule: 5/W,(6/W,7/W) | Update: 2018.04.12"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "ICU OpenCourseWare",
+      "id": "https://ocw.info.icu.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/17gmWpdSdCX0816pPuC_5HWNx-ATglWM3/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/15AMFJLWfylw-yjCkMQhkIPc7A4pw8ve0/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1ruyirWh97z-RPKs5FSex4VJj4esrjn88/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1FRhbSuPSJKuzyG02vomjzO4qQi5iHphS/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/118-1NDiJXR8ZwUtguWPYeU38DdB5fdER/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1RsDYBh6AeygEmn4SsUjkJm9fOLO1n75_/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1-5-jAIBrHOb-Vi6L66j6QQfs9LNUgH2f/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1isX1NAJx5Z17eXYub2Bj5kHEKP8kuYun/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1DL4wxP0q_8yhrb3-8mZy3mh9qFl3AX6W/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1e9x5bg9GnyCVUXAUS5OEH0MxHzWU5tnN/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/14D7xajUikzOFtR9DFaGkdhsMYV_wYHSa/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1km2bd_EficoN6oXaDlxv47SFP4cJHcFK/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1AQfRj1GQo1m8szPlyzAnZLPWylBEhiWL/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1FCSyzgYlNaSyIWXqMKHYuNwa82HPZ02Z/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1OzHv50Rnhh60gUZEtlbKHQqfDrZFBTS9/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/15tNCJSQfegg-Go_Uqq29FCUF82zc7P6g/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1w1VPeqdklIR73SVvCNwgCGISVrebjN_E/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1NeKaJExDVLV60EzXt903iTCW5061zqvj/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1zj8J9kZzZH3yTPRx4qQhwdtxrflOa241/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1fVa7yTS4JFsEnInRlWfe-I_nNgBbnezY/view?usp=sharing"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/icu-majors-mth232-2018s",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

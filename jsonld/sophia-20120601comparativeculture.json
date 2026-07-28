@@ -1,0 +1,111 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.cc.sophia.ac.jp/lecture/20120601comparativeculture/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "Mammas, Don’t Let Your Babies Grow Up to Be Samurai",
+  "description": "徳川日本における武士身分を主題に、武士であることが求められた一方で、それを避ける理由があったことを扱う。あわせて、「samurai」をどう定義するか、だれが本当の武士かを見分ける問題にも踏み込み、徳川の身分秩序が時間の中でどう保たれたかを考える。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "David L. Howell",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "上智大学"
+    }
+  ],
+  "datePublished": "2012",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/social_sciences",
+      "prefLabel": {
+        "ja": "社会科学・ジャーナリズム・情報",
+        "en": "Social sciences, journalism and information"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "講演会・イベント"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "上智大学OpenCourseWare",
+      "id": "https://ocw.cc.sophia.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 120601comparativeculture.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/120601comparativeculture.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/sophia-20120601comparativeculture",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

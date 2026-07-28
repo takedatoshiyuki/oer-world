@@ -1,0 +1,112 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/radiation-shielding-engineering",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「放射線遮蔽工学」",
+  "description": "放射線遮蔽工学の基礎として、遮蔽計算に関わる用語、放射線源、線量体系を扱う。さらに、光子と遮蔽材の相互作用、離散座標Sn輸送計算法による決定論的手法、原子炉施設の遮蔽設計へと進み、軽水炉や使用済燃料乾式貯蔵施設を対象にする。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "吉田 昌弘",
+      "affiliation": {
+        "type": "Organization",
+        "name": "公益財団法人原子力安全技術センター特別顧問 フルエンス解析インステテュート 代表"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "上松 幹夫",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東芝テクニカルサービスインターナショナル株式会社"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "月山 俊尚",
+      "affiliation": {
+        "type": "Organization",
+        "name": "株式会社アトックス エンジニアリングサービスセンター"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2024",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "原子力バックエンド教育",
+    "オープン教材",
+    "専門教育",
+    "放射線遮蔽"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-radiation-shielding-engineering",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

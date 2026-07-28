@@ -1,0 +1,144 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/ict-2009",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "公開講座 ICT活用教育セミナー（2009）",
+  "description": "eラーニングやICTを用いた教育の導入事例、活用方法、LMSの利用を扱う公開講座である。ブレンディッドラーニング、初習外国語教育のシステム、ELMS、Moodleなどの話題を通して、ICT活用教育の内容を具体的に取り上げる。インストラクショナルデザインの視点からICTの効果についても説明する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "脇田 稔",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学歯学研究科"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "仲林 清",
+      "affiliation": {
+        "type": "Organization",
+        "name": "放送大学ICT活用・遠隔教育センター"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "伊藤 直哉",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学メディア・コミュニケーション研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "布施 泉",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学情報基盤センター"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山田 邦雅",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学高等教育推進機構"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "内田 実",
+      "affiliation": {
+        "type": "Organization",
+        "name": "放送大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2009",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/continuing_education",
+      "prefLabel": {
+        "ja": "生涯学習・リカレント教育",
+        "en": "Continuing education"
+      }
+    }
+  ],
+  "keywords": [
+    "ICT",
+    "eラーニング",
+    "ELMS",
+    "教育／学習"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-ict-2009",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

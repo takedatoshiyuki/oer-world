@@ -1,0 +1,215 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.cc.sophia.ac.jp/lecture/20161012gse71940/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "MIGRATION AND CO-EXISTENCE 2: MIGRATION AND DEVELOPMENT",
+  "description": "国際移住をめぐる動向と、それに関わる経済・社会・政策上の論点を扱う講義である。送り出し国と受け入れ国の事例、移民政策、ASEANでの移民管理、出身国の世帯への影響などを通して、移住と開発の関係を考える。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "浦元 義照",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "上智大学"
+    }
+  ],
+  "datePublished": "2016",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "講義"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "上智大学OpenCourseWare",
+      "id": "https://ocw.cc.sophia.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_02.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_02.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_03.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_03.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_04.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_04.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_05.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_05.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_06.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_06.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_07.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_07.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_08.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_08.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_09.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_09.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20161012GSE71940_11.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20161012GSE71940_11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/sophia-20161012gse71940",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

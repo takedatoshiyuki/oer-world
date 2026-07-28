@@ -1,0 +1,138 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/workingwoman-2011",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "働く女性のONとOFF ～プロフェッショナルが語る「働き方」と「生き方」～（2011）",
+  "description": "2012年2月23日に開催された「働く女性のONとOFF」の資料をまとめた教材である。内容は、ゲルを用いた先端医療材料の話題と、「働き方」と「生き方」をめぐる話題の2部で構成される。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "佐藤 のりゆき",
+      "affiliation": {
+        "type": "Organization",
+        "name": "創成研究機構"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "龔 剣萍",
+      "affiliation": {
+        "type": "Organization",
+        "name": "先端生命科学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "平野たまみ",
+      "affiliation": {
+        "type": "Organization",
+        "name": "タウン情報誌「O.tone」編集長"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2011",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/web_page",
+      "prefLabel": {
+        "ja": "ウェブページ",
+        "en": "Web Page"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/health_welfare",
+      "prefLabel": {
+        "ja": "保健・福祉",
+        "en": "Health and welfare"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/education",
+      "prefLabel": {
+        "ja": "教育",
+        "en": "Education"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/continuing_education",
+      "prefLabel": {
+        "ja": "生涯学習・リカレント教育",
+        "en": "Continuing education"
+      }
+    }
+  ],
+  "keywords": [
+    "女性",
+    "働き方",
+    "生き方",
+    "ゲル",
+    "先端医療材料",
+    "医学／保健学",
+    "教育／学習",
+    "複合分野／学際"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-workingwoman-2011",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

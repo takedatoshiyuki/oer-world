@@ -1,0 +1,141 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.cc.sophia.ac.jp/lecture/20110416lastlecture/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "リンダ・グローブ 教授 最終講義 Reading China from the Villages: Studying Grassroots Change in 20th Century North China",
+  "description": "20世紀北中国を対象に、村落から中国を読み解く視点で草の根の変化を扱う講義の教材である。2011年4月16日に行われた最終講義に関する資料が公開されており、英語版と日本語版らしきファイルを含む。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "リンダ",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "グローブ",
+      "affiliation": {
+        "type": "Organization",
+        "name": "上智大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "上智大学"
+    }
+  ],
+  "datePublished": "2011",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "keywords": [
+    "最終講義"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "上智大学OpenCourseWare",
+      "id": "https://ocw.cc.sophia.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20110416lastlecture.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110416lastlecture.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 20110416lastlecture_e.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110416lastlecture_e.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 110416lastlecture_j.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/110416lastlecture_j.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/sophia-20110416lastlecture",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

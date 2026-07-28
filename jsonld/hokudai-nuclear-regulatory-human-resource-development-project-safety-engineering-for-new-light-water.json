@@ -1,0 +1,201 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「新型軽水炉安全工学」",
+  "description": "原子力安全マネジメントの原理原則を、安全論理との関係の中で整理する講義資料である。放射線安全、プラントや環境における安全の考え方、リーダーシップとマネジメント、規制基準の基盤となる安全論理、深層防護に基づく安全設計の具体例までを扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "村上 健太",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学 大学院工学系研究科 レジリエンス工学研究センター"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2023",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "原子力規制人材育成事業",
+    "原子力安全"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義１：安全と工学",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture01_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義２：放射線安全の原則",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture02_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義３：プラントにおける安全の論理",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture03_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義４：環境における安全の論理と廃棄物",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture04_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義５：リーダーシップとマネジメント",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture05_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義６：規制基準の基盤となる安全論理（1/2）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture06_01_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 規制基準の基盤となる安全論理（2/2）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture06_02_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 講義７：深層防護別にみる安全設計の具体例（1/2）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture07_01_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 深層防護別にみる安全設計の具体例（2/2）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture07_02_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-nuclear-regulatory-human-resource-development-project-safety-engineering-for-new-light-water",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

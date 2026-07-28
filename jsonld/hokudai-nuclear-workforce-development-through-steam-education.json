@@ -1,0 +1,135 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/nuclear-workforce-development-through-steam-education",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「STEAM教育手法を活用した原子力人材育成」",
+  "description": "STEAM教育の理論や実践を軸に、原子力・放射線教育を扱う教材である。放射線の基礎やエネルギー・環境概論、原子力防災の観点からの放射線教育などを含み、教育手法と関連分野の内容をあわせて構成する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "熊野 善介",
+      "affiliation": {
+        "type": "Organization",
+        "name": "静岡大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "大矢 恭久",
+      "affiliation": {
+        "type": "Organization",
+        "name": "静岡大学理学部附属 放射科学教育研究推進センター"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "中島 宏",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院工学研究院 原子力安全先端研究・教育センター"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "小崎 完",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院 工学研究院 応用量子科学部門 原子力安全先端研究・教育センター"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "上野 耕史",
+      "affiliation": {
+        "type": "Organization",
+        "name": "白?大学 教育学部"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "森 健一郎",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国立大学法人北海道教育大学 釧路校"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2022",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "原子力バックエンド教育",
+    "オープン教材",
+    "STEAM教育"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-nuclear-workforce-development-through-steam-education",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

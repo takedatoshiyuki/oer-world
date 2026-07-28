@@ -1,0 +1,135 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/practical-training-for-heavy-ion-fusion-reaction-experiments-using-a-tandem-accelerator",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「タンデム加速器を利用した重イオン核融合反応実験実習」",
+  "description": "タンデム加速器を用いた重イオン核融合反応の実験実習を扱う教材である。公開資料には、超重元素と重イオン核融合反応、および反跳生成核分離装置を用いた実験に関する講義資料が含まれる。教材はCC BY-NCライセンスで公開されている。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "株本 裕史",
+      "affiliation": {
+        "type": "Organization",
+        "name": "日本原子力研究開発機構 原子力科学研究所"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "西尾 勝久",
+      "affiliation": {
+        "type": "Organization",
+        "name": "日本原子力研究開発機構 先端基礎研究センター"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2024",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "原子力バックエンド教育",
+    "オープン教材",
+    "専門教育",
+    "加速器"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 超重元素と重イオン核融合反応（西尾 勝久・日本原子力研究開発機構 先端基礎研究センター）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2026/01/Practical-Training-for-Heavy-Ion-Fusion-Reaction-Experiments-Using-a-Tandem-Accelerator-Superheavy-Elements-and-Heavy-Ion-Fusion-Reactions.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 反跳生成核分離装置を用いた実験（西尾 勝久・日本原子力研究開発機構 先端基礎研究センター）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2026/01/Practical-Training-for-Heavy-Ion-Fusion-Reaction-Experiments-Using-a-Tandem-Accelerator_Experiments-Using-a-Rebound-Nucleation-Separation-Device.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-practical-training-for-heavy-ion-fusion-reaction-experiments-using-a-tandem-accelerator",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

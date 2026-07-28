@@ -1,0 +1,119 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/healthscience-2011",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "サステナビリティ・ウィーク ようこそ！ヘルスサイエンスの世界へ あの日からの復興-保健科学の視点から- （2011）",
+  "description": "保健科学研究院の公開講座として、震災からの復興を保健科学の視点から扱う。放射線の人体への影響、被災地域の人々の健康を支えるケア、遠隔健康相談の3つを通して、各分野の話題を取り上げる。\n北海道大学の2011年度講義で、3名の講師が専門分野を紹介する構成である。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "小林 清一",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院保険科学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "伊達 広行",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院保険科学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "小笠原 克彦",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院保険科学研究院"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2011",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "サステイナブル・ウィーク",
+    "ヘルスサイエンス",
+    "震災からの復興",
+    "保健科学",
+    "複合分野／学際"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-healthscience-2011",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "http://ocw.kyushu-u.ac.jp/menu/session/01/1.html",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "研究用計算機システム講習会",
+  "description": "この教材は、研究用計算機システムの利用に関する講習をまとめたもので、UNIXの基本操作から中級内容までを扱う。加えて、スーパーコンピュータや高性能演算サーバでのFortran、C、C++の利用法と、OpenMPによる並列プログラム作成法を扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "http://ocw.kyushu-u.ac.jp/",
+    "description": "サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "南里 豪志",
+      "affiliation": {
+        "type": "Organization",
+        "name": "九州大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "九州大学"
+    }
+  ],
+  "datePublished": "2005",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/ict",
+      "prefLabel": {
+        "ja": "情報通信技術",
+        "en": "Information and Communication Technologies"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    },
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/professional",
+      "prefLabel": {
+        "ja": "実務者・専門職",
+        "en": "professional"
+      }
+    }
+  ],
+  "keywords": [
+    "講習会"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "九州大学OCW (QOCW)",
+      "id": "http://ocw.kyushu-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 1.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/session/01/1/1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/session/01/1/2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyushu-session-01-1",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

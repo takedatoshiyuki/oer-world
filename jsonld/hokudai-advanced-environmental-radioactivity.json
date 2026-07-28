@@ -1,0 +1,121 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/advanced-environmental-radioactivity",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「環境放射能学特論」",
+  "description": "環境放射能学特論として、環境中の放射能の動きとその関連 विषयを基礎編と福島原発事故関係に分けて扱う講義である。基礎編では土壌・地下環境、大気、海洋を含む環境放射能動態を扱い、後半では福島原発事故後の陸域・海洋環境や生物影響を扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "長尾 誠也",
+      "affiliation": {
+        "type": "Organization",
+        "name": "金沢大学 環日本海域環境研究センター"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "赤田 尚史",
+      "affiliation": {
+        "type": "Organization",
+        "name": "弘前大学 被ばく医療総合研究所"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "乙坂 重嘉",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学 大気海洋研究所 海洋化学部門"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "三浦 富智",
+      "affiliation": {
+        "type": "Organization",
+        "name": "弘前大学 被ばく医療総合研究所"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2023",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "原子力バックエンド教育",
+    "オープン教材",
+    "専門教育",
+    "環境放射能",
+    "福島原発事故"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-advanced-environmental-radioactivity",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

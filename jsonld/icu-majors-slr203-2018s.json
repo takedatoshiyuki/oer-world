@@ -1,0 +1,286 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "en"
+    }
+  ],
+  "id": "https://ocw.info.icu.ac.jp/majors/slr203_2018s",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "Introduction to Service-Learning サービス・ラーニング入門",
+  "description": "サービス・ラーニングの概要を扱い、コミュニティサービス・ラーニングや国際サービス・ラーニング、ワークキャンプなどの活動を対象にする。ICU、NGO、地方自治体、国際機関の事例を紹介しながら、NPOの回や歴史、タイプ別の整理、キャンパス内でのサービスの見つけ方まで扱う。",
+  "inLanguage": [
+    "en",
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.info.icu.ac.jp/index/icu-ocw",
+    "description": "新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "黒沼敦子",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "鈴木寛",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "名誉教授",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国際基督教大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "国際基督教大学"
+    }
+  ],
+  "datePublished": "2018",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "専攻科目",
+    "| Course ID: SLR203 | Course S",
+    "SLR203 | Course Schedule: 5/TH,6/TH | Update: 2018.06.01"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "ICU OpenCourseWare",
+      "id": "https://ocw.info.icu.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1WKFedgnpSCcsuFWtJJ3NXdmKUrKJlPmE/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1OxSDk-s2OB8E8x6wyUaE0_KLliQ6JrXm/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1RroSTsoLCqCVcD9lRU3BWBVxRBsvgu6P/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1zdT8GNFJsDcgcIANdI-6gNJmClOVqJev/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/11lGRtQFp8s8m2cqO6g4LLwmzN3DOZudb/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1VDGlCxUioW9XUOJ0PjkMdo1-d_I_X6ER/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/13bXGwnnzP8gY2CAmJrfE2fvzSPKgYx2U/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1II4l57LXC2urQOIMbZT6NoQljJQ1DDb6/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1Lc2NsRcwOU2Un2VEFp-iqvLyz9gqkJB8/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1DXxdNNQC9SLEx4m4BN-LinPykWiNYgeU/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1Ea6A8Mi9zSrvYY34OSMS885NvFdZ8XbV/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/11_CCfaMfB6aIH5LaX7W8hSD19f8PrOBa/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/19ZYcr7cww8efV_M-iRlBZBpvPQkZ-ty6/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/18CjB3PtH4ggHRjprVfta6r0SVhd6UjJ3/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料 (Google Drive)",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://drive.google.com/file/d/1qOQNEQKYhbet3AAz4ZqA7eewsPp14bnM/view?usp=sharing"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/icu-majors-slr203-2018s",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

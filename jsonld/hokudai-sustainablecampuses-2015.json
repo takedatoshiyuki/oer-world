@@ -1,0 +1,172 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/sustainablecampuses-2015",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "サステナビリティ・ウィーク サステイナブルキャンパス 国際シンポジウム（2015）",
+  "description": "北海道大学のサステナビリティ・ウィークの一環として行われる国際シンポジウムで、持続可能な社会の実現に向けた大学内の組織づくりを扱う。サステイナビリティ・オフィスの役割や、トップの関与と現場からの働きかけをどう組み合わせるかを議論する構成になっている。公開教材として、持続可能な社会の実現に向けた北海道大学の取組をまとめたPDF講義資料がある。",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "ジュリー・ニューマン",
+      "affiliation": {
+        "type": "Organization",
+        "name": "マサチューセッツ工科大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "ジェームス・タンシー",
+      "affiliation": {
+        "type": "Organization",
+        "name": "ブリティッシュコロンビア大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "田中　英紀",
+      "affiliation": {
+        "type": "Organization",
+        "name": "名古屋大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "吉見　宏",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学経済学研究科"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "佐藤　博",
+      "affiliation": {
+        "type": "Organization",
+        "name": "札幌市市長政策室"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "川端　和重",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学副学長"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "三上　隆",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学副学長"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "小篠　隆生",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学工学研究院"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2015",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/continuing_education",
+      "prefLabel": {
+        "ja": "生涯学習・リカレント教育",
+        "en": "Continuing education"
+      }
+    }
+  ],
+  "keywords": [
+    "サステナブルキャンパス",
+    "複合分野／学際"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 【PDF】 持続可能な社会の実現に向けた北海道大学の取組 （武村理雪）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.hokudai.ac.jp/wp-content/uploads/2016/05/c46d66b3129749adc77377785248f361.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-sustainablecampuses-2015",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

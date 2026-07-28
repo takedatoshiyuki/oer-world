@@ -1,0 +1,152 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/radiation-protection",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「放射線防護学」",
+  "description": "放射線や放射性物質の基本的な性質を出発点に、被ばくによる人体影響と放射線防護の基礎を扱う。さらに、測定や線量評価、安全管理、原子力防災までを含み、放射線施設の管理や関連する実務的な論点にも踏み込む。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "飯本 武志",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学 環境安全本部 東京大学大学院 新領域創成科学研究科 環境システム学専攻"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "三輪 一爾",
+      "affiliation": {
+        "type": "Organization",
+        "name": "公益社団法人 日本アイソトープ協会 学術振興部 学術課"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "横山 須美",
+      "affiliation": {
+        "type": "Organization",
+        "name": "長崎大学 原爆後障害医療研究所 放射線生物・防護学分野"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山西 弘城",
+      "affiliation": {
+        "type": "Organization",
+        "name": "近畿大学理工学部・大学院 総合理工学研究科／近畿大学原子力研究所"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "佐々木 道也",
+      "affiliation": {
+        "type": "Organization",
+        "name": "電力中央研究所 サステナブルシステム研究本部 生物・環境化学研究部門"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "橋本 周",
+      "affiliation": {
+        "type": "Organization",
+        "name": "日本原子力研究開発機構 大洗研究所 放射線管理部"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "永井 晴康",
+      "affiliation": {
+        "type": "Organization",
+        "name": "国立研究開発法人 日本原子力研究開発機構"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "嶋田 和真",
+      "affiliation": {
+        "type": "Organization",
+        "name": "日本原子力研究開発機構 緊急時支援研修センター・安全研究センター"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2023",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "原子力バックエンド教育",
+    "オープン教材",
+    "専門教育",
+    "放射線防護"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-radiation-protection",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3.html",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "情報処理概論 [B]",
+  "description": "UNIX環境でFORTRAN90を用いたプログラミング作成を、実習を通して扱う講義である。公開教材として講義資料のPDFが12件ある。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "http://ocw.kyushu-u.ac.jp/",
+    "description": "サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "南里 豪志",
+      "affiliation": {
+        "type": "Organization",
+        "name": "九州大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "九州大学"
+    }
+  ],
+  "datePublished": "2006",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "学部・大学院講義"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "九州大学OCW (QOCW)",
+      "id": "http://ocw.kyushu-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 1.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 3.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 4.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 5.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 6.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/6.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 7.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 8.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/8.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 9.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/9.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 10.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/10.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 11.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/11.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 12.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/09/3/12.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyushu-faculty-09-3",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/scienceleaders-2011",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "サイエンス・リーダーズ・キャンプ 意欲を引き出す次世代型生物教員の育成 ～高度な専門性と卓越した学習指導力の獲得 を目指して～(2011)",
+  "description": "北海道大学の理学研究院が2011年に実施した、教員向けの生物教育プログラムである。タンパク質、細胞、DNA、形態、バイオーム、系統・分類などを講義と実験で扱い、博物館でのナイトツアーやナイトセッションを通して教育現場での指導方法も検討する。最終日には、学習意欲を踏まえた生物授業のあり方について取り上げる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "山下 正兼",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院理学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "荻原克益",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院理学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "松島俊也",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院理学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "瀧谷重治",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院理学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "湯浅万紀子",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学総合博物館"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "寺前洋生",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道教育大学札幌校"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "大原雅",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学地球環境科学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "柁原宏",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学理学研究院"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2011",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "理学／自然科学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-scienceleaders-2011",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

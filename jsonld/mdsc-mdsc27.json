@@ -1,0 +1,99 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc27",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "地震データ",
+  "description": "北海道大学 数理・データサイエンス教育研究センターが提供し、教育用データベース分科会が担当する教材である。講義名は「地震データ」で、開講日は2019-06-12、使用言語は日本語である。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc27",
+    "description": "クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "教育用データベース分科会"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学 数理・データサイエンス教育研究センター"
+    }
+  ],
+  "datePublished": "2019-06-12",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/data",
+      "prefLabel": {
+        "ja": "データ",
+        "en": "Data"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    },
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/teacher",
+      "prefLabel": {
+        "ja": "教員",
+        "en": "teacher"
+      }
+    }
+  ],
+  "keywords": [
+    "学術研究・専門・技術サービス",
+    "複合サービス事業",
+    "運輸業・郵便業",
+    "金融業・保険業",
+    "IoTデータ"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "教育用データ提供システム (北大MDSC)",
+      "id": "https://data.mdsc.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/mdsc-mdsc27",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成。確からしさ: 低（要確認）"
+    }
+  ]
+}

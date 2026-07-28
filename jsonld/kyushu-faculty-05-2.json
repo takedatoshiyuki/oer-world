@@ -1,0 +1,189 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2.html",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "並列アルゴリズム",
+  "description": "並列計算機やネットワークで結ばれた計算機クラスターを対象に、分散型環境で用いるアルゴリズムを扱う。あわせて、それらのアルゴリズムにおける通信量と計算時間を論じる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "http://ocw.kyushu-u.ac.jp/",
+    "description": "サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "青柳 睦",
+      "affiliation": {
+        "type": "Organization",
+        "name": "九州大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "九州大学"
+    }
+  ],
+  "datePublished": "2005",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "学部・大学院講義"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "九州大学OCW (QOCW)",
+      "id": "http://ocw.kyushu-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 1.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 3.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 4.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/4.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 5.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/5.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 6.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/6.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 7.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/7.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 8.pdf",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "http://ocw.kyushu-u.ac.jp/menu/faculty/05/2/8.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyushu-faculty-05-2",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

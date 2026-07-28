@@ -1,0 +1,102 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc29",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "DS.INSIGHT",
+  "description": "ビッグデータを授業でどう活用するかを扱い、アンケートに代わる社会関心の調査や分析把握への利用を示す。さらに、人流データから移動状況を読み取り、観光、災害、経済、交通などの分野分析につなげる内容を扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc29",
+    "description": "利用条件は配布元サイトを参照。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "ヤフー株式会社"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学 数理・データサイエンス教育研究センター"
+    }
+  ],
+  "datePublished": "2021-10-08",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/data",
+      "prefLabel": {
+        "ja": "データ",
+        "en": "Data"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/health_welfare",
+      "prefLabel": {
+        "ja": "保健・福祉",
+        "en": "Health and welfare"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    },
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/teacher",
+      "prefLabel": {
+        "ja": "教員",
+        "en": "teacher"
+      }
+    }
+  ],
+  "keywords": [
+    "サービス業_他に分類されないもの",
+    "不動産業-物品賃貸業",
+    "公務_他に分類されるものを除く",
+    "医療-福祉",
+    "卸売業-小売業",
+    "学術研究-専門_技術サービス業",
+    "宿泊業-飲食サービス業",
+    "情報通信業"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "教育用データ提供システム (北大MDSC)",
+      "id": "https://data.mdsc.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/mdsc-mdsc29",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

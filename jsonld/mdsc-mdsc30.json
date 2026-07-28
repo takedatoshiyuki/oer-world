@@ -1,0 +1,97 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc30",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "Webサイト行動履歴データ",
+  "description": "Webサイトの行動履歴データを扱う講義である。北海道大学 数理・データサイエンス教育研究センターが提供し、株式会社SIGNATEが担当する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc30",
+    "description": "クリエイティブ・コモンズ 表示-継承（CC BY-SA。CKAN 上の表記で、版の明示なし）に従って利用可。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "株式会社SIGNATE"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学 数理・データサイエンス教育研究センター"
+    }
+  ],
+  "datePublished": "2021-10-08",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/data",
+      "prefLabel": {
+        "ja": "データ",
+        "en": "Data"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/ict",
+      "prefLabel": {
+        "ja": "情報通信技術",
+        "en": "Information and Communication Technologies"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    },
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/teacher",
+      "prefLabel": {
+        "ja": "教員",
+        "en": "teacher"
+      }
+    }
+  ],
+  "keywords": [
+    "サービス業_他に分類されないもの",
+    "情報通信業",
+    "ZIP"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "教育用データ提供システム (北大MDSC)",
+      "id": "https://data.mdsc.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/mdsc-mdsc30",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成。確からしさ: 低（要確認）"
+    }
+  ]
+}

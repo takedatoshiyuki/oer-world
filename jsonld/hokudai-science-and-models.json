@@ -1,0 +1,105 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/science-and-models",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "科学とモデル：科学的表象を理解する／Science and Models: Understanding Scientific Representation【 日英字幕あり／English and Japanese subtitles available 】",
+  "description": "この講義は、科学で使われるモデルを取り上げ、とくに対象システムを表す表象モデルに焦点を当てる。表象とは何かを考えるためにDEKI説を導入し、その基本要素と、科学モデルに適用する際に必要になる追加の要素を説明する。最後に、DEKI説に関する7つの未解決の問いを取り上げる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "ローマン・フリッグ",
+      "affiliation": {
+        "type": "Organization",
+        "name": "ロンドン・スクール・オブ・エコノミクス"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Roman Frigg",
+      "affiliation": {
+        "type": "Organization",
+        "name": "London School of Economics and Political Science"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2023",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "表象",
+    "指示",
+    "例示",
+    "モデル",
+    "解釈",
+    "DEKI\n\nRepresentation"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-science-and-models",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

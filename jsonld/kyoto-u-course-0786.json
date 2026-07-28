@@ -1,0 +1,278 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/786/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "工学系アートのススメ",
+  "description": "この教材は、感情や意識、非言語的な情報を手がかりにしたアートとテクノロジーの研究と制作を扱う。あわせて、文化をITでモデル化し、インタラクティブな表現や文化理解体験につなげるカルチュラル・コンピューティングの考え方を学ぶ。日本文化については、自然風土や美意識、文学・芸能・意匠などを対象に研究する。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "土佐 尚子",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2012",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    },
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "芸術・文化",
+    "工学"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2012年度レポート　「Art and Technology Report」Mai Cong Hung",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2012年度レポート　「工学系アートのススメ まとめレポート」瀬川　智子",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_2.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2012年度レポート　「工学系アートのススメ最終レポート」川本　稜",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_3.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（青木 舞）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_18.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（尾崎 達哉）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_19.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　小満 / 卯の花の襲（鷲尾 尚也）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_20.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　夏至 / 蓬の襲（前田 和輝）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_21.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大暑 / 二藍の襲（前澤 俊哉）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_22.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　霜降 / 紅葉の襲（日下 千夏）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_23.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　冬至 / 檜皮の襲（柴田 悠）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_24.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大寒 / 松の襲（熊切 俊祐）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_26.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2009年度学生作品　都々逸（どどいつ）塩野渚",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/shiono.wmv_.zip",
+          "encodingFormat": "application/zip"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2009年度学生作品　都々逸（どどいつ）池宮由楽",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ikemiya.wmv_.zip",
+          "encodingFormat": "application/zip"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2009年度学生作品　都々逸（どどいつ）植松広一郎",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/uematu.mov.zip",
+          "encodingFormat": "application/zip"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0786",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

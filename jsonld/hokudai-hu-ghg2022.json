@@ -1,0 +1,103 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/hu-ghg2022",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "北海道大学GHGインべントリ2022 解説動画",
+  "description": "北海道大学の温室効果ガス排出量等をまとめた「北海道大学GHGインベントリ」を扱う解説動画である。全拠点・全活動を対象にしたデータをもとに、国際基準に準拠したデータベースの内容と位置づけを要点を絞って説明する。2050年カーボンニュートラルに向けた評価・検証の基礎資料として、どのような情報を集約しているかを示す。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "横田 篤",
+      "affiliation": {
+        "type": "Organization",
+        "name": "理事・副学長 サステイナビリティ推進機構 機構長"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "平 裕",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学サステイナビリティ推進機構キャンパスマネジメント部門"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2025",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/natural_sciences_math",
+      "prefLabel": {
+        "ja": "自然科学・数学・統計学",
+        "en": "Natural sciences, mathematics and statistics"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "サステイナビリティ",
+    "持続可能な社会",
+    "SDGs",
+    "気候変動対策"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-hu-ghg2022",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

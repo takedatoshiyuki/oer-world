@@ -1,0 +1,97 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc28",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "ペットボトル緑茶に関する会場調査データ (滋賀大学調べ)",
+  "description": "ペットボトル緑茶の試飲とアンケートで得たデータを扱い、味覚と購入意向を調査する内容である。収集した生データに加えて、基本的な分析の流れとその結果まで含む。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://data.mdsc.hokudai.ac.jp/dataset/mdsc28",
+    "description": "クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。"
+  },
+  "creator": [
+    {
+      "type": "Organization",
+      "name": "滋賀大学"
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学 数理・データサイエンス教育研究センター"
+    }
+  ],
+  "datePublished": "2020-04-15",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/data",
+      "prefLabel": {
+        "ja": "データ",
+        "en": "Data"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    },
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/teacher",
+      "prefLabel": {
+        "ja": "教員",
+        "en": "teacher"
+      }
+    }
+  ],
+  "keywords": [
+    "卸売業-小売業",
+    "生活関連サービス業-娯楽業",
+    "ZIP"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "教育用データ提供システム (北大MDSC)",
+      "id": "https://data.mdsc.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/mdsc-mdsc28",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-28",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

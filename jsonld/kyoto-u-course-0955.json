@@ -1,0 +1,204 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.kyoto-u.ac.jp/course/955/",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "ポケットゼミ メディアアート研究",
+  "description": "日本文化を支える要素を題材に、研究とメディアアート制作を行う講義である。出典サイトでは、日本の自然風土や日本文化とアジア文化との関係、神仏習合、日本語の特性、日本的意匠を扱うとしている。公開教材には、2010年度学生作品として「俳句とかさね HitchHaiku + Kasane」の題名をもつ講義資料が8件ある。",
+  "inLanguage": [
+    "ja"
+  ],
+  "license": {
+    "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "土佐尚子",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "京都大学"
+    }
+  ],
+  "datePublished": "2010",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    },
+    {
+      "id": "https://w3id.org/kim/hcrt/script",
+      "prefLabel": {
+        "ja": "講義資料・講義ノート",
+        "en": "Script"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/arts_humanities",
+      "prefLabel": {
+        "ja": "人文学・芸術",
+        "en": "Arts and humanities"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/bachelor",
+      "prefLabel": {
+        "ja": "学士課程（大学学部）",
+        "en": "Bachelor's level"
+      }
+    }
+  ],
+  "keywords": [
+    "芸術・文化"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "京都大学OCW",
+      "id": "https://ocw.kyoto-u.ac.jp/"
+    }
+  ],
+  "hasPart": [
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（青木 舞）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_18.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（尾崎 達哉）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_19.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　小満 / 卯の花の襲（鷲尾 尚也）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_20.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　夏至 / 蓬の襲（前田 和輝）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_21.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大暑 / 二藍の襲（前澤 俊哉）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_22.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　霜降 / 紅葉の襲（日下 千夏）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_23.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　冬至 / 檜皮の襲（柴田 悠）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_24.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "type": "CreativeWork",
+      "name": "講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大寒 / 松の襲（熊切 俊祐）",
+      "encoding": [
+        {
+          "type": "MediaObject",
+          "contentUrl": "https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_26.jpg",
+          "encodingFormat": "image/jpeg"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/kyoto-u-course-0955",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

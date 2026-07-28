@@ -1,0 +1,155 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/env-rad-beginner-2013",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "特別プログラム 多様な環境放射能問題に対応可能な 国際的人材の機関連携による育成 「環境放射能基礎コース（初級コース）・講義」（2013）",
+  "description": "この講義は、放射線・放射能・原子力の基礎知識を扱い、環境放射能に関する課題を複数分野の視点から学ぶ内容である。放射線計測の実習も含み、初級コースでは原子力システム工学、核燃料サイクル、原子力安全工学、基礎放射化学、基礎放射線生物学を扱う。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "坂下 弘人",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院工学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "小崎 完",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院工学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "藤吉 亮子",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院工学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "加美山 隆",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院工学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "富岡 智",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院工学研究院"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "山盛 徹",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院獣医学研究科"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "稲波 修",
+      "affiliation": {
+        "type": "Organization",
+        "name": "北海道大学大学院獣医学研究科"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2013",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/video",
+      "prefLabel": {
+        "ja": "動画",
+        "en": "Video"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/engineering",
+      "prefLabel": {
+        "ja": "工学・製造・建築",
+        "en": "Engineering, manufacturing and construction"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/generalPublic",
+      "prefLabel": {
+        "ja": "一般",
+        "en": "general public"
+      }
+    }
+  ],
+  "educationalLevel": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/educational-level/continuing_education",
+      "prefLabel": {
+        "ja": "生涯学習・リカレント教育",
+        "en": "Continuing education"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "環境放射能",
+    "原子力システム工学概論",
+    "核燃料サイクル概論",
+    "原子力安全工学概論",
+    "基礎放射化学",
+    "工学／情報"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-env-rad-beginner-2013",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}

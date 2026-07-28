@@ -1,0 +1,128 @@
+{
+  "@context": [
+    "https://w3id.org/kim/amb/context.jsonld",
+    {
+      "@language": "ja"
+    }
+  ],
+  "id": "https://ocw.hokudai.ac.jp/lecture/international-nuclear-science-olympiad",
+  "type": [
+    "LearningResource",
+    "Course"
+  ],
+  "name": "原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「国際原子力科学オリンピック（INSO）挑戦用講義」",
+  "description": "国際原子力科学オリンピック（INSO）への挑戦を意識した講義で、放射線が人体に及ぼす影響や原子力の歴史、放射線物理の基礎と応用を扱う。あわせて、放射線の医療分野での利用や放射線とノーベル賞にも触れる。",
+  "inLanguage": [
+    "ja"
+  ],
+  "usageInfo": {
+    "id": "https://ocw.hokudai.ac.jp/licence",
+    "description": "教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。"
+  },
+  "creator": [
+    {
+      "type": "Person",
+      "name": "角山 雄一",
+      "affiliation": {
+        "type": "Organization",
+        "name": "京都大学 環境安全保健機構 放射線管理部門"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "岩井 敏",
+      "affiliation": {
+        "type": "Organization",
+        "name": "東京大学"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "上蓑 義朋",
+      "affiliation": {
+        "type": "Organization",
+        "name": "公益社団法人 日本アイソトープ協会"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "藤井 博史",
+      "affiliation": {
+        "type": "Organization",
+        "name": "公益社団法人 日本アイソトープ協会"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "川合 將義",
+      "affiliation": {
+        "type": "Organization",
+        "name": "高エネルギー加速器研究機構 名誉教授"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "type": "Organization",
+      "name": "北海道大学"
+    }
+  ],
+  "datePublished": "2024",
+  "learningResourceType": [
+    {
+      "id": "https://w3id.org/kim/hcrt/course",
+      "prefLabel": {
+        "ja": "コース",
+        "en": "Course"
+      }
+    }
+  ],
+  "about": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/vocab/subject/generic",
+      "prefLabel": {
+        "ja": "一般教養・共通",
+        "en": "Generic programmes and qualifications"
+      }
+    }
+  ],
+  "audience": [
+    {
+      "id": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+      "prefLabel": {
+        "ja": "学習者",
+        "en": "student"
+      }
+    }
+  ],
+  "keywords": [
+    "国際原子力人材育成イニシアティブ事業",
+    "原子力バックエンド教育",
+    "オープン教材",
+    "専門教育",
+    "国際原子力科学オリンピック（INSO）"
+  ],
+  "isPartOf": [
+    {
+      "type": "Collection",
+      "name": "北海道大学OCW",
+      "id": "https://ocw.hokudai.ac.jp/"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "mainEntityOfPage": [
+    {
+      "id": "https://takedatoshiyuki.github.io/oer-world/r/hokudai-international-nuclear-science-olympiad",
+      "provider": {
+        "type": "Organization",
+        "name": "OER World"
+      },
+      "dateModified": "2026-07-27",
+      "creator": {
+        "type": "SoftwareApplication",
+        "name": "gpt-5.4-mini"
+      },
+      "description": "description は AI 生成"
+    }
+  ]
+}
