@@ -16,7 +16,7 @@ feedback_url: "https://github.com/takedatoshiyuki/oer-world/issues"
 
 # クローラの礼儀設定 (tools/discover.py, fetch.py, wayback.py が使用)
 crawler:
-  user_agent: oer-repo-tools/0.1
+  user_agent: "oer-repo-tools/0.1 (+https://github.com/takedatoshiyuki/oer-world/issues)"
   sleep_seconds: 1.0
 
 # コーパス層 (取得した教材ファイル+権利情報マニフェスト) の置き場。Git 管理外。
