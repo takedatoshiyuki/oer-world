@@ -12,8 +12,10 @@ validate:            ## metadata.yaml の検証
 prerender:           ## metadata.yaml → site/r/ のページ生成 (+ _quarto.yml)
 	$(PY) oer_kit.prerender
 
+# 大規模カタログでは Quarto (dayjs) の日付処理がページ数に比例してスタックを食い、
+# 約3,600頁で RangeError になる → V8 のスタックを広げて回避 (恒久対応は Hugo 移行)
 render: prerender    ## Quarto で site/_site へレンダリング → _site/ へ同期
-	$(QUARTO) render site
+	QUARTO_DENO_V8_OPTIONS=--stack-size=8192 $(QUARTO) render site
 	rsync -a --delete --exclude catalog.json --exclude jsonld --exclude .nojekyll \
 	  site/_site/ _site/
 
