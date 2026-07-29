@@ -1,0 +1,46 @@
+slug: sophia-20180802ocokabe
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20180802ocokabe/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Understanding International Relations: Why Bother? Or What Matters?'
+description:
+  ja: 上智大学の法学部国際関係法学科で2018年度に開講された、岡部みどり担当の講義である。講義名からは国際関係をどう捉えるかを扱う内容であることが示されるが、出典情報には具体的なテーマや範囲の説明はない。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 岡部 みどり
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 法学部 国際関係法学科
+  term: 2018年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

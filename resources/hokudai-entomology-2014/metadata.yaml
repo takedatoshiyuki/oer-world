@@ -1,0 +1,61 @@
+slug: hokudai-entomology-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/entomology-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: バイオミメティクス市民セミナー ミメティクスおもしろネタの源としての昆虫分類学、形態学（2014）
+description:
+  ja: 昆虫の形や行動の多様性を題材に、分類学・形態学・系統学の観点からその特徴を扱う講義である。未知の昆虫の多様性に関する例として、雄で交尾器が逆転した昆虫と、昆虫の跳躍行動の進化を取り上げる。
+quotedDescription:
+  text:
+    ja: 昆虫は形や行動の多様性の宝庫である。これまでに命名された真核生物の半数以上を昆虫が占めるが、その種多様性の解明度は１０分の１程度とも見積もられており、われわれが目にしたことも無い未知の形を備えた昆虫がまだ沢山いることも間違いない。昆虫分類学者はその多様性の発掘に力を注ぎ、また系統学者・形態学者は、ミメティクスネタの宝庫とも言える多様性を、工学者とは違う観点で見つめている。昆虫の未知の多様性がごく最近明かされた例として、雄で交尾器が逆転した昆虫について、そして形態・系統学的観点からの昆虫の形の研究例として、昆虫の跳躍行動の進化について紹介する。
+  source: https://ocw.hokudai.ac.jp/lecture/entomology-2014
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 吉澤 和徳
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+- agriculture
+keywords:
+- 昆虫
+- 多様性
+- 分類学
+- 形態学
+- 複合分野／学際
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: utokyo-series-bzc29e1apeqi
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=BzC29e1aPeQI
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学ⅠB（微積分）
+description:
+  ja: 東京大学の教養学部前期課程で理系クラス向けに開講される、微積分の講義である。大学で必要な微分・積分の基本知識を扱い、高校までに学んだ内容を前提として進める。数学ⅠAと比べると、数学ⅠBは実践的な計算に重点を置く。
+quotedDescription:
+  text:
+    ja: '数学Ⅰは、教養学部前期課程（1年、2年）において、理系クラスが履修を課せられている講義です。数学Ⅰには数学ⅠAと数学ⅠBがあり、どちらのクラスもほぼ同じ内容ですが、数学ⅠAは、論理的な部分に重点を、数学ⅠBは実践的な計算に重点を置いています。
+
+      数学Ⅰでは、微積分を学び、大学で必要とされる微分・積分の基本的な知識を習得します。そのため、高校までに学習した微分・積分の知識は知っていることを前提として授業は行われます。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=BzC29e1aPeQI
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 斉藤 毅
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

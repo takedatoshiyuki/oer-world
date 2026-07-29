@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0053
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/53/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第44回 京都大学品川セミナー「流れの数理とミレニアム問題」
+description:
+  ja: 数理流体力学の視点から、流れの現象を数学的に捉えると現れる問題を取り上げる講義である。流体中の抵抗や波の抵抗、浮力、地盤の液状化などに触れながら、ミレニアム問題を含むいくつかの論点を解説する。
+quotedDescription:
+  text:
+    ja: '流体力学には不思議な魅力がある。美しい流れや波は浮世絵のモチーフとして頻繁に取り上げられたし、レオナルド・ダ・ヴィンチのデッサンに多くの流れの絵が含まれていることはよく知られている。
+
+      これとは別に、誰にも明白に思える流れの現象が一旦数学的に定式化されるととたんに難しい問題になることがあり、これがプロの数学者には魅力となることもあり、一方で初学者を遠ざける原因となることもある。流体中の抵抗（あるいは波の抵抗）の問題や浮力の問題などは機械学ではきわめて重要である。地盤の液状化など、専門家でもよくわかっているとは言えない領域もある。左図のような簡単なパターンから右図のような複雑なパターンが生み出されるのは不思議と言えば不思議である。
+
+      数理流体力学の立場から、ミレニアム問題を含むいくつかの問題を解説してみたい。'
+  source: https://ocw.kyoto-u.ac.jp/course/53/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岡本 久
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-01-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 数理解析研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

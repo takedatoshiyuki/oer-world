@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0268
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/268/
+type:
+- LearningResource
+- Course
+name:
+  ja: 動物遺伝育種学合同セミナー Daniel Gianola 博士 公開講演会・討論会
+description:
+  ja: 京都大学農学研究科が提供する、Daniel Gianola博士による動物遺伝育種学の合同セミナーである。公開講演会と討論会の形式をとり、使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Daniel Gianola 博士
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-10-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

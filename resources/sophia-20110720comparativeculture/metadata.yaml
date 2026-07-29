@@ -1,0 +1,65 @@
+slug: sophia-20110720comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110720comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Transnational Migration and Asian Regional Integration:Examining the Migration Policies of Hong
+    Kong and Tokyo
+description:
+  ja: 東京と香港を対象に、移民政策を比較する研究を扱う講義である。東京では区ごとの政策と移民受け入れへの対応を、香港では地方政府としての移民政策への対応を取り上げる。さらに、両都市の政策を比較し、政策共有の可能性や長所・短所を検討する。
+quotedDescription:
+  text:
+    ja: 'Dr. Stephen Nagy started out doing research in Tokyo, finding out about government policies in
+      the different district wards in the metropolis area and comparing policies regarding immigration
+      and their reception.
+
+       Upon moving to Hong Kong he began doing similar research in Hong Kong, looking at Hong Kong as
+      a local government and how it deals with migrant policies.
+
+       His work has since then become a comparative project between Tokyo and Hong Kong, looking at the
+      possibility of sharing migration policies, as well as comparing the merits and demerits of the policies
+      of both cities.'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110720comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Organization
+  name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20110720comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20110720comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110720comparativeculture/
+- name: '講義資料: 758153691cf94dacf4067d318f3f6b10.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/758153691cf94dacf4067d318f3f6b10.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110720comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2011/07/20
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

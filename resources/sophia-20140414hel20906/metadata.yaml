@@ -1,0 +1,63 @@
+slug: sophia-20140414hel20906
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140414hel20906/
+type:
+- LearningResource
+- Course
+name:
+  ja: ＩＮＴＥＧＲＡＴＥＤ ＳＫＩＬＬＳ １／INTEGRATED SKILLS 1
+description:
+  ja: 文学作品を題材に、議論や口頭・筆記での表現を通して内容を考える授業である。Ted HughesとSylvia Plath、Beat Generation、TolkienのMiddle-earthを主な対象とし、言語使用や歴史的・文化的参照、文学理論、解釈の方法まで扱う。授業ではクラスジャーナルの共同制作や、受講者による進行・発表も行う。
+quotedDescription:
+  text:
+    ja: "This course is designed to allow students the chance to combine what they learned in the first\
+      \ year skills classes and apply them to join in discussions and express themselves on topics in\
+      \ literature both in spoken and written language. As part of the class, we will work together and\
+      \ collaborate on a class journal project which each student will contribute to. Class work will\
+      \ be conducted in groups and individually and students will often be required to lead sessions and\
+      \ present their own research.\n Assessments are based on a set of options which students choose\
+      \ from in order to gain enough credits to pass the course. Therefore, the emphasis is very much\
+      \ on the students making decisions for themselves and demonstrating their own independence as learners\
+      \ and researchers. |The main works we will examine in the course will be Ted Hughes and Sylvia Plath,\
+      \ The Beat Generation and Tolkien’s High Fantasy world of Middle-earth. We will explore themes of\
+      \ language use, historical and cultural references and also literary theory and ways of interpreting\
+      \ literature."
+  source: https://ocw.cc.sophia.ac.jp/lecture/20140414hel20906/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: PINNER Richard
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 文学部 英文学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

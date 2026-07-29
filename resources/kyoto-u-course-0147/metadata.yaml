@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0147
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/147/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第51回人環国際交流セミナー「ルーヴル美術館と医療イメージングの新材料への利用」ブルーノ・ヴィアーナ (Bruno Viana) 教授
+description:
+  ja: フォトニクス用の光学材料として、レーザー、シンチレータ、蛍光体を扱う研究内容を紹介する。あわせて、バイオイメージングに向けた長残光蛍光体の応用にも触れる。
+quotedDescription:
+  text:
+    ja: ブルーノ・ヴィアーナ博士はフランス国立科学研究センター局長であり、ピエール・マリー・キュリー大学パリ高等化学研究所で指導しておられます。専門はレーザー、シンチレータ、蛍光体を含むフォトニクス用の光学材料の研究。最近では、バイオイメージングのための長残光蛍光体の応用に取り組み活躍しておられます。
+  source: https://ocw.kyoto-u.ac.jp/course/147/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Bruno Viana（フランス国立科学研究センター局長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ピエール・マリー・キュリー大学パリ高等化学研究所 教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-11-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 芸術・文化
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

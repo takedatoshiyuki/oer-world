@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0517
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/517/
+type:
+- LearningResource
+- Course
+name:
+  ja: 海洋生物科学技術論と実習Ⅰ
+description:
+  ja: この教材は、海洋観測や仔稚魚調査、魚類分類学実習、磯調査に関する講義資料を含む。講義と実習を通して、海洋生物に関する調査・分類・観測の内容を扱う。
+quotedDescription:
+  text:
+    ja: '笠井 亮秀 (農学研究科)
+
+      山下 洋 (フィールド科学教育研究センター)
+
+      益田 玲爾 (フィールド科学教育研究センター)
+
+      上野 正博 (フィールド科学教育研究センター)
+
+      田川 正朋 (フィールド科学教育研究センター)
+
+      中山 耕至 (フィールド科学教育研究センター)
+
+      甲斐 嘉晃 (フィールド科学教育研究センター)
+
+      鰺坂 哲朗 (農学研究科)'
+  source: https://ocw.kyoto-u.ac.jp/course/517/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 笠井 亮秀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山下 洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 益田 玲爾
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 上野 正博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田川 正朋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中山 耕至
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 甲斐 嘉晃
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 鰺坂 哲朗
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 湾内海洋観測、砕波帯における仔稚魚調査、魚類分類学実習、磯調査'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/517/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

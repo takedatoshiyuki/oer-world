@@ -1,0 +1,64 @@
+slug: icu-majors-mcc251-2012a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mcc251_2012a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Contemporary Japan: From Ramune to Anime 現代日本：ラムネからアニメまで'
+description:
+  ja: 1945年以降の日本を対象に、現代日本文化の背景と社会的・文化的な表れを扱う講義である。政治・経済の変化を手がかりに、ポピュラーカルチャーや新たな「言語」にそれがどう表現されるかを検討し、漫画とアニメにも注目する。公開されている動画は授業内容をまとめたダイジェスト版である。
+quotedDescription:
+  text:
+    ja: 'This program/course takes students on a multifaceted guided tour through the cultural arena of
+      post World War II Japan. The goal is to deepen understanding and develop appreciation of current
+      Japanese social and cultural phenomena, including manga and anime.
+
+      このコースは、現代日本文化を紹介することを狙いとし、その歴史的・文化的背景、および、今日の国際的な影響と貢献を探求する。この必修コアコースを通して、受講生は1945年以降の日本でおこった重要な政治的・経済的変化に触れる。また、これらの変化が新たな「言語」とポピュラーカルチャーにどのように表象されているかを検討することにより、その社会的・文化的表示を探る。とりわけ、アニメと漫画という。世界中から注目されている二つの現代メディアに注目する。
+
+      ※Videos are condensed version of course.
+
+      ※この動画は授業内容をまとめたダイジェスト版を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/mcc251_2012a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 文化
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- Media‚ Communication and Cultu
+- 'MCC251 | Course Schedule: 5/TH,6/TH,7/TH,1/SA,2/SA,3/SA | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

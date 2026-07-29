@@ -1,0 +1,103 @@
+slug: kyoto-u-course-0031
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/31/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済学ⅡB
+description:
+  ja: マーシャルプランの具体的内容を取り上げ、戦後西ヨーロッパの経済復興と統合の過程でそれがどのような意味を持ったかを考察する。あわせて、ブレトンウッズ協定、スターリング圏、EPU、OEEC、ローマ条約など、戦後欧州経済の再編に関わる論点を扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      マーシャルプランと戦後欧州の経済復興について考察します。
+
+       
+
+      授業の紹介
+
+      本講義は、マーシャルプラン‐第二次大戦後にアメリカが西ヨーロッパに対して行った経済復興計画ーの具体的内容を概説し、この計画が戦後西ヨーロッパ諸国の経済復興・統合過程にどのような意義を持ったか、あるいは意義をもたなかったか、最近の論争をふまえて考察します。こうした検討を通じて、第二次大戦後の西ヨーロッパ経済の復興・統合過程と欧米関係の特質に接近します。'
+  source: https://ocw.kyoto-u.ac.jp/course/31/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2000'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: #1 欧州統合の現段階と史的概説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #2 欧州統合の起源とマーシャルプラン'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #3 ブレトンウッズ協定とその具体化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #4 ブレトンウッズ構想の破綻からマーシャルプランへ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #5 1990年代のアメリカ経済成長をどうみるか？'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #6 イギリス−スターリング圏の再生'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_6-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #6 イギリス−スターリング圏の再生（資料）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_6-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #7 イギリス−スターリング圏の再生'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #8 ドイツ復興問題とシューマンプラン（ECSC：欧州石炭鉄鋼共同体）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #9 フランス「近代化・設備計画」と欧州石炭鉄鋼共同体'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #10 欧州決済同盟（EPU）と欧州経済協力機構（OEEC）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #11 ローマ条約と欧州通貨交換性回復'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #12 マーシャルプランとブレトンウッズ体制の確立'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+- name: '講義資料: #13 マーシャルプランとブレトンウッズ体制の確立'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_keizaigaku-2b_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/31/
+extensions:
+  faculty: 経済学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

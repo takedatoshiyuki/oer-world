@@ -1,0 +1,54 @@
+slug: hokudai-nation-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nation-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 破綻国家の教訓から考える持続的国家（2013）
+description:
+  ja: アフリカの破綻国家の例としてコンゴ・ザイールの歴史を取り上げ、民主主義や政治的安定のあり方を考える講義である。植民地化後に生じた流動的な社会階層や集団と、ヨーロッパ発祥の国民国家との適合の問題を扱う。画一的な国家ではなく、社会の実情に合う民主主義国家について考察する。
+quotedDescription:
+  text:
+    ja: 民主主義とは何でしょうか。どうしたら政治的安定を得られるのでしょうか。統合できない多様な社会は、強権的に統制した方が得策なのでしょうか。セミナーでは、アフリカの破綻国家の例としてコンゴ・ザイールの歴史を取り上げます。実際、アフリカでは植民地を経て、流動的な社会階層やグループが出現してきました。これらの人々は、ヨーロッパ発祥の国民国家に適合できない性格を持っていました。では、これら規格外の国家「不適合者」を放っておいていいのでしょうか。彼らは差別を受け、経済的困窮からテロリストや暴力集団に変容していくのです。画一的な国家ではなく、社会の実情に適合できる民主主義国家について考えて行きます。
+  source: https://ocw.hokudai.ac.jp/lecture/nation-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鍋島 孝子
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- business_law
+keywords:
+- 法律／政治
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

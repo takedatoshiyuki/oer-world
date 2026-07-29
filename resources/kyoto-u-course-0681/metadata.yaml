@@ -1,0 +1,83 @@
+slug: kyoto-u-course-0681
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/681/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地球資源経済論
+description:
+  ja: 資源の利用と保全を、環境と経済の関係や外部性の内部化方策から扱う講義である。続いて、再生可能資源と再生不可能資源をそれぞれ分析し、農業と環境政策にも触れる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      最大講義回数７回の講義なので、重要論点を絞ってコンパクトな内容にすることを心がける。
+
+       
+
+      授業の紹介
+
+      資源の利用と保全に関して、その現状と地球環境に配慮した望ましい方向について、異時的な効率的資源配分の観点から講述する。すなわち、まず、環境と経済の関係および外部性の内部化方策について明らかにする。次いで、再生可能な資源については生物資源経済学に依拠しつつ、また再生不可能な資源については枯渇性資源経済学に依拠しつつ、それぞれその論点を講述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/681/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 武部 隆
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 表紙・目次'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_chikyushigenkeizairon_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/681/
+- name: "講義資料: 第1回\t環境と経済"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_chikyushigenkeizairon_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/681/
+- name: "講義資料: 第2回\t外部性の内部化方策"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_chikyushigenkeizairon_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/681/
+- name: "講義資料: 第3回\t再生可能資源の分析"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_chikyushigenkeizairon_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/681/
+- name: "講義資料: 第4回\t再生不可能資源の分析"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_chikyushigenkeizairon_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/681/
+- name: "講義資料: 第5回\t農業と環境政策"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_chikyushigenkeizairon_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/681/
+extensions:
+  faculty: 地球環境学堂・地球環境学舎
+  term: 前期後半
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

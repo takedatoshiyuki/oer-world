@@ -1,0 +1,97 @@
+slug: icu-majors-lng101-2014a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/lng101_2014a
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Linguistics I 言語学入門 I
+description:
+  ja: 言語学と応用言語学で使う基本的な用語や概念を導入し、言語分析の練習を行う講義資料である。音声学・音韻論から、形態論、統語論、意味論までを扱い、人間言語の音のしくみ、語の作り方、文の構造、意味の捉え方を学ぶ。
+quotedDescription:
+  text:
+    ja: 'The course has two major goals: (1) to introduce basic terminology and concepts commonly used
+      in modern Linguistics and Applied Linguistics, and (2) to provide practice in analyzing language.
+      At the end of this course, students should be able to conduct a structural analysis of basic linguistic
+      data in a scientific and systematic manner.
+
+      人間言語の音韻システム、単語の構成、文の構造、意味のとらえ方などに焦点をあて、言語学の基礎体系を学ぶ。具体的な言語分析になれることによって、人間言語がどのようなシステムになっているか、また、どのように働くのかを理解する。
+
+      Contents of Lectures
+
+      4
+
+      Lectures /
+
+      1
+
+      Video
+
+      Oct 03
+
+      Phonetics: the study of speech sounds. & Phonology: the study of the organization of language sounds.
+
+      Lecture Notes
+
+      Exercises
+
+      Oct
+
+      15
+
+      Morphology: the study of the make-up of words.
+
+      Syntax: the study of how phrases and sentences larger than the word are constructed.
+
+      Semantics: the study of meaning.'
+  source: https://ocw.info.icu.ac.jp/majors/lng101_2014a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 吉田智行
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'Linguistics 言語学 | Course ID: L'
+- 'LNG101 | Course Schedule: 3/M, 3/W, 3/F | Update: 2015.01.30'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1V55xPx6UMZAGJGD19_KmNlsUhtzAmzQq/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/lng101_2014a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1x9qXCoCJa4ljMsJ2sBJexU2sBT3L3RQf/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/lng101_2014a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

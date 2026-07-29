@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0423
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/423/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「加速器・ビーム物理学との出会い －新たなビームの可能性を求めて」
+description:
+  ja: 京都大学化学研究所で開講された、野田章による最終講義である。加速器・ビーム物理学との出会いと、新たなビームの可能性をテーマとして扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 野田 章
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Group Leader of Accelerators
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Heidelberg
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Germany）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 化学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

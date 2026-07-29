@@ -1,0 +1,77 @@
+slug: hokudai-ecodesign-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/ecodesign-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク 都市・農村の地域連携を基礎とした低炭素社会のエコデザイン（2010）
+description:
+  ja: アジアでの低炭素社会の実現に向けた研究成果を扱い、農村と都市の連携を軸にした資源循環のあり方を示す講義である。農村由来のバイオマスを都市のエネルギー利用につなげる仕組みを取り上げ、北海道や中国の事例を通じて検討する。あわせて、アジアの将来シナリオについて意見交換する。
+quotedDescription:
+  text:
+    ja: 地球温暖化を引き起こす二酸化炭素の排出量が少ない社会（低炭素社会）をアジアに実現させるための研究の成果を報告します。農村から出るバイオマス資源を、都市で使うエネルギーへ効率的に活用するシステムなど、農村と都市の連携のあり方について研究してきました。北海道や中国の事例を通じて見えてきた、エネルギーと物質のあるべき資源循環システムを紹介しつつ、アジアの将来シナリオについて意見交換します。
+  source: https://ocw.hokudai.ac.jp/lecture/ecodesign-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 梅田 靖
+  affiliation:
+    name: 大阪大学大学院工学研究科
+- type: Person
+  name: 小林 紀之
+  affiliation:
+    name: 日本大学大学院法務研究科
+- type: Person
+  name: 春日 隆司
+  affiliation:
+    name: 下川町地域振興課
+- type: Person
+  name: 関根 嘉津幸
+  affiliation:
+    name: 富良野市総務部市民環境課
+- type: Person
+  name: 大崎 満
+  affiliation:
+    name: 北海道大学大学院農学研究院
+- type: Person
+  name: 田中 教幸
+  affiliation:
+    name: 北海道大学サステイナビリティ学教育研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- agriculture
+keywords:
+- 工学／情報
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

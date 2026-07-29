@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0242
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/242/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第1回「内に秘めた私：日系人『収容所』で書かれた日記に見る修辞語としての『我慢』」
+description:
+  ja: 教育学研究科のレクチャーシリーズ第1回として、日系人「収容所」で書かれた日記と『我慢』の表現を扱う講演を収録する。私的な書きものを手がかりに、日系アメリカ人の収容体験とそのレガシーに触れる内容である。日英の同時通訳を伴うZoom講演として実施された。
+quotedDescription:
+  text:
+    ja: '概要
+
+      7月31日（金）、教育学研究科グローバル教育展開オフィス主催　2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』をテーマにZOOM講演会を開催いたしました。
+
+      第一回目となる今回は、アメリカ・ワシントン大学ボセル校 ミラ・シマブクロ先生により “Me Inwardly Before I Dared”: Private Writing, the Legacy
+      of Japanese American “Internment” and the Rhetorics of Gaman（内に秘めた私：日系人「収容所」で書かれた日記に見る修辞語としての「我慢」）をテーマにご講演いただきました。司会進行はオフィス長　教授　高山敬太先生が務め、日⇔同英時通訳も入りました。当日は学内外から多くの参加があり、活発な質疑応答が行われました。'
+  source: https://ocw.kyoto-u.ac.jp/course/242/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: ミラ・シマブクロ
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-31'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

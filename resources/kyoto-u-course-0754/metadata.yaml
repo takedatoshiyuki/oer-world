@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0754
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/754/
+type:
+- LearningResource
+- Course
+name:
+  ja: Generic vanishing and the birational geometry of irregular varieties
+description:
+  ja: この講義は、generic vanishing の結果とその双有理幾何への応用を扱う。対象は不規則多様体で、アーベル多様体のコホモロジー的特徴付け、アーベル多様体上の因子の特異点、pluricanonical
+    maps などを議論する。さらに、最大 Albanese 次元をもつ底空間を持つ fiber space に対する Iitaka 予想の結果にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      In these lectures we will survey the generic vanishing results of Green, Lazarfeld, Hacon, Popa,
+      Pareschi and others and discuss their applications to the study of the birational geometry of irregular
+      varieties i.e. smooth projective varieties such that \(H^0(\Omega^1_X) \neq 0 \). In particular
+      we will discuss results concerning the cohomological characterization of abelian varieties, the
+      singularities of divisors on abelian varieties, the pluricanonical maps of irregular varieties and
+      a recent result of Cao-Paun which proves the Iitaka conjecture for fiber spaces \(f:X \to Y \) where
+      \(Y\) is a variety of maximal Albanese dimension (eg. an abelian variety).'
+  source: https://ocw.kyoto-u.ac.jp/course/754/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Distinguished Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of Utah）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-06-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

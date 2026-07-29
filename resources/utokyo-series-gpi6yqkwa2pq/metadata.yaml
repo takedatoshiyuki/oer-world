@@ -1,0 +1,55 @@
+slug: utokyo-series-gpi6yqkwa2pq
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Gpi6yqKwa2pQ
+type:
+- LearningResource
+- Course
+name:
+  ja: 東洋文化研究所公開講座 第16回 アジアの策
+description:
+  ja: 中国の台頭がアジア、とくに日本との関係にどのような変化をもたらしたかを扱う講義である。経済や人的交流の拡大と、外交・安全保障上の摩擦の両面を取り上げたうえで、周辺地域の人々の受け止め方にも目を向ける。
+quotedDescription:
+  text:
+    ja: "近年の中国の台頭はアジアにいろいろな変化をもたらしました。日本との関係で言えば、経済的な結びつきが強まり、旅行者などの人的交流は拡大しつつも、外交・安全保障上の摩擦が顕在化するようになりました。中国に対して「親しみをもつ」とする回答は減り、中国の台頭を警戒する声も強まっています。\
+      \ \n  では、アジアの周辺地域の人々はどうなのでしょう？彼らもまた、日本と似たようなスタンスから中国の台頭を眺めているので…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=Gpi6yqKwa2pQ
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 園田 茂人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塚本 麿充
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,49 @@
+slug: kyoto-u-course-0561
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/561/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「心理臨床と科学性」
+description:
+  ja: 京都大学教育学研究科で開講された伊藤良子による最終講義の教材である。公開されている資料は講義資料1件で、講義名から心理臨床と科学性を扱う内容であることがわかる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 伊藤 良子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-02-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 最終講義
+audience:
+- general_public
+materials:
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/03/2008_finallecture_prof_ito01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/561/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

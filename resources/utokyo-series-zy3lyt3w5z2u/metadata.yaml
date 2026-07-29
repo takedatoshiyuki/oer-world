@@ -1,0 +1,60 @@
+slug: utokyo-series-zy3lyt3w5z2u
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=zY3lYT3w5z2U
+type:
+- LearningResource
+- Course
+name:
+  ja: Conditions of War and Peace
+description:
+  ja: 近年の国際政治のうち、平和と安全保障に関する研究で扱われる論点の基礎を整理する講義である。単純に見える問いを手がかりに、学習者が自分で分析を進めることを前提としている。Courseraで開講された講義を東大TVで配信する形の教材である。
+quotedDescription:
+  text:
+    ja: "世界的なオンラインコースのCourseraで開講された「Conditions of War and Peace」を東大TVで配信します。  \n  本コースでは、近年の国際政治、とりわけ平和・安全保障に関する調査研究で議論されているトピックの基本を読み解いていきます。取り上げる問いは一見単純に見えますが、示唆される解は必ずしも明瞭ではありません。このコースで得た知見を用いて学習者自身がより深い分析に踏み込むことで、真に迫った答えにたどり着…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=zY3lYT3w5z2U
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+- arts_humanities
+- social_sciences
+keywords:
+- 政治・法律
+- 言語・思想
+- 国際関係
+- 国際政治
+- 国際法
+- 民主主義
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

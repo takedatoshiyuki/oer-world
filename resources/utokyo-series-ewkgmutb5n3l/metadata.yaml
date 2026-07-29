@@ -1,0 +1,87 @@
+slug: utokyo-series-ewkgmutb5n3l
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ewKGMuTB5n3L
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学とは (学術俯瞰講義)
+description:
+  ja: 工学とは何かを問い、具体例を通してその全体像を俯瞰する講義である。高校までには通常扱わない工学を、どのような学問として捉えるかを考える内容になっている。
+quotedDescription:
+  text:
+    ja: 'コーディネータ・ナビゲータ：北森武彦、光石 衛、小関敏彦
+
+      この講義は「工学とは？」の問いかけに始まり「工学とは」の答えに終わることを目標とする。どこの大学にも有り高校までに習うことのない「工学」とはいったいどのような学問なのか。学ぶ方も教える方もわかっていそうでそうでもない「工学」について、具体的な例から俯瞰してみよう。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ewKGMuTB5n3L
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 北森 武彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉村 忍
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Dario Gil
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古澤 明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤田 香織
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小関 敏彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+- education
+- ict
+keywords:
+- ロボット・技術
+- 教育
+- 災害・防災
+- AI・情報
+- 都市・建築
+- 環境
+- エネルギー・資源
+- 工学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

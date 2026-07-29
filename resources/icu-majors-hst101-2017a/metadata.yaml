@@ -1,0 +1,145 @@
+slug: icu-majors-hst101-2017a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/hst101_2017a
+type:
+- LearningResource
+- Course
+name:
+  ja: HST101 History of Asia (China) アジア史（中国）
+description:
+  ja: この講義は、中国史を前近代から1945年まで通して扱い、前半で中国文明の成立から明清に至る流れをたどる。後半では、アヘン戦争以後の変動を起点に、清末改革、革命運動、国民政府期、日中戦争期の展開までを取り上げる。東アジアとの関わりや、中国と西洋の接触も含めて講じる。
+quotedDescription:
+  text:
+    ja: 'Description of major trajectories of Chinese history. A survey of pre-modern Chinese history
+      up to the Opium war. Lectures will cover such topics as the Golden Age of Chinese Classics, the
+      Han Unification, the arrival of Buddhism, the new empires under the Tang and Sung dynasties, the
+      takeover by the Mongols, the rise and decline of the Ming dynasty, and the eastern encounter with
+      the West.
+
+      19世紀にわたる東アジア史の流れの概説。アヘン戦争に至る、前近代中国の通史を、古典の黄金期、帝国統一、仏教伝来、帝国再生、草原の民、帝国後期、西力東漸の順を追って講義する。
+
+      Contents of Lectures
+
+      The lectures in the first half of the course cover the pre-modern history of China and East Asia,
+      and the latter half is the Modern History from the middle of 19th century to 1945. The main topics
+      of the lectures are as follows,
+
+      【The first half: Pre-modern history】（Using handouts）
+
+      1. Diversity of Chinese society.中国社会の多様性（西南少数民族と日本） 20170911
+
+      2.
+
+      Birth of Chinese Civilization. 中国文明のあけぼの（先史から戦国まで）
+
+      3.
+
+      Unification of the nation and its development in Qin and Han dynasties. 統一国家の成立とその展開（秦、漢）
+
+      4. Maturity of Ancient Chinese Civilization and Eastern Asia in Sui and Tang dynasties.
+
+      中国古代文明の成熟と東アジア（隋、唐）201
+
+      70920, 20170922
+
+      5.Change of Easter Asian society and Conquest Dynasties.東アジア社会の変容と征服王朝（宋、元）
+
+      6.Completion of Imperial China in Ming and Qing dynasties.伝統中国世界の完成と東アジア（明、清）
+
+      7.Break(Watching Video); Zhang Xueliang’s talks about the history of Modern China and Japan.
+
+      ブレイク「張学良の語る日中近代史（ビデオ）」
+
+      【The latter half: Modern history】（Using text book）「南からの風」吹く・アヘン戦争と太平天国運動
+
+      1.
+
+      The wind from the South was brown: Opium war and Taiping Rebellion.ゆらぐ中華の世界・洋務運動と日清戦争
+
+      2.
+
+      Unrest in Imperial China: Yangwu Reform Movement and Sino-Japanese War.ナショナリズムの誕生・戊戌変法と義和団
+
+      3.
+
+      Birth of Nationalism: Hundred Day’s Reform and Boxer Uprising.清帝国のたそがれ・ラストエンペラーと辛亥革命
+
+      4.
+
+      Twilight of Qing Dynasty: Xinhai Revolution and the Last Emperor.「民の国」の試練・袁世凱政権と日本
+
+      5.
+
+      Trial of the Republic China: The Yuanshikai’ goverment and Japan.若者たちの季節・五四運動とマルクス主義
+
+      6.
+
+      Season of the young: May Fourth Movement and Marxism.革命いまだならず・第一次国共合作と北伐
+
+      7.
+
+      The revolution has not succeeded yet: First united front and Northern Expedition.内憂と外患のなかで・南京国民政府と満洲事変
+
+      8.
+
+      Among the domestic troubles and external threats, Nanjing Nationalist Government and Manchurian
+      Incident.
+
+      抗日の長城を築かん・満洲国と長征、西安事変
+
+      9.
+
+      Building the Great Wall against Japan, Manchukuo, Long March and Xi’an Incident.
+
+      10.
+
+      The towns and peoples on the frontier, Hongkong, Taiwan and Shanghai.辺境の街と人々・香港、台湾そして上海
+
+      10.The towns and peoples on the frontier, Hongkong, Taiwan and Shanghai.
+
+      辺境の街と人々・香港、台湾そして上海  2017
+
+      11'
+  source: https://ocw.info.icu.ac.jp/majors/hst101_2017a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 菊池秀明
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- History 歴史学
+- HST
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

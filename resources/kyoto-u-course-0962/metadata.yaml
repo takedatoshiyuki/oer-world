@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0962
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/962/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅩⅦ「社会の安全と人間安全保障の新しいパラダイムを考える」 －東日本大震災の教訓から－
+description:
+  ja: 本教材は、京都大学防災研究所が担当する講義資料で、2011年11月に公開された。資料は第3部のパネルディスカッションを扱い、「新しい安全の質」と和歌山県の防災・減災対策を題材にする。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-11-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- engineering
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 第3部　パネルディスカッション「新しい安全の質を考える」「和歌山県の防災・減災対策」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/11/2011_kyotou-sympo-daishinsaigowokangaeru_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/962/
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

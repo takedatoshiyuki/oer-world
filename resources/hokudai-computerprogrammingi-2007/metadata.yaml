@@ -1,0 +1,96 @@
+slug: hokudai-computerprogrammingi-2007
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 計算機プログラミングI・同演習（2007）
+description:
+  ja: 計算機を用いた実験やデータ分析のためのプログラミング技法を、Linux（Red Hat 9）上のC言語を例にして扱う教材である。入門的事項を演習・実習形式で確認し、公開教材として講義ノートが提供されている。
+quotedDescription:
+  text:
+    ja: 本講義・演習では工学/情報科学のみならず社会科学などおける研究などでも不可欠となってきている計算機を用いた実験/データ分析のためのプログラミング技法として、基本ソフトLinux (Red
+      Hat 9) 上で動作するC言語を例にとり、その入門的事項を演習/実習形式で確認する.
+  source: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 井上 純一
+  affiliation:
+    name: 工学研究院
+- type: Person
+  name: 赤間 清
+  affiliation:
+    name: 工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- s:134:"s:125:"s:116:"s:107:"a:4:{i:0;s:13:"C言語入門";i:1;s:6:" Linux";i:2;s:13:" 数値計算";i:3;s:22:" プログラミング";}";";";";
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート（一括ダウンロード）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputerProgrammingI-2007-Note-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computerprogrammingi-2007
+extensions:
+  faculty: 工学部
+  targetAudience: 2年生 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

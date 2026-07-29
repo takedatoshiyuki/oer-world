@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0184
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/184/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第63回 京都大学品川セミナー「流れる砂と流れない砂」
+description:
+  ja: 砂のような粒子が集まった粉体を対象に、衝突でエネルギーロスが起こるために現れる独特のふるまいを扱う。流れる状態と流れない状態の共存や、その間に起こるジャミング転移を中心に、粉体の流れの理解を段階的にたどる。冒頭では、粒子衝突の反発係数についても触れる。
+quotedDescription:
+  text:
+    ja: '砂のような目に見えるマクロな粒子の集団は粉体と呼ばれ、分子が直接構成要素となった通常の気体、液体、固体と異なった特異な性質を示します。その特異さは、専ら粒子同士の衝突の際にエネルギーロスがあり、反発係数が１と異なる事に由来します。実際、エネルギーロス故に重力等の外力がないと粉体は止まってしまい、また外力下でも粉体は流れる状態と流れない状態がしばしば共存したり、流れる状態と流れない状態の相転移があったりします。このような相転移は交通渋滞（英語ではトラフィックジャムとなります）と似ており、ジャミング転移と呼ばれて盛んに研究されています。
+
+      　土砂崩れを考えるまでもなく粉体の流れの制御が応用上重要であるのは自明です。それ故に少し前まで、粉体は工学分野で専ら研究されてきました。そういった物質を基礎物理として研究する理由は何処にあるのでしょうか。
+
+      　例えば温度を上げる事によって磁石が消磁するような通常の相転移は、平衡状態で個々の磁石の統計平均である磁化を計算するとゼロから有限の値に変化することで特徴付けられ、平衡統計力学の問題と言えます。一方でジャミング転移では粘性率の発散或いは剛性率の出現で特徴付けられますが、そもそも粉体では外力がない場合に運動が止まってしまう事から分かるように温度が意味を持たず、平衡状態がありません。このような典型的な非平衡状態での相転移をどう理解するかは、非平衡統計力学の典型的問題であり、基礎物理の重要な課題です。このような基礎原理の理解が広範な応用をもたらすことは言うまでもないでしょう。
+
+      　本講演では、そもそも粉体粒子同士の衝突の際の反発係数が高校物理で教えられるような単純なものではないことを簡単に紹介した後に、粉体集団の流れ、特にジャミング転移をどう理解するかを順を追って紹介したいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/184/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 早川 尚男
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-08-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0052
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/52/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第43回 京都大学品川セミナー「話がわかるコンピュータ－音声認識と対話システムの最前線－」
+description:
+  ja: 人間の話す言葉を理解するコンピュータやロボットを主題に、音声認識と対話システムの進展を扱う。スマートフォンでの音声入力による検索や翻訳、会話アプリ、国会会議録作成への応用までを取り上げる。
+quotedDescription:
+  text:
+    ja: 人間の話す言葉を理解するコンピュータやロボットの実現は 長らくＳＦの範疇でしたが、 ２１世紀に入り急速に進歩と実用化が進んでいます。 特にこの数年で、スマートフォンで音声入力によって情報検索や翻訳を行ったり、
+      軽妙な会話を行うアプリが出現するなど、身近なものになっています。 また、国会（衆議院）の会議録作成に供するような高度なものも実現されています。
+  source: https://ocw.kyoto-u.ac.jp/course/52/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河原 達也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-12-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

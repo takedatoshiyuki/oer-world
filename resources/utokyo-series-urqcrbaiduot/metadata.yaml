@@ -1,0 +1,104 @@
+slug: utokyo-series-urqcrbaiduot
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=URQCRbaIDUOt
+type:
+- LearningResource
+- Course
+name:
+  ja: クールヘッド・ウォームハート－みえない社会をみるために（学術俯瞰講義）
+description:
+  ja: 社会の問題の捉え方と向き合い方を扱う学術俯瞰講義である。目にみえる問題だけでなく、背景や解決策がすぐにはみえない問題にも触れ、東京大学の教員がそれぞれの学問的視点から考える。
+quotedDescription:
+  text:
+    ja: 'コーディネータ・ナビゲータ　玄田 有史（社会科学研究所）
+
+      　イギリスのケンブリッジ大学にアルフレッド・マーシャル (1842-1924) という学者がいました。マーシャルは経済学の発展に多いに貢献した人物ですが、1885年の教授就任講演での締めくくりの言葉がよく知られています。
+
+      　「ケンブリッジが世界に送り出す人物は、冷静な頭脳と温かい心をもって、自分の周りの社会的苦悩に立ち向かうために、その全力の少なくとも一部を喜んで捧げよう」(伊藤宣広訳『経済学の現状』)。
+
+      　この「冷静な頭脳と温かい心」(Cool Head but Warm Heart) という言葉は、今も経済学者のあるべき理想の姿といわれています。ただそれは経済学にとどまらず、社会のさまざまな問題を解明しようとするあらゆる学問領域に共通する姿勢でしょう。
+
+      　では冷静さと温かさを持って、私たちはどのように社会の問題に立ち向かっていくべきなのでしょうか。社会の問題は、目にみえる問題もあれば、背景や解決策がすぐにはみえない問題もあります。みえない社会の問題は見逃されたまま、取り残されてきました。
+
+      　しかし東京大学には、様々な社会の問題を発見し、その解決に向けて、日々学問的挑戦を続けているクールヘッド・ウォームハートな教員がたくさんいます。今回の学術俯瞰講義では、そんな教員の何名かに登場していただき、社会の問題との向き合い方について学びます。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=URQCRbaIDUOt
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 玄田 有史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 俊樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小国 喜弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 米山 正樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 白波瀬 佐和子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 徹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宮尾 龍蔵
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宮本 弘曉
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- arts_humanities
+- agriculture
+keywords:
+- 人口・社会問題
+- 心理・認知
+- 言語・思想
+- 経済・金融
+- 食料・農業・水産業
+- 国際関係
+- 政治・法律
+- 社会学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,59 @@
+slug: sophia-20120720renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120720renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第21回
+description:
+  ja: 国連を題材にした講演会の講義資料で、浦元義照と山下真理が担当する。公開資料としてPDFが1件あり、講演会第21回の内容を扱う。
+quotedDescription:
+  text:
+    ja: 'Freedom from Want, Freedom from Fear
+
+      国連のチャレンジ、上智のチャレンジ。国連で働こう！'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120720renaissance/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 浦元 義照(国際連合工業開発機関事務局前次長)
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 山下 真理(国際連合広報センター所長)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20120720renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20120720renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20120720renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2012/07/20
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

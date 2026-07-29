@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0813
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/813/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Business English III: Global Career Development'
+description:
+  ja: 将来、国際機関や国際的な仕事を目指す学生を対象に、国際的なキャリアを考えるための基礎知識を扱う。将来の進路の可能性を検討したうえで、英語で自分のキャリアプランをまとめて提出する。
+quotedDescription:
+  text:
+    ja: '授業の概要・目的
+
+      このクラスでは将来国際機関、国際的な仕事をしたいと考えている学生の為にその可能性をのばし、準備体制を整えるためのクラスである。学生はその土台となる知識をみにつけると共に、様々な将来の国際キャリアの可能性を考え、最後に自分の将来のキャリアプランにつき英語でレポートを提出する。'
+  source: https://ocw.kyoto-u.ac.jp/course/813/
+  note: 京都大学OCW 「授業の概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河合 江理子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 春具 (はる えら)
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河合 美宏
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

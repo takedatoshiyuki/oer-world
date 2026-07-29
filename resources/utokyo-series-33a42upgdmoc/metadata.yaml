@@ -1,0 +1,51 @@
+slug: utokyo-series-33a42upgdmoc
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=33a42upgdMoC
+type:
+- LearningResource
+- Course
+name:
+  ja: エキゾティック超伝導
+description:
+  ja: 東京大学の理学部・理学系研究科で2011年に開講された、Anthony Leggett担当の講義である。講義名から、超伝導を主題とする教材であることが分かる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Anthony Leggett
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 宇宙・物理
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 理学部・理学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

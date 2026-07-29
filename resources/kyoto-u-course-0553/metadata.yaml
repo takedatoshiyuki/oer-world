@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0553
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/553/
+type:
+- LearningResource
+- Course
+name:
+  ja: 文献検索評価法
+description:
+  ja: 文献検索とその評価を、EBMの視点から扱う講義資料だ。PubMedの入門、各自のテーマに沿った文献検索演習、コクランライブラリーや診療ガイドラインの導入資料も含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中山 健夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 医学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回 文献検索と評価の基本：EBMの視点から（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_bunkenkensakuhyokaho_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/553/
+- name: '講義資料: 第2回 文献検索と評価の基本：EBMの視点から（２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_bunkenkensakuhyokaho_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/553/
+- name: '講義資料: 第6回 PubMed入門（2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_bunkenkensakuhyokaho_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/553/
+- name: '講義資料: 第7回 文献検索演習：各自のテーマから'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_bunkenkensakuhyokaho_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/553/
+- name: '講義資料: 第8回 コクランライブラリー・診療ガイドライン入'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_bunkenkensakuhyokaho_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/553/
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,158 @@
+slug: icu-ge-ges013-2015w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges013_2015w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Political Science (C) S1:政治学（Ｃ）'
+description:
+  ja: 政治を理解するための分析枠組みを導入しつつ、日本と中国をめぐる安全保障や外交関係を具体例として扱う。あわせて、記憶の政治、経済発展と地域秩序への影響、東アジアにおける中国認識とソフトパワーまでを取り上げる。
+quotedDescription:
+  text:
+    ja: 'Politics is all around us, in the media and in daily life. Often it”s difficult to make sense
+      of all the different actors, their fundamental ideas, their ambitions, their speeches, laws and
+      provisions, their goals, and the short-term and long-term consequences. This course wants to provide
+      a structure and an analytical framework developed by political scientists over the last two-thousand
+      years.
+
+      政治はメディアや日常生活のいたるところにある。政治を演じる者たちすべてを理解し、その基本的考え方、野心、スピーチ、法および規則、ゴール、短期的・長期的結果を理解することは、しばしば困難である。このコースは、過去二千年以上にわたって政治学者が開発してきた分析の枠組みと構造を提供する。
+
+      Contents of Lectures
+
+      1
+
+      1
+
+      Lectures /
+
+      4
+
+      Videos
+
+      Week 1
+
+      Introduce traditional security issues that exist between Japan and China. Develop students’ understanding
+      of the difference between traditional security (TS) and non-traditional security (NTS).
+
+      Key concepts: Traditional security, Power relations
+
+      Week 2
+
+      Introduce Chinese views on US-Japan Alliance and the TS issues associated with it.
+
+      Key Concepts: Traditional security, Power relations
+
+      Week 3
+
+      Introduce NTS issues facing Japan and China and potential areas for cooperation.
+
+      Key concepts: Non-traditional security
+
+      Week 4
+
+      Discuss the politics of memory in both Japan and China.
+
+      Key concepts: Nationalism, memory production, domestic politics
+
+      Jan 07
+
+      Week 5
+
+      Explore how Japan and China are formulating their bilateral and regional relations based.
+
+      Key concepts: Bilateralism, Multilateralism, Engagement, Containment, Integration
+
+      Jan
+
+      14
+
+      Week
+
+      6
+
+      Explore how Japan and China are formulating their bilateral and regional relations based.
+
+      Key concepts: Bilateralism, Multilateralism, Engagement, Containment, Integration
+
+      Jan 1
+
+      8
+
+      Week 6
+
+      Explore how Japan and China are formulating their bilateral and regional relations based.
+
+      Key concepts: Bilateralism, Multilateralism, Engagement, Containment, Integration
+
+      Jan 25
+
+      Week
+
+      7
+
+      Changes in Architecture and Economic Development in Japan
+
+      Explore Japan’s economic restructuring as a response to China’s rise
+
+      Key concepts: Economic architecture, economic integration, production networks
+
+      Week
+
+      8
+
+      Investigate China’s economic growth and its regional and global implications.
+
+      Key concepts: Economic architecture, economic integration, production networks
+
+      Week 9
+
+      Explore Japan’s economic restructuring as a response to China’s rise
+
+      Key concepts: Economic architecture, economic integration, production networks
+
+      Week 10
+
+      Discuss perceptions of China in East Asia and relate to soft power
+
+      Key concepts: Grassroots exchanges, soft power'
+  source: https://ocw.info.icu.ac.jp/ge/ges013_2015w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES013 | Course Schedule: 4*/M, 4*/TH | Update: 2020.02.13'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

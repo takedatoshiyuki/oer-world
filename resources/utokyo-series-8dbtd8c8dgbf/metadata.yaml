@@ -1,0 +1,64 @@
+slug: utokyo-series-8dbtd8c8dgbf
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=8dBTd8C8dGbf
+type:
+- LearningResource
+- Course
+name:
+  ja: 代数と幾何
+description:
+  ja: 線形代数を土台に、ジョルダン標準形や双対空間、商空間、テンソル積といった抽象的な構成を扱う講義である。ベクトル、行列、行列式の基本に慣れた学生を対象に、数学の内容だけでなく、その学習で現れる考え方や用語にも触れる。基本例を多く取り上げながら、現代数学で現れる線形代数的な見方を扱う。
+quotedDescription:
+  text:
+    ja: '線形代数は，微積分とならんで，現代の数学を支える大きな柱である．数学のどの分野にも，線形代数的なものが現れる．代数では加群や表現，幾何では接空間 や微分形式，解析では線形微分方程式や関数空間など，数え上げていけばきりがないほどである．また，線形代数それ自体は，数学のさらに進んだ分野に比べれ
+      ば簡単であり，それらの基礎になっている．
+
+      この講義では，ふつうの入門とは異なり，ベクトルや行列，行列式といった，線形代数の基本的対象にはある程度慣れている学生を対象に，ジョルダン標準形な どの進んだ話題や，双対空間，商空間，テンソル積などの抽象的な構成に重点をおいて解説する．より具体的には，数学を専攻として勉強しはじめた学生を想定
+      している．
+
+      そのような学生にとっての数学の難しさは，まずはその内容自体にあるだろう．しかしそのほかに，数学独特の考え方や習慣なども，その一因と考えられる．数学の学習の中で， 数学特有のことばの習得が占める部分は大きい．この講義では，数学的な内容だけでなく，
+      このような，ふつうは教科書に書かれないような点についても説明した．
+
+      現代の数学では，抽象的，公理的方法が主流となっている．一方，数学を真に理解するには，数学的な対象に実体感をもてるようになることが欠かせない．そのため，この講義では，基本的な例をなるべく多数紹介する．'
+  source: https://ch.u-tokyo.ac.jp/series/?id=8dBTd8C8dGbf
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 斉藤 毅
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 数理科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

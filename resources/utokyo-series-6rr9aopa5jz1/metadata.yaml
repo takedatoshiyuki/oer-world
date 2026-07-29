@@ -1,0 +1,93 @@
+slug: utokyo-series-6rr9aopa5jz1
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=6rr9AOpa5JZ1
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報が世界を変える－技術と社会、そして新しい芸術とは（学術俯瞰講義）
+description:
+  ja: この講義は、情報技術が社会や生命の世界、さらには経済や国際関係に及ぼす変化を、多分野にまたがって扱う。あわせて、ロボット工学やシミュレーションと美術・音楽の表現が結びつく領域にも踏み込み、情報をめぐる新しい知の広がりを3つの軸から考える。
+quotedDescription:
+  text:
+    ja: '情報が世界を変えている。20世紀後半に劇的な進化を遂げた情報技術は、いまや社会の隅々、ミクロな生命の世界からグローバルな経済秩序や国際関係までを 激しくつき動かしている。わたしたちは今、情報が爆発し、連結し、融合し、再編される新しい世界の中で立ちすくんでいる。
+
+      わたしたちの身のまわりを見まわしてみよう。インターネットや携帯電話からデータベースやゲーム、アニメなどのコンテンツ産業、仮想現実、 iPodのような小型のデジタル媒体の普及、ストリーミング配信や各種の音楽配信技術、ブログや検索システムの発達といった状況のなかで、ネットワーク型
+      デジタル情報社会は日常の思考や行動の様式をすっかり変えつつある。
+
+      情報はまた、わたしたちの感性や想像力の新しい基盤でもある。グローバルに情報化された世界の新しい表現とは何か。ロボット工学やシミュレーションと美術や音楽の表現が結びついていくとき、21世紀の人類はどのような新しい芸術を獲得するのか。
+
+      「情報」というテーマは幅広く、奥深い。わたしたちが日々の生活で、あるいはテレビのニュースやネットを通じて接している「情報」は、授業で学ぶ 「情報」よりもはるかに巨大で、つかみどころがないように感じてはいないだろうか。だからこそこの学術俯瞰講義では、「知の構造化と新しい情報秩序」「生
+      命からロボットまで」「情報とアートのインタフェース」という３つの軸を設けながら、学問分野の壁を超えてわたしたちのまわりで爆発的に広がる新しい知の フィールドにみなさんを招待しよう。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=6rr9AOpa5JZ1
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 坂本 龍一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小宮山 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 原島 博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 須藤 修
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 知正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 竹内 郁雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- education
+- ict
+keywords:
+- 文化・芸術・文芸
+- 言語・思想
+- 教育
+- AI・情報
+- 経済・金融
+- ロボット・技術
+- 心理・認知
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

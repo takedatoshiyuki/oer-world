@@ -1,0 +1,60 @@
+slug: sophia-20110910european
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110910european/
+type:
+- LearningResource
+- Course
+name:
+  ja: Probleme und Kontext der Grammatikalisierungsforschung
+description:
+  ja: グラマティカリゼーション研究の問題点と、その研究を取り巻く文脈を扱う講義である。上智大学のヨーロッパ研究所で2011年に開講され、講義資料が3件公開されている。
+quotedDescription:
+  text:
+    ja: “Probleme und Kontext der Grammatikalisierungsforschung”
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110910european/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Prof. Dr. Gabriele Diewald
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20110910european.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20110910european.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110910european/
+- name: '講義資料: 110910european_001.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110910european_001.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110910european/
+- name: '講義資料: 110910european_002-1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110910european_002-1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110910european/
+extensions:
+  faculty: ヨーロッパ研究所
+  term: 2011/09/10
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0486
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/486/
+type:
+- LearningResource
+- Course
+name:
+  ja: E.FORUM 全国スクールリーダー育成研修 第12回実践交流会「学習指導要領改定のキーワード」
+description:
+  ja: 京都大学教育学研究科が提供する、石井 英真担当の日本語講義である。学習指導要領改定に関するキーワードを扱う実践交流会として開講されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 石井 英真
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-03-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

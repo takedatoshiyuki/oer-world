@@ -1,0 +1,58 @@
+slug: hokudai-faculty02iculturalsalon-13-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon-13-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 時計台サロン 「農学部に聞いてみよう」 第13回 北海道農業は気候変動にどう向き合うか？ （2013）
+description:
+  ja: 北海道大学農学部の講義として、北海道農業と気候変動の関係を扱う回である。2013年に開講され、広田知良と高橋昌志が担当する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 広田 知良
+  affiliation:
+    name: 北海道大学大学院農学研究院
+- type: Person
+  name: 高橋　昌志
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- 北海道農業
+- 気候変動
+- 北海道開拓
+- 家畜
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

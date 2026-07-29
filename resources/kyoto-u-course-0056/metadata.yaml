@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0056
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/56/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第49回 京都大学品川セミナー「戦略的成長は可能か」
+description:
+  ja: アベノミクスの成長戦略と日本再興戦略を手がかりに、日本経済をバブル崩壊前の成長軌道に戻せるかを考える講義である。前半では「失われた20年」の原因を整理し、成長戦略の具体的な中身を検討する。後半では、短期的な政策と長期的な経済成長の関係を踏まえた戦略を論じる。
+quotedDescription:
+  text:
+    ja: 'アベノミクスの第３の矢である「成長戦略」が日本経済再生の鍵になると言われています。しかし昨年６月に政府が公表した「日本再興戦略ーJapanis Back」は総花的で的が絞られていないように見えます。日本経済をバブル崩壊以前の成長軌道に戻すことは可能でしょうか。また可能性ならば、本当に有効な戦略は何でしょうか。本講演では、経済成長に関する経済学の最新の知見を背景に、日本経済再生の道を探ります。
+
+      日本経済の成長戦略について論じるためには、まず「失われた２０年」と言われるバブル崩壊以降の日本経済の低迷の原因を明らかにせねばなりません。しかし残念ながら、この点について、経済学者やエコノミストの意見は一致していません。本講演の前半では、失われた２０年の犯人捜しの問題を考え、有力と思われる容疑者を明らかにします。そのうえで、安倍内閣の成長戦略の具体的な内容を検討し、「失われた３０年」をとりあえず避ける方策が何であるかを考えます。
+
+      ただし、経済成長は長期的な現象ですから、これから６，７年の問題だけではなく、より長期的な視点から日本経済の進むべき方向を見据えた戦略も必要です。私見では、政府の日本再興戦略には短期的戦略と長期的戦略が混在しており、それらの間の整合性が十分に考えられていないように思います。短期的な政策の結果は、経済の長期的なパフォーマンスにも強く影響する可能性があるので、両者の関係を考えることが重要です。本講演の後半では、このような視点から、長期的戦略について論じます。なお経済学的な内容に関しては、数式や専門用語の使用を避け、予備知識がなくても理解できるようにお話します。'
+  source: https://ocw.kyoto-u.ac.jp/course/56/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 三野 和雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-06-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

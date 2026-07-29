@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0831
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/831/
+type:
+- LearningResource
+- Course
+name:
+  ja: 高校/大学から仕事へのトランジション－自己形成の場としての学校教育の到来－
+description:
+  ja: 高校・大学から仕事へ移る過程を手がかりに、若者にとっての学校教育の意味と機能を考える講義である。アイデンティティ資本、主体、多元的自己、アイデンティティ形成を軸に、学校での過ごし方と自己形成の関係を議論する。
+quotedDescription:
+  text:
+    ja: '主催：京都大学高等教育研究開発推進センター・自己意識研究会
+
+      協賛：関西地区FD連絡協議会
+
+       
+
+      趣旨
+
+      若者にとって学校（高校/大学）の過ごし方、学校から仕事へのトランジションが変わってきています。当日は、「アイデンティティ資本」「主体」「多元的自己」「アイデンティティ形成」などをキーワードに、若者にとっての学校教育の意味・機能を議論します。'
+  source: https://ocw.kyoto-u.ac.jp/course/831/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: ジェームズ・コテ
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 乾 彰夫（首都大学東京人文・社会系
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 東京都立大学人文学部 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 浅野 智彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 溝上 慎一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-02-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

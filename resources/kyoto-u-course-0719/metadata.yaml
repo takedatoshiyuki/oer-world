@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0719
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/719/
+type:
+- LearningResource
+- Course
+name:
+  ja: GCOE「親密圏と公共圏の再編成をめざすアジア拠点」グローバル化するインドにおける幼年期、求愛、婚姻、家族
+description:
+  ja: この講義は、グローバル化するインドにおける幼年期、求愛、婚姻、家族を主題とする。出典文では、国家や労働市場の再編と、家族や親密な関係の変容が同時に進む現代社会を背景に、アジアに特徴的な人口動態や福祉、移動の問題にも目を向けている。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      京都大学グローバルCOEプログラム「親密圏と公共圏の再編成をめざすアジア拠点」
+
+      グローバル化、高齢化など社会の基本条件を揺るがす大きな変動が起きている現代世界では、国家や労働市場などマクロな制度の再編成と、家族や親密な人間関係など私的な領域の変容が同時進行している。本COEではその両端の変化と相互関係に注意を向けながら、とりわけアジアに特徴的な諸問題（超低出生率、急速な高齢化、家族主義的福祉、国際移動の女性化等）の分析と解決をめざしている。
+
+       
+
+      拠点ページ：http://gcoe-intimacy.bun.kyoto-u.ac.jp/'
+  source: https://ocw.kyoto-u.ac.jp/course/719/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Senior Lecturer）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 文学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

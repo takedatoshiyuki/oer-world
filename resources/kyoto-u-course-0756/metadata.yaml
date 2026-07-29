@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0756
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/756/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Statistical physics on sparse random graphs: A mathematical perspective'
+description:
+  ja: 無秩序物質の理論モデルと組合せ最適化問題の典型的な複雑さとの関係を扱う講義である。離散変数の相互作用をランダムな木状の疎グラフとして捉え、その予測を証明する最近の進展と、スピングラス模型・ランダム行列・extremal
+    graphsとのつながりを概観する。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Theoretical models of disordered materials yield precise predictions about the typical complexity
+      of certain combinatorial optimization problems. The underlying common structure is that of many
+      discrete variables, whose interaction is represented by a random ‘tree like’ sparse graph. I will
+      survey recent progress in proving such predictions, the related insights gained from it, and certain
+      interesting connections with spin-glass models, random matrices and extremal graphs.'
+  source: https://ocw.kyoto-u.ac.jp/course/756/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Stanford University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

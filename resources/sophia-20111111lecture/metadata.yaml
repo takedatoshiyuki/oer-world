@@ -1,0 +1,54 @@
+slug: sophia-20111111lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111111lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智の座シリーズ 第5回
+description:
+  ja: ヒトクローン技術、ES細胞研究、生殖補助医療技術の進展を背景に、ヒト胚が科学研究の対象として扱われる状況を取り上げる。そこから、個人主義生命倫理と人格主義生命倫理という二つの立場のあいだで展開する国際的な論争を読み解く。
+quotedDescription:
+  text:
+    ja: "いのちの始まりをめぐって \n ヒトクローン技術、ES細胞研究、生殖補助医療技術等の進展によって、ヒト胚は現在、科学研究の貴重な対象とされている。これをめぐって、生命倫理の二大潮流、個人主義生命倫理と人格主義生命倫理との間で展開されている国際的な論争の様相を読み解く。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111111lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 秋葉 悦子(富山大学教授)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 111111lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111111lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111111lecture/
+extensions:
+  faculty: 上智の座シリーズ
+  term: 2011/11/11
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

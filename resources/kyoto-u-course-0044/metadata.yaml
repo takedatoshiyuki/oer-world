@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0044
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/44/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第32回 京都大学品川セミナー「体のなかにある分子コンビナート」
+description:
+  ja: 細胞内で数多くの化学反応が進む仕組みを、酵素や受容体が配置された「分子コンビナート」という見方から扱う講義である。さらに、分子オリガミを用いて酵素をナノメートル精度で配置する方法など、細胞の外で同様の仕組みを実現する研究成果を紹介する。
+quotedDescription:
+  text:
+    ja: '私たちは石油などの化石資源から、化学コンビナートを使って現代社会を支えるガソリン、エチレンなどを製造しています。では、私たち人間、そして生物は、どうやってエネルギーを得て、そして体を支える物質を手に入れているのでしょうか。細胞の中では数多くの化学反応が同時に、しかも効率よく進行しています。そのために、細胞の中にも化学反応を進行させる装置（酵素）や分子を捕まえる装置（受容体）がナノメートルの正確さで決まった場所に設置された「分子コンビナート」が存在して、効率よく間違いのないように物質を生産・輸送しています。また、細胞内の「分子コンビナート」では、水の中で何段階もの反応が効率よく、同じ容器のなかで同時に進行します。これはまさに低エネルギー・低環境負荷社会で人類が実現するべきエネルギー利用術の特徴といえるでしょう。
+
+      最近、分子で作ったオリガミを使って、異なる酵素を１分子ずつナノメートルの精度で決まった場所に配置する方法が開発されました。本セミナーでは、細胞の外での「分子コンビナート」の実現にむけた最近の研究成果について紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/44/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森井 孝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-01-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー理工学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

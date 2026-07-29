@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0872
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/872/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学術映像博2009 展示関連トークイベント 「日本盆栽～自然のなかの人工美～ 」
+description:
+  ja: 京都大学総合博物館による展示関連のトークイベントで、日本盆栽をテーマにしている。講師として盆栽美術家の川崎仁実と、京都大学工学研究科建築学科准教授の田路貴浩が登壇し、山本友紀がコーディネーターを務める。
+quotedDescription:
+  text:
+    ja: '講師：川崎 仁実（盆栽美術家）、田路 貴浩（京都大学工学研究科建築学科准教授）
+
+      コーディネーター：山本 友紀'
+  source: https://ocw.kyoto-u.ac.jp/course/872/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 川崎 仁実
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田路 貴浩
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 友紀
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-11-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

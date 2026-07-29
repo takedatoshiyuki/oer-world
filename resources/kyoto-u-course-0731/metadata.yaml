@@ -1,0 +1,156 @@
+slug: kyoto-u-course-0731
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/731/
+type:
+- LearningResource
+- Course
+name:
+  ja: 民法第二部（物権・担保物権）
+description:
+  ja: 民法第2編の物権法を中心に、所有権、不動産登記、動産の所有権移転、即時取得、占有などの制度を順に扱う講義である。あわせて、担保物権を含む民法の物権編の基本的な考え方と、適用をめぐる判例・学説の議論を検討する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      この講義は民法第２編の物権法の諸制度を概説し、規律の適用をめぐる判例・学説の議論を検討する。
+
+      授業の紹介
+
+      民法の物権編は有体物を中心とする財貨の価値の帰属とその変動に関する規定を中心として規律を設けており、契約による財貨移転の基礎となっている。本講義では、物権に特有の制度や考え方の基本を十分に身につけていただくことを目標とする。講義では、基本設例を示して、受講生の理解を容易にする。'
+  source: https://ocw.kyoto-u.ac.jp/course/731/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松岡 久和
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　講義を始めるにあたって・物権法全体の概説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第2回　所有権(1)：所有権の内容・特性・制限'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第3回　所有権(2)：所有権を保護する制度'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第4回　所有権(3)：共同所有と建物区分所有'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第5回　所有権(4)：所有権の取得'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第6回　所有権(5)：不動産登記制度と登記請求権'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第7回　所有権(6)：不動産所有権移転の対抗と第三者'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第8回　所有権(7)：登記を要する不動産所有権移転(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第9回　所有権(8)：登記を要する不動産所有権移転(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第10回　所有権(9)：動産所有権移転の対抗と即時取得'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第11回　所有権(10)：権利外観をめぐる立法論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第12回　占有'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第13回　抵当権(2)：抵当権の効力の及ぶ範囲'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第14回　抵当権(3)：物上代位と収益執行'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第15回　抵当権(4)：抵当権の実行と妨害排除'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第16回　抵当権(5)：抵当権と利用権の利害調整'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第17回　抵当権(6)：抵当権と第三取得者の利害調整'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第18回　抵当権(7)：共同抵当と根抵当'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第19回　質権'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第20回　仮登記担保と不動産譲渡担保'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第21回　動産および債権の譲渡担保'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第22回　共同不法行為'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第23回　事務管理・不当利得'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第24回　留置権と先取特権(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第25回　先取特権(2)と所有権留保'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_25.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 第26回　応用的事例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2_26.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 経済学部・外国人留学生用試験　1月29日実施　試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2-exam_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 経済学部・外国人留学生用試験　1月29日実施　問題解説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2-exam_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 法学部　2月12日実施　試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2-exam_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 法学部　2月12日実施　問題解説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2-exam_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+- name: '講義資料: 法学部　2月12日実施　講評'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_minpou-dai2-exam_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/731/
+extensions:
+  faculty: 法学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

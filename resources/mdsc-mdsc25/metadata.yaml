@@ -1,0 +1,49 @@
+slug: mdsc-mdsc25
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc25
+type:
+- LearningResource
+- Course
+name:
+  ja: the KIT Whole-Body Human Motion Database
+description:
+  ja: 北海道大学 数理・データサイエンス教育研究センターが提供し、教育用データベース分科会が担当する教材である。2019-06-12に開講され、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc25
+  summary:
+    ja: GNU Free Documentation License に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-12'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- health_welfare
+keywords:
+- 医療・福祉
+- 学術研究・専門・技術サービス
+- 教育・学習支援業
+- 生活関連サービス業・娯楽業
+- 複合サービス事業
+- 動画
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: low

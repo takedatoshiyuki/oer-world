@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0125
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/125/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電波工学2
+description:
+  ja: 大気・気象レーダーと合成開口レーダーに関する2つの参考資料を公開している講義教材である。京都大学工学部で2011年に開講され、電波工学の関連 विषयを扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐藤 亨
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 参考資料1　大気・気象レーダー'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/denpakougaku-2_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/125/
+- name: '講義資料: 参考資料2　合成開口レーダー'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/denpakougaku-2_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/125/
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

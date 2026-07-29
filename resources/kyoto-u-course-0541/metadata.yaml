@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0541
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/541/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代解析学の展開
+description:
+  ja: 級数や定積分の具体的な計算を通して、解析学の技法を扱う講義資料である。抽象的な定義や命題、証明は必要最小限の復習にとどめ、具体例を多く示しながら進める構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      具体的な級数や定積分の計算を通じ、その背後にある解析学の技法に対する理解を深めるという実験的な試み。
+
+      授業の紹介
+
+      大学での数学講義では、抽象的な定義や命題、その証明に殆どの時間が費やされ、具体例に親しむ時間の余裕はあまり残されていないのが普通である。この授業では抽象論を必要最底限の復習にとどめ、多くの具体例を丁寧に述べた。このことが逆に抽象論の理解の深化をもたらすと期待できる。'
+  source: https://ocw.kyoto-u.ac.jp/course/541/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉田伸生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回～第3回 講義資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gendaikaisekigakunotenkai.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/541/
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

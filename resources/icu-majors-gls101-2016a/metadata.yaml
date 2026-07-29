@@ -1,0 +1,149 @@
+slug: icu-majors-gls101-2016a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/gls101_2016a
+type:
+- LearningResource
+- Course
+name:
+  ja: Global Governance グローバル・ガバナンス論
+description:
+  ja: グローバル・ガバナンスの理論と主要論点を扱い、国家と非国家主体がどのように世界の統治に関与するかを概観する講義である。平和と安全保障、人権、金融、貿易、開発、環境などのテーマを通して、国家中心の国際関係を超える統治のあり方を取り上げる。
+quotedDescription:
+  text:
+    ja: 'Introduction to the key theories and issues in global governance. It provides a comprehensive
+      overview of the ways in which the world is governed by a variety of actors.
+
+      平和と安全保障、民主主義と人権、通貨と金融、貿易と投資、開発と環境など多岐にわたるグローバル・イシューについて、国家や非国家主体が従来の国家中心の国際関係を超えてどう統治しようとしているのかを概観する。
+
+      Contents of Lectures
+
+      18
+
+      Lectures /
+
+      1
+
+      Video
+
+      Sep 8: Lecture 1
+
+      T1: International Governance
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      Sep 12: Lecture 2
+
+      C1: Unicef and Roll Back Malaria
+
+      Sep
+
+      15: Lecture 3
+
+      T2: Corporate Globalization
+
+      Sep
+
+      19: Lecture 4
+
+      C2: Nike and Corporate Social Responsibility
+
+      Sep 26: Lecture 5
+
+      T3: Global Civil Society
+
+      Sep 29: Lecture 6
+
+      C3: Jubilee 2000
+
+      Oct 3: Lecture 7
+
+      T4: Peace and Security
+
+      Oct 6: Lecture 8
+
+      C4: India and Nuclear Proliferation
+
+      Oct 10: Lecture 9
+
+      T5: Human Rights and Democracy
+
+      Oct 13: Lecture 10
+
+      C5: ICC
+
+      Oct 17: Lecture 11
+
+      T6: Money and Finance
+
+      Oct 20: Lecture 12
+
+      C6: Korea and Asian Financial Crisis
+
+      Oct 24: Lecture 13
+
+      T7: Trade and Investment
+
+      Oct 27: Lecture 14
+
+      C7: The WTO and Drug Access
+
+      Oct 31: Lecture 15
+
+      T8: Economic Growth and Human/Social Development
+
+      Nov 31: Lecture 16
+
+      C8: Coffee Industry in El Salvador
+
+      Nov 7: Lecture 17
+
+      T9: The Environment and Sustainable Development
+
+      Nov 10: Lecture 18
+
+      C9: Japan and the Kyoto Protocol'
+  source: https://ocw.info.icu.ac.jp/majors/gls101_2016a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 毛利勝彦
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 専攻科目
+- Global Studies グローバル研究 | Cours
+- 'GLS101 | Course Schedule: 4*/M, 4*/TH | Update: 2019.12.23 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

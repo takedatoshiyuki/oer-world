@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0641
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/641/
+type:
+- LearningResource
+- Course
+name:
+  ja: 創造性とは何か？
+description:
+  ja: 創造性をめぐる考え方を、学問の形成、対立と統合、学習過程や病気発症、環境認識、電磁波の生体影響、統合生命科学へと広げながら扱う講義である。講義資料は第1回から第11回まで公開されており、導入から複数の論点を順にたどる構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の紹介
+
+      京都大学基礎物理学研究所は、日本人としてはじめてノーベル賞を受賞された湯川秀樹博士を初代所長に迎え、我が国初の全国共同利用研究所として1953年に設立された。半世紀以上の歴史をもつ本研究所で、京都大学１回生向けの全学共通少人数セミナーが開講されるのははじめての試みである。その最初の年の受講生は、理学部、農学部、工学部、総合人間学部、文学部、法学部の学生から構成されている。その総勢は、１１名（内、女子学生２名）を数え、ほぼコンスタントにセミナーへ参加している。また、６月１９日からは、ハーバード大学からの女子留学生が新たに参加することとなり、英語での講義に切り替えることになった。トップページの写真は、その際の集合写真とセミナー風景のスナップである。
+
+      1990年代に、我が国を嵐のように駆け巡った教養部廃止に端を発した、要素還元論的、専門分化型学問への偏重への危惧から、私はあえて人類の永遠のテーマである「生命とは何か？」をセミナーの科目名として選ぶことにした。その意図は、自然科学と人文科学の統合、西洋科学と東洋哲学の融合にある。そして、このセミナーを文字通りの体験学習の場として、活用することを目指した。ほとんどの学生は毎回出席し、かつ非常に快活に議論に参加しているのが現状である。
+
+      この度、京都大学オープンコースウエアにて、本セミナーの講義ノートを公開させていただくことになり、みなさまからのご意見を多数お寄せいただければ幸いである。2007年10月には、湯川博士生誕１００年を記念して、「生命とは何か？」をテーマとした国際会議を主催する。ご参考までに、本国際会議のポスターとプログラムも付録として掲載している。本セミナーの参加学生の何名かは、はやくも参加登録を済ませており、世界最先端の学際研究討論の現場を目の当たりにすることになる。こうした機会を新入生に提供できることこそ、本学に付置されている全国共同利用研究所ならではと思う。異常とも思える効率性・生産性重視の風潮にあって、あえて「生命とは何か？」という根本問題に立ち返る勇気とゆとりを失いたくないものである。'
+  source: https://ocw.kyoto-u.ac.jp/course/641/
+  note: 京都大学OCW 「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 村瀬 雅俊
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: プロフィール'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第1回\tはじめに"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第2回\t学問の創造"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第3回\t創造性の本質：対立から統合へ、有限から無限へ"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第4回\t創造性の発現：学習過程と病気発症"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第5回\t環境認識の創造的意義"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第6回\t２１世紀の環境問題：電磁波の生体影響"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第7回\t統合生命科学の創造に向けて（その１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第8回\t統合生命科学の創造に向けて（その２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第9回\t統合生命科学の創造に向けて（その３）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第10回\t統合生命科学の創造に向けて（その４）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第11回\t統合生命科学の創造に向けて（その５）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: "講義資料: 第12回\t創造的展望"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+- name: '講義資料: 受講学生の感想'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_souzouseitohananika_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/641/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

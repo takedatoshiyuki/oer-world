@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0891
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/891/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学未来創生学国際研究ユニット「無と全体の輪廻 “Circle of Emptiness and Wholeness”」
+description:
+  ja: この講義は、日本的霊性や自然観を手がかりに、学術的・実践的な探究を行う内容である。理論と実践の両面から対話を進め、未来に向けた社会・文化価値の創出を目指す。英語説明では、外的要因と内的条件の双方を同時に扱う枠組みで議論する場として位置づけられている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      グローバル化時代を迎え、世界は1つの巨大システムと化しました。ところが、従来型の物質資源中心・貨幣価値経済中心の考え方に人類が固執してきた結果、人口問題・食糧問題・資源問題といった既成問題を解決するどころか、逆に新たな問題を次々と生み出すに至りました。実際、世界中がテロや貧困、創造性の欠落、希少資源の枯渇、イデオロギーや歴史認識の違いによる国内外の人種対立などに翻弄され続けています。こうした混沌とした時代にこそ、世界に感動を与え、欧米から尊敬されながらも、多くの現代日本人から忘れられてきた「日本的霊性」を、世界に誇れる社会・文化価値として再構築することが必要かつ急務となっています。
+
+      本フォーラムでは、多くの現代日本人から忘れられてきた「日本的霊性」に基づく「叡智」を再発見し、「自然」との共創を目指した対話を理論と実践の両面から試みることによって、日本的霊性や自然観を学術的かつ実践的に探究し、それらを踏まえ未来に向けた新たな社会・文化価値の創出を目指します。
+
+       
+
+      Despite the advancement of science and technology, we are facing with so many difficulties such
+      as education, energies, economies and even humanities. By focusing on “external” agents, we have
+      tried to solve serious problems, although such intensive efforts have not been successful very well.
+      The reason for this is that the central issue of our time across all system levels emerges from
+      our “internal” conditions as well, but not only from “external” agents. It is now time to deal with
+      both oppositions at the same location on the Earth and at the same time of the History.
+
+      The present Kyoto Transdisciplinary & Transnational Forum 2018 on “Circle of Emptiness and Wholeness”
+      would provide us with deep insights into the Advanced Future Studies, for it could deal with both
+      “external” agents and “internal” conditions simultaneously on the basic transcendental frameworks.
+      It is our hope to develop new perspectives and new actions toward our future through stimulating
+      discussions beyond different disciplines.'
+  source: https://ocw.kyoto-u.ac.jp/course/891/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-06-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

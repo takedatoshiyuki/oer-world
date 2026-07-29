@@ -1,0 +1,108 @@
+slug: kyoto-u-course-0483
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/483/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部公開講座 「ひと・社会・工学 －工学のいまを知る－」, 2016
+description:
+  ja: 気候変動に伴う降水や洪水の予測、化学現象を量子力学などに基づいて理解する考え方、全球測位衛星システムのデータを用いた地震前の異常解析、木造建築を火災に強くする設計技術を扱う。工学の複数分野について、最新の研究成果や考え方を紹介する講義である。
+quotedDescription:
+  text:
+    ja: '1
+
+      「気候変動による降水の変化と洪水・氾濫の予測」
+
+      立川 康人（工学研究科地球工学科教授）
+
+      気候変動によって雨の降り方が変わり、それに伴って洪水や浸水、氾濫の発生の仕方が変化する可能性があります。本講ではこれらの予測技術の最新の成果を紹介します。
+
+       
+
+      2
+
+      「化学現象の論理」
+
+      佐藤 啓文（工学研究科工業化学科教授）
+
+      化学と言えば実験、実際の現象と向き合ってこその学問との印象が強いと思います。その一方で、多様な化学現象は量子力学等に基づいて理論的・体系的に理解されてきました。その来歴と現状について講述します。
+
+       
+
+      3
+
+      「地震は予測できるか？ －全球測位衛星システムのビッグデータ解析最前線－」
+
+      梅野 健（工学研究科情報学科教授）
+
+      地震は予測できるのか？この根源的な問題については、現在確定的な答えが無い状況です。本講では、全球測位衛星システムによる、東北地方太平洋沖地震（3.11）の直前に観測された電離圏電子数の異常についてのデータ解析結果を紹介します。
+
+       
+
+      4
+
+      「火災に強い木造建築を造る」
+
+      原田 和典（工学研究科建築学科教授）
+
+      都市の大規模建築物を木材で造るためには、地震だけでなく火災にも強くする必要があります。燃えても壊れない建物を造るための「燃え止まり設計」の技術を紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/483/
+  note: 京都大学OCW 「立川 康人（工学研究科地球工学科教授）」・「「化学現象の論理」」・「佐藤 啓文（工学研究科工業化学科教授）」・「梅野 健（工学研究科情報学科教授）」・「「火災に強い木造建築を造る」」・「原田
+    和典（工学研究科建築学科教授）」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 立川 康人
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐藤 啓文
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 梅野 健
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 原田 和典
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-07-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- natural_sciences_math
+- ict
+keywords:
+- 工学
+- 電子工学
+- 建築
+- 化学
+- コンピュータサイエンス
+- データサイエンス
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

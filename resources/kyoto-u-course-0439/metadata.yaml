@@ -1,0 +1,130 @@
+slug: kyoto-u-course-0439
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/439/
+type:
+- LearningResource
+- Course
+name:
+  ja: 資源生物科学概論Ⅳ
+description:
+  ja: この講義は、土壌を生産基盤や生態系の一要素として捉え、栽培環境や雑草管理を含む農業環境の諸問題を扱う。あわせて、植物の病害、線虫や菌類による被害、昆虫の行動と生理、総合的害虫管理など、植物保護に関わる内容を講義資料で示す。
+quotedDescription:
+  text:
+    ja: '農学研究科 教授 藤崎 憲治
+
+      農学研究科 教授 冨永 達
+
+      農学研究科 准教授 三瀬 和之
+
+      農学研究科 准教授 高野 義孝
+
+      農学研究科 教授 二井 一禎
+
+      農学研究科 准教授 田中 千尋
+
+      農学研究科 教授 佐久間 正幸
+
+      農学研究科 教授 縄田 栄治
+
+      農学研究科 准教授 刑部 正博
+
+      地球環境学堂 教授 舟川 晋也'
+  source: https://ocw.kyoto-u.ac.jp/course/439/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 藤崎 憲治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 冨永 達
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 三瀬 和之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高野 義孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 二井 一禎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 千尋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐久間 正幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 縄田 栄治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 生産基盤としての土壌'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第2回 生態系の中の土壌'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第4回 熱帯の栽培環境'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第5回 雑草の生物学的特性と雑草管理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第6回 植物のウィルス病'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第7回 菌類や植物寄生性線虫と植物保護'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第8回 昆虫の行動と生理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第9回 総合的害虫管理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+- name: '講義資料: 第10回 害虫と天敵'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-4_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/439/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

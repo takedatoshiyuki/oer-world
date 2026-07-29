@@ -1,0 +1,73 @@
+slug: utokyo-series-wuipetjdmaif
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=WuIpETJdmaif
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究倫理セミナー：研究不正の要因と対策・防止について考える〜あなたの一言が不正を促す〜
+description:
+  ja: 研究不正が起こる背景や状況、リスク要因を講演とパネルディスカッションで扱うセミナーである。あわせて、健全な研究活動を支える風土をどう作るかを検討する内容になっている。
+quotedDescription:
+  text:
+    ja: "2018年度の研究倫理セミナーでは、講演とパネルディスカッションによって、研究不正が行われる背景や状況、研究不正のリスク要因について議論し、健全な研究活動が行われる風土を醸成するにはどうすればいいのかを検討しました。\
+      \ \n \n  ★     開催報告はこちら"
+  source: https://ch.u-tokyo.ac.jp/series/?id=WuIpETJdmaif
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 町田 祥弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 横山 広美
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石井 正治
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 清水 晶子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 亘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 有信 睦弘
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,85 @@
+slug: utokyo-series-htrepegccgng
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=hTREpegcCgnG
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理の世界－新世紀の数学を探る（学術俯瞰講義）
+description:
+  ja: 数学の複数分野を広く見渡し、代数、幾何、解析、応用数理の4領域から特徴的なテーマを取り上げる講義である。各分野の専門家が、それぞれの視点から数学の見取り図を示す構成になっている。
+quotedDescription:
+  text:
+    ja: 数学は、二千年以上の長い歴史を有し、現在もなお活発な研究がなされ、急速な発展を続けている分野である。数や図形の深い性質、関数や空間の構造が次々に明らかにされており、約350年間懸案だったフェルマー予想の解決や、約100年間未解決だったポアンカレ予想が解かれる等、最近の数学の進展には目を見張るものがある。また、数学は思考の自由さと汎用性の広さが特徴の分野で、諸科学の共通言語として、理学、工学、経済学、社会学など様々な分野に応用されている。たとえば、コンピュータの原理の発見のように、数学は時として社会を根底から変えてしまうような力も秘めている。数学は、人工的に分割できるものではないが、便宜上、代数、幾何、解析、応用数理の４つの領域にわけて考える習慣がある。そして自然や社会の現象を解析する応用面からみた数学をふくめて数理科学と呼んでいる。今回の俯瞰講義では、それぞれの領域において、特徴的なテーマを取り上げ、国際的に活躍する専門家によって広い視野から数学を俯瞰し、皆さんがこれから勉学して行く上での水先案内をしたいと考えている。前期課程で学んでいる数学が、今後学ぶであろう様々な分野の基礎であることを再認識し、皆さんがこれから進むべき道への展望を得るきっかけとなることを期待する。
+  source: https://ch.u-tokyo.ac.jp/series/?id=hTREpegcCgnG
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 加藤 和也
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 薩摩 順吉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 桂 利行
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Kazuo Murota
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 楠岡 成雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古田 幹雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- ict
+- social_sciences
+keywords:
+- 数理
+- 宇宙・物理
+- AI・情報
+- 経済・金融
+- 数学
+- 数論
+- 解析学
+- 微分方程式
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

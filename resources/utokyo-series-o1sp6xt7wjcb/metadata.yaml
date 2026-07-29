@@ -1,0 +1,59 @@
+slug: utokyo-series-o1sp6xt7wjcb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=O1SP6xT7wJCB
+type:
+- LearningResource
+- Course
+name:
+  ja: スペイン語の歴史
+description:
+  ja: 俗ラテン語から中世末期・近代の入り口までのテキストを読み、現代スペイン語がどのように形づくられたかをたどる。あわせて、スペイン語の歴史と地理を通して、言語現象の成り立ちや地理的な変異を扱う。
+quotedDescription:
+  text:
+    ja: 'この授業では、スペイン語の歴史を幅広く概観します。
+
+      俗ラテン語から中世末期・近代の入り口までのさまざまなテキストを読みながら現代スペイン語の形成過程とその理由を探ります。
+
+      私たちが学んでいるスペイン語の歴史と地理（「スペイン語の地理」をご覧ください）を探ることによって実用語学だけではわからないさまざまな言語現象の根 源的な理由や地理的なバリエーションの実態を知ることができれば，語学そのものへの興味がさらに増し，その効果も上がるのではないでしょうか。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=O1SP6xT7wJCB
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上田 博人
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: hokudai-seminar-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/seminar-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 鈴木章名誉教授ノーベル化学賞受賞記念 市民講演会 精進努力で“鈴木カップリング”を見つけた！（2010）
+description:
+  ja: 鈴木章による、ノーベル化学賞受賞を記念した市民講演会の映像資料である。札幌市民ホールで開催され、「鈴木カップリング」を見つけた経緯に関わる内容を扱う。
+quotedDescription:
+  text:
+    ja: 「札幌市民ホール」で開催された「ノーベル化学賞受賞記念市民講演会　精進努力で“鈴木カップリング”を見つけた！」の映像資料をご覧いただけます。
+  source: https://ocw.hokudai.ac.jp/lecture/seminar-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鈴木 章
+  affiliation:
+    name: 名誉教授
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- ノーベル賞
+- 鈴木カップリング
+- 有機合成
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

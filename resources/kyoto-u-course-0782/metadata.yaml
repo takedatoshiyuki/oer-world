@@ -1,0 +1,96 @@
+slug: kyoto-u-course-0782
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/782/
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究の世界Ｂ
+description:
+  ja: この教材は、学生が選んだテーマをもとに研究を進める過程を、講義資料を通して扱う。Excelによる統計処理や回帰分析、シミュレーション、研究計画や論文構成、実験結果の整理、遠隔会議システムを用いた協働や意見交換までを含む。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本講義の特色は，学生が各自の関心事をテーマに選び，仮説を立てて調査・実験を行い，論文をまとめ公表するという研究のプロセスを，プレゼンテーションや査読を通じて学ぶことにある。
+
+       
+
+      授業の紹介
+
+      文系・理系を問わずあらゆる分野において研究を遂行するために必要とされる情報活用能力について，体験的に学習させることを本講義のテーマとする。学生に各自が興味を持つ研究分野を決定させ，本講義の受講を通して，全学の研究において共通している「情報活用能力」（表計算ソフトを使った情報分析や可視化技術を用いた情報表現，シミュレーション技術を利用した情報創造，論文発表による情報発信，大型表示装置を使った研究発表等）を習得させることを目的とする。情報分析については，主に，手軽な統計分析ツールであるExcelの，研究の初期段階における活用を体験させた。また，他の科目の協力を得て遠隔会議システムを活用して，プレゼンテーション能力の向上を図った。'
+  source: https://ocw.kyoto-u.ac.jp/course/782/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小山田耕二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 江原康生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第1回\tガイダンス"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第2回\tExcelを用いた統計処理"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第3回\tExcelを用いたシミュレーション"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第4回\tExcelを用いた回帰分析"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第5回\t研究計画説明"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第6回\t論文スケルトン説明"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第7回\t実験結果説明"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第8回\t遠隔会議システムによる恊働"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第9回\t査読結果に対する意見交換"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+- name: "講義資料: 第10回\t回答書に対する意見交換"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiB_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/782/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

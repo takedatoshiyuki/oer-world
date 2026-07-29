@@ -1,0 +1,78 @@
+slug: utokyo-series-8kocuv3garqe
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=8kOCuv3GaRQe
+type:
+- LearningResource
+- Course
+name:
+  ja: UTokyo男女⁺協働改革＃WeChange シンポジウム
+description:
+  ja: 東京大学が始動した女性リーダー育成に向けた施策「UTokyo男女＋協働改革＃WeChange」を扱うシンポジウムである。全学での実施を内外に示すとともに、今後のビジョンを議論する場として開かれている。
+quotedDescription:
+  text:
+    ja: '東京大学は、令和4年度科学技術人材育成費補助事業「ダイバーシティ研究環境実現イニシアティブ（女性リーダー育成型）」に新規取組機関として選定され、女性リーダー育成に向けた施策「UTokyo男女＋協働改革＃WeChange」を始動しています。
+
+      この施策を全学を挙げて実施していくことを内外に宣言するとともに、今後のビジョンを議論する機会として、シンポジウムを開催しました。
+
+      講師：林香里・吉江尚子・柿田恭良・鳥居啓子…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=8kOCuv3GaRQe
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 林 香里
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉江 尚子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柿田 恭良
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鳥居 啓子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小島 慶子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 泰子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,50 @@
+slug: mdsc-mdsc5
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc5
+type:
+- LearningResource
+- Course
+name:
+  ja: 2000年世界農林業センサス報告書
+description:
+  ja: 林業事業体調査、林業サービス事業体等調査、林業地域調査の結果を、地域区分ごとに整理した報告書である。全国農業地域や都道府県、森林計画区、主要林業地域など、複数の切り口で集計されたデータを扱う。
+quotedDescription:
+  text:
+    ja: 林業事業体調査、林業サービス事業体等調査及び林業地域調査結果を、全国農業地域・都道府県別、農業地域類型別、森林計画区別、主要林業地域別等に分類・集計した結果。(DATA.GO.JPの農水省提供データより選定）
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc5
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc5
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-04-02'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- agriculture
+keywords:
+- 農業・林業
+- 表形式
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

@@ -1,0 +1,44 @@
+slug: sophia-20170319lastlecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20170319lastlecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 田中裕教授 最終講義「無の場所の創造性 （Creativity in the Place of Nothingness）」
+description:
+  ja: 上智大学文学部哲学科で2017年に行われた田中裕による最終講義である。題名にある「無の場所の創造性」を扱う講義として示されており、使用言語は日本語である。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 田中 裕
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 文学部 哲学科
+  term: 2017/03/19
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

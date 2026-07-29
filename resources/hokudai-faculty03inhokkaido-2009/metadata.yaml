@@ -1,0 +1,115 @@
+slug: hokudai-faculty03inhokkaido-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty03inhokkaido-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: ひらめき☆ときめきサイエンス 北海道の魚たちの由来をたどる(2009)
+description:
+  ja: 北日本の海にすむ魚類の由来を、暖流・寒流のある海域の特徴とあわせて扱う講義である。クロマグロ、セトヌメリ、アイナメ属魚類を例に、講義と採集・観察、DNA抽出や電気泳動などの実習を通して学ぶ。あわせて、温暖化が北日本の生物に与える影響にも触れる。
+quotedDescription:
+  text:
+    ja: '表層には暖流が、その下には寒流が流れる北日本の海にくらす生き物たちのルーツは極東ロシアやアラスカなどにあります。そのため、関東以南には生息しない寒い海に適応した仲間たちが主役です。今、地球規模で進行している急速な温暖化は、北日本に生息する生物に対し、生息温度の変化や南方からの生物の侵入により、その子孫の維持が困難になる可能性があります。
+
+      暖流に乗ってやってくる南の魚（クロマグロとセトヌメリ）と、北海道に定着している（アイナメ属魚類）を教材に、講義とシュノーケリングによる採集や観察を体験し、海の生物研究の大切さを楽しみながら感じてもらいたいと考えています。
+
+      スケジュール
+
+      ・2009年8月8日
+
+      9:00 受付（北海道大学総合博物館分館前集合）
+
+      9:10 開校式
+
+      9:20 科研費と本事業の説明
+
+      9:30 講義１-北海道の魚たち
+
+      10:30 博物館見学
+
+      11:00 出発
+
+      バス内で昼食
+
+      12:10 北大臼尻水産実験所到着
+
+      12:30 講義２-臼尻の海の特徴/実習の説明
+
+      ビデオによる解説（セトヌメリの産卵/アイナメの産卵）
+
+      13:30 実習１-シュノーケリング・フィッシングでアイナメ類をとる
+
+      15:30 実験１-DNA の抽出実験
+
+      17:30 前浜定置網で獲れるクロマグロ形態観察/解体/夕食
+
+      20:00 実験２-DNA 増幅実験/風呂
+
+      22:00 就寝
+
+      ・2009年8月9日
+
+      5:30 （定置見学）
+
+      8:00 朝食
+
+      9:00 実験３-電気泳動
+
+      11:00 実習２-シュノーケリング地曳き網
+
+      12:30 昼食
+
+      13:30 実習３-魚類査定実習
+
+      15:00 発表会
+
+      15:50 修了式（アンケートの実施、未来博士号の授与）
+
+      17:00 バス函館キャンパス到着－解散'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty03inhokkaido-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 矢部 衛
+  affiliation:
+    name: 水産科学研究院
+- type: Person
+  name: 宗原 弘幸
+  affiliation:
+    name: 北方生物圏フィールド科学センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- 水産学
+- 水産学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 北方生物圏フィールド科学センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

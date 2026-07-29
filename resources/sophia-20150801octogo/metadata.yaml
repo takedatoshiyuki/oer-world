@@ -1,0 +1,46 @@
+slug: sophia-20150801octogo
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20150801octogo/
+type:
+- LearningResource
+- Course
+name:
+  ja: 何故ことばを学ぶのか
+description:
+  ja: 上智大学の外国語学部英語学科で2015年度に開講された講義で、東郷公徳が担当する。講義名からは、ことばを学ぶ意味や目的を扱う内容であることが読み取れる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 東郷 公徳
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 外国語学部 英語学科
+  term: 2015年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,67 @@
+slug: hokudai-dynamicsofice-2006
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/dynamicsofice-2006
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 Dynamics of ice sheets and glaciers (2006)
+description:
+  ja: 氷床と氷河を地球の気候システムの一部として位置づけ、その力学と熱力学を連続体力学のバランス方程式を基礎に扱う講義である。氷床に付随する氷棚も対象に含み、講義資料が公開されている。
+quotedDescription:
+  text:
+    ja: Ice sheets and glaciers are an active，dynamic part of the Earth's climate system on time-scales
+      of decades and more. More than 90% of the terrestrial freshwater reserves are stored in these ice
+      masses. Their complete disintegration would lead to a global sea-level rise of approximately 70
+      meters and would have severe impacts on the atmospheric and oceanic circulation. Against the background
+      of future global climate warming due to ongoing emissions of greenhouse gases，understanding the
+      behaviour of these ice bodies is of great relevance. In this lecture，based on the general framework
+      of continuum-mechanical balance equations，the dynamics and thermodynamics of ice sheets (including
+      attached ice shelves) and glaciers will be treated.
+  source: https://ocw.hokudai.ac.jp/lecture/dynamicsofice-2006
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Ralf GREVE
+  affiliation:
+    name: 低温科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: Lecture Notes'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/dynamicsofice-2006
+extensions:
+  faculty: 低温科学研究所
+  targetAudience: Master
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

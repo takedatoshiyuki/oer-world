@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0959
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/959/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅩIX　第8回食と農の安全・倫理シンポジウム「食品の放射性物質汚染について考える」
+description:
+  ja: 本教材は、食品の放射性物質汚染をテーマにしたシンポジウムの講義資料群である。原子力発電所事故の見通し、放射性物質が健康に及ぼす影響、消費者の不安とリスク認識を扱い、食品を介した健康影響についての追加資料も含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-10-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- agriculture
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 第1報告 原子力発電所の事故と今後の見通し'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/10/2011_kyotou-sympo-daishinsaigowokangaeru_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/959/
+- name: '講義資料: 第2報告 放射性物質が健康に及ぼす影響'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/10/2011_kyotou-sympo-daishinsaigowokangaeru_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/959/
+- name: '講義資料: 第3報告 消費者の不安とリスク認識 －リスクコミュニケーション結果より－'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/10/2011_kyotou-sympo-daishinsaigowokangaeru_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/959/
+- name: '講義資料: 追加資料 食品を介した放射性物質の健康への影響について・その１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/10/2011_kyotou-sympo-daishinsaigowokangaeru_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/959/
+- name: '講義資料: 追加資料 食品を介した放射性物質の健康への影響について・その２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/10/2011_kyotou-sympo-daishinsaigowokangaeru_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/959/
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

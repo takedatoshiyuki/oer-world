@@ -1,0 +1,90 @@
+slug: utokyo-series-idfpxcuifndx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=IdfpxcUiFnDX
+type:
+- LearningResource
+- Course
+name:
+  ja: リサーチ・アドミニストレーター（URA）研修
+description:
+  ja: 東京大学の教職員を対象に、研究マネジメント力の向上をめざす研修を扱う。あわせて、大学全体の研究力強化に結びつけることを目的としている。
+quotedDescription:
+  text:
+    ja: "リサーチ・アドミニストレーター（ＵＲＡ）研修は、本学における教職員の研究マネジメント力の向上とともに、本学の研究力強化に資することを目的とした研修です。 \n \n  ★     開催報告（東大URA推進室ウェブサイトが開きます）"
+  source: https://ch.u-tokyo.ac.jp/series/?id=IdfpxcUiFnDX
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 横野 泰之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 三浦 竜一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野上 識
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大内 聡美
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古宇田 光
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福留 東土
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 博之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小泉 周
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- ict
+- engineering
+keywords:
+- 教育
+- AI・情報
+- ロボット・技術
+- 政治・法律
+- 人口・社会問題
+- AIによる要約がエラー終了しました。映像に音声が含まれていない
+- または音声が不鮮明だった可能性があります。
+- 大学経営
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

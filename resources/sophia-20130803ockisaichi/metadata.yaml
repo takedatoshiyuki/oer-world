@@ -1,0 +1,46 @@
+slug: sophia-20130803ockisaichi
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20130803ockisaichi/
+type:
+- LearningResource
+- Course
+name:
+  ja: サハラ地域の紛争の背景 ―地域研究から考える国際政治
+description:
+  ja: サハラ地域の紛争の背景を扱い、地域研究の視点から国際政治を考える講義である。上智大学の総合グローバル学部で2013年度に開講され、私市正年が担当する。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 私市 正年
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 総合グローバル学部
+  term: 2013年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

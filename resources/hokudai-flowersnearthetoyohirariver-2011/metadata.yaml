@@ -1,0 +1,53 @@
+slug: hokudai-flowersnearthetoyohirariver-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/flowersnearthetoyohirariver-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 何が出る 豊平川の 花見かな(2011)
+description:
+  ja: 豊平川の河口から源頭部までを順に追い、沿岸部から山地までの各地点で見られる植物を取り上げる。湿地や山間部、残雪の残る高標高域など、流域に広がるさまざまな環境をたどりながら植物相を紹介する。
+quotedDescription:
+  text:
+    ja: 豊平川が注ぐ石狩川河口付近の海辺から花をたずねながら源頭のハイマツ帯までさかのぼってみます。湿った低地には沼と共に湿地の植物、扇状地上に広がった札幌市市街地は帰化植物がほとんどなのでここはパス。代わりに周囲の藻岩山や桜山、柏ヶ丘などを尋ねて中流域の山間部へ。定山渓付近で幾つかの支流を分け、その源頭部は標高１０００メートルを超える山が連なっていますが、基本的に山頂部はハイマツ帯。遅くまで残雪の見られる所には思いがけないお花畑が・・・。豊平川を囲む地域に固有種こそありませんが、山あり沼あり岩場ありの環境からして植物相は想像以上に豊かです。
+  source: https://ocw.hokudai.ac.jp/lecture/flowersnearthetoyohirariver-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 梅沢 俊
+  affiliation:
+    name: 植物写真家
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- general_public
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0368
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/368/
+type:
+- LearningResource
+- Course
+name:
+  ja: Combinatorial structures for distributed computing models
+description:
+  ja: 分散計算の基礎を導入し、さまざまな分散計算モデルをどう整理して扱うかを考える講義である。後半では、モデル実行を表す単体複体の性質を通して、広いクラスのモデルの計算可能性を特徴づける方法を扱う。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      The main complication in the analysis of distributed systems is the immense diversity of distributed
+      computing models, combined with the lack of mathematical tools to handle this complexity.
+
+      In this mini-course, we begin with a gentle introduction into the basics of distributed computing
+      and then discuss how to characterize the computability power of a large class of models via properties
+      of the corresponding simplicial complexes, combinatorial structures capturing representative sets
+      of model executions.'
+  source: https://ocw.kyoto-u.ac.jp/course/368/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Petr Kuznetsov（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Telecom Paris Tech）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-02-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

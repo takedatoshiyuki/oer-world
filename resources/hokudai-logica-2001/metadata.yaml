@@ -1,0 +1,81 @@
+slug: hokudai-logica-2001
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/logica-2001
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 思索と言語 論理学A（2001）
+description:
+  ja: この講義は、命題論理を中心に、前提から結論が論理的に導けるかを判定するための基礎を扱う。論理式や各種結合詞、真理表、推論規則に加え、証明可能性や決定手続き、健全性定理と完全性定理までを扱う。
+quotedDescription:
+  text:
+    ja: '【講義目標】
+
+      前提から結論が論理的に正しく導かれているか否か、文論理（命題論理）の範囲で、判定できるようになること。
+
+      【スケジュール】
+
+      1. 初等言語　論理式
+
+      2. 選言　連言　否定　含意　論理的同値
+
+      3. 日常言語との比較
+
+      4. 真理表　恒真文
+
+      5. 論理的公理　推論規則
+
+      6. 証明可能性と決定手続き
+
+      7. 論理学の応用
+
+      8. 健全性定理　完全性定理'
+  source: https://ocw.hokudai.ac.jp/lecture/logica-2001
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 中戸川 孝治
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2001'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- ことば
+- 言語
+- 論理
+- 哲学
+- 方法論
+- 演繹科学
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 文学部
+  targetAudience: s:233:"s:224:"s:215:"s:206:"a:9:{i:0;s:7:"1年生";i:1;s:10:" 理学部";i:2;s:10:" 医学部";i
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

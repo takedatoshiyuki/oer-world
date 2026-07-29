@@ -1,0 +1,131 @@
+slug: kyoto-u-course-0106
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/106/
+type:
+- LearningResource
+- Course
+name:
+  ja: 臨床薬物学
+description:
+  ja: 本教材は、生活習慣病を含む複数の疾患領域で用いる薬物の薬理を扱う。臓器の生理、疾患の成因、薬物の分子作用、臨床での薬物選択の注意点、新薬開発の動向までを講義する。公開資料には、循環器系を中心に心不全、狭心症、高血圧、抗血小板薬などの回が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      薬剤師国家試験で問われる学習内容の4分の1以上を占める薬理学のうち，特に生活習慣病など，薬物治療が主となる重要な疾患領域を対象にする。初回の講義において，学習の到達目標が具体的な55種類の薬物リストによって提示される。
+
+      授業の紹介
+
+      循環器，血液系，泌尿器，呼吸器，消化器で発生する疾病の治療に用いられる薬物の薬理について，これら臓器の生理，疾患の疫学や発生機序，薬物治療のターゲットとなる生体分子と薬物の分子作用メカニズム，臨床応用での薬物選択における注意点や問題点に加え，新薬の開発動向や関連する学問領域の最新知見について講述する。受講者は解剖生理学や生化学など，人体に関する基本的な生物学的知識を有していることを前提としている。'
+  source: https://ocw.kyoto-u.ac.jp/course/106/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 金子 周司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 薬学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 薬物リストによる授業目標の設定、国試傾向の分析、循環器導入　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_01-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第1回 薬物リストによる授業目標の設定、国試傾向の分析、循環器導入　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_01-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第2回 心臓の興奮伝導系、不整脈の成因、イオンチャネルへの作用と薬物分類　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_02-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第2回 心臓の興奮伝導系、不整脈の成因、イオンチャネルへの作用と薬物分類　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_02-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第3回 うっ血性心不全の病態、強心配糖体から新薬まで　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_03-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第3回 うっ血性心不全の病態、強心配糖体から新薬まで　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_03-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第4回 労作狭心症と安静狭心症、発作治療薬と発作予防薬　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_04-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第4回 労作狭心症と安静狭心症、発作治療薬と発作予防薬　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_04-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第5回 高血圧の疫学、多様な降圧薬の作用点と作用機序，第6回 合併症による降圧薬の選択、より新しい降圧薬　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_05-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第5回 高血圧の疫学、多様な降圧薬の作用点と作用機序，第6回 合併症による降圧薬の選択、より新しい降圧薬　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_05-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第8回 血小板凝集メカニズムと抗血小板薬、凝固系と線溶系　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_06-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第8回 血小板凝集メカニズムと抗血小板薬、凝固系と線溶系　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_06-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第9回 貧血の種類、造血系サイトカインとバイオ新薬　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_07-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第9回 貧血の種類、造血系サイトカインとバイオ新薬　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_07-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第10回 動脈硬化の発生機序、コレステロールとリポ蛋白の代謝　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_08-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第10回 動脈硬化の発生機序、コレステロールとリポ蛋白の代謝　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_08-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第11回 浮腫と利尿薬、老齢化と排尿障害の社会問題と薬物治療　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_09-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第11回 浮腫と利尿薬、老齢化と排尿障害の社会問題と薬物治療　資料1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_09-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第11回 浮腫と利尿薬、老齢化と排尿障害の社会問題と薬物治療　資料2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_09-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第12回 呼吸の生理、呼吸興奮剤、アレルギー性気管支喘息　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_10-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第12回 呼吸の生理、呼吸興奮剤、アレルギー性気管支喘息　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_10-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第13回 胃酸分泌抑制薬と胃粘膜保護薬、ピロリ菌除菌　ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_11-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+- name: '講義資料: 第13回 胃酸分泌抑制薬と胃粘膜保護薬、ピロリ菌除菌　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rinshouyakubutsugaku_11-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/106/
+extensions:
+  faculty: 薬学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

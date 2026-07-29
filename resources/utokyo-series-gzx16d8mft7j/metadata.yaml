@@ -1,0 +1,83 @@
+slug: utokyo-series-gzx16d8mft7j
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=gZx16d8MFT7J
+type:
+- LearningResource
+- Course
+name:
+  ja: 多様な視点からジェンダーを見る(学術フロンティア講義）
+description:
+  ja: ジェンダー、男性性／女性性が文化や階級、人種などとどう関わるかを、国や社会の違いも踏まえて扱う講義である。政策、メディア、教育、健康、災害、歴史、暴力、社会問題などのトピックを、各講師の専門分野から取り上げる。基礎的な概念を確認したうえで、グループ発表とまとめまで行う。
+quotedDescription:
+  text:
+    ja: '社会が大きく変動する中で、「ジェンダー研究」そのものが問い直しの対象となっている。このような問いに応えるべく、本講義では、ジェンダー、男性性／女性性が、文化、階級、人種、エスニシティ、ナショナリズム等との間でどのように相互作用を起こしているのか、さらに、それが国や社会によってどのように異なるのかについて考えていく。本講義では、政策、メディア、教育、健康、災害、歴史、暴力、社会問題に関するテーマ、国内外の事例などのジェンダーにかかわるトピックを各講師の専門分野の視点から取り上げる。
+
+      本講義は、ジェンダー、セクシュアリティに関する基礎的な概念を確認したうえで、ジェンダーをめぐる多様な問題について自ら考える機会を持つことを目的としている。ジェンダーの多様性を批判的に理解し、自らの立場や社会構造との関係を分析できる力を養うことを目指している。初回はイントロダクション、2回目から11回目までは各講師の専門領域の切り口からジェンダーに関連したトピックについて講義を行う。第12回、第13回は講義を踏まえグループに分かれて発表を行い、最後にまとめを行う。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=gZx16d8MFT7J
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小川 真理子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 本田 由紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 笠井清登
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 永田 龍太郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 久野 愛
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- health_welfare
+- business_law
+keywords:
+- 人口・社会問題
+- 生命・医療
+- 政治・法律
+- 心理・認知
+- 多様性
+- ジェンダー
+- 精神保健
+- 共生
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

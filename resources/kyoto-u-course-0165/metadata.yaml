@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0165
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/165/
+type:
+- LearningResource
+- Course
+name:
+  ja: 防災研究所公開講座 第24回「“災害のメカニズムを学び、防災対策に役立てよう!”－近年多発する豪雨災害－」
+description:
+  ja: 豪雨の発生メカニズムと、それに伴って起こる洪水や土砂災害の事例を扱う講座である。あわせて、総合的な防災計画に関する研究成果を紹介し、今後の防災・減災のあり方を議論する内容である。
+quotedDescription:
+  text:
+    ja: '講座内容
+
+      気象庁アメダスの統計資料によると、最近の30年間で時間雨量50mm、80mm以上の雨が降った回数は明らかな増加傾向を示しています。このため、豪雨による洪水などの水象災害や、崩壊・土石流などの土砂災害のリスクは年々増加していると言えるでしょう。実際、平成23年には台風12号によって、わずか3日の間に日本の年平均降水量に匹敵する約1,700mmもの記録的な雨が降り、紀伊半島に大きな災害をもたらしました。また、昨年の7月には九州北部で集中豪雨による大規模な災害が、そして7、8
+      月にも京都府で洪水や土砂災害が発生したことは記憶に新しいところです。本公開講座では、これらの背景を踏まえ、第一線で活躍する専門家が、豪雨の発生メカニズムやそれに伴う災害の事例、さらに総合的な防災計画に関する最新の研究成果を紹介するとともに、今後の防災・減災のあり方について議論します。'
+  source: https://ocw.kyoto-u.ac.jp/course/165/
+  note: 京都大学OCW 「講座内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-09-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 2012・2013年京都府南部豪雨災害で発生した水理現象と得られた教訓'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/09/42ba871d269d18b72a3905b1a0b607cb.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/165/
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0351
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/351/
+type:
+- LearningResource
+- Course
+name:
+  ja: 伝わってしまうプレゼンテーション －その思考と技術－
+description:
+  ja: スライドのデザインを、情報を伝えるための手段としてだけでなく、論理性や客観性を考えるための学習対象として扱う講義である。履修生の実際のスライド修正例を用いながら、見た目の工夫と伝達の関係を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      スライドの「デザイン」は、効果的に伝えるツールでもあることは言うまでもないが、それは同時に論理性、客観性を養う学習ツールでもある。この信念の元、パッと見ただけで伝わってしまうスライドのデザインについて、履修生の実際のスライドの修正例を取り入れながら講義する。
+
+       
+
+      宮野／公樹（ミヤノ／ナオキ）
+
+      博士（工学）。京都大学学際融合教育研究推進センター准教授。兼任：国際高等研究所 客員研究員
+
+      96年立命館大学理工学部卒業後、01年同大学大学院博士後期課程を修了。大学院在籍中の00年カナダ McMaster 大学にて訪問研究生として滞在。のち、立命館大学理工学部研究員、九州大学応用力学研究所助手、2005年京都大学ナノメディシン融合教育ユニット特任講師、2010年京都大学産官学連携本部特定研究員、2011年より現職。その間、総長学事補佐、文部科学省研究振興局基礎基盤研究課参事官付学術調査官を兼任。受賞歴：南部陽一郎研究奨励賞、日本金属学会論文賞、日本金属学会若手論文賞、他多数。研究・イノベーション学会理事（非常任）、日本触覚学会特別顧問。専門分野：学問論、大学論、科学技術政策。2009年に発刊した「学生・研究者のための使える！パワポスライドデザイン　伝わるプレゼン１つの原理と３つの技術（化学同人）」は未だに増刷を続けて第20刷をこえるベストセラーに。
+
+      個人サイト→　https://sites.google.com/site/miyanonaoki20170/home'
+  source: https://ocw.kyoto-u.ac.jp/course/351/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 宮野 公樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-01-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- デザイン学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学際融合教育研究推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

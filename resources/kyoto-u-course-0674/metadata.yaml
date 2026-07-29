@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0674
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/674/
+type:
+- LearningResource
+- Course
+name:
+  ja: 証券市場の一般均衡分析
+description:
+  ja: 京都大学経済学研究科で2008年度後期に開講された講義の授業資料を公開している。証券市場の一般均衡分析を扱う講義に対応する教材で、日本語で提供されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 原 千秋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 授業資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_syoukensizyounoippannkinnkoubunseki.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/674/
+extensions:
+  faculty: 経済学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0546
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/546/
+type:
+- LearningResource
+- Course
+name:
+  ja: 微分積分学 B
+description:
+  ja: 微分積分法Aに続く内容として、微分積分の基本公式、広義積分、多変数の微分積分を扱う講義資料である。具体例を早い段階から多く示す方針があり、抽象論は必要最低限にとどめる構成になっている。第1回から第10回までの講義ノートが公開されている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      理論面の一般性・厳密性を保持しつつ、抽象論に偏らず、具体例を通じて「体で覚える微積分」を目指す。
+
+      授業の紹介
+
+      微積分法A（前期）にひきつづき、微積分の基本公式、広義積分、多変数の微積分を述べる。従来の教程を大胆に見直すことにより、具体例をできるだけ早い段階で、かつ多くの時間をかけて述べられるように配慮し、難解な抽象論は必要最低限、かつ後まわしにする。'
+  source: https://ocw.kyoto-u.ac.jp/course/546/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉田伸生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回～第10回 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_bibunsekibungakuB.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/546/
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

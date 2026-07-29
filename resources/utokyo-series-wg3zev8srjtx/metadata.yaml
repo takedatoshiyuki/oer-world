@@ -1,0 +1,95 @@
+slug: utokyo-series-wg3zev8srjtx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=wg3ZeV8SRjtx
+type:
+- LearningResource
+- Course
+name:
+  ja: 守るべきもの、変えるべきもの（朝日講座「知の調和―世界をみつめる 未来を創る」2016年度講義）
+description:
+  ja: 学問や実業、日常生活のなかで変革や改革が広がる状況を背景に、何を守り、何を変えるかを考える講義である。革新と保守、グローバルとローカルなどの対立を手がかりに、各分野の講師が未来を見据えた話題を扱う。
+quotedDescription:
+  text:
+    ja: '学問でも実業の世界でも、あるいは日常生活においてさえ、変革、革新、改革という言葉がたびたび登場するようになりました。新しい発明や発見を生み出すために、絶えざる変革が必要なことはたしかです。他方で、変革や改革がある種の常套句となり、「改革疲れ」という現象が生じていることも見逃すことはできません。変革や改革が日常化するなか、「何を守るべきか、何を残すべきか」を議論することの重要性が高まっているといえるでしょう。革新と保守、前衛と古典、グローバルとローカル、進歩と共生、集中と多様性、といった様々な対立のバランスシートを見出す姿勢が、いまほど問われている時代はありません。
+
+      　本年度の朝日講座では、第2期5年間のスタートとして、それぞれの学問分野や実業界を担う先生方から、「何を守るべきか、そのために何を変えるべきか」という観点にもとづいた講義を行っていただきます。「10年一昔、30年一世代」といいますが、それぞれの学問分野や対象について、少し先の未来を見据えたお話を伺います。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=wg3ZeV8SRjtx
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 赤川 学
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤本 隆宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中内 啓光
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川島 博之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高野 誠鮮
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小林 真理
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 牧原 成征
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西村 義樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- health_welfare
+- agriculture
+keywords:
+- 人口・社会問題
+- 経済・金融
+- 生命・医療
+- 食料・農業・水産業
+- 文化・芸術・文芸
+- 政治・法律
+- 歴史
+- 言語・思想
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

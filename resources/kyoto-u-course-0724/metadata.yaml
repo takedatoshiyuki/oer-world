@@ -1,0 +1,98 @@
+slug: kyoto-u-course-0724
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/724/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農業経営の未来戦略
+description:
+  ja: 日本農業の情勢から始めて、農業経営の成り立ちや農企業、経営体の具体例を扱う講義資料である。さらに、食品産業との連携、農産物市場、農業金融、農協の役割、ケースメソッドやケーススタディ、日本の農業協同組合までを取り上げる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小田 滋晃
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川﨑 訓昭
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 坂本 清彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+- agriculture
+keywords:
+- 経営学
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　10月15日　日本農業の情勢'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第2回　10月19日　農業経営の発展と農企業'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第3回　10月26日　農業を営む経営体'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第4回　11月2日　農業を営む経営体の具体例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第5回　11月9日　個別経営の限界'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第6回　11月16日　食品産業との連携'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第7回　11月30日　農産物市場と各主体の役割'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第8回　12月14日　農業金融の現状と農協の役割'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第9回　12月21日　ケースメソッド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第10回　12月28日　ケーススタディ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第11回　1月4日　ケーススタディの解説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+- name: '講義資料: 第12回　1月18日　日本の農業協同組合'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_nougyoukeieinomiraisenryaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/724/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

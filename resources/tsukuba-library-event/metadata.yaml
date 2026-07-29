@@ -1,0 +1,49 @@
+slug: tsukuba-library-event
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/knowledge/library_event/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「乳幼児のいる家庭向けのイベントの評価」
+description:
+  ja: 公共図書館で行われる乳幼児向けサービスのうち、講座や展示会などのイベントに注目し、乳幼児のいる家庭で実際に評価されている内容を調べる研究発表である。そこで得た結果をもとに、今後の公共図書館でのイベント提案につなげることを目的とする。
+quotedDescription:
+  text:
+    ja: '坪井優美さん（筑波大学 大学院 図書館情報メディア研究科 博士前期課程）による「乳幼児のいる家庭向けのイベントの評価」の研究発表。
+
+      公共図書館で行われている乳幼児サービスの中で、講座や展示会などのイベントにはまだ検討すべき課題がある。乳幼児のいる家庭で実際に評価されているイベントは何かを明らかにし、今後の公共図書館でのイベント提案を目的として研究を行っている。'
+  source: https://ocw.tsukuba.ac.jp/course/knowledge/library_event/
+  note: TSUKUBA OCW 「乳幼児がいる家庭で、評価されているイベントは何か」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 坪井 優美 図書館情報メディア研究科 博士前期課程（公開当時）
+  affiliation:
+    name: 筑波大学
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 知識情報システム
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,50 @@
+slug: utokyo-series-ujpaer8o0ve8
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=UjpAER8o0vE8
+type:
+- LearningResource
+- Course
+name:
+  ja: 医事法（2008年度）
+description:
+  ja: 東京大学の法学部・法学政治学研究科で2008年に開講された「医事法」の講義で、樋口範雄が担当する。講義名から医事法を扱う授業であることが分かり、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 樋口 範雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 法学部・法学政治学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,56 @@
+slug: utokyo-series-bczp5np6r3lg
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=BcZp5np6r3lG
+type:
+- LearningResource
+- Course
+name:
+  ja: 応用音響学
+description:
+  ja: 音声分析や音声認識、音声合成、音響信号処理、音声対話システムに関わる基礎知識を扱う講義である。あわせて、スペクトル解析、パターン認識、確率モデル、統計学習、最適解探索といった基本概念とアルゴリズムを取り上げ、これらの技術の土台となる知識の習得を目指す。
+quotedDescription:
+  text:
+    ja: 音声分析、音声符号化、音声認識、音声合成、音響信号処理、音声対話システムなどに関連する基礎知識について講義する。これらの音声・音響技術は、日本が 世界をリードした分野であり、さまざまなキーアイディアが集積されている。応用としては、携帯電話やMDやMP３などの音声音楽情報圧縮技術などは確立し
+      ているが、音声認識技術や音声合成システムなどは、まだまだ人間には及ばないものの、高度な情報処理技術である。これらの分野は、スペクトル解析、パター ン認識、確率モデル、統計学習、最適解探策などの基本概念とアルゴリズムの集積である。本講義では、これらの技術の基礎になる知識と概念の習得を目指す。
+  source: https://ch.u-tokyo.ac.jp/series/?id=BcZp5np6r3lG
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 嵯峨山 茂樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

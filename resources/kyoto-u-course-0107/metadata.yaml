@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0107
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/107/
+type:
+- LearningResource
+- Course
+name:
+  ja: アラン・ケイ氏 京都大学名誉博士称号授与記念講演会
+description:
+  ja: 京都大学の情報学研究科が担当し、2009年1月20日に開講された講演会である。日本語と英語を使用する教材として登録されている。
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-01-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 情報学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

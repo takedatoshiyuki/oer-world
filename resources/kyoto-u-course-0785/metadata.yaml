@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0785
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/785/
+type:
+- LearningResource
+- Course
+name:
+  ja: Kyoto University and Goldsmiths, University of London “Future Mind 未来の心” – International Symposium
+description:
+  ja: 京都大学が2017年に総合生存学館（思修館）で開講した、日本語による国際シンポジウムである。講義名から、京都大学とロンドン大学ゴールドスミス校に関わる「Future Mind 未来の心」を扱う内容であることが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

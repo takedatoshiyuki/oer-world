@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0938
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/938/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際研究集会2013「真のグローバル人材育成を目指して－その理念と実践－」
+description:
+  ja: 京都大学の人間・環境学研究科で開講された国際研究集会である。題目から、グローバル人材育成の理念と実践を扱う講義で、担当は西山教行と大木充である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大木 充
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-04-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

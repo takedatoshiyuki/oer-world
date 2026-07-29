@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0133
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/133/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農産加工学演習Ⅰ
+description:
+  ja: 自然界の植物や動物を対象に、画像入力装置やマシンビジョンシステムの構成を演習形式で学ぶ。色の表現、照明、カメラ、スペクトル反射といった基礎に加え、PCを用いた果実の画像処理や欠陥検出などの実習を行う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      複雑で多様な自然現象および動植物を対象とし，その光学的特徴を基に画像入力装置の基本的構成を学び，画像解析を行う演習である。一部，PCならびにソフトウエアを用いて実際の果実の画像処理を行う。全て英語で講義されることも本授業の特色である。
+
+      授業の紹介
+
+      現代は，規格化された工業製品だけでなく，自然界の植物，動物をも計測したり，制御・生産する時代である．一方，近年の電気・電子技術等の発達により，高精度なTVカメラが安価に利用できるようになり，その応用範囲は拡大している。本授業では，不定形で多様な生物を対象としたマシンビジョンシステムの構成要素，構築方法などを演習の形式で学ぶ。これにより，自然界における画像計測に関わる用語，知識を幅広く身に着けること，動植物の成長，挙動に関連する特性およびルールが理解できること，画像計測装置の原理が理解できることを到達目標とする。具体的には，電磁波の基本的性質，X線，THｚなどの特殊な電磁波の発生メカニズム，色の表現方法，マシンビジョンシステムの構成，動植物の光学的特性，イメージング技術の応用事例の紹介などを行った後，PCを用いた画像処理演習を行う。'
+  source: https://ocw.kyoto-u.ac.jp/course/133/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 清水 浩
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回 What is color'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第2回 Illumination'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第3回 Lighting method'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第4回 Camera'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第5回 Spectral reflectance of biological objects'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第6回 Applications as robotic eyes'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第7回 Practice --Color analysis --'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第8回 Practice --Size measurement and Shape analysis --'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第9回 Practice --Defect detection in tomato --'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第10回 Practice --Spot detection --'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第11回 Practice --Extraction of object --'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第12回 Practice --Defect detection in green pepper --'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+- name: '講義資料: 第13回 Practice --Detection of color development --'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousankakougakuenshuu-1_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/133/
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: icu-for-high-oc2012-ohe
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/for_high/oc2012_ohe
+type:
+- LearningResource
+- Course
+name:
+  ja: 「異文化間コミュニケーション」ー似ていて違う？ 韓国人とのコミュニケーションー
+description:
+  ja: 国際基督教大学が提供する、呉恵卿担当の講義である。韓国人とのコミュニケーションを題材に、異文化間コミュニケーションを扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 呉恵卿
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012-08-18'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- オープンキャンパス講義
+audience:
+- student
+educationalLevel:
+- upper_secondary
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

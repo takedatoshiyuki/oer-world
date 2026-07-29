@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0369
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/369/
+type:
+- LearningResource
+- Course
+name:
+  ja: Blow-up, compactness and (partial) regularity in Partial Differential Equations
+description:
+  ja: 偏微分方程式の正則性を、blow-up と compactness に基づく手法から扱う講義である。線形楕円型発散形方程式の均質化における一様Lipschitz評価と、Navier-Stokes方程式のepsilon-regularityを中心に、周期係数の方程式に対するLiouville型定理にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      The question of whether solutions of Partial Differential Equations (PDEs) are regular or not is
+      central in the field. One of the most famous problems is the existence of smooth solutions to the
+      Navier-Stokes equations in fluid mechanics, or the finite time break down of regularity (millennium
+      problem of the Clay Institute).
+
+      The scope of this lecture series is much more modest. Methods based on blow-up and compactness are
+      powerful tools to establish regularity for linear PDEs or partial regularity for nonlinear PDEs.
+      These methods, which originated in the study of the regularity of minimal surfaces in the 60‘s,
+      have been successfully applied to other subjects: regularity in homogenization, in the calculus
+      of variations or in fluid mechanics. More specifically, the lectures will focus on two topics: (i)
+      uniform estimates in the homogenization of linear elliptic divergence form equations, (ii) epsilon-regularity
+      results for the Navier-Stokes equations. The material presented in the course is well-known to the
+      PDE community since the late 90’s. However, the results have been celebrated as breakthroughs and
+      are still inspiring new mathematical developments today, some of which will be outlined.
+
+      Summary of the content:
+
+      1. Improved regularity in homogenization: compactness methods for uniform Lipschitz regularity,
+      Liouville type theorems for equations with periodic coefficients
+
+      2. Epsilon-regularity for Navier-Stokes equations'
+  source: https://ocw.kyoto-u.ac.jp/course/369/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Christophe Prange
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-12-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

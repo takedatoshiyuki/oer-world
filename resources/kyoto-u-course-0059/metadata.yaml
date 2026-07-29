@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0059
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/59/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第52回 京都大学品川セミナー「深層崩壊の発生場所の予測」
+description:
+  ja: 豪雨や地震に伴う斜面崩壊を題材に、国内外の深層崩壊事例から発生しやすい場所の特徴を整理し、その特徴から発生場所を予測する内容を扱う。2011年の紀伊山地や東北地方太平洋沖地震での事例に触れつつ、首都直下地震や南海トラフ沿いの地震で想定される斜面崩壊にも言及する。あわせて、東京-神奈川に分布する火山灰や人工地形改変による斜面安定性の変化にも触れる。
+quotedDescription:
+  text:
+    ja: 近年，豪雨や地震で斜面崩壊が多発している．中でも，2011年に紀伊山地を襲った台風12号は，多数の深層崩壊を発生し，土砂の直撃や天然ダムの形成によって甚大な被害を生じた．また，同年の東北地方太平洋沖地震は，福島県から栃木県にかけて，深さは数mではあるものの，時速100kmにも及ぶ急速な崩壊を引き起こした．本講演では，既往の国内外の深層崩壊を中心として，これらの斜面崩壊の発生する場所の特徴から，それらの発生場所が予測できるようになってきたことを紹介する．東日本大震災時には，事前の降雨が少なかったこともあり，大規模な斜面崩壊は少なかったが，首都直下地震や南海トラフに沿う地震では，はるかに多くの斜面崩壊が発生することが予期される．東京-神奈川には箱根火山に由来する火山灰が広く分布しており，戦後大々的な人工地形改変が行われたため，斜面の安定性は戦前に比べて大きく減少していることも懸念される．
+  source: https://ocw.kyoto-u.ac.jp/course/59/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 千木良 雅弘
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-09-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,78 @@
+slug: kyoto-u-course-1026
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1026/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学フィールド科学教育研究センター 研究林100周年記念式典・講演会
+description:
+  ja: 京都大学フィールド科学教育研究センターによる研究林100周年記念式典と講演会の記録である。式典と講演会を通して、研究林の100年を記念する催しの内容を扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 湊 長博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 德地 直子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 渡辺 弘之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 芝 正己
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石原 正恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 林 英夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 舘野 隆之輔
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+- natural_sciences_math
+keywords:
+- 農学
+- 生物学・生命科学
+- 環境学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

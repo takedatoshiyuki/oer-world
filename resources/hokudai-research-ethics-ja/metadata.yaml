@@ -1,0 +1,123 @@
+slug: hokudai-research-ethics-ja
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/research-ethics-ja
+type:
+- LearningResource
+- Course
+name:
+  ja: 学問・研究の倫理
+description:
+  ja: 研究倫理教育のための教材で、学問・研究における正しさや研究倫理と研究不正、倫理テストの考え方を扱う。あわせて、研究方法、指導、研究費、メディア露出などの仮想事例を用いた検討と、事例を考えるための枠組みを示す。
+quotedDescription:
+  text:
+    ja: '本教材は、平成26年度北海道大学総長室事業推進経費 プロジェクト研究「研究者の専門職倫理としての研究倫理の教育コンテンツ開発と、ICTを活用した発信型オープン教材（日本語版・英語版）作成」において開発されました。研究倫理教育のために誰もが利用できます。
+
+      本教材の使用例として、【学問・研究の倫理】を予習や授業冒頭に視聴し、【仮想事例集】を題材にグループでディスカッションする反転授業を行うことができます。
+
+      【問題解決指向型研究倫理】では、事例を検討する際の考え方について説明しています。予習での視聴や、ディスカッションのファシリテーターが視聴して授業に備えることを想定しています。
+
+      【学問・研究の倫理】
+
+      イントロダクション
+
+      研究の「正しさ」、 研究における「正しさ」
+
+      「研究倫理」と「研究不正」1
+
+      「研究倫理」と「研究不正」2
+
+      研究倫理のモデル
+
+      研究倫理における倫理テスト
+
+      仮想事例「ブラック研究室？」
+
+      まとめ
+
+      >> 講義資料
+
+      【仮想事例集】
+
+      事例 1.「研究の方法」
+
+      事例 2.「「古いスタイル」のボス」
+
+      事例 3.「キャリアと研究費」
+
+      事例 4.「よい学生、悪い指導教員？」
+
+      事例 5.「メディア露出」
+
+      事例 6.「困った上司」
+
+      >> 講義資料
+
+      【問題解決指向型研究倫理】
+
+      学習目標
+
+      1. はじめに
+
+      2-1. 「倫理テスト」の種類と運用
+
+      2-2. 「倫理テスト」の運用（1）
+
+      2-3. 「倫理テスト」の運用（2）
+
+      3. まとめ
+
+      >> 講義資料'
+  source: https://ocw.hokudai.ac.jp/lecture/research-ethics-ja
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 眞嶋俊造
+  affiliation:
+    name: 北海道大学 大学院文学研究科 応用倫理研究教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 倫理
+- 学問
+- 研究
+- 研究倫理
+- 文学／思想／言語
+audience:
+- student
+materials:
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/01/Research-Ethics-ja.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/research-ethics-ja
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/01/Research_Ethics_Imaginary-Cases_ja.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/research-ethics-ja
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/01/Problem_solving-_earning_ja.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/research-ethics-ja
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: hokudai-parepv-2015
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/parepv-2015
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 PAREプログラム 紹介ビデオ（2015）
+description:
+  ja: 北海道大学のPAREプログラムを紹介する2015年のビデオである。文科省事業に採択された国際的な大学院教育プログラムとして、北海道大学とタイ・インドネシアの大学によるコンソーシアムのもとで実施される構成を示す。基礎科目から留学を含む発展科目・専門科目までの流れと、修了後の同窓会までを扱う。
+quotedDescription:
+  text:
+    ja: "PAREプログラムについて\n平成24年度実績 平成25年度実績 平成26年度実績\nPAREプログラムとは、文科省平成24年度事業「大学の世界展開力強化事業」に採択された教育プログラムであり、正式名称を「人口・活動・資源・環境の負の連環を転換させるフロンティア人材育成プログラム\
+      \ （英名：Graduate Program for Fostering Frontiers of Practical Solutions in a Population-Activities-Resources-Environments\
+      \ (PARE) Chain ）」といいます。\n「大学の世界展開力強化事業」は、前述のPARE（人口・活動・資源・環境）の4つの要素に関連する問題を解決し、アジアの発展に主導的な役割を果たす人材の育成を目指しています。また国際的な枠組みで、単位の相互認定や成績管理等の質の保証を図りながら、日本人学生の海外留学と外国人学生の戦略的受入を行う東南アジア諸国連合（ASEAN）の大学等との大学間交流の形成を行う事業に対して重点的に財政支援することを目的としています。\n\
+      この目的を達成するため、北海道大学ならびにアジアを牽引しているタイの3大学とインドネシアの3大学で大学院教育コンソーシアムを形成し、教育の質の保証を伴った交流プログラムを実施しています。\n\
+      参加大学\nインドネシア：ボゴール農科大学、バンドン工科大学、ガジャマダ大学\nタイ：チュラロンコン大学、カセサート大学、タマサート大学\nPAREプログラム内容\nプログラムは「基礎科目」「発展科目」「専門科目」と大きく区分され、全て英語で行われます。PAREプログラムは自身の分野専門知識だけでなく、分野横断的な知識の習得をゴールにしています。\n\
+      「基礎科目」は、PARE課題の解決の基礎力となる一連の講義「Introduction to PARE」\nおよび、グループとしてPARE課題解決に取り組む短期研修「サマースクール」「スプリングスクール」から成り立っています。PAREプログラム参加者は「基礎科目」の受講が必須です。\n\
+      「発展科目」「専門科目」は「基礎科目」受講後、パートナー大学に留学し、PARE課題に関する講義の受講や研究を行い、さらに深い知識や経験を身に付けるための科目です。留学中は、英語に加え、現地の人とコミュニケーションを取れるよう現地語の習得も目指します。\n\
+      PAREプログラム参加後は、PAREプログラム修了者で構成される「PARE同窓会」に参加することができます。この同窓会で深い知識を身に付けた人材が集ってPAREネットワークを形成し、アジアの問題解決および発展に貢献することが可能です.\n\
+      ▼ PAREプログラムの概要?\n▼ ASEANへ＆から留学報告ブログ \n問い合わせ\nPAREセントラルオフィス（国際本部2F）PARE Program Central Office\n\
+      対応時間：9：00～17：00\n電話番号 : 011-706-8014　FAX : 011-706-8037"
+  source: https://ocw.hokudai.ac.jp/lecture/parepv-2015
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+- agriculture
+- generic
+keywords:
+- 工学／情報
+- 水産学
+- 複合分野／学際
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 公共政策大学院／公共政策学教育部／公共政策学連携研究部
+  targetAudience: 大学院生（大学院に進学予定の学部4年生もSpring Schoolに限って参加可）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,60 @@
+slug: hokudai-nuclearpower-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclearpower-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 原子力発電所のリスクと日常生活のリスク（2012）
+description:
+  ja: 日本国民にとってのリスクを考えるために、スイス連邦共和国を例として原子力に関する情報を扱う。スイスの電源構成やCO2排出量、原子力発電所による地域への蒸気・熱供給に触れつつ、原子力発電所のリスクと日常生活のリスクを総合的に眺める内容である。
+quotedDescription:
+  text:
+    ja: '日本国民にとってのリスクを考えるために、ＥＵに加盟していないスイス連邦共和国を例に原子力に関する情報を提供したい。日本と同様に資源に恵まれないスイスは、２０世紀の２回の大戦にも巻き込まれることなく２００年間平和を維持し繁栄を続けている。また、２０１０年のスイス国民１人あたりのＣＯ２排出量は
+      ５.６ton で、再生可能エネルギーで注目されているデンマークの ８.５ton に比べて圧倒的に少ない。
+
+      その理由は、スイスアルプスの水源を利用した水力発電が約５０％、ＣＯ２を排出しない原子力発電が約４５％を占めているからである。７０年代の石油危機後、ベツナウとゲスゲンの原子力発電所では地域の工場、公共施設、住宅、農場などへ蒸気と熱を供給する事業も開始し、地域経済にも貢献している。脱原発を宣言した両国の国民性も含め私達を取り巻くリスクを総合的に眺めてみたい。'
+  source: https://ocw.hokudai.ac.jp/lecture/nuclearpower-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 杉山 憲一郎
+  affiliation:
+    name: 北海道大学名誉教授
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 原子力発電所
+- 脱原発
+- スイス
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

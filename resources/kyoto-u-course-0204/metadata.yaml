@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0204
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/204/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回 市民講座「宇宙と物質の神秘に迫る～物理科学最前線～」特集テーマ「量子の世界」
+description:
+  ja: 京都大学理学研究科による市民講座の第2回で、特集テーマは「量子の世界」である。公開教材には、プログラムと講師略歴のほか、超ひも理論、宇宙の始まり、超伝導を扱う3講演の配布資料やスライドが含まれる。
+quotedDescription:
+  text:
+    ja: '主催：京大21世紀COE「物理学の多様性と普遍性の探求拠点」
+
+      後援：京都新聞社、物理教育学会、天文教育普及研究会
+
+       
+
+      詳細（物理学の多様性と普遍性の探求拠点HP）→ http://physics.coe21.kyoto-u.ac.jp/public.html'
+  source: https://ocw.kyoto-u.ac.jp/course/204/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 柴田 一成
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小山 勝二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川合 光
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐々木 節
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 前野 悦輝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004-11-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: プログラムと講師の先生の略歴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演１「超ひも理論：究極の自然法則がみつかった？！」配布資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演１「超ひも理論：究極の自然法則がみつかった？！」講演スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演２「宇宙はどうやって始まったか？」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演２「宇宙はどうやって始まったか？」配布資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演２「宇宙はどうやって始まったか？」講演スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演３「超伝導の不思議」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演３「超伝導の不思議」配布資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+- name: '講義資料: 講演３「超伝導の不思議」講演スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_第2回市民講座_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/204/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

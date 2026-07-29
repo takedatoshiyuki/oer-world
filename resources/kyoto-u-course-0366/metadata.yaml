@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0366
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/366/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「みんなちがって、みんないい －生きる環境に合わせて多様性を獲得した植物」
+description:
+  ja: 植物が移動できないという前提のもとで、どのように環境に適応しながら生きているかを扱う講義である。自らの変化によって光合成、開花、繁殖を行う仕組みと、その積み重ねとして生じる種分化や種内分化まで触れる。
+quotedDescription:
+  text:
+    ja: '講演内容
+
+      植物は種子が発芽した場所から動くことが出来ません。根を下ろした場所に適合できるか否かが生死を分けます。しかし植物は自らを自在に変身させて、環境に適合し、光合成を行い、適切な時期に花を咲かせ、子孫を残します。このような適応を経て、植物は様々な種分化を起こし、同一種内でさえも土地に合わせた種内分化を起こしています。そんな植物たちの「静かで」「逞しい」多様性の一面をご紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/366/
+  note: 京都大学OCW 「講演内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 瀬戸口 浩彰教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-09-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 地球環境学堂・地球環境学舎
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

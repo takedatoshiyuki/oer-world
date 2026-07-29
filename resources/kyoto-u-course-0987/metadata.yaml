@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0987
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/987/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「光分解ダイナミックスについて」
+description:
+  ja: 京都大学工学研究科で行われた川崎昌博による最終講義で、題材は光分解ダイナミックスである。講義名から、光分解ダイナミックスを主題として扱う内容であることが分かる。
+quotedDescription:
+  text:
+    ja: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/02/20100208_final_lecture_prof_kawasaki.mp4
+  source: https://ocw.kyoto-u.ac.jp/course/987/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 川崎 昌博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-02-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 工学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,64 @@
+slug: hokudai-distributionfaculty10omics-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/distributionfaculty10omics-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! 畑と食卓のおいしい関係（2008）
+description:
+  ja: 食料自給率や国産食材の問題を手がかりに、日々の食生活と食品流通の関係を考える。安全性や品質をめぐる消費者の行動が流通にどう関わるかを、流通経済論の視点から扱う。
+quotedDescription:
+  text:
+    ja: 'あなたは今日何を食べましたか? その中に国産の食材はどのくらい含まれていたでしょうか?
+
+      毎日の生活の中で「食べる」ことは当たり前のことのように思いがちですが、我が国の食料自給率は40%にとどまっています。そんな中、安全性や品質への不安から、国内産の食材への需要はますます高まっています。「安全でおいしく安い食品」が欲しい―。私たち消費者にとっては当たり前のニーズですが、そこには矛盾があります。安全性や品質を高めようとすればそれに応じたコストがかかるからです。繰り返される産地偽装や改ざんは、決して許されることではありませ
+      んが、その背景には「安全でおいしい食品」を少しでも「安く」手に入れたいという私たちの意識・行動が影響しているのです。
+
+      今回のサイエンス・カフェでは、より安心・安全な食生活実現にむけて、消費者の行動と食品流通の関係に、流通経済論の視点からアプローチします。
+
+      「食べること」に関わる一人として、今一度、自分たちの「食」のあり方を見つめ直してみませんか?'
+  source: https://ocw.hokudai.ac.jp/lecture/distributionfaculty10omics-2008
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 坂爪 浩史
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- agriculture
+keywords:
+- ビジネス／経済
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

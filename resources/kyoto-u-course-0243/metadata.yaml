@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0243
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/243/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第100回 京都大学丸の内セミナー 特別講演会「人文・社会科学の未来」
+description:
+  ja: 本講義は、人文・社会科学の未来を主題にした特別講演会で、2つの講演から成る。石井美保は、自然科学と人文学の接点を手がかりに「科学の詩学」という考え方を示し、文理の関係を捉え直す視点を述べる。広井良典は、日本の人口減少社会を起点に、こころの変化とそれに対応する社会の構想を考える。
+quotedDescription:
+  text:
+    ja: '科学の詩学にむけて
+
+      石井美保 （人文科学研究所 准教授）
+
+      　「文理融合」という言葉が、大学を舞台とする教育研究におけるマジックワードのごとく使われるようになって久しい。この言葉は、文字通り「文」と「理」なるものの「融合」を指しているが、裏を返せばこのふたつが別のものであることが前提とされている。一方で、みずからをとりまく不可思議な世界の探究としての自然科学の営みは、世界の独特なありようへの気づきを創造へとつなげていく芸術や人文学の営みと共通する側面をもつ。この重なりあう場所において、科学的探究を行った人びとは魅力的だ。たとえば寺田寅彦と、その門下生であった中谷宇吉郎。寺田は物理学者でありながら妖怪について考察し、中谷は雪の結晶に関する実験を重ねながらその魅力を随筆に著した。そしてまた、文／理モデルの限界について多大な示唆を与えてくれるのは南方熊楠だ。彼は粘菌について研究し、『ネイチャー』などの科学誌に論文を発表する一方で、夢に導かれて粘菌と巡りあい、自己と世界の様相をつくりだす「縁」について考えつづけた。
+
+      　こうした自然科学者たちのありようは、科学の詩学の可能性を指し示している。科学の詩学とは、科学的知識とツールによって外的世界と客体をどこまでも支配し操作しようとするのではなく、みずからの研究対象に魅入られ、相手に動かされながら相互的で創造的な関係性を築いていくような研究のあり方を意味する。それはまた、自己と世界との偶有的であり、自由にならないかかわり方に気づくことでもある。本セミナーでは、科学の詩学というアイデアを提起することを通して、「文理融合」という発想を転換する可能性を考えてみたい。
+
+      人口減少社会のデザイン
+
+      広井良典 （こころの未来研究センター 教授）
+
+      　日本は2011年から本格的な人口減少社会となった。これは人口や経済が増加を続けた明治以降の100数十年とは根本的に異なる時代に日本社会が入ったことを意味すると同時に、同じく「拡大・成長」を基調に展開してきた近代社会あるいは資本主義の変容とも呼応している。こうした新たな時代状況において、人間の「こころ」はどう変化し、またそこではどのような社会の構想が求められるのか。幅広い視点から考えてみたい。'
+  source: https://ocw.kyoto-u.ac.jp/course/243/
+  note: 京都大学OCW 「科学の詩学にむけて」・「人口減少社会のデザイン」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 石井 美保
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 広井 良典
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-11-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人文科学研究所, こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

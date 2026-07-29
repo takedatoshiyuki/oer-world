@@ -1,0 +1,60 @@
+slug: hokudai-faculty02iculturalsalon19-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon19-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: 時計台サロン 「農学部に聞いてみよう」 第19回 広大な研究林は理想の屋外実験室（2014）
+description:
+  ja: 北海道大学の北方生物圏フィールド科学センターが2014年に開講した講義で、中村誠宏と岸田治が担当する。研究林を扱う回であり、農学部に関する公開講義シリーズの一つとして提供される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中村 誠宏
+  affiliation:
+    name: 北海道大学北方生物圏フィールド科学センター中川研究林
+- type: Person
+  name: 岸田 治
+  affiliation:
+    name: 北海道大学北方生物圏フィールド科学センター天塩研究林
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 昆虫
+- 地球温暖化
+- 変身
+- 両生類
+- 北方生物圏フィールド科学センター
+- 中川研究林
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 北方生物圏フィールド科学センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

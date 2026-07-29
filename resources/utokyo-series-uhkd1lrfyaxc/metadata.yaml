@@ -1,0 +1,94 @@
+slug: utokyo-series-uhkd1lrfyaxc
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=uhKD1LrFYaxc
+type:
+- LearningResource
+- Course
+name:
+  ja: 「世界史」の世界史（学術俯瞰講義）
+description:
+  ja: 現代と過去のさまざまな世界観を手がかりに、世界史の理解が地域や時代によってどう異なるかを扱う講義である。高校で学ぶ世界史がどのように成立したかをたどりながら、歴史学の側から世界史の成り立ちを俯瞰する。
+quotedDescription:
+  text:
+    ja: 'コーディネータ：羽田 正
+
+      ナビゲータ：後藤 春美
+
+      皆さんの多くは、高等学校で「世界史」を学習したはずです。大学入試の科目として「世界史」を選択した人も多いでしょう。ですから、ちょうど数学の定理や物理の法則のように、高校生が世界中で同じ世界史を学んでいるのだと信じているのではないでしょうか。しかし、実はそうではありません。
+
+      世界史という名前の科目は、日本や中国など東アジア諸国に特徴的にみられ、欧米や中東などでは単に「歴史」と呼ばれる科目しかありません。また、大筋は同じだとしても、国によって、教科書の内容は微妙に異なっています。世界史は、決して一つではないのです。なぜでしょう。
+
+      世界史の理解は、自分たちの生きる世界をどう認識するかということ、すなわち世界観と深くかかわっているからです。現代世界でも、人々の世界観は同じではありません。まして、過去においては、地域や時代によって様々な世界観があり、従って、世界史の理解の仕方も一様ではありませんでした。この講義では、現代と過去における多様な世界観と世界史理解を紹介し、皆さんが高校で学んだ世界史がどのようにして成立したのかを解説します。これは、世界史を生み出す歴史学という学問の歴史を俯瞰してみせる連続講義です。また、この機会に、現代の私たちにふさわしい世界史理解はどのようなものかを一緒に考えてみましょう。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=uhKD1LrFYaxc
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 羽田 正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 島田 竜登
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松井 洋子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 杉山 清彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西川 杉子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 後藤 春美
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 歴史
+- 国際関係
+- 視点を変えた新しい世界史
+- 世界史
+- 思想
+- 歴史学
+- 比較史
+- グローバルヒストリー
+- UTokyo OCW
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 教養学部・総合文化研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

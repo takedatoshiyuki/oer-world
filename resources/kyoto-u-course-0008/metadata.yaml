@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0008
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/8/
+type:
+- LearningResource
+- Course
+name:
+  ja: La Grammaire Active du Francais
+description:
+  ja: 京都大学の総合人間学部で2009年に開講された講義で、担当者として大木 充、西山 教行、Jean Francois Grazianiが記載されている。講義名からフランス語の文法に関する内容であることが読み取れるが、出典には具体的な学習内容の説明はない。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 大木 充
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Jean Francois Graziani
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 語学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合人間学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

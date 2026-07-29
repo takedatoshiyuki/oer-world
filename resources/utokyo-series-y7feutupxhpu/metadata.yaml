@@ -1,0 +1,90 @@
+slug: utokyo-series-y7feutupxhpu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Y7FeUTUpxhpu
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和5年度 研究倫理セミナー
+description:
+  ja: 本教材は、RRIとELSIを扱う研究倫理セミナーである。責任ある研究とイノベーションをめぐる講演に加え、複数の学問分野からの視点の共有と議論、学内各部局の取り組み紹介を含む。
+quotedDescription:
+  text:
+    ja: '2023年度研究倫理セミナーでは、「責任ある研究とイノベーションを考える―取組に向けて―」をテーマに、RRI(Responsible Research and Innovation：責任ある研究とイノベーション)やELSI
+      (Ethical, Legal and Social Issues：倫理的・法的・社会的観点)に関する講演を行います。
+
+      また、RRIやELSIについて、様々な学問分野からの視点を共有、議論します。
+
+      学内の各部局における良い取り組みについても紹介します。
+
+      登壇者：岸本充生、藤垣裕子、松田康弘、新野俊樹、福永真弓、池谷裕二、馬場紀寿'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Y7FeUTUpxhpu
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤垣 裕子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岸本 充生
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 新野 俊樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福永 真弓
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 池谷 裕二
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 馬場 紀寿
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松田 康弘
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- business_law
+keywords:
+- AI・情報
+- 政治・法律
+- AI倫理
+- イノベーション
+- 研究倫理
+- 科学技術
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

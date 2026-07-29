@@ -1,0 +1,52 @@
+slug: kyoto-u-course-1100
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1100/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済安全保障論
+description:
+  ja: 国家安全保障の中で経済安全保障をどう位置づけるかを扱う講義である。理論面と重点的な課題に沿って、この問題を検討する。
+quotedDescription:
+  text:
+    ja: 国家安全保障の中心に、「経済安全保障」概念をセッティングする試みがようやく日本でもはじめられているが、こうした問題について、理論・重点的課題に則して検討する。
+  source: https://ocw.kyoto-u.ac.jp/course/1100/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-10-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 公共政策大学院
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

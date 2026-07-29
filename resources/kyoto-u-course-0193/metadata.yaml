@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0193
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/193/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回安寧の都市ユニットシンポジウム「超高齢社会を安寧に過ごすために」
+description:
+  ja: 京都大学工学研究科が提供する、超高齢社会を安寧に過ごすことをテーマにした第4回安寧の都市ユニットシンポジウムである。野本愼一、神戸利文、石飛幸三、宮本和宏、谷口栄一が担当し、日本語で行われる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 野本 愼一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 神戸 利文
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石飛 幸三（「平穏死のすすめ」著者
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 医師）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 宮本 和宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 谷口 栄一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-07-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

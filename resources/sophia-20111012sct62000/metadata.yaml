@@ -1,0 +1,52 @@
+slug: sophia-20111012sct62000
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111012sct62000/
+type:
+- LearningResource
+- Course
+name:
+  ja: 制御基礎／FUNDAMENTALS OF CONTROL ENGINEERING
+description:
+  ja: 制御工学における古典制御理論を中心に、制御系の解析と設計法を扱う講義である。周波数特性を使ったシステム表現と、その特性に基づくフィードバック系の設計を主な内容とする。授業では毎回、簡単な演習を行う。
+quotedDescription:
+  text:
+    ja: 現在，工学系のどの分野においても，「制御」という概念が極めて重要になっている．制御工学は大きく分けて，周波数特性を利用した古典制御理論と，状態微分方程式を利用した現代制御理論とがある．制御工学１では古典制御理論に基づく制御系の解析と設計法を概説する．これらは産業界において現在最も多く利用されている制御系設計手法である．内容は，周波数特性を用いたシステムの表現と，周波数特性に基づいたフィードバック系の設計法が中心的話題である．講義の理解を深めるために，毎回，簡単な演習を行う予定である．制御工学２で扱う現代制御理論と合わせて制御工学の基礎を一通り行うことになる．なお，制御工学１，２，３は特にこの順に履修する必要はない．
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111012sct62000/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 武藤 康彦
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

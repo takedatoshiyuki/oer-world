@@ -1,0 +1,43 @@
+slug: icu-sl-sl-20151016
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/sl/sl_20151016
+type:
+- LearningResource
+- Course
+name:
+  ja: Experiencing the world though Sound, Sight and Touch 私たちは世界の半分しか見てこなかった
+description:
+  ja: 国際基督教大学が提供・担当する講義で、音・視覚・触覚を通して世界を経験することを扱う。講義名には「私たちは世界の半分しか見てこなかった」という副題が付いている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015-10-16'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 公開講演・特別講義
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

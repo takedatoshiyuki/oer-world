@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0916
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/916/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生命科学研究科 大学院入学試験説明会, 2016
+description:
+  ja: 生命科学研究科の大学院入学試験に関する説明会で、アドミッションポリシー、試験科目、日程を扱う。あわせて、研究科の全分野の研究内容を紹介する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      アドミッションポリシー、試験科目と日程などについて説明した後、全分野の研究内容を紹介します。
+
+       
+
+      研究科ページ'
+  source: https://ocw.kyoto-u.ac.jp/course/916/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-04-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

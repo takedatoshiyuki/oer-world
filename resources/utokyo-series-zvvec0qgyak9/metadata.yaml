@@ -1,0 +1,83 @@
+slug: utokyo-series-zvvec0qgyak9
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ZvVEc0qGYak9
+type:
+- LearningResource
+- Course
+name:
+  ja: ABR（聴性脳幹反応）とともに切り拓いた聴覚・神経科学の進歩（加我君孝最終講義）
+description:
+  ja: 耳科学、聴覚医学、神経耳科学を背景に、聴性脳幹反応の臨床応用や聴覚認知、両耳聴、言語の神経科学などを扱う講義である。末梢から大脳まで、また新生児から高齢者までを視野に入れた研究と臨床の内容が示されている。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      耳科学
+
+      聴覚医学
+
+      神経耳科学
+
+      【教授略歴】
+
+      1971年、東京大学医学部医学科卒業。
+
+      東大病院研修医、帝京大学医学部耳鼻咽喉科学教室助手、講師、助教授を経て、1992年より現職。
+
+      米国ジェファーソン医科大学の医学教育・医療研究所、ＵＣＬＡ脳研究所に留学。現在、ジェファーソン医科大学客員教授。
+
+      主な研究分野は、聴覚認知、両耳聴、脳と言語・音楽、聴性脳幹反応の臨床応用、乳幼児の難聴バランス機能の発達、言語の神経科学。臨床は聴力改善手術を中 心とする"耳科手術"。耳科学・平衡神経学・小児耳鼻科・心身医学神経心理学などの関連領域を含め、末梢から大脳、新生児から老人、手術からリハビリまで
+      幅広い視野で取り組んでいる。
+
+      日本耳鼻咽喉科学会副理事長
+
+      日本耳科学会編集担当理事
+
+      日本めまい平衡医学会理事
+
+      日本認知神経科学会理事
+
+      日本神経心理学会理事'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ZvVEc0qGYak9
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 加我 君孝
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 医学部・医学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

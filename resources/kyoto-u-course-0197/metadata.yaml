@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0197
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/197/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第74回 京都大学丸の内セミナー「西南日本の地殻変動と2016年熊本地震」
+description:
+  ja: この教材は、全国規模のGNSS観測網によって捉えられる日本列島の地殻変動を手がかりに、西南日本の変形の特徴を扱う。南海トラフから沈み込むフィリピン海プレートの影響、内陸域の複雑な変動、ひずみ集中帯と地震発生の関係までを述べる。
+quotedDescription:
+  text:
+    ja: 我が国に全国規模のGNSS(GPS)観測網の整備が開始されたのは1994年である。これ以降、日本列島の地殻変動、すなわち日本列島の形が現在どのように変わりつつあるのかを高精度に観測できるようになった。西南日本（図１）においては、南海トラフから沈み込むフィリピン海プレートの影響を受けて、四国や紀伊半島が北西向きに変動しているが、内陸域にはフィリピン海プレートの影響だけでは説明できない変動が見られ、特に九州の地殻変動は複雑である。内陸域の地殻変動が集中している場所は、ひずみ集中帯と呼ばれ、近年の内陸地震の多くは、ひずみ集中帯に発生している。ひずみ集中帯の場所は、概ね活断層が多く分布する地域と対応しているが、顕著な活断層が見つかっていない地域にも、ひずみ集中帯は存在する。
+  source: https://ocw.kyoto-u.ac.jp/course/197/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西村 卓也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-09-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

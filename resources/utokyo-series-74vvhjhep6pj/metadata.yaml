@@ -1,0 +1,61 @@
+slug: utokyo-series-74vvhjhep6pj
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=74VVhjhEp6pJ
+type:
+- LearningResource
+- Course
+name:
+  ja: Physics of Transition Metal Oxides
+description:
+  ja: 遷移金属酸化物の結晶構造と基本的な物性を概観し、絶縁性、金属性、半導性、超伝導性、磁性、強誘電性などの酸化物の振る舞いを扱う講義である。さらに、欠陥、表面、界面がそれらの性質に及ぼす要因にも触れる。
+quotedDescription:
+  text:
+    ja: 'This lecture covers the structure and physics of transition metal oxides on a general level.
+
+      We will review the crystal structures of transition metal oxides and discuss the various properties
+      that oxide materials can have, covering insulating, metallic, semiconducting, superconducting, magnetic,
+      ferroelectric, and other oxide materials. We will also look at factors that influence the properties
+      of oxides, namely the effects of defects, surfaces, and interfaces.'
+  source: https://ch.u-tokyo.ac.jp/series/?id=74VVhjhEp6pJ
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Mikk Lippmaa
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 新領域創成科学研究科
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

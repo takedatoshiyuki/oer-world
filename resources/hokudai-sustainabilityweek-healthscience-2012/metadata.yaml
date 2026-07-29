@@ -1,0 +1,69 @@
+slug: hokudai-sustainabilityweek-healthscience-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sustainabilityweek-healthscience-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク ようこそ！ヘルスサイエンスの世界へ （2012）
+description:
+  ja: 保健科学研究院の公開講座として、ヘルスサイエンスに関わる3つの話題を順に扱う。アレルギー、看護職者の業務、高齢者の終末期医療について、それぞれの専門分野から解説する構成である。
+quotedDescription:
+  text:
+    ja: '保健科学研究院の公開講座は「ようこそ！ ヘルスサイエンスの世界へ」というテーマのもと、３名の講師陣が専門分野の紹介をします。
+
+      第１限目は「アレルギーの不思議」と題して、小林清一教授が国民病とも呼ばれているアレルギーについて解説します。第２限目は「あなたの健康生活を支える看護師活用術」と題して、良村貞子教授が保健医療福祉の現場で活躍している看護職者の業務の内容を紹介します。第３限目は「今こそ考えるとき、高齢者の延命治療　―我が国と諸外国の比較から―」と題して、宮本顯二教授が高齢者の終末期医療について解説します。'
+  source: https://ocw.hokudai.ac.jp/lecture/sustainabilityweek-healthscience-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 伊達 広行
+  affiliation:
+    name: 北海道大学大学院保健科学研究院
+- type: Person
+  name: 小林 清一
+  affiliation:
+    name: 北海道大学大学院保健科学研究院
+- type: Person
+  name: 宮本 顯二
+  affiliation:
+    name: 北海道大学大学院保健科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- health_welfare
+keywords:
+- ヘルスサイエンス
+- アレルギー
+- 看護師
+- 保健医療福祉
+- 終末期医療
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

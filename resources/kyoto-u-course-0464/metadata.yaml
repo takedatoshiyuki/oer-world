@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0464
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/464/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第12回 iCeMSラーニングラウンジ：勝田 陽介 + 福岡 沙希
+description:
+  ja: この講義は、若手研究者2名が英語で自身の研究を紹介する形式で進む。勝田陽介さんは細胞内のRNAの特殊な構造を化学で捕まえる方法を、福岡沙希さんは手描きの絵を用いて科学を身近に伝える試みを扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      勝田 陽介（かつだ ようすけ）さん
+
+      「細胞の中を泳ぐ生命の秘密を捕まえる」
+
+      水の中を泳ぐ魚を捕まえたいとき、皆さんはどうしますか？きっと、狙った魚が好む餌をつけて、釣れるその瞬間を待つでしょう。では、細胞の中の物質を捕まえる場合はどうでしょうか？化学を使って細胞の中からRNAの特殊な構造を捕まえる方法を紹介したいと思います。
+
+       
+
+      福岡 沙希（ふくおか さき）さん
+
+      「手描きの絵で科学をあなたのもとへ」
+
+      複雑な科学を理解しようとするとき、リアルなコンピューターグラフィックは役に立ちます。しかし、それでも私のような科学にあまり縁のない人にとっては、近寄りがたさを感じることがあります。ではグラフィックを可愛らしい手描きの絵に変えてみたらどうでしょう？手描きの絵が生む「身近さ」が、人々の持つ「科学」の印象を変えられるのではないでしょうか。
+
+      講演者コメント
+
+      食わず嫌いな物って、匂いや見た目、一口目の味でその食材の可能性を全て絶ってしまいますよね。でも本当は大好物になる可能性だってあります。その食材が本当に好きかは、深く知ってみなければわかりません。学問も同じで、食わず嫌いのまま大人になる人がたくさんいます。学問は高度であればあるほど深く知るまで時間や努力が必要です。あなたの専門分野って面白いですよね？もっとたくさんの人に興味を持って欲しければ、最初の一口でどれだけ深くまで伝えられるかが大変重要です。そのツールとして、是非イラストを提案したい。それも、誰もが身近な手描きのものを。'
+  source: https://ocw.kyoto-u.ac.jp/course/464/
+  note: 京都大学OCW 「概要」・「勝田 陽介（かつだ ようすけ）さん」・「「細胞の中を泳ぐ生命の秘密を捕まえる」」・「福岡 沙希（ふくおか さき）さん」・「「手描きの絵で科学をあなたのもとへ」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 勝田 陽介さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 福岡 沙希さん
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-02-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

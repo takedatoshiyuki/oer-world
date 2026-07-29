@@ -1,0 +1,116 @@
+slug: icu-majors-phy102-2015a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/phy102_2015a
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Physics 初級物理学
+description:
+  ja: 物理学の基礎として、エネルギーと運動に関わる概念や法則を力学を中心に扱う講義である。物理量や単位系から始め、等加速度運動、ニュートンの運動の法則、仕事とエネルギー、運動量保存則、万有引力までを順に学ぶ。講義に加えて適宜演習を行う。
+quotedDescription:
+  text:
+    ja: 'This course provides an introduction to fundamental concepts and laws related to energy and motion
+      in the physical science.
+
+      力学を中心として、エネルギーと運動に関わる物理学の基礎的諸概念や法則について学ぶ。ICU献学の理念とその歴史について近代日本社会の歩みの中でとらえる。明治以来のキリスト教の高等教育の歴史に始まり、冷戦時代に創設されたICUの現在までの経験を考察する。
+
+      Contents of Lectures
+
+      以下の項目に沿って授業を進める。授業では講義と共に適宜演習を行う。
+
+      １．イントロダクション：物理量，単位系，有効数字
+
+      ２．速度・加速度（1次元）9/24
+
+      ３．等加速度運動・落下運動 9/29
+
+      ４．速度ベクトル・加速度ベクトル 10/1
+
+      ５．放物運動
+
+      ６．ニュートンの運動の法則
+
+      ７．運動の法則の応用： 静力学・動力学，摩擦力
+
+      ８．円運動
+
+      ９．仕事と運動エネルギー
+
+      １０．仕事とエネルギー，エネルギー保存則
+
+      １１．運動量保存則
+
+      １２．単振動
+
+      １３．剛体力学の基礎
+
+      １４．万有引力
+
+      Sept 24
+
+      Sept 29
+
+      Oct 01
+
+      Oct 06
+
+      Oct 08
+
+      Oct 14
+
+      Oct 20
+
+      Oct
+
+      27
+
+      Oct 2
+
+      9
+
+      Nov 05
+
+      Nov 11'
+  source: https://ocw.info.icu.ac.jp/majors/phy102_2015a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 石丸友里
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Physics 物理学 | Course ID: PHY10'
+- 'PHY102 | Course Schedule: 3/TU, 3/TH | Update: 2016.05.06   Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,51 @@
+slug: mi-literacy-hzvv0-x6dby
+mode: referenced
+externalUrl: https://youtu.be/hzVV0-x6DBY
+type:
+- LearningResource
+- Course
+name:
+  ja: 画像（滋賀大学・数理DS-AI教育 リテラシーレベル）
+description:
+  ja: 滋賀大学の数理DS-AI教育リテラシーレベルに属する講義で、2020年度に開講された。対象は「データ・AI利活用の最新動向」で、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning.html
+  summary:
+    ja: クリエイティブ・コモンズ 表示-非営利-継承（CC BY-NC-SA。コンソーシアムページの表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 滋賀大学
+publisher:
+- type: Organization
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+sourceCollection:
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+  url: https://www.mi.u-tokyo.ac.jp/consortium/
+datePublished: '2020'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- slide
+about:
+- ict
+keywords:
+- データサイエンス
+- リテラシーレベル
+- 1-6. データ・AI利活用の最新動向
+audience:
+- student
+- teacher
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 1-6. データ・AI利活用の最新動向
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。数理・データサイエンス・AI教育強化拠点コンソーシアムのモデルカリキュラム対応教材リストに基づく。datePublished
+    は動画は YouTube 公開年、スライドはファイル名または PDF 内部の作成年。description は gpt-5.4-mini が生成。
+  confidence: high

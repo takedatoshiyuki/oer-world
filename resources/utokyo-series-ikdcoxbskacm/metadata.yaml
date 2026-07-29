@@ -1,0 +1,79 @@
+slug: utokyo-series-ikdcoxbskacm
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=IKdcOXBSkAcM
+type:
+- LearningResource
+- Course
+name:
+  ja: 放射能の農畜水産物等への影響についての研究報告会 第8回報告会
+description:
+  ja: 福島第一原子力発電所事故後の被災地支援研究として続けられてきた報告会の第8回である。福島県の米の全量全袋検査、果樹や作物における放射性セシウムの動き、水田湛水による放射線量低減の試みなど、農畜水産物と周辺環境への影響を複数の観点から報告する。あわせてチェルノブイリの事例も取り上げる。
+quotedDescription:
+  text:
+    ja: "福島第一原子力発電所の事故直後から、3-4ヶ月ごとに開催してきた本学農学生命科学研究科での被災地支援研究も、今回で 8 回目となる。今回は福島県における米の全量全袋検査の取組み、放射性セシウムの果樹樹体内における動態、水田湛水による周辺環境の放射線量低減の試み、放射性セシウム汚染堆肥中で栽培した各種作物における放射性セシウム動態、チェルノブイリの事例等についての研究報告を行う。\
+      \ \n \n  農学生命科学研究…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=IKdcOXBSkAcM
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 古谷 研
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中西 友子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 丹治 喜仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高田 大輔
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 久保 成隆
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 友継
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 眞鍋 昇
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小川 壮
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

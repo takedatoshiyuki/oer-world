@@ -1,0 +1,66 @@
+slug: utokyo-series-n2m1nswz3udl
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=n2M1NSwz3uDL
+type:
+- LearningResource
+- Course
+name:
+  ja: 問いを生み出す哲学塾2
+description:
+  ja: 哲学における「いい問い」を手がかりに、問いを立てる練習を行うワークショップである。東大TVのコンテンツを使いながら、「問題」と「問い」の関係や、動画を用いた問いづくりを扱う。自分で問いを作る体験を通して、「いい問いとは何か」を考える。
+quotedDescription:
+  text:
+    ja: 'いい考えはいい問いから。
+
+      思考を前に進めるためには、適切に問うことが大切です。哲学者たちは2500年前から「いい問い」を求めてきました。哲学者になったつもりで、問いを立てる練習をしてみませんか？
+
+      東大TVのコンテンツを使いながら、自分で問いを立てる体験を通じて「いい問いとは何か」を考えるワークショップです。
+
+      01:49 自己紹介・趣旨説明
+
+      14:41 「問題」と「問い」の関係
+
+      24:01 動画を使った問いづくり
+
+      43:50 …'
+  source: https://ch.u-tokyo.ac.jp/series/?id=n2M1NSwz3uDL
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 八重樫 徹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

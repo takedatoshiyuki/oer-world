@@ -1,0 +1,52 @@
+slug: tsukuba-enep-special-joint-seminar-in-english
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/envr/enep-special-joint-seminar-in-english/
+type:
+- LearningResource
+- Course
+name:
+  ja: 合同特別セミナー「地表水及び地下水を通じて移行する放射性物質のリスクアセスメント、及び水の放射性物質モニタリングにおける検出限界値の決定方法について」
+description:
+  ja: 地表水と地下水を通じて移行する放射性物質のリスクアセスメントを扱う講義資料である。あわせて、水の放射性物質モニタリングにおける検出限界値の決定方法を扱う。公開教材として英語の講義資料ファイルが付属する。
+quotedDescription:
+  text:
+    ja: ENEP Special Joint Seminar in English （4.57 MB）
+  source: https://ocw.tsukuba.ac.jp/course/envr/enep-special-joint-seminar-in-english/
+  note: TSUKUBA OCW 「関連資料」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Rosella Rusconi
+  affiliation:
+    name: イタリアロンバルディア州環境放射線防護センター 環境放射線防護センター センター長
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2018-03-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境科学
+audience:
+- student
+materials:
+- name: '講義資料: ENEP Special Joint Seminar in English （4.57 MB）'
+  contentUrl: https://ocw.tsukuba.ac.jp/wp/wp-content/uploads/2018/03/1.-seminar-rusconi-sensei.pdf
+  page: https://ocw.tsukuba.ac.jp/course/envr/enep-special-joint-seminar-in-english/
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,60 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-thermal-hydraulic-behavior-in-fukushim
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-thermal-hydraulic-behavior-in-fukushima-dai-ichi-nuclear-power-plant-accident
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「福島第一原発事故の熱水力挙動」
+description:
+  ja: 福島第一原発事故の概要と、1号機・2号機・3号機の挙動を扱う講義資料である。あわせて、シビアアクシデント時の熱流動挙動と、福島第一原発事故2号機の熱水力解析まで含む。
+quotedDescription:
+  text:
+    ja: "福島第一原発事故の熱水力挙動\n \n「福島第一原発事故の熱水力挙動」の教材は全てCC BY-NCのライセンスで公開しています。\n \n本教材の内容は以下の通りです。\n \n・福島第一原発事故の概要\n\
+      \ \n・1号機，2号機，3号機の挙動\n \n・シビアアクシデント時の熱流動挙動\n \n・福島第一原発事故2号機の熱水力解析"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-thermal-hydraulic-behavior-in-fukushima-dai-ichi-nuclear-power-plant-accident
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 石垣 将宏
+  affiliation:
+    name: 福井大学 学術研究院 工学系部門 原子力安全工学講座
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2026'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 過酷事故
+- シビアアクシデント
+- 福島第一原子力発電所
+- 熱水力挙動
+audience:
+- student
+materials:
+- name: '講義資料: 福島第一原発事故の熱水力挙動'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2026/06/Nuclear-Regulatory-Human-Resource-Development-Project_Thermal-hydraulic-behavior-in-Fukushima-Dai-ichi-Nuclear-Power-Plant-accident.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-thermal-hydraulic-behavior-in-fukushima-dai-ichi-nuclear-power-plant-accident
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

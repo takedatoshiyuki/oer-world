@@ -1,0 +1,88 @@
+slug: kyoto-u-course-0469
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/469/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第7回 iCeMSラーニングラウンジ：長谷川 光一 + Daniel Packwood
+description:
+  ja: この教材は、若手研究者2名が英語で自らの研究を紹介する第7回ラーニングラウンジである。長谷川光一さんはマラリア研究とiPS細胞を用いた取り組みを、Daniel Packwoodさんは分子の自己組織化とナノテクノロジーにおける理論科学の役割を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      長谷川 光一 さん
+
+      「マラリアの無い世界を造る」
+
+      マラリアって何？知らない人も多いかもしれません。マラリアは世界中で猛威を振るっており、世界的な健康問題の一つです。マラリアは対岸の火事と考えている人も大かも知れませんが、世界中の人々が行き交う今日、マラリアは日本や先進国でも問題になる可能性が高いのです。マラリアが何なのか、マラリアのない世界を作るために私たちが行っている研究を通して紹介します。
+
+      研究者コメント
+
+      今回は、iCeMSと、インド国立生命科学研究センター（NCBS）、インド幹細胞・再生医学研究所（inStem）が国際連携の一環として取り組んでいる、iPS細胞を用いたマラリアの研究を紹介します。マラリアはいまだに世界中で猛威をふるっており、人々の行き来が盛んな今日では、日本も脅威にさらされています。また今回はカナダの学生が多数参加してくれていますが、日本だけでなくカナダにおいても同様です。世界規模の研究が重要だということを知っていただければ嬉しく思います。
+
+       
+
+      Daniel Packwood（ダニエル・パックウッド）さん
+
+      “Nanotechnology by Herding Molecules – Hints from Theory”
+
+      Society is demanding smaller and smaller electrical devices. Nanotechnology is an entirely new approach
+      to device manufacturing, in which extremely small objects are created by assembling molecules into
+      patterns and shapes. But can nanotechnology truly be realized? This talk will explain the key role
+      that theoretical science is playing in the development of nanotechnology.
+
+      研究者コメント
+
+      Viewers beware! You’re in for a scare! Here, we touch on the spooky topic of molecular self-assembly,
+      in which molecules inexplicably gather together to form tiny devices and machines. Might this be
+      the work of a poltergeist? Here, I burst your bubble and explain how molecular self-assembly can
+      be simulated on a computer via judicious mathematics and theoretical chemistry. References to Canada
+      and farm animals are included.'
+  source: https://ocw.kyoto-u.ac.jp/course/469/
+  note: 京都大学OCW 「概要」・「長谷川 光一 さん」・「「マラリアの無い世界を造る」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 長谷川 光一 さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Daniel Packwood さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-04-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

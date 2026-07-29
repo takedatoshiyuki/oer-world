@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0265
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/265/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第75回人環国際交流セミナー “Do we still remember Nicolaus Copernicus in Poland?”（ポーランドのコペルニクスをまだ覚えているかい？）
+description:
+  ja: この講義は、ニコラウス・コペルニクスの生涯と天文学者としての業績を取り上げる。あわせて、コペルニクスと講演者の関係にも触れながら、その足跡をたどる内容である。
+quotedDescription:
+  text:
+    ja: '概要
+
+      マーリック先生は、光エレクトロニクスやレーザー物質の実験物理学をご専門とされています。
+
+      ご講演では，著名な天文学者であるニコラウス・コペルニクスの足跡についてお話しいただきました。具体的には、コペルニクスの生涯と天文学者としての業績、そしてコペルニクスとマーリック先生を結びつけているものについてご説明いただきました（ご講演は英語で行なわれました）。'
+  source: https://ocw.kyoto-u.ac.jp/course/265/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 人間・環境学研究科客員准教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-11-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

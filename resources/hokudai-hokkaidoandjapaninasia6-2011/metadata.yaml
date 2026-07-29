@@ -1,0 +1,54 @@
+slug: hokudai-hokkaidoandjapaninasia6-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/hokkaidoandjapaninasia6-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 アジアのなかの日本・北海道 第6回 アジアで発生した巨大地震・巨大津波（2011）
+description:
+  ja: 2004年のスマトラ島巨大地震と、2011年の東北地方太平洋沖巨大地震による巨大津波を取り上げる。アジアで発生した巨大津波の事例を学び、北海道における津波防災について考える。
+quotedDescription:
+  text:
+    ja: 2004年スマトラ島巨大地震により大津波が発生し、インド洋沿岸の地域（特にスマトラ島北部、インドネシア）で25万人を越える死者・行方不明者を出す大災害となりました。また2011年には東北地方太平洋沖巨大地震でも巨大津波による死者・行方不明者が25000人を越える大災害も起こりました。アジアで発生してきた巨大津波について学ぶとともに北海道での津波防災について考えます。
+  source: https://ocw.hokudai.ac.jp/lecture/hokkaidoandjapaninasia6-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 谷岡 勇市郎
+  affiliation:
+    name: 理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

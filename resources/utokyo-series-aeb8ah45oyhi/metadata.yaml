@@ -1,0 +1,68 @@
+slug: utokyo-series-aeb8ah45oyhi
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=aeb8Ah45oyHi
+type:
+- LearningResource
+- Course
+name:
+  ja: 放射能の農畜水産物等への影響についての研究報告会 第13回報告会
+description:
+  ja: 福島第一原子力発電所事故の後に続けられてきた東京大学農学生命科学研究科の研究報告会で、第13回にあたる。作物や果樹などの植物を対象に、放射性物質の影響に関する研究成果を扱う。
+quotedDescription:
+  text:
+    ja: "福島第一原子力発電所の事故直後から、数ヶ月ごとに開催してきた本学農学生命科学研究科での被災地支援研究も、今回で13回目を数えました。 \n  今回は作物や果樹などの植物への放射性物質の影響を中心に研究成果を報告しました。\
+      \ \n  農学生命科学研究科の復興支援プロジェクト HP \n    http://www.a.u-tokyo.ac.jp/rpjt/index.html   \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。\
+      \  \n  お気に入りの講義・…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=aeb8Ah45oyHi
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 丹下 健
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中西 友子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 信濃 卓郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高田 大輔
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田野井慶太朗
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

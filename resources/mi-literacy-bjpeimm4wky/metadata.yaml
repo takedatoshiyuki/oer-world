@@ -1,0 +1,51 @@
+slug: mi-literacy-bjpeimm4wky
+mode: referenced
+externalUrl: https://youtu.be/bJPEimM4wkY
+type:
+- LearningResource
+- Course
+name:
+  ja: 統計的推測の前準備（名古屋大学・数理DS-AI教育 リテラシーレベル）
+description:
+  ja: 名古屋大学が担当する、数理データサイエンス・AI教育のリテラシーレベルの講義である。2025年度開講で、対象は「データを読む」に位置づけられている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning.html
+  summary:
+    ja: 提供大学ごとに利用条件が定められている（コンソーシアムページの「利用条件」の各大学のリンク先を参照）。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 名古屋大学
+publisher:
+- type: Organization
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+sourceCollection:
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+  url: https://www.mi.u-tokyo.ac.jp/consortium/
+datePublished: '2025'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- slide
+about:
+- ict
+keywords:
+- データサイエンス
+- リテラシーレベル
+- 2-1. データを読む
+audience:
+- student
+- teacher
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 2-1. データを読む
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。数理・データサイエンス・AI教育強化拠点コンソーシアムのモデルカリキュラム対応教材リストに基づく。datePublished
+    は動画は YouTube 公開年、スライドはファイル名または PDF 内部の作成年。description は gpt-5.4-mini が生成。
+  confidence: high

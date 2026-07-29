@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0060
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/60/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第54回 京都大学品川セミナー「生命、エネルギー、環境、資源にかかわる気体の科学と技術」
+description:
+  ja: 空気や天然ガス、バイオガスのような気体物質を対象に、多孔性材料でそれらを扱う方法を取り上げる講義である。配位結合を用いてナノ空間を設計する化学を軸に、気体や混合物の分離・捕獲・貯蔵、さらに光応答性材料やポリマー合成まで扱う。地球環境、エネルギー、医療、健康に関わる課題との接点にも触れる。
+quotedDescription:
+  text:
+    ja: '空気（酸素、窒素、二酸化炭素）、天然ガスとバイオガス（メタンが主成分）など気体物質は非常に重要な資源として益々重要になりつつあり、まさに今世紀は気体の時代といえます。しかし気体物質は見えず、形がなく、混ざって希釈され、ものによっては不安定、有毒なことがあり大変扱いにくい物質です。これを自在に扱い操作する材料として多数の小さい穴があいた多孔性材料に大きな期待が寄せられています。
+
+      レゴのようなブロックゲームが分子、イオンのナノの世界で行えることがわかってきました。私は配位結合（分子と金属イオンを結びつける接着剤の役割）を用いて、多様な形とサイズのナノ空間を産み出す化学を拓きました。これを用いてこれまで不可能とされてきた混合物や気体の分離、捕獲、大量貯蔵や、光応答性材料やポリマー合成などの多様な機能を実現することができました。この革新的な多孔性材料の将来展望について、現代の問題（地球環境、エネルギー、医療、健康）解決に焦点をあてて講演します。'
+  source: https://ocw.kyoto-u.ac.jp/course/60/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北川 進
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-11-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 化学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: kyoto-u-course-1092
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1092/
+type:
+- LearningResource
+- Course
+name:
+  ja: 講演会「ポスト家父長制世界におけるアジアの家族変動と家族意識」
+description:
+  ja: アジア諸国・地域で進む少子化、高齢化、女性の地位向上、家父長制の変化を背景に、家族意識と家族実践の変容を扱う。女性の高等教育機会の拡大が性別役割意識や家事参加にどう関わるかを、東アジア社会調査とアジア比較家族調査の結果から比較する。日本の状況も、他地域との共通点と差異の中で位置づける。
+quotedDescription:
+  text:
+    ja: '■講師からのメッセージ
+
+      アジア諸国・地域は現在、急速な少子化と高齢化を経験し、女性の地位向上や権利拡大といったグローバルな文脈の中で旧来の家父長制的男性優位も崩れ、家族は大きな変化に直面しています。共通する社会変化として女性の高等教育機会の拡大がありますが、女性の高学歴化は家族意識や実践にどのような影響を及ぼしているのでしょうか。日韓中台の家族意識を調べた2006年東アジア社会調査、ならびに同じ調査票を用いタイ、ベトナム、マレーシア、トルコを調査したアジア比較家族調査の分析結果から、性別役割意識と家事参加の共通性と差異を取り上げて計量的な比較社会学研究の面白さを紹介すると同時に、日本の現状を位置付けます。
+
+      ■講師紹介
+
+      京都大学名誉教授、専門は教育社会学、家族社会学、ライフコース研究、社会調査法。主な研究テーマは、社会調査によって集められた個人の職業経歴と家族経歴の情報を用いて、日本人男女のライフコースの長期的変化を学歴との関係から解明すること。『教育学研究』第89巻第4号（2022年12月刊行予定）に「女性のライフコース研究」を執筆予定。今回の報告は、岩井八郎「アジアの家族変動と家族意識」（『家族社会学研究』2018）に基づく。2021年3月まで京都大学教育学研究科・教授、2022年4月より摂南大学客員教授。'
+  source: https://ocw.kyoto-u.ac.jp/course/1092/
+  note: 京都大学OCW 「■講師からのメッセージ」・「■講師紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岩井 八郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-03-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- arts_humanities
+- social_sciences
+keywords:
+- 教育学
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

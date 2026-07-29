@@ -1,0 +1,92 @@
+slug: kyoto-u-course-0337
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/337/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部公開講座「ひと・社会・工学 －工学のいまを知る－」, 2012
+description:
+  ja: 工学に関わる複数の話題を、半導体、自動車、情報学、廃棄物エネルギー回収という切り口で扱う公開講座である。各講演では、情報・通信・エネルギー、車両技術、確率統計にもとづくアナログ技術、資源としての廃棄物など、工学のさまざまな対象を紹介する。
+quotedDescription:
+  text:
+    ja: '1 開会挨拶
+
+      大津 宏康（工学研究科 教授）
+
+      2 「情報、通信、そしてエネルギーを支える半導体－超低損失パワー半導体デバイス実現に向けた挑戦－」
+
+      須田 淳（工学研究科 准教授）
+
+      パソコンやスマートフォンは最先端の半導体技術によって実現されています。一方、半導体はエネルギー分野においても非常に重要な役割を果たしています。半導体の現在、そして未来について紹介します。
+
+      3 「これからの自動車」”Automobile in the Future”
+
+      塩路 昌宏（エネルギー科学研究科 教授）
+
+      社会・経済の発展とともに広く普及した自動車について、最近のエンジンの進歩、燃料の多様化、ハイブリッドカーや電気自動車などエコカーの現状等を説明します。
+
+      4 「確率統計からの情報学－デジタルを支えるアナログ」
+
+      田中 利幸（情報学研究科 教授）
+
+      現代におけるデジタル情報の処理や伝送の高性能化には、実は確率統計にもとづくアナログ技術が重要です。アナログがデジタルに役立つ仕組みを簡単な例で解説し、いくつかの応用を紹介します。
+
+      5 「廃棄物からエネルギーを回収しよう！」
+
+      高岡 昌輝（工学研究科 教授）
+
+      廃棄物は日々の生活および産業活動で排出される厄介物ですが、一方で貴重な資源でもあります。さて、廃棄物からどのくらいエネルギーを回収できるでしょうか？'
+  source: https://ocw.kyoto-u.ac.jp/course/337/
+  note: 京都大学OCW 「1 開会挨拶」・「大津 宏康（工学研究科 教授）」・「須田 淳（工学研究科 准教授）」・「塩路 昌宏（エネルギー科学研究科 教授）」・「田中 利幸（情報学研究科 教授）」・「高岡
+    昌輝（工学研究科 教授）」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 須田 淳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 塩路 昌宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 利幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高岡 昌輝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-07-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- engineering
+keywords:
+- エネルギー・地球科学
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

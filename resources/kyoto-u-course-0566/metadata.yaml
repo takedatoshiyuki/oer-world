@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0566
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/566/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「水の物性からエネルギー・化学進化まで」
+description:
+  ja: 京都大学化学研究所で行われた中原勝による最終講義で、水の物性を起点にエネルギーと化学進化までを扱う。講義名から、水に関する物性の話題と、それに続くエネルギーや化学進化のテーマが含まれることが分かる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中原 勝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-03-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 化学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

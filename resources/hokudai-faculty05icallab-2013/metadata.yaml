@@ -1,0 +1,63 @@
+slug: hokudai-faculty05icallab-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty05icallab-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 あつまれメディカルLabサイエンス大好き人間!! 未知なる血液学の世界（2013）
+description:
+  ja: 健康を中心に、医学や検査、生理機能、がん、血液、化学、寄生虫、エイズ、染色体、細菌を関連づけて考える教材である。病気の治療だけでなく、予防や健康維持に関わる視点から、これらのテーマを包括的に捉え直す内容になっている。
+quotedDescription:
+  text:
+    ja: 「メディカルLabサイエンス」という造語からどのようなイメージをもちますか? 医学は病気の治療から予防さらに健康維持へと大きな転換期を迎えています。健康を維持していくためにどのようにしたらよいのか.....私達の健康を脅かすさまざまな要因からその方策を浮き彫りにして行きます。"健康"を中心に"医学"、"検査"、"生理機能、""がん""、""血液""、""化学""、""寄生虫""、""エイズ""、""染色体""、""細菌""を有機的に連結し包括的に捉えなおすことで、私達のライフスタイルについてあらためて考えてみましょう!"
+  source: https://ocw.hokudai.ac.jp/lecture/faculty05icallab-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 政氏 伸夫
+  affiliation:
+    name: 北海道大学大学院保健科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- メディカルLabサイエンス
+- 血液学
+- 幹細胞
+- 医学／保健学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: Further readings'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/FurtherReadings.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty05icallab-2013
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

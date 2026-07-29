@@ -1,0 +1,62 @@
+slug: hokudai-socialriskoftechnology-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/socialriskoftechnology-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 私たちの未来とリスク 福島原発事故からみる科学技術の社会的リスク（2012）
+description:
+  ja: 福島原発事故を手がかりに、科学技術が社会にもたらすリスクと、その管理のあり方を考える講座である。安全規制や「原子力ムラ」、IT技術とロボット技術による無人兵器、遺伝子組み換え食品などを取り上げ、科学技術を社会がどう制御するかを扱う。
+quotedDescription:
+  text:
+    ja: '科学技術は誰のものであり、誰が管理するものなのでしょう。福島原発事故は、人間が科学技術をコントロールしきれず、社会に多大な損害を与えましたが、その原因として安全規制の甘さや「原子力ムラ」の存在が指摘されました。IT技術とロボット技術の発達は、無人兵器を生み出す危険もはらんでいます。遺伝子組み換え食品のように、その技術の危険性がはっきりしていないものもあります。科学技術のリスクを社会はどうコントロールするべきなのでしょうか。
+
+      鈴木　一人
+
+      1993年立命館大学国際関係学部（飛び級のため）中退、英国サセックス大学欧州研究所博士課程修了。Ph.D（現代欧州研究／国際関係）。筑波大学国際総合学類専任講師、助教授を経て、2008年に北大公共政策大学院准教授、2011年に同教授。2012年3月から法学研究科教授。専門は国際政治経済学、科学技術政策。「民間事故調」のWGメンバーとして福島原発事故調査に参画。著書に『宇宙開発と国際政治』（岩波書店）、共著に『EUの規制力』（日本経済評論社）など。'
+  source: https://ocw.hokudai.ac.jp/lecture/socialriskoftechnology-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鈴木 一人
+  affiliation:
+    name: 北海道大学大学院法学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- business_law
+keywords:
+- 北海道大学公開講座
+- 科学技術
+- 福島原発事故
+- 原子力発電所
+- 法律／政治
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 法学研究科／法科大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

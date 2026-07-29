@@ -1,0 +1,87 @@
+slug: utokyo-series-tr8d7ipe6ho4
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=tR8D7ipE6hO4
+type:
+- LearningResource
+- Course
+name:
+  ja: 臨床生命情報学（クリニカルバイオインフォマティクス）
+description:
+  ja: 臨床情報とゲノム情報を対象に、臨床像とgenotypeの関連を扱う講義である。生物統計学、統計遺伝学、情報マネジメントに関わる内容を含み、収集・蓄積したデータを用いたクリニカルインフォメーションシステムの構築にも触れる。
+quotedDescription:
+  text:
+    ja: 'この授業は、文部省人材育成ユニット2003年度公開講座をUT-OCW用に再構築したものです。
+
+      クリニカルバイオインフォマティクス研究ユニットは、循環器病、糖尿病等生活習慣病を対象とした内科学、適切な臨床研究デザイン及び情報マネジメントを行うための学問領域である生物統計学、集められた臨床情報とゲノム情報から、臨床像とgenotypeの関連性を明確にするための学問領域である統計遺伝学、並びにこれら情報収集、マネジメント、評価を効率的かつ効果的に行うための医療上方角が融合した形で構成される。
+
+      本ユニットの核となる東京大学大学院医学系研究科においては、実際の臨床情報及びそれに付随するゲノム情報を収集、蓄積するシステムを有する。このデータを用いた新たなクリニカルインフォメーションシステムの構築を通してプロジェクト方式でユニットの運営を行うとともに、臨床の観点、生物統計学の観点、遺伝学的観点が融合した方法論を平行して習得させ、当該分野における学問領域及び産業界双方における即戦力の人材養成を目的とする。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=tR8D7ipE6hO4
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山崎 憲
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 原 一雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 亨
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 紀子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山崎 力
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小出 大介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大津 洋
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小山 博史
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 医学部・医学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

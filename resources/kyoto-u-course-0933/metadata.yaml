@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0933
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/933/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文科学研究所 国際シンポジウム 「人種神話を解体する－Dismantling the Race Myth」
+description:
+  ja: 本シンポジウムは、人種をめぐる生物学的な見方が否定された後も社会に残る「人種神話」を扱う。見えない人種、科学と社会の共生産、血の政治学を越える混淆という三つの観点から議論し、日本・アジアの経験にも目を向ける。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「人種」は、生物学的概念としての有効性が否定されて久しいが、今日でも社会的には根強く存在する。本シンポジウムでは、国内外からさまざまな分野の研究者を招いて、「見えない人種」の Invisibility,
+      科学と社会の共生産による Knowledge, 「血」の政治学を越えての Hybridity の三つの角度から人種神話の解体を試みる。これまでの人種研究は環大西洋地域の経験に偏重するものであったが、本シンポジウムは日本・アジアの経験を重視しながら「見えないもの」「曖昧な存在」「はざまの領域」に光を当てることにより、人種研究の新たな地平を拓くことを目指す。
+
+       
+
+      主催：京都大学人文科学研究所
+
+      共催：科研基盤（Ｓ）「人種表象の日本型グローバル研究」'
+  source: https://ocw.kyoto-u.ac.jp/course/933/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-12-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人文科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

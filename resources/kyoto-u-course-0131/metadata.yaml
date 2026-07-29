@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0131
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/131/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農産加工学演習Ⅱ, 2011
+description:
+  ja: 受講者が順番に、自作の資料と英語のパワーポイントを用いて発表する演習科目である。発表担当者は、指定日までに発表資料とパワーポイントファイルを準備する。各学生は年に4回発表する。
+quotedDescription:
+  text:
+    ja: '順番に各自が作成した資料やパワーポイント（英語）を用いて発表を行う。
+
+      発表該当者は，当日までに発表に必要な資料とパワーポイントファイルを作成する。
+
+      Since every student is supposed to present four times in a year, Power Point files for presentations
+      should be prepared by the designated dates.'
+  source: https://ocw.kyoto-u.ac.jp/course/131/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 農学研究科
+  term: 通年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: tsukuba-ds-generative-ai-ethics
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/generative-ai-ethics/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 高度なデータの管理と活用：生成AIの基礎と倫理的問題
+description:
+  ja: 生成AIの基礎的な事項を扱い、画像生成や対話のような応用にも触れる講義である。あわせて、生成AIを活用する際に注意すべき倫理的問題を解説する。
+quotedDescription:
+  text:
+    ja: 生成AIの技術が急速な発展により自然な画像の生成や自然な対話を機械によって実現することが可能になり，その利便性により，生成AIを組み込んだシステムを日常的に使用されるようになっている．一方で，そのようなシステムの利用によって倫理的な問題が発生することがある．本講義では生成AIの基礎的な事項と，生成AIを活用する際に注意すべき倫理的問題を解説する．
+  source: https://ocw.tsukuba.ac.jp/data-science/generative-ai-ethics/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 福地 一斗
+  affiliation:
+    name: システム情報系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2025-09-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

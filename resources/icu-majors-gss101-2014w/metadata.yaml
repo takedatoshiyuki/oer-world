@@ -1,0 +1,202 @@
+slug: icu-majors-gss101-2014w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/gss101_2014w
+type:
+- LearningResource
+- Course
+name:
+  ja: Approaches to Gender Studies ジェンダー研究へのアプローチ
+description:
+  ja: ジェンダー研究の基礎にあたる概念や歴史的背景を扱い、さまざまな専門分野におけるジェンダー分析のあり方を見ていく講義である。国際関係、文化人類学、国際法、文学、日本語表現、美術などの題材を通して、ジェンダー研究の広がりを検討する。
+quotedDescription:
+  text:
+    ja: 'As the foundation course of the Program in Gender and Sexuality Studies, the general frameworks,
+      basic concepts, and historical backgrounds of gender studies will be examined. Based on these understandings,
+      the accumulation and possibilities of gender research and analyses in various disciplines will be
+      described and discussed in order for students to obtain the basic analytical power in dealing with
+      gender analysis in interdisciplinary fields.
+
+      ジェンダー研究の基礎科目として必要なジェンダー研究の概要、基本的概念、歴史的背景を理解し，様々な専門分野におけるジェンダー研究の実態を把握し、ジェンダー分析の可能性に関して深く考察する。
+
+      Contents of Lectures
+
+      1
+
+      7
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Dec
+
+      08
+
+      Lecture 1
+
+      イントロ
+
+      生駒・加藤
+
+      Dec 11
+
+      Lecture
+
+      2 GSSとは何か
+
+      生駒・加藤
+
+      Dec 15
+
+      Lecture 3 ジェンダー・セクシュアリティと家族ー親密な関係を規定する構造
+
+      田中 かず子
+
+      Dec 18
+
+      Lecture 4
+
+      グループディスカッション
+
+      Jan 08
+
+      Lecture 5 国際関係とジェンダー
+
+      高松 香奈
+
+      Jan 15
+
+      Lecture 6 文化人類学的とジェンダー : 「他者」へのまなざしとジェンダー・セクシュアリティ
+
+      加藤 恵津子
+
+      Jan 19
+
+      Lecture 7 国際法とジェンダー
+
+      新垣 修
+
+      Jan
+
+      22
+
+      Lecture
+
+      8 グループディスカッション
+
+      Jan 26
+
+      Lecture 9 文学とジェンダー：語りにおけるフェミニズムとジェンダー
+
+      生駒 夏美
+
+      Jan 29
+
+      Lecture 10 ジェンダーと日本語表現
+
+      半田 淳子
+
+      Feb 02
+
+      Lecture 11 身体・言説・ジェンダー
+
+      有元 健
+
+      Feb 05
+
+      Lecture 12
+
+      マルチジェンダーと日本美術
+
+      Miriam Wattles
+
+      Feb 0
+
+      9
+
+      Lecture 1
+
+      3
+
+      グループディスカッション
+
+      Feb 12
+
+      Lecture 14
+
+      ジェンダー研究センターRIAによる講義
+
+      Feb 16
+
+      Lecture 15
+
+      家族への／からのカミングアウト
+
+      三部 倫子
+
+      Feb 19
+
+      Lecture 16
+
+      セクシュアリティ~セックス・ジェンダーを超えて性別を捉える~
+
+      飯田 亮瑠
+
+      Feb 23
+
+      Lecture 17
+
+      グループディスカッション まとめ'
+  source: https://ocw.info.icu.ac.jp/majors/gss101_2014w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 有元健
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 生駒夏美
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 加藤 恵津子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 専攻科目
+- Gender and Sexuality Studies ジ
+- 'GSS101 | Course Schedule: 4*/M, 4*/TH | Update: 2019.10.07'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

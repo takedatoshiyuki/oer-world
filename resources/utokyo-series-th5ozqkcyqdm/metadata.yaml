@@ -1,0 +1,56 @@
+slug: utokyo-series-th5ozqkcyqdm
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=th5OzQkcYQdm
+type:
+- LearningResource
+- Course
+name:
+  ja: 『知の継承（バトン）』東アジアへの⻄欧の知の伝播の研究
+description:
+  ja: 近世ヨーロッパで形成された学問と、その代表例としてのアダム・スミスを手がかりに、西欧の知が東アジア、とくに日本へ伝わる過程を扱う講義である。明治維新以降の日本の近代化における西欧知の受容を軸に、アダム・スミスの受容と新渡戸稲造へのつながりにも触れる。
+quotedDescription:
+  text:
+    ja: '近世ヨーロッパでは、経済学の創始者として有名なアダム・スミスをはじめ、近代の学問を形作る人物が出現した。明治維新以降、日本が近代化する際、それら西欧の知が基礎となった。西欧の知・学問の受容により、日本は、西欧に肩を並べる国になろうとしたのである。
+
+      なかでもアダム・スミスは、西欧の経済成長の秘訣を明らかにしてくれるものとして着目された。その着目が基盤となり、新渡戸稲造は、東京大学所蔵のスミス旧蔵書を…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=th5OzQkcYQdm
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高 哲男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野原 慎司
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

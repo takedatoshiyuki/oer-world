@@ -1,0 +1,59 @@
+slug: hokudai-marineenvironment-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/marineenvironment-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学プロフェッサー・ビジット 海鳥の目から海洋環境を見る（2009）
+description:
+  ja: 海洋、海鳥、地球環境変化の関係を取り上げ、海鳥を手がかりに海洋生態系を考える講義である。海鳥の行動や食性にも触れながら、地球環境変化が海鳥に及ぼす影響を紹介する。
+quotedDescription:
+  text:
+    ja: '地球表面積の３分の２を占める海洋は、気候変化や人間活動の影響を強く受け、また重要な食料を供給してくれます。海鳥は海洋を広く飛び回り、またクジラやアザラシ以上に深く潜って、プランクトンから大形のイカまで多種多様な海洋生物を食べます。地球環境変化が海洋生態系の重要な高次捕食者である海鳥にどのような影響を与えるのかを紹介することで、海洋をよりよく理解していただくのが目的です。
+
+      場所： 札幌大谷高等学校
+
+      日時： 2009年11月7日'
+  source: https://ocw.hokudai.ac.jp/lecture/marineenvironment-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 綿貫 豊
+  affiliation:
+    name: 北海道大学大学院水産科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 水産学
+- 水産学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

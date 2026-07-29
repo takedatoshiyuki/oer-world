@@ -1,0 +1,121 @@
+slug: hokudai-modular-approach-to-reading
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 英語I Modular Approach to Reading(2020)
+description:
+  ja: 読解を通じたコミュニケーションを扱う英語講義の教材で、導入に続いて Unit 1 から Unit 10 までの各回資料が並ぶ。各 Unit では、文法、辞書の使い方、文のつながり、句や代用表現、数字や固有名、推論と世界知識、文化的な要素など、読解に関わる個別の観点を扱う。
+quotedDescription:
+  text:
+    ja: 'Original Video Materials:
+
+      General Introduction: Reading for Communication
+
+      Unit 1 Grammar Matters
+
+      Unit 2 Dictionary Helps
+
+      Unit 3 Sentence Connector (1): The
+
+      Unit 4 Working with Chunks
+
+      Unit 5 Hypothetically Speaking
+
+      Unit 6 Structures Signify
+
+      Unit 7 Sentence Connector (2): Pro-forms and Ellipsis
+
+      Unit 8 Coping with Numbers and Names
+
+      Unit 9 Inference and Knowledge of the World
+
+      Unit 10 Culture Bound - & General Conclusion -'
+  source: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 奥 聡
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: ジェフリー・ゲーマン
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: ジャン・ジュヒョク
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: Script00_General-Introduction_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script00_General-Introduction_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script01_Unit 1_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script01_Unit-1_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script02_Unit 2_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script02_Unit-2_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script03_Unit 3_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script03_Unit-3_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script04_Unit 4_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script04_Unit-4_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script05_Unit 5_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script05_Unit-5_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script06_Unit 6_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script06_Unit-6_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script07_Unit 7_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script07_Unit-7_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script08_Unit 8_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script08_Unit-8_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script09_Unit 9_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script09_Unit-9_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script10_Unit 10_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script10_Unit-10_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+- name: '講義資料: Script11_All Units_rv2022May'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/05/Script11_All-Units_rv2022May.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/modular-approach-to-reading
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

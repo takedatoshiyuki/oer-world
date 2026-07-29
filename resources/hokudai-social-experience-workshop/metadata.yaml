@@ -1,0 +1,75 @@
+slug: hokudai-social-experience-workshop
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/social-experience-workshop
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 社会体験ワークショップ（2022）
+description:
+  ja: 北海道大学が2022年度に開講した「全学教育 社会体験ワークショップ」の教材で、経済学部が担当する。北海道を代表するゲスト企業等10社との対談を通じて、実社会の課題や展望を扱う授業であり、公開資料は講演動画と講義資料の一部からなる。
+quotedDescription:
+  text:
+    ja: '北海道を代表するゲスト企業等10社との対談形式で実社会の課題や展望についてディスカッションを行う「社会体験ワークショップ」を2022年度から開講しました。
+
+      >> 取組紹介動画（北洋銀行YouTubeチャンネル）
+
+      オープンコースウェアでの公開内容は、講演動画3社（北大生とのディスカッションを除く）、講義資料7社と授業の一部ですが、各企業等の取組やゲスト講師の体験談（これまでのキャリアや学んだこと）を中心に、道内企業等の魅力を実感できる内容です。
+
+      ぜひご覧ください！'
+  source: https://ocw.hokudai.ac.jp/lecture/social-experience-workshop
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 平本 健太
+  affiliation:
+    name: 大学院経済学研究院
+- type: Person
+  name: 宇野 健司
+  affiliation:
+    name: 株式会社大和総研／北海道大学非常勤講師
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+- education
+keywords:
+- 社会体験
+- 人生設計
+- キャリア設計
+- 就職活動
+- ビジネス／経済
+- 教育／学習
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 社会体験ワークショップ'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2022/11/social-experience-workshop-poster.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/social-experience-workshop
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

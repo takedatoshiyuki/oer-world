@@ -1,0 +1,64 @@
+slug: kyoto-u-course-0239
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/239/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回「京大おもろトーク： アートな京大を目指して」〜京大解体
+description:
+  ja: 京都の歴史や文化、そしてアートの役割を手がかりに、京都大学がアートの発想を取り入れる試みを扱う。公開教材は鼎談の書き起こしで、第2回のテーマとして「京大解体」を据えている。
+quotedDescription:
+  text:
+    ja: 長い歴史と文化を持つ京都は、同時に常に最先端の動きを取り入れてきた町でもあります。アートはその伝統とモダンをつなぎ、新しい動きを創る力を持っています。いま京都大学はアートの発想を取り入れて、新しく生まれ変わろうとしています。京大おもろトークに参加して、その試みを目撃してみませんか？第2回目のテーマは、「京大解体」です。
+  source: https://ocw.kyoto-u.ac.jp/course/239/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森村 泰昌
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 酒井 敏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大塚 亮真
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 鼎談書き起こし'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_omorotalk2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/239/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,56 @@
+slug: kyoto-u-course-1080
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1080/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎フィールドワーク実習無雪期（芦生研究林 学生実習）
+description:
+  ja: 京都大学が提供する、芦生研究林で行う学生向けの無雪期フィールドワーク実習である。理学研究科とフィールド科学教育研究センターが開講し、石原正恵、柴田泰征、藤原誉が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 石原 正恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 柴田 泰征
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 藤原 誉
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-07-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 自然科学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科, フィールド科学教育研究センター
+  term: 通年集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

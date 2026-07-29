@@ -1,0 +1,59 @@
+slug: icu-gs-qppe508-2014s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/gs/qppe508_2014s
+type:
+- LearningResource
+- Course
+name:
+  ja: International Money and Banking 国際貨幣金融
+description:
+  ja: 貨幣制度と金融制度を対象に、それらが国民経済に及ぼす影響を近代経済理論と経済政策の観点から扱う。授業動画は講義全体ではなく、一部を公開したものである。
+quotedDescription:
+  text:
+    ja: 'Study of monetary and banking systems with special emphasis on their effect on national economy,
+      as developed by modern economic policies and theory.
+
+      貨幣および金融制度とくにその国民経済への影響を近代経済理論および経済政策との関連で扱う。
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/gs/qppe508_2014s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 大学院科目
+- 'QPPE508 | Course Schedule: 1/W,2/W | Update: 2014.10.22'
+audience:
+- student
+educationalLevel:
+- master
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

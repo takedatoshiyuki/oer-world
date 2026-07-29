@@ -1,0 +1,109 @@
+slug: kyoto-u-course-0590
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/590/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物有機化学Ⅰ
+description:
+  ja: 農学部で開講された「生物有機化学Ⅰ」の講義資料を公開する教材である。資料は農薬を導入として、殺虫剤、殺菌剤、除草剤へと内容を進めていく。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 宮川 恒
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中川 好秋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+- agriculture
+keywords:
+- 化学
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 農薬とは（1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第2回 農薬とは（2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第3回 殺虫剤（1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第4回 殺虫剤（2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第5回 殺虫剤（3）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第6回 殺虫剤（4）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第7回 殺虫剤（5）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第8回 殺虫剤（6）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第9回 殺菌剤（1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第10回 殺菌剤（2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第11回 殺菌剤（3）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第12回 除草剤（1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第13回 除草剤（2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第14回 除草剤（3）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 第15回 除草剤（4）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 試験問題 2004年度'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/ecce2ef2d8ae36f96acc4124efcebdad.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+- name: '講義資料: 試験問題 2011年度'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_seibutsuyuukikagaku-1-exam_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/590/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

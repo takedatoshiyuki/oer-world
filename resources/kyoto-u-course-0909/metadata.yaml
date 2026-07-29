@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0909
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/909/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第9回京都大学学術情報メディアセンターシンポジウム 「カルチュラル・コンピューティング」－日本文化ソフトのグローバルコミュニケーション創造力－
+description:
+  ja: 京都大学学術情報メディアセンターが担当するシンポジウムで、「カルチュラル・コンピューティング」と「日本文化ソフトのグローバルコミュニケーション創造力」を扱う。日本語で提供され、2010-03-18に開講された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-03-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

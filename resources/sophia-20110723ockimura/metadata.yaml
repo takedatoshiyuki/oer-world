@@ -1,0 +1,63 @@
+slug: sophia-20110723ockimura
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110723ockimura/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「3.11」から日本とドイツを比べる
+description:
+  ja: 2011年度に上智大学外国語学部ドイツ語学科で開講された講義で、日本とドイツを「3.11」を手がかりに比較する内容を扱う。公開教材として講義資料が5件用意されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 木村 護郎クリストフ
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20110723ockimura_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110723ockimura_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110723ockimura/
+- name: '講義資料: 20110723ockimura_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110723ockimura_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110723ockimura/
+- name: '講義資料: 20110723ockimura_03.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110723ockimura_03.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110723ockimura/
+- name: '講義資料: 20110723ockimura_04.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110723ockimura_04.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110723ockimura/
+- name: '講義資料: 20110723ockimura_05.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110723ockimura_05.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110723ockimura/
+extensions:
+  faculty: 外国語学部 ドイツ語学科
+  term: 2011年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

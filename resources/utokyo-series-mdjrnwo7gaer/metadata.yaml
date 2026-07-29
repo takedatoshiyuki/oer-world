@@ -1,0 +1,52 @@
+slug: utokyo-series-mdjrnwo7gaer
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=MdjrnWo7GAER
+type:
+- LearningResource
+- Course
+name:
+  ja: 東洋文化研究所公開講座 第19回 アジアの働
+description:
+  ja: インドネシア、フィリピン、ベトナムからEPAの枠組みで看護師らを受け入れる制度を題材に、日本で働く人々の経験を取り上げる講義である。日本の医療・福祉の現場や制度への見方に加え、生活上の課題、日本語学習、家族生活、将来の進路までを扱う。他国で働く場合との比較も含めて、日本で働くことの位置づけを考える。
+quotedDescription:
+  text:
+    ja: 'インドネシア、フィリピン、ベトナムから、経済連携協定（EPA）の枠組みで、看護師らを受け入れる制度が始まってから10年。
+
+      彼らは高齢化社会日本の医療や福祉の現場・制度をどのように見ているのか。日本での暮らしやすさ・暮らしにくさは何か。日本語習得は何が難しいのか。結婚、子育て、親の介護はどうしているのか。どのようなキャリアパスを描いているのか。他の国で働く場合と比べた時の日本のメリット・デメリットは何か…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=MdjrnWo7GAER
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 米野 みちよ
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

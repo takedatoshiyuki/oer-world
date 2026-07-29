@@ -1,0 +1,66 @@
+slug: sophia-20110427lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110427lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 災害時のこころのケア（英語版）
+description:
+  ja: 災害後に人が示しうる反応を取り上げ、その対処法や、被災者を支援する方法を扱う。あわせて、リラクゼーション技法の実演も含む。
+quotedDescription:
+  text:
+    ja: "Disaster Mental Health Care \n Psychological education on what reactions people can experience\
+      \ after the disaster, how to cope with them, how to help those who have been affected, and demonstration\
+      \ of relaxation techniques."
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110427lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 佐々木 清子
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: クスマノ ジェリー
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 110427lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110427lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110427lecture/
+- name: '講義資料: 110427lecture_si1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110427lecture_si1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110427lecture/
+- name: '講義資料: 110427lecture_si2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110427lecture_si2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110427lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2011/04/27
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

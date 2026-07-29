@@ -1,0 +1,56 @@
+slug: hokudai-renewableenergy-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/renewableenergy-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 私達と自然エネルギーの未来(2010)
+description:
+  ja: 化石エネルギーの燃焼と地球温暖化の関係を取り上げ、温暖化の見方についても触れながら、再生可能エネルギーの利用を考える講義である。市民レベルでの風力発電の事例を紹介しつつ、太陽エネルギーを中心とする利用形態と、その有効性や炭酸ガス削減との関わりを扱う。
+quotedDescription:
+  text:
+    ja: '今日ほとんどの人が化石エネルギ－の燃焼に伴う炭酸ガス排出によって地球温暖化が深刻化することに強い危惧を持っています。地球温暖化のシナリオが、地球環境の数学モデルとして妥当性あるのかどうかは、必ずしも研究者間では一致してはいません。しかしこのままエネルギー消費が指数関数的に継続増大すれば、間違いなく温暖化が到来することは異論のないところです。
+
+      このセミナーでは市民レベルで設置した風力発電システムの経験談などを紹介し、太陽エネルギーを中心とする再生可能なエネルギ－利用の種類とその有効性或いは実効性を探ってみます。同時に私達の生活環境で炭酸ガス削減にどう係わるかなどを一緒に考えてみたいと思います。'
+  source: https://ocw.hokudai.ac.jp/lecture/renewableenergy-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 伊藤 雄三
+  affiliation:
+    name: 元北海道大学情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

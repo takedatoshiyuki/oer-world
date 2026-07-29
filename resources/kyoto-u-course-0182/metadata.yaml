@@ -1,0 +1,91 @@
+slug: kyoto-u-course-0182
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/182/
+type:
+- LearningResource
+- Course
+name:
+  ja: Javaによるプログラミング入門
+description:
+  ja: Javaを使ったプログラミング入門の講義資料と参照コードをまとめた教材で、基礎文法から制御構造、メソッド、APIの利用までを順に扱う。さらに、オブジェクト指向の基礎概念、クラスの整理、入力処理や例外処理まで進み、写経型実習を通して学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      興味を持つ人は多いが、一人で取り組むには敷居が高いプログラミング。本講習では写経型実習を通してそれに親しみ、オブジェクト指向の基礎概念の理解を目指す。
+
+      授業の紹介
+
+      プログラミングというと、「面白そうだ、役に立ちそうだ」「でも、難しそうだし、どうやって勉強したらいいのか分からない」という方は多いはずです。本講習では、中身を完全に理解できなくとも実際にプログラムを打ち込んで実行する写経型実習によって、プログラムに親しんでもらい、“最初の一歩”
+      を踏み出すお手伝いを狙います。基礎的な文法と概念を学んだあと、最大の難関となる “オブジェクト指向” について、具体的な例と実習によって理解してもらうことを目指します。'
+  source: https://ocw.kyoto-u.ac.jp/course/182/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 池田 心
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- その他
+audience:
+- general_public
+materials:
+- name: '講義資料: 参照用のプログラミングコード ( java ファイルを zip 圧縮したもの )'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/samplecode.zip
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第１回 はじめに'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第２回 Javaの学習環境を作ろう'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第３回 代入式と変数'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第４回 制御構造と配列'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第５回 メソッド、オブジェクト、クラス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第６回 APIの利用'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第７回 オブジェクト指向のモデル構成'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第８回 クラスをまとめる'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+- name: '講義資料: 第９回 入力の処理と例外の処理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Javaによるプログラミング入門_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/182/
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

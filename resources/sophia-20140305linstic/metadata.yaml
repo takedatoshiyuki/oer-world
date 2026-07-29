@@ -1,0 +1,49 @@
+slug: sophia-20140305linstic
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140305linstic/
+type:
+- LearningResource
+- Course
+name:
+  ja: ノーム・チョムスキー教授講演会 The Architecture of Language Reconsidered 「言語の構成原理再考」・Capitalist Democracy and the
+    Prospects for Survival 「資本主義的民主制の下で人類は生き残れるか」
+description:
+  ja: ノーム・チョムスキーによる講演会で、講演題目は言語の構成原理を見直す内容と、資本主義的民主制の下での人類の存続可能性を扱う内容の2本からなる。上智大学の国際言語情報研究所が2013年度に開講し、2014年3月5日から6日にかけて日本語で行われる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: ノーム
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: チョムスキー
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 国際言語情報研究所
+  term: 2014/3/5-6
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

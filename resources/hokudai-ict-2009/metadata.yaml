@@ -1,0 +1,127 @@
+slug: hokudai-ict-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/ict-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開講座 ICT活用教育セミナー（2009）
+description:
+  ja: eラーニングやICTを用いた教育の導入事例、活用方法、LMSの利用を扱う公開講座である。ブレンディッドラーニング、初習外国語教育のシステム、ELMS、Moodleなどの話題を通して、ICT活用教育の内容を具体的に取り上げる。インストラクショナルデザインの視点からICTの効果についても説明する。
+quotedDescription:
+  text:
+    ja: '【概要】
+
+      近年、情報コミュニケーション技術（ICT）の発達や高等教育の国際化の進展がめざましく、これに伴い、欧米諸国をはじめ韓国やシンガポール等のアジアでもｅラーニング等のICTを活用した教育の導入や普及が進んでいます。
+
+      我が国においても「IT新改革戦略」でインターネット等を用いた遠隔教育を行う学部・研究科の割合を２倍以上にする目標を掲げ、文部科学省においても特色GP・現代GP、そして教育GP等により遠隔教育への取組支援を推進しています。
+
+      こうした状況の中、大学等の高等教育機関では、教育内容の高度化・多様化への要請や限られた人材・予算の中で効果的な教育の実施が求められており、これに対応するためｅラーニング等のICTを活用した教育を推進する人材養成の必要性が高まっています。
+
+      そこで、本セミナーでは、eラーニングの活用方法や、eラーニングの活用事例、eラーニングを支えるLMS（Learning Management System）の活用方法などを紹介し、また、インストラクショナルデザインの視点からみたICTの効果について説明します。
+
+      これらを地域のICT活用教育の導入や推進に役立てていただきたいと思います。
+
+      主催： 北海道大学、 放送大学
+
+      協力： 北海道地区FD・SD推進協議会
+
+      北海道大学学術交流会館
+
+      2010年2月4日
+
+      【プログラム 】
+
+      13:05-13:10　　開会挨拶
+
+      脇田 稔 （北海道大学）
+
+      13:10-14:10　　ｅラーニング活用によるブレンディッドラーニング
+
+      仲林 清 （放送大学）
+
+      14:10-14:25　　初習外国語教育のITコンピュータラーニングシステムについて
+
+      伊藤 直哉 （北海道大学）
+
+      14:25-14:40　　ラーニング（コース）マネージメントシステム『ELMS（エルムス）』について
+
+      布施 泉 （北海道大学）
+
+      14:40-14:55　　休憩
+
+      14:55-15:10　　ラーニング（コース）マネージメントシステムのフリーソフト『Moodle（ムードル）』の活用について
+
+      山田 邦雅 （北海道大学）
+
+      15:10-16:00　　ICT活用の効果
+
+      内田 実 （放送大学）
+
+      16:00-16:20　　全体質疑応答
+
+      16:20　　　　　　閉会挨拶'
+  source: https://ocw.hokudai.ac.jp/lecture/ict-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 脇田 稔
+  affiliation:
+    name: 北海道大学歯学研究科
+- type: Person
+  name: 仲林 清
+  affiliation:
+    name: 放送大学ICT活用・遠隔教育センター
+- type: Person
+  name: 伊藤 直哉
+  affiliation:
+    name: 北海道大学メディア・コミュニケーション研究院
+- type: Person
+  name: 布施 泉
+  affiliation:
+    name: 北海道大学情報基盤センター
+- type: Person
+  name: 山田 邦雅
+  affiliation:
+    name: 北海道大学高等教育推進機構
+- type: Person
+  name: 内田 実
+  affiliation:
+    name: 放送大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- ICT
+- eラーニング
+- ELMS
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 情報基盤センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

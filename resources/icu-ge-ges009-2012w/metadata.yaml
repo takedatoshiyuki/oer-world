@@ -1,0 +1,68 @@
+slug: icu-ge-ges009-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges009_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Debates in International Relations Ｓ１：国際関係ディベート'
+description:
+  ja: 国際関係論の基本的な理論を概観し、その知識を踏まえて日本の国際関係をめぐる現在の論点を政策ディベートで扱う教材である。理論の理解だけでなく、討論を通じてそのロジックを用いる構成になっている。
+quotedDescription:
+  text:
+    ja: 'Based on the basic knowledge of contending theories of international relations reviewed in the
+      course, students are encouraged to develop their critical thinking skills through policy debate
+      on the current topics of Japan’s international relations.
+
+      国際関係論の主要な理論を概観し基本的な知識を習得する。その理論をもとに討論を通じて国際関係理論のロジックを実践的に身につける。
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/ges009_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 毛利勝彦
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES009 | Course Schedule: 4*/M, 4*/TH | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1JWQ-BlzOOl_LQgHTdeeC5BvaXPyXE7Ri/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges009_2012w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

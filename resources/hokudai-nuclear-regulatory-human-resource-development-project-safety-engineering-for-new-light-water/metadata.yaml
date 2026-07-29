@@ -1,0 +1,83 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-safety-engineering-for-new-light-water
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「新型軽水炉安全工学」
+description:
+  ja: 原子力安全マネジメントの原理原則を、安全論理との関係の中で整理する講義資料である。放射線安全、プラントや環境における安全の考え方、リーダーシップとマネジメント、規制基準の基盤となる安全論理、深層防護に基づく安全設計の具体例までを扱う。
+quotedDescription:
+  text:
+    ja: "新型軽水炉安全工学\n原子力安全マネジメントの基本となっている原理原則を他の分野における安全論理との関係の中で理解する。\n原子力・放射線に限らず、安全関係の実務に直面したときに、ルールや慣習が「なぜ、そのように決まっているのか」を推論できる能力を身に着ける。\n\
+      \ \n■講義内容\n \n「新型軽水炉安全工学」の教材は全てCC BY-NCのライセンスで公開しています。\n \n講義１：安全と工学\n \n講義２：放射線安全の原則\n \n講義３：プラントにおける安全の論理\n\
+      \ \n講義４：環境における安全の論理と廃棄物\n \n講義５：リーダーシップとマネジメント\n \n講義６：規制基準の基盤となる安全論理（1/2）\n \n    規制基準の基盤となる安全論理（2/2）\n\
+      \ \n講義７：深層防護別にみる安全設計の具体例（1/2）\n \n    深層防護別にみる安全設計の具体例（2/2）"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 村上 健太
+  affiliation:
+    name: 東京大学 大学院工学系研究科 レジリエンス工学研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 原子力安全
+audience:
+- student
+materials:
+- name: '講義資料: 講義１：安全と工学'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture01_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 講義２：放射線安全の原則'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture02_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 講義３：プラントにおける安全の論理'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture03_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 講義４：環境における安全の論理と廃棄物'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture04_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 講義５：リーダーシップとマネジメント'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture05_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 講義６：規制基準の基盤となる安全論理（1/2）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture06_01_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 規制基準の基盤となる安全論理（2/2）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture06_02_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 講義７：深層防護別にみる安全設計の具体例（1/2）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture07_01_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+- name: '講義資料: 深層防護別にみる安全設計の具体例（2/2）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/05/Nuclear-Regulatory-Human-Resource-Development-Project_Lecture07_02_Safety-engineering-for-new-light-water-reactor_RERC_Kenta-MURAKAMI_N.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project_safety-engineering-for-new-light-water-reactor_rerc_kenta-murakami
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

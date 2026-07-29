@@ -1,0 +1,56 @@
+slug: utokyo-series-uzoydxbsenrn
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=UZOYDxbSenRn
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本経済思想史
+description:
+  ja: この教材は、経済学説史と経済思想史の違いを手がかりに、慣習や行動、制度の中に埋め込まれた「経済観念」を考える。そこから、経済学の基礎概念を相対化し、経済史学の歴史的分析や歴史認識との関係を扱う。
+quotedDescription:
+  text:
+    ja: 経済学説史が学問としての経済学の理論の変遷を追いかけるのに対して、経済思想史は、人々の慣習や行動、制度の中に埋め込まれている考え方＝「経済 観念」を明らかにすることを通して、経済学の分析の基礎となっている概念を相対化し、歴史的な分析＝経済史学研究によりリアルな分析道具を提供することに
+      よって歴史認識を豊富化させ、ひいては経済学そのものにも基礎的な考え方に見直しを求め得るという役割を担う。
+  source: https://ch.u-tokyo.ac.jp/series/?id=UZOYDxbSenRn
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 武田 晴人
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 経済学部・経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

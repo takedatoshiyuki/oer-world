@@ -1,0 +1,55 @@
+slug: hokudai-hokkaidoandjapaninasia5-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/hokkaidoandjapaninasia5-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 アジアのなかの日本・北海道 第5回 土─地球の皮膚─を守る農業（2011）
+description:
+  ja: 地球表面の土の厚さや、食料生産に使われる土の割合を手がかりに、土壌の役割を扱う講義である。あわせて、20世紀以降に進む土壌劣化と、その具体的な現象を取り上げる。さらに自然の土の生成を見ながら、土を守る農業のあり方を考える。
+quotedDescription:
+  text:
+    ja: 地球表面を取り巻く土の平均の厚さは18cm、地球半径の3500万分の1でしかありません。その10％を使って食料を生産しています。しかし、20世紀に入り世界中でつぎつぎと土壌劣化が顕在化し、食料生産への影響のみならず、土壌侵食、砂漠化、塩類化、アルカリ化、酸性化、土壌踏圧など環境への影響が懸念されています。自然の土の生成をみながら、土を守り環境を守る農業を考えます。
+  source: https://ocw.hokudai.ac.jp/lecture/hokkaidoandjapaninasia5-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 波多野 隆介
+  affiliation:
+    name: 農業研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

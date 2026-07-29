@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0109
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/109/
+type:
+- LearningResource
+- Course
+name:
+  ja: 有機化学Ⅴ
+description:
+  ja: 化合物の化学構造に関する物理化学的パラメーターを用いて、生理活性の変化を統計的に解析するQSARを扱う講義である。Hammett則やクラシカルQSAR（Hansch-Fujita法）を基礎に、立体・電子的・疎水性パラメーターの意味や推算方法、解析上の注意点、応用例までを説明する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      化合物の化学構造に関する物理化学的パラメーターを用いて，さまざまな生理活性の変化を統計的に解析する定量的構造活性相関 (QSAR)の手法およびその応用例について概説する．この手法は，医農薬のデザインにおいてきわめて有用であり，世界中で広く用いられている．
+
+      授業の紹介
+
+      QSARの基礎といえるHammett則およびクラシカルQSARの手法（Hansch-Fujita法）について講義を行う．具体的には，クラシカルQSARにおいて使用される立体，電子的，疎水性パラメーターの説明，それらの物理化学的意味，疎水性パラメーターの推算方法，活性化合物の解析において注意すべきこと，クラシカルQSARの実例とその意味，それ以外のQSAR手法などについて説明する．'
+  source: https://ocw.kyoto-u.ac.jp/course/109/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 赤松 美紀
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: #1 QSARに用いるパラメーター'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_yuukikagaku-5_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/109/
+- name: '講義資料: #2 疎水性パラメーターとその推算方法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_yuukikagaku-5_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/109/
+- name: '講義資料: #3 QSARの応用例Ⅰ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_yuukikagaku-5_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/109/
+- name: '講義資料: #4 QSARの応用例Ⅱ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_yuukikagaku-5_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/109/
+- name: '講義資料: 試験問題（2004年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_yuukikagaku-5-exam_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/109/
+- name: '講義資料: 試験問題（2006年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_yuukikagaku-5-exam_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/109/
+extensions:
+  faculty: 薬学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0260
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/260/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営管理大学院 情報学ビジネス実践講座 特別セミナー「AI時代に求められる学びとは」
+description:
+  ja: AI時代に必要とされる学びを主題に、大学生が身に付けるべきリテラシーを考える特別セミナーである。新井紀子と山極壽一の対談に加え、銀行と航空の現場からITに関わる講演を行い、社会の変化と教育の接点を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      AI時代に求められる学びをテーマに、「AI VS 教科書が読めない子どもたち」著者の新井教授と山極総長の対談を行います。また銀行と航空会社の２社からITに携わる経営者をお招きしてご講演頂きます。いまの社会を読み解くと共に、世界の未来を担う大学生が身に付けるべきリテラシーについて理解を深めることを狙いとします。
+
+       
+
+      プログラム
+
+      1.「開会の挨拶」
+
+      阿曽沼 慎司（京都大学理事）
+
+      2. 特別対談
+
+      「ゴリラ、AI、そして人間 ～現代人の読み書きソロバンを考える～」
+
+      山極 壽一 京都大学総長 × 新井 紀子 国立情報学研究所教授 対談
+
+      （司会：原 良憲 京都大学経営管理大学院院長・教授）
+
+      著書「AI vs. 教科書が読めない子どもたち」でAIの限界を指摘し、読解力の大切さを指摘した新井氏と、ゴリラ研究の第一人者にして京都大学運営のトップに立つ山極総長。全く違う立場から教育に携わるお二人の視点から、いまの時代をひも解くとともに、日本の未来を担う大学生が身に付けるべきリテラシーについて理解を深める。
+
+      3. 企業からの講演
+
+      ・「デジタルが支え進化させる銀行」
+
+      谷崎 勝教（ ㈱三井住友フィナンシャルグループ CDIO・㈱日本総合研究所 代表取締役社長）
+
+      ・「ITが変えるエアラインの未来」
+
+      荒牧 秀知（ANAシステムズ ㈱ 代表取締役社長）
+
+      4. 「閉会の挨拶（情報学ビジネス実践講座提供の教育プログラムの説明）」
+
+      若林 靖永（経営管理大学院教授）'
+  source: https://ocw.kyoto-u.ac.jp/course/260/
+  note: 京都大学OCW 「概要」・「プログラム」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 阿曽沼 慎司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 新井 紀子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 谷崎 勝教
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 荒牧 秀知
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 若林 靖永
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-04-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 経営学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経営管理大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,56 @@
+slug: sophia-20201121lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20201121lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第10回上智大学全国高校生英語弁論大会ジョン・ニッセル杯
+description:
+  ja: 全国から集まった高校生が英語弁論を行う大会の本選を扱う。大会テーマは “Breaking the Chains that Bind Us” で、応募者294人の中から一次審査を通過した20人が参加する。本年度は学内での本選を行わず、ビデオ映像による審査で入賞者と英検賞の受賞者を決定する。
+quotedDescription:
+  text:
+    ja: "第10回を迎える今回の大会テーマは、“Breaking the Chains that Bind Us”。294人の応募者のなかから厳しい一次審査を通過した20人の高校生が全国から集まり、自分自身の経験や様々な視点から、深く考え抜かれたスピーチを豊かな表現力で披露しました。\
+      \ \n 本年度はコロナウィルス感染防止のため学内での本選は行わず、ビデオ映像による審査となりました。審査の結果、下記の1位から6位の入賞者が選ばれました。また、10周年を記念して新設された英検賞が、1名の出場者に贈られました。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20201121lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 言語教育研究センター
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 外国語学部英語学科
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 言語教育研究センター/外国語学部英語学科
+  term: 2020/11/21
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

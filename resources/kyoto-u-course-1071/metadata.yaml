@@ -1,0 +1,56 @@
+slug: kyoto-u-course-1071
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1071/
+type:
+- LearningResource
+- Course
+name:
+  ja: '防災研究所 第48回総合防災セミナー“A connector for ‘all of society engagement’: revisiting the case of Kuroshio
+    Town”'
+description:
+  ja: 京都大学防災研究所が開講した総合防災セミナーで、北川香が担当する。テーマは「all of society engagement」に関わるもので、Kuroshio Townの事例を再検討する内容である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北川 香（University College London
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 准教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-10-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- health_welfare
+- arts_humanities
+keywords:
+- 社会貢献
+- 安全・衛生
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

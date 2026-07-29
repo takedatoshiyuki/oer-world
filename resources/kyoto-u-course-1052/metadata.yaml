@@ -1,0 +1,49 @@
+slug: kyoto-u-course-1052
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1052/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'SPH Short Course : Getting the Best Out of Computerized Health Data'
+description:
+  ja: 京都大学の医学研究科で開講された、Liam Smeeth担当の英語講義である。講義名から、コンピュータ化された健康データを扱う短期講座であることが読み取れる。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Liam Smeeth
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-07-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- ict
+keywords:
+- 安全・衛生
+- 医学
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

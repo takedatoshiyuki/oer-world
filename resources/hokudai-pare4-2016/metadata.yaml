@@ -1,0 +1,99 @@
+slug: hokudai-pare4-2016
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/pare4-2016
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 PAREプログラム PARE基礎論IV（2016）
+description:
+  ja: 北海道大学のPAREプログラムで用いる英語教材で、持続可能な開発に向けた強靭化と転換をテーマにした基礎論IVの映像を収録する。海洋生態系、社会正義、生物多様性と生態系サービス、グリーン成長と経済変革を扱い、授業前の予習用として使う。
+quotedDescription:
+  text:
+    ja: 'PARE（Population Activities Resources Environments）プログラムは、国・文化・専門分野が異なる学生と共に学び、アジアの「人口・活動・資源・環境」に関する様々な問題を解決し、アジアの発展に主導的な役割を果たすことができるフロンティア人材の育成のため、北海道大学とインドネシア・タイの協定校が大學教育コンソーシアムを設立し共同で運営しているプログラムです。将来、研究者、技術者として化石資源、金属資源、水資源、土地資源、海洋資源の持続的利用に従事する者を対象に、これまでの諸資源の利用に伴う環境問題、社会問題との連関、その改善、監視に資する技術とその適用効果について理解を深めるとともに、将来展望を描くことを目標としています。
+
+      本プログラムは「基礎科目」「発展科目」「専門科目」と大きく区分され、全て英語で行われます。
+
+      PARE課題の解決の基礎力となる基礎論Iでは「人間の活動と環境負荷」、基礎論IIでは「食料・環境・健康の連環」、基礎論IIIでは「資源の開発と管理」をテーマに講義が行われますが、ここでは基礎論IV「持続可能な開発に向けて：強靭化と転換」の映像をご紹介します。
+
+      基礎論IV「持続可能な開発に向けて：強靭化と転換」
+
+      ※PARE基礎論では、授業に参加する前にeラーニングで基礎知識を習得する「反転授業」を採用しています。公開中のビデオは、授業にむけた予習用教材です。
+
+      第1回　Idea on Sustainability of Marine Ecosystem （藤井賢彦）
+
+      第2回　Conversation and Social Justice （笹岡正俊）
+
+      第3回　Biodiversity and Ecosystem Service （Alice Sharp）
+
+      第4回　Green Growth and Economic Transformation （吉田文和）'
+  source: https://ocw.hokudai.ac.jp/lecture/pare4-2016
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 賢彦
+  affiliation:
+    name: 北海道大学大学院地球環境科学研究院
+- type: Person
+  name: 笹岡 正俊
+  affiliation:
+    name: 北海道大学大学院文学研究科
+- type: Person
+  name: Alice Sharp
+  affiliation:
+    name: タマサート大学
+- type: Person
+  name: 吉田文和
+  affiliation:
+    name: 愛知学院大学／北海道大学
+- type: Person
+  name: Henny Osbar
+  affiliation:
+    name: リーディング大学
+- type: Person
+  name: Sumardjo
+  affiliation:
+    name: ボゴール大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+- agriculture
+keywords:
+- 人口
+- 人間活動
+- 資源
+- 環境
+- 土地
+- 河川
+- 工学／情報
+- 水産学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 公共政策大学院／公共政策学教育部／公共政策学連携研究部
+  targetAudience: 大学院（修士・専門職）専門科目、大学院共通授業科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

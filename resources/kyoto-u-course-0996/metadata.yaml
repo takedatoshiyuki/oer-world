@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0996
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/996/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】“立ち止まって、考える” – 連続講義（4）地域研究・メディア学　メディアとコミュニティ―東南アジアから考える
+description:
+  ja: 東南アジアを題材に、自然災害、独立・建国、大量移住などで社会の秩序が変化した場面を取り上げる講義である。そこで人びとが問題を解決し、社会のまとまりを育ててきた過程を通じて、地域や時代の特性を踏まえて情報を読み解くことを考える。
+quotedDescription:
+  text:
+    ja: '社会的距離を意識した生活が続く一方で、互いに面識がなく実際に会うこともまずないであろう人どうしがオンラインでコミュニケーションをとる機会が増えている。情報技術の発達によって言葉の壁もある程度乗り越えられつつあり、そうであるからこそ情報をどう解釈するかがますます大切になる。多民族・多言語・多宗教の人びとが暮らす東南アジアでは、考え方や生活習慣が互いに異なる隣人どうしが社会を作る工夫と努力を重ねてきた。この講義では、自然災害、独立・建国、大量移住などによって社会の秩序が大きく変わったときに、東南アジアの人びとがどのように問題を解決して社会のまとまりを育ててきたのかを紹介することを通じて、地域や時代の特性を踏まえて情報を読み解くことの意義について考えてみたい。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/1669/'
+  source: https://ocw.kyoto-u.ac.jp/course/996/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山本 博之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

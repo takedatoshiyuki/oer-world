@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0904
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/904/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「深海の調査と人の暮らし－地震・資源・生命調査の最前線」
+description:
+  ja: 深海を対象に、地震・津波災害の研究、資源、生命誕生の謎を扱う講義である。映像を用いて深海調査の様子を示しながら、深海と人の暮らしの関わりを考える。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      前人未到のフロンティア「深海」はロマンの宝庫ですが、陸に住む私たち人間にとっては縁遠い存在になりがちです。でも本当に「縁遠い」のでしょうか？深海には地震・津波災害の研究最前線があり、新たな資源が潜んでいます。さらに生命誕生の謎も埋もれているのです。本講義では深海調査の様子について映像を交えてご紹介しつつ、深海と人の暮らしの関わりについて考えてみたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/904/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 後藤 忠徳
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-09-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

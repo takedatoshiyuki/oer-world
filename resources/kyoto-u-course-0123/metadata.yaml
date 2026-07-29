@@ -1,0 +1,109 @@
+slug: kyoto-u-course-0123
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/123/
+type:
+- LearningResource
+- Course
+name:
+  ja: 自然現象と数学
+description:
+  ja: この教材は、自然現象を数学で扱う講義の資料群で、微分方程式の基礎、近似と誤差、数値計算に使う関数電卓やOctave、正弦波の電力と複素電力などを扱う。第0回、第2回、第9-10回の講義資料に加え、関連する補助資料が公開されている。
+quotedDescription:
+  text:
+    ja: '天野 晃 (情報学研究科)
+
+      北野 正雄 (工学研究科)
+
+      佐藤 亨 (情報学研究科)
+
+      長崎 百伸 (エネルギー理工学)
+
+      久門 尚史 (工学研究科)
+
+      和田 修己 (工学研究科)'
+  source: https://ocw.kyoto-u.ac.jp/course/123/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 天野 晃
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北野 正雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐藤 亨
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 長崎 百伸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 久門 尚史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 和田 修己
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第0回 答を見る前に（自然現象と数学工学部電気電子工学科2007年度版より抜粋）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_shizengenshoutosuugaku_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/123/
+- name: '講義資料: 第2回 微分方程式－入門編（自然現象と数学工学部電気電子工学科2007年度版より抜粋）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_shizengenshoutosuugaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/123/
+- name: '講義資料: 第9-10回 大きなキャパシタの計測（自然現象と数学工学部電気電子工学科2007年度版より抜粋）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_shizengenshoutosuugaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/123/
+- name: '講義資料: 近似とその誤差'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_shizengenshoutosuugaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/123/
+- name: '講義資料: 微分方程式超入門'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_shizengenshoutosuugaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/123/
+- name: '講義資料: 関数電卓と Octave のすすめ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_shizengenshoutosuugaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/123/
+- name: '講義資料: 正弦波の電力ーすなわち複素電力について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_shizengenshoutosuugaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/123/
+extensions:
+  faculty: 工学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

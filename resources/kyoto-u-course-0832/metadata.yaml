@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0832
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/832/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第14回湯川記念財団・木村利栄理論物理学賞受賞記念講演「カイラル磁気効果:発見と批判そして統合へ」
+description:
+  ja: 第14回湯川記念財団・木村利栄理論物理学賞の受賞記念講演で、福嶋健二による受賞業績「カイラル磁気効果の理論的研究」の解説を扱う。カイラル磁気効果を題材に、受賞研究の内容を紹介する。
+quotedDescription:
+  text:
+    ja: 第14回湯川記念財団・木村利栄理論物理学賞受賞者の福嶋健二氏（東京大学大学院理学系研究科物理学専攻・教授）による、受賞業績「カイラル磁気効果の理論的研究」の解説
+  source: https://ocw.kyoto-u.ac.jp/course/832/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 福嶋 健二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-01-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0660
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/660/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「ベルサイユ体制下の独仏経済関係とドイツ通商政策－現代EU経済・日本経済の把握への意義－」
+description:
+  ja: ベルサイユ体制下の独仏経済関係と、ドイツの通商政策を扱う講義である。あわせて、その検討が現代EU経済と日本経済を把握するうえでどう位置づくかを論じる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 今久保 幸生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

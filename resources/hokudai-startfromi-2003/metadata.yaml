@@ -1,0 +1,99 @@
+slug: hokudai-startfromi-2003
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/startfromi-2003
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 数学概論A 愛ではじまる微積分（2003）
+description:
+  ja: 複素数 i を用いる見方から微積分を捉え直し、複素数平面やべき級数、指数関数、オイラーの公式へと話を進める。さらに、線積分と留数、コーシーの積分定理、フーリエ級数まで扱い、既習の微積分と現代数学の基礎・応用を結びつける構成である。
+quotedDescription:
+  text:
+    ja: '【講義概要】
+
+      複素数 "i" を使った微積分の立場から，既習の微積分をもう一度見直し，現代数学の基礎と応用を概観する．
+
+      なお，題名の「愛」は，言うまでもなく複素数 "i"(アイ)にかけた駄洒落だが，ややもすると無味乾燥に見えてしまう微積分が、複素数 "i" を使うことによって見通しが良くなり面白く感じられ，学生諸氏が少しでも数学を好きになってくれれば良いな，という願いもこめたネーミングである．
+
+      「数理のこころを知りたいならば，愛で始めよ微積分」
+
+      【スケジュール】
+
+      1.  "i" と複素数
+
+      2.  複素多項式
+
+      3.  複素数平面
+
+      4.  べき級数
+
+      5.  指数関数
+
+      6.  オイラー(Euler)の公式
+
+      7.  円周率再論
+
+      8.  三角関数再論
+
+      9.  収束半径
+
+      10. 項別微分
+
+      11. 実関数の微分学再論
+
+      12. 線積分と留数
+
+      13. コーシー(Cauchy)の積分定理
+
+      14. 実関数の積分学再論
+
+      15. フーリエ(Fourier)級数'
+  source: https://ocw.hokudai.ac.jp/lecture/startfromi-2003
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石川 剛郎
+  affiliation:
+    name: 北海道大学大学院理学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 複素数，べき級数，正則関数，フーリエ級数
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 全講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/StartFromI-2003-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/startfromi-2003
+extensions:
+  faculty: 理学部
+  targetAudience: 2年生 教育学部，理学部，医学部，薬学部，工学部，農学部，水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

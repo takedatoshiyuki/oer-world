@@ -1,0 +1,52 @@
+slug: sophia-20120425sea63100
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120425sea63100/
+type:
+- LearningResource
+- Course
+name:
+  ja: システム解析の基礎／FUNDAMENTALS OF SYSTEM ANALYSIS
+description:
+  ja: 現代制御理論に関連するシステムの考え方や記述法、安定性、内部構造を扱う講義である。内容の中心は、動的な線形システムに関する基礎知識を学ぶことにある。
+quotedDescription:
+  text:
+    ja: 現代制御理論にかかわるシステムの考え方、記述法、安定性、内部構造などについて講義する。特に、動的な線形システムに関する基礎知識を得ることが中心となる。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120425sea63100/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 武藤 康彦
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- engineering
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理工学部 機能創造理工学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

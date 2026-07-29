@@ -1,0 +1,53 @@
+slug: utokyo-series-hznvd9cnxdwe
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=hZNVD9CNXDwE
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学総合教育研究センターが「スマート・スタジオ」を開設
+description:
+  ja: 東京大学大学総合教育研究センターが開設した「スマート・スタジオ」の概要を伝える。講義動画やウェビナー、講義配信などの制作に使う設備として位置づけられ、学内外の利用を想定している。説明では、ZOOM会議の打ち合わせやハイブリッドウェビナー、映像プレゼンテーション、対談、インタビューまで扱うことが示されている。
+quotedDescription:
+  text:
+    ja: "東京大学 大学総合教育研究センターは、新しい設備「スマート・スタジオ」を開設しました。私たちはこのスタジオを講義・講義動画、ウェビナーや講義配信など、オープンエデュケーションコンテンツを産み出すため、学内外の方々とともに活用してゆきます。スマート・スタジオは会議室であり、応接間であり、書斎でもある「スタジオ」です。じっくり考える空間でありつつ、思考を練る過程をもれなく記録し、デザインして整え、外界へ発信する、クリエイティブな空間を開発しました。\
+      \ \n私たち大学総合教育研究センターは、この部屋から新しいコンテンツを生み出し、新しいコミュニケーションを確立し、新しいコンセプトを発信します。\nこの「スタジオ」は、国内外を問わないZOOM会議の打ち合わせ、ゼミ形式のハイブリッドウェビナー、伝達力ある映像プレゼンテーション、対談、インタビューまで、教育コンテンツのすべてをアップデートする装置です。私たちはここから100年後まで生きる大学発の高解像度コンテンツを作ってゆきます。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=hZNVD9CNXDwE
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育
+- 大学総合教育研究センター
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

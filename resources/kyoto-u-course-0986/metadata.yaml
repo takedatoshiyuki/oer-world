@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0986
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/986/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第59回 玉城嘉十郎教授記念公開学術講演会
+description:
+  ja: 京都大学理学研究科が開く第59回の公開学術講演会で、2つの講演から成る。1つは玉城嘉十郎と湯川秀樹・朝永振一郎を軸に、量子力学や場の量子論の受容と展開をたどる。もう1つは霊長類研究と自然人類学を手がかりに、ゴリラの社会から人間社会の由来と未来を考える。
+quotedDescription:
+  text:
+    ja: '玉城教授記念学術講演会について
+
+      玉城嘉十郎先生は京都大学理学部において理論物理学を講じられ、在職中53歳の若さでご他界されましたが、ご他界後30年に当たり、先生のご意志に基づいて、ご遺族より奨学のために多額のご寄付を頂き、先生を記念して毎年公開の学術講演会を開くことにいたしました。第１回は1969年秋、以後50年、回を重ねること今回で59回に達しました。テーマは必ずしも既存の専門にとらわれず、明日の学問への展望をひらくものをと心がけて選ばれています。
+
+      この玉城記念講演会は、専門の研究者だけでなく学生諸君の参加も多く、またもとより公開でありますので、少数ながら熱心な一般聴衆の方々にも好評を博しております。
+
+      「玉城嘉十郎と湯川・朝永のレガシー」
+
+      佐藤文隆 京都大学名誉教授
+
+      物理学の大変革であった量子力学の誕生期（1925−27年）に京都大学理学部を卒業（1929年）した湯川秀樹と朝永振一郎は力学講座の教授である玉城嘉十郎研究室の門をたたいた。玉城は「自分は量子力学を専門としていない」といいつつその基礎となる解析力学のゼミをやってくれたという。二人は1929年に提出されたばかりの場の量子論を自学自習し、湯川は中間子論、朝永は量子電磁気学で世界に躍り出た。日本人初の湯川のノーベル賞は日本の科学を世界に飛躍させるきっかけとなった。
+
+      「ゴリラを追って―京大理学部発の人類学とその行方」
+
+      山極 壽一 京都大学 前総長
+
+      戦後すぐに京都大学理学部で生まれ、人間以外の動物にも社会と文化の萌芽があることを証明しようとしたのが今西錦司率いる霊長類研究グループだった。それは人間と動物とを言語の有無によって峻別する西洋の思想と異なり、その間に何かがあるという西田哲学に由来する考え方だった。1963年に自然人類学研究室が設立されて以来、ニホンザルから他のサルや類人猿へと対象を広げ、アフリカで人類と類人猿との共通祖先の発掘に明け暮れて、人類の進化史の特徴がようやく見えてきた。Withコロナの状況で未来が見通せなくなる中で、私が見てきたゴリラの社会から人間社会の由来と本質、そして未来について語ってみようと思う。'
+  source: https://ocw.kyoto-u.ac.jp/course/986/
+  note: 京都大学OCW 「玉城教授記念学術講演会について」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐藤 文隆
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-12-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- arts_humanities
+- social_sciences
+keywords:
+- 物理学
+- 生物学・生命科学
+- 自然科学
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

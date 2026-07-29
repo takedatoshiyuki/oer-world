@@ -1,0 +1,79 @@
+slug: utokyo-series-lswgin1hwzxz
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=lswGiN1HwZXz
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「グローバリゼイション」
+description:
+  ja: 本講義は、世界規模で進むグローバリゼイションを主題に、モノ・ヒト・カネの移動を取り上げる。日本、中国、アメリカのあいだで起こる半導体製造装置、半導体、薄型テレビのやり取りを例に、その動きの具体像を示す。
+quotedDescription:
+  text:
+    ja: 現在、否応無しにいわゆる「グローバリゼイション」が様々な次元で、世界的な規模で進行しています。モノが国境を越えて動くだけでなく、ヒト・カネも大規模に頻繁に、しかも多様な方向へ移動しています。日本から半導体製造装置が中国に輸出され、それを使って作られた半導体が日本に入ってきて、さらにそれを組み込んだ薄型テレビがアメリカに輸出されたりです。その裏ではお金が動いていますし、技術を教えるために、人が派遣…
+  source: https://ch.u-tokyo.ac.jp/series/?id=lswGiN1HwZXz
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 植田 和男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高山 博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石黒 一憲
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柳田 辰雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 宣弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 本間 正義
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山影 進
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 近藤 豊
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

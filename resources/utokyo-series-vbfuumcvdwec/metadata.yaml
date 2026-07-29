@@ -1,0 +1,93 @@
+slug: utokyo-series-vbfuumcvdwec
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=vBfUUmCVDwEC
+type:
+- LearningResource
+- Course
+name:
+  ja: 媒介／メディアのつくる世界（朝日講座「知の冒険―もっともっと考えたい、世界は謎に満ちている」2015年度講義）
+description:
+  ja: 媒介や媒体に注目し、メディア論をはじめとする研究の視点を扱う講義である。書物や媒体を単なる伝達手段としてではなく、世界の見え方を変える対象として考える。こうした観点から、ものの見方そのものを捉え直すことを目指す。
+quotedDescription:
+  text:
+    ja: 媒介とか媒体などというと、ことの本質にあまり関わらない脇役のように思われそうです。たしかに、書物は書かれている内容が主人公であり、その媒体としての紙やインクなどは、そのために奉仕するだけのものに思われるかもしれません。しかし、媒介や媒体の方に焦点を合わせ、そちらの側からみてみることで、時には世界が全く違った見え方をしてくることすらあります。メディア論を筆頭に、近年様々な分野で進んでいる、そのような観点からの研究の一端に触れることは、われわれのものの見方そのものを根本から考え直すきっかけになることでしょう。
+  source: https://ch.u-tokyo.ac.jp/series/?id=vBfUUmCVDwEC
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 渡辺 裕
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野崎 歓
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松井 彰彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 淳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡ノ谷 一夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村本 由紀子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高野 明彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福井 健策
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- social_sciences
+- ict
+keywords:
+- 文化・芸術・文芸
+- 経済・金融
+- 歴史
+- 言語・思想
+- 心理・認知
+- AI・情報
+- 政治・法律
+- 人口・社会問題
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

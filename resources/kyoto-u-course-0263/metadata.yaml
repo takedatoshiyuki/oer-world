@@ -1,0 +1,109 @@
+slug: kyoto-u-course-0263
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/263/
+type:
+- LearningResource
+- Course
+name:
+  ja: 造園学実習Ⅱ
+description:
+  ja: 本教材は、ランドスケーププランニングに用いるGISとリモートセンシングの実習を中心に構成される。GISの基本的な用語やデータ操作、分析手法を段階的に学び、あわせてリモートセンシングの基礎から画像処理やデータ変換までを扱う。期末課題では、野生生物生息地の保全状況を分析する新しい手法の提案に取り組み、ソフトの機能理解と応用を進める。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      ランドスケーププランニングの必須ツールである地理情報システム（GIS）とリモートセンシング（RS）ソフトを実践的に習得します。コンピューターの中で何が起こっているのかを理解し、応用できる知識を身につけます。
+
+      授業の紹介
+
+      ランドスケーププランニングの実務と研究に活用することを念頭に、GISとリモートセンシングソフトの実習を行います。GISの定義、用語の説明から、データのダウンロードや作成の方法、分析手法について段階的に学び、約6回の実習と講義でGISの必須技術と知識をマスターします。さらに、約5回の実習と講義を通して、リモートセンシングの定義、概要の紹介から、カラー合成、植生リモートセンシングの基本、フィルター演算、データ変換について学びます。期末課題には各自の自由な発想を具体化し、「野生生物生息地の保全状況を分析するための新しい手法」を提案します。期末課題のねらいは、自分の発想を具体化する中で、ソフトの機能を体験的に理解し、応用できる力を身につけることです。期末課題には約4回の実習を費やし、ソフトの技術面だけでなく、効果的なプレゼンテーション方法についても指導します。'
+  source: https://ocw.kyoto-u.ac.jp/course/263/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 森本 幸裕
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 今西 純一（地球環境学堂
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 農学研究科両任 助教 ）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第2回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第3回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第4回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第5回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第6回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第7回 期末課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第8回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第9回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第10回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第11回 実習用テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第12回 期末課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+- name: '講義資料: 第13回 期末課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/zoengaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/263/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,49 @@
+slug: hokudai-geometricfigure-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/geometricfigure-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学情報基盤センター 公開講演会 幾何図形を用いた線の変容 （2011）
+description:
+  ja: 北海道大学情報基盤センターによる2011年の公開講演会で、趙 烈が担当する。幾何図形を用いた線の変容を扱う講義で、日本語で提供される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 趙 烈
+  affiliation:
+    name: 情報基盤センター 特任教授/漢城大学芸術大学メディアデザインコンテンツ学部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 美術
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 情報基盤センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

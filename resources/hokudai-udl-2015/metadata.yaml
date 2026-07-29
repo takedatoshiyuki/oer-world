@@ -1,0 +1,130 @@
+slug: hokudai-udl-2015
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/udl-2015
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 学びのユニバーサル・デザイン入門（2015）
+description:
+  ja: この教材は、障害学生支援と学びのユニバーサル・デザインを軸に、学習環境をどう整えるかを扱う。講義・実習・グループワークを組み合わせた授業で、情報保障、プリントディスアビリティ、視線のあり方、移動に関する参加機会の保障まで踏み込む。公開教材には第4回、第9回、第14回に関する講義資料や補助教材が含まれる。
+quotedDescription:
+  text:
+    ja: '日本における障害学生支援は、障害者権利条約批准国となり、善意から権利に基づいた支援へと大きく舵を切りました。そもそも、学ぶことの権利、公平に教育をうける機会の提供は、障害を抱える学生のみならず、少数派であろうと多数派であろうと、すべての学生が享受するものです。個々に違いはもちつつも、すべての学生にとって合理的なよりよい学びの環境を提供するためには、どのような方法があるでしょうか。このような学びの環境を整えることを、学びのユニバーサル・デザイン（Universal
+      design for learning、以下UDL）と言います。
+
+      しかし個々の違いに目を向けたとき、すべての学生にとってのより良い環境設定など理想にすぎず、実際は互いの譲り合いや許容範囲内の不利益を前提にしなければ成り立たないこともあるでしょう。CAST（the
+      Center for Applied Special Technology）におけるUDLの提言は、ガイドラインを設定したうえで、「カリキュラム（すなわち目標、手法、教材、評価）をはじめから体系的に個々人の違いに対応させるプロセス」（CAST
+      (2011). Universal design for Learning guidelines version 2.0. Wake￢eld、MA: Author. [キャスト (2011)
+      バーンズ亀山静子・金子晴恵(訳) 学びのユニバーサルデザイン・ガイドライン ver.2.0. 2011/05/10 翻訳版]より）を提示し、ICT技術をはじめとした科学技術を活用し、すべての学生にとってよりよい学びの環境を提供することに向けて提案と挑戦を続けています。このUDLのプロセスに倣い、受講学生へ「支援」ということばから連想されがちな善意や正義の押しつけではなく、他者への関心と想像力、そして知的創造力の喚起を本授業では、目指します。具体的には、講義・実習・グループワークを組み合わせた授業を展開します。さらには、本学特別修学支援室において支援員として登録可能な知識と技術の習得を目指します。障害のあるなしに関わらず、積極的に新たな知を求める学生が集うことを期待しています。
+
+      公開講義一覧
+
+      第1回　オリエンテーション／高等教育における障害学生支援の実際
+
+      第2回　学びのユニバーサル・デザインとは
+
+      第3回　「学び」にかかわる制約と制限を知る
+
+      第4回　「聞く」に関する情報保障?ノートテイク講座A
+
+      第7回　情報保障に関するテクノロジーの活用を知る
+
+      第8回　プリントディスアビリティに関する情報保障?文献電子化に関する基礎知識
+
+      第8回　プリントディスアビリティに関する情報保障?文献の電子化作業工程について
+
+      第10回　プリントディスアビリティに関する情報保障?印刷業界の挑戦
+
+      第11回　まなざしのユニバーサルデザイン
+
+      第11回　まなざしのユニバーサルデザイン（ゲストスピーカーによる講演）
+
+      第12回　「移動」に関する参加機会の保障　バリアはどこに？（構内編）
+
+      第13回　「移動」に関する参加機会の保障　車椅子の移動介助の基本（構内）
+
+      第13回　車椅子介助デモンストレーション（構内）（近日公開）
+
+      第14回　「移動」に関する参加機会の保障　雪上での車椅子の移動介助（構外）
+
+      第14回　車椅子介助デモンストレーション（雪上）
+
+      公開PDF一覧
+
+      第4回　補助教材：『見えないものと見えるもの：社交とアシストの障害学』石川准（2004）
+
+      第4回　補助教材：『障害の表記について』土永孝
+
+      第9回　プリントディスアビリティに関する情報保障　情報アクセシビリティを保障する
+
+      第14回　実習後のまとめ
+
+      ※これらのコンテンツは、2015年度に開講された講義に基づいています。'
+  source: https://ocw.hokudai.ac.jp/lecture/udl-2015
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 松田　康子
+  affiliation:
+    name: 北海道大学大学院教育学研究院
+- type: Person
+  name: 土永　孝
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院
+- type: Person
+  name: 斉藤　美香
+  affiliation:
+    name: 北海道大学保健センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 障害学生支援
+- 修学支援
+- Universal design for learning
+- 教育／学習
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第4回 補助教材：『見えないものと見えるもの：社交とアシストの障害学』石川准（2004）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/07/2015_UDL_week04_pdf-protected.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/udl-2015
+- name: '講義資料: 第4回 補助教材：『障害の表記について』土永孝'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/07/2015_UDL_week04_pdf_shougai.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/udl-2015
+- name: '講義資料: 第9回 プリントディスアビリティに関する情報保障? 情報アクセシビリティを保障する'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/07/223412b84839c1da6ec76313eccf6a461.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/udl-2015
+- name: '講義資料: 第14回 実習後のまとめ'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2019/04/2b5c1aa1e6144f1def077bdb42dc9a7c.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/udl-2015
+extensions:
+  faculty: 保健センター
+  targetAudience: 1～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

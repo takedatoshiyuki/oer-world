@@ -1,0 +1,80 @@
+slug: utokyo-series-m6qnz7556bib
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=M6qNZ7556BIB
+type:
+- LearningResource
+- Course
+name:
+  ja: 歴史的建築工学
+description:
+  ja: 歴史的建築物の活用と改修を対象に、文化財建造物から既存住宅までの古い建物をどう扱うかを工学的に考える。修理や増改築を通じて使い続けるために必要な、構造・防火・省エネ・意匠などの論点を取り上げ、専門家の知見をもとに基礎と最新の話題を学び、議論する。
+quotedDescription:
+  text:
+    ja: '現在、歴史的建築物の活用と改修の需要が急増している。文化財建造物からごく普通の既存住宅まで、多様な「古い建物」との付き合い方が、連続的に考えられるようになってきた。
+
+      修理・増改築を行い、建物を使い続けるためには、構造・防火・省エネ・意匠など様々な分野で新築とは異なる知識を持った専門家の協働が求められる。
+
+      本講義は、歴史的建築物の工学的な側面を対象とし、当該分野の専門家をお招きして、基礎的な知識と最新の知見について学ぶとともに、議論を行う。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=M6qNZ7556BIB
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤田 香織
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 木林 長仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石山 央樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安井 昇
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山田 憲明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- 都市・建築
+- 災害・防災
+- ロボット・技術
+- 建築
+- 文化財
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

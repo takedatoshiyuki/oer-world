@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0485
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/485/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法学会講演：位田隆一（法学研究科教授）「変動期の国際法と人間－『開発の国際法』から『国際生命倫理法』へ－」
+description:
+  ja: 国際法を、人間と開発、生命倫理との関係から扱う講演である。公開教材としては配布資料と著書一覧があり、講演内容に関連する資料を確認できる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 位田 隆一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-12-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- business_law
+keywords:
+- 法学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3200785c4a86540f44f1edcd39376c98.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/485/
+- name: '講義資料: 著書一覧'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/cdd1d458ff986ec6cb6dfeea615d068b.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/485/
+extensions:
+  faculty: 法学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

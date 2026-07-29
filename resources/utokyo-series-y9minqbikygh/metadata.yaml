@@ -1,0 +1,58 @@
+slug: utokyo-series-y9minqbikygh
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=y9mINqBiKyGH
+type:
+- LearningResource
+- Course
+name:
+  ja: サステイナブル・ファイナンス・スクール
+description:
+  ja: サステイナブル・ファイナンスを題材に、環境・社会・ガバナンスの課題とその背景を学び、サステイナビリティとファイナンスの基礎知識を身に付ける内容である。あわせて、実務に必要な知識やスキル、発想力、マネジメント力、調整力の育成も扱う。対象は若手から中堅の社会人である。
+quotedDescription:
+  text:
+    ja: 本スクールは、近年、国内外で主流となりつつあるサステイナブル・ファイナンスに関して、背景にある地球規模での環境・社会・ガバナンス課題への理解を深め、サステイナビリティやファイナンスの学術的基礎知識を身に付けると同時に、実務遂行に必要な知識やスキル、発想力、マネジメント力、調整力を育成するものです。特に若手から中堅の社会人を対象とし、サステイナブル・ファイナンスの課題を読み解いたうえで日常業務に生かすにとどまらず、国際社会動向に精通する能力を高め、企業の中長期的な経営戦略の中に組み込む総合的な判断力を育成することを目標とします。
+  source: https://ch.u-tokyo.ac.jp/series/?id=y9mINqBiKyGH
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐藤 安信
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+- social_sciences
+keywords:
+- 政治・法律
+- 経済・金融
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 新領域創成科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

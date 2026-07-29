@@ -1,0 +1,73 @@
+slug: sophia-20121019comarativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20121019comarativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Networks in Premodern and Early Modern Japan
+description:
+  ja: 本講義は、前近代から近世にかけての日本で形成されたさまざまなネットワークを扱うワークショップである。中世の公家家族、近世の仏教寺院、江戸期土佐の対外的なつながりを題材に、家族関係、宗教組織、地域と世界を結ぶ接触のあり方を考察する。
+quotedDescription:
+  text:
+    ja: "This is the fifth workshop of the ICC research group “Network Studies.” \n   \n ・Rieko Kamei-Dyche\
+      \ (University of Southern California/Hitotsubashi University):\n “Marriage Strategies and Familial\
+      \ Networks of the Saionji”\n While conventional treatments of medieval Japan that privilege warrior\
+      \ narratives have been slowly augmented by scholarship revealing the continuing role of the court,\
+      \ the vibrant court culture and the roles played by courtier families remain underdeveloped in the\
+      \ literature. A fascinating case study is offered by the Saionji, a notable courtier family that\
+      \ developed extensive connections with both court and bakufu and commanded great wealth and influence.\
+      \ One of the reasons for Saionji prominence was their great skill at generating and wisely investing\
+      \ social capital, especially in building family relations with the major power holders of the time.\
+      \ Through examining these family networks, how they were developed and what benefits they brought\
+      \ the family, an unexplored side of medieval Japanese society comes to light. \n   \n ・Alexander\
+      \ Vesey (Meiji Gakuin University):\n “Forging Karmic Ties: Buddhist temple networking in Early Modern\
+      \ Japan”\n Working from a social historical perspective, this paper examines the processes that\
+      \ contributed to the expansion of Kanto area Buddhist temple networks during the 17th and early\
+      \ 18th centuries. Given the emphasis of “founders, ” “lineages” and “schools” in popular histories\
+      \ of Japanese Buddhism, the internal coherence of Buddhist institutions seems a given. Local records,\
+      \ however, reveal a different reality as temple networks were also forged by negotiation, and at\
+      \ times hard-fought litigation. This presentation will use several case studies to consider the\
+      \ motives and methods that drove early modern Buddhist networking. \n   \n ・Luke Roberts (UC Santa\
+      \ Barbara):\n Tosa’s Foreign Ties during Edo Period “Isolation”\nDespite prohibitions of direct\
+      \ foreign contact during most of the Edo period, people of the domain of Tosa had many connections\
+      \ with and experiences of meeting with people from outside of Japan that linked them to informational\
+      \ networks spanning the world. This talk will center on the experiences of many foreign shipwrecks\
+      \ landing on the coast of Tosa and also discuss other connections to give a sense of Tosa domain’s\
+      \ ties to the world during this most unlikely time of “isolation.”"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20121019comarativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Rieko Kamei-Dycheほか
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 比較文化研究所
+  term: 2012/10/20
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

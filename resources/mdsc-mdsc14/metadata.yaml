@@ -1,0 +1,51 @@
+slug: mdsc-mdsc14
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc14
+type:
+- LearningResource
+- Course
+name:
+  ja: UME-ERJ
+description:
+  ja: 日本人学生が読み上げた英語音声を集めたデータベースで、WAV形式の16kHz・16bit・Mono音声として提供される。利用には申込みが必要である。
+quotedDescription:
+  text:
+    ja: "日本人学生による読み上げ英語音声データベース(WAV: 16kHz・16bit・Mono)．(\r\n（申込みが必要）"
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc14
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc14
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- ict
+keywords:
+- 学術研究・専門・技術サービス
+- 情報通信業
+- 音声
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

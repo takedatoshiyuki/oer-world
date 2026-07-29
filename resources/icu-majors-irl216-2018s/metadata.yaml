@@ -1,0 +1,166 @@
+slug: icu-majors-irl216-2018s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/irl216_2018s
+type:
+- LearningResource
+- Course
+name:
+  ja: International Organization & United Nations Studies 国際連合・国際機構論
+description:
+  ja: 国際連合と他の国際機構を対象に、その歴史、組織構造、活動を扱う。国連の機能や平和と安全保障、持続可能な開発、人権、国連改革に加え、地域機構、非国家主体、メディア、人間の安全保障まで取り上げる。
+quotedDescription:
+  text:
+    ja: 'This course will study the history of the United Nations and other international organizations,
+      their organizational structures and activities, and the solutions of various international problems
+      through the framework of international organizations.
+
+      国際連合や他の国際機構の歴史、組織構造や活動、国際機構の枠組みを通じた様々な国際問題の解決などを考察する。
+
+      Contents of Lectures
+
+      Lectures  /
+
+      Videos
+
+      Apr 10
+
+      Lesson 1  Introduction
+
+      Apr 1
+
+      2
+
+      Lesson 2  Major actors of Global Governance: States, IGOs (Intergovernmental Organizations) and
+      Non-State Actors including NGOs
+
+      Apr 1
+
+      7
+
+      Lesson 3  UN (1): UN organizations and functions
+
+      Apr 19
+
+      Lesson 4  UN (2): Peace and Security (B)
+
+      Apr 24
+
+      Lesson 5  UN (3): Peace and Security (C)
+
+      Apr 26
+
+      Lesson 6  UN (4): Peace and Security (D)
+
+      May 01
+
+      Lesson 7  UN (5): Sustainable Development including Environment (A)
+
+      May 08
+
+      Lesson 8  UN (6): Sustainable Development including Environment (B)
+
+      May 1
+
+      0
+
+      Lesson
+
+      9
+
+      UN (
+
+      7
+
+      ):
+
+      May 15
+
+      Lesson 10  UN (8): Human Rights (B)
+
+      May 17
+
+      Lesson 11  UN (9): Secretary-General and Financing of the UN
+
+      May
+
+      22
+
+      Lesson 12  UN (10): UN reform
+
+      May
+
+      24
+
+      Lesson 13  Regional Organizations
+
+      May 29
+
+      Lesson 14Guest speaker: Ms. Kaoru NEMOTO, Director of the UN information Centre (UNIC) in Tokyo
+
+      Topic: Your UNITED NATIONS: transforming our world through SDGs as CHANGEMAKER
+
+      May 31
+
+      Lesson 15Guest speaker: HE Mr. Clement Philip Ricardo ALLICOCK, Ambassador Extraordinary and Plenipotentiary,
+      Embassy of Jamaica in Japan
+
+      Topic: Diplomatic Policy of Jamaica – A Small Island Perspective
+
+      Jun 05
+
+      Lesson 16  Other Organizations
+
+      Jun 07
+
+      Lesson 17  Non-State Actors
+
+      Jun 12
+
+      Lesson 18  Media
+
+      Jun 14
+
+      Lesson 19  Human Security'
+  source: https://ocw.info.icu.ac.jp/majors/irl216_2018s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 吉川元偉
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 専攻科目
+- 'actors of Global Governance: S'
+- 'IRL216 | Course Schedule: 4*/M, 4*/TH | Update: 2018.09.20'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

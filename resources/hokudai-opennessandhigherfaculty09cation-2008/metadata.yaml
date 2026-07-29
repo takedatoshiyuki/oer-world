@@ -1,0 +1,72 @@
+slug: hokudai-opennessandhigherfaculty09cation-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/opennessandhigherfaculty09cation-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: オープンコースウェア･セミナー Openness and the Disaggregated Future of Higher Education（2008）
+description:
+  ja: オープン教育資源の広がりが、教育資料の共有や学習支援のあり方をどう変えるかを扱う講義である。あわせて、メールやSNSなどを通じた学習者間のつながり、複数機関に分かれて提供される高等教育サービスの将来像にも触れる。
+quotedDescription:
+  text:
+    ja: Open educational resources such as MIT OpenCourseWare demonstrate that educational materials are
+      increasingly becoming a free，ubiquitous infrastructure for teaching and learning. Leveraging free
+      and open access to a wide range of high quality educational resources can allow the faculty member
+      to drastically change their role in supporting learning. The increasing connectivity of teachers
+      and learners via email，SMS，instant messenger，Twitter，and other tools allows us to move beyond "groups"
+      in our thinking of multi-person assignments to a broader，more loosely knit notion of networks of
+      learners. Large-scale，collaborative social networks challenge our ideas of academic honesty but
+      are a simple fact of life that instructors can either fight or leverage. Open educational resources
+      and social networks point toward a future for higher education in which services traditionally consolidated
+      within a single institution (e.g.，providing content，providing learning support，providing assessments，providing
+      degrees) are disaggregated and provided by a number of institutions that compete on quality of service
+      and price for learner business.
+  source: https://ocw.hokudai.ac.jp/lecture/opennessandhigherfaculty09cation-2008
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- student
+materials:
+- name: '講義資料: PDF スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Slide-20080729.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/opennessandhigherfaculty09cation-2008
+- name: '講義資料: PDF ハンドアウト'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Handout-20080729.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/opennessandhigherfaculty09cation-2008
+- name: '講義資料: PDF ポスター'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Poster-20080729.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/opennessandhigherfaculty09cation-2008
+extensions:
+  faculty: 情報基盤センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

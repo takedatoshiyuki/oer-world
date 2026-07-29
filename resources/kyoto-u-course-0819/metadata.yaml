@@ -1,0 +1,68 @@
+slug: kyoto-u-course-0819
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/819/
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開国際シンポジウム「溶液化学の将来を考える」
+description:
+  ja: 溶液化学をテーマにした公開国際シンポジウムで、京都大学の化学研究所が担当する。案内文には主催者、後援研究事業、招待講演者5名の情報が含まれており、日本語と英語で提供される。
+quotedDescription:
+  text:
+    ja: '主催：公開国際シンポジウム「溶液化学の将来を考える」実行委員会
+
+      後援：特定領域研究「イオン液体の科学」
+
+      新学術領域研究「水を主役としたATPエネルギー変換」
+
+      新学術領域研究「揺らぎが機能を決める生命分子の科学」
+
+       
+
+      招待講演者
+
+      中原 勝 教授（京都大学名誉教授）
+
+      平田 文男 教授（自然科学研究機構 分子科学研究所教授）
+
+      有本 建男 様（科学技術振興機構 社会技術研究開発センター長）
+
+      Peter J. Rossky 教授（テキサス大学教授）
+
+      Mark Maroncelli 教授（ペンシルバニア州立大学教授）'
+  source: https://ocw.kyoto-u.ac.jp/course/819/
+  note: 京都大学OCW 「招待講演者」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-06-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 化学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 化学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

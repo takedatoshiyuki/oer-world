@@ -1,0 +1,94 @@
+slug: utokyo-series-ycata34geamf
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ycatA34GeAMF
+type:
+- LearningResource
+- Course
+name:
+  ja: 第132回（2021年春季）東京大学公開講座「データ」
+description:
+  ja: Society5.0をデータ駆動社会として捉え、学術で進むデータ駆動化と産業における多様なデータの利活用を扱う。これらの動向を全体として概観する内容で、日本語で行われる東京大学公開講座である。
+quotedDescription:
+  text:
+    ja: 'Society5.0は、データ駆動社会と言えます。今日、学術のデータ駆動化も大きく進展しつつあり、さらには、産業も多様なデータを、積極的に利活用するようになりつつあります。このような潮流について概観する予定です。★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。
+
+      この講演は日本語で行われました。
+
+      運営・著作権処理・映像編集：東京…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ycatA34GeAMF
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 喜連川 優
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小池 祐太
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤堂 眞治
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 洋史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 横矢 直人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山田 太造
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 三輪 哲
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡崎 哲二
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- natural_sciences_math
+- health_welfare
+keywords:
+- AI・情報
+- 数理
+- 宇宙・物理
+- 生命・医療
+- 環境
+- 歴史
+- データ
+- AI
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

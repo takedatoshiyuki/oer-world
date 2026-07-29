@@ -1,0 +1,45 @@
+slug: kyoto-u-course-0911
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/911/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第54回人環国際交流セミナー “Ultrarunning” Prof. Peter A. Tanner, 2015
+description:
+  ja: 京都大学の人間・環境学研究科が提供する、2015年10月9日開講の英語による講義である。題目には「Ultrarunning」とあり、第54回人環国際交流セミナーとして実施されている。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University 教授 ）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-10-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

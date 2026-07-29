@@ -1,0 +1,96 @@
+slug: utokyo-series-n2jrieucia7j
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=n2jrIEuCIA7j
+type:
+- LearningResource
+- Course
+name:
+  ja: 高校生のための東京大学オープンキャンパス2020
+description:
+  ja: 東京大学の教育システムと学生生活支援の取り組みを取り上げ、あわせて入学試験の仕組みや出願者数・合格者数の状況を説明する。東京大学への出願を考える人に向けて、入試に関わる基本情報をまとめた内容である。
+quotedDescription:
+  text:
+    ja: '東京大学全体の教育システムや学生生活支援の取り組みを紹介するとともに、入学試験のシステム、出願者・合格者数の状況等についてお話しします。東京大学の入学試験を受けようと考えている方全員に関係する内容です。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=n2jrIEuCIA7j
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 福田 裕穂
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大澤 裕
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山岨 達也
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 染谷 隆夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 淳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 星野 真弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 伸一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 粕谷 誠
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- arts_humanities
+- social_sciences
+keywords:
+- 生命・医療
+- 言語・思想
+- 経済・金融
+- 災害・防災
+- ロボット・技術
+- 教育
+- 国際関係
+- 「リケジョ」の未来図
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け・英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

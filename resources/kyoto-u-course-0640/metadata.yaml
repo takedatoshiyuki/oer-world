@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0640
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/640/
+type:
+- LearningResource
+- Course
+name:
+  ja: '[ポケット・ゼミ] 「きてみてさわって、有機化学が死ぬほど好き」, 2014'
+description:
+  ja: 有機化学をテーマに、実際の化合物に触れたり簡単な実験を行ったりしながら学ぶゼミである。演習や添削、対話と議論を通して、有機化学の考え方と理論、さらに研究の実際にも触れる構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の概要目的
+
+      有機化学が死ぬほど好きで、有機化学を勉強したくて京大へ来たみなさん。このゼミは、みなさんのような学生のために開講しました。ここでは、生きた有機化学の本当のおもしろさを伝えます。授業では、実際の有機化合物に多数ふれ、簡単なデモ実験を行いながら学ぶことで、有機化学の考え方と理論を、身をもって体験、納得しながら理解します。暗記モノと思われがちな「化学」という学問の本当のおもしろさ、高校までの化学では触れずにいた「なぜそうなるのか」を中心に、化学の考え方を伝えます。体験と並行して、徹底した演習と添削、そして志を同じくする仲間（あるいは先輩）との対話と議論を通して、有機化学の知識と美しいロジックを楽しく確実に身につけます。また、実際に化学の最前線で研究する大学院生（またはポケゼミ元受講生）による指導のもと、講義室でできる簡単な実験にも取り組み、研究の実際にも触れてみます。少人数ポケゼミの機動力を生かし、受験用の暗記モノでは絶対に味わえない有機化学の本当の醍醐味と奥深さ、学問を通して自己実現のしびれるような達成感を徹底的に追及します。強制ではない成果主義、排他的でない競争、死ぬほど楽しい勉強など、既成概念を打ち破り、まさに目からウロコが落ちる体験を保証します。好きな有機化学を、死ぬほどかつ激しく勉強してみたい人、勉強のためなら何でもあり、一度ハマったらもう抜け出せない天国のような地獄のポケゼミにようこそ。'
+  source: https://ocw.kyoto-u.ac.jp/course/640/
+  note: 京都大学OCW 「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 平竹 潤
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,79 @@
+slug: utokyo-series-klo7vlzbgmgh
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=KLO7vlZbGmgH
+type:
+- LearningResource
+- Course
+name:
+  ja: 東大EMP10周年記念シンポジウム：知の統合化の先へ
+description:
+  ja: 東京大学エグゼクティブ・マネジメント・プログラム（東大EMP）の10周年を記念するシンポジウムである。東大EMPの歩みを背景に、知の統合化を主題として扱う講義・講演資料といえる。
+quotedDescription:
+  text:
+    ja: "東京大学エグゼクティブ・マネジメント・プログラム（東大EMP）は、2008年に始まった社会人向けプログラムです。この10年間に450名の受講生を受け入れ、300名を超える東大教員とともに濃密な議論を積み重ねてきました。\
+      \ \n  ★東大EMP  \n    http://www.emp.u-tokyo.ac.jp   \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。  \n  お気に入りの講義・講演があればSNSなどでシェアをお願いします。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=KLO7vlZbGmgH
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小関 敏彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山田 興一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 合原 一幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小野塚 知二
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小林 康夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 尾藤 晴彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 難波 成任
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅島 誠
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

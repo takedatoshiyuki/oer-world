@@ -1,0 +1,67 @@
+slug: utokyo-series-czaalgoitztp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=czaAlGOItZtp
+type:
+- LearningResource
+- Course
+name:
+  ja: デニ・ムクウェゲ医師来日講演会：平和・正義の実現と女性の人権
+description:
+  ja: コンゴ東部の紛争と、そこで生じている組織的な性暴力を扱う講演会である。デニ・ムクウェゲ医師を招き、被害者への医療支援と紛争下の性暴力の実態について話す。
+quotedDescription:
+  text:
+    ja: コンゴでは1996年以降紛争が続き、累計で600万人の犠牲者が出てきました。特にコンゴ東部では、豊富な鉱物資源を資金源として100組織を超える武装勢力が闘争を続け、住民に対する人権侵害を行っています。その人権侵害の一環として、組織的な性暴力が行われています。本シンポジウムでは、コンゴ東部で性暴力被害者への医療に取り組むデ二・ムクウェゲ医師を講師として招き、コンゴ東部における紛争下の性暴力の実態についてお話…
+  source: https://ch.u-tokyo.ac.jp/series/?id=czaAlGOItZtp
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Denis Mukwege
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 隈元美穂子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 華井和代
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係
+- 人口・社会問題
+- 'The Pinnacle of Intellect: Masterclasses by Nobel Laureates'
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

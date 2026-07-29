@@ -1,0 +1,64 @@
+slug: kyushu-session-01-2
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/session/01/2.html
+type:
+- LearningResource
+- Course
+name:
+  ja: High-Performance Computing Servers Seminar for Foreign Students
+description:
+  ja: 外国人学生を対象に、高性能計算サーバの利用方法を短期集中で扱う講義である。九州大学の情報基盤研究開発センターで2006年に開講され、英語で実施される。公開教材として講義資料が2件ある。
+quotedDescription:
+  text:
+    ja: 'This seminar will give foreign students a "crash-course" on how to use the High-Performance Computing
+      servers.
+
+      To know more ▶ Guide by proffesor'
+  source: http://ocw.kyushu-u.ac.jp/menu/session/01/2.html
+  note: 九州大学OCW (QOCW) 「Summary」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: Hirofumi Amano
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- 講習会
+audience:
+- student
+- professional
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/session/01/2/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/session/01/2.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/session/01/2/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/session/01/2.html
+extensions:
+  faculty: 情報基盤研究開発センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

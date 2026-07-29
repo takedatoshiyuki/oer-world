@@ -1,0 +1,80 @@
+slug: utokyo-series-uytueo5br7zr
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=UYTUEo5Br7zr
+type:
+- LearningResource
+- Course
+name:
+  ja: U-PARLシンポジウム「むすび、ひらくアジア」
+description:
+  ja: 東京大学のU-PARLが、アジア研究図書館の構想を背景に開くシンポジウムである。アジア研究の多様な視点から「アジアとは何か」を考え、アジアをめぐる知のあり方を論じる。あわせて、将来の研究支援に関わる二つの問題も取り上げる。
+quotedDescription:
+  text:
+    ja: "U-PARLは、東京大学に「アジア研究図書館」を新たにつくるために設立された研究部門です。 \n  このシンポジウムでは、アジア研究の多様な視点から「アジアとは何か」を考え、  \n \
+      \ アジアをめぐる知のあり方を構想します。 \n \n  開催報告は     こちら   \n \n  この講演では、アジア研究図書館による将来の研究支援にとっての二つの問題を提起します。 \n\
+      \ \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。  \n…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=UYTUEo5Br7zr
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 木村 英樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 冨澤 かな
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 下田 正弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 齋藤 希史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 羽田 正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古田 元夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 板倉 聖哲
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 末廣 昭
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

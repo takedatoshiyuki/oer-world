@@ -1,0 +1,85 @@
+slug: icu-majors-edu112-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/edu112_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: History of Western Education 西洋教育史
+description:
+  ja: 西洋教育の思想と制度を歴史的にたどる講義で、プラトンのアカデメイアやイソクラテス・プラトンを扱う。公開教材として講義資料が2件あり、動画はコースの一部を収録したものです。
+quotedDescription:
+  text:
+    ja: 'Historical survey of the ideas and systems of Western education.
+
+      西洋教育思想および制度について歴史的概観を与える。
+
+      Contents of Lectures
+
+      1Lecture / 1 Video
+
+      プラトンの学園 アカデメイア
+
+      Lecture Notes
+
+      イソクラテス・プラトン
+
+      Lecture Notes
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/edu112_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 林昭道
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 教育学
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 専攻科目
+- 'Education 教育学 | Course ID: EDU'
+- 'EDU112 | Course Schedule: 3/W, 3/F | Update: 2013.12.12'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1AkhUxNm3rgIzhqH50PW5JbDgsNfTwHy0/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/edu112_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Vq-tFIVx3MfT6o2gyfmES6Q906rAeuty/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/edu112_2013a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

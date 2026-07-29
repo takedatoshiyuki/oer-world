@@ -1,0 +1,47 @@
+slug: tsukuba-ds-ai-and-elsi
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/ai_and_elsi/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 人工知能における 倫理的，法的，社会的問題
+description:
+  ja: 人工知能における倫理的・法的・社会的問題を扱い、人工知能が人間社会で利用される際の権利侵害などの論点を取り上げる。あわせて、人工知能に関するELSIのガイドラインを中心に、これまで議論されてきた内容を整理する。
+quotedDescription:
+  text:
+    ja: 本講義では人工知能における倫理的，法的，法的問題 (ELSI)について解説する．人工知能の研究ではどうやってデータを活用するかという問題に焦点が当てられているが，人工知能におけるELSIでは人工知能が人間社会で用いられたときに人間の権利が侵害されないかなどの問題を取り扱う．講義では，人工知能に関するELSIについてのガイドラインを中心に，これまで議論されてきたELSIについて解説する．
+  source: https://ocw.tsukuba.ac.jp/data-science/ai_and_elsi/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 福地 一斗
+  affiliation:
+    name: システム情報系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2020-09-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

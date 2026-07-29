@@ -1,0 +1,55 @@
+slug: sophia-20120409lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120409lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 実学 国際貢献論 第1回：日本・モンゴル国際交流で学ぶ真実と親切を真理で学ぶ
+description:
+  ja: 上智大学が主催する連続講演会「実学 国際貢献論」の第1回で、日本・モンゴルの国際交流を扱う。白鵬翔がユネスコ親善大使としての立場から、国際交流や親善への思いを語る内容である。
+quotedDescription:
+  text:
+    ja: "ユネスコ親善大使(スポーツ・アスリート)が親善にかける意欲 \n 日本・モンゴル国際交流で学ぶ真実と親切を真理で学ぶ \n このたび本学では、『生命の碧い星』実行委員会（委員長：鳩山由紀夫\
+      \ 元内閣総理大臣世界平和と地球環境保護の実現、世界各国の青少年の友好関係を築くことを目的とした活動を行う）の協力を得て、「実学 国際貢献論」と題して連続講演会（全11回）を行うこととなりました。\n\
+      第１回目は、大相撲春場所で通産２２回目の優勝を果たした横綱白鵬関がやってきます。白鵬関は、ユネスコ親善大使を務めており、国際交流・親善にかける意欲を皆さんに熱く語ってくれます。\n 一人でも多くの方々にご参加いただきますよう、ご案内いたします。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120409lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 白鵬 翔
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 石河 信昭
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2012/04/09
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

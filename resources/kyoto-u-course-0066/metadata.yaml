@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0066
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/66/
+type:
+- LearningResource
+- Course
+name:
+  ja: 代数学Ⅱ
+description:
+  ja: 京都大学理学部で2014年に開講された、雪江明彦担当の日本語講義である。講義名からは代数学を扱う内容であることが分かるが、具体的な範囲や扱う主題までは示されていない。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 雪江 明彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

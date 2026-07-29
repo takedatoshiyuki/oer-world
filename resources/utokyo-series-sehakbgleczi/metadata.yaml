@@ -1,0 +1,88 @@
+slug: utokyo-series-sehakbgleczi
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=SehakbGLeCzi
+type:
+- LearningResource
+- Course
+name:
+  ja: 技術は人を不幸にするのか？東大教授たちと考えるELSI/RRI Vol.3 「宇宙×資源で人類の活動領域をどう拡げるか」
+description:
+  ja: 宇宙開発の進展と資源利用を背景に、宇宙での活動領域の拡大に伴って生じる技術的・社会的な論点を扱う。ELSI/RRIの観点から、現代世代と将来世代を見据えた課題を、登壇者の対話を通して考えるトークセッションである。
+quotedDescription:
+  text:
+    ja: 現代社会において、技術革新は日々進展していますが、その一方で倫理的・社会的な課題も顕在化しています。こうした背景の中、大学における倫理的・法的・社会的課題（ELSI, Ethical, Legal
+      and Social Issues）を意識した責任ある研究・イノベーション（RRI, Responsible Research and Innovation）の重要性がますます高まっています。本シリーズの目的は、工学が関わる様々な分野における技術とその社会的影響について、我々が持つ知見を共有し、広く社会に対して理解を深めてもらうこと、つまり、多角的な視点から未来技術のELSI/RRIを探求することです。そして、未来技術の最前線で活躍する研究者の知見と対話を通じて、視聴者に新たな視点を提供することを目指しています。
+      vol.3のテーマは「宇宙と資源」。宇宙開発が進み、月や惑星や小天体の資源を利用し、多くの人が宇宙で活動するな時代が近づいています。技術と社会が関わる「新たな課題」がいろいろと出てきそうです。私たちは現代世代と将来世代までを見据えてどのように活動圏を拡げていけばよいのか？
+      この答えのない問いに、各分野を代表する4人の登壇者たちが挑みます。あえて答えを出さないトークセッションを、お楽しみ下さい！
+  source: https://ch.u-tokyo.ac.jp/series/?id=SehakbGLeCzi
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 宮本 英昭
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山崎 直子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 内田 麻理香
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松村 啓
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 瀧口 友里奈
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 姫野 武洋
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- natural_sciences_math
+- business_law
+keywords:
+- ロボット・技術
+- 宇宙・物理
+- 政治・法律
+- 宇宙開発
+- 倫理
+- 未来
+- 宇宙ビジネス
+- 宇宙
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 工学部・工学系研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

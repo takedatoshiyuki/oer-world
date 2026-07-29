@@ -1,0 +1,61 @@
+slug: kyoto-u-course-1079
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1079/
+type:
+- LearningResource
+- Course
+name:
+  ja: 海洋生物科学技術論と実習I, II, IV（舞鶴水産実験所 学生実習）
+description:
+  ja: 京都大学が提供する、舞鶴水産実験所で行う学生実習の科目である。海洋生物科学技術論とその実習を扱い、I、II、IVの回が設定されている。
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 益田 玲爾
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 甲斐 嘉晃
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 木下 政人
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 鈴木 啓太
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-04-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 農学部, フィールド科学教育研究センター
+  term: 通年集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

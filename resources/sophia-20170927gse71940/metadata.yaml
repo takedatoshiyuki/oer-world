@@ -1,0 +1,47 @@
+slug: sophia-20170927gse71940
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20170927gse71940/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'MIGRATION AND CO-EXISTENCE 2: MIGRATION AND DEVELOPMENT'
+description:
+  ja: 上智大学で2017年秋学期に開講された講義で、浦元義照が担当する。移住と共生を扱う講義シリーズの第2回にあたり、講義名では移住と開発を主題としている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 浦元 義照
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

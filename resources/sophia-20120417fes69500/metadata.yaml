@@ -1,0 +1,52 @@
+slug: sophia-20120417fes69500
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120417fes69500/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語と社会１
+description:
+  ja: 上智大学の卒業生を中心に招き、それぞれの歩みや仕事、業界の事情を聞く講義である。受講生は、そうした話を手がかりに、自分の職業選択や人生設計について考える。授業では毎回の小レポートと期末レポートを課す。
+quotedDescription:
+  text:
+    ja: この講義では、主に英語学科を中心とした上智大学の卒業生をお招きし、それぞれが歩んでこられた人生の軌跡と、過去から現在に至る仕事や個々の業界の事情などを語っていただく。受講生たちは将来の自分自身の職業選択や人生設計を考える様々な材料を見つけることが出来るだろう。毎回、講義から学び自ら考えたことを８００字程度にまとめた小レポートを提出。それとは別に４０００字程度の期末レポートを課す。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120417fes69500/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: コ）東郷 公德
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 外国語学部 英語学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

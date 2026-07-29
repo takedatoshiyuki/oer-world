@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0934
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/934/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際シンポジウム「英語による大学教育の可能性：ヨーロッパの経験と日本の試み」, 2014
+description:
+  ja: この教材は、英語による大学教育の可能性をテーマにした国際シンポジウムを扱う。ヨーロッパでの経験と日本での試みを題材にしており、京都大学の人間・環境学研究科で2014年に開講された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: ピエール・マルチネス（京都大学客員教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: パリ第8大学名誉教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ジャン＝マルク・デュファイス
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 武藤 誠
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-04-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- education
+keywords:
+- 語学
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,102 @@
+slug: utokyo-series-wmvxx4vd91so
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=wMvxX4vD91SO
+type:
+- LearningResource
+- Course
+name:
+  ja: International Refugee Law - Essentials and Comparatives
+description:
+  ja: '国際難民法と国際的保護の基本事項を、難民認定手続や非送還原則、補完的保護、公正な手続まで含めて扱う。加えて、移民法との関係、2018年のグローバル・コンパクト、無国籍や再定住、拘禁、家族統合、気候変動と強制移動を取り上げる。
+
+    日本とニュージーランドの制度や実際の裁判例を比較し、日本の公開判決を国際基準に照らして検討する構成である。複数回のセミナーとして駒場で実施し、最終回は学会合同会議のサイドイベントとして行う。'
+quotedDescription:
+  text:
+    ja: "Course 1 – “Understanding the essentials: International Refugee, Protection, Human Rights and\
+      \ Migration -Law, procedures and assessment” - 6 seminars held on 15-17 October (at 1650 to 2030)\
+      \ at Komaba \n Course 2 – “Wider aspects of international Protection law, practices and the treatment\
+      \ of refugees and migrants AND in depth Comparative assessment of several Asian Court decisions\
+      \ with international norms.”-6 seminars held on 12-14 November (at 1650 to 2030) at Komaba \n The\
+      \ last seminar will be as the side-event of the conference of Japan Association for Human Security\
+      \ Studies and Japan Society for International Development on 17 November at 1845-2030\nCourse 1\
+      \ : “Understanding the essentials”\n1. Introduction and background – The essentials of the individual\
+      \ in Human Rights, Human Dignity and Human Security. Overview of the whole Human Rights framework\n\
+      2. How Refugee other International (Complementary) Protection / non refoulement laws and obligations\
+      \ fall within this framework. A closer look at all the Refugee Convention 1951, Protocol 1967 its\
+      \ background and the role of the UNHCR. How and why refugee and other protection is part of this\
+      \ international framework and NOT the same as Domestic Migration law.\n3. Who is a “refugee “and\
+      \ the “Structured approach” to assessment of asylum claims covering: RSD pursuant to Article 1A\
+      \ (2). Core issues 1 and 2:” Country of origin Information (COI)” and” Credibility Assessment –the\
+      \ facts as found/accepted.”\n4. RSD Core issues 3 and 4: “The nature and seriousness of the harm/Being\
+      \ persecuted”. “Well-founded fear-Risk of harm”.\n5. RSD Core issues 5, 6 and related issues: “for\
+      \ reasons of” and Convention reasons”, “Exclusion” and “Cessation”. International law on Fair procedures,\
+      \ rights to an effective remedy and fair trial.\n6. Complementary protection and why and how all\
+      \ IP assessment should done together. A short case study (50 mins)? Comments. Feedback, Q and A.\n\
+      Course 2 :“The wider aspects of international Protection and Migration law and practices, and treatment\
+      \ of claimants/refugees. Case studies of actual published Japanese cases with international norms\
+      \ using comparative judicial assessments”\n1. The 2018 Global Compacts on Refugees and Safe, Orderly\
+      \ and Regular Migration. (with Sato sensei and others for Japan’s approach). (With assistance from\
+      \ UNHCR Tokyo): Statelessness, Mandated refugees, and resettlement, reception and treatment of claimants\
+      \ / vulnerable persons (New Zealand and Japanese approaches).\n2. Comparative domestic humanitarian\
+      \ migration law and where protection law and migration law can overlap. Detention and alternatives\
+      \ to detention, assimilation programs, education, family unity (New Zealand and Japan). Climate\
+      \ change and forced migration challenges (particularly in the Pacific).\n3. * Legality of the status\
+      \ of claimants during assessment – comparative Visa regimes. (Does the Japanese approach have perverse,\
+      \ abusive results?). Comparative Court assessment/appeal decisions /case studies 3-5 actual Japanese\
+      \ (?1 Korean ) Court decisions with comparative assessment according to “International” norms of\
+      \ refugee law by IARMJ judges.\n4. Comparative case assessments - As above.\n5. Thursday 14th afternoon:\
+      \ continue as above.\n6. As above and Final summary and Q and A\n7. Final part of course is to attend\
+      \ the Joint Conferences of JASID/JAHSS /ANRIP at Todai Komaba.\n*For 13, 14 and 17 November Martin\
+      \ Treadwell ( President of IARMJ Asia Pacific chapter ) will join the Seminars."
+  source: https://ch.u-tokyo.ac.jp/series/?id=wMvxX4vD91SO
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Allan Mackey
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Martin Treadwell
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+- social_sciences
+keywords:
+- 政治・法律
+- 国際関係
+- 国際社会
+- 人権
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: icu-wl-wfr101-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/wl/wfr101_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: French I フランス語 I 2013S
+description:
+  ja: 初心者向けのフランス語科目で、週の予定の違いに応じて A と B の2セクションに分かれている。基礎的なフランス語の習得に加え、その文化的背景も扱う。
+quotedDescription:
+  text:
+    ja: 'This course for beginners has two sections: A French I and B French I, according to the difference
+      of weekly schedule. Not only basic French language skill but also the cultural background will be
+      acquired.
+
+      この初心者のためのフランス語コースはA French IとB French Iの曜日の違うふたつのセクションがある。フランス語力の基礎を身につけると同時に、その文化的背景も学ぶ。'
+  source: https://ocw.info.icu.ac.jp/wl/wfr101_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 西川葉澄
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 世界の言語
+- 'WFR101 | Course Schedule: 5/M,6/M,5/W,6/W,5/F,6/F | Update: 2013.09.04 Category: World Languages'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

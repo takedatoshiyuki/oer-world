@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0865
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/865/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第8回ユニバーシティ・アドミニストレーターズ・ワークショップ
+description:
+  ja: 京都大学が提供し、京都大学が担当する「第8回ユニバーシティ・アドミニストレーターズ・ワークショップ」である。開講日は2013-01-29で、使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-01-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

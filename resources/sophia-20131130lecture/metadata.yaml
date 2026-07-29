@@ -1,0 +1,53 @@
+slug: sophia-20131130lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20131130lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回上智大学全国高校生英語弁論大会ジョン・ニッセル杯
+description:
+  ja: 高校生が英語で自分の考えを発表する弁論大会を扱う。上智大学外国語学部英語学科が主催し、2011年に創設された大会として、2013年の本選までの流れと開催の様子を示す。
+quotedDescription:
+  text:
+    ja: "創立１００周年記念事業の一環として2011年に創設されたこの弁論大会は、外国語学部英語学科が主催し、高校生が自分の考えを英語で発表することを通じて英語能力向上の一助となること目的としています。英語学科で長年教鞭をとった故ジョン・ニッセル教授にちなんで「ジョン・ニッセル杯」と名づけられました。\
+      \ \n 今回は、全国から118人の応募があり、一次審査を通過した21人が四谷キャンパスで行われた本選に臨みました。優秀な弁論が多く、審査員による順位決定のための審議に予定より時間がかかりました。\
+      \ \n 「本当に甲乙つけがたい弁論大会でした。素晴らしい内容でしたし、英語も上手い。毎年レベルが上がってきて、今年ほど審査に苦労した年はなかったです」と、審査委員長を務めた吉田研作言語教育研究センター教授は大会を振り返りました。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20131130lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 外国語学部英語学科
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 言語教育研究センター/外国語学部英語学科
+  term: 2013/11/30
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

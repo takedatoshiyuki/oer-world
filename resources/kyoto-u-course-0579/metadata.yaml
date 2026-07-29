@@ -1,0 +1,47 @@
+slug: kyoto-u-course-0579
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/579/
+type:
+- LearningResource
+- Course
+name:
+  ja: ヘルスプロモーションにおけるゲームの応用
+description:
+  ja: 京都大学医学研究科で開講された講義で、木原正博が担当する。ヘルスプロモーションにゲームをどう応用するかを扱う内容で、使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 木原 正博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 医学研究科
+  term: 後期前半
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

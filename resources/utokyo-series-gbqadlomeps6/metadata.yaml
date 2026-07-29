@@ -1,0 +1,56 @@
+slug: utokyo-series-gbqadlomeps6
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=GbqaDLoMEps6
+type:
+- LearningResource
+- Course
+name:
+  ja: 統計数理
+description:
+  ja: 確率統計、確率過程、信号処理の基礎を、講義と演習を通して扱う授業である。順列と組み合わせから確率分布、ランダムウォーク、ブラウン運動、フーリエ変換、ディジタル信号処理までを含み、信号処理ではSPICE3を用いた演習も行う。
+quotedDescription:
+  text:
+    ja: この講義は主に学部３年生を対象としているが、学部４年生も受講することができる。確率統計、確率過程、信号処理の基礎を、講義と演習を通して習得し、自 在に応用できるようにするのが目的である。この講義によって身に付く事項として、順列と組み合わせ、確率変数と確率分布、ランダムウォーク、ブラウン運
+      動、ランジュバン方程式、自己相関、雑音、誤差、フーリエ変換、パワースペクトル、ディジタル信号処理などが挙げられる。信号処理については、コンピュー タ上でSPICE3プログラムを用いた演習も行う。
+  source: https://ch.u-tokyo.ac.jp/series/?id=GbqaDLoMEps6
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石川 顕一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

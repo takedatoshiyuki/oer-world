@@ -1,0 +1,47 @@
+slug: tsukuba-ds-integration-of-ai-and-control
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/integration-of-ai-and-control/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 AIと制御の融合によるロボットの高速汎用物体操作
+description:
+  ja: 実世界環境でロボットが物体を操作する場面を題材に、機械学習の応用を扱う講義である。AIでロボットを制御する際に、どのようなデータを使えば適切に操作できるかという点を、実応用を通して考える。
+quotedDescription:
+  text:
+    ja: 本講義では、実世界環境の物体をロボットが操作するための機械学習の応用例について紹介する。AIを用いてロボットを制御すれば容易にロボットが人間並の作業をできると思われがちであるが、これはなかなかに難しい。どのようなデータを用いればロボットを適切に操作できるのか、という実応用を通してデータを利活用するための問題意識と解決策を解説する。
+  source: https://ocw.tsukuba.ac.jp/data-science/integration-of-ai-and-control/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 境野 翔
+  affiliation:
+    name: 筑波大学 システム情報系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2022-09-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

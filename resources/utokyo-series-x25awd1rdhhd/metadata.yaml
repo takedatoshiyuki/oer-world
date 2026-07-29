@@ -1,0 +1,94 @@
+slug: utokyo-series-x25awd1rdhhd
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=X25awd1rdHHd
+type:
+- LearningResource
+- Course
+name:
+  ja: 第134回（2022年春季）東京大学公開講座 「グリーントランスフォーメーションへの道：個人と社会の架け橋」
+description:
+  ja: 2050年ごろの温室効果ガス排出実質ゼロを目指す世界の動きを手がかりに、その背景にある科学・金融・技術を考える。さらに、そうした変化に対応して持続可能な社会を実現するための日本の社会改革の課題を扱う。
+quotedDescription:
+  text:
+    ja: '2050年ごろに温室効果ガス排出実質ゼロを目指す動きが世界で加速しています。この急速でダイナミックな変化とその背景にある要因（科学、金融、技術）について考え、[変化]に対応し、持続可能な社会の実現にむかう日本の社会改革の課題を考えます。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。
+
+      運営・著作権処理・映像編集：東京大学 大…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=X25awd1rdHHd
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高村 ゆかり
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松橋 隆治
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 升本 順夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古荘 真敬
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 橋本 禅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 杉山 正和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中西 もも
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大越 慎一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- engineering
+- arts_humanities
+keywords:
+- 環境
+- エネルギー・資源
+- 言語・思想
+- 人口・社会問題
+- 教育
+- 脱炭素
+- 気候変動
+- 海洋
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

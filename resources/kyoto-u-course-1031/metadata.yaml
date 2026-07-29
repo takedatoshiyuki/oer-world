@@ -1,0 +1,65 @@
+slug: kyoto-u-course-1031
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1031/
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和２年度 エネルギー科学研究科 公開講座「エネルギー科学の今 ～プラズマってなに？その技術応用と環境に優しい燃焼の舞台裏～」
+description:
+  ja: この公開講座は、プラズマの生成と応用を主題にした2本の講演で構成される。1本目では、マイクロ波と磁場を用いたプラズマ生成と、その高温プラズマ制御や核融合エネルギー開発への関わりを扱う。2本目では、燃焼によるエネルギー変換を背景に、プラズマ支援点火技術の特徴と効果を取り上げる。
+quotedDescription:
+  text:
+    ja: '講演１ 田中 仁 先生 （エネルギー基礎科学専攻）
+
+      講演題目 「マイクロ波で作るプラズマ　−核融合への挑戦−」
+
+      プラズマはイオンと電子が電離して飛び回っている状態にあり、電磁気的作用により様々な性質を現します。そして、プラズマの中では試験管などの中では起きないような反応も起こすことができます。現在、プラズマ生成技術の進展に伴い、様々な分野でプラズマの応用が進んでいます。本講演では、マイクロ波と磁場を組み合わせてプラズマを作る方法を取り上げ、その特徴と、核融合発電のための炉心となる高温プラズマの生成・制御への応用について紹介します。また、核融合エネルギー開発の現状についても合わせて紹介します。
+
+      講演２ 林 潤 先生 （エネルギー変換科学専攻）
+
+      講演題目 「燃焼によるエネルギー変換　−プラズマを応用した燃焼支援−」
+
+      現在でも、世界の一次エネルギー需要の約８割は、化石燃料が持つ化学エネルギーを熱エネルギーや電気エネルギーへと変換することで賄われています。このエネルギー変換の重要な技術の一つは、「燃焼」反応によるエネルギー変換です。私たちが持続可能な社会を維持していくためには、エネルギーを効率よく変換して利用する必要があり、時には燃焼反応を維持しにくい，燃料が希薄な条件で確実に火をつけることが技術課題となります。近年では、この技術課題を克服するために、プラズマを応用した燃焼支援技術に関する研究が進められています。本講演では、プラズマによる燃焼支援技術の一つである、プラズマ支援点火技術について、その特徴と効果について紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/1031/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 田中 仁
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 林 潤
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

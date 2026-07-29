@@ -1,0 +1,94 @@
+slug: utokyo-series-ersrxizrh8yb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ERSrxIZrH8YB
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京カレッジ講演会
+description:
+  ja: 日本の将来像を、女性のリーダーシップという観点から論じる講演である。ビル・エモットが、日本で多様な分野のリーダーとして活動する女性たちへのインタビューを踏まえ、20年後の日本のあり方を考える。
+quotedDescription:
+  text:
+    ja: '20年後の日本。女性こそが社会を変える原動力
+
+      「日本の未来の発展を担うのは女性に他ならない。20年後の日本は多くの女性のリーダーが活躍する社会になっているだろう。」エモット氏は、多様なセクターでリーダーとして活躍する日本の女性たちへのインタビューを通して、こう確信したそうです。著書『日はまた沈む』でバブル崩壊を予測した世界的ジャーナリストが次に予測する日本と女性の未来を、一緒に考えてみませんか?
+
+      ★ …'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ERSrxIZrH8YB
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: ビル・エモット
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: スヴァンテ・リンドクヴィスト
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: アンソニー・レゲット
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: アンドルー・ゴードン
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊達 聖伸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 羽田 正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中島 隆博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 沼野 充義
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- health_welfare
+- natural_sciences_math
+keywords:
+- 文化・芸術・文芸
+- 言語・思想
+- 歴史
+- 生命・医療
+- 環境
+- 視点を変えた新しい世界史
+- ダーク・ツーリズム
+- 健康
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

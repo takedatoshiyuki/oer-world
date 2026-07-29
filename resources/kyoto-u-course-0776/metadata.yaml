@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0776
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/776/
+type:
+- LearningResource
+- Course
+name:
+  ja: Top Global Course Special Lectures “K-theory of group C∗-algebras and applications”
+description:
+  ja: 群C∗-代数のK理論を中心に、その応用としてトポロジー、表現論、指数理論との関係を扱う講義である。未解決の予想を含む理論の現状を、深い技術的細部に入らずに概観する。大学院生向けで、ヒルベルト空間論の基礎知識が前提となる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      A rapid development of K-theory of group C*-algebras started about 40 years ago. To a large extent
+      this was related with applications to topology of smooth manifolds (the Novikov conjecture on higher
+      signatures) and to representation theory of semisimple Lie groups (and discrete discrete series
+      in particular). But the topic of K-theory for group C*-algebras is very attractive also by its deep
+      relations with index theory of elliptic operators. There are several unsolved, very challenging
+      conjectures in this theory, such as the Baum-Connes conjecture and the Kadison-Kaplansky conjecture.
+      I will try to give a survey of the current status of this theory, without going into deep technical
+      details. This talk will be accessible to graduate students. (Some knowledge of Hilbert space theory
+      will be required).'
+  source: https://ocw.kyoto-u.ac.jp/course/776/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Gennadi Kasparov（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Vanderbilt University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-06-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

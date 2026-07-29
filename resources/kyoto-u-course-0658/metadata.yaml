@@ -1,0 +1,85 @@
+slug: kyoto-u-course-0658
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/658/
+type:
+- LearningResource
+- Course
+name:
+  ja: 朝鮮・韓国学入門
+description:
+  ja: 京都大学の教員によるリレー講義として、朝鮮・韓国の歴史や文化に関するテーマを扱う講義の第9回資料である。公開されている教材は、水野直樹教授が日本支配期を中心に朝鮮人の名前の歴史を論じる回の講義資料である。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      京都大学の各学部・研究科・研究所に所属する教員が、朝鮮・韓国の歴史や文化に関するトピックを選んで、リレー講義の形式で行なう。
+
+       
+
+      授業の紹介
+
+      朝鮮半島の文化や歴史への関心を深めるために、担当教員がそれぞれの専門分野においてトピックとなるテーマを選んで話をする。朝鮮・韓国に関する教養的な知識だけでなく、その文化・歴史に対する見方を考え直すきっかけとする。'
+  source: https://ocw.kyoto-u.ac.jp/course/658/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 水野直樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金文京
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 堀和生
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉井秀夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 矢木毅
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西垣安比古
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第9回\t水野直樹教授　「朝鮮人の名前とその歴史−日本支配期を中心に 」"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_chosenkankokugakunyumon.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/658/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

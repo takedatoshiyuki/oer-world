@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0753
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/753/
+type:
+- LearningResource
+- Course
+name:
+  ja: Stability, singularity, and long-time dynamics of nonlinear Schrödinger equations
+description:
+  ja: 非線形シュレーディンガー型偏微分方程式の大域的な時間発展を扱い、局在構造の安定性や特異点の生成、長時間の漸近挙動を議論する講義である。あわせて、調和解析や関数解析、スペクトル理論、力学系の道具を導入し、臨界スケーリングの方程式、ソリトンと外場の相互作用、周期波の安定性などを題材にする。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Partial differential equations of nonlinear Schrödinger type describe the dynamics, in certain regimes,
+      of physical systems as varied as Bose-Einstein condensates, ferromagnets, plasmas, lasers, and fluid
+      interfaces, and more generally serve as models of nonlinear dispersive wave phenomena. The mathematical
+      study of such nonlinear dispersive pde, among the most active areas of analysis, has matured beyond
+      well-posedness questions, to the point where qualitative behaviour of solutions in large parts of
+      the phase space can be described.
+
+      This lecture course will describe some of the recent developments toward understanding global dynamics
+      in nonlinear Schrödinger type equations, emphasizing the stability of localized structures, the
+      formation/non-formation of singularities, and the long-time asymptotic behaviour. Necessary tools
+      from harmonic analysis, functional analysis, spectral theory, and dynamical systems will be introduced
+      along the way.
+
+      Specific topics include:
+
+      • global behaviour and blowup in critical-scaling geometric Schrödinger equations;
+
+      • the interaction of NLS solitons with an external field;
+
+      • the stability of spatially periodic waves. Lecture 1 (2 hours): Introduction'
+  source: https://ocw.kyoto-u.ac.jp/course/753/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-02-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

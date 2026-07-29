@@ -1,0 +1,59 @@
+slug: utokyo-series-b03zfwq9wcv2
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=b03ZFwq9wCv2
+type:
+- LearningResource
+- Course
+name:
+  ja: 仁科記念講演会「祝 ニホニウム発見」いかにして元素は合成されたか ～天然元素から人工元素まで～
+description:
+  ja: 2016年11月に周期表へ加わった原子番号113番の新元素ニホニウムを手がかりに、元素合成の話題を扱う講演である。宇宙における元素合成の謎と、天然元素がどのように合成されたかを茂山俊和が述べる。
+quotedDescription:
+  text:
+    ja: "2016年11月、日本発の新元素、原子番号113番「ニホニウム」Nh が「周期表」に登場しました。  \n \n  この講演では、宇宙における元素合成の謎に挑む新進気鋭の物理学者、茂山俊和先生が「いかにして天然元素は合成されたか」を語ります。\
+      \ \n \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。  \n  お気に入りの講義・講演があればSNSなどでシェアをお願いします。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=b03ZFwq9wCv2
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 茂山 俊和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 羽場 宏光
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山崎 敏光
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

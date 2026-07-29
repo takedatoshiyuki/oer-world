@@ -1,0 +1,56 @@
+slug: sophia-20221120highschool
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20221120highschool/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第12回 上智大学全国高校生英語弁論大会ジョン・ニッセル杯
+description:
+  ja: 全国の高校生が参加する英語弁論大会の第12回開催の様子を収める。大会テーマに沿って、参加者が自身の経験を含む多様な視点からスピーチを行い、審査の結果、上位入賞者と特別賞受賞者が表彰されるまでを扱う。
+quotedDescription:
+  text:
+    ja: "第12回を迎える今回の大会テーマは、“Coexistence for a Sustainable Future”。3年ぶりの対面での開催となり、264人の応募者のなかから厳しい一次審査を通過した19人の高校生が全国から集まり、自分自身の経験を含めた様々な視点から、内容・語学力ともに見事なスピーチを披露しました。\
+      \ \n 審査の結果、上位6名と特別賞「英検賞」1名の合計7名が表彰され、トロフィー、表彰状、副賞が授与されました。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20221120highschool/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 言語教育研究センター
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 外国語学部英語学科
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 言語教育研究センター/外国語学部英語学科
+  term: 2022/11/20
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

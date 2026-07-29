@@ -1,0 +1,60 @@
+slug: hokudai-wastemanagement-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/wastemanagement-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学プロフェッサー・ビジット 循環型社会と低炭素社会(2010)
+description:
+  ja: ペットボトルや家電製品のリサイクルと、そのアジア各国への輸出を取り上げる。日本の循環型社会制度が実際に環境にどのような結果を生んでいるのかを検討し、持続可能な低炭素社会の実現に向けた課題にも触れる。世界の視点から循環型社会と低炭素社会を考える内容である。
+quotedDescription:
+  text:
+    ja: 'ペットボトルや家電製品がリサイクルされアジア各国に輸出されています。日本は世界に先がけ循環型社会という制度を作っていますが、本当に環境に優しい結果を生んでいるのか。この問題を持続可能な低炭素社会の実現への課題にも触れながら、世界の視点で考えてみましょう。
+
+      関連情報
+
+      北海道大学プロフェッサー・ビジット(2009)
+
+      北海道大学プロフェッサー・ビジット(2008)'
+  source: https://ocw.hokudai.ac.jp/lecture/wastemanagement-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 吉田 文和
+  affiliation:
+    name: 北海道大学経済学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- ビジネス／経済
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

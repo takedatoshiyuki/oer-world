@@ -1,0 +1,46 @@
+slug: sophia-20150801ocphilip
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20150801ocphilip/
+type:
+- LearningResource
+- Course
+name:
+  ja: How to have a great conversation
+description:
+  ja: 上智大学が2015年度に大学部局で開講した講義で、PATRICK Philipが担当する。使用言語は日本語で、講義名は「How to have a great conversation」である。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: PATRICK Philip
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 大学
+  term: 2015年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: kyoto-u-course-0068
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/68/
+type:
+- LearningResource
+- Course
+name:
+  ja: 細胞内情報発信学
+description:
+  ja: 京都大学理学部で2018年前期に開講された、日本語で行う講義である。担当は森和俊で、講義名は細胞内情報発信学である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森 和俊
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

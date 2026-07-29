@@ -1,0 +1,134 @@
+slug: icu-gs-qall401-2016w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/gs/qall401_2016w
+type:
+- LearningResource
+- Course
+name:
+  ja: Computing for Researchers 研究者のためのコンピューティング
+description:
+  ja: この講義は、研究に必要なコンピューティング技能を身につけることを目的に、データ処理、統計分析、図表作成、TeX/LaTeXによる論文組版を扱う。講義内容にはRの基本操作からRを用いた統計、Rmarkdownによる再現可能な文書作成まで含まれる。最後に最終発表を行う。
+quotedDescription:
+  text:
+    ja: 'This course will help graduate students from many academic fields develop computing skills for
+      research. Students will learn computing techniques and basic tools for data processing, statistical
+      analysis, charting, graphing, as well as the TeX/LaTeX software for typesetting research articles
+      in professional style.
+
+      コンピュータをツールとして活用し、研究論文作成に必要な基本要素の理解および実技を通してスキルを身につけることを目標とします。膨大な情報から必要な情報を検索・抽出し、それらを必要な形態に変換するデータ処理、データの可視化に必要なグラフ作成のスキルなどを学びます。また、データ分析の基礎を学ぶとともに、実技によって実際の方法を学び、最後に文書整型ツールを利用した、学術論文などの作成を行います。
+
+      Contents of Lectures
+
+      10
+
+      Lectures / 2 Videos
+
+      Dec06 Introduction to R I
+
+      Professor Pichl/Professor Kaizoji
+
+      Dec13 Introduction to R II
+
+      Professor Pichl
+
+      Dec 20
+
+      Introduction to R III
+
+      Professor Pichl
+
+      Jan10
+
+      Introduction to R IV
+
+      Professor Pichl
+
+      Jan 17 Introduction to R V Professor Pichl
+
+      Statistics with R I
+
+      Professor Kaizoji
+
+      Jan 24 Statistics with R II
+
+      Professor Kaizoji
+
+      Jan 31 Statistics with R III
+
+      Professor Kaizoji
+
+      Feb 07
+
+      Statistics with R IV
+
+      Professor Kaizoji
+
+      Feb 14 Dynamic Documents Using Rmarkdown
+
+      Guest Lecture:Professor Suzuki
+
+      R Markdown for Reproducible Research and Dynamic Documents
+
+      Period 2
+
+      Period 3
+
+      Slide
+
+      QALL401-2016w-slides2016.pdf
+
+      Feb
+
+      21
+
+      Final presentations'
+  source: https://ocw.info.icu.ac.jp/gs/qall401_2016w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 海蔵寺大成
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 鈴木寛
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 名誉教授
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 大学院科目
+- 'QALL401 | Course Schedule: 2/TU,3/TU | Update: 2019.09.26 Category: Graduate Schools'
+audience:
+- student
+educationalLevel:
+- master
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

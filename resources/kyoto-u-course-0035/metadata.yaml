@@ -1,0 +1,91 @@
+slug: kyoto-u-course-0035
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/35/
+type:
+- LearningResource
+- Course
+name:
+  ja: マクロ経済学 1
+description:
+  ja: 京都大学経済学部の2010年度開講講義で、国民経済計算から乗数モデル、IS-LMモデル、開放経済、マンデル・フレミングモデルまでを扱う。公開されている教材には、利子率や割引現在価値、期待と消費・投資、期待とIS-LMモデルに関する回も含まれる。出典文では、学部中級レベルのマクロ経済学の前半部分にあたるとしている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      この講義は学部中級レベルのマクロ経済学の前半部分にあたる。標準的な理論を用いて現実のマクロ経済を分析する力を身につけることを目指す。
+
+      授業の紹介
+
+      学部中級レベルのマクロ経済学のトピックスのうち、国民経済計算、乗数モデル、IS-LMモデル、マンデル・フレミングモデル、消費のライフサイクルモデル、投資のQ理論などについてカバーする。'
+  source: https://ocw.kyoto-u.ac.jp/course/35/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 遊喜 一洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 マクロ経済変数・国民経済計算(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第2回 国民経済計算(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第3回 乗数モデル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第4回 IS-LM モデル(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第5回 IS-LM モデル(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第6回 財市場と金融市場の開放性'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第7回 開放経済における財市場'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第8回 マンデル・フレミングモデル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第9回 名目利子率・実質利子率/ 割引現在価値'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第10回 期待と消費･投資'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+- name: '講義資料: 第11回 期待とIS-LMモデル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_makurokeizaigaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/35/
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

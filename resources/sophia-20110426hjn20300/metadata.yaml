@@ -1,0 +1,84 @@
+slug: sophia-20110426hjn20300
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+type:
+- LearningResource
+- Course
+name:
+  ja: ジャーナリズム史Ｉ
+description:
+  ja: 文字の誕生から紙、印刷、通信、交通手段の発展までを手がかりに、ジャーナリズムがどのように形づくられていくかを扱う。対象は草創期の世界から19世紀までで、ジャーナリズムの発展を通史としてたどる内容である。
+quotedDescription:
+  text:
+    ja: ジャーナリズムの発展について概説する｡文字の誕生から紙、印刷などの複製技術の出現、通信、交通手段の発展がジャーナリズムの形式を規定していく状況を眺める｡ 草創期（世界）から～19世紀まで
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 鈴木 雄雅
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20110426HJN20300-2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-3.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-3.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-4.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-4.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-5.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-5.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-7.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-7.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-8.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-8.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-9.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-9.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-10.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-10.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-11.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-11.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+- name: '講義資料: 20110426HJN20300-12.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110426HJN20300-12.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110426hjn20300/
+extensions:
+  faculty: 文学部 新聞学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

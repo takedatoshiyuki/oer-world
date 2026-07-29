@@ -1,0 +1,60 @@
+slug: utokyo-series-8uitzlbb8m2l
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=8uiTZlBb8m2L
+type:
+- LearningResource
+- Course
+name:
+  ja: PEAK Information Seminar
+description:
+  ja: 東京大学のPEAK（教養学部英語コース）を紹介する講義で、担当教員による模擬授業の様子を収める。内容はグローバリゼーションとは何かを考える構成になっている。
+quotedDescription:
+  text:
+    ja: 'PEAK（教養学部英語コース）を紹介する PEAK Information Seminar より、担当教員による模擬授業の様子をお届けします。グローバリゼーションとは何か、考えてみませんか？
+
+      ★PEAK（教養学部英語コース）については、こちら
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=8uiTZlBb8m2L
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Bregham Dalgliesh
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け・英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

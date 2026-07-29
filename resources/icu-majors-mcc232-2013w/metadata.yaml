@@ -1,0 +1,82 @@
+slug: icu-majors-mcc232-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mcc232_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: Interpreting Theory and Practice 通訳の理論と実践
+description:
+  ja: 通訳をコミュニケーションの営みとして捉え、その性質や進行過程を考察する講義である。基礎理論に加えて、通訳の形態やモード、訓練方法を扱い、逐次通訳と同時通訳の実践も含む。さらに、時事問題について日本語と英語で情報や考えを素早く整理することにも取り組む。
+quotedDescription:
+  text:
+    ja: 'The nature and process of interpreting will be examined from a communication studies perspective.
+      Basic interpreting theories and a variety of interpreting types and modes will be introduced. Students
+      will experience various training methods and practice both consecutive and simultaneous interpreting.
+      The course also trains students in promptly presenting information and one’s understanding of current
+      issues both in Japanese and English.
+
+      通訳という行為のプロセスと特質を、コミュニケーションの観点から考察する。基礎的な理論の学習と共に、様々な通訳の形態を学ぶ。また、各種の練習法、逐次通訳、同時通訳を体験する。時事問題領域を広く学び、日本語および英語で情報や概念を素早くまとめる能力も養う。
+
+      Contents of Lectures
+
+      2
+
+      Lectures /
+
+      3
+
+      Videos
+
+      Jan 16
+
+      Jan 21
+
+      Period 1
+
+      Period
+
+      2'
+  source: https://ocw.info.icu.ac.jp/majors/mcc232_2013w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 本郷好和
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- Media‚ Communication and Cultu
+- 'MCC232 | Course Schedule: 1/TU, 2/TU, 1/TH | Update: 2018.10.04'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

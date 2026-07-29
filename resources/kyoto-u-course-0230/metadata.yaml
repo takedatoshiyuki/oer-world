@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0230
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/230/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第83回 京都大学丸の内セミナー「花はなぜ春がわかるのか？～季節を測る分子メカニズム～」
+description:
+  ja: 植物が、変化する環境の中で決まった時期に花を咲かせる仕組みを、開花時期を調節する遺伝子のはたらきから考える講義である。さらに、数週間前の気温情報が花の時期の制御にどう関わるかを取り上げ、季節の変化を測る分子メカニズムを扱う。
+quotedDescription:
+  text:
+    ja: '自然の中では、環境が刻々としかも複雑に変化します。植物は、こうした変動する環境下で決まった時期に花を咲かせます。じっとして動かないように見える植物ですが、生きるための様々な機能を持ち、それらを駆使して、葉を広げ、水を吸収し、花を咲かせて実を結びます。その機能が、少々の環境変動で誤作動していては、自然界で生きていくことは難しいでしょう。そのためこれらの機能を支える遺伝子の働きにも、自然の中で十分能力を発揮できるような仕組みがあるはずです。
+
+      　遺伝子の研究というと、高度な設備が整った研究所の実験室内だけでおこなわれていると考えるかもしれません。しかし、分子遺伝学的手法の発達とともに、遺伝子を野外で研究することができるようになりました。
+
+      　本講演では、開花の時期を調節する遺伝子の「生態学」を紹介します。特に、植物が、数週間前に経験した気温を覚えているかのように、花の時期を調節することについてお話したいと思います。皆さんは、2週間前は温かかったか、寒かったか、覚えていますか？6週間前ならどうですか？'
+  source: https://ocw.kyoto-u.ac.jp/course/230/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 工藤 洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-06-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生態学研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

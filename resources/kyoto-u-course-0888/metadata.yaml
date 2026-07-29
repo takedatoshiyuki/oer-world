@@ -1,0 +1,104 @@
+slug: kyoto-u-course-0888
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/888/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第51回国際漢蔵語学会
+description:
+  ja: 第51回国際漢蔵語学会の基調講演3件を公開するオープンコースウェアである。会議はシナ・チベット諸語の研究を軸に、音声学、音韻論、形態論、統語論、意味論、歴史言語学、社会言語学などを扱ってきた。本資料では、その学会の講演を通してシナ・チベット諸語言語学の研究内容に触れる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      国際漢蔵語学会（International Conference on Sino-Tibetan Languages and Linguistics）は1968 年以来、50 年にわたり、シナ・チベット諸語研究者の有志によって開催されてきている。当初はシナ・チベット諸語の系統関係が議論の中心であった。しかしながら、言語学にかかわる分野であれば、音声学・音韻論、形態論、統語論、意味論、歴史言語学、社会言語学などさまざまな分野からの発表がおこなわれるようになってきている。
+      特に近年は、中国やインド、東南アジア諸国での臨地調査が容易になってきたことをうけて、当該地域の未記述言語や消滅危機言語にかんする研究発表もさかんである。また、シナ・チベット諸語の枠組みをこえて、近隣のオーストロアジア諸語やオースロネシア諸語、タイ諸語にかんする研究発表もみられる。
+
+      本オープンコースウェアは、第 51 回国際漢蔵語学会のうち、三つの基調講演を公開するものである。
+
+      （現在、James A. Matisoff 先生とJackson T.-S. Sun 先生の講演映像を先行公開しています。）
+
+       
+
+      Course Description
+
+      Since 1968, the International Conference on Sino-Tibetan Languages and Linguistics (ICSTLL) has
+      been held by volunteers of researchers working on Sino-Tibetan languages. Initially, the main focus
+      of the conference was to discuss the genetic relationship between Chinese and Tibeto-Burman languages.
+      However, the conference now covers a wide range of fields related to Sino-Tibetan linguistics such
+      as phonetics, phonology, morphology, syntax, semantics, historical linguistics, sociolinguistics
+      among others. Especially in recent years, as it has become easier to carry out linguistic fieldwork
+      in China, India, and Southeast Asian countries, presentations on undescribed languages as well as
+      endangered languages got popular in the conference. In addition to Sino-Tibetan languages, there
+      are presentations on neighbouring Austro-Asiatic languages, Austronesian languages, and Tai-Kadai
+      languages.
+
+      This open courseware provides three plenary talks from the 51st International Conference on Sino-Tibetan
+      Languages and Linguistics.
+
+      (We antecedently offer the lecture of Prof. James A. Matisoff and Prof. Jackson T.-S. Sun.)'
+  source: https://ocw.kyoto-u.ac.jp/course/888/
+  note: 京都大学OCW 「概要」・「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Justin Watkins（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: SOAS
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of London）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: James A. Matisoff（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of California
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Berkeley）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Jackson T.-S. Sun（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Academia Sinica）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-09-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 白眉センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

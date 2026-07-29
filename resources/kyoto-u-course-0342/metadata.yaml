@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0342
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/342/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学・日本財団森里海シンポジウム2019「足元から見直す、持続可能な暮らし～森里海連環学をレジリエンスで紐解く～」
+description:
+  ja: 森里海連環学を扱い、研究者だけでなく実践者や高校生を含む参加者が協働するシンポジウムである。生態系・人・社会をつなぐ考え方を、足元の暮らしの見直しという観点から探る。高校生によるポスターセッションも含む。
+quotedDescription:
+  text:
+    ja: '概要
+
+      本シンポジウムでは、森里海連環学の原点に立ち返り、研究者のみならず、実践者、高校生を含めた若者たちが協働し、様々な枠を超えて、私たちの足元を見直し、生態系・人・社会をつなぎ合わせていくアプローチを探ります。また、高校生によるポスターセッションを行います。'
+  source: https://ocw.kyoto-u.ac.jp/course/342/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-02-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: hokudai-informationdesign-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/informationdesign-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 博物館における映像情報デザイン (2010)
+description:
+  ja: 博物館において、標本そのものに加えて説明文、写真、映像がどのような働きをするかを扱う。実物展示が難しい対象や、発見時の状況、人の肉声を伝える場面で映像が果たす役割にも触れ、博物館での映像の役割と作り方を考える。
+quotedDescription:
+  text:
+    ja: 博物館には、数多くの標本があります。しかし、それらの標本を見ているだけでは、その価値を知ることは難しく、パネルにある説明文や写真、モニターに映し出される映像など標本を補完するツールのおかげで気づきや標本の見方を知り、理解することができます。特に、自然や産業、文化遺産など実物展示が難しい場合や標本が見つかった当時の状況、人の肉声を紹介するインタビューなどでは映像の持つ特性が発揮されます。今回のセミナーでは、博物館の中での映像とはどのような役割があるのか、どのように作られているのか一緒に考えていきたいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/informationdesign-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤田 良治
+  affiliation:
+    name: オープンエデュケーションセンター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,68 @@
+slug: kyoto-u-course-0023
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/23/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育課程論
+description:
+  ja: 教育課程論を扱う京都大学の講義資料で、2018年に教育学部で公開されたスライド資料1件を収録する。担当者として西岡加名恵、田中容子、岸田蘭子が記載され、出典文では岸田蘭子がゲスト講師であることが示されている。
+quotedDescription:
+  text:
+    ja: '西岡 加名恵（教育学研究科 教授）
+
+      田中 容子
+
+      ゲスト講師：岸田 蘭子（京都市立高倉小学校 校長）'
+  source: https://ocw.kyoto-u.ac.jp/course/23/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 容子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岸田 蘭子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2018_kyouikukateiron.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/23/
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

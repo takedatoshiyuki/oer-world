@@ -1,0 +1,46 @@
+slug: sophia-20180804ocanno
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20180804ocanno/
+type:
+- LearningResource
+- Course
+name:
+  ja: Japan’s Security Policy and Collective Self-Defense
+description:
+  ja: 上智大学国際教養学部で2018年度に開講された講義で、ANNO Tadashiが担当する。講義名から、日本の安全保障政策と集団的自衛権を扱う内容であることが分かる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: ANNO Tadashi
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 国際教養学部
+  term: 2018年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

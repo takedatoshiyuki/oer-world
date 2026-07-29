@@ -1,0 +1,84 @@
+slug: utokyo-series-rcxqcuz1ylrk
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=RcXqcUz1Ylrk
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学バーチャルリアリティ教育研究センター開所記念式典：東京大学が挑戦するバーチャルリアリティの未来
+description:
+  ja: 東京大学のVR教育研究センター開所記念式典を扱い、式典当日の講演とパネルディスカッションを収録する。医学系や人文系など複数分野でVRを用いる若手研究者の講演を通して、VRの活用例を示す。その後、VRに期待することを議論する構成になっている。
+quotedDescription:
+  text:
+    ja: '東京大学は、2018年11月1日(木)、伊藤国際学術研究センター・伊藤謝恩ホールにおいて、バーチャルリアリティ(VR)教育研究センター設立記念式典を開催しました。
+
+      若手講演・パネルディスカッション１「バーチャルリアリティへの期待」では、医学系や人文系など様々な分野でVRをツールとして使用している若手研究者による講演のあと、VRに期待することについて議論します。
+
+      若手講演
+
+      00:01:56 「3DCGを駆使した脳神経外科手術シュ…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=RcXqcUz1Ylrk
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 苗村 健
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 金 太一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉川 弥生
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 芳賀 京子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 檜山 敦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 稲見 昌彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鳴海 拓志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 筧 康明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

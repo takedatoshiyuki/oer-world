@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0461
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/461/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第14回 iCeMSラーニングラウンジ：会津学鳳高校の皆さん（iCeMSキャラバンスペシャルコラボ企画）
+description:
+  ja: この講義は、iCeMSキャラバンと連動して行われた特別企画で、高校生と校長がそれぞれの立場から発表する。高校生は科学者の仕事や世界への関心を述べ、加藤知道は次世代人材育成をめぐる考えを共有する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      今回のラーニングラウンジは、iCeMSキャラバンとスペシャルコラボ。「iCeMSキャラバン」は、研究者が高校を訪問し、「知識をもとにアイディアを創造し、伝える」という過程を高校生に体験してもらう、アクティブラーニング型プログラムです。今回は逆に、キャラバンを受講した高校生が、iCeMSにやってきました！
+
+       
+
+      会津学鳳高校の学生の皆さん
+
+      「高校生に道しるべを！科学者の世界を知りたい」
+
+      この世界には「科学者」という人たちがいるらしい。でもその人たちって、何をしているの？すごいことをしているの？楽しいの？魅力的な世界なら秘密にしてないで、教えて欲しい、きっと私たちの力になるから！現役高校生の声を是非聞いてください。
+
+      コメント
+
+      iCeMSラーニングラウンジでの発表を通して、英語やプレゼンテーションのノウハウと、物事を深く考え一貫性をもって主張することの困難さ、そして楽しさを学ぶことができました。また、自分への自信にもつながりました。このような機会を下さったiCeMSの方々と先生方に本当に感謝しています。
+
+       
+
+      加藤 知道（かとう ともみち）さん
+
+      「現役校長が語る次世代人材育成」
+
+      今年の３月に会津学鳳高校で開催されたiCeMS Caravan「学びのカラクリ」は、生徒たちはもちろん、私たち教職員にとっても貴重な経験となりました。「今後の時代を担う人材育成とは何か？」このことを念頭に、校長は、生徒の潜在能力を引き出す術を考えなくてはいけません。このプレゼンを通して、私たちの未来へのアプローチを共有できれば、と思います。
+
+      コメント
+
+      現役高校生と校長がプレゼンを行うという、ラーニングラウンジの特別企画に参加できて光栄でしたが、プレッシャーと緊張感もこれまで経験したことがないくらい、大きなものでした。 プレゼン内容の吟味やスライド作りを通じて、現在の学校の課題と、校長として取り組むべき改善点が明確になりました。貴重な機会をありがとうございました。'
+  source: https://ocw.kyoto-u.ac.jp/course/461/
+  note: 京都大学OCW 「概要」・「会津学鳳高校の学生の皆さん」・「加藤 知道（かとう ともみち）さん」・「「現役校長が語る次世代人材育成」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 会津学鳳高校の学生の皆さん
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 加藤 知道 さん
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-08-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

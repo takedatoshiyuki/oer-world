@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0118
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/118/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電子回路
+description:
+  ja: 電子回路の基礎を、制御電源や線形化、バイアスといった概念の説明から段階的に扱う講義である。バイポーラトラン幅、直流増幅、帰還、オペアンプ回路、発振回路へと進み、時間があれば非線形回路にも触れる。講義中に行った教卓実験の内容も公開する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      電子回路の基礎の習得を目標とします. 基本的なことから積み上げて電子回路を理解していく立場で講義します. このことによって, より複雑な回路の動作をも理解できる応用力まで身につけてもらえればと期待しています.
+
+      授業内容
+
+      まず, 電子回路特有の概念 (制御電源, 線形化, バイアス, 等) の説明から始めます. 続いて, 電子回路でもっとも基本となるバイポーラトラン幅, 直流増幅と, 次第に高度な回路の理解へと進めます.
+      さらに, 帰還の考え方とともに, オペアンプ回路, および発振回路について説明します. 時間が許せば，非線形回路, 等も説明したいと考えています.
+
+      電子回路の理解の一助になればと, 講義の中で3回ほど, 教卓で実験をしています. 講義中の実録ではありませんが, その実験内容をOCWで公開します. また, この講義のホームページは https://www.t.kyoto-u.ac.jp/lecturenotes/fe/d/60100/outline
+      にあります.'
+  source: https://ocw.kyoto-u.ac.jp/course/118/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 杉山 和彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北野 正雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 電子工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義メモ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denshikairo.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/118/
+extensions:
+  faculty: 工学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

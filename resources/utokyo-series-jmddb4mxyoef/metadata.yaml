@@ -1,0 +1,94 @@
+slug: utokyo-series-jmddb4mxyoef
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=JmDdB4mxyoEF
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「防ぐ」
+description:
+  ja: 本講座は、「防ぐ」を手がかりに、さまざまな分野の話題を扱う東京大学の公開講座である。科学がどのように人を守るかという観点から、関連する最先端の内容とその広がりを紹介する。
+quotedDescription:
+  text:
+    ja: 私たちはリスクの中で生きています。しかし、日々の暮らしの中でその存在に気づくことは少なく、むしろ、何か予想しない事故や事態が起こってしまったときに初めて驚き、慌てふためき、なぜそれを未然に防げなかったかと悔みます。
+      本講座では様々な視点から「防ぐ」を対象とした最先端の話題をわかりやすく紹介し、科学が私たちを守ろうと奮闘しているようすをご覧いただくとともに、「防ぐ科学」の広がりとその魅力を共有する機…
+  source: https://ch.u-tokyo.ac.jp/series/?id=JmDdB4mxyoEF
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 濱田 純一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 敏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 北森 武彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 橋場 弦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 橋本 英樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 本原 顕太郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小竹 元基
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉内 一浩
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- health_welfare
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 生命・医療
+- 歴史
+- 宇宙・物理
+- 災害・防災
+- 食生活
+- 病気予防
+- 早期診断
+- 医療技術
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

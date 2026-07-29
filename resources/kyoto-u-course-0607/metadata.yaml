@@ -1,0 +1,78 @@
+slug: kyoto-u-course-0607
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/607/
+type:
+- LearningResource
+- Course
+name:
+  ja: 植物生化学実験
+description:
+  ja: 植物を対象に、無機成分分析と細胞の分化全能性・プロトプラスト実験の2部構成で実験を行う。土壌ミネラルの吸収と同化、細胞培養や形質発現の解析に関わる基本的な実験法を扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本科目では植物を対象として、古典的な無機分析化学実験からモダンな生化学的解析まで幅広い内容の実験を行う。個々の操作の意味や必然性を考えながら実験を進め、生命現象を化学的に解析する能力の基礎を身につけることを目的とする。
+
+      授業の紹介
+
+      本実験は「植物の無機成分分析」と「植物細胞の分化全能性とプロトプラスト実験」の2部構成となっている。前者では植物による土壌ミネラルの吸収と同化、また後者では細胞培養や形質発現を解析するための、基本的な実験法を習得する。これらの実験を通じ、土壌ミネラルの有機物への変換、環境変化への柔軟な適応など、植物に固有の能力について理解を深める。'
+  source: https://ocw.kyoto-u.ac.jp/course/607/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小林 優
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 遠藤 剛
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 伊福 健太郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 落合 久美子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 実験書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shokubutsuseikagakujikken_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/607/
+extensions:
+  faculty: 農学部
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

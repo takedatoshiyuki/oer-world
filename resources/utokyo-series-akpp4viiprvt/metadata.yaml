@@ -1,0 +1,57 @@
+slug: utokyo-series-akpp4viiprvt
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=akPp4vIIpRVT
+type:
+- LearningResource
+- Course
+name:
+  ja: 非線形有限要素法特論
+description:
+  ja: 有限要素法の基礎から応用までを、演習とプログラミング演習を交えて扱う講義である。解析の全体像を見渡せるように構成されており、基礎と応用の両方を学ぶ内容になっている。
+quotedDescription:
+  text:
+    ja: 今日、有限要素法は工業製品の設計において必須のツールであり、完成度の高い汎用プログラムも多数販売されている。しかしながら、これらはブラックボック スとして使うにはあまりに複雑で、使用するエンジニアは、得られた答えが正しいかどうかを見極める目を要求される。また、汎用プログラムが対応できないよ
+      うな複雑な現象を解析するには、自らプログラミングする必要がある。本講義では、有限要素法の基礎から応用までを、演習および、プログラミング演習を交え て解説し、有限要素法の全体像が概観できるような構成とした。有限要素法を専門とする学生のみならず、設計実務に就きユーザーとなる学生も、履修すること
+      をすすめる。
+  source: https://ch.u-tokyo.ac.jp/series/?id=akPp4vIIpRVT
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 渡邉 浩志
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 新領域創成科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

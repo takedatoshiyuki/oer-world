@@ -1,0 +1,58 @@
+slug: hokudai-organizationalphenomenon-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/organizationalphenomenon-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義 小島廣光教授 組織現象の実証研究（2009）
+description:
+  ja: 北海道大学人文・社会科学総合教育研究棟で行われた「組織現象の実証研究」の最終講義を映像資料として収録している。主催は北海道大学大学院経済学研究科で、2010年2月26日に開催された内容を視聴できる。
+quotedDescription:
+  text:
+    ja: '北海道大学人文・社会科学総合教育研究棟で開催された、「最終講義　組織現象の実証研究」の映像資料をご覧いただけます。
+
+      主催： 北海道大学大学院経済学研究科
+
+      場所： 北海道大学人文・社会科学総合教育研究棟
+
+      日時： 2010年2月26日'
+  source: https://ocw.hokudai.ac.jp/lecture/organizationalphenomenon-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小島 廣光
+  affiliation:
+    name: 北海道大学大学院経済学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+keywords:
+- ビジネス／経済
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,58 @@
+slug: utokyo-series-c62t1qzleelg
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=C62t1qzleElG
+type:
+- LearningResource
+- Course
+name:
+  ja: 規制政策
+description:
+  ja: 政府による民間活動の規制を、経済学の枠組みで分析する講義である。前半では料金規制やインセンティブ規制、情報の非対称性を含む基礎理論を扱い、後半ではエネルギー、通信、石油、運輸などの産業別規制と環境・安全規制を検討する。
+quotedDescription:
+  text:
+    ja: '政府による民間活動の規制に関して、規制の意義、方法、規制形成のメカニズムなどを学び、経済学的分析を行う。経済的規制と社会的規制の双方を取り扱う。 講義は大きく２つの部分に分かれる。
+
+      第１部では、基礎となる経済理論を概観し、この分析道具を駆使して、 規制政策の背後にある基本的な原理を経済学的に明らかにする。ここで扱うトピックは、混雑料金、ピークロード料金、 ラムゼイ料金、規制の政治経済学、公正報酬率規制、プライス・キャップ規制とインセンティブ規制、情報の非対称性のもとにおける規制政策である。
+      第２部では、エネルギー、通信、石油、運輸産業などの具体的な規制産業を取り挙げて、なぜそもそも規制が必要か、規制がどのような経済効果を持つか、現行の規制の問題点は何か、 望ましい規制の体系はどのようなものであるか等を解説する。更に産業横断的な環境規制、安全規制の問題も取りあげる。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=C62t1qzleElG
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松村 敏弘
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 公共政策大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

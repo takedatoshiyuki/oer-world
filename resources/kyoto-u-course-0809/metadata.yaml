@@ -1,0 +1,98 @@
+slug: kyoto-u-course-0809
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/809/
+type:
+- LearningResource
+- Course
+name:
+  ja: エレベータのブザーは鳴るか―大学生のための統計学入門
+description:
+  ja: 数値データの扱い方から、分布の見方、中央値との差やバラツキの指標、標準化、度数分布表やヒストグラムまでを順に扱う。さらに、確率変数と確率分布、相関と因果にも触れ、平均・分散・標準偏差・回帰直線の計算を通して記述統計学の基本を学ぶ構成である。
+quotedDescription:
+  text:
+    ja: '平成30年度開講の「臨床統計家育成コース」からの公開講義です。
+
+      本コースは、大学院医学研究科社会健康医学系専攻に設置された2年制の専門職学位課程です。データサイエンスや統計学に関心のある方を、医学知識の有無を問わず歓迎します。
+
+      授業の特色
+
+      データサイエンスが注目される中、高校で数学B「確率分布と統計的な推測」を履修していないことが、大学教育の大きな課題となっています。本講義では京都大学医学研究科教授　田中司朗氏が「統計で容疑を晴らす」、「エレベータのブザーは鳴るか」、「地球の大きさを測る」といったストーリーを基に、平均、分散、標準偏差、回帰直線の計算を中心に、記述統計学の基本を解説します。これは、数学I「データの分析」をカバーしており、数学B「確率分布と統計的な推測」の一部を含みます。'
+  source: https://ocw.kyoto-u.ac.jp/course/809/
+  note: 京都大学OCW 「授業の特色」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 田中 司朗
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- ict
+keywords:
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: "講義資料: 1-1\t数値データの例"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 1-2\t分布の位置の指標 ― 統計で容疑を晴らす"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 1-3\tバラツキの指標 ― 統計で容疑を晴らす"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 1-4\t偏差値と標準化"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 2-1\t分布とグラフ ― ナイチンゲールは統計学者"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 2-2\t度数分布表の活用事例 ― 羊皮紙の暗号を解く"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 2-3\tヒストグラムの作り方 ― エクセルのグラフ機能"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 3-1\t確率変数と確率分布"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 3-2\tサイコロの振り方でバラツキは違うか"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 3-3\tエレベーターのブザーは鳴るか"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 4-1\t地球の大きさを測る"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 4-2\t相関と因果"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+- name: "講義資料: 4-3\tランダム化臨床試験と医療の進歩"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_erebe-tanobuza-hanaruka_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/809/
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

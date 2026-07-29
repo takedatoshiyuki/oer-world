@@ -1,0 +1,57 @@
+slug: kyoto-u-course-1096
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1096/
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和３年度エネルギー科学研究科公開講座「『大気環境を考える』～環境と調和した持続可能な社会構築に向けて～」
+description:
+  ja: 大気中の微小粒子や窒素酸化物、花粉、黄砂などを取り上げ、それらが大気中で相互作用して起こす化学反応を扱う。人間活動に伴う汚染物質と自然起源の粒子が出会ったときの変化を通して、大気環境を考える内容である。最近の研究例も交えて、大気汚染物質の相互作用を説明する。
+quotedDescription:
+  text:
+    ja: '講演１　亀田 貴之 先生 （エネルギー社会・環境科学専攻）
+
+      講演題目 「大気環境と化学反応　－空に漂う小さな粒子の上で起こっていること－」
+
+      　PM2.5に代表される微小粒子状物質や窒素酸化物（NOx）など、大気汚染物質の多くは化石燃料の利用をはじめとした人間活動に伴って発生します。一方で、大気中には花粉や黄砂といった自然起源の粒子状物質も存在しています。発生源の異なるこれらの物質が大気中で遭遇すると化学反応を起こし、より有害な物質へと変化する恐れがあることがわかってきました。このような大気中における化学反応の詳細を明らかにすることは，環境中の化学物質が我々の健康や暮らしに及ぼす影響を評価し、安全・安心な社会の実現を目指す上でも重要です。本講演では大気汚染物質の相互作用をテーマに、最近の研究例を交えてお話しします。'
+  source: https://ocw.kyoto-u.ac.jp/course/1096/
+  note: 京都大学OCW 「講演１」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 亀田 貴之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 環境学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

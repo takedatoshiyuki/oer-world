@@ -1,0 +1,60 @@
+slug: hokudai-toyakoandusu-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/toyakoandusu-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク 実験展示：統合科学が解明する「洞爺湖・有珠火山地域の過去と未来」（2009）
+description:
+  ja: 洞爺湖・有珠火山地域の過去と未来をテーマに、さまざまな分野の研究を展示する企画である。あわせて、研究者・学生・市民が自由に意見交換し、学問を統合することで何が見えてくるかを議論する。
+quotedDescription:
+  text:
+    ja: '人類社会の持続可能性が問われている今日、北海道大学が長く持続するためには何が必要なのでしょうか？
+
+      その答えの１つは統合科学です。個別の研究をある方向で統合すると、新しい研究の切り口、埋もれていた成果、思いがけない応用、将来の方向等々が見えてきます。
+
+      北大が「研究者の寄せ集め場」であることを脱し、そのような「統合の場」として機能すれば、社会の持続を支える者としての北大の持続性が保証されます。
+
+      本企画は、「北大統合科学」をパッケージとして展開するための最初の試みとして、「有珠洞爺湖地域の過去と未来」をテーマに、様々な分野の研究を展示すると共に、研究者、学生、市民がコーヒーカップ片手にフリートークを行い、学問統合から何が見えてくるかを議論します。'
+  source: https://ocw.hokudai.ac.jp/lecture/toyakoandusu-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 馬渡　俊輔
+  affiliation:
+    name: 北海道大学総合博物館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

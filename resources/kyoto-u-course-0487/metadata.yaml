@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0487
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/487/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2016年度京都大学アフリカ地域研究資料センター設立30周年記念公開講座「アフリカから学ぶこと」
+description:
+  ja: アフリカに対するさまざまな見方を手がかりに、その地域をどう捉えるかを扱う公開講座である。現場で学んできたフィールドワーカーの話を通して、アフリカについて考える内容になっている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      遠くにあってロマンをかきたてられたアフリカ
+
+      困難に直面する人びとの住むアフリカ
+
+      大きな市場と人口をもって発展するアフリカ
+
+      みなさんはアフリカにどのようなイメージをお持ちでしょうか？
+
+      長年にわたりアフリカの現場から学び続けてきたフィールドワーカーが語ります
+
+      あなたの学びがアフリカの未来とつながりますように！'
+  source: https://ocw.kyoto-u.ac.jp/course/487/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: アフリカ地域研究資料センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

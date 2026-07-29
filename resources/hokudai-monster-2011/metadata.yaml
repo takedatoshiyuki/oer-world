@@ -1,0 +1,60 @@
+slug: hokudai-monster-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/monster-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: GCOE総合博物館市民セミナー 中国怪獣総進撃（2011）
+description:
+  ja: 中国に伝わる怪獣話を、古代から現代までの流れの中で扱う講義である。文化大革命末期の〈野人〉〈水怪〉の物語や、現代映像メディアに現れる怪獣図像を取り上げ、フィクションとノンフィクションの間を行き来する怪獣イメージを考える。
+quotedDescription:
+  text:
+    ja: '「子、怪力乱神を語らず」とは、怪しげな話をすることを戒めたとされる『論語』の中のことばですが、古代から21世紀の現代にいたるまで中国には謎の怪獣話が絶えません。文化大革命末期に突如「実話」として大陸を騒がした〈野人〉〈水怪〉の物語や、現代映像メディア等に登場した怪獣図像などを眺めながら、フィクションとノンフィクションの間を自在に行き来する不思議な怪獣イメージの世界へ、皆様をご招待いたします。
+
+      ‡ これらの資料は制限資料です。'
+  source: https://ocw.hokudai.ac.jp/lecture/monster-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中根 研一
+  affiliation:
+    name: 北海学園大学 法学部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 中国
+- 怪獣
+- 野人
+- 水怪
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: GCOE総合博物館市民セミナー
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

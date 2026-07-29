@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0039
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/39/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第27回 京都大学品川セミナー「ソ連崩壊20年－体制転換とは何だったのか」
+description:
+  ja: ソ連崩壊20年を手がかりに、1980年代末以降の体制転換が世界経済と国際関係に及ぼした変化を扱う。社会主義計画経済から自由市場経済への転換が成功したのか、またその過程でどのような市場経済・社会が生まれたのかを考える。あわせて、体制転換が経済学にとってどのような意味をもつかを検討する。
+quotedDescription:
+  text:
+    ja: 20世紀は戦争と社会主義の時代と言われましたが、1980年代末以降の体制転換（経済システムの転換）は世界経済・国際関係の姿を大きく変えてしまいました。2012年はかつて冷戦の一方の主役であったソビエト連邦が崩壊して20年目に当たります。体制転換は机の上で考えられていたものとは異なり、安定した市場経済は作り出されませんでした。社会主義計画経済を自由市場経済に転換するという試みは成功したのでしょうか。どのような市場経済・社会が作り出されたのでしょうか。わたしは、これまで経済システムの変動を理論的・実証的に研究し、体制転換過程を検証してまいりました。体制転換はすでに自明と考えられている市場や政府の役割、さらに現代世界経済の変動を再考するヒントを与えてくれます。体制転換が経済学においてどのような意味をもつのか、ソ連崩壊20年の教訓を考えてみましょう。
+  source: https://ocw.kyoto-u.ac.jp/course/39/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 溝端 佐登史
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-08-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

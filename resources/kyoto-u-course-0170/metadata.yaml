@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0170
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/170/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第6回全国高等学校情報教育研究会全国大会基調講演 西垣 通（東京大学名誉教授）
+description:
+  ja: 西垣通が担当する全国大会の基調講演で、京都大学の学術情報メディアセンターが提供する。講演は2013-08-09に開講され、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西垣 通（東京大学名誉教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 東京経済大学コミュニケーション学部 教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-08-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- ict
+keywords:
+- 教育学
+- コンピュータサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

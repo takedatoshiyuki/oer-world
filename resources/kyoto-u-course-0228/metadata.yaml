@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0228
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/228/
+type:
+- LearningResource
+- Course
+name:
+  ja: 多次元入試研究会
+description:
+  ja: 京都大学教育学研究科が提供する「多次元入試研究会」で、前平泰志教授が担当する。出典の説明文には「報告」とあり、7月12日から10月4日までの4回にわたって、南部広孝、楠見孝、大塚雄作、惣脇宏の各教員が順に報告を行う。
+quotedDescription:
+  text:
+    ja: '「報告」
+
+      第1回　7月12日　南部 広孝 准教授
+
+      第2回　8月20日　楠見 孝 教授
+
+      第3回　9月27日　大塚 雄作 教授
+
+      第4回　10月4日　惣脇 宏 教授'
+  source: https://ocw.kyoto-u.ac.jp/course/228/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 前平 泰志 教授
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-07-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

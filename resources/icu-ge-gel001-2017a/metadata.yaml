@@ -1,0 +1,64 @@
+slug: icu-ge-gel001-2017a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gel001_2017a
+type:
+- LearningResource
+- Course
+name:
+  ja: Liberal Arts Seminar リベラルアーツセミナー
+description:
+  ja: 本講義は、リベラルアーツ教育への導入として、文献の精読やエッセー執筆、プレゼンテーション、議論を通じて学修のための方法論的知識と技能を扱う。担当教員によって学問分野や開講言語が異なり、動画はコースのレビューセッションとして収録されたものである。
+quotedDescription:
+  text:
+    ja: 'Seminar introducing liberal arts education. Small class size. Aims to have students acquire methodological
+      knowledge and skills necessary for receiving a liberal arts education through careful reading of
+      literature, essays, presentations, and discussions. Academic fields and languages of instruction
+      differ by faculty member. Enrollment during the first or second year is strongly recommended.
+
+      リベラルアーツ教育への導入セミナー。少人数のセミナー形式で、文献の精読、エッセーの執筆、プレゼンテーション、議論等を行うことにより、リベラルアーツ教育の学修に必要な方法論的知識、技能を習得することを目的とする。扱う学問分野および開講言語は担当教員により異なる。第1年次または第2年次での履修を強く勧める。
+
+      ※Video is Review Session of Course.(Recording on June 19, 2018.)
+
+      ※この動画はコースのレビューを公開しています。(2018年6月19日収録）'
+  source: https://ocw.info.icu.ac.jp/ge/gel001_2017a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 伊東辰彦
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 一般教育科目
+- '| Course Schedule: 5/TH,6/TH,7/TH | Update: 2019.09.02'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

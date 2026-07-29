@@ -1,0 +1,86 @@
+slug: utokyo-series-v9f4ua0jhzbm
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=V9F4uA0JHzbm
+type:
+- LearningResource
+- Course
+name:
+  ja: 国境なき数学－ことばを越えて社会とともに（学術俯瞰講義）
+description:
+  ja: この講義は、自然現象に限らず社会や技術の背後にある数理現象を手がかりに、数理モデルがどのように見出され、発展していくかを扱う。あわせて、数学者が理論を深めて応用を広げてきた過程と、数学が社会のさまざまな場面で果たす役割を紹介する。講義は学生とのインタラクションを交えながら進める。
+quotedDescription:
+  text:
+    ja: '数学は「自然現象の背後にある数理現象を見ること」である、と故小平邦彦教授（日本人初のフィールズ賞受賞者）は繰り返し述べていた。数学の本質を 言い表しているこの言葉の意味を今一度考え直した上で、二つのことを付け加えたい。まず、数理現象は自然現象ばかりではなく、社会や技術という現代のシス
+      テムの背後にも隠れている。自然や社会から数理現象を見出し、これを数学という言葉を使って表現したものが数理モデルであるが、数学そのものから新しい数 理モデルが作られることもある。数学とは、まずこのような観測から第一歩が始められる。また、現象を観測しただけでは科学にはならない。石は磨かなければ玉（価値のあるもの）にはならない、これがもう一つの大事な観点である。発見された現象を分析し、あるいは統合し、必要ならば新しい数学の道具を開発することによって、数理モデルは完成度を増し、新しい数学となる。
+
+      みなさんが高校や大学の数学の講義で教わっている数学は、数学の中の完成した一部分であり、学問としての成長過程や日常生活との繋がりを知ることは難しいであろう。この講義では、数学者達が自由な発想で理論を深め、応用を広げて、豊かな学問体系を作ってきたこと、そして、それが社会のいろいろなところで役立っていることを紹介する。分野を越えて社会を支える数理の力を伝えたいと思う。
+
+      インタラクタとして岡本和夫先生を迎え、学生のみなさんと積極的にインタラクションしながら講義を進めていきたい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=V9F4uA0JHzbm
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Kazuo Okamoto
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 合原 一幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 河東 泰之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 増田 直紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松本 眞
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- natural_sciences_math
+- ict
+keywords:
+- 教育
+- 数理
+- AI・情報
+- 数学
+- 複素数
+- 物理学
+- 情報科学
+- ネットワーク
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

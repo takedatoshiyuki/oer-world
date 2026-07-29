@@ -1,0 +1,62 @@
+slug: hokudai-earthquakereport-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/earthquakereport-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 東北地方太平洋沖地震緊急報告会 －北海道で想定される巨大津波に備えて－（2010）
+description:
+  ja: 北海道大学学術交流会館で開催された報告会の映像資料を収録している。題名から、東北地方太平洋沖地震に関する緊急報告と、北海道で想定される巨大津波への備えを扱う内容であることがわかる。
+quotedDescription:
+  text:
+    ja: 北海道大学学術交流会館で開催された「東北地方太平洋沖地震緊急報告会」の映像資料をご覧いただけます。
+  source: https://ocw.hokudai.ac.jp/lecture/earthquakereport-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山田 卓司
+  affiliation:
+    name: 理学研究院
+- type: Person
+  name: 谷岡 勇市郎
+  affiliation:
+    name: 理学研究院
+- type: Person
+  name: 西村 裕一
+  affiliation:
+    name: 理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

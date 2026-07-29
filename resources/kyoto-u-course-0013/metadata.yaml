@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0013
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/13/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電気電子基盤技術の展望 -電気電子基盤技術の研究教育拠点形成-
+description:
+  ja: 'この講義は、電気・電子基盤技術の全体像を体系的に扱う。公開教材では、半導体材料、イオンビーム技術、量子コンピューティング、ネットワーキング、SoC、超伝導応用などの話題を取り上げる。
+
+
+    教材は8件の講義資料で構成され、個別テーマごとの講述を通して基盤技術の概要を示す。'
+quotedDescription:
+  text:
+    ja: '授業の紹介
+
+      21世紀における人類の持続的繁栄にとって、地球環境に十分配慮した超高度通信技術および電力供給技術が不可欠である。このような未来社会からの要請を満足する技術を確立するためには、電子材料・デバイス、回路・システム設計、および通信システム・電力システムに関する研究の革新的進展が必須となる。本講座においては、体系的なカリキュラムのもと、電気・電子基盤技術の概要について講述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/13/
+  note: 京都大学OCW 「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-ND-4.0
+creator:
+- type: Person
+  name: 野田 進
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 電子工学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第2回「ワイドギャップ半導体」須田淳'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+- name: '講義資料: 第5回「最近のイオンビーム技術とその将来展望」石川順三'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+- name: '講義資料: 第6回「量子コンピューティング」北野正雄'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+- name: '講義資料: 第8回「ネットワーキング技術」高橋達郎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+- name: '講義資料: 第9回「アルゴリズムのハード化」久門尚史'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+- name: '講義資料: 第10回「システムオンチップ（SoC）技術」中村行宏'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+- name: '講義資料: 第12回「高温超伝導体のイントリンシック・ジョセフソン接合とその応用」鈴木実'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+- name: '講義資料: 第13回「超伝導応用」星野勉'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/04/2004_electrical_electronic_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/13/
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: hokudai-seaweed-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/seaweed-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 私の藻食論（2012）
+description:
+  ja: 本講義は、海藻を紅藻・褐藻・アオサ藻類の3群として捉え、食物論の観点からその性質を論じる。硫黄を含む水溶性食物繊維としての側面や、細胞壁成分、食物繊維としての働きに加え、抗腫瘍作用や腸内細菌との関係、ヘパリノイド活性にも触れる。
+quotedDescription:
+  text:
+    ja: '海藻は、植物の藻類の一員で、主に海水中で生育し、多細胞大型化する紅藻、褐藻、アオサ藻類という生まれも育ちも異なる３群の総称です。これらを「硫黄栄養生物」として食物論からまとめ、その栄養は硫黄を含む水溶性食物繊維であると初めて世に問うてみる。
+
+      硫黄は全生物にとって含硫たんぱく質生成の為の必須元素だが、海藻類には体構成の細胞壁の成分でもある。
+
+      食物繊維の主な仕事は大腸の掃除屋であり、よいウンチを排泄して、私たちの健康を守ることだが、海藻の食物繊維で一番期待されることは、抗腫瘍作用、腸内細菌との適切な関係の維持、抗凝血作用のヘパリノイド活性を日常の食生活に取り入れることなど、海藻食に対する新しい研究が必要になると思う。'
+  source: https://ocw.hokudai.ac.jp/lecture/seaweed-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 舘脇 正和
+  affiliation:
+    name: 北海道大学名誉教授
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 海藻
+- 海藻食
+- 食生活
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,118 @@
+slug: kyoto-u-course-0012
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/12/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電力回路
+description:
+  ja: 本教材は、電力回路の基礎から電力システムの解析までを扱う講義資料である。三相交流回路、変圧器、送電回路、単位法、座標変換法、故障計算などを通して、電力系統の現象と解析法を学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: '電力回路の概要 ( 0.5 回 )
+
+      日常生活における電気エネルギーの重要性について説明し，発電／送電の歴史と電力回路の構成について説明する．
+
+      三相平衡回路解析 ( 4.5 回 )
+
+      電力回路の基礎となる平衡三相回路を対象として，電圧・電流・電力，等価回路，単位法等について説明する．
+
+      電力システム解析 ( 2 回 )
+
+      簡単な電気エネルギーシステムの静的，動的特性について述べ，安定性に関する概念を説明する．
+
+      諸量と座標変換法 ( 3 回 )
+
+      交流電圧・電流のベクトル表現について述べ，三相回路に対する対称座標変換，αβ（クラーク座標）変換について説明する．また，三相回路における平衡・不平衡に関する概念について説明する．
+
+      電力系統における現象と測定 ( 2 回 )
+
+      種々の原因により電力系統において発生する回路現象について説明すると共に，座標変換を用いた解析法について説明し，現象との関係について述べる．
+
+      総論 ( 1 回 )
+
+      まとめと課題について説明する．'
+  source: https://ocw.kyoto-u.ac.jp/course/12/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 引原 隆士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 舟木 剛
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- 工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 電力回路ガイダンス及び講義の位置づけ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第2回 三相交流による負荷への電力供給'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第3回 Y結線電力回路およびΔ結線電力回路'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第4回 電気エネルギーの変成：変圧器'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第5回 電気エネルギーの変成：変圧器 ＜三相変圧器＞'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第6回 電気エネルギーの伝送：送電回路 ＜インピーダンス線路と送電容量および定態安定極限電力＞'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第7回 電気エネルギーシステムの解析法：単位法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第8回 多相交流回路の基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第9回 三相交流回路の相回転'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第10回 対称座標法 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第11回 対称座標法 2 ＜三相変圧器でΔ結線が用いられる理由＞'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第12回 クラーク座標法 故障計算'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+- name: '講義資料: 第13回 故障計算'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_electric_power_circuits13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/12/
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

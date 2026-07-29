@@ -1,0 +1,63 @@
+slug: kyoto-u-course-1015
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1015/
+type:
+- LearningResource
+- Course
+name:
+  ja: KURA「研究者の歩きかた」セミナー；L-INSIGHT/KURA連携プログラム パブリッシングセミナー 「ジャーナルを可視化する」
+description:
+  ja: ジャーナルを多くの人に届けるための可視化と広報の手法を扱うセミナーである。Google検索で上位表示を目指す対策や、国際的なOAジャーナルデータベースへの登録、SNSを通じた情報発信を取り上げる。ジャーナル実務に関わる編集スタッフ、研究者、大学院生、図書館員を主な対象としている。
+quotedDescription:
+  text:
+    ja: '自分たちのジャーナルをもっと多くの人に届けたい！ 国際的なオープンアクセスジャーナルとしてきちんと認められたい！ 広報手段として今や欠かせないSNS。安全に、効果的に活用したい！ でも、何から始めればよいものか……？
+      そんなお悩みをお持ちの方も多いのではないでしょうか。
+
+      本セミナーでは、Googleで検索上位になるための対策、国際的なOAジャーナルデーターベースへの登録、SNSを通じた情報発信など、すぐに使えるテクニックが学べます。ジャーナルを担当する編集スタッフ、担当になってしまった研究者や大学院生などジャーナル実務に関わる方、実務担当者へのアドバイスをお考えの図書館員の方にもオススメです。
+
+      京都大学 学術研究支援室https://www.kura.kyoto-u.ac.jp/event/20210119/'
+  source: https://ocw.kyoto-u.ac.jp/course/1015/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 亀田 尭宙
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 南山 泰之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中村 威也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-01-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

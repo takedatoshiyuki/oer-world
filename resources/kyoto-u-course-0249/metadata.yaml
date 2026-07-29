@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0249
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/249/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第101回 京都大学丸の内セミナー「木造住宅の耐震性能の見える化」
+description:
+  ja: 木造住宅の大地震時の挙動を数値解析で再現する研究と、その成果を用いたソフトウェア wallstat を取り上げる講義である。木造軸組構法住宅の損傷状況や倒壊過程を計算し、地震動を与えた際の変形や倒壊の有無を画面上で確認する流れを紹介する。
+quotedDescription:
+  text:
+    ja: '近年の大地震による木造住宅の甚大な被害により、木造住宅の耐震性能があらためて注目されるようになりました。本研究分野においては、振動台を用いた実大実験や数値解析が数多く実施され、地震動時の木造住宅の挙動に関する多くの知見が得られています。
+
+      　中川貴文 京都大学生存圏研究所 准教授は、これらの知見を活用し、木造軸組構法住宅の建物全体の大地震時の損傷状況や倒壊過程をシミュレートする数値解析プログラム（wallstat：ウォールスタット）の開発を行いました。木造住宅の倒壊過程を再現するには、柱の折損・部材の飛散といった、連続体がバラバラになっていく現象を考慮する必要があるため、従来の解析手法では困難とされてきました。そこで、個別要素法(※1)という非連続体解析法（バラバラな物体の挙動を計算する手法）を基本理論としたオリジナルの解析手法を開発し、木造住宅の倒壊過程を再現することを可能にしました。解析対象の木造住宅が連続体である内は、従来の解析手法と同様に解析を行いますが、建物が一部破壊し、さらに倒壊しても計算を続行することができるのが、この解析手法の特徴です。数多くの解析的検討と実験との比較からプログラムの改良を行い、実大の木造住宅の振動台実験における倒壊に至るまでの挙動に対して、精度の高い解析を行うことができるようになりました。
+
+      　ウォールスタットはその研究成果を、研究者・技術者だけでなく、木造住宅の実務に関わる多くの方々が使えるように改良したソフトウェアです。ウォールスタットを使えば、パソコン上で木造住宅の数値解析モデルを作成し、振動台実験のように地震動を与え、最先端の計算理論に基づいたシミュレーションを行うことで、変形の大きさ、損傷状況、倒壊の有無を視覚的に確認することが可能となります。本講演では、それらの研究成果を活用した最新の耐震シミュレーション技術について紹介します。耐震シミュレーションソフト「wallstat（ウォールスタット）」は生存圏研究所のホームページから無償でダウンロードできます。
+
+      ダウンロードURL：http://www.rish.kyoto-u.ac.jp/~nakagawa
+
+      　※1 個別要素法 　ウォールスタットの計算には「個別要素法」という計算理論を元にした解析手法を用いています。個別要素法は、非連続体解析法（バラバラな物体の挙動を計算する手法）であるため、大変形や倒壊解析が容易にできます。これまでは主に土木の分野で用いられている解析手法でしたが、中川准教授らの研究（＊）によって、木造住宅の倒壊解析に適用され、その有効性が確認されています。
+
+      * Nakagawa, et al., 2003, J. of Wood Sci., doi:10.1007/s10086-009-1101-x'
+  source: https://ocw.kyoto-u.ac.jp/course/249/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中川 貴文
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-12-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生存圏研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

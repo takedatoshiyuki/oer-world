@@ -1,0 +1,65 @@
+slug: hokudai-influenza-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/influenza-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク インフルエンザなどの人獣共通感染症を克服する ～統合科学実験展示～（2010）
+description:
+  ja: インフルエンザやエボラ出血熱などの人獣共通感染症を題材に、北海道大学の博物館で行われた展示と映像を通して研究内容を紹介する教材である。パネルや模型、顕微鏡観察、実験体験を通じて、感染症研究に用いる設備や研究の進め方を示し、複数分野を組み合わせる統合科学としての位置づけも扱う。
+quotedDescription:
+  text:
+    ja: インフルエンザやエボラ出血熱といった人獣共通感染症の研究に使われる最先端設備を北海道大学博物館内に展示し、パネル、ビデオ、模型、顕微鏡観察や実験体験を通じ、研究内容を一般市民の方々に学んで頂きました。人獣共通感染症の発生や流行を食い止めるには、医学、獣医学、薬学、工学、理学といった分野が合わさって、新しい研究と教育を行うことが重要です。この新しい科学のあり方を「統合科学」と位置づけ、展示ではその本質に迫りました。下記映像では、北海道大学の研究者が、人獣共通感染症の研究に対するそれぞれの思いを語ります。
+  source: https://ocw.hokudai.ac.jp/lecture/influenza-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 喜田 宏
+  affiliation:
+    name: 獣医学研究科
+- type: Person
+  name: 高田 礼人
+  affiliation:
+    name: 人獣共通感染症リサーチセンター
+- type: Person
+  name: 三浦 信明
+  affiliation:
+    name: 先端生命科学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- agriculture
+keywords:
+- 医学／保健学
+- 獣医学
+- 獣医学研究科
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

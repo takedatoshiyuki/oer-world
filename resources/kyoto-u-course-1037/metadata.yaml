@@ -1,0 +1,69 @@
+slug: kyoto-u-course-1037
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1037/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理解析研究所 令和３年度 第42回数学入門公開講座
+description:
+  ja: この教材は、計算量理論の基本的な考え方と、その適用例や未解決予想を扱う講義と、Frobenius写像を手がかりに有限体やWittベクトルを紹介する講義からなる。どちらも、数学的対象を理解するための視点を導入し、関連する話題まで踏み込んで説明する。
+quotedDescription:
+  text:
+    ja: '計算量理論入門　——「複雑さ」をとらえる
+
+      准教授・河村　彰星
+
+      農具や機械が人に素手よりも大きな力を与えるように、計算機（コンピュータ）は人の頭脳（数学力）を拡張し、問題解決能力を著しく高めました。ではそれによって問題の難しさがだんだん気にならなくなるかというと、さにあらず。歴史的にはむしろ、人が数理的に扱える範囲が広がれば広がるほど、計算機の性能向上や計算手順の工夫では乗り越えられない本質的な複雑さというものが、ますます鮮明に見えてきました。本講義では、この「計算しにくさ」の尺度で様々な数学的対象の複雑度を測るという立場から、計算量理論の枢要な考え方とその適用例や未解決予想について解説します。
+
+      Frobenius写像の周辺
+
+      助教・越川　皓永
+
+      素数pが0に等しいような代数では、数をp乗する操作がFrobenius写像とも呼ばれます。この場合が特別視されるのは、2つの数の和のp乗がp乗してから和を取ったものと等しくなるためです。Frobenius写像は例えば有限体のGalois理論を統制する役割を果たし、これはいわゆるWeil予想へと繋がっていきます。一方、pが0と等しくない状況でも、Frobenius写像の代わりにその「持ち上げ」を考えるということが昔からされてきました。最近の研究において、この「持ち上げ」が改めて注目されています。ここでは、このような視点に重点をおいて、有限体やWittベクトルといった事項をなるべく初等的に紹介したいと思います。
+
+      数学入門公開講座　バックナンバー（講義ノート）
+
+      https://www.kurims.kyoto-u.ac.jp/ja/special-01.back.html'
+  source: https://ocw.kyoto-u.ac.jp/course/1037/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河村 彰星
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 越川 皓永
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-08-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 数理解析研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

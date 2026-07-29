@@ -1,0 +1,51 @@
+slug: utokyo-series-ppr1hw5ghsqz
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=PPr1HW5GHSqZ
+type:
+- LearningResource
+- Course
+name:
+  ja: Academic Presentations Video Series
+description:
+  ja: 人文社会科学分野での学術プレゼンテーションを扱い、内容と構成、伝え方、視覚資料、質疑応答の4章で説明する動画シリーズである。東京大学の初年次文系アカデミックライティング「ALESA」の授業用に作成されており、英語で提供される。
+quotedDescription:
+  text:
+    ja: "このビデオは、人文社会科学分野での学術プレゼンテーションをより効果的に行うための方法を紹介することを目的とし、「内容と構成」、「伝え方」、「視覚資料」、「質疑応答」の４章から構成されています。\
+      \ \n  東京大学の初年次文系アカデミックライティング「ALESA」の授業用に作成したものですが、学術プレゼンテーションの準備をしている方であれば、どなたにとっても有益なヒントが詰まっています。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=PPr1HW5GHSqZ
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

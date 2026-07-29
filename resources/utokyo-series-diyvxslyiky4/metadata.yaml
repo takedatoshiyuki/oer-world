@@ -1,0 +1,79 @@
+slug: utokyo-series-diyvxslyiky4
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=diyvxslYIKy4
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「バランス」
+description:
+  ja: 社会のさまざまな場面で扱われる「バランス」を主題にした公開講座である。出典文では、社会の言説、身体や心の状態、絵画や建築物の美しさなど、複数の領域にまたがる観点が示されている。
+quotedDescription:
+  text:
+    ja: 社会のいろいろな分野で、過度に単純化された言説がもてはやされ、さまざまな要素に配慮した判断が軽視される傾向があります。バランス感覚の後退と言ってよいでしょう。一方、周囲を見渡してみると、身体の不調や不安定な心に悩んでいる仲間が少なくありません。悩みはバランスの失調から来ていることが多いようです。絵画や建築物のような人間の創り出す作品についても、しばしばバランスの美しさが高く評価されます。あるいは…
+  source: https://ch.u-tokyo.ac.jp/series/?id=diyvxslYIKy4
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 生源寺 眞一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 丹野 義彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中釜 洋子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山地 憲治
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長谷部 恭男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 水町 勇一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 井堀 利宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 池上 高志
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

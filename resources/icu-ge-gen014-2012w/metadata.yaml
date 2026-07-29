@@ -1,0 +1,76 @@
+slug: icu-ge-gen014-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen014_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: The Chemical Basis of Nature (B) Ｎ１：自然の化学的基礎（Ｂ）'
+description:
+  ja: 基本的な化学を手がかりに、自然と人工の世界を考える講義資料である。化学の歴史をたどりながら、環境問題、宇宙、生命との関係を扱う。掲載情報では4回の講義と3本の動画が含まれる。
+quotedDescription:
+  text:
+    ja: 'Aimed to deepen understanding of natural and artificial worlds from the perspective of basic
+      chemistry, this course reviews chemistry historically and examine this field in relation to environmental
+      issues, the universe and life.
+
+      自然および人工的世界を化学的基礎から理解し、化学を歴史的に検証するとともに、環境問題や宇宙、生命との関連から考察する。
+
+      Contents of Lectures
+
+      4
+
+      Lectures /
+
+      3
+
+      Videos
+
+      Basic Informaion'
+  source: https://ocw.info.icu.ac.jp/ge/gen014_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 小林潤司
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 一般教育科目
+- 'GEN014 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/16YJLN6frLGJImmcJHu8pIFo74YSDIY9m/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen014_2012w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

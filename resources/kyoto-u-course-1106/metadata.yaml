@@ -1,0 +1,56 @@
+slug: kyoto-u-course-1106
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1106/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第19回 MACSコロキウム
+description:
+  ja: 多細胞生物の器官の形が機能とどう関わるかを題材に、形態形成における細胞の力の働きを扱う。あわせて、多細胞力学を基盤とした計算機シミュレーションによる解析の概要、現状、課題を取り上げる。
+quotedDescription:
+  text:
+    ja: 多細胞生物の器官の形は、その機能発現と深く関わっており、その形の成り立ち（形態形成）には、個々の細胞が生み出す力が重要な働きをしています。近年、形態形成を多細胞の力学をもとに、計算機を用いたシミュレーションで解析できるようになってきました。多細胞力学シミュレーションの概要、現状や課題について紹介します。
+  source: https://ocw.kyoto-u.ac.jp/course/1106/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 井上 康博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-04-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- engineering
+- ict
+keywords:
+- 数学
+- 工学
+- 生物学・生命科学
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

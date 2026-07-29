@@ -1,0 +1,62 @@
+slug: hokudai-openlecture-05-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/_openlecture-05-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 ２０３０年へのシナリオ 北海道の都市と交通の将来展望（2013）
+description:
+  ja: 北海道の都市と交通の将来を、札幌市と地方都市の両方の観点から扱う講義である。人口減少や高齢化、北海道新幹線の札幌延伸を背景に、今後どのように都市や交通ネットワークを整備していくかを説明する。
+quotedDescription:
+  text:
+    ja: '昨年、北海道新幹線札幌延伸が決まり、2035年に開業予定となっています。しかし、すでに人口減少・高齢化が進み、いかにして安全・安心に暮らせる街を作るか、都市や産業を活性化するかが重要な課題となっています。本講義では、北海道の都市と交通の将来はどうなっているか、札幌市と地方都市の観点から説明します。そして、将来のために都市や交通ネットワークをどのように整備していくべきかを解説します。
+
+      教員紹介
+
+      岸 邦宏
+
+      1970年北海道生まれ。1999年北海道大学大学院工学研究科博士後期課程修了。博士(工学)。北海道大学大学院工学研究科助手を経て、2008年より北海道大学大学院工学研究院准教授。専門は交通計画、交通工学、都市計画。自動車交通から公共交通まで、人々の生活、地域を支えるための交通体系のあり方や、交通計画と連携したまちづくりについて研究を進めている。道内各地の交通政策の立案にも関わっている。'
+  source: https://ocw.hokudai.ac.jp/lecture/_openlecture-05-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 岸 邦宏
+  affiliation:
+    name: 北海道大学大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 北海道大学公開講座
+- 交通
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

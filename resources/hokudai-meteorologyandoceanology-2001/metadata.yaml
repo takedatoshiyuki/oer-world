@@ -1,0 +1,79 @@
+slug: hokudai-meteorologyandoceanology-2001
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 大気海洋物理学特論4 大気海洋統計データ解析（2001）
+description:
+  ja: 大気・海洋の経年変動と数十年変動の特徴、ならびにそのメカニズムに関する学説を扱う講義である。あわせて、こうした変動を解析するためのデータ解析手法を、基礎から応用まで学ぶ内容になっている。公開教材として講義資料の配布資料が8件ある。
+quotedDescription:
+  text:
+    ja: 大気・海洋の経年および数十年変動の基本的な特徴とその提唱されているメカニズムに関する最新の学説を概観する。さらに、それらの大気海洋の変動を解析するためのデータ解析手法の基礎から高度な応用までを学び、各々のデータ解析手法の特徴を把握し、適切な応用を可能とする。
+  source: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 見延 庄士郎
+  affiliation:
+    name: 北海道大学大学院理学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2001'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Appendix-A.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MeterologyAndOceanology-2001-Appendix-B.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/meteorologyandoceanology-2001
+extensions:
+  faculty: 大学院でさがす
+  targetAudience: 修士1-2年 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

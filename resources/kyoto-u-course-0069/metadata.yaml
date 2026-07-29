@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0069
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/69/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物学セミナーB
+description:
+  ja: 少人数のグループで、生物現象に関する課題を取り上げて学習する講義である。ここでは「細胞応答の分子機構」をテーマに、小胞体の機能維持に関わる真核細胞の応答を扱い、関連する重要な論文や総説を講読する。
+quotedDescription:
+  text:
+    ja: '種々の生物現象について，他の教科から派生した問題や，それらとは独立した新たな問題について，教員と学生の比較的小人数のグループで，密度の高い学習を行う。学習課題は教員あるいは教員群が呈示したり，学生の希望に基づいたりして決定する。
+
+      「細胞応答の分子機構」
+
+      分泌系タンパク質の高次構造形成の場である小胞体の機能を維持するために真核細胞が示す様々な応答についての重要な論文・総説を講読する。'
+  source: https://ocw.kyoto-u.ac.jp/course/69/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森 和俊
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,53 @@
+slug: sophia-20111212renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111212renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第16回
+description:
+  ja: 上智大学のソフィア・ルネッサンス連続講演会の第16回にあたる講義資料で、2011年12月12日に開講された。担当は我謝京子で、ロイター記者・映画監督として示されている。公開されている教材は「111212renaissance.pdf」で、日本語で提供される。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 我謝 京子(ロイター記者
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 映画監督)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 111212renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111212renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111212renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2011/12/12
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

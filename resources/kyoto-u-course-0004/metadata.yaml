@@ -1,0 +1,85 @@
+slug: kyoto-u-course-0004
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/4/
+type:
+- LearningResource
+- Course
+name:
+  ja: OE Japan 国際シンポジウム「世界と日本のオープンエデュケーション」
+description:
+  ja: オープンエデュケーションをめぐる国内外の動向を取り上げ、OERやMOOCの活用が教育機会の均等、専門職育成、リカレント教育、SDGs支援にどう結びつくかを扱う。あわせて、Open Education
+    Globalの関係者と日本の実践者を招き、世界と日本の取り組みの現状、可能性、課題を議論する。
+quotedDescription:
+  text:
+    ja: '近年、オープンエデュケーションは初等中等教育、高等教育、生涯学習の課題解決を担う手段として国内外で注目されています。教育機会の均等、専門職育成、リカレント教育の推進、持続可能な開発目標（SDGs）の支援など多様な目的にオープン教育資源（OER）や大規模公開オンライン講座（MOOC）の活用が期待されています。
+
+      本シンポジウムでは、国際的なオープンエデュケーション推進団体Open Education Global（旧Open Education Consortium）のメンバーと、日本においてオープンエデュケーションやオンライン教育を牽引する有識者を招き、世界と日本のオープンエデュケーションのこれから、可能性と課題について議論します。
+
+      Open Education Japan（旧：日本オープンコースウェアコンソーシアム）: https://oe-japan.netlify.app/
+
+      Open Education Global: https://www.oeglobal.org/'
+  source: https://ocw.kyoto-u.ac.jp/course/4/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 重田 勝介（北海道大学准教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: OE Japan代表幹事
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: JMOOC理事
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: OE Globalボードメンバー）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Open Education Global）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Paul Stacey（Executive Director
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Open Education Global）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岸田 徹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-03-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

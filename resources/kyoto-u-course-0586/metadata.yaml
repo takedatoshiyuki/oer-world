@@ -1,0 +1,104 @@
+slug: kyoto-u-course-0586
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/586/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農学の新戦略－増収と環境の調和をめざして－
+description:
+  ja: 農学を軸に、増収と環境の調和、作物の起源、栽培の基礎、育種、植物保護、遺伝子組換え植物、肥料と有機農業、遺伝子多様性の保全までを扱う。農学の変遷や安全性にも触れ、農業生産と環境・生物多様性の関係を幅広く取り上げる。
+quotedDescription:
+  text:
+    ja: '4月14日 間藤 徹（農学研究科 教授）
+
+      増収と環境の調和　はじめに Video
+
+      4月21日 河原 太八（農学研究科 准教授）
+
+      作物の起源　新石器革命（Neolithic Revolution） Video
+
+      4月28日 白岩 立彦（農学研究科 教授）
+
+      栽培とは何か　品種選択、作期、灌漑、施肥の基本的意義 Video
+
+      5月12日 谷坂 隆俊
+
+      農学とは Video
+
+      5月19日 奥本 裕（農学研究科 教授）
+
+      ゲノムと育種 Video
+
+      5月27日 中川 好秋（農学研究科 准教授）
+
+      農学の変遷と安全性：殺虫剤を中心に Video
+
+      6月2日 森 直樹（農学研究科 准教授）
+
+      生物間相互作用と植物保護 Video
+
+      6月9日 奥野 哲郎（農学研究科 教授）
+
+      植物とウィルス Video
+
+      6月16日 宮川 恒（農学研究科 教授）
+
+      花咲か爺さんもびっくり　科学による植物の生長調節 Video
+
+      パワーポイント資料、引用著作物出所：花さかじいさん絵本
+
+      平田 昭吾 (著), 高橋 信也 (著)　出版社: ポプラ社
+
+      6月23日 冨永 達（農学研究科 教授）
+
+      除草剤抵抗性遺伝子組換え作物の栽培と雑草問題 Video
+
+      6月30日 佐藤 文彦（生命科学研究科 教授）
+
+      遺伝子組み換え植物の可能性と課題 Video
+
+      7月7日 間藤 徹（農学研究科 教授）
+
+      化学肥料と有機農業 Video
+
+      7月14日 河原 太八（農学研究科 准教授）
+
+      遺伝子多様性とその保全 Video'
+  source: https://ocw.kyoto-u.ac.jp/course/586/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

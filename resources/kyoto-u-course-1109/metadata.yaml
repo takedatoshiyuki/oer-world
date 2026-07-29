@@ -1,0 +1,64 @@
+slug: kyoto-u-course-1109
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1109/
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバル教育展開オフィス オンラインセミナー:「教育輸出の倫理的・政治的課題：日本とフィンランドの比較から」
+description:
+  ja: 日本とフィンランドの事例を手がかりに、教育輸出がどのように形成されるかを検討するセミナーである。あわせて、教育を商品や開発援助の手段として海外に展開する際の政治的・倫理的課題を扱う。国際教育協力の課題と可能性についても議論する。
+quotedDescription:
+  text:
+    ja: 今日、多くの先進国が教育輸出を国内経済成長やソフトパワー外交の手段として位置づけている。教育輸出事業は、各国の政治・経済制度・歴史的文脈をうけてどのように形成され、どのような特徴を有しているのだろうか。また、教育を商品として、または開発援助の手段として輸出することに関しては、どのような政治的・倫理的課題が存在するのだろうか。フィンランドでは「koulutusvienti（教育の輸出）」日本では「Edu-Port」の名のもと、国家主導のプロジェクトとして、「フィンランド型教育」や「日本式教育」が積極的に海外展開されている。本セミナーでは、両国の事例を比較考察することで、教育輸出と国際教育協力の課題と可能性について議論する。
+  source: https://ocw.kyoto-u.ac.jp/course/1109/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 高山敬太
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 興津妙子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Henna Juusola
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Kimmo Kuortti
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-02-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

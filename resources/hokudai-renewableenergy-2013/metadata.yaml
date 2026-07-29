@@ -1,0 +1,54 @@
+slug: hokudai-renewableenergy-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/renewableenergy-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 再生可能エネルギーと地域経済の活性化（2013）
+description:
+  ja: 北海道における再生可能エネルギーの導入状況を取り上げ、風力やバイオマス、太陽光、地熱、小水力などの資源を軸に話を進める。あわせて、固定価格買取制度や道内で進む太陽光発電の動きに触れながら、北海道内の事例と日本全体の制度上の課題を検討する。デンマークとドイツの取り組みも紹介する。
+quotedDescription:
+  text:
+    ja: 北海道は、日本の中でも、風力、バイオマス、太陽光、地熱、小水力など、自然エネルギーが恵まれた地域です。昨年の7月から、再生可能エネルギーの固定価格買取制度が発足して、道内でも大型の太陽光パネルの建設が始まっています。しかし、大部分が本州資本による投資です。エネルギーの地産地消に向けた取り組みが求めされています。デンマーク、ドイツなどの取り組みを紹介しながら、北海道内先進的取り組みと日本全体の制度的な課題を、紹介、検討したいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/renewableenergy-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 吉田 文和
+  affiliation:
+    name: 北海道大学大学院経済学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+keywords:
+- ビジネス／経済
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

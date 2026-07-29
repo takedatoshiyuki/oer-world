@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0332
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/332/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第6回 MACSコロキウム「生物の状態変化をどのように記述すべきか：実験室進化と理論解析」
+description:
+  ja: 生物システムが環境変化に応じて内部状態を変える仕組みを、適応や進化の観点から扱う講義である。微生物の培養実験で観察される適応進化のダイナミクスを題材に、理論解析・実験・データ解析を組み合わせて細胞の状態遷移をどう記述し理解するかを論じる。講演では、その研究の現状と今後の展望を取り上げる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      生物システムは、適応や進化といった現象に見られるように、環境変化に対して柔軟にその内部状態を変化させることが出来ます。では、生物のような複雑なシステムが、どのようにして安定に内部状態を変化させることが出来るのでしょうか？その現象をどのように記述し理解すべきでしょうか？こうした問いに答えるために、微生物をさまざまな条件下で培養し、そこで繰り広げられる適応進化のダイナミクスを調べています。理論解析と実験、そしてデータ解析を組み合わせることにより、細胞の状態遷移を理解することを目指していますが、今回の講演ではその現状と展望を議論したいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/332/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 東京大学理学系研究科物理学専攻 教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-11-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

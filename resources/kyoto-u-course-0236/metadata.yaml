@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0236
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/236/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第93回 京都大学丸の内セミナー「繰り返しゲームの世界：協力行動の分析」
+description:
+  ja: この講義は、繰り返しゲーム理論を用いて相互協力が成立する条件を扱う。懲らしめ行動を含む協力戦略の構造、相手の行動が見えにくい状況での協力、長期的関係が協力行動に与える影響を取り上げる。講演者自身の研究成果も交えて解説する。
+quotedDescription:
+  text:
+    ja: '現代の経済学における標準的な分析ツールの一つに、ゲーム理論があります。これは数学の一種で、自分がやるべきことが相手のすることにも依存する「戦略的状況」の科学というべきものです。ゲーム理論の手法は、企業間競争やオークションの入札行動分析のような対立関係だけでなく、人々の間の協力行動の解明にも適用できます。
+
+      　繰り返しゲームは、隣人付き合いや職場における助け合いから談合・カルテルに至るまで、様々な意味合いの協力行動を説明できるモデルです。全く協力できそうにない囚人のジレンマ的局面が何度も何度も現れるときは、いわゆるトリガー戦略で相互協力が可能になるという議論などは、繰り返しゲーム理論の成果の応用例です。
+
+      こ　の講義では、繰り返しゲームの理論が説く相互協力の論理が、様々な局面でどのように機能するのかについて、講演者自身の研究成果も交えて解説します。具体的には、（１）単なる非協力だけではなく、悪い相手を懲らしめる行動も実行可能なケースにおける協力戦略の構造、（２）相手の行動がよく見えない状況における相互協力の達成方法、（３）当事者間の長期的関係が緊密になることが協力行動にもたらす効果、などを扱います。'
+  source: https://ocw.kyoto-u.ac.jp/course/236/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 関口 格
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-04-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

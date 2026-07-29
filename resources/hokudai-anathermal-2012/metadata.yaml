@@ -1,0 +1,62 @@
+slug: hokudai-anathermal-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/anathermal-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 私たちの未来とリスク 地球温暖化と二酸化炭素 ―陸上生態系による調節―（2012）
+description:
+  ja: 地球温暖化の原因としての二酸化炭素と、その大気中濃度の上昇を扱う講義である。森林や海洋による吸収・固定に触れつつ、森林などの陸上生態系が持つ二酸化炭素吸収機能を解説する。担当の平野高司は、陸上生態系と大気環境の相互作用や二酸化炭素吸収量の定量化・モデル化に取り組んできた。
+quotedDescription:
+  text:
+    ja: '地球温暖化は人類が直面している最も深刻な環境問題の一つであり、その主要な原因物質は、石油・石炭などの使用によって排出される二酸化炭素です。二酸化炭素は森林や海洋によって吸収・固定されますが、排出量の全てを吸収することはできず、年率約2ppmで大気中の濃度が上昇を続けています。地球温暖化の状況や、森林などの陸上生態系が持つ二酸化炭素吸収機能などについて解説します。
+
+      平野　高司
+
+      1984年北海道大学農学部農業工学科卒業、1986年同大学院農学研究科修士課程修了、博士（農学）（大阪府立大学）。大阪府立大学農学部助手、助教授、北海道大学大学院農学研究科助教授を経て、2006年より現職。専門は、農林気象学、生態系情報学。道内および海外のフィールドで陸上生態系と大気環境との相互作用に関する研究を行ってきた。現在は、森林や湿原における二酸化炭素吸収量の定量化やモデル化に取り組んでいる。'
+  source: https://ocw.hokudai.ac.jp/lecture/anathermal-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 平野 高司
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- 地球温暖化
+- 二酸化炭素
+- 陸上生態系
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,156 @@
+slug: kyoto-u-course-0989
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/989/
+type:
+- LearningResource
+- Course
+name:
+  ja: 5th University Administrators Workshop The Role of International Officers in Globalized Higher Education
+description:
+  ja: 本講義は、国際化した高等教育の中で国際担当者が担う役割を扱う。学生の国際移動や交換プログラム、大学の国際化戦略、国際ネットワークについて、アジアの複数大学の事例を通して取り上げる。京都大学を含む各大学の担当者による発表で構成される。
+quotedDescription:
+  text:
+    ja: 'Wednesday, January 27, 2010 – Challenges for the Global Circulation of Students
+
+      Opening Remarks
+
+      1 Dr. Hiroshi Matsumoto (President, Kyoto University)
+
+      Overview Speech
+
+      2 Prof. Junichi Mori (Vice-President for International Relations, Kyoto University)
+
+      Guest Speech
+
+      3 Dr. Gay Satsuma (Center for Japanese studies, University of Hawaii)
+
+      Session A-I
+
+      4 Assoc. Prof. Dr. Rattachat Mongkolnavin (Chulalongkorn University)
+
+      Challenges for Students Mobility in ASIA: Chulalongkorn University’s Perspective
+
+      5 Ms. Hu Jie (Nanjing University)
+
+      Enhancing Nanjing University Undergraduate Students International Mobility
+
+      6 Ms. Sunju Park (Seoul National University)
+
+      International Student Mobility
+
+      Session A-II
+
+      7 Mr. Gengo GOTO (Ritsumeikan University)
+
+      Global 30 – Ritsumeikan University’s International Strategy
+
+      8 Prof. Paul FORSTER (Hong Kong University of Science and Technology)
+
+      Institutionalizing Internationalization
+
+      9 Dr. Pongthep Vorakitpokatorn (Thammasat University)
+
+      The Future Success of the Student Exchange Program relies on working more actively with partner
+      universities
+
+      10 Ms. Janet SO (Yonsei University)
+
+      Special tailored programs: an alternative to exchange program
+
+      11 Ms. CHEN Duan (Wuhan University)
+
+      Strengthening Global Collaboration for the Improvement of Student Exchange Programs
+
+      Session A-III
+
+      12 Prof. Elizabeth L. Enliquez (University of the Philippines, Diliman)
+
+      Curricular and structural challenges to the global circulation of students
+
+      13 Mr. Tsuguhiro Shimura (Tokyo Institute of Technology)
+
+      Challenges, countermeasures and findings on student exchange programs by Tokyo Tech
+
+      14 Mr. Jongkeun KIM (Korea University)
+
+      The Internationalization of Korea University Strategies, Status, Challenges
+
+      15 Assoc. Prof. Anne Pakir (National University of Singapore)
+
+      The Role of NUS’ International Relations Office in Globalizing Higher Education
+
+       
+
+      Thursday, January 28, 2010 – International Networking of International Administration Officers
+
+      Session B-I
+
+      1 Ms. Tamami KOJIMA (Kyoto University)
+
+      The Potential of Administrators Networks
+
+      2 Ms. LI Yun (Peking University)
+
+      Peking University’s International Networking – Sustainable Development
+
+      3 Mr. Wei-Chung WANG (Tsinghua University – Hsinchu)
+
+      Current International Networking for International Administration Officers at National Tsing Hua
+      University
+
+      4 Prof. Yong Taek IM (KAIST)
+
+      A Paradigm of Global Networking through International Presidential Forum
+
+      Session B-II
+
+      5 Mr. Wang, Hui (Tsinghua University – Beijing)
+
+      International Administration Officers as International Exchange Factors
+
+      6 Prof. Ma. Crisanta N. Flores (University of the Philippines, Diliman)
+
+      International Networking strategies and Challenges for Administration Officers : The Philippine
+      Experience
+
+      7 Mr. Kentaro Ebihara (Tokyo Institute of Technology)
+
+      Use of International Networking at International Office'
+  source: https://ocw.kyoto-u.ac.jp/course/989/
+  note: 京都大学OCW 「Opening Remarks」・「Overview Speech」・「Guest Speech」・「Session A-I」・「Session A-II」・「Session
+    A-III」・「Session B-I」・「Session B-II」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 国際交流センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

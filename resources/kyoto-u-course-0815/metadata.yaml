@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0815
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/815/
+type:
+- LearningResource
+- Course
+name:
+  ja: 熱力学
+description:
+  ja: 物理学、工学、物理化学で必要となる熱力学を扱い、特に熱力学第二法則とエントロピーの導入に重点を置く。初回には、受講に必要な数学的準備も行う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      物理学、工学、物理化学等に必要な熱力学について講義を行う。特に、高等学校では扱わない熱力学第二法則とエントロピーの導入に主眼が置かれる。初学年でも受講可能にするために、初回に必要な数学的準備も行う。
+
+       
+
+      授業の紹介
+
+      我々の身の回りの巨視的な物質系は、必ず熱現象をともなう。熱現象は、物質系を構成する原子・分子の微視的な力学法則とは異質な法則性を持つ。巨視的な系は無数の原子・分子から構成され、その原子・分子は追跡不能の振舞いをしているにもかかわらず、系の巨視的な振舞いはきわめて単純な法則に従う。これを体系化したのが熱力学である。温度、相、非可逆性などはすべて、巨視的な系で初めて成り立つ概念である。中でもとりわけ重要な概念は、エントロピーである。熱い物体は放置すれば必ず冷める、あるいは気体は放置すれば必ず広がる一方であるという物理化学における非可逆性の概念と、熱効率100％のエンジンは実現不可能であるという熱工学的な経験が、エントロピーの導入により統一して理解することができたという、科学史上の重大な発見に力点を置いた講義である。'
+  source: https://ocw.kyoto-u.ac.jp/course/815/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 冨田 博之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_netsurikigaku.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/815/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

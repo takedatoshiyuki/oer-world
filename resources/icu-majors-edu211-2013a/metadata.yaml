@@ -1,0 +1,78 @@
+slug: icu-majors-edu211-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/edu211_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: Christian Philosophy of Education キリスト教教育哲学
+description:
+  ja: この教材は、キリスト教教育の基礎を扱い、宗教と教育の関係やキリスト教教育の目的に焦点を当てる。公開されているのは講義の一部で、講義資料が1件付属する。
+quotedDescription:
+  text:
+    ja: 'Aims at providing the basic knowledge of Christian education, focusing on the relationship between
+      religion and education, and aims of Christian education.
+
+      キリスト教教育の原理および実践についての基礎的理解を与えることを目的とする。特に、宗教と教育の関わりおよびキリスト教教育の目的を取り扱う。
+
+      Contents of Lectures
+
+      1Lecture / 1 Video
+
+      Lecture Notes
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/edu211_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 林昭道
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 教育学
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 専攻科目
+- 'Education 教育学 | Course ID: EDU'
+- 'EDU211 | Course Schedule: 5/F, 6/F | Update: 2013.12.12'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1duDIw9RSm_qcfaW4uwm1Ggh1Il1Gy-Uz/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/edu211_2013a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

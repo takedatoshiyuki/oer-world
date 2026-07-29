@@ -1,0 +1,94 @@
+slug: kyoto-u-course-0371
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/371/
+type:
+- LearningResource
+- Course
+name:
+  ja: Top Global Course Special Lecture
+description:
+  ja: Langlandsのautomorphic transferを、加法に関する演算の一般化として捉える話題から始まり、Grothendieck toposを用いた理論間の橋渡しへと進む4回の講義である。さらに、基礎群が存在する条件や、基礎群で分類される新しい圏の具体的構成、群・グラフ・幾何学的対象に対する不変量の導出を扱う。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      1. April 10, 15:30-16:30 Langlands’ automorphic transfer as a problem of generalising the addition
+      operation
+
+      Langlands’ automorphic transfer from reductive groups to linear groups is equivalent to the existence
+      of local and global Fourier transform operators induced by representations of the dual groups, of
+      local and global functional spaces that should be stabilized by these operators and of a Poisson
+      linear form on the global functional spaces that should be fixed by Fourier transform. Looking for
+      a definition of non-additive Fourier transform operators leads to the crucial question of determining
+      the Fourier transform of the operator of point-wise multiplication of functions. It has to be a
+      generalisation of ordinary additive convolution operators.
+
+      2. April 10, 16:45-17:45 Grothendieck toposes as unifying ‘bridges’ in mathematics
+
+      The talk will explain how Grothendieck toposes can be effectively used as ‘bridges’ for transferring
+      ideas and results across different mathematical theories. The interest of these general techniques
+      is that they allow one to discover in classical domains new results which are established by topos-theoretic
+      means but whose statement does not involve toposes. By way of example, these general methods will
+      be illustrated by a topos-theoretic reinterpretation and generalisation of Stone-type dualities
+      in topology.
+
+      3. April 11, 15:30-16:30 When do fundamental groups exist?
+
+      The talk will explain how Grothendieck toposes can be effectively used as ‘bridges’ for transferring
+      ideas and results across different mathematical theories. The interest of these general techniques
+      is that they allow one to discover in classical domains new results which are established by topos-theretic
+      means but whose statement does not involve toposes. By way of example, these general methods will
+      be illustrated by a topos-theoretic reinterpretation and generalisation of Stone-type dualities
+      in topology.
+
+      4. April 11, 16:45-17:45 Fundamental groups and imaginary covers
+
+      This talk is based on joint work with O. Caramello. It examines the concrete construction of the
+      new categories classified by fundamental groups as defined in the previous talk. Many classical
+      categories – such as the categories of finite groups or finite graphs and their embeddings or their
+      surjective homomorphisms – naturally embed into larger categories classified by fundamental groups.
+      The new ‘imaginary’ objects which have to be added to make these categories Galoisian can be described
+      concretely. These constructions allow one to associate new invariants – including cohomological
+      invariants – to groups, graphs and many geometric objects.'
+  source: https://ocw.kyoto-u.ac.jp/course/371/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Laurent Lafforgue（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Olivia Caramello（Researcher
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-04-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

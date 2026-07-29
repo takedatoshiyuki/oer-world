@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0581
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/581/
+type:
+- LearningResource
+- Course
+name:
+  ja: 環境の評価
+description:
+  ja: 環境の評価を扱う京都大学の前期講義で、日本語で行われる。公開教材として講義ノートがあり、講義日は5月から7月にかけて複数回設定され、8月には実習期間も設けられている。
+quotedDescription:
+  text:
+    ja: '講義：5月 7、14、21、28日、6月 4、25日、7月 2日
+
+      実習期間：8月 9日~10日'
+  source: https://ocw.kyoto-u.ac.jp/course/581/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-05-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/282529f16ecda5b91e064d4c0138732b.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/581/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

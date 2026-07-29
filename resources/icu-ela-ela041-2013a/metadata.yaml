@@ -1,0 +1,108 @@
+slug: icu-ela-ela041-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ela/ela041_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: Reading and Content Analysis 精読と英文構成法
+description:
+  ja: 本教材は、学術テキストを精読しながら読解技能と読解方略を身につける授業内容を扱う。あわせて、テキストのジャンル、構成、論調、社会文化的文脈の分析や、言い換え・要約の演習も取り上げる。
+quotedDescription:
+  text:
+    ja: 'Along with Academic Reading and Writing 4, RCA4 is a core course in the ELA Program. Through
+      intensive reading,
+
+      this course helps students to develop reading skills and strategies to become independent readers
+      of academic texts. By incorporating the experience of teachers as learners of English as a foreign
+      language, the course mainly focuses on comprehension of the texts by providing essential skills
+      and strategies. In
+
+      addition, analysis of the texts such as their genre, structure, tone and socio-cultural context
+      will be addressed. Writing, such as paraphrasing and summarizing, is introduced to increase accuracy
+      in comprehension. The course is taught over three terms which must be taken in sequence.
+
+      「読解と論文作法」と共に、リベラルアーツ英語プログラム(Stream 4)の中核となる科目である。英語を外国語として学んだ経験を持つ教員が担当することにより、学術文章を自律的に読みこなす読解力の向上を図る。テキスト
+      の正確な理解を目的とした精読のための読解技法の習得に重点をおく。テキストのジャンル、構成、論調、社会文化的文脈の分析も行う。さらに、理解力を高め るために言い換えや要約等のライティングの演習を行う。1、2、3学期の順に履修すること。
+
+      Contents of Lectures
+
+      2
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Section:
+
+      4D
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      Oct
+
+      18
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。
+
+      Lecture Notes
+
+      Oct
+
+      23
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ela/ela041_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 津田敦子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 英語教育プログラム
+- 'ELA041 | Stream4 | Update: 2014.09.24'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/15z-TkCHjYRGcVERQYb24dP3gps7PtBp0/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ela/ela041_2013a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

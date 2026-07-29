@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0501
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/501/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成24年度 京都大学図書館機構講演会 「新しい情報「発見」の仕組みを作る～電子情報資源の普及と統合的発見環境」
+description:
+  ja: 京都大学図書館機構が2012年に開講した講演会で、電子情報資源の普及と統合的発見環境を主題としている。新しい情報の「発見」の仕組みを扱う内容である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 大西 直樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐藤 義則
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 片岡 真
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 井上 敏宏
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-12-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- arts_humanities
+keywords:
+- 自然科学
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

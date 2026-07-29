@@ -1,0 +1,59 @@
+slug: utokyo-series-48pose7urwvo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=48posE7URwVO
+type:
+- LearningResource
+- Course
+name:
+  ja: E-learning video produced by the Kavli IPMU
+description:
+  ja: カブリ数物宇宙連携機構 (Kavli IPMU) が制作したe-learning動画である。使用言語は英語で、英語話者向け・学内限定の教材として提供される。
+quotedDescription:
+  text:
+    ja: 'カブリ数物宇宙連携機構 (Kavli IPMU) が制作した、e-lerning教材です。
+
+      ※動画は英語です。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=48posE7URwVO
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: カブリ数物宇宙連携機構 (Kavli IPMU)
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+- engineering
+- education
+keywords:
+- 政治・法律
+- 災害・防災
+- 教育
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

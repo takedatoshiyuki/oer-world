@@ -1,0 +1,119 @@
+slug: kyoto-u-course-0665
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/665/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地域環境工学概論Ⅱ
+description:
+  ja: 日本農業の現状と食料生産の作業体系を起点に、農業の生産システムや機械化、自動化、情報化を工学的な観点から扱う講義である。植物環境調節、植物工場、農作業機械、フィールドロボティクス、精密農業、リモートセンシング、収穫後の貯蔵・加工・検査まで、対象と技術を広く学ぶ。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      食料・エネルギーの確保のため，複雑で多様な動植物等を対象にし，農作業体系，生産システム，機械化，自動化，情報化，農産物，水産物，畜産物および食品の検査などについて工学的な視点から幅広く学ぶことができる授業である。
+
+      授業の紹介
+
+      アジアを中心にした急激な経済発展と人口増加の中，食料およびエネルギーの問題は緊急かつ重要な問題である。本講義では初学者にも理解容易となるよう，日本農業の現状，食料生産に関わる作業体系を学んだ後，今後の農業の展開について議論する内容となっている。たとえば，最適な環境制御技術，人工光を用いた植物工場，露地栽培における種々の機械とその自動化，ロボット化，最小のエネルギーで最大の利益の得られる精密農業，衛星画像等を用いたリモートセンシング，収穫後の農産物の貯蔵，加工，検査技術，精密農業を畜産や水産業に適応した精密畜産，精密養魚の概念，非破壊検査技術，生産者，流通業者，消費者が安心できるトレーサビリティシステムなど，その対象および技術は非常に広範囲にわたる。いずれの授業も植物，動物，水産物，食品という対象を工学的な手法で計測して制御することが基本となる生産技術を講述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/665/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 清水 浩
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 飯田 訓久
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 日本農業の現状'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第2回 食料生産の作業体系'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第3回 バイオマス・内燃機関'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第4回 植物環境調節'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第5回 植物工場'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第6回 農作業機械１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第7回 農作業機械２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第8回 フィールドロボティクス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第9回 精密農業'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第10回 リモートセンシング'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第11回 ポストハーベスト技術と農産物性'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第12回 穀物，果実・野菜用農業施設'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第13回 精密畜産・精密養魚'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第14回 非破壊検査技術'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第15回 食の安心・安全のためのトレーサビリティ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+- name: '講義資料: 第1回から15回　一括'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_chikyuukankyoukougakugairon-2_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/665/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

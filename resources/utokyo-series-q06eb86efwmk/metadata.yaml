@@ -1,0 +1,100 @@
+slug: utokyo-series-q06eb86efwmk
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Q06eb86EFwmk
+type:
+- LearningResource
+- Course
+name:
+  ja: 駒場と統計と私（廣松毅最終講義）
+description:
+  ja: 本教材は、廣松毅の最終講義として、駒場での経験と統計に関わる研究を題材にする。あわせて、研究概要として経済統計学と経済政策が示され、担当者の略歴も掲載されている。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      経済統計学
+
+      経済政策
+
+      【教授略歴】
+
+      1945    10月生まれ
+
+      1969    東京大学教養学部教養学科卒業
+
+      1972    東京大学大学院経済学研究科修士課程修了
+
+      1972    東京大学教養学部社会学科 助手
+
+      1974-77    ハーバード大学経済学部大学院留学
+
+      1979    東京大学教養学部 助教授
+
+      1982    ハーバード大学イェンチン研究所 客員研究員
+
+      1986-1991    経済企画庁経済研究所客員 主任研究官
+
+      1987    東京大学先端科学技術研究センター 助教授
+
+      1988-1992    郵政省郵政研究所 特別研究官
+
+      1989    東京大学先端科学技術研究センター 教授
+
+      1992-1994    東京大学大学院工学系研究科先端学際工学専攻 専攻主任
+
+      1995    東京大学教養学部 教授
+
+      1996    東京大学大学院総合文化研究科 教養学部教授
+
+      1997-1999    東京大学大学院総合文化研究科国際社会科学専攻 専攻主任
+
+      1999-2000    国際日本文化研究センター 客員研究員
+
+      2000-2001    学習院大学経済学部・経済経営研究所 客員研究員
+
+      2009    東京大学を定年退職'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Q06eb86EFwmk
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 廣松 毅
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- social_sciences
+keywords:
+- 教育
+- 経済・金融
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

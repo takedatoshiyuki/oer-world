@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0280
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/280/
+type:
+- LearningResource
+- Course
+name:
+  ja: CALL教材ワークショップ La Grammaire Active du Français グラメール アクティーヴ
+description:
+  ja: フランス語教科書『グラメール アクティーヴ三訂版』と、その補助教材を取り上げる。あわせて、発音ウオームアップ用のネット教材と、母音・子音・単語と文の発音を扱う教材も示す。
+quotedDescription:
+  text:
+    ja: '1. 教科書『グラメール アクティーヴ三訂版La Grammaire Active du Français』（朝日出版社）
+
+      https://text.asahipress.com/text-web/france/active_call/gaf3/menu.html
+
+      2. 補助教材
+
+      https://text.asahipress.com/text-web/france/active_call/call_fr/gaf3/index.html
+
+      3. ネット教材『La Grammaire Active du Français』発音ウオームアップ：
+
+      4.「目で見るフランス語発音入門（母音編，子音編，単語と文の発音編）」
+
+      https://ocw.kyoto-u.ac.jp/course/343/'
+  source: https://ocw.kyoto-u.ac.jp/course/280/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 大木 充
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,80 @@
+slug: kyoto-u-course-0758
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/758/
+type:
+- LearningResource
+- Course
+name:
+  ja: The Noncommutative Geometry of Tempered Representations
+description:
+  ja: 'この講義は、実数還元群の tempered dual を非可換位相空間として捉え、その構造を C*-代数の観点から扱う。unitary dual、group C*-algebra、reduced
+    C*-algebra との関係を踏まえ、Morita 同値まで視野に入れて議論する。
+
+    また、Connes-Kasparov 同型を real reductive groups について示す証明の流れを説明し、Wassermann や Lafforgue の考え方、さらに指数理論の計算にも触れる。'
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      The purpose of these lectures is to study the tempered dual of a real reductive group as a noncommutative
+      topological space. The unitary dual of a locally compact group may be identified with the spectrum
+      of its group C*-algebra. The C*-algebra point of view equips the unitary dual with a topology, and
+      it also associates to every unitary representation of the group, irreducible or not, a closed subset
+      of the dual. In the case of a real reductive group, the tempered dual is the closed set associated
+      to the regular representation. The tempered dual may also be thought of as the spectrum of the so-called
+      reduced C*-algebra. Following standard practice in C*-algebra theory and noncommutative geometry,
+      we shall interpret the problem of studying the tempered dual as a noncommutative topological space
+      as the problem of studying the reduced C*-algebra up to Morita equivalence.
+
+      The extra effort that is required to study the tempered dual in this more elaborate way, and not
+      just a set, is rewarded in spectacular fashion by a beautiful isomorphism statement in K-theory
+      that was conjectured by Connes and Kasparov, and later proved by Wassermann and Lafforgue. I shall
+      describe a proof of the Connes-Kasparov isomorphism for real reductive groups that mostly follows
+      the approach outlined by Wassermann but also uses ideas introduced by Vincent Lafforgue, together
+      with new index-theory calculations that extend Lafforgue’s ideas.'
+  source: https://ocw.kyoto-u.ac.jp/course/758/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Evan Pugh Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Pennsylvania State University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-04-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

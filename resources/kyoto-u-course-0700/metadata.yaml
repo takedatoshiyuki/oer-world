@@ -1,0 +1,170 @@
+slug: kyoto-u-course-0700
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/700/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際通貨論
+description:
+  ja: この教材は、国際通貨体制を軸に、ユーロの成立までの欧州統合とユーロ圏の経済政策、さらにユーロが世界の通貨体制に及ぼす影響を扱う。あわせて、人民元と香港ドル、アジア通貨危機、円の国際化、東アジアにおける地域通貨圏の構想を取り上げ、日本とアジアの通貨体制を考える。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      ユーロの誕生とともに、米ドル中心の国際通貨体制は新たな局面を迎えている。ドル圏に加えユーロ圏が拡大する一方、現在東アジアには地域通貨圏と呼びうるものは存在しない。今後アジア危機の再発を防ぎ、地域経済の持続的安定成長を確保するために、欧州の経験を教訓に、東アジアにおける通貨体制のあり方と日本の役割を探る。
+
+      秋学期（国際通貨論I:10月―1月）は、経済通貨同盟（EMU）成立に至るまでの欧州統合の動き、ユーロ地域における経済政策の特色、およびユーロの国際通貨体制に及ぼすインパクトを中心テーマとする。春学期（国際通貨論II:4月―7月）においては、中国の通貨の現状と問題点、アジア通貨危機の原因と対応策、アジアに地域通貨圏を作るうえでの日本の役割などを議論する。
+
+       
+
+      授業の紹介
+
+      秋学期（10月−1月）
+
+      1.ユーロへの道のり：政治、経済、通貨の歴史
+
+      2.ユーロ地域の経済政策：金融、財政、構造政策
+
+      3.ユーロと国際通貨体制：最適通貨圏の理論、2極通貨体制の展望
+
+      春学期（4月−7月）
+
+      4.人民元と香港ドル：相場制度の特徴と将来展望
+
+      5.アジア危機：通貨・金融・経済危機とその背景
+
+      6.円の国際化と地域通貨圏：東アジア経済の安定と成長のために
+
+      7.アジア安定通貨圏構想：東アジアの現実と欧州の教訓'
+  source: https://ocw.kyoto-u.ac.jp/course/700/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 村瀬 哲司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: The Autumn semester　第1回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第2回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第3回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第4回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第5回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第6回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第7回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第8回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　第9回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_autumn09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　ディスカッション#2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_autumn02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　ディスカッション#3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_autumn03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　ディスカッション#4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_autumn04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　ディスカッション#5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_autumn05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　ディスカッション#6'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_autumn06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　ディスカッション#7'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_autumn07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Autumn semester　ディスカッション#8'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_autumn08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　第1回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_spring01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　第2回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_spring02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　第3回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_spring03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　第4回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_spring04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　第5回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_spring05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　第6回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_spring06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　第7回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_spring07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　ディスカッション#2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_spring02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　ディスカッション#3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_spring03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　ディスカッション#4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_spring04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　ディスカッション#5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_spring05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　ディスカッション#6'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_spring06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+- name: '講義資料: The Spring semester　ディスカッション#7'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2004_International_Monetary_discussionperiod_spring07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/700/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

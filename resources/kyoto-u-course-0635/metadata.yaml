@@ -1,0 +1,123 @@
+slug: kyoto-u-course-0635
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/635/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文研アカデミー　人種の表象とリアリティ
+description:
+  ja: この講義は、人種をめぐる概念とその表象を、歴史・社会・文化の複数の視点から扱う。公開されている資料には、人種とは何かという導入に加え、絵画の変容、19世紀イギリスの人種と階級、ナチズムにおける農民表象などの主題が含まれる。
+quotedDescription:
+  text:
+    ja: '授業のテーマと目的
+
+      人文科学研究所において行った共同研究「『人種』の概念と実在性をめぐる学際的基礎研究」の研究成果の一部を学部生対象に楽しくわかりやすく伝えるものです。この授業では、人種は生物学的に存在するものではなく、社会的な構築物であるという理解からまず出発します。どのように人種概念は構築されてきたのか、そのプロセスを世界のいくつかの地域における事例をとおして考察しながら、近代の国民国家形成や植民地主義がどのように人種概念の構築にかかわっているのか、前近代との連続性はあるのか、欧米の人種概念は、果たして日本やアジアの現象をも説明しうるのか、人種概念と現代の人種主義はどのように関係しているのか、について考えていきます。またあたかも科学的に存在するかのごとく説明されてきた「人種」概念のどこが誤りであったのか、現代のゲノム研究をも射程に含めて再考します。最終的にこれらの問題意識をつなげて、人種概念について総合的に理解することを目指します。歴史学、社会学、文化人類学、生命科学などの領域において第一線で活躍する教員陣によるリレー講義です。なお、講義ノートのレジュメや資料は授業終了後、京都大学オープンコースウェアで公開します。'
+  source: https://ocw.kyoto-u.ac.jp/course/635/
+  note: 京都大学OCW 「授業のテーマと目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 竹沢 泰子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高木 博志
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石川 禎浩
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田辺 明生
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松田 素二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007-04-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 人文科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第2回\t授業概要説明　人種とは何か　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第2回\t授業概要説明　人種とは何か　資料２"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第2回\t授業概要説明　人種とは何か　資料３"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第2回\t授業概要説明　人種とは何か　資料４"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第2回\t授業概要説明　人種とは何か　資料５"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第3回\t表象を通したリアリティの構築　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第4回\t　「東方三博士の礼拝」の時代的変容(高階絵里加)　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第4回\t　「東方三博士の礼拝」の時代的変容(高階絵里加)　資料２"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第6回\t19世紀中庸のイギリスにおける人種と階級(小関隆)　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第6回\t19世紀中庸のイギリスにおける人種と階級(小関隆)　資料２"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第7回\tナチズムと農民表象（藤原辰史）　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_9-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第7回\tナチズムと農民表象（藤原辰史）　資料２"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_10-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第8回\t植民地朝鮮における人種表象と識別（イ スンヨプ）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第9回\tゲノム時代の医療をめぐる科学的表象(加藤和人)"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第10回\tゲノム時代における人類の分類と科学的表象(竹沢泰子)"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+- name: "講義資料: 第12回\t質疑応答・フリーディスカッション"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/04/2007_zinbunkenakademi_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/635/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

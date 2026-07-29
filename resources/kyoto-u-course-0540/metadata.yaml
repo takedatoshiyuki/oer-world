@@ -1,0 +1,87 @@
+slug: kyoto-u-course-0540
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/540/
+type:
+- LearningResource
+- Course
+name:
+  ja: 無機構造論1
+description:
+  ja: 核磁気共鳴法（NMR）を手がかりに、無機化合物の結晶構造と電子構造を扱う講義資料である。理論的な説明に加え、論文などを参照した具体的な実験例も取り上げ、構造論を論述する。後半の資料では、超伝導理論、BCS理論、高温超伝導、遍歴と局在に関するNMRの話題を含む。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      核磁気共鳴法を用いた無機化合物の結晶構造および電子構造研究に関して，理論的な説明と具体的な実験例（実際の論文などを引用しながら）を用いた詳細な説明とを併用して構造論を解説論述する点が特徴である。
+
+      授業の紹介
+
+      無機化合物の結晶構造および電子構造を調べる上で，非常に重要な微視的な化学的手法として核磁気共鳴法（NMR）がある．核磁気共鳴法を用いた構造論を論述し，実際の実験例などを参照しながら概説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/540/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉村 一良
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回目～第3回目 無機構造論1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+- name: '講義資料: 第4回目～第6回目 無機構造論1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+- name: '講義資料: 第7回目～第9回目 無機構造論1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+- name: '講義資料: 第10回目～第11回目 超伝導理論_BCS理論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+- name: '講義資料: 第12回目 高温超伝導とNMR'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+- name: '講義資料: 第13回目 高温超伝導とNMR'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+- name: '講義資料: 第14回目 遍歴vs局在とNMR'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+- name: '講義資料: 第15回目 遍歴vs局在とNMR'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mukikouzouron1_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/540/
+extensions:
+  faculty: 理学研究科
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

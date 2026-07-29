@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0554
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/554/
+type:
+- LearningResource
+- Course
+name:
+  ja: 感染症疫学
+description:
+  ja: 感染症を人間文明との相互作用として捉え、現代の感染症の人類史的意義を考える講義である。エイズ問題を事例に、流行の世界的な現状や背景、影響に加え、その社会・文化・経済・政治的な文脈を扱う。あわせて、感染症疫学の基礎概念、調査方法、数学的方法と、日本で実施される感染症対策の概要を学ぶ。
+quotedDescription:
+  text:
+    ja: '授業の概要・目的
+
+      感染症の問題を人間文明との相互作用として理解することにより、現代の感染症の人類史的意義を学び、また、エイズ問題を事例としながら、感染症流行の世界的現状・背景・影響を理解することにより、感染症流行の社会・文化・経済・政治的文脈を学ぶ。さらに、感染症疫学という学術分野で用いられる、基礎概念・調査方法・数学的方法を学ぶとともに、具体的にわが国で実施されている感染症対策についてその概要を学ぶ。'
+  source: https://ocw.kyoto-u.ac.jp/course/554/
+  note: 京都大学OCW 「授業の概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 木原 正博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-06-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 医学研究科
+  term: 前期後半
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

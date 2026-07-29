@@ -1,0 +1,47 @@
+slug: tsukuba-ds-analysis-of-sns-usage
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/analysis_of_sns_usage/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 SNS活用の分析におけるデーターサイエンスの活用
+description:
+  ja: 筑波大学・インテル社・つくば市の3者連携プロジェクトを題材に、地方自治体と市民社会の連携強化を目指してSNSコミュニティーを構築した経緯を扱う。あわせて、プロジェクト実施中に起きたコミュニティー活動低下をどのように解析し、解明したかに用いたデーターサイエンス的研究手法を紹介する。
+quotedDescription:
+  text:
+    ja: この講義では、筑波大学・インテル社・つくば市の3者連携プロジェクトで地方自治体と市民社会の連携を強化するために、SNSコミュニティー（フェイスブックコミュニティー：つくば市民活動のひろば）を構築した。プロジェクト実施中、特定時期においてコミュニティー活動の低下の問題に直面し、その解析・解明のために用いたデーターサイエンス的研究手法を紹介する。
+  source: https://ocw.tsukuba.ac.jp/data-science/analysis_of_sns_usage/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 海後 宗男
+  affiliation:
+    name: 筑波大学人文社会系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2021-09-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

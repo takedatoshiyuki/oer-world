@@ -1,0 +1,76 @@
+slug: utokyo-series-kcivtkufc54z
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=KcIvtkuFc54Z
+type:
+- LearningResource
+- Course
+name:
+  ja: シンポジウム「うな丼の未来III」
+description:
+  ja: ウナギの科学の進展を背景に、ウナギ資源の減少とニホンウナギの保全を扱うシンポジウムである。科学で何が明らかになり、何が限界なのかを検討し、資源回復と持続的利用の両立を議論する。
+quotedDescription:
+  text:
+    ja: "この10年でウナギの科学は急速に進歩しました。一方、世界のウナギは近年大きく減少し、ニホンウナギは絶滅危惧種に指定されました。なぜ資源はこんなにも減ってしまったのか？ どうすれば回復させられるのか？\
+      \ はたして、科学はウナギを救うことができるのか？ このシンポジウムでは、科学の可能性と限界を議論し、ウナギの保全と持続的利用を両立させる道を探ります。 \n \n  ★主催者ウェブサイト：\
+      \     東アジア鰻資源協議会（…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=KcIvtkuFc54Z
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 塚本 勝巳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渡邊 俊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 張 成年
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 筒井 繁行
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 望岡 典隆
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 金子豊二
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 足立 伸次
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

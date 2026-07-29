@@ -1,0 +1,98 @@
+slug: kyoto-u-course-0768
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/768/
+type:
+- LearningResource
+- Course
+name:
+  ja: 畜産技術論と実習Ⅱ
+description:
+  ja: 京都大学附属牧場で行う畜産の講義と実習を扱う教材である。内容は、育種、繁殖、栄養、生理、生産システムに関する講義と実習に加え、家畜の生体観察・測定、繁殖技術、栄養生理、環境生理、畜産情報の収集と統合化のコンピュータ実習まで含む。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      京都大学附属牧場において、畜産に関する講義と実習を行う。
+
+      授業の紹介
+
+      家畜生産に関連の深い研究分野の連携により、育種、繁殖、栄養、生理および生産システムなどに関する講義と実習を行う。'
+  source: https://ocw.kyoto-u.ac.jp/course/768/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久米 新一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 今井 裕
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松井 徹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 廣岡 博之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 祝前 博明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北川 政幸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 家畜の生体観察ならびに測定に関する技術の習得'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_chikusangijutsuron-jisshuu-2_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/768/
+- name: '講義資料: 第2回 家畜の繁殖技術に関する実習'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_chikusangijutsuron-jisshuu-2_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/768/
+- name: '講義資料: 第3回 家畜の栄養生理に関する技術の習得'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_chikusangijutsuron-jisshuu-2_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/768/
+- name: '講義資料: 第4回 家畜の環境生理に関する技術の習得'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_chikusangijutsuron-jisshuu-2_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/768/
+- name: '講義資料: 第5回 畜産情報の収集と統合化のためのコンピュータ実習'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_chikusangijutsuron-jisshuu-2_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/768/
+extensions:
+  faculty: 農学部
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

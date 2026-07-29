@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0634
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/634/
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバル教育展開オフィス 紹介映像
+description:
+  ja: 京都大学大学院教育学研究科の「グローバル教育展開オフィス」を取り上げ、その取組も紹介する映像教材である。教育学研究科の関連組織について、概要と活動内容を示す内容になっている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      京都大学大学院教育学研究科「グローバル教育展開オフィス」について、取組なども紹介しています。
+
+      京都大学 グローバル教育展開オフィス
+
+      https://global.educ.kyoto-u.ac.jp/'
+  source: https://ocw.kyoto-u.ac.jp/course/634/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 高山 敬太
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- その他
+audience:
+- general_public
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

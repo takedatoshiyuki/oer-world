@@ -1,0 +1,97 @@
+slug: utokyo-series-wkrt9ayylitu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=wkRt9aYylitu
+type:
+- LearningResource
+- Course
+name:
+  ja: 新・学問のすゝめー東大教授たちの近代（学術俯瞰講義）
+description:
+  ja: 東京大学を舞台に、日本近代の学問がどのように生まれ、移り変わったかをたどる講義である。工学や医学、数学、物理学、公法学などの形成に加え、戦後改革や大学紛争期の知的な動きまで扱う。学問の成果だけでなく、それを生み出した人物や背景、東大の現場にも目を向ける。
+quotedDescription:
+  text:
+    ja: 'コーディネータ　吉見俊哉（副学長、情報学環）
+
+      ナビゲータ　　　森本祥子（東京大学文書館、総合研究博物館）
+
+      日本近代を通じ、東京大学はこの国の「学」が生まれ、移植され、変容していく主舞台であった。英国における工業の発展がスコットランド経由で工学の形成を生み、医学はドイツ医学を基礎に発展し、和算から近代数学への転換があり、物理学では旧幕派がお雇い外国人経由でない知の形成を担った。他方、東大の公法学者は立憲制度の成立に深く関わり、軍事と学問の間にも一筋縄ではいかない関係があった。東大を主舞台に展開したドラマのすべてが、日本近代の学知の根幹をなす。ところが私たちは、過去の東大で誰が、いかにして学問を生み出してきたのかを意外に知らない。この講義では、近代の学問の結果だけを教えるのではなく、その知を創りだした人物、背景、そして「学」誕生の舞台となった東京大学の現場を再発掘する。東大を舞台に学問がいかなる人のつながりから生まれ変化していったのか、その歴史を戦後の東大で試みられた改革や大学紛争時の知的苦闘に至るまでたどっていく。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=wkRt9aYylitu
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 吉見 俊哉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡本 拓司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤森 照信
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大和 裕幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 永井 良三
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉澤 誠一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武田 晴人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 詔士
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 教育
+- 歴史
+- 宇宙・物理
+- 都市・建築
+- 生命・医療
+- 人口・社会問題
+- 数理
+- 大学論
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

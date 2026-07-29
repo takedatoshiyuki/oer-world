@@ -1,0 +1,90 @@
+slug: sophia-2009sct50900
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+type:
+- LearningResource
+- Course
+name:
+  ja: 科学技術英語２Ｃ（物理）
+description:
+  ja: 科学技術英語の系統的な学習の一部として、物理分野の英語文献を読むことと、物理用語の語彙を増やすことを扱う。あわせて、自然現象を英語で理解し表現することを目標にした講義資料が公開されている。
+quotedDescription:
+  text:
+    ja: 科学技術に国境はなく，英語による情報収集，発信の重要性はますます高まっている。一方，科学技術の文献を読みこなし，様々な形で情報発信するためには，科学技術の文献独特の専門用語を熟知し，論旨を明確にし結論をはっきりと述べる必要がある。これは英会話や文学作品を読むことだけでは，身に付かない。科学技術英語IからVIは，こうした科学技術英語を系統的に学ぶ。なお，本課程は文部科学省から現代GP「グローバル社会における系統的科学英語教育」として支援を受けている。
+      科学技術英語Ibでは，アメリカの高校生が使っている物理の教科書を読み，物理用語の語彙を増やすとともに自然現象の記述を英語で理解し，表現出来ることを目指す。
+  source: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大槻 東巳
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 2009SCT50900_1_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_1_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_1_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_1_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_2_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_2_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_2_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_2_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_2_03.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_2_03.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_2_04.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_2_04.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_3_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_3_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_3_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_3_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_4_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_4_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_4_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_4_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_5_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_5_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+- name: '講義資料: 2009SCT50900_5_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_5_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/2009sct50900/
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

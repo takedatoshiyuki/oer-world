@@ -1,0 +1,76 @@
+slug: hokudai-hokudaifd-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/hokudaifd-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: FD研修映像資料 「教育能力を高めるために ～北大方式Faculty Developmentの実践～」（2012）
+description:
+  ja: 北海道大学で実施してきたFDの内容をもとにした映像資料で、教育倫理、カリキュラム、シラバス、学習目標、学習方略、成績評価を扱う。およそ1時間で、シラバスを記述し講義を設計する際の基本知識を学ぶ構成である。
+quotedDescription:
+  text:
+    ja: 'この映像資料は、? FDの目的と教育倫理、?カリキュラムとシラバス、?学習目標、?学習方略、?成績評価を説明しており、およそ１時間で、シラバスを記述し講義を設計する際の基本知識を学ぶことができます。
+
+      本学では、一泊二日の本格的なFDを1998年から毎年1回実施してきました。２日間で教育の基本とシラバスの書き方、およびグループ学習の手法を学べます。この方法はきわめて効果的で、「北大方式」と呼ばれ国内の多くの大学のFDのモデルになり、日本の大学教育の改善に大きな役割を果たしました。2007年度からは毎年2回開催し、70余名の新任教員が参加していますが、毎年100名を超える新任教員全員がその恩恵に浴することはできないことから、映像化が企画されたものです。
+
+      関連動画
+
+      ・第18回 北海道教育ワークショップ'
+  source: https://ocw.hokudai.ac.jp/lecture/hokudaifd-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐伯 浩
+  affiliation:
+    name: 北海道大学総長
+- type: Person
+  name: 細川  敏幸
+  affiliation:
+    name: 北海道大学高等教育推進機構
+- type: Person
+  name: 西森 敏之
+  affiliation:
+    name: 北海道大学高等教育推進機構
+- type: Person
+  name: 三上 直之
+  affiliation:
+    name: 北海道大学高等教育推進機構
+- type: Person
+  name: 鈴木  誠
+  affiliation:
+    name: 北海道大学高等教育推進機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

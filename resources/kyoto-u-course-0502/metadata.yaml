@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0502
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/502/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成23年度 京都大学図書館機構 第1回講演会「図書館は学生の現在（いま）にどう応えるか？ ―変わりゆく「学び」と大学図書館―」
+description:
+  ja: 大学の多様化や情報技術の発達、教育・学習の変化を背景に、学生の主体的な学習を促す方法を扱う講演会である。あわせて、千葉大学の学習環境づくりの取組みを取り上げ、図書館の学習支援における役割を考える内容になっている。
+quotedDescription:
+  text:
+    ja: '大学全入時代といわれる今日、大学には多様な学生が存在しています。また、情報技術の発達により学生の生活形態は大きく変化しています。さらに、社会の要請を背景に大学における教育・学習のあり方は変化を迫られており、従来の受動的な学習形態に代わって、学生の主体的な参加を促す「能動的学習」「アクティブ・ラーニング」という新たな学習方法が注目されています。
+
+      今回の講演会では、それらの変化、新たな学習方法についてご講演いただきます。また、その変化に対応した学習環境を提供する千葉大学の取組みについてご講演いただきます。図書館が学習支援に果たす役割について、あらためて考える場となることを期待します。
+
+      主催：京都大学図書館機構, 共催：国立大学図書館協会近畿地区協会, 協賛：大学図書館近畿イニシアティブ'
+  source: https://ocw.kyoto-u.ac.jp/course/502/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 栃谷 泰文
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 溝上 慎一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 竹内 比呂也（千葉大学文学部教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 附属図書館長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: アカデミック・リンク・センター長）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-10-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

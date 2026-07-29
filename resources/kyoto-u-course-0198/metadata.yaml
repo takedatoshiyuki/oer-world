@@ -1,0 +1,113 @@
+slug: kyoto-u-course-0198
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/198/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第1回 市民講座「宇宙と物質の謎に迫る」
+description:
+  ja: 京都大学理学研究科が開講した市民講座で、宇宙と物質に関する話題を一般向けに扱う。公開教材には、やわらかな物質、銀河の誕生と成長、アインシュタインと宇宙をテーマにした3つの講義資料が含まれる。
+quotedDescription:
+  text:
+    ja: '主催：京大グローバルCOE「普遍性と創発性から紡ぐ次世代物理学」
+
+      後援：京都新聞社、物理教育学会、天文教育普及研究会、京都市教育委員会、京都府教育委
+
+       
+
+      概要
+
+      普遍性と創発性から紡ぐ次世代物理学－フロンティア開拓のための自立的人材養成－」では、物理学における最先端の成果を広く一般市民の方々に知って頂くため、市民講座「宇宙と物質の謎に迫る」を開催します。
+
+      これは21世紀COEプログラム「物理学の多様性と普遍性の探求拠点」の主催で昨年まで5回にわたり開催されてきた市民講座の後を引き継ぐもので、京都大学の3人の先生方に最新の話題について分かり易く解説して頂きます。
+
+       
+
+      詳細（GCOE普遍性と創発性から紡ぐ次世代物理学HP）→http://www.scphys.kyoto-u.ac.jp/gcoe/Announcements/Public_Lecture/past_shimin.html'
+  source: https://ocw.kyoto-u.ac.jp/course/198/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 川合 光（京都大学理学研究科物理学第二教室 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: GCOE拠点リーダー）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 潤
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 太田 耕司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 江口 徹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008-11-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 「やわらかな物質の物理--液晶ディスプレイから生体構造まで」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「やわらかな物質の物理--液晶ディスプレイから生体構造まで」配布資料・略歴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「やわらかな物質の物理--液晶ディスプレイから生体構造まで」スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「銀河の誕生と成長の謎に迫る」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「銀河の誕生と成長の謎に迫る」配布資料・略歴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「銀河の誕生と成長の謎に迫る」スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「アインシュタインと宇宙の謎」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「アインシュタインと宇宙の謎」配布資料・略歴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: 「アインシュタインと宇宙の謎」スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+- name: '講義資料: ポスターPDF'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_第1回市民講座_ポスター.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/198/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,80 @@
+slug: utokyo-series-yulhr2mxf2bt
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=yuLHR2MXF2Bt
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座：縺れ
+description:
+  ja: この講義は、医薬品に含まれる科学技術と特許制度の関係を取り上げる。ジェネリック医薬品をめぐる環境を概観し、新薬開発に必要な時間と費用、新薬とジェネリック薬の関係に触れる。
+quotedDescription:
+  text:
+    ja: "医薬品には科学技術がつまっており、特許制度と密接な関係があります。この講義では、「ジェネリック医薬品」を取り巻く環境を概観しながら、医薬品と特許にまつわる様々な問題についてお話します。\
+      \ \n  00:33　自己紹介 \n  03:26　医薬品は「縺れ」だらけ？！ \n  15:07　新薬開発にはお金と時間がかかります \n  30:13　新薬とジェネリック薬の「縺れ」？\
+      \ \n  49:45　まとめ \n \n  ★     過去の公開講座   \n \n  ★あなたのシ…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=yuLHR2MXF2Bt
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 桝田 祥子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鮑 園園
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田野井 慶太朗
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川田 恵介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 南風原 朝和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 片田 敏孝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高木 和子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 道垣内 弘人
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,51 @@
+slug: kyoto-u-course-1046
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1046/
+type:
+- LearningResource
+- Course
+name:
+  ja: 総合人間学部オープンキャンパス模擬講義「イマジナリーキューブパズルとその数理」
+description:
+  ja: 立木秀樹がデザインした数理的なパズルを題材に、その背後にある数理を扱う。そこから発展させて、総合人間学部で行っている授業内容を紹介する。
+quotedDescription:
+  text:
+    ja: 立木教授がデザインした数理的なパズルをもとにして、その奥に存在する数理を説明し、それを発展させて総合人間学部で行っている授業内容を紹介しています。
+  source: https://ocw.kyoto-u.ac.jp/course/1046/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 立木 秀樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合人間学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

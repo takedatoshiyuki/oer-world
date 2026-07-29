@@ -1,0 +1,58 @@
+slug: hokudai-nursingfaculty09cation-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nursingfaculty09cation-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 看護学教育におけるOSCEの実際 －市民の模擬患者と共に－ (2010)
+description:
+  ja: 看護学教育におけるOSCEを題材に、学修到達度の設定や自己学修の促進、看護実践力の育成をめざす取り組みを扱う。市民を模擬患者として演習や技術試験に参加させる実践を通して、その運用例を紹介する。札幌市立大学での取り組みの一部も取り上げる。
+quotedDescription:
+  text:
+    ja: '札幌市立大学は平成１８年度にスタートしたばかりの大学で看護学部とデザイン学部の２学部で運営しています。平成２０年度の教育ＧＰに採択された「学選別ＯＳＣＥの到達度評価と教育法の検討」は各学年毎の学修到達度を設定し、学生の自己学修を促進されると共に、看護実践力を育成しようとするものです。この中では一般市民の方々に「模擬患者」として教育に参画して貰っています。
+
+      今回は模擬患者の要請や模擬患者の皆様が演習や技術試験に参加して頂きながら　進めている、本学の取り組みを紹介します。
+
+      この度、北大の教育ＧＰ　２０１０年度の議場成果と報告で共催させて頂く機会を頂きましたので、札幌市立大学の一部をご紹介します。'
+  source: https://ocw.hokudai.ac.jp/lecture/nursingfaculty09cation-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中村 惠子
+  affiliation:
+    name: 札幌市立大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- health_welfare
+keywords:
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

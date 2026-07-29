@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0859
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/859/
+type:
+- LearningResource
+- Course
+name:
+  ja: TEDx Kyoto University, 2016
+description:
+  ja: この教材は、京都大学が提供・担当する2016年のTEDx Kyoto Universityの講義で、使用言語は英語である。説明文では、TEDxをTEDの理念に基づき、TEDに近い体験を各地域で提供する取り組みとして位置づけている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      TEDｘとは：「広めるべきアイディアを共有する場（ideas worth spreading）」の精神をもとに創設された米国のプレゼンシリーズ “TED” と同様の体験を、各地域で提供する。'
+  source: https://ocw.kyoto-u.ac.jp/course/859/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-ND-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

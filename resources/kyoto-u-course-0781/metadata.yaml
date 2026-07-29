@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0781
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/781/
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究の世界Ａ
+description:
+  ja: この教材は、研究の進め方を題材に、テーマ設定から論文執筆、査読、修正、発表までの流れを扱う。さらに、著作権や査読報告書の作成にも触れ、研究活動に伴う実務的な作業を一通り体験する構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本講義では，学生に論文を書かせるにとどまらず，論文の査読も学生自身に体験させることが最大の特色である。
+
+       
+
+      授業の紹介
+
+      本講義のテーマは，文系・理系を問わずあらゆる分野において研究を遂行するために必要とされる「情報活用能力」について体験的に学習させることである。具体的には，サンプル・データを用いて論文執筆と査読の練習を行いつつ，学生が興味を持つ研究分野を決定させ，その後，学生オリジナルの論文執筆と査読を経て論文集を作成する。論文集作成に当たっては学生に編集委員と編集委員長を担当させる。そして，これらの全過程を通じて，全学の研究に共通する「情報活用能力」（表計算ソフトを使った情報分析や可視化技術を用いた情報表現，シミュレーション技術を利用した情報創造，論文発表による情報発信，大型表示装置を使った研究発表等）を習得させる。'
+  source: https://ocw.kyoto-u.ac.jp/course/781/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小山田耕二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 江原康生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第1回\tガイダンス"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第2回\t環境設定"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第3回\tテーマの絞り込み"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第4回\t論文を執筆する"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第5回\t論文査読"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第6回\t論文修正"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第7回\t論文スケルトン"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第8回\t論文草稿執筆"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第9回\t査読報告書作成"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第10回\t著作権"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第11回\t研究発表"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+- name: "講義資料: 第12回\tふりかえり"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kenkyuunosekaiA_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/781/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

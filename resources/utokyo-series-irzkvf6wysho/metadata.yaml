@@ -1,0 +1,63 @@
+slug: utokyo-series-irzkvf6wysho
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=iRZkVf6wYSHo
+type:
+- LearningResource
+- Course
+name:
+  ja: シンポジウム「うな丼の未来IV」
+description:
+  ja: ウナギ資源の低迷を背景に、資源が減少した理由と回復のあり方を考える内容である。あわせて、うな丼を食べ続けられるかという問いを手がかりに、人とウナギの共存の道を探る。
+quotedDescription:
+  text:
+    ja: ウナギは今、慢性的な資源の低迷に苦しんでいます。絶滅危惧種に指定されたウナギもあります。なぜ資源はこんなにも減ってしまったのでしょうか？ どうすれば回復させることができるのでしょうか？ 私たちはこれからも、うな丼を食べ続けることができるのでしょうか？
+      問題は山積しています。日本人がこよなく愛するウナギの食文化を絶やさないために、さまざまな考えを持ち寄り、人とウナギの共存の道を模索する公開シンポジウム…
+  source: https://ch.u-tokyo.ac.jp/series/?id=iRZkVf6wYSHo
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 塚本 勝巳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉島 重鐡
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 篠田 章
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 有路 昌彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

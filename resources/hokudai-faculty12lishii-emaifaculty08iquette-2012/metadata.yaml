@@ -1,0 +1,77 @@
+slug: hokudai-faculty12lishii-emaifaculty08iquette-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty12lishii-emaifaculty08iquette-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 英語II Email Etiquette（2012）
+description:
+  ja: 北海道大学の全学教育「英語II Email Etiquette（2012）」に関する教材で、公開ファイルとして講義資料「Email Etiquette (Script)」がある。出典サイトでは、Philip
+    Seatonによる新しいビデオ教材シリーズ「Email Etiquette」と説明されている。
+quotedDescription:
+  text:
+    ja: Philip Seatonによる新ビデオ教材"Email Etiquette" seriesです。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty12lishii-emaifaculty08iquette-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 園田 勝英
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 濱井 祐三子
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 河合 剛
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 大野 公裕
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- arts_humanities
+keywords:
+- 英語
+- Eメール
+- 教育／学習
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: Email Etiquette (Script)'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/EnglishII2012-Hokudai-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishii-emaifaculty08iquette-2012
+extensions:
+  faculty: 外国語教育センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

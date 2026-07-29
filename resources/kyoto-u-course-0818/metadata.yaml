@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0818
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/818/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第12回 京都大学国際シンポジウム「変化する人種イメージ－表象から考える」
+description:
+  ja: 京都大学の人文科学研究所が担当した国際シンポジウムで、「変化する人種イメージ」を表象の観点から扱う。日本語と英語で実施され、詳細情報は案内されたウェブサイトで確認できる。
+quotedDescription:
+  text:
+    ja: 詳細HP　http://takezawa.zinbun.kyoto-u.ac.jp/
+  source: https://ocw.kyoto-u.ac.jp/course/818/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008-12-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人文科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

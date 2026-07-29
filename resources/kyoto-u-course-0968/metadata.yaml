@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0968
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/968/
+type:
+- LearningResource
+- Course
+name:
+  ja: こころの未来研究センター 上廣倫理財団寄付研究部門 2020年度研究報告会 「仏教から考えるコロナ時代の生き方」パネルディスカッション
+description:
+  ja: この講義は、こころと倫理をめぐる研究報告会の一環として、仏教文献やインド古典文献を手がかりに、コロナ時代の生き方を考える内容である。研究報告に加えて討議を行い、オンライン形式で学際的な議論を進める。
+quotedDescription:
+  text:
+    ja: 'ころの未来研究センターでは、公益財団法人上廣倫理財団の御支援により、上廣倫理財団寄付研究部門を開設しています。
+
+      本研究部門では、公共政策、医療福祉、臨床心理学、伝統智、哲学など多様な専門領域の研究者が多種多様なアプローチで「こころと倫理」に関わる学術研究を行っています。
+
+      今年度の研究報告会では研究者による研究報告と共に「仏教から考えるコロナ時代の生き方」をテーマに討議を行います。
+
+      ＝概要＝
+
+      令和2年、新型コロナウイルス感染症が世界中に拡大し、わが国にも大きな混乱をもたらしました。感染を避けるためにソーシャルディスタンスが推奨され、オンライン化が進み、社会システムが大きく変わりつつあります。ウィズコロナ、さらにはポストコロナの時代をどう生きていくべきか、様々な分野の専門家が知恵を出し合っていく必要があります。本報告会では、インド古典文献や仏教文献の記述に着目しつつ、コロナ時代の生き方について学際的な議論を、オンライン形式で行います。'
+  source: https://ocw.kyoto-u.ac.jp/course/968/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 熊谷誠慈
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 手嶋英貴
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 菊谷竜太
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-12-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 芸術・文化
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

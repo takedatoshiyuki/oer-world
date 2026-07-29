@@ -1,0 +1,77 @@
+slug: icu-ela-ela032-2016a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ela/ela032_2016a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'English for Liberal Arts Program(Stream 3): Academic Skills：Research & Pres'
+description:
+  ja: 学習スキル、リサーチ、プレゼンテーション、コミュニケーション技能を扱う講義である。3学期にわたって順に履修する構成になっており、公開動画は秋学期の3つの要素のうちResearch and Presentation
+    (R&P)を収める。
+quotedDescription:
+  text:
+    ja: 'This course provides instruction in a variety of skill areas such as study skills, research,
+      presentation, and communicative skills. The course is taught over three terms which must be taken
+      in sequence. In the autumn term, this course consists of three components, and this class is Research
+      and Presentation (R&P).
+
+      情報伝達のための実践的英語運用能力全般（学習スキル、 リサーチ、口頭発表等）を修得する。1、2、 3学期の順に履修すること。この科目は、 2学期は3つのコンポーネントで構成されており、 この動画はそのうちのResearch
+      and Presentation (R&P)のクラスである。
+
+      Contents of Lectures
+
+      2 Lectures / 2 Videos
+
+      Section:
+
+      3I
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      Oct 18
+
+      Oct 2
+
+      5'
+  source: https://ocw.info.icu.ac.jp/ela/ela032_2016a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 英語教育プログラム
+- 'ELA032 | Stream3 | Update: 2017.05.08'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

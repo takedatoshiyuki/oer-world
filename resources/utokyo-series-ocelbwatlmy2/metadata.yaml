@@ -1,0 +1,88 @@
+slug: utokyo-series-ocelbwatlmy2
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=OceLBwAtLmY2
+type:
+- LearningResource
+- Course
+name:
+  ja: ビッグリアルセッション インタラクティブ・ティーチングのその先へ：教育を変える新しい力
+description:
+  ja: gaccoで開講されたオンライン講座「インタラクティブ・ティーチング」の成果と課題を振り返り、その経験を踏まえて教育をよりよくするための工夫をグループワークで検討・共有する講義である。講座の振り返りに加えて、講師や受講者の報告をもとに議論する構成になっている。
+quotedDescription:
+  text:
+    ja: "2014年11月から2016年8月までgaccoにて開講されていたオンライン講座「インタラクティブ・ティーチング」の成果と課題を踏まえ、教育をよりよくしていくためにできる工夫について、グループワークを交えながら検討・共有します。\
+      \ \n \n  10:00~10:10 趣旨説明 \n  10:10~11:10「インタラクティブ・ティーチングを振り返る」 \n  MOOC講座「インタラクティブ・ティーチング」の成果と課題について，講師，受講者の報告やク…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=OceLBwAtLmY2
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 栗田 佳代子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塙 雅典
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 前川 修一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中村 長史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 浩章
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 杉森 公一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 筒井 昌博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 関戸 大
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育
+- 授業改善
+- 学び合い
+- 教育改革
+- 教育改善
+- 授業
+- 大学教育
+- コミュニティ
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

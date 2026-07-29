@@ -1,0 +1,89 @@
+slug: kyoto-u-course-0468
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/468/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第8回 iCeMSラーニングラウンジ：城 綾実 + Alfonso Avila-Robinson
+description:
+  ja: 本講義は、2名の若手研究者がそれぞれの研究内容を英語で紹介する「ラーニングラウンジ」である。城綾実は日常のコミュニケーションに見られるやりとりを、Alfonso Avila-Robinsonは科学分野の収束と知識の構造を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      城 綾実 さん
+
+      「『やりとり』の中の小さな積み重ね：私たちを突き動かすものを探して」
+
+      挨拶、会議、遊び、団欒…　日々の生活の中で、私たちはいつも誰かとさまざまなやりとりをしています。こうした普段の何気ないコミュニケーションの中には、私たちの判断や行動を決める要因となるさまざまな仕組みが隠されているのです。私たちは日常のやりとりを観察し、浮かび上がってくるその「仕組み」について研究しています。その正体に迫る探検の一部を、あなたも覗いてみませんか。
+
+      研究者コメント
+
+      私たちの日常は、表現の選び方、些細な動作や声の出し方などを、私たちが想像している以上に巧妙に積み重ねて成り立っています。今回は、会話分析と呼ばれる研究プログラムに基づいた研究成果と今進行中のプロジェクトの一部をお話しさせていただきました。人間は、特別な訓練をしなくても、ミリ秒単位で自分の振る舞いを調整し、相手や状況に合わせた適切な行為をすることのできるすばらしい能力を持っていることを、多くの人に知っていただければさいわいです。
+
+       
+
+      Alfonso Avila-Robinson（アルフォンソ・アビラ＝ロビンソン） さん
+
+      “Seeing the Dynamics of Science Convergence”
+
+      Knowledge is rapidly growing and simultaneously fragmenting into numerous disciplines, making it
+      difficult for scientists to see the “bigger pictures” of their science. Here I will show how the
+      three-dimensional networking of meta-knowledge – knowledge about knowledge – can help us to see
+      the continuous breaking down of barriers between disciplines in modern science.
+
+      研究者コメント
+
+      As the challenges facing researchers become more complex, the understanding of convergence―the merging
+      of multiple and disparate disciplines― in science is more relevant. In this talk, I show that three-dimensional
+      visualizations of knowledge structures can help us understand the complex interconnections of science.
+      Future studies will explore the impact of convergence at a global level, as well as the types of
+      research institutions that support convergent research.'
+  source: https://ocw.kyoto-u.ac.jp/course/468/
+  note: 京都大学OCW 「概要」・「城 綾実 さん」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 城 綾実 さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Alfonso Avila-Robinson さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-07-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

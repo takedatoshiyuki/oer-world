@@ -1,0 +1,69 @@
+slug: utokyo-series-znxucwwbs7xe
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ZNxucWwBS7XE
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語論文セミナー 2013
+description:
+  ja: 国際誌への投稿を考える大学院生や若手研究者向けに、生物医学研究論文のオープンアクセス出版社であるBioMed Central社の協力のもとで行われたセミナーである。英語で実施され、国際誌に投稿するために知っておきたい点を扱う。
+quotedDescription:
+  text:
+    ja: "情報基盤課学術情報リテラシー担当では、生物医学研究論文のオープンアクセス出版社であるBioMed Central（バイオメド・セントラル）社にご協力いただき、「英語論文セミナー2013～国際誌に投稿するために知っておきたいこと～」を開催しました。\
+      \  \n \n  これから国際誌に投稿してみようという大学院生や若手研究者向けの内容です。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=ZNxucWwBS7XE
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 富田 泰輔
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Nandita Quaderi
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Jeffrey Robens
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- education
+- ict
+keywords:
+- 生命・医療
+- 教育
+- AI・情報
+- 政治・法律
+- 研究
+- 学び
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

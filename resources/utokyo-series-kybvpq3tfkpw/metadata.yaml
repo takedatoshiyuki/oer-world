@@ -1,0 +1,78 @@
+slug: utokyo-series-kybvpq3tfkpw
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=kybvPQ3TfkPW
+type:
+- LearningResource
+- Course
+name:
+  ja: 五月祭公開講座 2014
+description:
+  ja: 資源の制約を前提に、持続可能な循環型社会を目指すための資源処理と環境浄化を扱う講義である。資源と素材、設計と生産、廃製品の処理とリサイクル、有機系廃棄物処理など、資源の循環に関わる複数の論点を取り上げる。
+quotedDescription:
+  text:
+    ja: "資源が限られているからこそ、後世に渡って永く使い続けられる仕組みを考えなくてはなりません。持続可能な循環型社会形成へ向けての資源処理と環境浄化、環境負荷と環境浄化技術の課題について視野を広げます。\
+      \ \n \n  01:16 はじめに  \n  06:21 資源と素材（人工物原料）  \n  20:19 設計と生産  \n  24:59 廃製品の処理とリサイクル  \n  33:54\
+      \ リサイクル技術と諸問題  \n  53:48 有機系廃棄物処理  \n  58:10 エネルギ…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=kybvPQ3TfkPW
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤田 豊久
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 八田 秀雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松田 康博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 元重
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- health_welfare
+- social_sciences
+keywords:
+- 環境
+- 生命・医療
+- 国際関係
+- 経済・金融
+- 政治・法律
+- 資源
+- 持続可能性
+- 乳酸
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

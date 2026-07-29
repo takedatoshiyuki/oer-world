@@ -1,0 +1,53 @@
+slug: kyoto-u-course-1049
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1049/
+type:
+- LearningResource
+- Course
+name:
+  ja: 個と場の共創的Well-Being Symposium
+description:
+  ja: この講義は、個人の最適化を支える「場」の状態に着目し、その計測技術や、そうした状態を生み出す要因・技術、社会実装の方法を扱う。JST未来社会創造事業の採択課題に関するキックオフシンポジウムとして、多様なセクターの参加者と議論する内容である。内田由紀子による趣旨説明と話題提供を公開する。
+quotedDescription:
+  text:
+    ja: 'JST未来社会創造事業　「個人に最適化された社会の実現」領域　採択課題「個人の最適化を支える「場の状態」：個と場の共創的Well-beingへ」キックオフシンポジウムを開催しました。
+
+      本課題において、多様な個人の最適化は「場」によって支えられるという立場から、「場」の状態を計測する技術の開発、個人を最適化する「場」の状態を生み出す要因と技術、さらには社会実装の方法を議論しました。様々なセクターの方と共に議論し、Well-being共創の場の実現を目指します。代表の内田由紀子（こころの未来研究センター・教授）による趣旨説明と話題提供を公開します。'
+  source: https://ocw.kyoto-u.ac.jp/course/1049/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 内田 由紀子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

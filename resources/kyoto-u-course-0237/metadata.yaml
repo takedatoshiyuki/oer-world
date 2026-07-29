@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0237
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/237/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第94回 京都大学丸の内セミナー「中性子で“視る”流れ」
+description:
+  ja: 中性子を用いて対象内部を可視化する手法を扱い、中性子ラジオグラフィや中性子イメージングの基本を概説する。あわせて、文化財の非破壊検査、植物やコンクリート中の水分分布、流体応用機器内部の流れの可視化といった応用例を取り上げる。さらに、中性子イメージングを用いた最新の応用研究にも触れる。
+quotedDescription:
+  text:
+    ja: 現医療の分野で使われる“レントゲン”は、いわゆる「X線を用いた影絵」であるが、中性子を用いても同様に“影絵”を作ることができる。中性子とX線は、その特性に大きな違いがあり、特に中性子はほとんどの金属を透過することができ、金属の中を“視る”のに極めて有効な手段となる。このような中性子を用いた可視化手法を「中性子ラジオグラフィ」や「中性子イメージング」と呼び、その応用として、文化財の非破壊検査、植物中の水分分布、コンクリート内部の水分挙動などから、様々な流体応用機器内部の流れなどの可視化が挙げられる。本公演では、中性子の性質、イメージングの概説を行い、中性子イメージングを用いた最新の応用研究について述べる。
+  source: https://ocw.kyoto-u.ac.jp/course/237/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 齊藤 泰司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-05-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 複合原子力科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

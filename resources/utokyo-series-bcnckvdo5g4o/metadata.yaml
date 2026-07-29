@@ -1,0 +1,91 @@
+slug: utokyo-series-bcnckvdo5g4o
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=bCNCKVdO5G4O
+type:
+- LearningResource
+- Course
+name:
+  ja: SSUフォーラム
+description:
+  ja: 米中の技術競争が今後どう展開するかと、それに対する日本の政策課題を扱うフォーラムである。前内閣官房副長官補の兼原信克氏を招き、安全保障研究の枠組みの中で議論する。
+quotedDescription:
+  text:
+    ja: '前内閣官房副長官補（前国家安全保障局次長）の兼原信克氏をお招きしたフォーラムです。近年激しさが増している米中技術競争の行方と、日本の政策課題について議論します。
+
+      主催：東京大学未来ビジョン研究センター安全保障研究ユニット
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=bCNCKVdO5G4O
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 兼原 信克
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 信悟
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐橋 亮
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渋谷 健司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武見 綾子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 城山 英明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高須 幸雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- health_welfare
+keywords:
+- 国際関係
+- 生命・医療
+- GlobalHealth
+- InfectiousDiseases
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

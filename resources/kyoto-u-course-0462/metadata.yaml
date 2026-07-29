@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0462
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/462/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第13回 iCeMSラーニングラウンジ：鈴木 淳 + 古川 修平
+description:
+  ja: 若手研究者2名が英語で研究内容を語る講義で、細胞死のサインを介した分解の仕組みと、異分野融合から生まれる研究や教育プログラムの作成を扱う。個別の話題として、鈴木淳さんは死んだ細胞を見分ける仕組みを、古川修平さんは分野をまたぐ議論と学びの場づくりを紹介する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      鈴木 淳（すずき じゅん）さん
+
+      「細胞から最期のサイン－私を食べて！」
+
+      私たちの体の中では日々、たくさんの細胞が生まれたり死んだりしています。死んだ細胞は、「マクロファージ」という細胞が食べて片付けてくれます。彼らが死んだ細胞だけを見分けることができるのはなぜでしょうか？答えは細胞が死ぬときに発するサインにありました。実は、全ての細胞が生きている時からそのサインを出す準備をしています。ではどのようにサインを出すのか、そのメカニズムに迫ります。
+
+       
+
+      古川 修平（ふるかわ しゅうへい）さん
+
+      「科学者が楽しそうなワケ：異分野融合の先に見えたもの」
+
+      iCeMSでは、化学、細胞生物学、物理学など、いろんな専門の科学者が机を隣り合わせて研究をすることで、複数の分野にまたがった新しい研究が生まれています。でも、生まれてきたのは研究だけではありません。分野をこえて行うその議論そのものが重要で、それこそが楽しいポイントなのではないかと気付き、そのプロセスを体験してもらうための教育プログラムを作ってみました。どんなプログラムがどのようにして出来上がったのか、ご紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/462/
+  note: 京都大学OCW 「概要」・「鈴木 淳（すずき じゅん）さん」・「「細胞から最期のサイン－私を食べて！」」・「古川 修平（ふるかわ しゅうへい）さん」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 鈴木 淳さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 古川 修平さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-06-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

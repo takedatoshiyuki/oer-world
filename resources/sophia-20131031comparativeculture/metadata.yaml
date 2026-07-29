@@ -1,0 +1,49 @@
+slug: sophia-20131031comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20131031comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Angry Ghosts: 1900’s Boxer Crisis as Global History'
+description:
+  ja: 1900年のボクサー危機を、世界史の視点から扱う講義の資料である。上智大学比較文化研究所で2013年10月31日に開講され、Dr. Jeff Wasserstromが担当した。公開教材は講義資料1件で、PDF形式のファイルが提供されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Dr. Jeff Wasserstrom
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 131031_Wasserstrom.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/131031_Wasserstrom.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131031comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2013/10/31
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

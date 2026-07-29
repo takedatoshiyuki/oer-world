@@ -1,0 +1,99 @@
+slug: icu-majors-lng102-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/lng102_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Linguistics II 言語学入門 II
+description:
+  ja: さまざまな言語のデータを手がかりに、理論言語学の基本的な考え方を扱う講義である。内容は、言語理論と普遍文法、音韻論、形態論、統語論、意味論、脳と言語理論に及ぶ。
+quotedDescription:
+  text:
+    ja: 'This course is an introduction to theoretical linguistics. It examines linguistic data from various
+      languages to learn basic theoretical thinking. It covers basic issues in phonology, morphology,
+      syntax and semantics. INTRODUCTION TO LINGUISTICS I or consent of the instructor required.
+
+      理論言語学入門コース。種々の言語のデータを使い理論言語学の考え方を学ぶ。音韻論、形態論、統語論、意味論の各分野から基本的な問題をとりあげ検討する。言語学入門 I を既修のこと。または担当教員の受講許可を要する。
+
+      Contents of Lectures
+
+      7
+
+      Lectures /
+
+      2
+
+      Videos
+
+      1.言語理論と普遍文法（人間はどうして言語が話せるのか？）
+
+      2.音韻論の分析と理論的考察（音韻体系のしくみ）
+
+      3.形態論の分析と理論的考察（単語の内部構造）
+
+      Jun 01
+
+      4.統語論の分析と理論的考察（文の構造）
+
+      Lecture Notes
+
+      Jun 0
+
+      3
+
+      4.統語論の分析と理論的考察（文の構造）
+
+      Lecture Notes
+
+      5.意味論の分析と理論的考察（形式意味論）
+
+      6.脳と言語理論（脳科学からみた言語学）'
+  source: https://ocw.info.icu.ac.jp/majors/lng102_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 吉田智行
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'Linguistics 言語学 | Course ID: L'
+- 'LNG102 | Course Schedule: 3/M, 3/W, 3/F | Update: 2015.09.17'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1cSicnWVQwcw_GudN_0XwlHfvsS0_f7si/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/lng102_2015s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

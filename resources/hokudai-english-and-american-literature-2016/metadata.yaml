@@ -1,0 +1,57 @@
+slug: hokudai-english-and-american-literature-2016
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/english-and-american-literature-2016
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 英米文学 Sustainability Studies beyond Holllywood Films (2016)
+description:
+  ja: この講義は、英語の理解力を高めながら、UNDESDとSDGsで扱われる地球規模の課題を読み取ることを目的とする。英語を通して持続可能な開発に関する国際的な論点を理解する内容である。
+quotedDescription:
+  text:
+    ja: The emphasis of this course is placed on achievement of comprehension skills of English language
+      and its application to understand global issues raised in UNDESD (United Nations Decade of Education
+      for Sustainable Development) and SDGs (Sustainable Development Goals).
+  source: https://ocw.hokudai.ac.jp/lecture/english-and-american-literature-2016
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 瀬名波 栄潤
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学院でさがす
+  targetAudience: 2~4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

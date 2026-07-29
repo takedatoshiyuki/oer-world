@@ -1,0 +1,47 @@
+slug: tsukuba-ds-data-for-soccer
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/data_for_soccer/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 サッカーの上達にデータを生かす
+description:
+  ja: サッカーに関連する研究を取り上げ、ゲーム分析、GPSデータ、脳波、眼球運動などのデータを扱う。あわせて、それぞれの研究で用いられたデータの収集法と分析方法を概観する。
+quotedDescription:
+  text:
+    ja: サッカーに関連する研究を紹介し，「ゲーム分析」，「GPSデータ」，「脳波」，「眼球運動」などそれぞれの研究で使われたデータの収集法や分析方法について概観する。
+  source: https://ocw.tsukuba.ac.jp/data-science/data_for_soccer/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 中山 雅雄
+  affiliation:
+    name: 体育系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2020-09-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

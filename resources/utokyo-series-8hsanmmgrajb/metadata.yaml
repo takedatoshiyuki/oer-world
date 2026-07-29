@@ -1,0 +1,53 @@
+slug: utokyo-series-8hsanmmgrajb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=8hSanMmgRAjB
+type:
+- LearningResource
+- Course
+name:
+  ja: UTokyo GFD Steam Education Workshop and Music Performance［EN］
+description:
+  ja: STEAM教育を軸に、分野を越えた協働や創造のあり方を扱う。社会的課題を見つけて解決する考え方や、STEAMが生み出すムーブメントとプロジェクトの理念を紹介し、音楽を通した即興的な体験にも踏み込む。英語話者向けに英語で行われる。
+quotedDescription:
+  text:
+    ja: 日本でも世界でも人気の高い教育ムーブメント、"STEAM "。 多様な研究者、プロのエンジニア、アーティスト、そしてアスリートとの、分野の境界を超えた協働と創造体験の中で、社会的課題を見つけ、解決する喜びを体験することができる、それがSTEAMです！
+      今回のワークショップでは、STEAMが創り出す社会的なムーブメント／プロジェクトとは何か、その理念を紹介し、音楽を通して、即興的なSTEAMの発見と創造を体験します。多様性…
+  source: https://ch.u-tokyo.ac.jp/series/?id=8hSanMmgRAjB
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中島 さち子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: icu-majors-isc101-2014s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/isc101_2014s
+type:
+- LearningResource
+- Course
+name:
+  ja: Information Ethics 情報倫理 2014S
+description:
+  ja: 国際基督教大学が提供する、尾崎敬二担当の2014年開講「Information Ethics 情報倫理」の講義資料を公開している。教材はGoogle Drive上の講義資料1件で構成され、使用言語は英語である。
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 尾崎 敬二
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+keywords:
+- 専攻科目
+- Information Science 情報科学 | Cou
+- 'ISC101 | Course Schedule: 6/TH,7/TH | Update: 2019.03.22 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1XrVHAisfEufMF8-HSf8zJ0JMfwL8Rc4f/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/isc101_2014s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: kyoto-u-course-0422
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/422/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「コンピュータとネットワーク　黎明期から現在まで －医療情報とともに歩んだ35年－」
+description:
+  ja: 京都大学医学研究科で開講された、吉原博幸による最終講義である。コンピュータとネットワークの黎明期から現在までをたどりながら、医療情報とともに歩んだ35年を扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉原 博幸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-05-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- ict
+keywords:
+- 医学
+- コンピュータサイエンス
+- データサイエンス
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,68 @@
+slug: kyoto-u-course-0739
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/739/
+type:
+- LearningResource
+- Course
+name:
+  ja: The Minimal Model Program for Varieties of Log General Type
+description:
+  ja: ミニマルモデルプログラムを通して、滑らかな複素射影多様体の双有理幾何をどう記述するかを扱う。講義では、一般型の多様体に対するこのプログラムの完成に至る最近の進展と、canonical ring
+    の有限生成定理の証明を取り上げる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      The minimal model program is an ambitious program that aims to describe the birational geometry
+      of smooth complex projective varieties.
+
+      In these lectures I will discuss recent progress that has led to the completion of this program
+      for varieties of general type and to the proof of the theorem on the finite generation of the canonical
+      ring.'
+  source: https://ocw.kyoto-u.ac.jp/course/739/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Distinguished Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of Utah）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-05-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

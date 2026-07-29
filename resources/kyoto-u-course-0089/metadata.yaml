@@ -1,0 +1,91 @@
+slug: kyoto-u-course-0089
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/89/
+type:
+- LearningResource
+- Course
+name:
+  ja: フランソア喫茶室－京都に残る豪華客船公室の面影－
+description:
+  ja: 京都・四条木屋町のフランソア喫茶室の歴史を軸に、その店に関わった人物や1920年代から40年代の京都、豪華客船の歴史を扱う講義である。公開教材には、各回の講義資料と参考文献が含まれている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      この講義では，1934年に創業した四条木屋町のフランソア喫茶室の歴史を，店内貸し切りで講義しました。
+
+      授業の紹介
+
+      1934年に創業した京都・四条木屋町のフランソア喫茶室は，豪華客船公室を模した美しいイタリアン・バロックのインテリアで知られています。
+
+      この講義では，フランソアに関わった人物，1920年代～40年代の京都，豪華客船の歴史などについてお話しました。'
+  source: https://ocw.kyoto-u.ac.jp/course/89/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐藤裕一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008-10-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 第1回　写真・図版の説明'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第2回　セミナー概要'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第3回　コンテ・ヴェルデ号'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第4回　立野正一'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第5回　フランソア喫茶室創業'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第6回　ベンチヴェンニ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第7回　流離の人々'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第8回　豪華客船公室の面影'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 第9回　謝辞'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+- name: '講義資料: 参考文献'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_フランソワ喫茶室_参考文献.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/89/
+extensions:
+  faculty: 工学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0902
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/902/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学国際交流センター主催 第15回 多文化交流フォーラム 「欧米における能楽の受容と翻案 －イェーツ、ブレヒト、ブリテンの場合－」
+description:
+  ja: 欧米における能楽の受容と翻案を扱い、イェーツ、ブレヒト、ブリテンを例に取り上げる講義である。京都大学国際交流センター主催の第15回多文化交流フォーラムとして開講され、担当は加野彩子と河合淳子である。使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 加野 彩子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河合 淳子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-12-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際交流センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

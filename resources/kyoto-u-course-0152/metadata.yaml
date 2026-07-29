@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0152
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/152/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学術情報メディアセンターセミナー「大学のセキュリティ対策を考える」
+description:
+  ja: 京都大学学術情報メディアセンターの月例セミナーとして行われた講義の教材である。公開資料は2件あり、プロバイダ側のセキュリティ対策と大学におけるセキュリティ対策をそれぞれ扱う。
+quotedDescription:
+  text:
+    ja: 京都大学学術情報メディアセンターでは，月に一度，各分野でご活躍の講師をお招きし，それぞれの研究開発活動の内容や現在抱えている課題についてご紹介いただき，参加者を含めて広く議論を行う機会として，月例セミナーを開催しております．10月28日の学術情報メディアセンターセミナーでは，「セキュリティ対策」をテーマにNTTコミュニケーションズの宮川晋氏と立命館大学の上原哲太郎氏をお招きし，ご講演いただきます．
+  source: https://ocw.kyoto-u.ac.jp/course/152/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 宮川 晋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 上原 哲太郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-10-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 「プロバイダのセキュリティ対策」宮川 晋（NTTコミュニケーションズ技術開発部 担当部長）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_学術情報メディアセミナー_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/152/
+- name: '講義資料: 「大学のセキュリティ対策」上原 哲太郎（立命館大学情報理工学部 教授）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_学術情報メディアセミナー_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/152/
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

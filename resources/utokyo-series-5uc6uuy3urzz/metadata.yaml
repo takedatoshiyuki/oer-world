@@ -1,0 +1,72 @@
+slug: utokyo-series-5uc6uuy3urzz
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=5UC6Uuy3URZz
+type:
+- LearningResource
+- Course
+name:
+  ja: 2019-2020年度業務改革総長賞受賞者プレゼンテーション
+description:
+  ja: 東京大学の学内向け研修・ガイダンスとして開講された、2019-2020年度業務改革総長賞受賞者のプレゼンテーションである。工学系・情報理工学系等大学院入試システム化推進チームや生産技術研究所総務課総務チームなど、複数の学内組織が担当している。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 工学系・情報理工学系等大学院入試システム化推進チーム
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 生産技術研究所総務課総務チーム
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大気海洋研究所経理系
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 教養学部等講義等のオンライン化対策チーム
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 農学生命科学研究科・農学国際専攻
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 社会連携本部・バーチャル東大制作プロジェクトチーム
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育
+- オンライン教育
+- 教育DX
+- バーチャル空間
+- オープンキャンパス
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

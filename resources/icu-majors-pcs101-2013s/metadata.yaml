@@ -1,0 +1,219 @@
+slug: icu-majors-pcs101-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/pcs101_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: Peace Studies I 平和研究 I
+description:
+  ja: 平和と安全保障研究の入門として、平和研究の理論と概念、戦争や暴力的紛争の要因、紛争解決の方法を扱う。個人・集団・国家・国際政治といった複数のレベルから紛争を考え、事例研究やロールプレイも含む。国際レベルの紛争や集団安全保障にも踏み込む。
+quotedDescription:
+  text:
+    ja: 'Introduction to the field of peace and security studies. This course will introduce students
+      to all relevant approaches and theories in peace studies from a variety of disciplinary perspectives.
+
+      学際的な視点から平和研究の様々な理論やアプローチを概観する。
+
+      Contents of Lectures
+
+      2
+
+      5
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Lecture01
+
+      Introduction to Peace Studies I
+
+      Lecture0
+
+      2
+
+      Introduction to Peace Studies II
+
+      Lecture0
+
+      3
+
+      Theories and Concepts of Peace Studies
+
+      sub: The main concepts and ideas in peace studies
+
+      Lecture0
+
+      4
+
+      The main concepts and ideas in peace studies
+
+      Lecture0
+
+      5
+
+      What causes wars and violent conflicts? Individual level explanations I
+
+      Lecture0
+
+      6
+
+      What causes wars and violent conflicts? Individual level explanations II
+
+      Lecture0
+
+      7
+
+      What causes wars and violent conflicts? Social and group explanations
+
+      Lecture0
+
+      8
+
+      What causes wars and violent conflicts?
+
+      Lecture0
+
+      9
+
+      What causes wars and violent conflicts? State or government explanations
+
+      Lecture
+
+      10
+
+      What causes wars and violent conflicts? International politics explanations
+
+      Lecture
+
+      1
+
+      1
+
+      Conflict Resolution: Models and Cases
+
+      General Theories and Models of Conflict Resolution I
+
+      Lecture12
+
+      Identity Formation and Transformation
+
+      Lecture13
+
+      The Harvard Model of Conflict Resolution
+
+      Lecture14
+
+      Role Play: Conflict Resolution
+
+      Lecture15
+
+      Role Play: Conflict Resolution II
+
+      Lecture16
+
+      Mid-term exam
+
+      Lecture17
+
+      Case I: Violence in El Salvador
+
+      Lecture18
+
+      Case II: “Peace & Conflict Studies: beyond the classroom to everyday life”.
+
+      Lecture1
+
+      9
+
+      Case III: Participatory Environmental Management: Efforts to Improve Sustainability
+
+      Jun
+
+      03
+
+      Lecture20
+
+      Conflicts on the International Level
+
+      Dealing with Conflicts on the International Level I
+
+      Understanding the Logic of Conflicts in History
+
+      Jun 0
+
+      5
+
+      Lecture2
+
+      1
+
+      Dealing with Conflicts on the International Level I
+
+      Understanding the Logic of Conflicts in History
+
+      Lecture
+
+      22
+
+      Dealing with Conflicts on the International Level II
+
+      Lecture23
+
+      Balance of Power and World War I
+
+      Lecture
+
+      24
+
+      Dealing with Conflicts on the International Level III
+
+      Lecture
+
+      25
+
+      Collective Security and World War II'
+  source: https://ocw.info.icu.ac.jp/majors/pcs101_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- Peace Studies 平和研究 | Course ID
+- 'PCS101 | Course Schedule: 3/M, 3/W, 3/F | Update: 2014.10.13'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

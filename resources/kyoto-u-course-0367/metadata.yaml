@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0367
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/367/
+type:
+- LearningResource
+- Course
+name:
+  ja: Symmetries in Hamiltonian Systems
+description:
+  ja: この講義は、ハミルトン系に現れる対称性が、Lyapunov中心定理の適用条件にどのような影響を与えるかを扱う。対称性を取り込むことで、非線形通常モードの存在やその対称性をどのように議論するかを示し、分岐やシンプレクティック還元の手法にも触れる。点渦の運動や分子の回転・振動を例に、理論の適用場面を示す。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      The Lyapunov centre theorem (proved around 1900) tells us that, in the neighbourhood of a stable
+      equilibrium in a Hamiltonian system, each normal mode of the linear approximation continues to exist
+      as a family of periodic orbits in the full nonlinear system, so-called nonlinear normal modes. However
+      there are of course hypotheses, and in particular the eigenvalues should be simple (and more generally
+      non-resonant). And moreover, the equilibrium should be isolated. However, when the equilibrium has
+      some degree of symmetry, the equilibrium may not be isolated, and even if it is, the eigenvalues
+      are never simple, thus preventing the application of this famous theorem. On the other hand, one
+      can take advantage of the symmetries to prove these nonlinear normal modes do exist, and moreover
+      predict what symmetries these periodic orbits have. This is typical of the effect of symmetry: it
+      causes problems when trying to apply a classical theorem, but then offers a solution when taking
+      the symmetry into account. In these lectures I will describe a few ways in which this problem+solution
+      arises in symmetric Hamiltonian systems, and the techniques used. I will start with Lyapunov’s theorem
+      (my personal favourite). I will also discuss bifurcations and the technique of symplectic reduction,
+      and relate the results to a few examples, such as the motion of point vortices, and the rotations
+      and vibrations of molecules.'
+  source: https://ocw.kyoto-u.ac.jp/course/367/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: James Montaldi（Reader
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: The University of Manchester）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

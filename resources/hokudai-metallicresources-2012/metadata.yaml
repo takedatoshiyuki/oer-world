@@ -1,0 +1,59 @@
+slug: hokudai-metallicresources-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/metallicresources-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 私たちの生活を支える金属資源 マグマからの贈り物 （2012）
+description:
+  ja: 金属資源がどのように生じ、鉱山として利用されるかを、マグマの働きと鉱床の形成という観点から扱う講義である。北海道の火山とそれに伴う鉱山の例を取り上げ、鉛や亜鉛、銅、インジウム、金、銀、レアアースを含む資源の成立過程を地質環境と結びつけて説明する。
+quotedDescription:
+  text:
+    ja: 私たちの生活は様々な金属に支えられています。しかしながら、多くの日本人には金属が生産されている現場に接する機会がほとんどなく、金属の供給源である鉱山がどういうものであるのか実感が湧かない方が多いと思います。火山を創るマグマは金属元素を地球の内部から運搬し、地表付近で農集する働きをしています。札幌市を代表する火山である無意根山や手稲山には豊羽鉱山や手稲鉱山という金属鉱床が伴われ、鉛や亜鉛・銅・インジウムや金・銀を産出しました。このセミナーでは、今話題のレアアースも含め、このような鉱床がどのような地質環境で形成されたのかについてお話し、鉱物資源を身近に感じて頂けたらと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/metallicresources-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 渡辺 寧
+  affiliation:
+    name: 独立行政法人 産業技術総合研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 金属
+- 火山
+- 鉱山
+- 鉱物資源
+- レアアース
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

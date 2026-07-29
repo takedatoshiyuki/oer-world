@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0894
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/894/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学・日本財団 森里海国際シンポジウム『森里海連環を担う人材育成の成果と展望』
+description:
+  ja: 京都大学が始めた森里海連環学と、その教育プログラムであるCoHHOプログラムの歩みを扱うシンポジウムである。2013年の開講以降の教育の経過や、修了生・現履修生・実践者の関わりを通して、森里海連環学のこれまでとこれからを共有する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      京都大学が始めた森里海連環学、その理論と実践のための森里海連環学教育プログラム（CoHHOプログラム）が2013年に開講し、これまで140名以上の大学院生が巣立っていきました。現在も約100名が学んでいます。
+
+      森里海連環学から何を学び、どのように社会とつながっていこうとしているのか？現履修生と修了生、そして森里海連環の実践にかかわる人びとが、新たなつながりを目指して、森里海連環学の「これまで」を共有し、「これから」を語ります。'
+  source: https://ocw.kyoto-u.ac.jp/course/894/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-10-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

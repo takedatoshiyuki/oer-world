@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0164
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/164/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営管理大学院シンポジウム「グローバルビジネス人材育成を考える」
+description:
+  ja: 京都大学の経営管理大学院が提供・担当するシンポジウムで、題目はグローバルビジネス人材の育成を扱う。開講日は2012年11月19日で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-11-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 経営学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経営管理大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

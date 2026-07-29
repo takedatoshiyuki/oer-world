@@ -1,0 +1,91 @@
+slug: kyoto-u-course-0765
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/765/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部オープンセミナー「ひと・社会・工学 －工学のいまを知る－」, 2016
+description:
+  ja: 木造建築の防火設計、地震予測に関するGPSデータ解析、19～20世紀の化学と物理の関係、気候変動に伴う降水変化と洪水予測を扱う講義群である。各回で、燃え止まり設計や電離圏電子数の異常、光・電磁波・放射線の役割、洪水・浸水・氾濫の予測技術について紹介する。
+quotedDescription:
+  text:
+    ja: '1 「火災に強い木造建築を造る」
+
+      原田 和典（工学研究科建築学科教授）
+
+      都市の大規模建築物を木材で造るためには、地震だけでなく火災にも強くする必要があります。燃えても壊れない建物を造るための「燃え止まり設計」の技術を紹介します。
+
+       
+
+      2「地震は予測できるか？ －全球測位衛星システムのビッグデータ解析最前線－」
+
+      梅野 健（工学研究科情報学科教授）
+
+      地震は予測できるのか？この根源的な問題については、現在確定的な答えが無い状況です。本講では、全球測位衛星システムによる、東北地方太平洋沖地震（3.11）の直前に観測された電離圏電子数の異常についてのデータ解析結果を紹介します。
+
+       
+
+      3「19～20世紀にかけての化学と物理　電磁波や放射線が明らかにするもの」
+
+      関 修平（工学研究科工業化学科教授）
+
+      化学と物理学はお互いを補いながら19世紀から20世紀にかけて、とても重要な基盤を創り出してきました。その過程では、光・電磁波・放射線が欠かすことのできない重要な役割を果たしています。身近な光や放射線の引き起こす現象が、どんな化学と物理の現象とその理屈の理解につながったかを、100年と少しの発展の歴史とともに見てみましょう。
+
+       
+
+      4「気候変動による降水の変化と洪水・氾濫の予測」
+
+      立川 康人（工学研究科地球工学科教授）
+
+      気候変動によって雨の降り方が変わり、それに伴って洪水や浸水、氾濫の発生の仕方が変化する可能性があります。本講ではこれらの予測技術の最新の成果を紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/765/
+  note: 京都大学OCW 「1 「火災に強い木造建築を造る」」・「原田 和典（工学研究科建築学科教授）」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 原田 和典
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 梅野 健
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 関 修平
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 立川 康人
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-07-31'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

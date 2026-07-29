@@ -1,0 +1,54 @@
+slug: kyoto-u-course-1013
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1013/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 E.FORUM 小笠原成章先生 講演会「教育改革の先行事例としての SGH ― グローバル社会に開かれた、資質・能力ベースの、課題研究」
+description:
+  ja: 京都大学教育学研究科のE.FORUMで行われた小笠原成章の講演会資料を収録する。講演資料に加えて、質問と回答の資料が公開されており、講演内容と質疑応答の両方を確認できる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小笠原 成章
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: E.FORUM講演会（小笠原成章先生） 講演資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/06/20201128_eforum.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1013/
+- name: '講義資料: 質問と回答'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/06/015c1a7ae416a26b69e9c23eb9426ce5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1013/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

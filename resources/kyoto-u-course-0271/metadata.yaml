@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0271
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/271/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第7回 MACSコロキウム「～鉱物に耳をあてがう、地球と宇宙が聞こえる～「はやぶさ」サンプルから聞こえてきたこと、「はやぶさ２」サンプルへの期待」
+description:
+  ja: 鉱物の分析を通じて、地球や惑星の成り立ちと履歴を考える講義である。「はやぶさ」が小惑星イトカワから採取したサンプルの解析結果を手がかりに、鉱物から読み取れる内容を扱う。「はやぶさ２」サンプルについても言及する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      鉱物は地球や惑星を作る基本的な構成単位で、宇宙にも広く存在しています。鉱物を調べることにより、これらがどのようにして生成され、どのような履歴を経たかがわかります。演者は、「はやぶさ」探査機が小惑星イトカワから採取したサ
+      ンプルの分析をおこなってきました。「はやぶさ」サンプル中の鉱物を例として、どのようなことがわかるかについて述べたいと思います。また、2020年に地球帰還が予定されている「はやぶさ２」サンプルについても大いに語りたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/271/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 𡈽山 明
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-02-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

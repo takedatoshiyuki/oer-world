@@ -1,0 +1,103 @@
+slug: kyoto-u-course-0496
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/496/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報探索入門：図書館とインターネット情報の活用, 2010
+description:
+  ja: 図書館の情報や資料の種類、分類、参考資料、目録情報、インターネット情報、データベースの扱い方を順に取り上げる講義である。最後に総合演習があり、公開教材には各回の講義資料が資料1・資料2としてまとまっている。
+quotedDescription:
+  text:
+    ja: これから大学で様々な事項を学ぶにあたり、図書館および図書館資料(情報)の活きた利用法、調べ方の実際を知り、スキルアップに役立ててください。 初回の授業には必ず出席してください。 履修希望者が120名を超える場合には受講人数を制限することがあります。
+  source: https://ocw.kyoto-u.ac.jp/course/496/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 古賀 崇
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川崎 良孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金子 周司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 黒橋 禎夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 図書館情報、および図書館の種類とその機能　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/16f5d1f8952b019de6e2aee29cab47c8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 図書館情報、および図書館の種類とその機能　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/cd0362ca9f7ca5af85b86ae2e7bdd9b5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 分類の一般概念と分類理論　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4fe1f0c884d1b11c408d88ac998aef29.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 分類の一般概念と分類理論　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2c7d716647d003d51edfb1610cd73bb0.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 参考資料の種々とその利用　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3b42fa538d67a516c7b21ceb94939051.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 参考資料の種々とその利用　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/bb9a93f2d71048259401fe3e9cde5ba7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 目録情報とその利用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ca0ee135119a61e7a54af64799294ef0.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 目録情報とその利用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3ffb19983c3c621f216eeb1123711ced.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c0b3ad35d58e396a5d02edc6da236e07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/512bb1d2171696915805ba91a8869360.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 総合演習　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d468c0cb4d627b09c01416208da5f2e4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+- name: '講義資料: 総合演習　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/e374862b6941ed554184405c78c27b92.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/496/
+extensions:
+  faculty: 全学共通科目, 図書館機構
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

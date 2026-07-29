@@ -1,0 +1,83 @@
+slug: hokudai-voedtonfrc2017
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/voedtonfrc2017
+type:
+- LearningResource
+- Course
+name:
+  ja: リスコミ職能教育プロジェクト『食と農に関するリスクコミュニケーション』
+description:
+  ja: 食と農分野のリスクコミュニケーションをテーマに、講義と実習を組み合わせて構成する教材である。実際にコミュニケーションの場を企画・運営する活動と、講師や受講生との討議を通じて、関連する素養を扱う。夏季試行カリキュラムと冬季カリキュラムで実施した講義の一部をオープン教材として公開する。
+quotedDescription:
+  text:
+    ja: '2017年度「食と農に関するリスクコミュニケーション」
+
+      ここでは、夏季試行カリキュラム／冬季カリキュラムで実施したいくつかの講義を、オープン教材として公開しています。
+
+      夏季試行カリキュラム
+
+      授業目標
+
+      ・食、農分野のリスクコミュニケーションに関わる素養を備えた人材を育成する。
+
+      １） 職業ではなく職能として　（直接的なリスクコミュニケーター育成ではなく）
+
+      ２） 専門性の文脈の中での媒介的行為　（各自の専門性を尊重する）
+
+      ３） 聴く耳を持つ媒介者　（リスク問題に携わる者に必要な特質1）
+
+      ４） リスク問題を多様な視点から検討できる （リスク問題に携わる者に必要な特質２）
+
+      授業内容
+
+      授業は各分野を担当する講師による講義と、リスクコミュニケーションの場を実際に企画し運営する実習を組み合わせて行われます。また、それぞれの開催日には講師やほかの受講生とのディスカッションの時間も設けます。
+
+      平成26年度科学技術人材育成補助事業「リスクコミュニケーションのモデル形成事業」
+
+      実施者：小林国之　北海道大学大学院農学研究院　助教
+
+      期　間：2014年9月～2019年3月
+
+      拠　点：北海道大学
+
+      趣　旨：リスクコミュニケーターの育成ではなく、職能として身につけてほしいリスクコミュニケーション能力の涵養を目指す教育カリキュラムを考える。大学はリスクコミュニケーションに関する実践的教育・実習をしていない。一方、社会は大学に智恵を求め、納得のいくリスクコミュニケーションの場の提供を求めている。今は存在しない、座学（科目として学ぶ）と実習（対話の場を実社会の中に創る）の融合の場を、市民やステークホルダーらと共に構築する。'
+  source: https://ocw.hokudai.ac.jp/lecture/voedtonfrc2017
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 実施代表者：小林 国之
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- agriculture
+keywords:
+- 農学
+- 農学院／農学研究院
+audience:
+- student
+extensions:
+  faculty: 農学院／農学研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

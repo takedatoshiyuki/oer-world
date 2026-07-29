@@ -1,0 +1,80 @@
+slug: kyoto-u-course-0574
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/574/
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバリゼーションと大学での学び
+description:
+  ja: グローバリゼーションの進展を前提に、その様相と社会的な変化を扱う講義である。大学での学びとして、グローバル社会で必要とされる知識、技能、資質を考える内容で、本学教員の講義に加えて学内外の講師による講演も含む。
+quotedDescription:
+  text:
+    ja: 'グローバリゼーションが世界中で進み、好むと好まざるとにかかわらず、我々はその渦中に生きざるをえない。グローバリゼーションとは何だろうか、そのなかで生きる我々はどのような学びを必要とするのだろうか。グローバリゼーションの様々な様相とグローバル化のなかで求められる今後求められるグローバルな人材は何かを考える。授業はグローバル化が進む現代社会について本学の教員による講義とともに、日本社会や経済が直面する変化について、国際的な経営者など様々な分野で活動されている学内外の講師を招聘し、講演をお願いする。
+
+      （授業の目的） １）グローバル社会について議論を深め、自らの言葉で語れるようになる。 ２）グローバル社会で必要な知識、技能、資質を理解し、今後の目標を立てることができる。'
+  source: https://ocw.kyoto-u.ac.jp/course/574/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森 純一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小林 潔司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 渡部 由紀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西澤 昭男
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小澤 正俊
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中村 勤
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 平野 英治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 谷合 正明
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

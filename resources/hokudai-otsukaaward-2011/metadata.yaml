@@ -1,0 +1,68 @@
+slug: hokudai-otsukaaward-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/otsukaaward-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学大塚賞受賞者講演会 （2011）
+description:
+  ja: 北海道大学大塚賞受賞者講演会（2011）の映像資料である。ファカルティハウス エンレイソウで開催された講演会を収録し、北海道大学の文学部で開講された2011年度の教材として提供されている。
+quotedDescription:
+  text:
+    ja: ファカルティハウス エンレイソウで開催された、北海道大学大塚賞受賞者講演会 （2011）の映像資料をご覧いただけます。
+  source: https://ocw.hokudai.ac.jp/lecture/otsukaaward-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 蛭田 千鶴江
+  affiliation:
+    name: 理学研究院
+- type: Person
+  name: 梅本 紘子
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: 趙 シンゲツ
+  affiliation:
+    name: 情報科学研究科
+- type: Person
+  name: 長谷部 理絵
+  affiliation:
+    name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 大塚賞
+- カーボンナノチューブ
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

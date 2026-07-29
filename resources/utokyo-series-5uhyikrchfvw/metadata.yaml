@@ -1,0 +1,66 @@
+slug: utokyo-series-5uhyikrchfvw
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=5uHYIKRChfVw
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学者、暗号で未来を創る
+description:
+  ja: 量子コンピュータの時代にも安全に利用できる暗号技術を扱う講義である。あわせて、研究プロジェクト「CREST暗号数理」の研究活動を解説する動画として構成されている。
+quotedDescription:
+  text:
+    ja: "量子コンピュータの時代にも安全に利用できる暗号技術を紹介します。\n情報理工学研究科の高木剛教授が研究代表者を務める研究プロジェクト「CREST暗号数理」の研究活動を解説した動画となります。\n\
+      映像提供：研究プロジェクト「CREST暗号数理」\n★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。 \nお気に入りの講義・講演があればSNSなどでシェアをお願いします。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=5uHYIKRChfVw
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高木 剛
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 若山 正人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 圭介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 國廣 昇
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- natural_sciences_math
+keywords:
+- AI・情報
+- 数理
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

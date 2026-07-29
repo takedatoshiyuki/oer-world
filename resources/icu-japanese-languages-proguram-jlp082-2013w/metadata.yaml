@@ -1,0 +1,48 @@
+slug: icu-japanese-languages-proguram-jlp082-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/japanese-languages-proguram/jlp082_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: Special Japanese 2 日本語特別教育 2
+description:
+  ja: 国際基督教大学が2013年に開講した、日本語を使用する「Special Japanese 2 日本語特別教育 2」の講義情報である。担当は金山泰子である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 金山泰子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 日本語教育プログラム
+- 'JLP082 | Update: 2018.10.11'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

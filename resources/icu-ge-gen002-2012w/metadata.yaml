@@ -1,0 +1,63 @@
+slug: icu-ge-gen002-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen002_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: Life Science (B) N1: 生命科学 (B)'
+description:
+  ja: 動物行動学を中心に、生物学の最近の発展を踏まえながら生命のあり方を考える講義である。あわせて、動物行動学と非自然科学分野との関係も取り上げる。公開されている動画は授業内容をまとめたダイジェスト版である。
+quotedDescription:
+  text:
+    ja: 'With emphasis on ethology, especially its recent developments in biology, this course aims to
+      enhance understanding of life and its nature. This course also examines the relation of ethology
+      to other non-natural science fields.
+
+      動物行動学を中心に、生物学における現在の成果を踏まえて、生命とそのあり方に対する理解を深めるとともに、非自然科学分野との関わりについても考察する。
+
+      ※Videos are condensed version of course.
+
+      ※この動画は授業内容をまとめたダイジェスト版を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/gen002_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 加藤義臣
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GEN002 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2014.11.27'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,48 @@
+slug: sophia-20151214lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20151214lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 世界を話そう：全米で最も優れた教授と、これからのリーダシップを話そう。
+description:
+  ja: 2015年12月14日に開講された、本学主催の講演会・シンポジウムの講義資料を収録する。上智大学が提供し、Georgetown Universityが担当した教材で、日本語で公開されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Georgetown University)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20151214lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20151214lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20151214lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2015/12/14
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

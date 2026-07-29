@@ -1,0 +1,53 @@
+slug: utokyo-series-m6rqlc5yzoqp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=M6RqlC5yzoQP
+type:
+- LearningResource
+- Course
+name:
+  ja: Adaptive Change!：社会課題解決や組織開発での適応課題・行動変容に対処するワークショップ
+description:
+  ja: 地域や組織で課題解決を進める際に、行動、社会的関係、文化的様式といった適応課題が障害になる場面を扱う。ワークショップ形式で、適応課題や行動変容に対処するためのポイントを学ぶ。
+quotedDescription:
+  text:
+    ja: "★動画の右下にある⚙［設定］から、日本語字幕を選択できます。 \n  お住まいの地域や所属する組織で、課題解決を進めようとしたときに、人びとの行動や立ち居振る舞い、社会的な関係性、そして、文化的様式などの適応課題に阻まれてしまうことはありませんか？\
+      \ \n  このワークショップでは、オックスフォード大学のRichard Pascale 氏とともに、適応課題・行動変容に対処するポイントを学びます。 \n \n  ★あなたのシェアが、ほか…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=M6RqlC5yzoQP
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Richard Pascale
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

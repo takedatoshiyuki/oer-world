@@ -1,0 +1,50 @@
+slug: sophia-20180803ocfairbrother
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20180803ocfairbrother/
+type:
+- LearningResource
+- Course
+name:
+  ja: What are we actually learning English for? A sociolinguistic introduction to intercultural interaction
+description:
+  ja: 上智大学外国語学部英語学科が2018年度に開講した講義で、担当はリサ、フェアブラザーである。講義名からは、英語を学ぶ目的と、異文化間のやりとりを社会言語学の観点から扱う内容であることが読み取れる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: リサ
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: フェアブラザー
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 外国語学部 英語学科
+  term: 2018年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

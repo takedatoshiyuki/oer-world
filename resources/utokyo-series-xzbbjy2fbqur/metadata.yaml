@@ -1,0 +1,80 @@
+slug: utokyo-series-xzbbjy2fbqur
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=XZbbJY2fbQuR
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回 全国フレイルサポーター・フレイルトレーナーの集い
+description:
+  ja: フレイルサポーターやフレイルトレーナーの集いとして、フレイルチェックから広がる取り組みを扱う。IOGの最新研究報告に加え、全国の自治体による実践発表やパネルディスカッションを通して、各地の工夫を共有する構成である。
+quotedDescription:
+  text:
+    ja: '第２回「全国フレイルサポーター・フレイルトレーナーの集い」は、「みんなで話そう！フレイルチェックから展開する未来」をテーマに行われました。IOGの最新研究報告、東京都文京区・豊島区、和歌山県紀の川市、新潟県新潟市、福井県など、全国の10自治体による取り組みの発表、フレイルサポーターのパネルディスカッション等、プログラムを通して各自治体独自の工夫の共有、自治体間の連携の強化を図りました。
+
+      01:13　開会の…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=XZbbJY2fbQuR
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 飯島 勝矢
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 友規
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 競
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岐阜県安八郡安八町
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 東京都東村山市
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 東京都西東京市
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 千葉県柏市
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 和歌山県紀の川市
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

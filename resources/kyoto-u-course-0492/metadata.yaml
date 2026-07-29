@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0492
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/492/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成21年度 京都大学図書館機構 第2回講演会 「次世代OPACを考える-目録情報の視点から-」
+description:
+  ja: この講演会は、次世代OPACを機能や画面だけでなく、目録情報の構造や内容、情報検索の考え方から捉える。目録、情報検索、OPAC設計の各分野の専門家がそれぞれの視点を示し、議論と質疑応答を通じて課題を共有する構成である。
+quotedDescription:
+  text:
+    ja: '昨今、日本の図書館界において“次世代OPAC”と呼ばれるWeb サービス及びそのシステム に注目や期待が集まっています。 “次世代OPAC“というと、そのシステムの機能やインターフェースに注目が集まりがちです
+      が、“次世代OPAC“をとらえる上では、OPAC の利便性とともに、資料検索ツールとしての有 用性を高める根本的な要素である「目録情報」の構造や内容、さらには情報検索そのものへの考 え方や情報検索技術など、これまでの「OPAC」の枠にとらわれない発想や視点にも注目する必
+      要があるでしょう。 そこで当講演会では、「目録情報」の視点から“次世代OPAC”をとらえることを主題とし、 “次世代OPAC”について「目録」「情報検索」「OPAC 設計者」それぞれの専門家をお招きし
+      て知見を得るとともに、各専門分野における情報検索に対する考え方や今後の課題について、講 演者間の議論及び参加者からの質疑応答を通じて共有したいと考えています。
+
+      主催：京都大学図書館機構
+
+      共催：国立大学図書館協会近畿地区協会
+
+      協賛：大学図書館近畿イニシアティブ'
+  source: https://ocw.kyoto-u.ac.jp/course/492/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤井 讓治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 渡邊 隆弘
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 清田 陽司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Project Next-L）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-11-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- arts_humanities
+keywords:
+- 自然科学
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

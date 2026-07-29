@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0975
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/975/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農産物性論
+description:
+  ja: 農畜産物や食品の状態や品質を評価するための物性計測手法を扱い、測定に必要な波動学、電磁気学、分光学、センサ工学の基礎を学ぶ。さらに、必要な情報を得るための測定系の構築と、得られた情報の解析手法を学ぶ。非破壊・非侵襲計測やバイオセンサを通して、農畜産物や食品の構造や成分に関する情報の取得を扱う。
+quotedDescription:
+  text:
+    ja: "［授業の特色］\n農畜産物や食品の持つ物理的特性を計測するために必要な知識として、波動学、電磁気学、分光学、センサ工学について学ぶ。さらに、自ら習得した知識を使って必要な情報を得るための測定系を構築できるだけでなく、得た情報の解析手法についても学ぶことを特色とする。\n\
+      A living matter like an agricultural product is more complex object than engineering product.  As\
+      \ a result, agricultural product has various responses to external force and electromagnetic wave.\
+      \ In this lecture, students can learn the relation between physical and biological property of various\
+      \ agricultural products and evaluation techniques for safety and security of food. \n［授業の紹介］\n農畜産物や食品から詳細な情報を得ることは，安定的で安全かつ環境に対して低負荷な食料生産につながることから，今後ますます重要な技術となる。本講義では，農畜産物や食品の状態・品質を評価するために必要な，物性計測手法をテーマとする。特に非破壊・非侵襲計測やバイオセンサについて学び、農畜産物や食品の構造や成分等の情報を得るための計測手法ついて理解することを目的とする。\n\
+      To obtain the detail information from agricultural and livestock products or food materials will\
+      \ become more important technologies, because they makes it possible to contribute to the future\
+      \ food production which leads to a stable and safety supply and low environmental burden.   The\
+      \ main subject of this lecture is the measurement method of physicality for evaluating condition\
+      \ and quality of them.  Especially, students can learn about the nondestructive measurement technique\
+      \ (structure and components in agricultural products) and biosensor for evaluating the quality and\
+      \ safety."
+  source: https://ocw.kyoto-u.ac.jp/course/975/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小川 雄一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/10/2012_nousanbusseiron.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/975/
+extensions:
+  faculty: 農学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

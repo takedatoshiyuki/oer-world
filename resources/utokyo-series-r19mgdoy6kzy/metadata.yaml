@@ -1,0 +1,66 @@
+slug: utokyo-series-r19mgdoy6kzy
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=r19mGdoy6kZY
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報工学概論Ａ
+description:
+  ja: インターネットの利用状況や運営体制、利用に伴う問題点を取り上げたうえで、通信方式や電子メール、World Wide Webの実現方式を扱う。さらに、情報セキュリティや著作権保護への脅威に対抗するための暗号や電子透かしについても、技術面を中心に解説する。
+quotedDescription:
+  text:
+    ja: インターネットは今や多くの人々の生活にとって、不可欠なものとなっています。その一方で、いわゆる迷惑メールやコンピュータウィルス、個人情報の流出など、インターネット利用に伴う問題点も生じています。本講義では、インターネットの利用状況や問題点、運営体制などについて紹介した後、インターネットで用いられている通信方式や電子メール・World
+      Wide Webなどのアプリケーションの実現方式、情報セキュリティや著作権保護に対する脅威に対抗するための暗号・電子透かしなどに関して、技術的側面を中心に解説します。
+  source: https://ch.u-tokyo.ac.jp/series/?id=r19mGdoy6kZY
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 相田 仁
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+- social_sciences
+- engineering
+keywords:
+- AI・情報
+- 人口・社会問題
+- ロボット・技術
+- インターネット
+- コンピュータ
+- 通信
+- 情報技術
+- 光技術
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

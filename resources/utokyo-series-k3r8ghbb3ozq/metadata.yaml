@@ -1,0 +1,99 @@
+slug: utokyo-series-k3r8ghbb3ozq
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=K3R8GHBb3OZQ
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報＜よむ・かく＞の新しい知識学（学術俯瞰講義）
+description:
+  ja: この講義は、＜よむ・かく＞を記憶・思考・認識に関わる基本的な行為として捉え、その周辺を多分野から考える。人文学、情報科学、ロボット学、認知科学・脳科学、文字学・書物学、情報デザイン学にまたがる領域を取り上げ、＜よむ・かく＞活動をめぐる知識のあり方を探る。
+quotedDescription:
+  text:
+    ja: 'コーディネータ　石田英敬（教養学部/付属図書館副館長）
+
+      ナビゲータ　　　阿部卓也（情報学環）　　　
+
+      　＜よむ・かく＞は、記憶・思考・認識の基本的な身ぶりです。今日では、コンピュータもロボットも＜よむ・かく＞活動を行っていますし、ヒト、動物、生命が、いかに＜よむ・かく＞活動を行っているのか、多様な学問領域で研究が進められています。
+
+      　本年度の学術俯瞰講義「情報」では、人文学から情報科学まで、ロボット学から認知科学・脳科学まで、文字学・書物学から情報デザイン学まで、知の先端領域を拓きつつある講師陣を迎えて、＜よむ・かく＞活動をめぐる＜新しい知識学＞の姿を皆さんと探ってみようと思います。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=K3R8GHBb3OZQ
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石田 英敬
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 酒井 邦嘉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川添 善行
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 齋藤 希史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宮川 繁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石川 正俊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 池内 克史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤幡 正樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- social_sciences
+- education
+keywords:
+- 言語・思想
+- 心理・認知
+- 教育
+- 都市・建築
+- 歴史
+- ロボット・技術
+- 文化・芸術・文芸
+- 知識
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

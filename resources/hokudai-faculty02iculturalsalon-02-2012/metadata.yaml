@@ -1,0 +1,67 @@
+slug: hokudai-faculty02iculturalsalon-02-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon-02-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 時計台サロン 「農学部に聞いてみよう」 第2回 農学部に聞いてみよう（2012）
+description:
+  ja: 北海道大学大学院農学研究院主催の「時計台サロン」の一回分を映像で収録した教材である。農学に関連する話題を一般市民向けに扱い、松沢幸一の講話と林美香子の講話を収める。
+quotedDescription:
+  text:
+    ja: '北海道大学大学院農学研究院主催による「時計台サロン」の模様を映像でご紹介しています。
+
+      「時計台サロン」は、農学に関連する話題を、一般市民向けに講話するものです（場所：時計台ホール、毎月1回開催予定）。
+
+      「価値創造と人材育成への挑戦 ― 会社生活で学んだこと」松沢 幸一（前キリンビール社長）
+
+      「農都共生のススメ」林 美香子（慶應義塾大学大学院SDM研究科）'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon-02-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松沢 幸一
+  affiliation:
+    name: 前キリンビール社長
+- type: Person
+  name: 林 美香子
+  affiliation:
+    name: 慶應義塾大学大学院SDM研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+- agriculture
+keywords:
+- ビジネス／経済
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

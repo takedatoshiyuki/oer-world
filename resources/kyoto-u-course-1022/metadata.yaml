@@ -1,0 +1,64 @@
+slug: kyoto-u-course-1022
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1022/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第8回 「エジプトで受け入れられた日本式Tokkatsu －今後の海外展開の課題と可能性－」
+description:
+  ja: エジプトで日本式Tokkatsuがどのように導入され、EJEPやEJS、指導者養成の仕組みを通じて進められてきたかを扱う講演である。あわせて、制度改革や運営上の経緯を踏まえ、日本式教育の海外展開に関する課題と可能性を論じる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      グローバル教育展開オフィス主催2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』の第8回講演会を、2月19日（金）にZoom開催しました。今回は、國學院大學人間開発学部初等教育学科教授　杉田洋氏が〈エジプトで受け入れられた日本式Tokkatsu―今後の海外展開の課題と可能性―〉と題した講演を行い、司会進行は高山敬太教授が務めました。英語同時通訳を導入し、学内外および国内外からも多くの参加がありました。講演会では活発な質疑応答も行われ、盛況のうち閉会しました。
+
+      要旨
+
+      ４年前、日・エ両国首相の間で交わされた「エジプト・日本教育パートナーシップ（EJEP）」における基礎教育分野において、エジプトにおける「特活」の推進がなされることになった。私は、そのことにJICAの教育専門家として関わるようになったが、文化や価値観、社会情勢や教育制度などが異なる中、困難の連続だった。
+
+      「特活」の導入が、エジプト国民や教育関係者からの要望ではなく、大統領という上からの指示でスタートしたことが課題の始まりだった。そのほか、途中でEducation2.0という全面的な教育課程改革がなされたこと、一般校ではなくEJS（エジプト・日本学校）の設立が優先されたこと、せっかく養成したTokkatsu指導者であるマスタートレーナー（現「特活Officer」）の中には辞めていく人も出てきたことなどがさらに推進を難しくしてきた。
+
+      今、それでもこれら様々な困難を乗り越え、ＥＪＳでの教育活動も軌道に乗りつつある。学習指導要領に週１時間の「Tokkatsu」が規定され、18,000校全ての学校が取り組むことにもなった。さらに、日・エ合同で、「特活指導者」を公式に認定するためのシステムの策定も始まっている。
+
+      これまでの経緯を振り返り、日本式の何が受け入れられ、何が受け入れられなかったのか、今後のTokkatsuの海外展開の課題と可能性などについて述べてみたい。'
+  source: https://ocw.kyoto-u.ac.jp/course/1022/
+  note: 京都大学OCW 「概要」・「要旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 杉田 洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

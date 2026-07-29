@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0694
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/694/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現象学へのプロレゴメナー ーフッサール現象学を中心として
+description:
+  ja: フッサールの現象学を、ハイデッガーを含む20世紀ヨーロッパの思想の流れの中に位置づけて扱う講義である。あわせて、その方法と理念を取り上げ、14回の連結講義として現象学の全体像に迫る。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      フッサール現象学をハイデッガーやその他20世紀のヨーロッパの思想運動の中でとらえながらその方法と理念をテーマ化している。
+
+       
+
+      授業の紹介
+
+      この講義はフッサールの現象学を20世紀の思想運動の中に位置づけつつ、しかも理念と方法に立ち入って明らかにした。講義は14回の連結であり、最終的にフッサールの現象学の全ぼうを明らかにする。'
+  source: https://ocw.kyoto-u.ac.jp/course/694/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小川 侃
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 哲学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回 資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_genshogaku_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/694/
+- name: '講義資料: 第2回 資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_genshogaku_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/694/
+- name: '講義資料: 第3回 資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_genshogaku_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/694/
+- name: '講義資料: 第4回 資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_genshogaku_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/694/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

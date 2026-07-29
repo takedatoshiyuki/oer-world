@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0797
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/797/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2007年度 京都大学OCW総長懇談会
+description:
+  ja: 京都大学が提供・担当する、2007年度の総長懇談会を収録した教材である。開講年度や開講部局、使用言語の情報が付されているが、内容の詳細は出典情報からは読み取れない。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

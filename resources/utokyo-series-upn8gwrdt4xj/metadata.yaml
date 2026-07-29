@@ -1,0 +1,68 @@
+slug: utokyo-series-upn8gwrdt4xj
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=upN8GWRDT4XJ
+type:
+- LearningResource
+- Course
+name:
+  ja: '#言葉の逆風 どう向き合うー『なぜ東大は男だらけなのか』著者、矢口副学長と考える'
+description:
+  ja: WeChange UTokyoの『#言葉の逆風』プロジェクトを起点に、言葉の逆風が生まれる環境や、それを和らげる要因を考える。あわせて、逆風を順風に変えるための見方を、矢口祐人副学長と東京大学の教員・卒業生が議論する。
+quotedDescription:
+  text:
+    ja: WeChange UTokyoの枠組みで5月に実施した「#言葉の逆風」プロジェクトに対し、様々な反響をいただきました。#言葉の逆風はどのような環境で発生してしまうのか。何が防風林となり得るのか、あるいは、どうしたら逆風を順風にできるのか。『なぜ東大は男だらけなのか』の著者矢口祐人副学長と、それぞれの場所で活躍されている東京大学教員、卒業生と考えました。
+  source: https://ch.u-tokyo.ac.jp/series/?id=upN8GWRDT4XJ
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 矢口 祐人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 後藤 由季子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山口 真由
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中野 円佳
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 人口・社会問題
+- ジェンダー平等
+- 多様性
+- 対談・座談会・インタビュー
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

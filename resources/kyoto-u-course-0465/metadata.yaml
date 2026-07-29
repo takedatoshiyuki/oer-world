@@ -1,0 +1,97 @@
+slug: kyoto-u-course-0465
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/465/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第11回 iCeMSラーニングラウンジ：川端 ケリー + Andrew Gibbons
+description:
+  ja: 2名の若手研究者が英語で自分の研究を紹介する講義で、川端ケリーは神経細胞の形が脳内のつながりや行動にどう関わるかを扱う。Andrew Gibbonsは、汚れの付着の仕組みと自己清浄表面の開発を取り上げる。いずれも研究の内容を社会的背景と結びつけて話す構成になっている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      川端 ケリー（かわばた けりー）さん
+
+      “Shapes of Neurons Shape Our Behavior”
+
+      How does your brain recognize a ﬂy, decide to catch it, and then move your hand? Even a simple activity
+      such as this requires neurons to make many, many precise connections in the brain. Different neuronal
+      shapes can control the way connections are made, and studying the rules of how these shapes are
+      formed can help us better understand how the brain works.
+
+      研究者コメント
+
+      As of 2017 there are 7.5 billion people on this planet. In our brain, we have about 100 billion
+      neurons, and like people, each of them are constantly sending messages, changing their status, and
+      making, maintaining, or eliminating connections with one another. Understanding this network is
+      an exciting yet massive undertaking, and is the next frontier in biology. In my current research,
+      I focus on how the shapes of neurons are formed to make their proper connections. I’m always excited
+      when learning about how a seemingly tiny change on the molecular scale can so vividly impact how
+      our brain functions.
+
+       
+
+      Andrew Gibbons（アンドリュー・ギボンズ）さん
+
+      “Foul Play! Making Self-Cleaning Surfaces”
+
+      What if we had self-cleaning surfaces? Currently, cleaning of filters used in industry costs a great
+      deal of time and money. Fouling on medical devices can lead to rejection by the body. In my talk
+      I explain how fouling occurs and how we can develop self-cleaning surfaces.
+
+      研究者コメント
+
+      While I’m at home, cleaning is a boring but important chore. In my lab however, the problem of how
+      to keep surfaces clean becomes an exciting challenge requiring creative thinking. I began this research
+      when I was developing filter membranes which are often damaged by the buildup of dirt. I am trying
+      to create surfaces that can keep themselves clean while in use. This is a very useful feature for
+      a wide range of devices. I hope that by the end of the talk you are convinced that cleaning isn’t
+      as boring as you thought!'
+  source: https://ocw.kyoto-u.ac.jp/course/465/
+  note: 京都大学OCW 「概要」・「川端 ケリー（かわばた けりー）さん」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 川端 ケリー さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Andrew Gibbons さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-01-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,96 @@
+slug: kyoto-u-course-0480
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/480/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部公開講座「ひと・社会・工学 －工学のいまを知る－」, 2015
+description:
+  ja: 工学部の公開講座として、電気電子デバイスとネットワークの先端設計、トンネル技術の歴史的変遷、脳の活動の計測と解析、核融合エネルギー研究の進展を4本の講義で扱う。工学の複数分野について、各担当教員がそれぞれのテーマの基礎的な考え方や研究の進展を紹介する。
+quotedDescription:
+  text:
+    ja: '1
+
+      「高機能エレクトロニクスとEシステム・インテグリティ」
+
+      和田 修己（工学研究科電気工学専攻 教授）
+
+      太陽光発電とスマートシティ、ハイブリッド／電気自動車、情報通信（インターネット、スマホ、PC）などの高機能なEシステム（電気電子デバイスとネットワーク）を実現する先端設計の裏側をお見せします。
+
+      2
+
+      「地下を拓く －トンネル技術の役割と進歩－」
+
+      朝倉 俊弘（工学研究科社会基盤工学専攻 教授）
+
+      昔から人類は地下空間を多様な目的で利用してきました。その代表としてトンネル利用の歴史的変遷とトンネル技術の進歩を分かりやすく講述します。
+
+      3
+
+      「脳をよみ、脳をつくる」
+
+      石井 信（情報学研究科システム科学専攻 教授）
+
+      人間の脳は数百億個とも言われる神経細胞からできていて、それ自体が「小さな宇宙」です。細胞が活動し、その関係性が変わることで、考え、学びます。個々の細胞の活動は見えませんが、その集まりの活動は見え、コンピュータへの入力とすることができます。また、小さな動物の脳であれば、顕微鏡を用いて細胞の関係性を調べることができます。大きな計算機を使えば、脳がどのように動くのか分かるのかも知れません。
+
+      4
+
+      「高温プラズマと核融合エネルギー研究の進展」
+
+      福山 淳（工学研究科原子核工学専攻 教授）
+
+      物質の第4の状態であるプラズマを磁場により閉じ込めて高温に加熱し、核融合反応による持続的エネルギー源の実用化を目指す研究の進展を紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/480/
+  note: 京都大学OCW 「「脳をよみ、脳をつくる」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 和田 修己
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 朝倉 俊弘
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石井 信
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 福山 淳
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- ict
+keywords:
+- 工学
+- コンピュータサイエンス
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

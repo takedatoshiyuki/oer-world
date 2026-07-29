@@ -1,0 +1,59 @@
+slug: sophia-20101022lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101022lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智の座シリーズ 第1回
+description:
+  ja: 本講義は、作家・遠藤周作を手がかりに、日本人にとってのキリスト教とは何かを扱う。遠藤が示した「母なるキリスト」や「母なる神」という発想を、文学と生涯の両面からたどる内容である。
+quotedDescription:
+  text:
+    ja: "日本人にとってのキリスト教とは何か \n 生涯を通して「日本人にとってキリスト教とは何か」を問い続けた作家・遠藤周作は、「母なるキリスト」こそ日本人の求める神のイメージだとした。遠藤が描いた「母なる神」を、その文学と人生から浮かび上がらせる。\
+      \ \n当日のチラシは こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101022lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 加藤 宗哉(作家
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 三田文学編集長)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20101022lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101022lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101022lecture/
+extensions:
+  faculty: 上智の座シリーズ
+  term: 2010/10/22
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

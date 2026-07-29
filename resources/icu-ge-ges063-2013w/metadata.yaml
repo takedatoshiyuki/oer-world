@@ -1,0 +1,69 @@
+slug: icu-ge-ges063-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges063_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: Peace Research Ｓ２：平和研究'
+description:
+  ja: 戦争、貧困、抑圧に表われる現実を踏まえながら、平和、暴力、世界秩序の問題を扱う講義である。既存の平和論を考察し、新しい視点から平和を提案するとともに、新しい社会科学の方法論の可能性を探る。
+quotedDescription:
+  text:
+    ja: 'Aimed at enabling a deeper understanding of the problems of peace, violence and world order,
+      on the basis of full recognition of the reality of the violent world as expressed in such forms
+      as war, poverty and oppression. Included is a proposal for peace from a fresh perspective.
+
+      戦争，貧困，抑圧などに表わされる現代社会の荒れる現実に対する冷静な認識の上に，これまでの平和論を考察し，新しい平和論と新しい社会科学の方法論への可能性を探る。
+
+      Dec 09
+
+      Introduction and Overview   Instructor: SASAO, Toshiaki et al.
+
+      Dec
+
+      12
+
+      Introduction and Overview'
+  source: https://ocw.info.icu.ac.jp/ge/ges063_2013w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: Toshiaki SASAO
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GES063 | Course Schedule: 4*/M, 4*/TH | Update: 2020.05.19'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

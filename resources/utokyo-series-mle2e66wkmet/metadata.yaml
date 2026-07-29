@@ -1,0 +1,82 @@
+slug: utokyo-series-mle2e66wkmet
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=MlE2E66WKmET
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会と倫理-＜人間＞の限界を問う（学術俯瞰講義）
+description:
+  ja: 生と死の医療、精神障害と健常、災厄と儀礼、宗教間対話、市場経済、死刑といった場面を取り上げ、人間の限界が問われる状況を考える講義である。そうした現場に即して、従来の倫理が自明でなくなるところから、新たな倫理を探る。
+quotedDescription:
+  text:
+    ja: 'コーディネータ：高橋哲哉（教養学部）
+
+      ナビゲータ：山本芳久（教養学部）
+
+      2011年3月11日に発生した原子力発電所事故は、私たち人間の営みに対する根本的な反省を迫るものだった。近代の人間は、科学技術という知の光によって、自身が「自然の主人にして所有者」（デカルト）であるという確信を抱いた。核エネルギーの発見と実用化は、その頂点とも言えた。ところが私たちは、それが核兵器だけでなく原子力発電にあっても、私たちの生存そのものを不可能にしかねない怪物であることを思い知らされたのである。
+
+      ２１世紀の今日、社会のあらゆる領域で「人間」とは何かが問い直されている。それは、近代におけるように人間の可能性を確信する方向ではなく、むしろ、そうした「人間」の輪郭が崩れ始め、「人間」の限界が露わになっていく不安とともに、問い直されつつあるのだ。それはまた、従来の人間関係を形づくっていた「倫理」が自明性を失い、それに代わって、人間の限界地点で立ち現れる新たな「倫理」が模索されているということでもある。
+
+      この講義では、生と死の医療、精神障害と健常、災厄と儀礼、宗教間対話、市場経済、死刑など、「人間」の限界が問われているさまざまな現場に即して、新たな「倫理」の探求を試みる。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=MlE2E66WKmET
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中島 隆博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 丸山 真人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 哲哉
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- engineering
+- social_sciences
+keywords:
+- 言語・思想
+- 災害・防災
+- 国際関係
+- 経済・金融
+- 政治・法律
+- 共生
+- 倫理
+- 思想
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

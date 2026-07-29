@@ -1,0 +1,91 @@
+slug: kyoto-u-course-0976
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/976/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際教育研究フロンティアC, 2014
+description:
+  ja: この講義は、異文化理解と教育を結びつけながら、翻訳を手がかりに人間主体と言語・文化の関係を考える。映画『Lost in Translation』と哲学文献を参照し、教育への含意や、疎外感・不気味さといった主題まで扱う。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      This seminar was jointly organized with Professor Paul Standish at the Institute of Education, University
+      of London.
+
+      Summary and purpose
+
+      In order to achieve rich dialogue between “old and new generations in the 21st century,” cross-cultural
+      dimensions are crucial in diverse ranges of education — including language education, citizenship
+      education, cosmopolitan education, environmental education and moral education. Education cannot
+      be contained in terms of a tidy division between adulthood and childhood: rather it is to be reconsidered
+      as the endless process of human perfection — one through which adults and children alike learn continually
+      what it is to be a grownup (Cavell 1979, p. 125), and this involves crossing borders, in and out
+      of school.
+
+      In considering the conditions for such perfectionist aspirations, this course highlights the theme
+      of translation. Through a reading of the film “Lost in Translation” (2003) in relation to poststructuralist
+      and American philosophical texts, we shall explore the idea of philosophy as translation as an alternative
+      way of thinking about understanding other cultures and of exploring educational implications. Translation
+      here signifies more than the “merely linguistic”: it involves the translation of the human subject,
+      understood now as being inseparable from language and culture. In this sense translation is a condition
+      of human beings and is inseparable from the transformational experience of recovery from loss —
+      loss of the self, of the meaning, and of place, and the loss of innocence that is part of growing
+      up. The experience of translation in this broader sense has in fact already begun in one’s own language
+      and culture: the other is already there in what is perceived to be one’s own.
+
+      The central film in this course also leads into themes of estrangement and uncanniness and we shall
+      address these themes with reference to further aspects of Cavell’s work in which he finds connections
+      between these themes and aspects of Japanese thought.'
+  source: https://ocw.kyoto-u.ac.jp/course/976/
+  note: 京都大学OCW 「Course Description」・「Summary and purpose」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Paul Standish（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: UCL Institute of Education）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Graduate School of Education
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Kyoto University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-12-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

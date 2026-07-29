@@ -1,0 +1,72 @@
+slug: utokyo-series-qh1opzpxdn2b
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=qh1opzPxDn2b
+type:
+- LearningResource
+- Course
+name:
+  ja: 第138回（2024年春季）東京大学公開講座「制約と創造」
+description:
+  ja: 科学研究において制約が新たな発見につながる例を、宇宙研究を中心に取り上げる講義である。アルキメデスの原理や宇宙背景放射の発見を手がかりに、研究の現場で制約がどのように働くかを、自身の経験と科学史の両面から扱う。
+quotedDescription:
+  text:
+    ja: 科学研究において、制約がもたらす創造の例は枚挙に暇がありません。アルキメデスの原理は、壊してはいけないという制約のもと、王冠が純金製かどうかを調べる中で発見されました。一方で、ビッグバンの証拠となる宇宙背景放射は、無駄とも思えるマイクロ波検出装置に現れた「雑音」を探求することで発見されました。本講義では、我々が経験した宇宙研究、さらには科学史に残る宇宙研究における制約と創造を紹介するとともに、人…
+  source: https://ch.u-tokyo.ac.jp/series/?id=qh1opzPxDn2b
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 大内 正己
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小林 俊行
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 太田 博樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渡邉 英徳
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- health_welfare
+- arts_humanities
+keywords:
+- 宇宙・物理
+- 数理
+- 生命・医療
+- 歴史
+- 災害・防災
+- AI・情報
+- 宇宙
+- 望遠鏡
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

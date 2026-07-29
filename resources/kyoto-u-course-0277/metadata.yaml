@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0277
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/277/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「なつかしさの心理学－こころの時間旅行－」
+description:
+  ja: この講義は、ヒトの脳を手がかりに、目に見えない「こころ」をどう捉えるかを扱う。あわせて、「なつかしさ」を心理学の観点から考える内容である。2020年度秋季の春秋講義として、オンデマンド配信で実施された。
+quotedDescription:
+  text:
+    ja: '春秋講義は、京都大学における学術研究活動の中で培われてきた知的資源について、広く学内外の人々と共有を図るため、1988（昭和63）年秋から開講している公開講座です。年に2回、春と秋にテーマをもうけ講義を行います。
+
+      令和2年度秋季講義は、新型コロナウイルス感染拡大防止のため、オンデマンド配信で「こころのカタチ」をテーマに開催します。
+
+      テーマ：こころのカタチ
+
+      確かにあるのに目に見ることが出来ない「こころ」。わたしたちの行動や思考はこの見えない「こころ」に大きな影響を受けています。「こころ」はどういうもので、どこにあるのでしょうか？「こころ」を形にすることは出来るのでしょうか？今回の講義では、ヒトの脳からこの見えない「こころ」の問題を考えてみたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/277/
+  note: 京都大学OCW 「テーマ：こころのカタチ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 楠見 孝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-10-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- コミュニケーション
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

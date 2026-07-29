@@ -1,0 +1,51 @@
+slug: hokudai-invitationtoagaku-2007
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/invitationtoagaku-2007
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 蛙学への招待（2007）
+description:
+  ja: 北海道大学の理学部で2007年に開講された、鈴木誠担当の講義である。対象は1年次以上で、授業は日本語で行う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鈴木 誠
+  affiliation:
+    name: 高等教育推進機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 生物　両生類　蛙　形態 生態 進化 文化　食文化 自然環境 問題解決能力 学生参加型授業
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部
+  targetAudience: 1年次～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

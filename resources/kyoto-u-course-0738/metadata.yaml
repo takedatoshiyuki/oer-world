@@ -1,0 +1,156 @@
+slug: kyoto-u-course-0738
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/738/
+type:
+- LearningResource
+- Course
+name:
+  ja: 民法IV（債権各論）
+description:
+  ja: 本教材は、民法第3編「債権」のうち、契約、事務管理、不当利得、不法行為を対象に、各制度の基本的な仕組みと考え方を扱う。公開されている講義資料には、講義案内や契約法序論に加え、売買、賃貸借、消費貸借などの回が含まれる。
+quotedDescription:
+  text:
+    ja: 民法典第３編「債権」のうち、債権の発生原因として規定されている契約、事務管理、不当利得、不法行為（いわゆる債権各論）について、各制度の基本的な仕組みと考え方、および現実の問題の現れ方につき概説する。講義項目の順序・日程などの詳細は、教科書等の説明と共に、最初の時間に示す。
+  source: https://ocw.kyoto-u.ac.jp/course/738/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松岡 久和
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　講義案内・契約法序論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第2回　売買の成立'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第3回　売買の効力(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第4回　売買の効力(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第5回　売買の解除'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第6回　特殊な売買など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_06-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第6回　特殊な売買など→紙上補足'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_06-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第7回　賃貸借(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第8回　賃貸借(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_08-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第8回　賃貸借(2)　建物サブリース契約（特別版）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_08-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第9回　消費貸借'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_09-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第9回　消費貸借　利息の制限（民法第３部）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_09-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第9回　消費貸借　特定融資枠契約法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_09-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第9回　消費貸借　リース契約'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_09-4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第10回　雇用・請負・委任など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第11回　組合など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第12回　贈与・使用貸借など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第13回　不法行為法の展開'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第14回　過失と違法性(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第16回　因果関係'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第17回　賠償されるべき損害'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第18回　賠償額の調整'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第19回　損害賠償請求権'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第20回　使用者責任など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第21回　工作物責任など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第22回　共同不法行為'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第23回・第24回　事務管理・不当利得'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_23-24-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第23回・第24回　事務管理・不当利得　恩給裁定取消しと恩給担保貸付機関の不当利得責任'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_23-24-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第23回・第24回　事務管理・不当利得　騙取金銭による弁済'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_23-24-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第25回　契約・不法行為の位置づけ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_25-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 第25回　契約・不法行為の位置づけ　不法行為整理問題２・３の解説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4_25-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4-exam_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+- name: '講義資料: 問題解説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_minpou-4-exam_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/738/
+extensions:
+  faculty: 法学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

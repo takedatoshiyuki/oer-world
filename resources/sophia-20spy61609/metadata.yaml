@@ -1,0 +1,81 @@
+slug: sophia-20spy61609
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+type:
+- LearningResource
+- Course
+name:
+  ja: シミュレーション物理
+description:
+  ja: 物理現象のシミュレーションの意義と手法を扱い、最初にFortran 90/2003を学ぶ構成になっている。続いて、プログラム作成を通して、いくつかの物理現象を実際にシミュレーションする。
+quotedDescription:
+  text:
+    ja: 物理学は理論物理、実験物理の両輪からなっていた。ところがここ、50年ほどで計算機が急速に発展し、理論でも実験でもない第3の物理学、計算物理が発展しつつある。本講義では実際に物理現象のシミュレーションの意義とテクニックを学ぶ。併せて物理現象の理解を深める。
+      講義はまず，シミュレーションを行う上で最も強力であるfortran 90/2003を学ぶことからはじめる。次に実際にプログラムを組むことを通して，物理学現象のシミュレーションを数々の例に対して実際に行う。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大槻 東巳
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 2009SPY61609_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_03.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_03.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_04.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_04.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_05.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_05.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_06.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_06.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_09.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_09.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_10.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_10.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+- name: '講義資料: 2009SPY61609_13.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SPY61609_13.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20spy61609/
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

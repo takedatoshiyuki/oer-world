@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0373
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/373/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成31年度科研費申請対策説明会 申請書グラフィックデザインセミナー
+description:
+  ja: 科研費の研究計画調書で、文章だけでなく図を使って研究の概要や魅力を伝える方法を扱う。研究内容を整理し、効果的な図を作るための考え方と作成のコツを示す。
+quotedDescription:
+  text:
+    ja: '概要
+
+      科研費の研究計画調書では、テキストだけでなく図を用いて研究の概要や魅力を説明することが効果的です。本セミナーでは、研究内容を整理し効果的な図を作るコツをレクチャーします。「図をつくるのは苦手だ」と思われている研究者にオススメのセミナーです。'
+  source: https://ocw.kyoto-u.ac.jp/course/373/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小野 英理
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-09-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- デザイン学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,85 @@
+slug: kyoto-u-course-0079
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/79/
+type:
+- LearningResource
+- Course
+name:
+  ja: 造園学実習Ⅰ
+description:
+  ja: ランドスケープデザインを実践するための基礎知識と技術を学ぶ実習科目である。敷地調査やデザインサーベイを通して空間デザインの手法を扱い、庭園や公園のデザイン課題へつなげる内容となっている。公開されている教材は、製図、調査、コンセプトづくり、模型作製、空間イメージの伝達に関する7件の講義資料である。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      初めて空間のデザインを行う学生を対象とした実習です。設計のための基礎知識や技術の習得のほか、空間デザインの役割や意義、よい空間のデザインとは何なのかについて学習します。
+
+      授業の紹介
+
+      ランドスケープ・デザインを実践するために必要な基礎知識および技術を習得することを目的とします。製図室内での作業や文献調査のほか、具体的なデザインサーベイから空間デザインの手法を学び、それを応用して庭園や公園のデザインの課題製作を行います。OCW掲載のコンテンツは授業で使用する教材の一部です。また、実際の授業はデザインをより良いものへと精製する過程、中間発表会や最終発表会、最終成果物の記録を含む約15週から構成されています。'
+  source: https://ocw.kyoto-u.ac.jp/course/79/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森本 幸裕
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 今西 純一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+- agriculture
+keywords:
+- 建築
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 ランドスケープデザインとは、製図の方法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_zouengaku_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/79/
+- name: '講義資料: 第2回 敷地調査、敷地分析結果の空間的表現'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_zouengaku_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/79/
+- name: '講義資料: 第3回 デザインサーベイ(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_zouengaku_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/79/
+- name: '講義資料: 第4回 デザインサーベイ(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_zouengaku_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/79/
+- name: '講義資料: 第5回 コンセプトづくり'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_zouengaku_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/79/
+- name: '講義資料: 第6回 模型の作製方法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_zouengaku_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/79/
+- name: '講義資料: 第7回 空間イメージの伝え方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_zouengaku_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/79/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

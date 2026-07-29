@@ -1,0 +1,47 @@
+slug: tsukuba-designthinking2014
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/design/designthinking2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2014年度 特別講義「『地域の時代』をデザインする」
+description:
+  ja: デザインを理念の表現として捉え、地域社会が直面する少子高齢化や過疎化、地域産業の衰退を主な題材として扱う講義である。デザインの視点から、これらの課題を乗り越えるための理念と戦略を構想し、地域の新たな発展モデルを考える。
+quotedDescription:
+  text:
+    ja: デザイン＝自分の理念を表現すること。 高度経済成長期に付加価値創造の要となってきたデザインに、今新たな役割が求められている。少子・高齢化、過疎化、地域産業の衰退といった解き難く思える諸問題を乗り越え、地域社会の新たな発展モデルを描き出すための理念と戦略を、デザインの視点から構想してみる。
+  source: https://ocw.tsukuba.ac.jp/course/design/designthinking2014/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 蓮見 孝
+  affiliation:
+    name: 札幌市立大学理事長・学長、筑波大学名誉教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-06-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- デザイン
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

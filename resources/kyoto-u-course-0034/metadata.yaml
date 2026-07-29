@@ -1,0 +1,136 @@
+slug: kyoto-u-course-0034
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/34/
+type:
+- LearningResource
+- Course
+name:
+  ja: 欧米経済史
+description:
+  ja: 第二次大戦後から1970年代までの西ヨーロッパの経済復興と欧州統合を、アメリカの対欧州戦略という観点から追う講義である。戦後秩序の転換の中で、イギリス帝国の解体問題やドイツ問題がどのように位置づけられたかを扱う。あわせて、1970年代までに形成された米欧日相互依存の構図を検討する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本講義は、第二次大戦後から1970年代にかけての欧州統合の史的展開をアメリカの欧州統合戦略の視点から時代毎の画期に分けて検討し、米欧相互依存関係の基本的構図を解説します。
+
+       
+
+      授業の紹介
+
+      本講義の目的は、第二次大戦後から1970年代にかけての西ヨーロッパの経済復興・統合をパクス・アメリカーナの展開過程として把握することにある。パクス・ブリタニカ（19世紀までのイギリス主導の国際秩序）からパクス・アメリカーナ（第二次大戦後のアメリカ主導の国際秩序）への転換過程においては、イギリス帝国の解体問題ドイツ問題が大きな問題であった。第二次大戦後の西欧統合のプロセスを通じて、アメリカがこの２つの問題をどのように解決し、1970年代までに米欧日相互依存システムを構築したか検討する。'
+  source: https://ocw.kyoto-u.ac.jp/course/34/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 歴史
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: #1 イントロダクション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_1j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #1 イントロダクション（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_1c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #2 課題設定'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_2j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #2 課題設定（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_2c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #3 米国の欧州統合推進の諸動機'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_3j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #3 米国の欧州統合推進の諸動機（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_3c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #4 第一の転換（１９４９年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_5j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #4 第一の転換（１９４９年）（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_5c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #5 第一期アイゼンハワー政権（１９５０年代後半）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_6j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #5 第一期アイゼンハワー政権（１９５０年代後半）（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_6c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #6 アイゼンハワー政権Ⅰ・Ⅱ（１９５０年代）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_7j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #6 アイゼンハワー政権Ⅰ・Ⅱ（１９５０年代）（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_7c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #7 アイゼンハワー政権Ⅱ（１９５０年代後半）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_8j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #7 アイゼンハワー政権Ⅱ（１９５０年代後半）（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_8c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #8 ケネディ政権（１９６０年代前半）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_9j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #8 ケネディ政権（１９６０年代前半）（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_9c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #9 ジョンソン政権（１９６０年代後半）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_10j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #9 ジョンソン政権（１９６０年代後半）（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_10c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #10 ニクソン政権（1960年代末～1970年代前半）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_11j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #10 ニクソン政権（1960年代末～1970年代前半）（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_11c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #11 本講義の総括'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_12j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: #11 本講義の総括（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_12c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: 冷戦後の世界秩序ー二つの主要な議論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_13j.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+- name: '講義資料: 冷戦後の世界秩序ー二つの主要な議論（中国語）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_oubeikeizaishi_13c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/34/
+extensions:
+  faculty: 経済学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: hokudai-fossilmystery-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/fossilmystery-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! 化石に秘められたミステリー ～恐竜からのタイムカプセル～ （2010）
+description:
+  ja: 化石から恐竜の姿をどのように読み取るかを起点に、恐竜の誕生、進化、絶滅を扱う講義である。担当の小林快次はアラスカやアルゼンチンで発掘調査を行っており、講義ではその調査経験も背景に恐竜の謎を探る。
+quotedDescription:
+  text:
+    ja: 生きている恐竜を見たことがある人は、だれもいません。研究者はその姿を、発掘された化石から想像してきました。大きな体に鋭い歯、低い声で吠えながら、ドスンドスンとものすごい足音で歩いて行く・・・みなさんはどんな恐竜の姿を想像しますか？今回のゲストは、アラスカやアルゼンチンで実際に発掘調査を行っている小林快次さんです。現在開催されている恐竜の企画展、『アラスカの恐竜』（北海道大学博物館）に関わっておられる恐竜のスペシャリストです。恐竜はいったいどのように誕生して、どんな進化をし、そしてなぜ姿を消したのか。今回はそんな恐竜のひみつを探ってみます。大昔の地球で、今の人類と同じように世界を支配していた恐竜。そんな恐竜たちの時代に、小林さんと一緒に思いをはせてみませんか。
+  source: https://ocw.hokudai.ac.jp/lecture/fossilmystery-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 小林 快次
+  affiliation:
+    name: 北海道大学総合博物館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

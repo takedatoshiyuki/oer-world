@@ -1,0 +1,92 @@
+slug: utokyo-series-yqgixmctxjmu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=yQgIxmcTxjMu
+type:
+- LearningResource
+- Course
+name:
+  ja: 先端アートデザイン学
+description:
+  ja: この講義は、先端アートデザイン分野を軸に、自然環境や感性、人の視座から科学技術を捉え直す内容を扱う。アート・デザインの各分野で活躍する専門家を招き、学生とともにこれからの未来について議論する。
+quotedDescription:
+  text:
+    ja: 複雑化し動的に変化する現代の社会では、科学的・論理的な手段、最適な解を求める手段だけでは解決できない課題が次々に生まれている。多様な人からなる複雑な社会では、より柔軟な多様性ある解を求めることが重要である。本学の先端アートデザイン分野では、自然環境やそこで培われる感性に立ち戻り、人本来の視座から感性を介して科学技術を見直し、持続的なインクルーシブ社会の創造のための日本オリジナルな科学技術・アート・デザインを世界に発信して行くことを目指している。本講義では、アート・デザインの各分野において世界の第一線で活躍するプロフェッショナルをお招きし、これからの未来について学生と共に議論して頂く。
+  source: https://ch.u-tokyo.ac.jp/series/?id=yQgIxmcTxjMu
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 神崎 亮平
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 志信
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 近藤 薫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 隈 研吾
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 杉山 正和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長屋 明浩
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 添田 隆昭
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山田 和樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+- engineering
+- education
+keywords:
+- 文化・芸術・文芸
+- ロボット・技術
+- 都市・建築
+- エネルギー・資源
+- 言語・思想
+- 歴史
+- 教育
+- アート
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

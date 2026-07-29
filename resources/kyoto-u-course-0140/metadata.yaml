@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0140
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/140/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第60回人環国際交流セミナー “In Praise of Light and Shadows”
+description:
+  ja: 中世の光学からルネサンスの遠近法への展開を手がかりに、表象にもとづく知識の考え方を扱う講義である。さらに、ライプニッツの逆遠近法と「影の教説」を取り上げ、視覚的形式の意味を西洋思想と東洋思想の両方に照らして考える。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Transforming the Medieval “science of light” (geometric optics) into a “science of vision” (artificial
+      perspective), European Renaissance artists paved the way for a theory of knowledge grounded on representation.
+      For Leibniz, however, representation is only a passive copy, whereas knowledge draws correlations
+      between different things and therefore requires also a “doctrine of shadows”, which is drawn from
+      perspective once the light replaces the eye, the opaque replaces the object, and the shadow replaces
+      the projection. Thus, Leibniz’s reverse perspective might help clarify the significance of visual
+      forms in Western and Eastern thought.'
+  source: https://ocw.kyoto-u.ac.jp/course/140/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Rossella Lupacchini
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-31'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

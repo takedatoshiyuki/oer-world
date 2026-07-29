@@ -1,0 +1,87 @@
+slug: utokyo-series-nb8tlbxqgxtb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Nb8tLBxQgxtB
+type:
+- LearningResource
+- Course
+name:
+  ja: 古典は語りかける (学術俯瞰講義)
+description:
+  ja: 西洋文明の古典としての古代ギリシャ作品と、東アジアの伝統文化を支える中国古典、日本独自の古典作品をまとめて扱う。各作品の時代背景や、どのように読まれ受け継がれてきたかという流布・受容の歴史にも触れる。授業では現代日本語訳を用い、語学的な基礎学力がなくても理解できる形をとる。
+quotedDescription:
+  text:
+    ja: 'コーディネータ　小島 毅 (文学部)
+
+      ナビゲータ　谷口 洋 (教養学部)
+
+      　古典は、社会が受け継いできた文化的遺産です。古典を学習する本来の目的が大学入試で高得点を獲得するためでないことは、言うまでもありません。高等教育を受ける者が具えるべき教養として、代表的な古典作品について、それらの時代背景や流布・受容の歴史を知ったうえで、自分で実際に繙いてみることは欠かせません。この講義では、西洋文明における古典として古代ギリシャの作品と、東アジア共通の伝統文化を構成する中国古典、および日本独自の古典作品について、総合的に俯瞰します。学問の専門化・細分化が進み、また高度に発達した情報社会のなかで先人たちの智慧が忘却されがちな現在、あらためて古典の普遍的な価値を認識してもらうことを目的とします。この授業を通じて、受講者各自が古典というものの重要性を再認識し、自学自習してくれるようになることを強く希望します。なお、授業では現代日本語訳を利用するなどして、語学的な基礎学力がなくても理解できるようにします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Nb8tLBxQgxtB
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小島 毅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 谷口 洋
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 葛西 康徳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 納富 信留
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 克己
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 黒住 真
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 言語・思想
+- 文化・芸術・文芸
+- 歴史
+- 古典
+- 文学
+- 思想
+- 哲学
+- 正義
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

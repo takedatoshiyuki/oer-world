@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0101
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/101/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済学部オープンキャンパス, 2013
+description:
+  ja: 京都大学経済学部による2013年のオープンキャンパス関連の講義で、坂出 健と遊喜 一洋が担当する。開講日は2013-08-08で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 遊喜 一洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-08-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

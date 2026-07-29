@@ -1,0 +1,93 @@
+slug: utokyo-series-mda2vk2sbjfv
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Mda2Vk2SbjfV
+type:
+- LearningResource
+- Course
+name:
+  ja: IT ASIA 2014 - Surviving Cancer in Asia
+description:
+  ja: この講義は、グローバル化するアジアで増加するがんを軸に、その要因や患者の生存後の長期的な治療・ケア、医療と福祉をめぐる政策課題を扱う。あわせて、抗がん剤開発や地域協力のあり方を取り上げ、アジア各地の現状と課題を複数の専門的視点から考察する。外部講師を招くオムニバス形式で進める。
+quotedDescription:
+  text:
+    ja: 'Changes in the disease structure in a globalizing Asia are contributing to a rapid increase in
+      cancer in the region. Cancer is a complex disease that is deeply related to various factors, including
+      genetic predisposition, living environment and lifestyle customs. Cancer represents a grave and
+      common challenge in Asia, where social structures are undergoing significant transformations in
+      all aspects, including in the economy, social security and also in family relationships. What is
+      more, the common challenge of cancer is revealing contemporary issues for society as a whole in
+      Asia. Advances in medicine mean that the number of people surviving cancer in Asia is also increasing
+      and this survivorship and the need for long-term treatment and care is impacting the welfare of
+      patients and their families. Both medical and welfare policies cover areas in which it is not possible
+      to make judgments on the basis of economic considerations alone, given the ethical dimensions of
+      such policies. The countries of Asia are now facing a period of transition in their social structures
+      as societies continue to age, and the very real issue of striking a balance between limited economic
+      and social resources on the one hand and what is acceptable in ethical terms on the other hand is
+      an extremely difficult one to address. Given the difficulties in controlling it cancer cannot be
+      overcome based on global health-based logic, which has functioned to date in countermeasures against
+      communicable diseases. Furthermore, as the economy globalizes the market for anti-cancer drugs is
+      expanding rapidly. The status of drug development itself is an issue that encompasses complex and
+      dynamic factors, with national interests at stake. As such, the structure as it currently stands
+      is not one that can be readily resolved by referring to conventional theories of medical sociology.
+
+      This lecture series will be held in an omnibus style, with external lecturers being invited to talk
+      about cancer in Asia from their various expert perspectives. The lecturers will delve into issues
+      such as the characteristics of cancer in Asia and the various approaches for regional cooperation
+      that will help to overcome it, examining the current status in the Asian region and the various
+      challenges that are currently being faced.'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Mda2Vk2SbjfV
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 赤座 英之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉見 俊哉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 園田 茂人
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+- arts_humanities
+- social_sciences
+keywords:
+- 生命・医療
+- 文化・芸術・文芸
+- 人口・社会問題
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 学際情報学府
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

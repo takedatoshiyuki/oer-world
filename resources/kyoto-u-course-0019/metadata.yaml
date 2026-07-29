@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0019
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/19/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育課程論Ｉ
+description:
+  ja: 京都大学教育学部で2014年に開講された「教育課程論Ｉ」の講義資料を収録する。公開教材には、講義で用いたプレゼンテーション資料と、中学校社会科の実践例を扱う資料が含まれる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義使用のプレゼンテーション資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_kyouikukateiron-1_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/19/
+- name: '講義資料: 資料１　中学校社会科の実践例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_kyouikukateiron-1_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/19/
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

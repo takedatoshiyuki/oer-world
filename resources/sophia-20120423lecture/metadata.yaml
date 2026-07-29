@@ -1,0 +1,54 @@
+slug: sophia-20120423lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120423lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 実学 国際貢献論 第2回：外交官から見た国際貢献論―新しい国際関係の構築・情報の活用
+description:
+  ja: 上智大学が2012年に主催した連続講演会「実学 国際貢献論」の第2回で、外交官の視点から国際貢献を扱う。新しい国際関係の構築と情報の活用を主題とし、全11回の講演会の一部として実施された。
+quotedDescription:
+  text:
+    ja: "外交官から見た国際貢献論―新しい国際関係の構築・情報の活用 \n このたび本学では、『生命の碧い星』実行委員会（委員長：鳩山由紀夫 元内閣総理大臣世界平和と地球環境保護の実現、世界各国の青少年の友好関係を築くことを目的とした活動を行う）の協力を得て、「実学\
+      \ 国際貢献論」と題して連続講演会（全11回）を行うこととなりました。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120423lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 苅田 吉夫(元宮内庁式部官長
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 元ニューヨーク総領事(大使))
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2012/04/23
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

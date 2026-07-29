@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0347
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/347/
+type:
+- LearningResource
+- Course
+name:
+  ja: 食料・環境政策学
+description:
+  ja: 食料問題、環境ガバナンス、農地取得政策など、食料と農業をめぐる政策テーマを順に扱う講義資料である。オリエンテーションに続いて、第1回から第7回までの講義資料が公開されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 武部 隆
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: オリエンテーション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+- name: '講義資料: 第1回 農業本質論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+- name: '講義資料: 第2回 食料問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+- name: '講義資料: 第3回 環境ガバナンス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+- name: '講義資料: 第4回 農地取得政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+- name: '講義資料: 第5回 農業法人政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+- name: '講義資料: 第6回 農業担い手政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+- name: '講義資料: 第7回 農業と環境政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_shokuryou-kankyouseisakugaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/347/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

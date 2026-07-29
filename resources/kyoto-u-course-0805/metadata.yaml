@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0805
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/805/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義『「山」は「森」－「森・里・海のつながり」の物語り』
+description:
+  ja: 日本での「山」と「森」の関係を手がかりに、森が川を介して里や海へつながる流れを扱う。あわせて、そのつながりの中で人びとの暮らしがどのように成り立つかを考える内容である。
+quotedDescription:
+  text:
+    ja: 日本で山と言えば、森のこと。山持ちさんとは、ものすごい力持ちではなく、森林所有者のこと。「あとは野となれ山となれ」とは、原っぱが盛り上がって山になるのではなく、放っておけば野原や森になること。山は森です。森は川を通じて里、そして海につながり、そのつながりの中で人びとは暮らしています。このつながりは、何かを物語っているのだろうと思います。そのお話しを聞いてみませんか。もちろん、全部ではないのですが。
+  source: https://ocw.kyoto-u.ac.jp/course/805/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

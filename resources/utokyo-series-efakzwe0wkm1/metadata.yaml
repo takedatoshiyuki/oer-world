@@ -1,0 +1,79 @@
+slug: utokyo-series-efakzwe0wkm1
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=EFaKzWe0wKM1
+type:
+- LearningResource
+- Course
+name:
+  ja: 発達保育実践政策学センター公開シンポジウム
+description:
+  ja: 2015年度にCedepが実施した2つの大規模調査の結果を手がかりに、日本の保育の実態を読み解く公開シンポジウムである。現場の声を踏まえ、保育・幼児教育の質の保証と向上に向けた今後の方策を検討する。
+quotedDescription:
+  text:
+    ja: "東京大学大学院教育学研究科附属・発達保育実践政策学センター（Cedep）では、子ども・子育て支援新制度施行元年である2015年度に2つの大規模調査を実施しました。この公開シンポジウムでは、調査で明らかになった「現場の声」をもとに日本の保育の実態をひもときながら、保育・幼児教育の質の保証と向上にむけた「次の布石」を探っていきます。\
+      \ \n  開催報告は     こちら   \n  ★あなたのシェアが、ほかの誰かの学びに繋がるか…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=EFaKzWe0wKM1
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 南風原 朝和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 秋田 喜代美
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野澤 祥子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 淀川 裕美
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 翠
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 遠藤 利彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 関 智弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村上 祐介
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

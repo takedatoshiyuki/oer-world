@@ -1,0 +1,80 @@
+slug: hokudai-scienceforum-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/scienceforum-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 第11回創成シンポジウム 石狩から電力革命 – 目指せ！送電ロス・ゼロの世界 – （2013）
+description:
+  ja: 北海道大学創成研究機構が「次世代エネルギー」をテーマに開催したシンポジウムである。平成25年1月に経済産業省の委託を受けて始まった「石狩超電導直流送電プロジェクト」を中心に、産・学・官の立場からの講演とパネルディスカッションを扱う。
+quotedDescription:
+  text:
+    ja: '北海道大学創成研究機構ではこのたび、「次世代エネルギー」をテーマにシンポジウムを開催致します。
+
+      講演者達が産・学・官それぞれの立場で平成25年1月に経済産業省の委託（約40億円）を受けスタートした「石狩超電導直流送電プロジェクト」を中心にお話致します。テレビなどでお馴染みの佐藤のりゆき氏のナビゲートによるパネルディスカッションもお届けし、エネルギーを通して北海道の未来について考えます。'
+  source: https://ocw.hokudai.ac.jp/lecture/scienceforum-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 川端 和重
+  affiliation:
+    name: 北海道大学理事・副学長
+- type: Person
+  name: 三澤 弘明
+  affiliation:
+    name: 北海道大学創成研究機構特定研究部門／電子科学研究所
+- type: Person
+  name: 山口 作太郎
+  affiliation:
+    name: 中部大学工学部／超伝導・持続可能エネルギー研究センター
+- type: Person
+  name: 田中 邦裕
+  affiliation:
+    name: さくらインターネット株式会社
+- type: Person
+  name: 田岡 克介
+  affiliation:
+    name: 石狩市長
+- type: Person
+  name: 佐藤 のりゆき
+  affiliation:
+    name: キャスター／創成研究機構
+- type: Person
+  name: 吉見 宏
+  affiliation:
+    name: 北海道大学大学院経済学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

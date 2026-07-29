@@ -1,0 +1,88 @@
+slug: kyoto-u-course-0149
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/149/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2014年度 E.FORUM 教育研究セミナーⅡ「高大におけるカリキュラム改革を考える－探究力育成の視点から－」
+description:
+  ja: 高校と大学の教育接続をめぐる課題を背景に、高大それぞれで進むカリキュラム改革を扱う。高校での探究的な学習や大学での教育の質保証を踏まえ、探究力を育成するための改革のあり方を検討する内容である。
+quotedDescription:
+  text:
+    ja: '趣旨
+
+      大学全入時代を迎えて高校と大学の教育接続が改めて問われている現在、高大においては様々なカリキュラム改革が進んでいます。高校、特にスーパーサイエンスハイスクール（SSH）やスーパーグローバルハイスクール（SGH）では探究的な学習が重視されています。一方、大学では、「グローバル人材」の養成が強調され、教育の質保証が問われています。
+
+      質の高い教養や専門性と結びつくような探究力を高校と大学の双方で保障していくためには、どのようなカリキュラム改革を構想すれば良いのか、高校教員と大学教員が集い、考えたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/149/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北野 正雄（京都大学教育・情報・評価担当理事
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 副学長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 寺﨑 昌男（東京大学名誉教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 立教学院本部調査役）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松下 佳代
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 稲垣 恭子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松井 孝夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中村 征樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-12-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 案内チラシ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_E.FORUM教育研究セミナーⅡ.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/149/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,56 @@
+slug: mdsc-mdsc8
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc8
+type:
+- LearningResource
+- Course
+name:
+  ja: 人口動態調査_人口動態統計_確定数_総覧_年次_2016年
+description:
+  ja: 各都道府県の人口動態に関する件数データを扱う教材である。出生、死亡、婚姻、離婚などの項目を含み、2016年の確定数を対象にする。
+quotedDescription:
+  text:
+    ja: "人口動態調査_人口動態統計_確定数_総覧_年次_2016年\r\n各都道府県の人口動態に関する、出生、死亡、婚姻、離婚等の件数データ。(DATA.GO.JPの厚労省提供データより選定）"
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc8
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc8
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- health_welfare
+keywords:
+- サービス業
+- 不動産業-物品賃貸業
+- 医療・福祉
+- 卸売業・小売業
+- 宿泊業・飲食サービス業
+- 教育・学習支援業
+- 生活関連サービス業・娯楽業
+- 複合サービス事業
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

@@ -1,0 +1,60 @@
+slug: hokudai-faculty09cationsysteminfinland1-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty09cationsysteminfinland1-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 公開研究会 フィンランドの教えない教育 第2回「物語（ナラティブ）としての学び」（2009）
+description:
+  ja: 北海道大学総合博物館で開かれた公開研究会の映像資料を収録する。フィンランドの教育をめぐる研究会の一回として、「物語（ナラティブ）としての学び」を扱う内容である。開催日時と会場の情報も含まれる。
+quotedDescription:
+  text:
+    ja: '北海道大学総合博物館 で開催された「公開研究会 フィンランドの教えない教育 フィンランドで先生になるために」の映像資料をご覧いただけます。
+
+      開催情報
+
+      日時 2010年1月23日
+
+      場所 北海道大学総合博物館'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty09cationsysteminfinland1-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 池田 文人
+  affiliation:
+    name: 北海道大学高等教育推進機構脳科学研究教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,51 @@
+slug: sophia-2014sea10300
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/2014sea10300/
+type:
+- LearningResource
+- Course
+name:
+  ja: 機能創造理工学２／ENGINEERING AND APPLIED SCIENCES 2
+description:
+  ja: 春学期の基礎物理学で学ぶ力学の基礎を土台に、熱力学と電磁気学の基礎を扱う講義である。熱力学では第1法則、第2法則と熱機関の効率を学び、後半では電磁気学の基礎を基礎から学ぶ。
+quotedDescription:
+  text:
+    ja: 春学期の基礎物理学において，力学を通して学んだ物理学の基礎概念を生かし，熱力学と電磁気学の基礎を学ぶ。熱力学においては熱力学の第１法則，第２法則を学んだ後，熱機関の効率を講義する。これらはエネルギー問題の議論に書かせない概念なので基礎から理解できるようにする。後半は現代の文明社会を理解する上で書かせない電磁気学を基礎から学ぶ。
+  source: https://ocw.cc.sophia.ac.jp/lecture/2014sea10300/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大槻 東巳
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理工学部 機能創造理工学科
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

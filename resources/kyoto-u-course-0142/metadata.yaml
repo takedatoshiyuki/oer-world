@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0142
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/142/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教員×学生交流会2014
+description:
+  ja: 京都大学が2014年に開講した、日本語の教材である。教員と学生の交流会を扱う内容で、開講部局はその他となっている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

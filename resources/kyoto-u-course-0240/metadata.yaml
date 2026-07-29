@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0240
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/240/
+type:
+- LearningResource
+- Course
+name:
+  ja: 気仙沼舞根プロジェクト・シンポジウム「地震と津波に学び“海とともに生きる”未来創生」
+description:
+  ja: 地震と津波を手がかりに、海とともに生きる未来を考えるシンポジウムである。気仙沼舞根プロジェクトに関する内容で、舞根湾生物環境調査グループや有明海再生研究会、NPO法人森は海の恋人が主催し、京都大学フィールド科学教育研究センターなどが共催する。
+quotedDescription:
+  text:
+    ja: '主催：舞根湾生物環境調査グループ・有明海再生研究会・NPO法人森は海の恋人
+
+      共催：財団法人国際高等研究所・京都大学フィールド科学教育研究センター・三井物産株式会社
+
+       
+
+      詳細（京都大学フィールド科学教育研究センター）http://fserc.kyoto-u.ac.jp/wp/blog/archives/9210'
+  source: https://ocw.kyoto-u.ac.jp/course/240/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-10-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

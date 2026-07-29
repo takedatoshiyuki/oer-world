@@ -1,0 +1,54 @@
+slug: kyoto-u-course-1110
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1110/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会経済学入門
+description:
+  ja: 国際政治経済学の基本的な概念を学び、国際関係の諸理論を手がかりに国際経済・政治・社会を分析する内容を扱う。扱う範囲は、概念の学習から理論に基づく分析まで含む。
+quotedDescription:
+  text:
+    ja: '① 国際政治経済学の基本的な概念を学習します。
+
+      ② 国際関係の諸理論に基づいて国際経済・政治・社会を分析できることができるようになります。'
+  source: https://ocw.kyoto-u.ac.jp/course/1110/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-10-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 経済学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

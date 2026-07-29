@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0523
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/523/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成28年度（第20回）京大病院臨床懇話会
+description:
+  ja: 京都大学の医学部附属病院が提供する「平成28年度（第20回）京大病院臨床懇話会」を収録した講義である。湊谷謙司、平家俊男、篠塚健、近藤英治、大鶴繁が担当し、日本語で開講されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 湊谷 謙司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 平家 俊男（副病院長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小児科 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 篠塚 健
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 近藤 英治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大鶴 繁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-02-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

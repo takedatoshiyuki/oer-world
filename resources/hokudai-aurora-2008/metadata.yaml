@@ -1,0 +1,54 @@
+slug: hokudai-aurora-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/aurora-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学プロフェッサー・ビジット 惑星オーロラから宇宙環境を探る（2008）
+description:
+  ja: 地球や木星などの惑星に見られるオーロラを手がかりに、その光の色の違いと大気の性質の関係を扱う。あわせて、オーロラ観測から星の大気と宇宙環境を読み取る見方を示す。
+quotedDescription:
+  text:
+    ja: 地球のオーロラは大気中の酸素や窒素が出す固有の色をしています。木星などにもオーロラが存在しますが、その光の色は地球と異なります。オーロラを観測することにより、その星の大気と宇宙環境を知ることができます。
+  source: https://ocw.hokudai.ac.jp/lecture/aurora-2008
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 渡部 重十
+  affiliation:
+    name: 北海道大学大学院理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

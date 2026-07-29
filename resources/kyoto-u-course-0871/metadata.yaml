@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0871
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/871/
+type:
+- LearningResource
+- Course
+name:
+  ja: 博物館レクチャーシリーズ 「大名家の事件録」
+description:
+  ja: 京都大学総合博物館が開講した、三宅正浩担当の講義である。「博物館レクチャーシリーズ」として実施され、講義名には「大名家の事件録」とある。使用言語は日本語で、開講日は2009-11-14である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 三宅 正浩
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-11-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

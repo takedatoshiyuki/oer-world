@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0716
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/716/
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Algebras of Chiral Differential Operators
+description:
+  ja: 通常の微分作用素代数とその表現論への応用から始め、Beilinson-Drinfeld の枠組みにある Lie* 代数、coisson 代数、chiral 代数へ進む講義である。そこで vertex
+    algebra 理論とのつながりを示したうえで、chiral differential operators の代数とその応用を扱う。
+quotedDescription:
+  text:
+    ja: 'In these lectures we shall cover the following.
+
+      (1) Ordinary algebras of differential operators. Applications to representation theory.
+
+      (2) The Beilinson-Drinfeld categories: Lie* algebras, coisson algebras, chiral algebras. The purpose
+      of this part will be to establish a link to the conventional vertex algebra theory.
+
+      (3) Algebras of chiral differential operators.
+
+      (4) Applications.'
+  source: https://ocw.kyoto-u.ac.jp/course/716/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Fedor Malikov（Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0903
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/903/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第15回知的コラボの会「指導要録改訂史にみる教育評価観の変遷」
+description:
+  ja: 指導要録を手がかりに、戦後の公的な教育評価や学力観がどのように位置づけられてきたかを扱う講義である。改訂の歴史を追いながら、教育評価の考え方の変化を考察する。公開教材としてレジュメと配布資料がある。
+quotedDescription:
+  text:
+    ja: '概要
+
+      一般に公表されない指導要録は通知表や内申書の原簿としての位置づけを持っていて、戦後の公的な教育評価の考え方や学力観を集中して表しています。その隠れた改訂の歴史を繙くことで、いかに教育評価の考え方が変化したのかを考えます。'
+  source: https://ocw.kyoto-u.ac.jp/course/903/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 田中 耕治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: レジュメ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_ChitekiCollabo15_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/903/
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_ChitekiCollabo15_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/903/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

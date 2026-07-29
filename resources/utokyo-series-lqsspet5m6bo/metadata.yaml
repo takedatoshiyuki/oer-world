@@ -1,0 +1,87 @@
+slug: utokyo-series-lqsspet5m6bo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=LQsSpEt5m6bO
+type:
+- LearningResource
+- Course
+name:
+  ja: 物質のはじまりとはたらき ―フェムト、ナノ、エクサの世界 (学術俯瞰講義)
+description:
+  ja: 物質がどのように生まれたのかという問いから出発し、物質の最小単位や宇宙のはじまりまでを扱う講義である。さらに、原子や電子が集まって生じる物質の多様性や先端デバイスのはたらきも取り上げ、極微から宇宙空間までの現象を見通す。物理、化学、電子工学の第一人者が講義する。
+quotedDescription:
+  text:
+    ja: 'コーディネータ：藤森 淳
+
+      ナビゲータ：堀田 知佐
+
+      我々の世界が物質でできているのは周知の事実であるが、では、なぜどのようにして物質はできたのかという疑問を持ち追求していくと、物質の最小単位や宇宙のはじまりを探求する果てしない旅に出ることになる。そこには、とてつもなく高いエネルギーや短い時間の現象が支配する、極微から宇宙空間まで広がる我々の直観を越えたダイナミックな世界がある。一方、我々の周りで見られる様々な物質の多様性や先端デバイスの機能は、
+
+      巨視的な数の原子や電子が集まって個々の粒子にはない新たなはたらきを生み出す創発現象である。
+
+      本講義では、このような広く限りない魅力にあふれた物質科学を、物理、化学、電子工学の第一人者が、さらに広い視野からわかりやすく解き明かす。
+
+      理科I類に限らない広い分野の理系学生に加え、多くの文系学生の聴講を期待する。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=LQsSpEt5m6bO
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 須藤 靖
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅井 祥仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 雅明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉信 淳
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- arts_humanities
+- engineering
+keywords:
+- 宇宙・物理
+- 言語・思想
+- 数理
+- ロボット・技術
+- エネルギー・資源
+- 宇宙
+- ビッグバン
+- マルチバース
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

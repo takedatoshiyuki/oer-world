@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0016
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/16/
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語教育政策論
+description:
+  ja: 京都大学の総合人間学部で2012年前期に開講された講義で、言語教育政策を扱う。西山教行とClaude Germainが担当し、日本語で行われる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Claude Germain
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+- education
+keywords:
+- 語学
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 総合人間学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

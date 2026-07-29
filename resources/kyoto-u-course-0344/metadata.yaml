@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0344
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/344/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京大おもろトーク番外編：おもちゃモデル
+description:
+  ja: 京都の歴史や文化と、そこに取り入れられてきた新しい動きとの関係を扱う。あわせて、アートが伝統と現代をつなぐ役割や、京都大学がアートの発想を取り入れて変わろうとする試みを取り上げる。
+quotedDescription:
+  text:
+    ja: 長い歴史と文化を持つ京都は、同時に常に最先端の動きを取り入れてきた町でもあります。アートはその伝統とモダンをつなぎ、新しい動きを創る力を持っています。いま京都大学はアートの発想を取り入れて、新しく生まれ変わろうとしています。京大おもろトークに参加して、その試みを目撃してみませんか？
+  source: https://ocw.kyoto-u.ac.jp/course/344/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 時枝 正
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 國府 寛司（理学研究科 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 数学ユニット長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 土佐 尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-02-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

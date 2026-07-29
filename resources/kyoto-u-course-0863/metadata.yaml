@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0863
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/863/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学国際文化フォーラム2017 未来創成学国際研究ユニット企画「病と雑音の香り」
+description:
+  ja: 音や雑音に含まれる多様な響きと、病をどう捉えるかというテーマを扱う企画である。良い・悪い、正常・異常といった区分の前にある「質」を考える流れの中で、音の体験やアートと病のアナロジーが示される。
+quotedDescription:
+  text:
+    ja: '趣旨
+
+      「きれいな音だけじゃなくて、『雑音』の中にも様々な響きがあるの。」と、ヴァイオリニストの森悠子は言う。病（やまい）にも様々な響きがあるに違いない。ピカソはキュビズムを「それは手に取ることができる現実ではなく、『香り』のようなものです」と、説明した。病にも手に取ってみることのできない香りがある。
+
+      良い・悪い、正常・異常というレッテルを貼る以前の「質」を扱うことに関して、自然科学は、まだまだ芸術の世界の足元にも至っていないのではないでしょうか。音色に真剣に向かい合った時、そこに「機能障害」ではない病の捉え方が可能なのかもしれません。今回は、音を追求し続けるツトム・ヤマシタさん、森悠子さん、滋賀医科大学学長の塩田浩平さん、そして、世界的に活躍する新進のヴァイオリニストであり医師でもある石上真由子さんをお迎えしました。とにかくまず、音を体験してみましょう。話はそれからです。アートと病のアナロジーの新たな世界を共感してみませんか？
+
+      司会： 村瀬 雅俊（京都大学）
+
+      第一テーブル
+
+      ツトム・ヤマシタ（音楽家）、森 悠子（ヴァイオリン奏者）、塩田 浩平（滋賀医科大学）、石上 真由子（ヴァイオリン奏者）
+
+      第二テーブル
+
+      田辺 明生（東京大学）、宮川 繁（MIT、東京大学）、八木 匡（同志社大学）
+
+      第三テーブル
+
+      広瀬 浩二郎（国立民族学博物館）、辰巳 明久（京都市立芸術大学）
+
+      参加者
+
+      富田 直秀（京都大学）、 嵩倉 美帆（京都大学）、桑田 知明（京都市立芸術大学）、早川 龍（京都大学理学研究科）'
+  source: https://ocw.kyoto-u.ac.jp/course/863/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-10-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

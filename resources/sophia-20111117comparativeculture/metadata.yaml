@@ -1,0 +1,68 @@
+slug: sophia-20111117comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111117comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: History Wars:Reconciliation through Textbooks?
+description:
+  ja: この教材は、歴史の解釈をめぐる対立を「history wars」として捉え、その争点が国内外の歴史認識にどう現れるかを扱う。ヨーロッパ、近東・中東、東アジアの事例を通して、教科書が対立を生む要因にも、調整や妥協の手段にもなりうることを示す。あわせて、教科書改訂に関する二国間・多国間の取り組みも取り上げる。
+quotedDescription:
+  text:
+    ja: 'Coming to terms with the past is an ongoing conflict about the interpretation of history. Such
+      conflicts are commonly called history wars. They take place at a national level as well as between
+      various countries. They are essentially differences of opinion about the development of national
+      traditions, the maintenance of legitimation and the construction of identity. History wars are not
+      about facts but about the meaning of historical phenomena. Debates of this kind are typically not
+      confined to their specialist field but meet with broad public resonance and are often the subject
+      of vehement debate. Textbooks are highly involved in these debates since they can initiate or illustrate
+      ethnic, cultural, religious or political conflicts and, at the same time, also serve as a means
+      of conflict resolution and compromise. The goal of this lecture is two-folded: First, it will address
+      some of these ongoing history wars in various parts of the world – focusing on Europe, the Near
+      and Middle East, and East Asia – and show in which way they shape the public debate on history.
+      Second, it will ask which role textbooks play in mediating these conflicts. In choosing a few examples
+      of bi- and multilateral activities in textbook revision I will stress the achievements and challenges
+      of such endeavours.'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111117comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Organization
+  name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 111117comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111117comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111117comparativeculture/
+- name: '講義資料: 111117comparativeculture_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111117comparativeculture_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111117comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2011/11/17
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

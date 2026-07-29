@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0864
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/864/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学未来創生学国際研究ユニット 国際ワークショップ “Exploring A Unified View Beyond Complexity”
+description:
+  ja: 自然に現れる創発的な問題と、それに対する対処の関係を手がかりに、自己相似と自己差異を組み合わせた考え方を扱う国際ワークショップである。時空間スケールに依らず成り立つ自己整合的な原理から、複雑なダイナミクスの背後にある単純な原理を探る。
+quotedDescription:
+  text:
+    ja: '概要
+
+      Nature is full of emergent problems. Beyond our understandings, our efforts to solve these problems
+      often cause additional problems. We should need revolutionary paradigm shifts in our practical approach
+      from solving and approaching problems already appeared in the past to predicting and protecting
+      the emergence of problems in the future. For this purpose, we should realize that there must be
+      the same driving forces that generate the emerging problems on the one hand, and that allow us predict
+      the problems which will appear in the future on the other hand. The same forces would be thus the
+      double-edged sword: wonders and benefits.
+
+       
+
+      The present workshop would, therefore, consider paradoxical way of thinking based on self-similarity
+      and self-difference, often considered incompatible with each other. Using such a paradoxical way
+      of thinking, we would like to explore simple principles beyond complexity. Actually, simple principles
+      of complex dynamics could be deduced from the demand that underlying principles should be self-consistent,
+      regardless of the space-time scale with which we are concerned.'
+  source: https://ocw.kyoto-u.ac.jp/course/864/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-02-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

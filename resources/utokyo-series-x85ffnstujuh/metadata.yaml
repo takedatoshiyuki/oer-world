@@ -1,0 +1,76 @@
+slug: utokyo-series-x85ffnstujuh
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=x85fFNStUjUH
+type:
+- LearningResource
+- Course
+name:
+  ja: URAセミナー
+description:
+  ja: 東京大学のURAセミナーで、第1回リサーチ・アドミニストレーション・セミナーの内容を扱う。国際研究ネットワークの構築と欧州研究資金の獲得をテーマに、国内外のスピーカーの情報を踏まえて国際連携の展望や課題を考える。あわせて、東京大学における国際共同研究の重要性や国際性、研究力強化に関する項目を含む。
+quotedDescription:
+  text:
+    ja: "第1回リサーチ・アドミニストレーション・セミナーでは、「国際研究ネットワーク構築と欧州研究資金獲得に向けて」と題し、国内外からお招きしたスピーカーの情報提供をもとに国際連携の展望や課題について考えました。\
+      \ \n \n  「東京大学における国際共同研究の重要性について」  \n  01:45 東京大学の目指す国際性  \n  07:30 東京大学の達成目標  \n  09:28 国際的研究力の強化のために\
+      \ \n \n  ★     開催報告および資料（東大URA…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=x85fFNStUjUH
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 羽田 正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 市岡 利康
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: マチュー・ピー
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: ナタリー・フランセス
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: マウリツィオ・グロ
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+- business_law
+keywords:
+- 国際関係
+- 教育
+- 政治・法律
+- ロボット・技術
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0250
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/250/
+type:
+- LearningResource
+- Course
+name:
+  ja: ワークショップ “Expand your borders, experience Virtual Exchange!”
+description:
+  ja: このワークショップは、オンライン講義を用いたVirtual Exchange Programの仕組みと、それを通じた学びのあり方を扱う。海外の大学が提供する講義を受講し、一定の基準を満たすことで自大学で単位認定を受ける仕組みについても触れながら、ヴァーチャルな留学の可能性を議論する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      教育へ情報通信技術（ICT）を活用することが普及しつつある昨今、高等教育機関の正規課程内でオンライン教育が重要な役割を担いつつあります。それに伴い、オンライン講義を利用した単位・学位認定の取り組みが活発になっています。
+
+      「Virtual Exchange Program」は、世界のトップ大学が加盟するグローバルな教育プログラムです。自国にいながら、外国にある他大学提供のオンライン講義を受講し、試験に合格するなどの一定の基準を満たすことで、自大学での単位認定を受けられるという仕組みになっています。
+
+      本ワークショップでは、ワーヘニンゲン大学（オランダ）でオープン＆オンライン教育チームの一員として Virtual Exchange Program の運営に携わっている Iris van Hal
+      氏を迎え、オンライン講義を用いたヴァーチャルな留学（Virtual Exchange）を通じた新しい学びの可能性について議論します。'
+  source: https://ocw.kyoto-u.ac.jp/course/250/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: MSc Student
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-03-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

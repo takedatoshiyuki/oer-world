@@ -1,0 +1,80 @@
+slug: utokyo-series-p9mb0j9fdz6b
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=P9mB0j9fdZ6b
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「力＜チカラ＞」
+description:
+  ja: この公開講座は、「力」を手がかりに、分子の運動から身体のはたらき、人と人との交渉、国際紛争までを扱う。現実世界を成り立たせるさまざまな力の関係に目を向ける内容である。
+quotedDescription:
+  text:
+    ja: 「知は力なり」とは、十六世紀末にイングランドの哲学者、フランシス・ベーコンが口にした言葉です。この発言から四百年がすぎたいま、知の担い手である大学ほど、世に流布するイメージでは、「力」と遠いものはありません。
+      しかし、この「力」とはいったい何でしょうか。分子の運動から、身体のはたらき、人と人との交渉、さらには国際紛争まで、この現実世界は、すべての場面で、さまざまな「力」の交錯によってなりたっていま…
+  source: https://ch.u-tokyo.ac.jp/series/?id=P9mB0j9fdZ6b
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 井上 正仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 堀井 秀之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤田 誠
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石井 直方
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野崎 大地
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川口 健一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 太田 勝造
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 酒井 英行
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,87 @@
+slug: kyoto-u-course-0977
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/977/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際教育研究フロンティアC, 2016
+description:
+  ja: この講義は、映画を教育を考えるための媒体として取り上げ、映画テクストの分析を通じて経験や教育の理解を探る。あわせて、デジタル化や会話の変化など現代社会の条件との関係や、Stanley Cavell
+    と Gilles Deleuze の思想に基づく考察を扱う。授業の進め方そのものも、教授法を考える契機として組み込まれている。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      This is an intensive course “The cultivation of political emotions,” jointly organized by the Graduate
+      School of Education, Kyoto University and UCL Institute of Education.
+
+      Thinking about education through film
+
+      This course will follow ground-breaking work in film as a medium of philosophical enquiry into education.
+      It will examine film texts to explore the ways in which film as a medium aids the understanding
+      of experience and education in what has been called a post-literate, image-driven society. It will
+      explore the potential of film analysis in relation to such features of contemporary society as digitization,
+      textuality, and changing patterns of conversation. The course has relevance not only to the understanding
+      of the changing world in which young people grow up but to questions of teaching and learning through
+      film. In particular, it builds on work undertaken by the UCL Institute of Education-Katholieke Universiteit
+      Leuven Philosophy of Education Research Colloquium. Over the past ten years, this colloquium has
+      researched education by means of film analysis in an innovative and highly productive way. This
+      work draws on the distinctive approaches of two contrasting philosophers: Stanley Cavell and Gilles
+      Deleuze. It thereby brings together different traditions of thought in a dynamic way. The processes
+      of teaching and learning adopted on the course are themselves occasions for reflections on pedagogy
+      and introduction to productive ways of teaching.'
+  source: https://ocw.kyoto-u.ac.jp/course/977/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Paul Standish（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: UCL Institute of Education）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Naoko Saito（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Graduate School of Education
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Kyoto University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-12-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

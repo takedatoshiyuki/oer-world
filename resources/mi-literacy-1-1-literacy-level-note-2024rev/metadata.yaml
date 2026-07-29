@@ -1,0 +1,50 @@
+slug: mi-literacy-1-1-literacy-level-note-2024rev
+mode: referenced
+externalUrl: https://www.mi.u-tokyo.ac.jp/consortium/pdf/1-1_literacy_level_note_2024rev.pdf
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会で起きている変化（東京大学・数理DS-AI教育 リテラシーレベル）
+description:
+  ja: 東京大学が担当する、数理・データサイエンス・AI教育のリテラシーレベルに属する講義である。2024年開講で、対象は「1-1. 社会で起きている変化」と示されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning.html
+  summary:
+    ja: 提供大学ごとに利用条件が定められている（コンソーシアムページの「利用条件」の各大学のリンク先を参照）。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+sourceCollection:
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+  url: https://www.mi.u-tokyo.ac.jp/consortium/
+datePublished: '2024'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- slide
+about:
+- ict
+keywords:
+- データサイエンス
+- リテラシーレベル
+- 1-1. 社会で起きている変化
+audience:
+- student
+- teacher
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 1-1. 社会で起きている変化
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。数理・データサイエンス・AI教育強化拠点コンソーシアムのモデルカリキュラム対応教材リストに基づく。datePublished
+    は動画は YouTube 公開年、スライドはファイル名または PDF 内部の作成年。description は gpt-5.4-mini が生成。
+  confidence: low

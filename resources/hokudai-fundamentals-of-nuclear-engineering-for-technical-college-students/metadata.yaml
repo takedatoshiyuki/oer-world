@@ -1,0 +1,64 @@
+slug: hokudai-fundamentals-of-nuclear-engineering-for-technical-college-students
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/fundamentals-of-nuclear-engineering-for-technical-college-students
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「高専生のための基礎原子力工学」
+description:
+  ja: 高専生向けの基礎原子力工学を扱う講義で、分離技術、PUREX法、新しい湿式再処理・核種分離法を取り上げる。あわせて、放射性廃棄物処分に関する化学分配係数と、原子力発電プラントや原子炉の臨界を扱う原子炉工学入門を含む。
+quotedDescription:
+  text:
+    ja: "高専生のための基礎原子力工学\n \n1. 分離技術の基礎（鈴木 達也・長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野）制限資料\n \n2. PUREX法（鈴木\
+      \ 達也・長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野）制限資料\n \n3. 新しい湿式再処理・核種分離法（鈴木 達也・長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野）制限資料\n\
+      \ \n4. 放射性廃棄物処分と化学　分配係数（太田 朋子・長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野）制限資料\n \n5. 原子炉工学入門 ?原子力発電プラントと原子炉の臨界（竹澤\
+      \ 宏樹・長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野）"
+  source: https://ocw.hokudai.ac.jp/lecture/fundamentals-of-nuclear-engineering-for-technical-college-students
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鈴木 達也
+  affiliation:
+    name: 長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野
+- type: Person
+  name: 太田 朋子
+  affiliation:
+    name: 長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野
+- type: Person
+  name: 竹澤 宏樹
+  affiliation:
+    name: 長岡技術科学大学大学院 工学研究科工学専攻 量子・原子力統合工学分野
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

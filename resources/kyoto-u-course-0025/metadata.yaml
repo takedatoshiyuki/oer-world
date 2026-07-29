@@ -1,0 +1,95 @@
+slug: kyoto-u-course-0025
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/25/
+type:
+- LearningResource
+- Course
+name:
+  ja: 認知心理学概論Ⅱ
+description:
+  ja: 人間の高次認知過程の基本的特性を、認知心理学と認知科学の主要な理論・モデル、実験データに基づいて扱う講義である。あわせて、教育への応用も検討し、講義資料には学習、知能、思考、言語、推論、批判的思考、意思決定などのテーマが含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      教員の講義とデモ実験とともに、学生の話題提供や問題提起、指定討論、リンク集の紹介をおこなう双方的な授業です。また、eLearningシステムmoodleを活用しています。
+
+      授業の紹介
+
+      人間の高次認知過程の基本的特性とそれをとらえる認知心理学、認知科学研究の主要な理論とモデルに関して、実験データに基づいて検討します。あわせて、教育における応用についても検討します。'
+  source: https://ocw.kyoto-u.ac.jp/course/25/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 楠見 孝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 序論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 学習'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 知能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 思考'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 言語'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 演繹推論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 帰納推論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 批判的思考'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 直観的推論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 意思決定'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 感情と文化的知識'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: 応用認知心理学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+- name: '講義資料: コネクショニストモデル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ninchishinrigakugairon-2_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/25/
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

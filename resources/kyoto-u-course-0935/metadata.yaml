@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0935
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/935/
+type:
+- LearningResource
+- Course
+name:
+  ja: TEDxKyotoUniversity, 2015
+description:
+  ja: 京都大学が提供・担当する、2015年6月7日開講のTEDxKyotoUniversityの教材だ。使用言語は英語で、出典サイトとしてTEDxKyotoUniversityの公式サイトが示されている。
+quotedDescription:
+  text:
+    ja: 'TEDxKyotoUniversity Official Website
+
+      https://tedxkyoudai.wordpress.com/'
+  source: https://ocw.kyoto-u.ac.jp/course/935/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-ND-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-06-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

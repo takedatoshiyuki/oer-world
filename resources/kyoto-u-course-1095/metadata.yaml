@@ -1,0 +1,57 @@
+slug: kyoto-u-course-1095
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1095/
+type:
+- LearningResource
+- Course
+name:
+  ja: '防災研究所 第50回記念 総合防災セミナー 「総合防災の新しいチャレンジへ」”Another Challenge: Systemic Thinking and Design for Community-based
+    Disaster Risk Governance”'
+description:
+  ja: 京都大学防災研究所が提供する、総合防災セミナーの第50回記念回である。岡田憲夫が登壇し、総合防災のこれからについて講演する。
+quotedDescription:
+  text:
+    ja: 巨大災害研究センターと社会防災研究部門が共同開催してきた総合防災セミナーは、今回で記念すべき50回目を迎えます。総合防災概念を提唱してこられた岡田憲夫京都大学名誉教授をお招きし、総合防災のこれからについてご講演頂きます。
+  source: https://ocw.kyoto-u.ac.jp/course/1095/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岡田 憲夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- natural_sciences_math
+- social_sciences
+keywords:
+- 安全・衛生
+- 環境学
+- 自然科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

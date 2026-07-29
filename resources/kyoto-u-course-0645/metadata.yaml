@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0645
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/645/
+type:
+- LearningResource
+- Course
+name:
+  ja: Kirillov, Anatoli (キリーロフ アナトーリ)先生 最終講義
+description:
+  ja: 京都大学の数理解析研究所で、Kirillov, Anatoli が担当する最終講義である。開講日は2013-03-07で、使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kirillov
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Anatoli (キリーロフ アナトーリ)
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 数理解析研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

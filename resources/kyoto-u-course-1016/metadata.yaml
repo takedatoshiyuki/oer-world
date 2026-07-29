@@ -1,0 +1,50 @@
+slug: kyoto-u-course-1016
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 防災研究所 第43回総合防災セミナー“洪水予測に関する最近の動向と日本全国の河川を対象にした研究”
+description:
+  ja: 洪水予測の最近の動向を扱い、日本全国の河川を対象にした研究について取り上げるセミナーである。京都大学防災研究所が開講し、佐山敬洋が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐山 敬洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-04-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- ict
+keywords:
+- エネルギー・地球科学
+- データサイエンス
+- 環境学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

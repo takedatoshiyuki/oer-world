@@ -1,0 +1,89 @@
+slug: kyoto-u-course-0708
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/708/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物理化学実験
+description:
+  ja: 生物理化学実験に関する講義資料を収録する教材で、公開ファイルは2章分ある。タンパク質のX線結晶構造解析と氷点降下を扱う資料が含まれており、京都大学農学部の2012年前期開講科目として提供されている。
+quotedDescription:
+  text:
+    ja: '三上 文三 (農学研究科)
+
+      白井 理 (農学研究科)
+
+      北隅 優希 (農学研究科)
+
+      高橋 延行 (農学研究科)
+
+      水谷 公彦 (農学研究科)'
+  source: https://ocw.kyoto-u.ac.jp/course/708/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 三上 文三
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 白井 理
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北隅 優希
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高橋 延行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 水谷 公彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+- natural_sciences_math
+keywords:
+- 農学
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1章　「タンパク質のＸ線結晶構造解析」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_seibutsukagakujikken_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/708/
+- name: '講義資料: 第2章　「氷点降下（4人1組）」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_seibutsukagakujikken_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/708/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

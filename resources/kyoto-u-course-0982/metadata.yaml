@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0982
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/982/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】“立ち止まって、考える”リレー講義 映像・メディア学
+description:
+  ja: 京都大学が提供する、日本語によるオンライン公開講義である。映像・メディア学に関するリレー講義として公開されており、担当はミツヨ・ワダ・マルシアーノである。オリジナルのコンテンツは人社未来形発信ユニットのウェブサイトで閲覧できる。
+quotedDescription:
+  text:
+    ja: 'オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/1669/'
+  source: https://ocw.kyoto-u.ac.jp/course/982/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: ミツヨ・ワダ・マルシアーノ
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-08-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

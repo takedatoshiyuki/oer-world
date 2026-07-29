@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0816
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/816/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日仏交流150周年・京都大学創立111周年 国際フォーラム「多極的世界観の構築と外国語教育 －多様な言語文化への挑戦」
+description:
+  ja: 日仏交流150周年と京都大学創立111周年を記念する国際フォーラムの講義資料を収録する。多極的世界観の構築と外国語教育、多様な言語文化への挑戦を主題とし、フォーラムの詳細をまとめた資料が公開されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 尾池 和夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ドミニク・ドヴィルパン
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐伯 啓思
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 三浦 信孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小倉 紀蔵
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008-06-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+- education
+keywords:
+- 語学
+- 教育学
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: フォーラム詳細'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_The-150th-Japan-France_top.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/816/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

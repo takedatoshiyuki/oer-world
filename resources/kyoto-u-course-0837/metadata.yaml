@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0837
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/837/
+type:
+- LearningResource
+- Course
+name:
+  ja: The 10th University Administrators Workshop
+description:
+  ja: 京都大学の国際交流センターが担当する、英語による「The 10th University Administrators Workshop」である。開講日は2015-02-12である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-02-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 国際交流センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

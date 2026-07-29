@@ -1,0 +1,93 @@
+slug: utokyo-series-hh4eymnbhclu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=hH4EymNBhcLU
+type:
+- LearningResource
+- Course
+name:
+  ja: 共に生きるための知恵（朝日講座「知の冒険—もっともっと考えたい、世界は謎に満ちている」2014年度講義）
+description:
+  ja: 人や生物、無生物との関係の中で生じる不安定さや衝突を手がかりに、共に生きるための知恵を考える講義である。複数分野の学知を横断し、その到達点と、なお残る課題を確認する。
+quotedDescription:
+  text:
+    ja: 自分をふり返ると、多くの人々そして様々な生物や無生物と関係を持ちながら生きているということに思い当たります。それは、ごく自然なことにも感じられますが、他方で相当な不安定さもはらんでいて、衝突や対立が起こる場合もあります。その不安定さを乗り越えようとする試行錯誤から人類が生みだしてきたのが、共に生きるための知恵ともいうべきものです。実は、様々な分野の学問は、その知恵を結晶させたものと見ることができるでしょう。この授業では、多様な学知を横断しながら、そのような努力の成果・到達点を確認しつつ、今なお残る困難さについて考えてみたいと思います。
+  source: https://ch.u-tokyo.ac.jp/series/?id=hH4EymNBhcLU
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 吉澤 誠一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 白波瀬 佐和子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大村 敦志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 奈良 一秀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 聖子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 宏之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大武 美保子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- social_sciences
+- business_law
+keywords:
+- 教育
+- 人口・社会問題
+- 政治・法律
+- 環境
+- 国際関係
+- 文化・芸術・文芸
+- ロボット・技術
+- 災害・防災
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

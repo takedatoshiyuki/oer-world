@@ -1,0 +1,69 @@
+slug: utokyo-series-c1ywowyotquc
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=C1YWOwYOTQUC
+type:
+- LearningResource
+- Course
+name:
+  ja: KALS10周年記念シンポジウム
+description:
+  ja: 東京大学の教養教育におけるアクティブラーニングの位置づけと、駒場アクティブラーニングスタジオ（KALS）の設立背景を扱う。説明文では、少人数授業に限られないアクティブラーニングの導入可能性にも触れている。
+quotedDescription:
+  text:
+    ja: 東京大学では、広い学問的視野に立って様々な課題を解決することのできる人材を育てるために、理想の教養教育の追求を目標に掲げ、学生が能動的に課題に取り組むアクティブラーニングを重視してきました。駒場アクティブラーニングスタジオ（KALS）は、こうした学習を実現する空間として2007年に開設されました。アクティブラーニングは、少人数の授業に適した手法と考えられがちですが、大人数の授業にも効果的に導入することが…
+  source: https://ch.u-tokyo.ac.jp/series/?id=C1YWOwYOTQUC
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 永田 敬
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山内 祐平
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中原 淳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福山 佑樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- ict
+- social_sciences
+keywords:
+- 教育
+- AI・情報
+- 人口・社会問題
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

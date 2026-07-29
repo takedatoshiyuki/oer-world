@@ -1,0 +1,105 @@
+slug: hokudai-russian-pronunciation-materials
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/russian-pronunciation-materials
+type:
+- LearningResource
+- Course
+name:
+  ja: ロシア語発音教材
+description:
+  ja: ロシア語の発音とイントネーションを動画で扱い、音声説明と発音器官のアニメーションを組み合わせて構成する。母音・子音の発音練習に加え、イントネーション型や調音練習も含み、キリル文字の読み方と初級文法の理解を前提とする。
+quotedDescription:
+  text:
+    ja: '本教材は、ロシア語の発音及びイントネーションを説明する動画です。特に日本語の影響による発音の間違いを直すことを目指します。
+
+      音声による説明とともに、発音器官の調音を説明するアニメーションが採用されています。母音と子音を正しく発音するために、ネイティブ教員による発音練習も含みます。
+
+      難しい音を発音しやすく、さらにきれいにするために、発音器官をトレーニングする「調音練習」という教材があります。
+
+      ロシア語を半年以上学習している履修者におすすめします。全学教育科目「ロシア語演習C2：発音」で使われている教材です。
+
+      ＊本教材は動画教材のみです。ロシア語演習科目で使われているテキスト教材、テキスト教材のみにおける母音の弱化の説明、練習問題及び宿題を含みません。
+
+      発音器官の説明：左記の説明資料をご確認ください。
+
+      【プレイリスト】
+
+      紹介動画（動画教材の紹介）
+
+      第1課　母音 А・ О・ У ・Э ・Ы、アクセント
+
+      第2課　子音М・Н・硬子音・軟子音
+
+      第3課　軟音記号・硬音記号、イントネーション型1・2・3
+
+      第4課　有声・無声子音・П・Б・Ф・В
+
+      第5課　子音 Т・Д・К・ Г
+
+      第6課　子音 С・З・Х、イントネーション型4
+
+      第7課　子音 Ц ・Ч・ Й、Ч・Т’の違い
+
+      第8課　子音 Ш・Ж・Щ、Ш・Щ ・С’の違い
+
+      第9課　子音 Р・Л
+
+      第10課　イントネーション型5
+
+      第11課　イントネーション型6・7
+
+      調音練習（唇、舌、頬の筋肉のトレーニング）
+
+      【対象】
+
+      学部1年生～ （キリル文字の読み方及び初級レベルのロシア語文法の理解が必要）'
+  source: https://ocw.hokudai.ac.jp/lecture/russian-pronunciation-materials
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: ブンティロフ ゲオルギー
+  affiliation:
+    name: メディア・コミュニケーション研究院/外国語教育研究センター
+- type: Person
+  name: サヴィヌィフ アンナ
+  affiliation:
+    name: 外国語教育研究センター・非常勤講師
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 発音器官の説明'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/11/Russian-Seminar_Vocal-organs.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/russian-pronunciation-materials
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

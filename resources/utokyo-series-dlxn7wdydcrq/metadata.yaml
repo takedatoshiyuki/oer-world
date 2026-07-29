@@ -1,0 +1,76 @@
+slug: utokyo-series-dlxn7wdydcrq
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=DLxn7wdyDCRQ
+type:
+- LearningResource
+- Course
+name:
+  ja: アメリカ外交の歴史と展望[EN]
+description:
+  ja: アメリカ外交と対外政策の歴史と将来展望を扱う講義である。Robert Zoellickによる講演として、外交・通商・国際経済に関わる経歴を持つ講師の視点から、米国外交の歴史を踏まえた論点を取り上げる。
+quotedDescription:
+  text:
+    ja: "On Tuesday, December 12, 2023, GraSPP hosted a lecture titled “History and Prospects of U.S.\
+      \ Diplomacy and Foreign Policy” by Robert Zoellick, former President of the World Bank, former Deputy\
+      \ Secretary of State and U.S. Trade Representative. \nMr. Zoellick published a book titled America\
+      \ in the World: A History of U.S. Diplomacy and Foreign Policy in 2020, and the Japanese version\
+      \ of his book ap…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=DLxn7wdyDCRQ
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: H.E. Robert Zoellick
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 五百旗頭 薫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高原 明生
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小和田 恆
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯田 敬輔
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係
+- 外交
+- 国際
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

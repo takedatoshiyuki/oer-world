@@ -1,0 +1,150 @@
+slug: kyoto-u-course-0734
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/734/
+type:
+- LearningResource
+- Course
+name:
+  ja: 民法I（民法総則・親族）
+description:
+  ja: 民法の総則と親族に関する制度を、民法入門から始めて順に扱う講義資料である。能力、意思表示、不完全な意思表示、法律行為の自由と制約といった総則分野の主要な論点を取り上げている。
+quotedDescription:
+  text:
+    ja: 民法の第一編総則と第四編親族に規定されている諸制度について概説する。講義は、具体的な紛争の現れ方に即して基本的な考え方を十分理解することに重点を置き、常に民法全体の中での民法総則の位置に注意を払う。講義項目の順序・日程などの詳細な予定は、教科書等の説明と共に、最初の時間に示す。また、講義の際には、次回講義予定の分についてレジュメを配布するので、予め教科書の該当個所をざっと読む程度の予習はしてきて欲しい。
+  source: https://ocw.kyoto-u.ac.jp/course/734/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松岡 久和
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　履修案内・民法入門(1)-民法とは何か'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第2回　民法入門(2)-民法総則の位置・民法の原理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第3回　能力(1)-権利能力・意思能力・行為能力'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第4回　能力(2)-行為能力の制限と補充（親権・扶養を含む）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第5回　能力(3)ほか-行為能力制限違反の効力・失踪宣告など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第6回　法律行為と意思表示'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第7回　不完全な意思表示(1)-心裡留保・虚偽表示'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第8回　不完全な意思表示(2)-九四条二項類推適用論／錯誤(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第9回　不完全な意思表示(3)-錯誤(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第10回　不完全な意思表示(4)-詐欺・強迫'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第11回　法律行為の自由と制約(1)-強行法規違反・公序良俗違反'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第12回　法律行為の自由と制約(2)-消費者契約法・約款など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第13回　無効と取消（失踪宣告の取消を含む）／条件と期限'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第14回　代理(1)-代理総説・有権代理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第15回　代理(2)-無権代理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第16回　代理(3)-表見代理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第17回　代理(4)-代理をめぐる諸問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第18回　法人(1)-法人総説・法人の内部関係'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第19回　法人(2)-法人の外部関係'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第20回　法人(3)-権利能力なき社団'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第21回　時効(1)-取得時効・消滅時効'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第22回　時効(2)-時効に共通の規律'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第23回　時効(3)-時効に共通の規律（続）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第24回　親族法(1)-総説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第25回　親族法(2)-婚姻'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_25.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第26回　親族法(3)-離婚'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_26.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第27回　親族法(4)-親子'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_27.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 第28回　家族法の補遺と私法の基本原理・民法再論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1_28.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 試験　2005年度 全学共通コース「民法の基礎」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1-exam_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 試験　2005年度 経済学部民法第一部'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1-exam_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+- name: '講義資料: 試験　2005年度 法学部民法第一部'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_minpou-1-exam_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/734/
+extensions:
+  faculty: 法学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

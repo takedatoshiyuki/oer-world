@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0749
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/749/
+type:
+- LearningResource
+- Course
+name:
+  ja: The restricted three-body problem and holomorphic curves
+description:
+  ja: 制限三体問題の運動を題材に、その力学をホロomorphic curves の考え方で調べる内容を扱う。有限エネルギー平面の理論を導入し、それが Birkhoff の予想にどう結びつくかを説明する。あわせて、予想の証明に向けて残る課題にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      In 1972 A. Weil asserted that “since class field theory pertains to the foundation of mathematics,
+      every mathematician should be as familiar with it as with Galois theory”.
+
+      The restricted three-body problem describes the dynamics of a massless particle attracted by two
+      masses. For example the massless particle could be the moon and the masses earth and sun, or a satellite
+      attracted by the earth and moon, or a planet attracted by two stars in a double star system. Different
+      from the two-body problem which is completely integrable the dynamics of the restricted three-body
+      problem has chaotic behaviour.
+
+      A global surface of section reduces the complexity of the dynamics by one dimension. More than hundred
+      years ago Birkhoff made a conjecture about the existence of a global surface of section for the
+      restricted three-body problem. Although the question about existence of a global surface of section
+      is a question about all orbits, holomorphic curves allow to reduce the Birkhoff conjecture to questions
+      involving periodic orbits only.
+
+      In the lecture I explain the theory of holomorphic finite energy planes, what they imply for the
+      Birkhoff conjecture, and what challenges remain to be done to prove the conjecture.'
+  source: https://ocw.kyoto-u.ac.jp/course/749/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Urs FRAUENFELDER（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Augsburg University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-09-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

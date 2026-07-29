@@ -1,0 +1,54 @@
+slug: hokudai-backgroundofsapporo-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/backgroundofsapporo-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 豊平川沿いに札幌の生い立ちをさぐる ～北の都の一千万年史～(2010)
+description:
+  ja: 豊平川の扇状地に成立した札幌の地形と、その流域がもたらしてきた水・緑・石材・鉱物資源などの関わりを扱う。鉱物資源、温泉、地震、カイギュウ化石に触れながら、地学的データをもとに豊平川流域の地質と一千数百万年前までの地史をたどる。あわせて、直下型地震や地震動に関係する札幌の地下構造と地盤の成り立ちを解説する。
+quotedDescription:
+  text:
+    ja: 札幌の中心部は豊平川の扇状地の上に成り立っていますが、豊平川とその流域は「命をつなぐ水」、「憩いの緑」、建築用の石材、鉱物資源（豊羽鉱山）など、明治期以来、札幌市・市民に多大な恩恵をもたらしてきました。鉱物資源・温泉・地震・カイギュウ化石などに関連して、自らの足・手・眼で直接確かめた地学的データを基にしながら、豊平川流域の地質を明らかにし、一千数百万年前までの地史を語ります。合わせて、直下型地震の発生や地震動で問題となる札幌の地下構造・地盤の成り立ちについて解説します。
+  source: https://ocw.hokudai.ac.jp/lecture/backgroundofsapporo-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 岡 孝雄
+  affiliation:
+    name: アースサイエンス株式会社
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

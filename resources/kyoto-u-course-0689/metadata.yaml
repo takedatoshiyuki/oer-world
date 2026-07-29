@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0689
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/689/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農林統計学
+description:
+  ja: 京都大学農学部で2012年度後期に開講された「農林統計学」の講義ノートを公開する教材である。農林統計学に関する講義資料1件が提供されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 加賀爪 優
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 農林統計学 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_nourintoukeigaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/689/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

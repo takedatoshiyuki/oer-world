@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0974
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/974/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際研究集会 Colloque international Kyoto 2020
+description:
+  ja: 単一言語の教育から複数言語を扱う教育への移行をテーマにし、CECR/CEFRの観点から日本語、英語、ほかの外国語の関係を考える。日本語と英語を用いて、これらの言語教育の連帯と協働を扱う研究集会である。
+quotedDescription:
+  text:
+    ja: 'De l’enseignement monolingue à l’enseignement plurilingue:
+
+      Synergies et co-apprentissage du japonais, de l’anglais et des autres langues étrangères du point
+      de vue du CECR
+
+      ひとつの言語教育から複数の言語教育へ：CEFRからみた日本語, 英語, 外国語教育の連帯と協働'
+  source: https://ocw.kyoto-u.ac.jp/course/974/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

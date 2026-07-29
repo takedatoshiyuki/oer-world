@@ -1,0 +1,79 @@
+slug: kyoto-u-course-0127
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/127/
+type:
+- LearningResource
+- Course
+name:
+  ja: 新産業創成論・ナノテクベンチャー論
+description:
+  ja: 京都大学工学研究科で2011年度に開講された講義で、日本語で実施される。新産業創成論とナノテクベンチャー論を扱い、松重和美、児玉充晴、辻野貴志、人羅俊実が担当する。
+quotedDescription:
+  text:
+    ja: '松重 和美 (京都大学VBL 施設長、大学院工学研究科電子工学専攻 教授)
+
+      児玉 充晴 (中部大学経営情報学部経営情報学科 教授、VMS 副センター長、京都大学産官学連携本部 フェロー)
+
+      辻野 貴志 (サイエンス・グラフィックス株式会社 代表取締役)
+
+      人羅 俊実 (ALGAN株式会社 代表取締役CEO)'
+  source: https://ocw.kyoto-u.ac.jp/course/127/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松重 和美（京都大学VBL 施設長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大学院工学研究科電子工学専攻 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 児玉 充晴（中部大学経営情報学部経営情報学科 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: VMS 副センター長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学産官学連携本部 フェロー）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 辻野 貴志
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 人羅 俊実
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- engineering
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

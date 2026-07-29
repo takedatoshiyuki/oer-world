@@ -1,0 +1,57 @@
+slug: sophia-20130718gsh11300
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20130718gsh11300/
+type:
+- LearningResource
+- Course
+name:
+  ja: レジャー・スポーツ・レクリエーション論／THEORIES OF LEISURE, SPORTS & REC
+description:
+  ja: レジャー、スポーツ、レクリエーションの定義、歴史、機能を扱う講義である。講義ではこれらに関する諸問題を取り上げ、グループディスカッションを通してその在り方を考える。
+quotedDescription:
+  text:
+    ja: 上智大生は年207日、1年の約54％が自由に使える日であり、平均的な日本人も週休2日と人生80年時代の到来により生涯の約3分の1、平均生涯労働時間の約3倍がレジャー（自由時間）となり、レジャー活動としてのスポーツやレクリエーションは、人生において重要な意味を持つようになってきている。レジャーの使い方によっては、個人の身体的・精神的・社会的健康のみならず国の経済にも重大な影響が生じてくる。この授業では、レジャー・スポーツ・レクリエーションの定義・歴史・機能などについて講義し、その諸問題についてグループディスカッションを行いながらその理想的な在り方を考えていく。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20130718gsh11300/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 師岡 文男
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20130718GSH11300_14.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130718GSH11300_14.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130718gsh11300/
+extensions:
+  faculty: 大学
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

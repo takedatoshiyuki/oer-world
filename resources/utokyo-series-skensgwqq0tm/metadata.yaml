@@ -1,0 +1,72 @@
+slug: utokyo-series-skensgwqq0tm
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=sKensGWQq0tm
+type:
+- LearningResource
+- Course
+name:
+  ja: 駒場祭公開講座 2010
+description:
+  ja: マンゾーニの小説『いいなづけ』からスローフード宣言までのイタリアのテクストを手がかりに、イタリア料理の歴史と地域性・国際性をたどる。チーズと生ハムについては、試食を交えながら扱う。
+quotedDescription:
+  text:
+    ja: 近代イタリアの「国民文学」といえるマンゾーニの小説『いいなづけ』の冒頭近くで登場人物たちが食べるのは、スパゲッティではなくとうもろこしの粉のおかゆ「ポレンタ」です。マンゾーニから「スローフード宣言」まで、イタリア発のテクストを手に、イタリア料理の歴史と地域性／国際性をたどります。保存食品の代表であるチーズと生ハムについては、レストラン・ルヴェソンヴェールの伊藤シェフのご協力で、実際の試食と専門家…
+  source: https://ch.u-tokyo.ac.jp/series/?id=sKensGWQq0tm
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 村松 真理子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大島 まり
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 御厨 貴
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+- health_welfare
+keywords:
+- 文化・芸術・文芸
+- 生命・医療
+- 歴史
+- イタリア料理
+- 食文化
+- 血液
+- 医療
+- 歴史研究
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

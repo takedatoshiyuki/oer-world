@@ -1,0 +1,51 @@
+slug: sophia-20110724ochorikoshi
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110724ochorikoshi/
+type:
+- LearningResource
+- Course
+name:
+  ja: レンジでチンして化学する
+description:
+  ja: 上智大学理工学部物質生命理工学科で2011年度に開講された講義の教材で、堀越智が担当する。公開資料として講義資料「20110724ochorikoshi.pdf」があり、講義内容を日本語で扱う。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 堀越 智
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- engineering
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20110724ochorikoshi.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110724ochorikoshi.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110724ochorikoshi/
+extensions:
+  faculty: 理工学部 物質生命理工学科
+  term: 2011年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

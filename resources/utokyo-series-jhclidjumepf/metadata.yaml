@@ -1,0 +1,85 @@
+slug: utokyo-series-jhclidjumepf
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=jHCliDJumEpf
+type:
+- LearningResource
+- Course
+name:
+  ja: 137億年の「物質」の旅－ビッグバンからみどりの地球へ（学術俯瞰講義）
+description:
+  ja: 物質の起源から性質、合成、利用までを、物理・化学・材料工学の視点から俯瞰する講義である。最終回では、地球環境の持続性と有限な地球を踏まえた物質利用を扱う。光触媒を例に、研究の話題も取り上げる。
+quotedDescription:
+  text:
+    ja: '私たちの身体を初めとして地球上にあるほぼ全ての物質は81種類の安定な元素からできている。放射性元素を含めても、我々が目にする物質を作る元素は約100種類にしか過ぎない。これらの元素の起源は宇宙にある。137億年前のビッグバン直後と、その後、星の内部や超新星爆発で作られた元素が集積して46億年前に地球が誕生した。
+
+      元素は地球上で単体の原子として存在するだけでなく、結びつきあってさまざまな分子を形成し実に多様な物質を生み出した。水と植物に覆われたみどりの地球で生命が生まれ、進化の結果出現した我々人類は、次第に物質の性質を解明し、ついに天然の物質を幾ばくか操って新たな物質を合成する能力まで持つに至った。
+
+      本講義では、物質の起源、性質、合成、および利用について、物理、化学、材料工学の第一人者が平易にその全体像を俯瞰する。最終回は地球環境の持続性と限りある地球という観点からの物質の利用を考える。光触媒を例に研究の面白さを感じてもらえる特別講義を用意した。理系の学生はもとより、文系の学生も多数聴講することを期待している。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=jHCliDJumEpf
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 須藤 靖
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 家 泰弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柴崎 正勝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤嶋 昭
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小宮山 宏
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- health_welfare
+- engineering
+keywords:
+- 宇宙・物理
+- 生命・医療
+- ロボット・技術
+- エネルギー・資源
+- 物理学
+- 宇宙
+- ビッグバン
+- マルチバース
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

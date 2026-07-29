@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0830
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/830/
+type:
+- LearningResource
+- Course
+name:
+  ja: The Ninth International Conference on Creating, Connecting and Collaborating through Computing
+description:
+  ja: 京都大学が提供し、学術情報メディアセンターで開講された英語の教材である。New York Universityが担当し、2011-01-18に公開されている。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: New York University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-01-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

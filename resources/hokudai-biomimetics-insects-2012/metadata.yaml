@@ -1,0 +1,57 @@
+slug: hokudai-biomimetics-insects-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/biomimetics-insects-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: バイオミメティクス市民セミナー 北海道の昆虫多様性とバイオミメティックス （2012）
+description:
+  ja: 北海道に生息する昆虫の多様性と、その分布や生息環境を扱う講義である。北海道のさまざまな自然環境に適応する昆虫を取り上げ、その機能や構造をバイオミメティクスの観点から考える。
+quotedDescription:
+  text:
+    ja: 細長い日本列島の北端に位置する北海道。そこに暮らす昆虫は、南から入ってきたものと北から入ってきたものが交じり合い、独特の昆虫相を形成しています。北海道は、太平洋、日本海、オホーツク海と三方を海に囲まれ、大雪山や利尻岳などの高山、針葉樹林・針広混交林・ブナ林など様々な森林、釧路湿原やサロベツ湿原、石狩川や天塩川、石狩海岸など多様な環境に適応しながら様々な昆虫が生息しています。北海道に生息する昆虫の多様性を眺めながら、そこに生息する昆虫が持つ、厳しい自然環境を生き残るために獲得したと考えられる興味深い機能や構造を探すヒントを考えます。
+  source: https://ocw.hokudai.ac.jp/lecture/biomimetics-insects-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 堀 繁久
+  affiliation:
+    name: 北海道開拓記念館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- バイオミメティクス
+- 昆虫の多様性
+- 北海道
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

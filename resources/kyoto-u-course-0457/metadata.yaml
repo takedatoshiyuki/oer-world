@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0457
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/457/
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開シンポジウム「ひろげよう、フィールドの世界」
+description:
+  ja: 自然に入って自然を知ることを起点に、自然研究を理系だけの領域に限らず、芸術・社会・文化との関わりも含めて考える公開シンポジウムである。京都大学が受け継いできたフィールドの知を現代にどうつなぐかという観点から、自然から学び、その内容を発信することを扱う。
+quotedDescription:
+  text:
+    ja: '趣旨
+
+      自然に入り、自然を知る。
+
+      京都大学伝統の「フィールドの知」を現代に継承するためのシンポジウムです。
+
+      自然の研究を「理系」に任せっきりにするのはもったいない。芸術・社会・文化・・・。現代の私たちの暮らしにも、自然は深くかかわっています。さまざまな側面から自然を知ること。自然から学び、みんなにメッセージを伝えるということ。私たちからの提案を紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/457/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 伊勢 武史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 広井 良典
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高林 佑丞
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 清水 夏樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-03-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: kyoto-u-course-1042
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1042/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「物質循環と人間自然相互作用環」
+description:
+  ja: 物質循環と人間と自然の相互作用を主題とする最終講義のスライド資料を収録する。京都大学フィールド科学教育研究センターで開講された講義に対応し、公開教材は1件の講義資料である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 環境学
+- 自然科学
+- 最終講義
+audience:
+- general_public
+materials:
+- name: '講義資料: 物質循環と人間自然相互作用環（スライド資料）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20210326_yoshioka.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1042/
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

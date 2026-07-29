@@ -1,0 +1,61 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-safety-research-conducted-by-the-nucle
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-safety-research-conducted-by-the-nuclear-regulation-authority
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「原子力規制庁が実施する安全研究」
+description:
+  ja: 原子力規制委員会の組織体制と、安全研究が規制の中でどのように位置づけられ、どの体制・方針で進められるかを扱う。あわせて、対象となる安全研究や重点課題、新技術への対応、国内外の機関との連携、国際機関への協力、研究職の役割までを含む。
+quotedDescription:
+  text:
+    ja: "原子力規制庁が実施する安全研究\n \n「原子力規制庁が実施する安全研究」の教材は全て制限資料（閲覧のみ）のライセンスで公開しています。\n \n本教材の内容は以下の通りです。\n \n\
+      ・原子力規制委員会の組織体制\n \n・安全研究の位置づけ\n \n・規制庁が行う安全研究とは\n \n・安全研究の実施体制\n \n・安全研究の進め方\n \n・安全研究の実施方針\n \n\
+      ・原子力規制委員会が対象とする安全研究\n \n・実施方針における重点課題\n \n・新技術への対応\n \n・国内機関との連携\n \n・海外機関との連携・海外留学\n \n・国際機関への協力\n\
+      \ \n・安全研究に携わる研究職"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-safety-research-conducted-by-the-nuclear-regulation-authority
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 永瀬 文久
+  affiliation:
+    name: 原子力規制庁 長官官房技術基盤グループ
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 原子力規制
+- 原子力規制庁
+- 安全研究
+audience:
+- student
+materials:
+- name: '講義資料: 原子力規制庁が実施する安全研究'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2025/11/Nuclear-Regulatory-Human-Resource-Development-Project_Safety-research-conducted-by-the-Nuclear-Regulation-Authority.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-safety-research-conducted-by-the-nuclear-regulation-authority
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

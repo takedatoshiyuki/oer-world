@@ -1,0 +1,79 @@
+slug: hokudai-comparativeregionalsociology-2006
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/comparativeregionalsociology-2006
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 比較地域社会学 環境と公共性の社会学（2006）
+description:
+  ja: 環境を誰がどのように守るのかを軸に、自然の定義、人間と自然の関係、地域住民の環境との関わりを扱う。さらに、環境をめぐって市民や住民が自ら決めて実行する社会的しくみについて考える。
+quotedDescription:
+  text:
+    ja: 'この講義では、〈環境〉を〈誰が〉どう守るべきなのか、ということを中心に、次の点について考えます
+
+      （1）自然環境を守ろう、というけれど、「自然」とはそもそもどういういうものか？　人間の手がまったく入っていないもののことなのか？
+
+      （2）人間と自然の関係はどういうものなのか。地域の住民は、地域の環境に対し、歴史的にどうかかわってきたか、今後どうかかわるべきか。
+
+      （3）環境は誰が守るべきなのか。誰と誰がどういう関係のもとでどう環境にかかわるべきなのか。
+
+      （4）環境をめぐって、市民・住民が自ら決めて実行していく社会的しくみはどうすればできるか。'
+  source: https://ocw.hokudai.ac.jp/lecture/comparativeregionalsociology-2006
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 宮内 泰介
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+- arts_humanities
+keywords:
+- 自然
+- 環境
+- 地域の視点
+- コモンズ
+- 住民自治（市民自治）
+- 協働
+- 心理／社会学
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComparativeRegionalSociology-2006-Note-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/comparativeregionalsociology-2006
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComparativeRegionalSociology-2006-Slide-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/comparativeregionalsociology-2006
+extensions:
+  faculty: 文学部
+  targetAudience: s:74:"s:66:"s:58:"s:50:"a:2:{i:0;s:1:"2";i:1;s:20:" 3年生 文学部";}";";";";
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

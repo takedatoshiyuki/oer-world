@@ -1,0 +1,48 @@
+slug: kyoto-u-course-1044
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1044/
+type:
+- LearningResource
+- Course
+name:
+  ja: 防災研究所 第45回総合防災セミナー“不確実性下の意思決定モデルの発展と防災・減災への応用－合理主義から自然主義への潮流のなかで－”
+description:
+  ja: 不確実性のある状況での意思決定モデルを扱い、その発展と防災・減災への応用をテーマとする講義である。合理主義から自然主義への流れの中で、この分野の考え方を取り上げる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤見俊夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-06-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+- health_welfare
+keywords:
+- 経営学
+- 安全・衛生
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

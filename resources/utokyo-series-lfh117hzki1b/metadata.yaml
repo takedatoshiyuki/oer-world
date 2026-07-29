@@ -1,0 +1,64 @@
+slug: utokyo-series-lfh117hzki1b
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=LFH117hZkI1B
+type:
+- LearningResource
+- Course
+name:
+  ja: 農学部公開セミナー 第45回「動物の病気から見えるもの」
+description:
+  ja: 昆虫に見られる病気と、その原因となる病原体を取り上げるセミナーである。カイコなどの家畜昆虫を病原体から守ってきた歴史に加え、病原体を害虫制御や医薬品・バイオマテリアルの生産に利用する現状を扱う。
+quotedDescription:
+  text:
+    ja: "私たち人間に病気が存在するように、昆虫にも病気が存在する。感染性の病気の原因となる病原体は、ウイルス、細菌、糸状菌など多様であり、日々、宿主である昆虫とせめぎ合いを繰り返している。本セミナーでは、私たちの身近に存在する昆虫の病原体を紹介し、カイコをはじめとする家畜昆虫を病原体から守ってきた歴史や、病原体を利用して害虫を制御したり、医薬品やバイオマテリアルを生産している現状を紹介する。\
+      \ \n \n    ★過…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=LFH117hZkI1B
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 勝間 進
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 良永 知義
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中山 裕之
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 農学部・農学生命科学研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

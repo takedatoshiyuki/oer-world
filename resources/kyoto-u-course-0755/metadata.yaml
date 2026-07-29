@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0755
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/755/
+type:
+- LearningResource
+- Course
+name:
+  ja: Paving over arbitrary MASAs in von Neumann algebras
+description:
+  ja: Kadison–Singer 問題を出発点に、von Neumann 因子の MASA に対する一般化された paving 性質 so-paving を導入する講義である。so-位相による近似の考え方を用い、B(H)
+    の diagonal MASA との関係も扱う。さらに、任意の因子の任意の MASA で so-paving が成り立つという予想と、その一部のケースでの確認を述べる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Motivated by an intriguing claim in Dirac’s 1947 book on “Quantum Mechanics”, Kadison and Singer
+      have asked the question of whether any pure state on the diagonal maximal abelian subalgebra (MASA)  \(
+      D \) of \(B(H) \) extends to a unique state on \(B(H) \). They also showed that this unique pure
+      state extension property is equivalent to norm paving over \( D \) for operators in \(B(H) \). The
+      Kadison–Singer paving problem has been recently solved in the affirmative by Marcus–Spielman–Srivastava.
+
+      In these lectures, we will introduce a general paving property for a MASA \( A \)  in a von Neumann
+      factor \( M \)  , called so-paving, involving approximation in the so-topology, rather than in norm,
+      but which coincides with norm-paving in the case \( D \subset B(H) \)  . We conjecture that so-paving
+      holds true for any MASA in any factor. We check the conjecture in many cases, including singular
+      and regular MASAs in hyperfine factors. Related problems will be discussed.'
+  source: https://ocw.kyoto-u.ac.jp/course/755/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of California
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Los Angeles）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-09-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

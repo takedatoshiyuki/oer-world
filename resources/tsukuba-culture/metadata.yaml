@@ -1,0 +1,47 @@
+slug: tsukuba-culture
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/sociology/culture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 比文カフェ 「斎藤環と話す」
+description:
+  ja: 斎藤環を迎えて開催された「比文カフェ」の記録である。筑波大学人文社会系准教授の五十嵐沙千子が聞き手を務める形で進められる。
+quotedDescription:
+  text:
+    ja: ”ヤンキー”精神（アゲて気合で乗り切る）を鍵とした日本社会・文化論で話題の精神科医 斎藤環先生を迎えて開催された「比文カフェ」。聞き手は筑波大学人文社会系准教授の五­十嵐沙千子先生。
+  source: https://ocw.tsukuba.ac.jp/course/sociology/culture/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 斎藤 環
+  affiliation:
+    name: 筑波大学 医学医療系 教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-09-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 社会学
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

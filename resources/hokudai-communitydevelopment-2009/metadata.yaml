@@ -1,0 +1,54 @@
+slug: hokudai-communitydevelopment-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/communitydevelopment-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 文化コーディネーターと町づくり（2009）
+description:
+  ja: 出典文では、京都文教大学の地域連携活動を背景に、教育GPとして地域の文化資源を見出し発信する取り組みが扱われる。あわせて、そうした活動を通じて地域活性化に関わる人材育成をめざす内容が示されている。
+quotedDescription:
+  text:
+    ja: 京都文教大学は、京都府南部の宇治市にある唯一の大学として、現場主義教育を旗印に地域連携活動に取り組んできました。平成20年度の教育GP「文化コーディネーター養成プログラム～『モノ・ひと・地域を活かす大学ミュージアム』を活用した実践的人材育成教育」では、地域の文化資源を見出し、発信することによって、地域活性化に貢献できる人材の輩出をめざしています。もう一つの特色GPの活動と合わせて、本学の取り組みを紹介します。
+  source: https://ocw.hokudai.ac.jp/lecture/communitydevelopment-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松田 凡
+  affiliation:
+    name: 京都文教大学人間学部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,84 @@
+slug: hokudai-chinareport-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/chinareport-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学東アジアメディア研究センターシンポジウム 中国をどのように伝えるか（2011）
+description:
+  ja: 中国の経済成長や政治状況、海洋・宇宙への進出をめぐる見方を背景に、中国をどう報じるかを考えるシンポジウムである。中国報道に携わってきたジャーナリストを招き、これまでの中国報道を振り返りながら、現在の中国の捉え方と伝え方を扱う。
+quotedDescription:
+  text:
+    ja: '中国は北京五輪と上海万博を成功させ、いまや米国に次ぐ経済大国となりました。しかし、経済の成長とは対照的に、政治の民主化は進まず、さらに海洋、宇宙への積極的な進出と相まって、その影響力拡大に不安感を抱く人は少なくありません。
+
+      当センターでは、日中国交回復40周年、今年秋に開催予定の第18回党大会における指導層交替というこの機に、これまで中国報道に関わってきたジャーナリストをお招きしてシンポジウムを開催いたします。田畑さんは、TBSで長年中国報道に携わってきた著名なジャーナリストであり、研究者です。加藤さんは朝日新聞論説委員佐々木さんと元読売新本社編集委員藤野さんとともに、北京から中国を伝えてきた敏腕ジャーナリスト。本学の高井も読売新聞社特派員として長年中国におりました。中国報道の過去を見つめつつ、いま中国をどのように捉え、その姿をどのように伝えていくべきか、皆様とともに考えたいと思います。
+
+      ＜関連情報＞
+
+      北海道大学大学院メディア・コミュニケーション研究院 東アジアメディア研究センター・センター'
+  source: https://ocw.hokudai.ac.jp/lecture/chinareport-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田畑 光永
+  affiliation:
+    name: 元神奈川大学教授/元東京放送キャスター
+- type: Person
+  name: 加藤 千洋
+  affiliation:
+    name: 同志社大学大学院グローバル・スタディーズ研究科教授/元朝日新聞
+- type: Person
+  name: 佐々木 政文
+  affiliation:
+    name: 北海道新聞社論説委員
+- type: Person
+  name: 藤野 彰
+  affiliation:
+    name: 中国問題ジャーナリスト/元読売新聞東京本社編集委員
+- type: Person
+  name: 高井 潔司
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院
+- type: Person
+  name: 渡邊 浩平
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 中国
+- 経済
+- 政治
+- 報道
+- 複合分野／学際
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

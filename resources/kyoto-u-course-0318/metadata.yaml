@@ -1,0 +1,80 @@
+slug: kyoto-u-course-0318
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/318/
+type:
+- LearningResource
+- Course
+name:
+  ja: The Effects of Medications – How Big Data is Revolutionising Our Understanding
+description:
+  ja: 薬剤疫学を題材に、医薬品の有害作用と有益作用を大規模な電子医療記録データからどう調べるかを扱う講義である。研究に含まれるバイアスの抑制や、case-only approach、通常診療データによる効果推定の可能性にも触れる。講義と討論を通じて、実際の研究課題と仮想課題に取り組む構成である。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Kyoto University School of Public Health (KUSPH) invites you to the FY2018 special lecture series
+      on “The Effects of Medications – how Big Data is Revolutionising Our Understanding” Professor Ian
+      Douglas, London School of Hygiene & Tropical Medicine (LSHTM). As a pharmacoepidemiolgist, he has
+      spent several years at the UK Medicines & Healthcare Products Regulatory Agency and in the pharmaceutical
+      industry investigating adverse effects of drugs, both in clinical trials and post-marketing. He
+      is interested, in particular, how we can use large linked electronic healthcare record databases
+      to investigate the effects of drugs, both harmful and beneficial. He is exploring methodologies
+      to minimise some of the biases inherent in the research of drug effects, and his main current areas
+      of interest are case-only approaches to study design and how we can determine whether routine care
+      data can be used to estimate the intended effects of medications.
+
+       
+
+      This course will involve a mixture of lectures and discussion groups where participants will get
+      a chance to apply their learning to both real and hypothetical research questions in pharmacoepidemiology.
+
+       
+
+      Some sessions will also be delivered by Masao Iwagami, Assistant Professor in the Department of
+      Health Services Research, University of Tsukuba, and Honorary Assistant Professor in the Electronic
+      Health Records Research Group, LSHTM. He is experienced in conducting medical research using large
+      databases of routinely collected data, such as UK Clinical Practice Research Datalink (CPRD), Japanese
+      Diagnosis Procedure Combination (DPC) Database, Tokushukai Medical Database, and Medical Data Vision
+      (MDV) Database.'
+  source: https://ocw.kyoto-u.ac.jp/course/318/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Ian Douglas （Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of Tsukuba）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

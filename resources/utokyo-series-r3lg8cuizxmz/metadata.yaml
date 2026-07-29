@@ -1,0 +1,59 @@
+slug: utokyo-series-r3lg8cuizxmz
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=r3lG8CuizXmz
+type:
+- LearningResource
+- Course
+name:
+  ja: 授業のオンライン化を念頭に置いた、TV会議ツールと使い方説明会
+description:
+  ja: 東京大学で授業をオンライン化する場合に使えるツールを取り上げ、TV会議ツールの現状と今後の見通し、授業支援システムITC-LMSの位置づけを扱う。あわせて、オンライン授業を想定した各種ツールの使い方をデモンストレーション付きで説明する。
+quotedDescription:
+  text:
+    ja: "授業のオンライン化が必要になった場合、東京大学ではどのようなツールを利用できるのでしょうか？デモンストレーションを交えながらご紹介します。\n00:22\n開催に当たっての挨拶：福田理事・副学長\n\
+      03:22\n東京大学で使える授業支援(ITC-LMS)、TV会議ツールの現状、 \n今後の見通し、授業のオンライン化を想定した各種ツールの使い方 \n説明者：田浦情報基盤センター長\n主催：情報基盤センター\
+      \ 、大学総合教育研究センター"
+  source: https://ch.u-tokyo.ac.jp/series/?id=r3lG8CuizXmz
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 福田 裕穂
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田浦 健次朗
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

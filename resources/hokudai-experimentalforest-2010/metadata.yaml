@@ -1,0 +1,54 @@
+slug: hokudai-experimentalforest-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/experimentalforest-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! 下を向いて歩こう♪ ～科学者と見る北大研究林～ （2010）
+description:
+  ja: 北海道大学の雨龍研究林を舞台に、森林の土壌に注目して研究内容を紹介する講義である。森林における土壌の役割や、二酸化炭素を含む炭素・養分の循環をテーマに、研究林での映像を交えながら森と土の関係をたどる。
+quotedDescription:
+  text:
+    ja: 最後に森の土を踏みしめたのはいつですか？森の土の手触りや香りを覚えていますか？北海道大学は世界一の規模を誇る研究林を持っています。札幌から北へ約200km、幌加内町に広がっているのが、1901年に北大で最初に創設された雨龍研究林です。今回のカフェでは、その北大雨龍研究林で「森林における土壌の役割」や「二酸化炭素を含む炭素や養分の循環」などの研究をしている柴田英昭さんに、森や土の魅力を語っていただきます。普段森を歩くとき、私たちは木々や草花、野鳥など、地上に目がいきがちですが、本当の森の魅力は土にある、と柴田さんは言います。ミミズや地中の無数の微生物は豊かな土壌を生み出しています。でも実際にどのようなメカニズムで森が維持されているかは、意外と謎が多いそうです。カフェでは雨龍研究林で撮影した映像を見ながら、柴田さんと一緒に森を散歩するような感じで、森林と土の秘密をひもといていきます。カフェの後には、下を向いて森を歩くのが楽しみになること、間違いありません♪
+  source: https://ocw.hokudai.ac.jp/lecture/experimentalforest-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 柴田 英昭
+  affiliation:
+    name: 北海道大学北方生物圏フィールド科学センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 北方生物圏フィールド科学センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

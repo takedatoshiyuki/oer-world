@@ -1,0 +1,80 @@
+slug: kyoto-u-course-1083
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1083/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2021年度 京都大学図書館機構講演会「オープンデータとしての学術論文」
+description:
+  ja: 学術論文をオープンデータとして扱うために、参考文献リストや本文を機械可読にする取り組みを扱う講演会である。あわせて、オープン・サイテーションの動向と人文社会学系分野での実践例、Open Research
+    Knowledge Graphを取り上げる。大学図書館が果たしうる役割を考える視点も含む。
+quotedDescription:
+  text:
+    ja: 「オープンデータとしての学術論文」に向けて、学術論文の参考文献リスト、本文という要素に注目した機械可読性の実現についての取り組みを紹介。オープン・サイテーションの近年の動向を、人文社会学系分野の文献での実践例とともに扱う。また、本文の機械可読性の実現の取り組みとして、ドイツ国立科学技術図書館が中心となって欧州で進められているOpen
+      Research Knowledge Graphを取り上げ、これらの講演によって、未来の学術情報流通像、そのために大学図書館ができることを考える機会となっている。
+  source: https://ocw.kyoto-u.ac.jp/course/1083/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北村 由美
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 千文
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Silvio Peroni（I4OC共同設立者
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ボローニャ大学）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Matteo Romanello
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Giovanni Colavizza
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Lars Vogt
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Sören Auer
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-02-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

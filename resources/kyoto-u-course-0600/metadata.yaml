@@ -1,0 +1,98 @@
+slug: kyoto-u-course-0600
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/600/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文研アカデミー　人種概念の総合的理解
+description:
+  ja: 人種概念をめぐる論点を、ヨーロッパ、北米、中国、日本、植民地主義など複数の地域やテーマから扱う講義資料集である。第3回から第11回までの講義資料が公開されており、人種概念の生成や近代人種主義、日本における人種主義などを順に取り上げる。
+quotedDescription:
+  text:
+    ja: 'リレー講義
+
+      人文科学研究所
+
+      竹沢 泰子 教授
+
+      高木 博志 准教授
+
+      石川 禎浩 准教授
+
+      田辺 明生 教授
+
+      文学研究科
+
+      松田 素二 教授'
+  source: https://ocw.kyoto-u.ac.jp/course/600/
+  note: 京都大学OCW 「人文科学研究所」・「文学研究科」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 総合担当：竹沢 泰子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 人文科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第3回　ヨーロッパにおける人種概念の生成（竹沢泰子）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6a2f7070d1a292f656ad30cd481f27c6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第4回　近代人種主義の二つの系譜とその交錯（田辺明生）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d7f0c7b4cce82366d5afb111fcc997ec.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第5回　北米における人種イデオロギー（竹沢泰子）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/470efa2b33c5ad3ed149abe3bd482404.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第6回　人種概念の三つの位相（竹沢泰子）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/f467f7ec42efc3383433535660e9b0c4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第7回　中国における人種概念（石川禎浩）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a9813e102928b4b406d05e73e1fe1f87.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第8回　近代天皇制と賎・穢（高木博志）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/de68072001ae2383136782b216ea2de3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第9回　日本における人種主義（竹沢泰子）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/97750cb12991e1592eb7d886d10d8714.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第10回　植民地主義と人種（竹沢泰子）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c75b09025f95721111b579d9aade40d9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+- name: '講義資料: 第11回　人種的共同性の再構築のために（松田素ニ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/bfabaf12590b527ef1244754c62d7dac.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/600/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

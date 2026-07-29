@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0138
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/138/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学内公開講座 Prof. Dr. Michael Byram (Univ. Durham, England)
+description:
+  ja: 京都大学の人間・環境学研究科で開講された学内公開講座で、使用言語は英語である。公開教材として講義資料2件と、講師の経歴書が公開されている。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: England）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大木 充
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008-11-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 講義資料1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Open_Course_on_Campus_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/138/
+- name: '講義資料: 講義資料2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Open_Course_on_Campus_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/138/
+- name: '講義資料: Curriculum vitae'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2008_Open_Course_on_Campus_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/138/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

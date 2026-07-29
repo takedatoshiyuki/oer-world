@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0777
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/777/
+type:
+- LearningResource
+- Course
+name:
+  ja: Vertex algebras, instanton counting and invariants of 3 and 4 dimensional manifolds
+description:
+  ja: この講義は、表現論から vertex operator algebras、共形場理論までを結びつけて扱う。さらに、geometric representation theory の観点から 4
+    次元多様体の不変量と instanton counting を取り上げ、後半では 3 次元多様体の不変量と logarithmic theories を扱う。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      1. Representation theory. Affine Kac-Moody algebras. Integrable representations. Characters formulas.
+      Two ways to understand characters – geometric and combinatorial. Lefschetz fix points formula and
+      Brion theorem.
+
+      2. Vertex operator algebras and conformal fields theories. Characters of representations of vertex
+      algebras.Simplest case -minimal models for Virasoro algebra. Conformal blocks and modular functor.
+      Constructions of vertex algebras by reduction or by extensions.
+
+      3. Elements of geometric representation theory. Vertex algebras and invariants of 4-dimensional
+      manifolds.Instanton counting.
+
+      4. 3-dimensional manifolds and logarithmic theories. Invariants of 3-dimensional manifolds'
+  source: https://ocw.kyoto-u.ac.jp/course/777/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Leading Researcher
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-07-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

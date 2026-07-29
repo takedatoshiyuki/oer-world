@@ -1,0 +1,89 @@
+slug: utokyo-series-2bxasnplyp3l
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=2bxaSNplyp3l
+type:
+- LearningResource
+- Course
+name:
+  ja: 第140回（2025年春季）東京大学公開講座「災害」
+description:
+  ja: 東京大学が主催する第140回の公開講座で、テーマは「災害」である。担当者として複数の教員が挙げられており、対象は中高生向け、日本語で行う。
+quotedDescription:
+  text:
+    ja: 東京大学公開講座は、昭和28年以来毎年、全学的な協力を得て開催してきました。 現在は、春と秋（年2回）に安田講堂で開催しています。
+  source: https://ch.u-tokyo.ac.jp/series/?id=2bxaSNplyp3l
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 四柳 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大坪 寛子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 平田 直
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中村 尚
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山崎 大
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 片田 敏孝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 青山 潤
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- social_sciences
+- engineering
+keywords:
+- 生命・医療
+- 人口・社会問題
+- 災害・防災
+- 環境
+- ロボット・技術
+- 教育
+- パンデミック
+- 感染症
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

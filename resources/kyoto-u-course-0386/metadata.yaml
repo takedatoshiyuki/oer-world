@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0386
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/386/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回 MACSコロキウム「ある場の量子論屋の見た数学」
+description:
+  ja: 場の量子論を、理論物理と数学の境目にある分野として捉え、その研究者の立場から見える数学側の様子を扱う講義である。講演者が研究の過程で出会った驚きを手がかりに、場の量子論とは何か、またその研究がどのようなものかに触れる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      少しでも畑の違う人からすると、理論物理も数学も似たようなものに見えるのではないでしょうか。しかし、実際にその中で暮らしてみると、随分違いがあるものです。
+
+      場の量子論は、ちょうどこの理論物理と数学の境目に位置している分野で、私はこの境目のすこし物理側で研究をしているため、数学側の様子もしばしば覗くことになります。
+
+      今回の講演では、その過程で私の巡り合ったいろいろな驚きをお話したいと思います。それを通じて、場の量子論とは何か、場の量子論の研究がどんなものであるかが、少しでも伝わればよいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/386/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 立川 裕二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-04-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

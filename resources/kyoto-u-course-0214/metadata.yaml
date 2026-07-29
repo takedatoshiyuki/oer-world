@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0214
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/214/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第42回人環国際交流セミナー Prof. Andrey Vorobiev
+description:
+  ja: ロシアにおける化学と大学の成立を、文化的背景や地理的条件、西欧文化の影響とあわせて扱う講義である。あわせて、ロシア科学界の長所と短所を踏まえ、基礎化学と応用科学の今後の展望にも触れる。
+quotedDescription:
+  text:
+    ja: '授業概要・目的
+
+      周期表を発見した科学者メンデレーエフを生み出したロシア。そのロシアにおける化学と大学の始まりがどのようなものであったかについて、文化的背景、地理的な条件、さらに西欧文化の影響と絡めてロシア・モスクワ国立大学化学科のAndrey
+      Vorobiev博士が英語で講演されています。講演ではさらにロシア科学界の長所と短所を踏まえながら、今後の基礎化学と応用科学の展望についても話されています。'
+  source: https://ocw.kyoto-u.ac.jp/course/214/
+  note: 京都大学OCW 「授業概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Andrey Vorobiev
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-04-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 歴史
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

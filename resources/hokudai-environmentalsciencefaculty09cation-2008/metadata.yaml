@@ -1,0 +1,54 @@
+slug: hokudai-environmentalsciencefaculty09cation-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/environmentalsciencefaculty09cation-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 北方地域人間環境科学教育プログラムの取り組みと問題点（2008）
+description:
+  ja: 北海道に固有の自然・文化・社会・産業にかかわる教育の展開を通じて、地域を教育資源として活用する取り組みを扱う。あわせて、環境教育と社会教育の基盤整備、地域活性化に向けたノウハウの蓄積について触れ、その概要と問題点を報告する。
+quotedDescription:
+  text:
+    ja: 平成１６～１８年度の現代GP「北方地域人間環境科学教育による地域活性化」は、北海道に固有の自然・文化・社会・産業にかかわる教育を展開し、北海道地域全体をわが国における貴重な教育資源として開発し、国民全体に活用してもらうための環境教育ならびに社会教育の基盤を整備し、地域活性化のためのノウハウの蓄積をはかることを目指して行われました。その取り組みの概要および問題点について報告します。
+  source: https://ocw.hokudai.ac.jp/lecture/environmentalsciencefaculty09cation-2008
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上田 宏
+  affiliation:
+    name: 北海道大学北方生物圏フィールド科学センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 北方生物圏フィールド科学センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

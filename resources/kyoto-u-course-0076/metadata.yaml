@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0076
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/76/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農学部地域環境工学科 課題研究要旨集 (平成25年度)
+description:
+  ja: 京都大学農学部の地域環境工学科に関する平成25年度の課題研究要旨集を収めた講義資料である。公開ファイルは1件で、教材としてはこの要旨集のみが示されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- agriculture
+keywords:
+- 農学
+- その他
+audience:
+- general_public
+materials:
+- name: '講義資料: 農学部地域環境工学科 課題研究要旨集 (平成25年度)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/06/20140606_faculty-of-agriculture_tiikikankyoukougaku.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/76/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

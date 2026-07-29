@@ -1,0 +1,86 @@
+slug: hokudai-opencampus-faculty06talfaculty05icine-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/opencampus_faculty06talfaculty05icine-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: オープンキャンパス 歯学部体験講義I 脊椎動物の顎の進化（2009）
+description:
+  ja: 北海道大学歯学部のオープンキャンパスで行われた体験講義Iで、テーマは脊椎動物の顎の進化である。同じ日のプログラムには、入学案内や学生生活紹介、体験実習、歯科治療の実際、研究室紹介、質疑応答が組み込まれている。
+quotedDescription:
+  text:
+    ja: '【スケジュール 】
+
+      2009年8月3日
+
+      9:00　受付開始
+
+      9:00　歯学部長挨拶（川浪歯学部長）
+
+      9:35　入学から卒業まで（入試案内含む）（八若教授）
+
+      10:00　学生生活紹介（北川教授）
+
+      10:25　体験講義I「脊椎動物の顎の進化」（土門教授）
+
+      11:10　休憩
+
+      11:15　体験講義II「歯と脳と心」（大畑教授）
+
+      12:00　午前の部終了
+
+      受付開始
+
+      13:00　体験実習（大畑教授 他）
+
+      14:30　歯科治療の実際（八若教授 他）
+
+      15:10　休憩
+
+      15:20　大学院生による研究室紹介（小グループに分かれ、大学院生が研究室の紹介）
+
+      16:20　質疑応答（教務委員会委員）
+
+      17:00　終了'
+  source: https://ocw.hokudai.ac.jp/lecture/opencampus_faculty06talfaculty05icine-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 土門 卓文
+  affiliation:
+    name: 北海道大学歯学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- health_welfare
+keywords:
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 歯学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

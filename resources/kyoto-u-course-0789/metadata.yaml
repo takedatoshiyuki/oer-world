@@ -1,0 +1,47 @@
+slug: kyoto-u-course-0789
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/789/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第20回知的コラボの会 “What is the use of an American scholar in the Japanese academy?” – Reflections on four
+    stages in an Evolving Research Career
+description:
+  ja: 京都大学の教育学研究科が提供する、Jeremy Rappleye担当の講義である。アメリカ人研究者が日本の学術界でどのような位置づけを持つかを題材に、研究キャリアの4つの段階を振り返る内容である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Jeremy Rappleye
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-02-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

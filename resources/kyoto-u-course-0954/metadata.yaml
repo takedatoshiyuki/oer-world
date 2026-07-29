@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0954
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/954/
+type:
+- LearningResource
+- Course
+name:
+  ja: 植島啓司X土佐尚子 トークショー 土佐琳派トークイベント メディアアートのクールジャパン
+description:
+  ja: 日本人の伝統的な美意識を手がかりに、土佐尚子の映像作品群「TOSA RIMPA」を取り上げる。CGを使わないハイスピード撮影やプロジェクションマッピングによる表現を通して、季節の景物や拡大された時間感覚をどのように映像化するかを扱う。あわせて、植島啓司を交え、作品から読み取れる現代日本の祝祭空間について語る。
+quotedDescription:
+  text:
+    ja: '概要
+
+      日本人の伝統的な美意識をテーマに、デジタル技術を駆使して息を飲むような新しい日本美の映像作品を作成する土佐尚子。 「TOSA RIMPA」は、京都府の琳派400年記念事業のイベントとして今年京都国立博物館にて、CGを使わず全編ハイスピードカメラで撮影されプロジェクションマッピング上映された「21世紀の風神・雷神伝説」を含む作品集です。　
+      実時間を約100倍に伸ばして見えてくる裸眼で見えない世界が、生命のような液体の動きや、散る花びら、秋の月、冬の雪などで表現されます。四季おりおりの風雅な眺めを捉えた驚きの日本美を、4K対応のプロジェクター&スクリーンで実際にご覧頂ながら、そこから感じ取れる現代日本の祝祭空間について、宗教人類学の植島啓司先生を迎えて語っていただきます。'
+  source: https://ocw.kyoto-u.ac.jp/course/954/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 植島啓司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 土佐尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-01-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0042
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/42/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第30回 京都大学品川セミナー「河川堤防研究：水工学からのアプローチ」
+description:
+  ja: 低平地における河川堤防の役割と、超過洪水で越流が起きたときに堤防が侵食・洗掘されて破堤に至る過程を扱う。水害脆弱性や気候変動に伴う洪水外力の増大、破堤氾濫の事例も取り上げる。さらに、数値シミュレーションによる堤防決壊過程の再現と、防止・軽減に向けた課題を紹介する。
+quotedDescription:
+  text:
+    ja: '我が国の国土面積37.8km2の10%にあたる低平地に，人口の50%が住み，財産の75%がここに集中している。東京，大阪，名古屋のような大都市はこのような低平地に立地しており，社会経済活動の中枢である。この低平地は主として「河川堤防」により洪水から守られている。この「河川堤防」は長大な構造物であるため、経済性、材料調達の容易さ、復旧のし易さ、耐久性等の観点から，土砂でつくることを原則としている。世界各国でも同様で，私たちの命と財産は，この「土砂」でできた堤防で守られているのだ。この土堤が決壊すると大規模な洪水氾濫が生じて都市の機能はマヒし，被害が世界各国に波及するであろう。
+
+      　堤防から川の水があふれない（厳密には計画高水位以下の水位の）場合には，堤防の世界に水工学の出る幕は少ない。パイピングやすべりの検討が主であるので土質工学や地盤工学の分野にお任せの世界である。しかし，一旦「想定外の洪水」（計画を上回る洪水：超過洪水）が生じると，堤防から河川水が溢れて流れ出す。そうなると水工学の出番である。「土砂」でできている堤防や基礎地盤は，越水する流れで侵食されたり洗掘されたりして，破堤に至ることがある。溢れることを前提として人の「命は守る」ことを謳っている流域治水対策に魂を入れるには，堤防を強化して破堤を避けるための対策が必要である。
+
+      　しかしながら，スローガンのみが先行して魂を入れきれていないのが現状である。堤防越流による破堤のメカニズムも十分には分かっていないので，効率的で有効な対策を適切に評価できないこともその一因ではないかと思われる。
+
+      　このセミナーでは，我が国の水害脆弱性，気候変動に伴う洪水外力の増大化，最近の破堤氾濫災害の事例紹介，越流破堤のメカニズム，数値シミュレーションによる堤防決壊過程の再現，破堤氾濫災害の防止・軽減のために取り組むべき課題等について紹介する。'
+  source: https://ocw.kyoto-u.ac.jp/course/42/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中川 一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-11-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

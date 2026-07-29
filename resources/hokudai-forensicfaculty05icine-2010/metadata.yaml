@@ -1,0 +1,58 @@
+slug: hokudai-forensicfaculty05icine-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/forensicfaculty05icine-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 法医学と博物館（2010）
+description:
+  ja: 法医学の基本的な考え方と、その対象が日常生活に近い場面にも及ぶことを取り上げる講義である。あわせて、北海道大学の博物館に所蔵されている網走市モヨロ貝塚遺跡出土のオホーツク人骨を検査した事例を通して、法医学で何が分かったかを扱う。
+quotedDescription:
+  text:
+    ja: '法医学は「法律上の問題となる医学的事項を考究し、これに解決を与える医学」と定義されています。一般的には、マスコミで取上げられるような刑事事件の被害者の死因などを調べる仕事をしているものと捉えられていると思いますが、法医学は一般市民の日常生活の意外と近いところにあります。このような法医学について紹介します。
+
+      また、本博物館に所蔵されている網走市モヨロ貝塚遺跡から出土したオホーツク人骨を検査したことがあります。ここで法医学を使ってどのようなことが分かったかを紹介します。'
+  source: https://ocw.hokudai.ac.jp/lecture/forensicfaculty05icine-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 寺沢 浩一
+  affiliation:
+    name: 北海道大学医学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- health_welfare
+- business_law
+keywords:
+- 医学／保健学
+- 法律／政治
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

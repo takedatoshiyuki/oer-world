@@ -1,0 +1,51 @@
+slug: mdsc-mdsc13
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc13
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本古典籍データセット(無料)
+description:
+  ja: 701点の古典籍について、全冊分のJPEG画像を収録したデータセットである。ページ単位の閲覧にIIIF規格を使え、書誌単位のZIPダウンロードにも対応する。書誌データ、本文テキストデータ、タグデータだけを配布する形も用意されている。
+quotedDescription:
+  text:
+    ja: "古典籍画像データ: 701 点の各作品について，その全冊（約16 万コマ）のJPEG 形式の画像データ。\r\nIIIF規格でのページ毎の閲覧が可能。ZIPでの書誌単位でのダウンロードも可能。ファイルサイズが小さくて済む書誌データ、本文テキストデータ、タグデータのみの配布もあり。"
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc13
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc13
+  summary:
+    ja: クリエイティブ・コモンズ 表示-継承（CC BY-SA。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- education
+keywords:
+- 学術研究・専門・技術サービス
+- 教育・学習支援業
+- 画像
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

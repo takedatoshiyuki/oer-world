@@ -1,0 +1,136 @@
+slug: kyoto-u-course-0710
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/710/
+type:
+- LearningResource
+- Course
+name:
+  ja: 資源生物科学概論 B
+description:
+  ja: 資源植物と資源動物の生産・利用に関わる基礎を扱う講義で、関連分野を横断して概説する内容になっている。公開教材には、海洋生物資源や農業生産、病害虫、雑草、シロアリなどを扱う回の資料が含まれる。植物生理学から動物遺伝育種学、生物資源情報学まで、複数の研究分野を対象にしている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      資源植物および動物の生産および利用技術の基礎として、それらに関連した授業を行う。
+
+      授業の紹介
+
+      資源植物および資源動物に関連の深い研究分野の連携により、植物生理学、栽培植物起源学、植物遺伝学、作物学、育種学、果樹園芸学、蔬菜花卉園芸学、品質設計開発学、品質評価学、栽培システム学、植物生産管理学、動物遺伝育種学、生殖生物学、動物栄養科学、生体機構学、畜産資源学、生物資源情報学を概説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/710/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 藤原 建紀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山下 洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 澤山 茂樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中山 耕至
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 豊原 治彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 左子 芳彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 菅原 達也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 冨永 達
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　海洋環境の特徴（藤原建紀）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第2回　漁業と海産生物資源の変動（山下洋）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第3回　海洋環境と微生物の利用（澤山茂樹）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第4回　水産資源としての魚類の生物学（中山耕至・田川正朋）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第5回　海洋無脊椎動物の多様性（豊原治彦）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第6回　海洋生物資源研究の発展（左子芳彦）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第7回　海洋生物生産物の利用（菅原達也）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第8回　雑草の除草回避戦略（冨永達）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第9回　熱帯の栽培環境と作付体系（縄田栄治）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第10回　害虫と天敵（天野洋）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第11回　植物の病気（奥野哲郎）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第12回　シロアリの繁殖システムの解明（松浦健二）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第13回　昆虫の生き方を知る（佐久間正幸）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第14回　世界の土壌（舟川晋也）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+- name: '講義資料: 第15回　菌類と植物保護（田中千尋）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_shigenseibutsukagakuganrion-b_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/710/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

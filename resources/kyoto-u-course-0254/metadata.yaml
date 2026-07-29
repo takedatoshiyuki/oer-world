@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0254
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/254/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第107回 京都大学丸の内セミナー「不均質な媒質が惹き起こす奇妙な現象」
+description:
+  ja: 熱や波動の伝播を例に、媒質を均質とみなす場合の記述と、不純物を含む不均質な媒質の模型を対比して扱う。ランダムに不純物が入る模型で、少量の不純物が系の挙動に与える影響を取り上げる講義である。
+quotedDescription:
+  text:
+    ja: '講師からの補足：
+
+      非対称ランダムウォークの分散の計算が間違っています．
+
+      正しい値はnではなく24n/25です．なおこれは講義の内容には影響しません．
+
+      　熱や波動の伝播を始めとるする物理現象は媒質が均質だと仮定すると 単純な微分方程式によって記述され，その挙動は比較的よく分かってい ます．一方で現実的には媒質にわずかな不純物が含まれる可能性は否定
+      できません．従って微視的に不均質な模型を考えて，それが均質さを仮 定した模型とどれくらい違う振る舞いをするのかを研究することは重要 な問題です．この講演では不純物がランダムに含まれているような模型
+      においては，わずかな不純物が系の振る舞いに大きな影響を与える場合 があることを紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/254/
+  note: 京都大学OCW 「講師からの補足：」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 福島 竜輝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 数理解析研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

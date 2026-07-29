@@ -1,0 +1,75 @@
+slug: utokyo-series-df7hkdtuj3g7
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Df7Hkdtuj3G7
+type:
+- LearningResource
+- Course
+name:
+  ja: 欧州の研究マネジメント専門家から学ぶ：国際連携研究で求められるスキルと役割
+description:
+  ja: 海外と連携した研究事業を進める際の進め方や、研究推進を支える役割に関心を向けたワークショップである。オランダで国際連携研究や外部資金獲得の調整、戦略策定に携わってきた専門家を招き、欧州の国際連携研究と研究助成の動向を扱う。
+quotedDescription:
+  text:
+    ja: "「国際連携研究は正直どうやって進めればいいの？」 海外と連携した研究事業の重要性が高まる中で、研究自体や研究推進の支援を実際どう進めればいいのか知りたいというニーズが研究者そして研究マネジメント人材の中で高まっています。\
+      \ \n  本ワークショップでは、オランダから国際連携研究や外部資金獲得のコーディネート、戦略策定を長年行ってきた研究マネジメント専門家を招き、欧州の国際連携研究や研究助成の動向をお話い…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=Df7Hkdtuj3G7
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 坂田 一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 正実
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Tom Kuczynski
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Matthieu Py
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西村 薫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 晶子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 島添 順子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

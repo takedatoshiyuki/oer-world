@@ -1,0 +1,55 @@
+slug: kyoto-u-course-1009
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1009/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】”立ち止まって、考える” シーズン2 「人をつなぐものとしての美術ー前近代の西洋美術に注目して」
+description:
+  ja: 中世末期からルネサンスにかけての西洋絵画を題材に、芸術作品を個人の鑑賞にとどまらない「人をつなぐもの」として捉える視点を扱う講義である。作品が他者との関係や、言葉にしにくいものの伝達にどう関わるかを考える。
+quotedDescription:
+  text:
+    ja: '新型コロナ・ウィルスの流行は、私たち人類が心身ともに健康に生きていくために重要な「つながり」を分断しました。そして、他者との「つながり」を断ち切られた私たちは、「人とつながる」ことの意味を、日々、自問自答しています。本講座では、私が専門とする中世末期からルネサンスにかけての西洋絵画を題材に、単に個々人の美的鑑賞の枠内にとどまらない、「人をつなぐもの」としての芸術作品の在り方について、考えます。そして、「言葉にできないもの」を他者に伝える手段としての芸術について認識を深め、ウィズ・コロナ時代の生き方を模索します。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1009/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 平川 佳世
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

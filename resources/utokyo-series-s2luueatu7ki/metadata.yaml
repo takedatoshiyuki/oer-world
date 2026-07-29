@@ -1,0 +1,98 @@
+slug: utokyo-series-s2luueatu7ki
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=s2luueAtU7Ki
+type:
+- LearningResource
+- Course
+name:
+  ja: 中枢神経系の発生・分化機構の解析（御子柴克彦最終講義）
+description:
+  ja: 中枢神経系の発生と分化の仕組みを扱う講義で、神経化学、生理学、分子生物学、細胞生物学、遺伝学、発生生物学、生化学に関わる内容が示されている。東京大学の医学部・医学系研究科で開講された、御子柴克彦の最終講義である。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      神経化学、生理学
+
+      分子生物学、細胞生物学
+
+      遺伝学、発生生物学、生化学
+
+      【教授略歴】
+
+      1945年3月　東京都生まれ
+
+      1969年　慶應義塾大学医学部卒業
+
+      1969年　同大学院医学研究科入学
+
+      1973年　同博士課程修了（医学博士）
+
+      1973年　慶應義塾大学医学部生理学教室　助手
+
+      1974年　同　専任講師
+
+      1976年　仏パスツール研究所分子生物学教室留学
+
+      1982年　慶應義塾大学医学部生理学教室　助教授
+
+      1985年　大阪大学蛋白質研究所　蛋白質機能制御部門　教授
+
+      －1992年3月 行動制御部門　教授（併任）
+
+      1986年　岡崎国立共同研究所機構　基礎生物学研究所
+
+      －1991年9月　行動制御部門　教授（併任）
+
+      1991年　東京大学医科学研究所化学研究部　教授（併任）
+
+      －1992年3月
+
+      1992年　東京大学医科学研究所化学研究部　教授
+
+      －現在
+
+      1992年－現在　分子神経生物学研究室　主任研究員'
+  source: https://ch.u-tokyo.ac.jp/series/?id=s2luueAtU7Ki
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 御子柴 克彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 医学部・医学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

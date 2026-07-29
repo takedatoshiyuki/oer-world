@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0661
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/661/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「臨床的人間形成論へ －これまでとこれから－」
+description:
+  ja: 本講義は、田中毎実の研究の歩みを手がかりに、臨床的人間形成論の形成と展開を扱う。京都学派や近代教育学、ライフサイクル構築、異世代間の相互形成、大学教育の臨床的研究などを通して、人間形成と教育実践の関係を論じる。後半では、FDシステムや老いへの適応といった題材も含め、これからの臨床的人間形成論の課題を示す。
+quotedDescription:
+  text:
+    ja: '【各シーン、時間とキーワード】
+
+      1/8 スライド1-5
+
+      10:58研究歴、臨床的人間形成論、楽友会館講演室、公開実験授業、西田幾多郎
+
+      2/8 スライド6-9
+
+      24:06京都学派と教育学、森昭、脱状況性・脱臨床性、人間形成原論、生命鼓橋論
+
+      3/8 スライド10-11
+
+      27:40人間学志向、臨床性志向、臨床的人間形成論
+
+      4/8 スライド12-15
+
+      39:29エミール、近代教育学、近代学校、ライフサイクル構築、異世代間の相互形成
+
+      5/8 スライド16-18
+
+      45:27マーチン・トロウ、ユニバーサル段階
+
+      6/8 スライド19-20
+
+      49:32日常的教育実践、公開実験授業、ライフサイクルと教育
+
+      7/8 スライド21-25
+
+      54:07京都大学におけるFDシステム、高等教育研究開発推進センター、FDネットワーク代表者会議、大学教育研究フォーラム、関西地区FD連絡協議会
+
+      8/8 スライド26-28
+
+      1:01:12大学教育の臨床的研究、臨床的人間形成論の構築、人間学志向と臨床性志向、老いへの適応、老いの叡智、脳の老眼'
+  source: https://ocw.kyoto-u.ac.jp/course/661/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 田中 毎実
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

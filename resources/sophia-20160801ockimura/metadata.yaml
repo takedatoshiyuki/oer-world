@@ -1,0 +1,46 @@
+slug: sophia-20160801ockimura
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20160801ockimura/
+type:
+- LearningResource
+- Course
+name:
+  ja: ドイツの脱原発は成功？失敗？
+description:
+  ja: ドイツの脱原発をめぐる成否を題材にする講義である。上智大学外国語学部ドイツ語学科で2016年度に開講され、日本語で行われる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 木村 護郎クリストフ
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 外国語学部 ドイツ語学科
+  term: 2016年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,95 @@
+slug: utokyo-series-oachiitsuvbi
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=OacHiiTSUvBI
+type:
+- LearningResource
+- Course
+name:
+  ja: Teaching Development in Higher Education in English／UTokyo Global Future Faculty Development Program（UTokyo
+    Global FFDP）
+description:
+  ja: 大学教員に必要な教育者としての力量を育てることを目的に、学生の学習を促す方法や、学習者中心のシラバス・授業設計を扱う。加えて、反省、批判的思考、議論、実践を通じて、flipped classroom
+    や peer-feedback などを体験的に学ぶ。証拠に基づく視点と国際的な視点から、大学教員としての専門性の育成を目指す。
+quotedDescription:
+  text:
+    ja: "To fulfill their roles as academics, faculty members in universities are asked to have the competences\
+      \ of an educator, in addition to those of a researcher.\n “The University of Tokyo Global Future\
+      \ Faculty Development Program” (UTokyo Global FFDP) aims to contribute to the educational development\
+      \ of future faculty members. Through the course, participants will learn how to enhance students’\
+      \ learning, contribute to their active and significant learning, design a syllabus and lessons with\
+      \ a learner-directed approach, and engage into the teaching profession with an inclusive and scholarly\
+      \ approach.\n The course emphasizes reflection, critical thinking, discussion, and learning by doing.\
+      \ Hence, participants will learn by practicing and experiencing the contents addressed (e.g., flipped\
+      \ classroom, class instruction, peer-feedback, etc.).\n UTokyo Global FFDP approaches the training\
+      \ of future faculty members using an evidence-based and global perspective that will allow participants\
+      \ to develop their careers as academics both in Japan and overseas. The participants’ learning experience\
+      \ will be enriched by “making use” of the variety of national contexts and disciplinary fields among\
+      \ them, contributing to the acquisition of new perspectives on how teaching and learning occurs\
+      \ internationally and to the building of professional networks/communities beyond their own disciplinary\
+      \ field."
+  source: https://ch.u-tokyo.ac.jp/series/?id=OacHiiTSUvBI
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Gabriel Hervas
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 栗田 佳代子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 浩章
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 戸村 理
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Linda von Hoene
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅見 泰司
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- social_sciences
+keywords:
+- 教育
+- 国際関係
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教育学部・教育学研究科
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

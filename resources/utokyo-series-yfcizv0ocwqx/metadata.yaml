@@ -1,0 +1,71 @@
+slug: utokyo-series-yfcizv0ocwqx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=yFCIZV0oCwqx
+type:
+- LearningResource
+- Course
+name:
+  ja: 2024年度 SCERU Seminar / GraSPP Research Seminar
+description:
+  ja: 本講義は、急速に変化する情報環境を主題とし、デジタル時代における情報空間を地政学的対立やサイバー戦、思想的対立の場として扱う。あわせて、情報伝達や通信技術の進展がもたらす新たな脆弱性について考察する。
+quotedDescription:
+  text:
+    ja: 'Mr Sārts will look into the nature of a rapidly evolving information landscape. The digital age
+      is transforming the information environment into an arena of geopolitical rivalry, cyber warfare,
+      and ideological confrontation. Technological advancements, innovations in information dissemination
+      and communication technologies present new potential vulnerabilities.
+
+      What is the transformative potenti…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=yFCIZV0oCwqx
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Jānis Sārts
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 谷口 将紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 青井 千由紀
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- ict
+keywords:
+- 国際関係
+- AI・情報
+- 情報
+- 安全
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

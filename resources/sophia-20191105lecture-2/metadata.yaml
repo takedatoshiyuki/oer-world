@@ -1,0 +1,57 @@
+slug: sophia-20191105lecture-2
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20191105lecture-2/
+type:
+- LearningResource
+- Course
+name:
+  ja: なぜ、ユニバーサル・ヘルス・カバレッジの達成に、プライマリ・ヘルス・ケアが必要かーアジア、アフリカの視点―
+description:
+  ja: ユニバーサル・ヘルス・カバレッジの達成とプライマリ・ヘルス・ケアの関係を、アジアとアフリカの視点から扱う講演会・シンポジウムである。上智大学が2019年11月5日に開催し、タイ保健省、本田徹、Kurfi
+    Abubakrが担当する。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: タイ保健省）
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 本田 徹（シェア＝国際保健協力市民の会
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 福島県高野病院）
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Kurfi Abubakr
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2019/11/05
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

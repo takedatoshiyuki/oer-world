@@ -1,0 +1,58 @@
+slug: kyoto-u-course-1023
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1023/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第9回「国際協力を通した 『教育モデル』の借用・貸与 －日本による『知識外交』の促進を事例として」
+description:
+  ja: 比較教育学の視点から、国や社会の間で教育モデルがどのように借用・貸与されるかを扱う講演である。EDU-Portニッポンなどを例に、日本の国際教育協力を「知識外交」という概念と結びつけて考察する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      グローバル教育展開オフィス主催2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』の第9回講演会を、3月15日（月）にZoom開催しました。今回は、東京大学大学院教育学研究科准教授　北村友人氏が〈国際協力を通した「教育モデル」の借用・貸与―日本による「知識外交」の促進を事例として―〉と題した講演を行い、司会進行は高山敬太教授が務めました。英語同時通訳を導入し、学内外および国内外からも多くの参加がありました。講演会では活発な質疑応答も行われ、盛況のうち閉会しました。
+
+      要旨
+
+      比較教育学の歴史は、自らの国や社会の教育を改善するために、他の国や社会の教育に関する思想・制度・実践などを分析することから始まっている。グローバル化の進展が目覚ましい今日、「教育モデル」の借用や貸与が国や社会の間でどのように起こっているかを明らかにすることは、比較教育学において重要な研究課題である。グローバル化には、統合や標準化を推し進めると同時に、分断や多様化をもたらすという、相反する性質がある。そのため、教育の借用・貸与を通して、そのような複雑な現象がいかにして起こっているかを理解することが不可欠である。そこで、本講演では、EDU-Portニッポンなどを例として挙げながら、教育の借用・貸与がどのように先進国と途上国の間で起こっているのかを論じる。その際、「知識外交」という概念を適用しながら、近年の国際教育協力のあり方について考えてみたい。'
+  source: https://ocw.kyoto-u.ac.jp/course/1023/
+  note: 京都大学OCW 「概要」・「要旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北村 友人
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,75 @@
+slug: utokyo-series-5gnf1okwlwss
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=5GNF1OkwlwSS
+type:
+- LearningResource
+- Course
+name:
+  ja: 医学系研究科 公共健康医学専攻フォーラム 第2回 東日本大震災の健康被害：公衆衛生と情報マネジメント
+description:
+  ja: 東日本大震災による健康被害を、公衆衛生と情報マネジメントの観点から扱う東京大学大学院医学系研究科公共健康医学専攻のフォーラムである。震災と津波、福島第一原子力発電所事故に伴う状況を背景に、これらの課題を中長期的な視点で考える内容となっている。
+quotedDescription:
+  text:
+    ja: 東京大学大学院医学系研究科公共健康医学専攻（ＳＰＨ）は7月5日、「東日本大震災の健康被害－－公衆衛生と 情報マネジメント」をテーマに、二回目のフォーラムを開催いたしました。地震と津波による大きな被害、その後の福島第一原子力発電所の事故の影響は、これ
+      までに私たちが経験したことのない深刻な事態となっています。本学ＳＰＨとして、さまざまな課題にどう対処していくべきか、中長期的な視点でとらえようと いうもの…
+  source: https://ch.u-tokyo.ac.jp/series/?id=5GNF1OkwlwSS
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 赤林 朗
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大月 敏雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村嶋 幸代
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渋谷 健司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 敏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 橋本 英樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大江 和彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

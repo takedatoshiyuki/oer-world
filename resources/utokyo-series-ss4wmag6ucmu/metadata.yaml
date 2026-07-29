@@ -1,0 +1,63 @@
+slug: utokyo-series-ss4wmag6ucmu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=SS4Wmag6ucmU
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報記号論
+description:
+  ja: この講義は、記号論を手がかりに、人間の意味活動や社会・文化をどのように捉えるかを扱う。あわせて、情報技術革命のなかで記号論が担う新しい役割としての「情報記号論」を考える。
+quotedDescription:
+  text:
+    ja: '＜記号論Semiotics＞は、C.S. PeirceとF. de Saussureを祖として二十世紀を通して発達してきた人間の意味活動のインターディシプリナリーな研究領域です。記号論は、＜構造主義＞と呼ばれた二
+      十世紀の社会・文化知のパラダイム変換に貢献し、またメディア文化や大衆社会現象を理解する理論的枠組みとしてメディア・スタディーズやカルチュラル・ス タディーズと呼ばれる研究動向のなかでも重要な理論的支柱となってきました。
+
+      そして今日では、記号論には、人間の意味環境を急速に変化させつつある記号テクノロジーに媒介された社会や文化を理解するために、新しい役割を果たすことを求められています。これが、＜情報記号論＞の領域だといえるでしょう。
+
+      この新しい学問分野は、いま情報技術革命と呼ばれているような大変化のなかで、記号論が二十世紀を通じて考えようとしてきた根本問題をとらえ返すことによって、これから創り出されるべきものという性格が強いのです。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=SS4Wmag6ucmU
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石田 英敬
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- ict
+keywords:
+- 言語・思想
+- AI・情報
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 学際情報学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

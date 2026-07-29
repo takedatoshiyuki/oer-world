@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0745
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/745/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会学特殊講義 Reconstruction of the Intimate and Public Spheres
+description:
+  ja: 京都大学文学部で2012年後期に開講された社会学特殊講義で、担当はKorhonen Ari PekkaとYang Der-Rueyである。使用言語は英語で、講義名は「Reconstruction
+    of the Intimate and Public Spheres」である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Korhonen Ari Pekka
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Yang Der-Ruey
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 文学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 文学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

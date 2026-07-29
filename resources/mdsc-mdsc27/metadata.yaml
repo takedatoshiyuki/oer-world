@@ -1,0 +1,48 @@
+slug: mdsc-mdsc27
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc27
+type:
+- LearningResource
+- Course
+name:
+  ja: 地震データ
+description:
+  ja: 北海道大学 数理・データサイエンス教育研究センターが提供し、教育用データベース分科会が担当する教材である。講義名は「地震データ」で、開講日は2019-06-12、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc27
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-12'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- engineering
+keywords:
+- 学術研究・専門・技術サービス
+- 複合サービス事業
+- 運輸業・郵便業
+- 金融業・保険業
+- IoTデータ
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: low

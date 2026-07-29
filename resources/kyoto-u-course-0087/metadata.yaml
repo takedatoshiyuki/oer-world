@@ -1,0 +1,47 @@
+slug: kyoto-u-course-0087
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/87/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語講義：現代物理学（Modern Physics）
+description:
+  ja: 京都大学が提供する英語開講の講義で、担当は青谷正妥である。現代物理学を題材にし、全学共通科目と国際交流センターの開講として前期に実施される。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 青谷 正妥
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-04-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目, 国際交流センター
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0582
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/582/
+type:
+- LearningResource
+- Course
+name:
+  ja: 海洋微生物学演習
+description:
+  ja: 海洋や湖沼などの水圏に生息する微生物を対象に、学術論文や専門書を読み進める演習である。分類、生態、生活史、生理・生化学、分子生物学、応用科学までを扱い、内容をまとめたレジュメを基に討論を行う。講義資料として講義ノートが公開されている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      海洋や湖沼といった水圏に生息する微生物に関する学術論文を掲載した主要科学雑誌や専門書を精読し、要点を簡潔に記したレジュメを作成してこれをもとに討論を行ない、論理的思考を養うとともに専門知識と研究手法を修得する。
+
+      授業の紹介
+
+      生命の起源とされる海洋は地球表面積の7割を占め、生物量の豊富さと多様性は地上をしのぐものの深海熱水孔から沿岸域に至るまで、生物資源の探索・研究が極一部に限られているのが現状です。海洋環境は未知微生物生態系と人類に有用な海洋微生物や遺伝子資源を豊富に有しています。本セミナーは、論理的思考を養うとともに、海洋微生物学に関する専門知識と研究手法を修得することを目的としています。そのために、水圏に生息する微生物に関する分類、生態、生活史、生理・生化学、分子生物学や応用科学に関する学術論文を精読してその内容を簡潔に発表し論議します。'
+  source: https://ocw.kyoto-u.ac.jp/course/582/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 左子 芳彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉田 天士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉永 郁生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_kaiyoubiseibutsugakuenshuu_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/582/
+extensions:
+  faculty: 農学部
+  term: 通年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

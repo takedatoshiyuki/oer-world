@@ -1,0 +1,75 @@
+slug: icu-ge-gen012-2014w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen012_2014w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: World of Physics (B) - Answers from Physics'
+description:
+  ja: 物理学を自然界の法則を理解する学問として位置づけ、自然現象を通してその考え方をたどる講義である。運動の法則から機械的な物体、流体、熱と相転移までを扱い、必要に応じて熱力学、共鳴、機械波にも触れる。
+quotedDescription:
+  text:
+    ja: 'Born out of curiosity of the mankind, physics is a field of study to understand the laws in the
+      natural world and is the basis of the natural science. In this course the world is explored through
+      physics explained in plain manner.
+
+      物理学は人間の知的探究心から生まれた、自然界にある法則を理解する学問であり、自然科学の基礎になっている。物理学により解き明かされてきた世界をわかりやすく説明する。
+
+      Contents of Lectures
+
+      1-4*: The Laws of Motion 1Skating | Falling Balls | Ramps
+
+      5-8: The Laws of Motion 2  Seesaws | Wheels | Bumper Cars
+
+      9-12: Mechanical Objects 1  Spring Scales | Ball Sports: Bouncing | Carousels and Roller Coasters
+
+      13-15: Mechanical Objects 2  Bicycles | Rockets and Space Travel
+
+      16-18: Fluids Balloons | Water Distribution
+
+      19-22: Fluids and MotionGarden Watering | Ball Sports: Air | Airplanes
+
+      23-27: Heat and Phase Transitions   Woodstoves | Water, Steam, Ice | Clothing, Insulation, Climate
+
+      If time available: Thermodynamics, Resonance and Mechanical Waves'
+  source: https://ocw.info.icu.ac.jp/ge/gen012_2014w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 一般教育科目
+- 'GEN012 | Course Schedule: 3/M, 3/W, 3/F | Update: 20'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0636
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/636/
+type:
+- LearningResource
+- Course
+name:
+  ja: ILASセミナー：Physical Computing 入門, 2020
+description:
+  ja: 京都大学が2020年に開講した全学共通科目の講義で、喜多一が担当する。講義名からは、Physical Computing の入門を扱う内容であることが分かる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多 一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

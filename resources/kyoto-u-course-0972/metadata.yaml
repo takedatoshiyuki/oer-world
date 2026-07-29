@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0972
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/972/
+type:
+- LearningResource
+- Course
+name:
+  ja: 高等教育研究開発推進センター 第96回公開研究会 「COVID時代以降のFDと学習空間―海外からの教訓―」
+description:
+  ja: COVID-19 が高等教育の教育・学習実践や学習空間のあり方に与えた影響を、FD と学習空間という二つの観点から扱う公開研究会である。海外の事例として、パリ・デジタル大学のFD施策の展開と、2016年以降の学習空間の国際比較研究を取り上げ、パンデミック後のキャンパス戦略を考える。
+quotedDescription:
+  text:
+    ja: 'COVID-19 の大流行は、高等教育にとってこれまでにない諸課題を提起し、教育・学習実践だけでなく、短期的にも長期的にも学習領域の境界のありかを、よりグローバルに問い直しています。FD（ファカルティ・ディベロップメント）の問題は、すべての大学にとって戦略的な資産となり、パンデミック後の時代に実施される対面の教育実践の性質にも影響を与え、新しい物理的な学習空間のあり方についての問いを投げかけています。
+
+      このセミナーでは、海外での経験から得られた洞察を通して、以下の2つの基本的なトピックについて議論します。まず、2009年にパリ地区で開始されたパリ・デジタル大学の地域レベルのFDの取り組みと、パンデミックに直面した2020年の間に経験した進化について紹介します。また、2016年以降実施されてきた学習空間の国際比較研究を用いて、将来のキャンパス戦略における学習空間の位置づけを予想し、COVIDの時代から創出される教育・学習実践を支援する方法についてお話しします。
+
+       
+
+      “Faculty Development and Learning Spaces at the COVID era and beyond: lessons from abroad”
+
+      The COVID-19 pandemic raised unprecedent challenges for Higher Education, questioning not only the
+      Teaching & Learning practices, but more globally the boundaries of the learning territories on the
+      short and potentially long term. The Faculty Development matter became a strategic asset for all
+      universities in order to face those immediate and upcoming changes, that will also impact the nature
+      of the face-to-face practices to be conducted in the post-pandemic era, setting the question of
+      the innovative physical Learning Spaces.
+
+      This seminar will discuss these two fundamental topics through the insight of foreign experiences.
+      It will present the Ile-de-France Digital University region-wide Faculty Development initiative
+      launched in Paris area in 2009, and the evolutions it experienced during 2020 to face the pandemic.
+      It will also use an international comparative study of Learning Spaces conducted since 2016 to forecast
+      their position in the future campus strategies, and outline the way they may support the Teaching
+      & Learning practices to emerge from the COVID era.'
+  source: https://ocw.kyoto-u.ac.jp/course/972/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: John Augeri
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

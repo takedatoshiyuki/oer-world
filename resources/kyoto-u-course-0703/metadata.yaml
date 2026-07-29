@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0703
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/703/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報学展望1, 2014
+description:
+  ja: インターネットへの依存が進む社会を背景に、利用者を脅威から守るための基本技術と対策を扱う。あわせて、実際にありうる脅威の例や、技術面に加えて社会現象・法整備に関する話題も取り上げ、情報セキュリティの基礎を概観する。
+quotedDescription:
+  text:
+    ja: '授業の概要・目的
+
+      IT革命以降、社会はますますインターネットへの依存を深めている。インターネットはデジタル機器間の情報の流通を極めて高速に安価に行うことを可能にし、コンピュータによるネットワーク接続を身近で手軽なものにした。一般市民の利用が広がるに従い、インターネットは電子政府・自治体や電子商取引など重要な分野でも使用されるようになった。しかし、このことは同時にインターネットの持つ脆弱性に多くの人をさらす結果となっている。本講義では、インターネット上の脅威からユーザを守るために使われている基本的な技術と、実際にありうる脅威、その対策について講述し、技術面から社会現象、法整備まで多岐に渡る内容の紹介を通じて、情報セキュリティの基礎を概観する。'
+  source: https://ocw.kyoto-u.ac.jp/course/703/
+  note: 京都大学OCW 「授業の概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岡部　寿男
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 上田　浩
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 情報学研究科
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

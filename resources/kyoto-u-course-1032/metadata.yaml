@@ -1,0 +1,53 @@
+slug: kyoto-u-course-1032
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1032/
+type:
+- LearningResource
+- Course
+name:
+  ja: 防災研究所 第44回総合防災セミナー“Narrative Signals of Systemic Risk in the Noise of Media”
+description:
+  ja: 京都大学防災研究所が開講した第44回総合防災セミナーで、題名は「Narrative Signals of Systemic Risk in the Noise of Media」である。開講日は2021-05-07で、使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Potsdam
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Germany）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-05-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- health_welfare
+keywords:
+- 社会貢献
+- 安全・衛生
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

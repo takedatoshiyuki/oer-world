@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0886
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/886/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学未来創成学国際研究ユニット設置記念シンポジウム －未来創成学の展望－
+description:
+  ja: 京都大学の未来創成学国際研究ユニットに関する設置記念シンポジウムで、未来創成学の展望を扱う。出典サイトでは、この研究ユニットの名称と英語表記が示されている。
+quotedDescription:
+  text:
+    ja: '京都大学未来創成学国際研究ユニット
+
+      International Research Unit of Future Creationology, Kyoto University'
+  source: https://ocw.kyoto-u.ac.jp/course/886/
+  note: 京都大学OCW 「京都大学未来創成学国際研究ユニット」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-08-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

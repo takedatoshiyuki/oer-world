@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0879
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/879/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学教育学部で学びませんか？ – 特色入試説明会 -, 2014
+description:
+  ja: 高校生向けの京都大学教育学部説明会で、教育、心、人間、社会に関わる事象を対象にどのような学びを行うかを扱う。あわせて、教育学部での学びの様子と平成27年度から実施予定の特色入試の内容を紹介する。
+quotedDescription:
+  text:
+    ja: '趣旨
+
+      教育とは何か？心はどのように働くものなのか？教育に関わる社会の仕組みはどうなっているのか？どうすれば、よりよい教育を実現できるのか？――そんな「問い」を抱いている高校生の皆さん、京都大学教育学部で学んでみませんか。
+
+      京都大学教育学部では、教育と心・人間・社会にかかわる多様な事象を対象とした諸科学を探究しています。この説明会では、京都大学教育学部での学びの様子を紹介するとともに、平成27年度から実施予定の特色入試についてもご説明します。'
+  source: https://ocw.kyoto-u.ac.jp/course/879/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 子安 増生
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西平 直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大場 有希子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小川 拓馬
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 楠見 孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山名 淳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 楠見 孝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-03-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 学びの報告書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/03/2015_tokusyokunyuushisetumeikai_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/879/
+- name: '講義資料: 学びの報告書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/03/2015_tokusyokunyuushisetumeikai_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/879/
+- name: '講義資料: 学びの報告書　添付資料に関する注意事項'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/03/2015_tokusyokunyuushisetumeikai_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/879/
+- name: '講義資料: ワークショップ説明資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/03/2015_tokusyokunyuushisetumeikai_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/879/
+- name: '講義資料: 2015年　京都大学教育学部案内'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/03/2015_tokusyokunyuushisetumeikai_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/879/
+- name: '講義資料: 案内チラシ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/03/2015_tokusyokunyuushisetumeikai_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/879/
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

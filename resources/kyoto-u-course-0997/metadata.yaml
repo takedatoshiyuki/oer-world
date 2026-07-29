@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0997
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/997/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】“立ち止まって、考える” リレー講義 こころの未来研究センター講義シリーズ
+description:
+  ja: 京都大学が提供するオンライン公開講義で、こころの未来研究センター講義シリーズの一つとして公開されている。河合俊雄、阿部修士、内田由紀子、広井良典、佐伯啓思が担当し、2020-07-27に開講された日本語の講義である。
+quotedDescription:
+  text:
+    ja: 'オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/1669/'
+  source: https://ocw.kyoto-u.ac.jp/course/997/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河合 俊雄（京都大学こころの未来研究センター 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: センター長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 阿部 修士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 内田 由紀子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 広井 良典
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐伯 啓思
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

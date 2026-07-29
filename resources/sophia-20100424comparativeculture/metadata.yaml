@@ -1,0 +1,60 @@
+slug: sophia-20100424comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20100424comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Shrine, Church, and State: The Borders between “Teaching” and “Religion”'
+description:
+  ja: この講義資料は、神社を宗教施設とみなすかどうかをめぐる戦前の議論と、1932年の靖国神社非参拝事件の経緯を扱う。あわせて、文部省が参拝を教育上の行為として位置づけた説明や、東アジア思想における「教」と神社の関係にも触れる。そこから、「教育」と「宗教」の境界を考える構成になっている。
+quotedDescription:
+  text:
+    ja: "神社、教会、国家\n 「教」と「宗教」の境界線 \n 戦前の神社史において、もっとも争点となる問題はおそらく神社の性質の定義である。神社は宗教的な施設であるか否か。宗教的であるという立場から、１９３２年に上智大学の予科生が靖国神社に引率されたおり、数名が参拝を行わなかった。政府は逆に神社が宗教的な施設ではないとの観点を取ってはいたが、この時点まで、その立場の裏付けには主に神社と宗教団体が違う官僚組織の管理下にあったことに頼り、神社で実際に行われる行為などに関して立ち入った公式な所見を示すことを避けていた。しかし、上智の学生の非参拝が発端となって事態が複雑化するに至り、困難な状況を打開するため、文部省はそれまでの姿勢を変え、参拝の内容に関する見解を発表することになった。学生などを神社参拝させる目的は教育上の理由に基づき、参拝の場で要求される敬礼は愛国心と忠誠を現すものであると言明したのである。焦点を「宗教」から「教育」に移すことによって、折り合いの余地を作ろうとしたわけであるが、根底にある問題が乗り越えられたとは言えない。「教育」には「教」の観念が伏在するが、西洋から\
+      \ religion （宗教）の概念が輸入される以前から、東アジアの伝統的思想における「教」と神社との関係が議論になっていたのであり、それは神社と「宗教」の関係についての問題とも絡まりあっていた。１９３２年の靖国神社非参拝事件の経緯や事後の対応の意義を理解するために以前の論争を視野に入れることは有効であろう。また異論が多い「国家神道」問題にも示唆を与えると思われる。\
+      \ \n当日のチラシは こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20100424comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: ケイト
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: ワイルドマン-ナカイ(上智大学名誉教授)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20100424comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100424comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100424comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2010/04/24
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

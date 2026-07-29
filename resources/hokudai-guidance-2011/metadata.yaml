@@ -1,0 +1,65 @@
+slug: hokudai-guidance-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/guidance-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部移行ガイダンス （2011）
+description:
+  ja: 北海道大学で2011年に公開された、学部移行ガイダンスに関する動画教材である。小内透による学部移行ガイダンスと、斎藤準によるアカデミック・サポートセンター（ASC）についての説明を収録する。
+quotedDescription:
+  text:
+    ja: '高等教育推進機構で開催された「学部移行ガイダンス」に関する動画がご覧いただけます。
+
+      「学部移行ガイダンス」 小内 透
+
+      「アカデミック・サポートセンター（ASC）について」 斎藤 準'
+  source: https://ocw.hokudai.ac.jp/lecture/guidance-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小内 透
+  affiliation:
+    name: 教育学研究院
+- type: Person
+  name: 斎藤 準
+  affiliation:
+    name: アカデミック・サポートセンター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- education
+keywords:
+- 学部移行
+- アカデミック・サポートセンター
+- 教育／学習
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

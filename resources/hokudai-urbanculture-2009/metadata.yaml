@@ -1,0 +1,105 @@
+slug: hokudai-urbanculture-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 現代都市文化論演習（2009）
+description:
+  ja: 現代都市文化と地域社会活性化を主題に、都市内部の地域共同体の営みを観察し、その価値意識を整理する講義である。教材には研究方法、リスク社会論、まちそだての基礎概念に加え、富良野・十勝・長沼の事例解説が含まれる。
+quotedDescription:
+  text:
+    ja: 「持続的地域社会活性化」の営為について、基礎科学の知見に立脚した応用科学の方法を通じて考察する。具体的には、都市内部の地域的共同体（まち）構成員の営為の観察・考察を基づいて、その価値意識を類型化します。
+  source: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 筑和 正格
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院/国際広報メディア観光学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 「まち」
+- 生活文化
+- 持続的地域社会活性化
+- 方法論
+- 価値意識
+- リスク
+- 心理／社会学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: PDF導入：「現代都市文化論」と「地域社会活性化」'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-01-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF授業日程'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-01-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDFキーワード'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-01-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF研究方法：マックス・ウェーバー'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-02-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF現代社会分析理論：ウルリヒ・ベックの「リスク社会論」'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-03-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDFリスク社会論'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-04-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF「まちそだて」の基礎概念'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-06-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF「富良野」映像事例解説'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-08-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF「まちづくり」から「まちそだて」へ～富良野の事例から学ぶ～'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Text-08-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF「十勝」映像事例解説'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-11-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF「長沼」映像事例解説'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-13-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF総括'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-14-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF「まちそだて」３地域比較表'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Note-14-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+- name: '講義資料: PDF試験'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/UrbanCulture-2009-Examination-15-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/urbanculture-2009
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+  targetAudience: 観光創造専攻修士課程 国際広報メディア・観光学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

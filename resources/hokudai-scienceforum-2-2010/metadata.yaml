@@ -1,0 +1,87 @@
+slug: hokudai-scienceforum-2-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/scienceforum-2-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: のりさんと科学を語ろう!! 第2回「北海道の農業ビジネス最前線！」（2010）
+description:
+  ja: 北海道大学の講義で、2010年に経済学部で開講される。担当者として複数の教員・関係者が記載されており、出典文では佐藤のりゆき氏が客員教授として北大の研究や活動を市民に伝える役割を担うことが示されている。
+quotedDescription:
+  text:
+    ja: '北海道大学創成研究機構ではこのたび、フリーキャスター佐藤のりゆき氏を客員教授に迎えました。これまでのキャスターとしての経験や科学技術番組制作の経験を生かして、北大の研究や活動・取り組みを分かり易く市民の皆様に伝えていただきます。
+
+      関連情報
+
+      創成シンポジウム「北大から世界へ　がん研究最前線」
+
+      のりさんと科学を語ろう!! 第1回「宇宙」'
+  source: https://ocw.hokudai.ac.jp/lecture/scienceforum-2-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 岡田 尚武
+  affiliation:
+    name: 北海道大学理事・副学長
+- type: Person
+  name: 佐藤 のりゆき
+  affiliation:
+    name: 創成研究機構
+- type: Person
+  name: 信濃 卓郎
+  affiliation:
+    name: 独立行政法人　農業・食品産業技術総合研究機構
+- type: Person
+  name: 船水 尚行
+  affiliation:
+    name: 環境ナノ・バイオ工学研究センター
+- type: Person
+  name: 鈴木 善人
+  affiliation:
+    name: 株式会社リープス
+- type: Person
+  name: 敷田 麻実
+  affiliation:
+    name: 観光学高等研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- generic
+- agriculture
+keywords:
+- 農業
+- 北海道農業
+- 北海道の産業・経済
+- ビジネス／経済
+- 複合分野／学際
+- 農学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

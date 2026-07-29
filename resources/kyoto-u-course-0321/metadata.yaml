@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0321
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/321/
+type:
+- LearningResource
+- Course
+name:
+  ja: ジュニアドクター育成塾めばえ適塾「からだと病気」
+description:
+  ja: 小中学生向けの教育プログラム「めばえ適塾」の一環として行われた、「からだと病気」をテーマにした講演である。大阪大学医学系研究科・生命機能研究科の仲野徹教授が、ホワイトボードを用いながら参加者との対話を交えて講演する。
+quotedDescription:
+  text:
+    ja: '大阪大学/京都大学/関西大学/NPO法人 知的人材ネットワークあいんしゅたいん
+
+      ジュニアドクター育成塾めばえ適塾 「からだと病気」
+
+      概要
+
+      めばえ適塾（JSTジュニアドクター育成塾）とは、科学への強い興味関心を持つ小中学生を対象に、実習などを通し数理系のセンスを身につけることで未来の研究者を育成することを目的とした教育プログラムです。大阪大学を中心として、京都大学、関西大学、NPO法人あいんしゅたいんが連携して実施しています。
+
+      この講義は、受講生である小中学生に科学の最先端の分野を牽引している研究者を知ってもらうだけでなく、めばえ適塾でアシスタントをしている大学生、大学院生の研修のために開催しましたが、多くの人に興味を持っていただける内容なので、公開することにしました。
+
+      今回は、「からだと病気」というテーマで、大阪大学医学系研究科・生命機能研究科の仲野 徹教授にご講演いただきました。ホワイトボードを使用し、参加者との対話を通した魅力的な講演となっておりますので是非ごらんください。'
+  source: https://ocw.kyoto-u.ac.jp/course/321/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 仲野 徹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-05-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

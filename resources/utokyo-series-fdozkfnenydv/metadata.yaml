@@ -1,0 +1,58 @@
+slug: utokyo-series-fdozkfnenydv
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=FDOzkFnENydv
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学総合教育研究センターによるスタジオ発信講義「人の認識の数理モデル」
+description:
+  ja: 大学総合教育研究センターのスタジオから配信する動画講義で、人の認識を数理モデルとして扱う内容を数式を用いて学ぶ。工学系研究科教授の柳澤秀吉が担当し、通常学生に教えている内容をもとに講義する。
+quotedDescription:
+  text:
+    ja: 大学総合教育研究センターのスタジオから発信する新しいスタイルの動画講義。 センターのメンバーである工学系研究科 教授　柳澤秀吉が、通常、学生に教えている「人の認識の数理モデル」を数式を用いて講義します。
+  source: https://ch.u-tokyo.ac.jp/series/?id=FDOzkFnENydv
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 柳澤 秀吉
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- ict
+- social_sciences
+keywords:
+- AI・情報
+- 心理・認知
+- 脳
+- 予測
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

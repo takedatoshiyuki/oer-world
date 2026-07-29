@@ -1,0 +1,51 @@
+slug: sophia-20110724ocfujimura
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110724ocfujimura/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会学ってどんな学問？
+description:
+  ja: 社会学を主題とする講義で、上智大学の総合人間科学部社会学科で2011年度に開講された。公開教材として講義資料PDFが1件あり、内容はその講義に対応する資料に限られる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 藤村 正之
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20110724ocfujimura.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110724ocfujimura.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110724ocfujimura/
+extensions:
+  faculty: 総合人間科学部 社会学科
+  term: 2011年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

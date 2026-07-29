@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0895
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/895/
+type:
+- LearningResource
+- Course
+name:
+  ja: 神と仏の精神史
+description:
+  ja: 京都大学のこころの未来研究センターで2010年に開講された、鎌田東二担当の講義である。講義名からは神と仏をめぐる精神史を扱う内容であることが読み取れるが、詳細なテーマや構成は与えられていない。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 鎌田 東二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

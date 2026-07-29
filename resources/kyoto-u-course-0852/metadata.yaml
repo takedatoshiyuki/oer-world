@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0852
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/852/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本学術会議公開シンポジウム「ラーニングアナリティクスによるエビデンスに基づく教育に関する国際シンポジウム」
+description:
+  ja: 教育・学習活動に関するデータの利活用を軸に、エビデンスに基づく教育と教育改善の研究を扱うシンポジウムである。個別の教育機関での利用にとどまらず、全国的なデータ活用の仕組みや国レベルでの制度・実践について議論し、関連する研究事例も紹介する。
+quotedDescription:
+  text:
+    ja: '主催：日本学術会議 心理学・教育学委員会・情報学委員会合同教育データ利活用分科会
+
+       
+
+      概要
+
+      教育・学習活動に関するデータを有効活用し、エビデンスに基づく教育の推奨 、およびそのデータを活用して、教育改善のための研究を推進していくことは、人材の育成にとって最優先の重要な課題です。また、教育・学習活動に関するデータは個別の教育機関における利活用だけではなく、全国的に利活用できる仕組みを作ることが、教育政策を議論する上で欠かせないものとなっています。
+
+      日本学術会議では、これらの議論を進めるために、心理学・教育学委員会と情報学委員会が合同で、教育データ利活用分科会を2018年に設立しました。
+
+      本分科会は本シンポジウムで、科学研究費補助金基盤（S）「教育ビッグデータを用いた教育・学習支援のためのクラウド情報基盤の研究」等の研究事例を紹介し、国レベルでの教育データの利活用やエビデンスに基づく教育の実現について議論します。'
+  source: https://ocw.kyoto-u.ac.jp/course/852/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-03-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- ict
+keywords:
+- 教育学
+- コンピュータサイエンス
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

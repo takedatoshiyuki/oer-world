@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0510
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/510/
+type:
+- LearningResource
+- Course
+name:
+  ja: 植物環境ストレス学
+description:
+  ja: 京都大学農学部で2012年後期に開講された講義で、縄田栄治、樋口浩和、間藤徹が担当する。植物が受ける環境ストレスに関する内容を扱う講義である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 縄田 栄治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 樋口 浩和
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 間藤 徹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

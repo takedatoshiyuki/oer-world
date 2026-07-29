@@ -1,0 +1,88 @@
+slug: kyoto-u-course-0538
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/538/
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学教育の創造的破壊と未来－世界最先端の次世代大学が仕掛けるエリート教育を探る－
+description:
+  ja: ミネルバ大学を例に、次世代大学の仕組みと特徴を取り上げる講義である。設立経緯や学生の学び方、カリキュラムの構成に加えて、こうした新しい大学教育が持つ可能性と課題を扱う。公開研究会・国際シンポジウムとして、既存の大学への影響も含めて議論する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      次世代の大学として世界的な注目を集めているミネルバ大学は、2014 年に米国サンフラ ンシスコで設立され、開学 2 年目には、98 ヵ国から 1 万 1 千人以上の入学希望出願者があり、合格率は僅か2.0%であった。世界7都市の学生寮を移動しながらオンラインで学ぶという、ユニークな全寮制の
+      4 年制大学であるミネルバ大学には、「受動的な教育に満足せず、大学教育を再創造したい」という起業家精神を持った意欲的で優秀な学生たちが世界中から集まり、実際に高校在学中に起業経験のある学生も多く在籍している。2017
+      年度には、入学希望出願者が 2 万人を突破し、同大学はさらに「狭き門」となりつつある。
+
+      ミネルバ大学のカリキュラムは、最新の ICT（情報コミュニケーション技術）を活用した 少人数のセミナー形式の授業とプロジェクト学習を中心に構成されており、２つの個人技能 である「批判的思考力」と「創造的思考力」、２つの対人技能である「プレゼンテーション能力」と「対人コミュニケーション能力」を合わせた「4
+      つのコア技能」を、継続的で良質な体験学習、パフォーマンス評価や学習データ分析に基づいた即時的なフィードバックや適切なアドバイスを通じて、習慣的・経験的に身につけられるようにデザインされている。
+
+      本公開研究会・国際シンポジウムでは、ミネルバ大学の創立者兼 CEO である Ben Nelson 氏を基調講演者に迎え、同大学のアジアや日本における展開を推進する責任者や産 学関係者と共に、ミネルバ大学に代表されるような新しいイノベーティブな大学教育の可能
+      性や課題、次世代大学の台頭が既存の伝統的な大学に与えるインパクトや影響などについて 議論と理解を深め、大学教育の未来を予見する。'
+  source: https://ocw.kyoto-u.ac.jp/course/538/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 飯吉 透
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 酒井 博之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田口 真奈
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 秀樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Ben Nelson（Founder
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Chairman
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: and CEO
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Minerva Schools at KGI）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-05-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

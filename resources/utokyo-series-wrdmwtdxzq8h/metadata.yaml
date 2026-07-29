@@ -1,0 +1,62 @@
+slug: utokyo-series-wrdmwtdxzq8h
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=wRDMwtDxzq8h
+type:
+- LearningResource
+- Course
+name:
+  ja: ホームカミングデイ文学部企画 2011
+description:
+  ja: 東京大学文学部の企画として行われた講演とシンポジウムを収録する。第1部では近代フランス文学における「私」の変遷を論じ、第2部ではそれを踏まえて現代文学における「私」をめぐる議論を行う。
+quotedDescription:
+  text:
+    ja: 第10回ホームカミングデイの文学部企画。第1部は「文学の明日を考える」と題して、東京大学文学部の菅野昭正名誉教授による講演が行われた。講演ではさまざまな作品を取り上げながら、近代フランス文学における「私」の変遷について解説がされた。第2部では安藤宏教授、柴田元幸教授、野崎歓准教授が加わり、「現代文学における『私』をめぐって」というテーマでシンポジウムが行われた。第1部の菅野教授の講演を下地に、安藤教授…
+  source: https://ch.u-tokyo.ac.jp/series/?id=wRDMwtDxzq8h
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 菅野 昭正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安藤 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柴田元幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野崎 歓
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

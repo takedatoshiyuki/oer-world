@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0137
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/137/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農産加工学演習Ⅱ, 2012
+description:
+  ja: 京都大学の農学研究科で2012年に通年開講された「農産加工学演習Ⅱ」の教材である。公開されている資料は「Exercise」1件のみで、講義で扱う演習用の資料が示されている。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小川 雄一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: Exercise'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_nousankakougakuenshuu-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/137/
+extensions:
+  faculty: 農学研究科
+  term: 通年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,83 @@
+slug: utokyo-series-pfseju7nizep
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=PFsejU7NIZEP
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学を創る－数学者達の挑戦（学術俯瞰講義）
+description:
+  ja: 数学が自然、社会、技術の現象とどのように結びつくかを起点に、数理モデルの考え方を扱う講義である。あわせて、数学者がどのように試行錯誤しながら理論を作り、新しい数学の道具を生み出していくかという研究の過程も紹介する。
+quotedDescription:
+  text:
+    ja: '数学は「自然現象の背後にある数理現象を見ること」である、と故・小平邦彦教授（日本人初のフィールズ賞受賞者）は繰り返し述べていた。数学の本質を言い表しているこの言葉の意味を今一度考え直した上で、二つのことを付け加えたい。まず、数理現象は自然現象ばかりではなく、社会や技術という現代のシステムの背後にも隠れている。自然や社会から数理現象を見出し、これを数学という言葉を使って表現したものが数理モデルであるが、数学そのものから新しい数理モデルが作られることもある。数学とは、まずこのような観測から第一歩が始められる。また、現象を観測しただけでは科学にはならない。石は磨かなければ玉（価値のあるもの）にはならない、これがもう一つの大事な観点である。発見された現象を分析し、あるいは統合し、必要ならば新しい数学の道具を開発することによって、数理モデルは完成度を増し、新しい数学となる。
+
+      この講義では、数学者達が何を考え、どのように試行錯誤しながら理論を創り出してきたのか、数学研究の営みを紹介する。みなさんが高校や大学の数学の講義で教わっている数学は、完成したものであり、数学者達を夢中にさせる醍醐味を味わうことは難しいだろう。ここでは、そんなエキサイティングな現場の様子を届けたいと思う。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=PFsejU7NIZEP
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Kazuo Okamoto
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 斎藤 毅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 甘利 俊一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 新井 仁之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 坪井 俊
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- arts_humanities
+- ict
+keywords:
+- 数理
+- 歴史
+- AI・情報
+- 心理・認知
+- 宇宙・物理
+- 数学
+- データ分析
+- 数論
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,132 @@
+slug: icu-ge-ges052-2014a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges052_2014a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: The World of Cultural Translation S2：文化翻訳の世界'
+description:
+  ja: 映画を手がかりに、物語が時代や文化の違いの中でどのように言い換えられ、組み替えられるかを考える講義である。翻訳研究の用語を導入しつつ、『Beauty and the Beast』と『Romeo
+    and Juliet』の映画版や関連作品を比較し、物語・映像・台詞・翻訳の変化を追う。
+quotedDescription:
+  text:
+    ja: 'This course uses film to examine the cultural translation of famous stories in different times
+      and cultural settings by looking at how shifts in the narrative, images, dialogue, and translation
+      will foreground different ideas.
+
+      文化翻訳に関する主要な考え方を紹介し、議論する。具体的には、映画における文化翻訳の表現や翻訳の流れについて学ぶ。とくに一つの物語が時代や文化が変わるといかに変化するのかを見ていく。
+
+      Contents of Lectures
+
+      1
+
+      0
+
+      Lectures / 2 Videos
+
+      Week 1
+
+      1 Introduction to cultural translation from the perspective of Translation Studies, including imported
+      terms such as “thick translation” and “indigenization,” and transcultural adaptation (intersemiotic
+      translation). Two stories, “Beauty and the Beast” and “Romeo and Juliet,” will be introduced.
+
+      Week 2
+
+      The context of the departure text of “Beauty and the Beast” will be discussed. The Disney cultural
+      translation paradigm will be reviewed, and then the story in its Disney version discussed in terms
+      of narrative elements; characters and casting; images; and intertextual and intermedial resonance.
+      Disney’s Beauty and the Beast (1992) will be compared with Jean Cocteau’s La Belle et la Bte (1946)
+
+      Week 3
+
+      The shifting meanings of ‘beauty’ and ‘beast’. The special effects of King Kong (1933) will be compared
+      with the 2006 digital retelling by Peter Jackson.
+
+      Week 4
+
+      As a “Beauty and the Beast” story, James Brooks’ As Good As It Gets (1997) will be considered in
+      terms of the links it makes with illness, and with sexuality, and its multiple beauties and beasts
+
+      Week 5
+
+      A discussion of Mark Palansky’s Penelope (2006), which shifts the predictable gender roles in the
+      “Beauty and the Beast” story: a young woman is the Beast.
+
+      Week 6
+
+      Why don’t Romeo and Juliet live in London? This class examines the narrative circulation of the
+      “Romeo and Juliet” that precedes the creation of Shakespeare’s tragedy.
+
+      Oct 14
+
+      Week 7
+
+      This class considers how Baz Luhrmann’s William Shakespeare’s Romeo and Juliet (1996) culturally
+      translates time and place in its retelling of Shakespeare’s story, and inflects the ‘untranslated’
+      language in different Englishes. The different media and use of screens in the film will be examined.
+      Special attention will be paid to the first meeting of the two lovers, the balcony scene (Act II,
+      scene ii), the death and ending of the film.
+
+      Week 8
+
+      West Side Story (1961) will be discussed as an American “Romeo and Juliet” which uses the story
+      of hatred to talk about social issues. The development of the idea for West Side Story as a musical
+      and then a film will be considered.
+
+      Oct 30
+
+      Week
+
+      9
+
+      “What’s in a name?” Isao Yukisada’s GO (2001) uses Juliet’s famous lines (II, ii, 1-2) to frame
+      his adaptation of Kazuki Kaneshiro’s novel about zainichi Koreans living in Japan.
+
+      Week
+
+      10
+
+      By re-routing the “Romeo and Juliet” story from its tragic ending, is Kenny Ortega’s High School
+      Musical (2006), an adaptation or a new story? This is the question that will be foregrounded in
+      the examination of this cultural translation.'
+  source: https://ocw.info.icu.ac.jp/ge/ges052_2014a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GES052 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2020.02.25'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0984
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/984/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2020年度 京都大学新任教員教育セミナー
+description:
+  ja: 京都大学が提供する、新任教員向けの教育セミナーである。北野正雄が担当し、2020-09-24に開講された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北野 正雄）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-09-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

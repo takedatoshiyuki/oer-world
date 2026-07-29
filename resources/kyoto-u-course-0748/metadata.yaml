@@ -1,0 +1,92 @@
+slug: kyoto-u-course-0748
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/748/
+type:
+- LearningResource
+- Course
+name:
+  ja: Class field theory standpoint and its so different three fundamental generalisation
+description:
+  ja: 類体論を現代的な観点から見直し、その基本的な枠組みと一般化を扱う講義である。高次局所体や高次類体論、Neukirch の方法、Vostokov 記号、アデール上の測度と積分、楕円曲面上のアデール構造までを含め、Langlands
+    program や anabelian geometry との関係にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      In 1972 A. Weil asserted that “since class field theory pertains to the foundation of mathematics,
+      every mathematician should be as familiar with it as with Galois theory”.
+
+      We are still waiting for this to happen.
+
+      In 1920 T. Takagi became the first mathematician to present the existence theory as part of class
+      field theory of general type. We are still digesting the impact of his work. The breakthrough of
+      Sh. Mochizuki in his IUT theory invites us to conduct a review of class field theory and its generalisations,
+      two of which were initiated and radically influenced by Japanese researchers.
+
+      This series of lectures aims to present class field theory from a revised modern point of view and
+      use this to make new observations about the Langlands program, higher class field theory and anabelian
+      geometry and links between them and their further extensions such as the IUT theory and two-dimensional
+      adelic analysis and geometry.
+
+      The lectures will include:
+
+      (a) class field theory of special and general type, and how this division has affected and is affecting
+      so much in number theory;
+
+      (b) basic features of higher local fields and their surprising properties;
+
+      (c) the Neukirch class field theory method for one-dimensional fields and its generalisations;
+
+      (d) the Vostokov symbol and its use in the study of Milnor K-theory of higher fields;
+
+      (e) explicit higher class field theory, including the universal Kawada-Satake method;
+
+      (f) translation invariant measure and integration on higher fields and adeles;
+
+      (g) two distinct adelic structures on elliptic surfaces and higher zeta integral as a bridge between
+      them;
+
+      (h) links and perspectives.'
+  source: https://ocw.kyoto-u.ac.jp/course/748/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Ivan FESENKO（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of Nottingham）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-07-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

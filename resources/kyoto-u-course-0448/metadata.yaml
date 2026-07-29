@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0448
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/448/
+type:
+- LearningResource
+- Course
+name:
+  ja: E.FORUM 学力評価スペシャリスト研修 第1回 フォローアップ研修
+description:
+  ja: 京都大学の教育学研究科が提供する、学力評価スペシャリスト研修の第1回フォローアップ研修である。教材には、オリエンテーションに加えて、単元設計と学習者主体の授業構想に関する講義資料が含まれる。文部科学省の委託事業の一環として、現場で実践改善に取り組む教員向けに実施される。
+quotedDescription:
+  text:
+    ja: '教育実践コラボレーション・センター
+
+       
+
+      概要
+
+      E.FORUMでは、文部科学省「教員の養成・採用・研修の一体的改革推進事業」の委託により、「学力評価スペシャリスト研修プログラムの開発・施行・改善」に取り組むことになりました。この事業の一環として、E.FORUM「全国スクールリーダー育成研修」の成果を活かしつつ、現場での実践改善に取り組んでおられる先生方に、フォローアップ研修を提供します。'
+  source: https://ocw.kyoto-u.ac.jp/course/448/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石井 英真
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-10-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: オリエンテーション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/10/1ce8765c1cf4d7e3ad1ce886ceb1da75.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/448/
+- name: '講義資料: A. 教科の本質を追求する単元設計'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/10/84cb9feb5b5e7392c6970bc90a8e73c9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/448/
+- name: '講義資料: B. 学習者主体の授業構想'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/10/c1d26852dbaf07f342379be9ffd75350.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/448/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

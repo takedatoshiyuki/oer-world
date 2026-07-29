@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0229
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/229/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報学展望1
+description:
+  ja: インターネット利用の拡大と、それに伴う脆弱性を背景に、情報セキュリティの基礎を扱う講義である。インターネット上の脅威とその対策、利用者を守るための基本技術を取り上げ、あわせて社会現象や法整備にも触れる。受講者同士のディスカッションも交えながら、関連分野を広く概観する。
+quotedDescription:
+  text:
+    ja: IT革命以降、社会はますますインターネットへの依存を深めている。インターネットはデジタル機器間の情報の流通を極めて高速に安価に行うことを可能にし、コンピュータによるネットワーク接続を身近で手軽なものにした。一般市民の利用が広がるに従い、インターネットは電子政府・自治体や電子商取引など重要な分野でも使用されるようになった。しかし、このことは同時にインターネットの持つ脆弱性に多くの人をさらす結果となっている。本講義では、インターネット上の脅威からユーザを守るために使われている基本的な技術と、実際にありうる脅威、その対策について講述し、技術面から社会現象、法整備まで多岐に渡る内容の紹介を通じて、情報セキュリティの基礎を概観し、受講者間のディスカッションも交えながら、理解を深める。
+  source: https://ocw.kyoto-u.ac.jp/course/229/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岡部　寿男
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 上田　浩
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 情報学研究科
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

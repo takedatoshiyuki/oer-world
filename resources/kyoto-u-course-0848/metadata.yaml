@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0848
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/848/
+type:
+- LearningResource
+- Course
+name:
+  ja: 成人移民と受け入れ社会のコミュニケーションと言語教育－ヨーロッパと東アジアの比較研究－
+description:
+  ja: 成人移民と受け入れ社会のあいだで生じるコミュニケーションと言語教育を扱い、ヨーロッパと東アジアを比較する講義である。京都大学人間・環境学研究科で開講され、日本語で実施される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: アンナ・C・ウェーバー
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ジャン＝クロード・ベアコ
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ハンナップ・ジャン
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ピエール・マルチネス
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ミシェル・カンドリエ（メーヌ大学
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学客員教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松岡洋子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 足立祐子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- arts_humanities
+keywords:
+- コミュニケーション
+- 人文科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

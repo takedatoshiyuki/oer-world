@@ -1,0 +1,64 @@
+slug: hokudai-agedsociety-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/agedsociety-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 私たちの未来とリスク 高齢社会のリスクとタスク（2012）
+description:
+  ja: 少子化する高齢社会の現状を社会学の観点から扱い、少子化と高齢化の関係や高齢社会システムの位置づけを整理する。あわせて、リスクとタスクを論じ、高齢者個人のサクセスフル・エイジングの達成方法を調査結果に基づいてまとめる。健康づくり、生きがい、社会参加、役割創造、さらに「予防原則」と「予備原則」の対比を通じた社会的・個人的タスクの問題も扱う。
+quotedDescription:
+  text:
+    ja: '「少子化する高齢社会」の現状を社会学の観点から詳述します。最初に少子化と高齢化との関連をまとめ、マクロ社会学から高齢社会システムの位置づけを行い、リスクとタスクの両方を論じます。ミクロ社会学の側からは、高齢者個人によるサクセスフル・エイジングの達成方法について調査結果に基づき整理し、健康づくり、生きがい、社会参加、役割創造などをテーマとします。また、「予防原則」と「予備原則」との対比から、社会的・個人的タスク追求の問題を考えます。
+
+      金子　勇
+
+      1949年福岡県生まれ。九州大学大学院文学研究科博士課程単位取得退学。第1回日本計画行政学会賞。第14回日本都市学会賞。文学博士。北海道大学大学院文学研究科教授。専門は社会学。単著は『都市高齢社会と地域福祉』（ミネルヴァ書房、1993年）、『高齢社会・何がどう変わるか』（講談社、1995年）、『少子化する高齢社会』（NHK出版、2006年）、『社会分析』（ミネルヴァ書房、2009年）、『コミュニティの創造的探求』（新曜社、2011年）、『高齢者の生活保障』（編著、放送大学教育振興会、2011年）など。'
+  source: https://ocw.hokudai.ac.jp/lecture/agedsociety-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 金子 勇
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 北海道大学公開講座
+- 少子化
+- 高齢化
+- 高齢社会
+- 健康づくり
+- 生きがい
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

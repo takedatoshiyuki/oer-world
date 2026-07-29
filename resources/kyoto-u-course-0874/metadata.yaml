@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0874
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/874/
+type:
+- LearningResource
+- Course
+name:
+  ja: 温度の極み：極低温の世界
+description:
+  ja: 温度の基本的な問いから出発し、低温がどこまで下がるのかという限界と、極低温で現れる現象を扱う講義資料である。物質の磁気的性質と温度の関係に焦点を当て、超伝導や超流動、磁気フラストレーション、MRIの原理まで取り上げる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      温度とは何か、低い温度にはなぜ限りかあるのかをお話しした後、極低温の世界における奇妙な現象を一般の人達にも解り易く解説し、それらの身近な応用についても紹介し、科学、物理学研究のおもしろさと意義を理解してもらう。
+
+       
+
+      授業の紹介
+
+      鉄が溶ける温度は1,535℃、太陽の表面温度は6,000℃、太陽の中心温度は1,500万℃と高い温度には限りがありません。ところが低い温度には限りがあり、マイナス273℃は絶対零度（0ケルビン）と呼ばれ、この温度が低い温度の極みなのです。物質を絶対零度に近い極低温に冷やすとヘリウム以外のすべての物質は気体や液体から固体になってしまいますが、同時に超伝導や超流動、磁気フラストレーション現象など、通常の温度では見られないまったく新しい奇妙な現象が現れてきます。いったい温度とは何なのでしょうか、なぜ低い温度には限りがあるのでしょうか？温度を下げるとなぜ奇妙な現象が現れるのでしょうか？
+
+      特に私の専門領域である物質の磁気的性質と温度との関係に着目して、温度の極みの世界を眺めてみましょう。物理学によって発見されたこれらの現象・性質は我々の身の回りでも利用されています。病院で体の断層写真を撮るMRI（磁気共鳴映像）もその例です。その原理もお話ししましょう。'
+  source: https://ocw.kyoto-u.ac.jp/course/874/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 前川 覚（京都大学大学院人間・環境学研究科 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学低温物質科学研究センター長）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-02-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/02/2010_ondonokiwami.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/874/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

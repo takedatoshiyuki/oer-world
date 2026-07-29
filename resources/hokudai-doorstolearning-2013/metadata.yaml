@@ -1,0 +1,119 @@
+slug: hokudai-doorstolearning-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 学問の世界（2013） ※学内限定
+description:
+  ja: 北海道大学の各学部・学科で扱う学問の概論を示し、学内の研究や問題意識にも触れる講義である。総合入試で入学した1年次学生を対象に、学問分野の全体像を把握し、移行先の学部・学科を考える手がかりを与える。
+quotedDescription:
+  text:
+    ja: '総合入試で入学した1年次学生に対して，北海道大学の各学部・学科等における学問について，その概論を学ぶ。また，様々な学部の最新の研究あるいは問題意識を知ることによって，本学の学生としての自覚を持ち，本学でのこれからの勉学への意欲を高めます。
+
+      本学で行われている様々な学問のおおよその全体像を理解し，同じ学部でも学科によって学ぶ内容が大きく異なったり，異なる学部でも同じような内容が学べたりすることを理解します。その上で，自分が本当に学びたいことは何なのか，将来どのようなことをしたいのか，どの学部が自分にあっているのかを十分に考えて，移行する学部・学科を決める参考にします。'
+  source: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 和田 博美
+  affiliation:
+    name: 北海道大学大学院文学研究科
+- type: Person
+  name: 瀬名波 栄潤
+  affiliation:
+    name: 北海道大学大学院文学研究科
+- type: Person
+  name: 小野  哲雄
+  affiliation:
+    name: 北海道大学大学院情報科学研究科
+- type: Person
+  name: 荻原 亨
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 松藤 敏彦
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 生方 信
+  affiliation:
+    name: 北海道大学大学院農学研究院
+- type: Person
+  name: 内藤 哲
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 北大の学問
+- 多様な学問
+- 総合入試
+- 学部・学科移行
+- 複合分野／学際
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/A1703_LinguisticsAndLiterature.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/A1704_HumanSciences.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/B2002_PublicPolicyAndEngineering.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1703_BiologicalSciences_MacromolecularFunctions.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1704_AppliedChemistry.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1802_EnvironmentalEngineering.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料1'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1803_SustainableResourcesEngineering1.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料2'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1803_SustainableResourcesEngineering2.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料3'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1803_SustainableResourcesEngineering3.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 学科パンフレット'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1804_ForestScience.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/C1904_AppliedBioscience.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/doorstolearning-2013
+extensions:
+  targetAudience: 1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

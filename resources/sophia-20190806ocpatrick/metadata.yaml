@@ -1,0 +1,50 @@
+slug: sophia-20190806ocpatrick
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20190806ocpatrick/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智の“英語”を体験しよう！～How to have a successful conversation～
+description:
+  ja: 上智大学が2019年度に大学部局で開講した講義で、PATRICK、Philipが担当する。日本語で実施され、講義名から英語での会話に関する内容を扱うことが読み取れる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: PATRICK
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Philip
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 大学
+  term: 2019年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,291 @@
+slug: icu-majors-mth105-2018s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+type:
+- LearningResource
+- Course
+name:
+  ja: Hot Topics in Mathematical Sciences 最先端の数理科学
+description:
+  ja: 数理科学の先端的な話題を取り上げ、大学数学の基礎から解析、幾何、代数、情報科学、物理学までを横断して扱う講義である。講義は、基礎的な概念の確認と研究トピックスの紹介を組み合わせ、数学の広がりと深さを示す構成になっている。
+quotedDescription:
+  text:
+    ja: 'This course presents hot topics in mathematical sciences from a wide perspective and discusses
+      breadth and depth of mathematics.
+
+      数理科学に関する先端的な話題を紹介するとともに、大学で学ぶ数学の広がりと深さを提示する。
+
+      Contents of Lectures
+
+      1
+
+      9
+
+      Lectures  /
+
+      5
+
+      Videos
+
+      Apr
+
+      09
+
+      1. ガイダンス（コースの狙い、評価など） Introduction
+
+      Apr
+
+      10
+
+      2.
+
+      大学数学の基礎１（「連続」とはなにか）：山崎満
+
+      Apr
+
+      16
+
+      3.
+
+      大学数学の基礎１（「連続」とはなにか）：山崎満
+
+      Apr
+
+      17
+
+      4.
+
+      解析研究の広がり１：山崎満
+
+      Apr
+
+      23
+
+      5.
+
+      解析研究の広がり２：山崎満
+
+      Apr
+
+      24
+
+      6.
+
+      最先端研究トピックス１：ゲストスピーカー
+
+      May 01
+
+      7.
+
+      大学数学の基礎２（「空間」（距離）とは何か）：清水勇二
+
+      May 0
+
+      7
+
+      8.
+
+      大学数学の基礎２（「空間」（距離）とは何か）：清水勇二
+
+      May 0
+
+      8
+
+      9.
+
+      最先端研究トピックス２：ゲストスピーカー
+
+      伊藤 由佳理先生
+
+      名古屋大学大学院多元数理研究科 准教授
+
+      カブリ数物連携宇宙研究機構(IPMU) 教授 (併任)
+
+      タイトル: 「対称性と特異点 Symmetry and Singularities」
+
+      May 14
+
+      10.
+
+      幾可と代数の広がり１：清水勇二
+
+      May
+
+      15
+
+      11.
+
+      幾可と代数の広がり２：清水勇二
+
+      May
+
+      21
+
+      12. 無限と代数的構造：鈴木寛
+
+      はじめに / Introduction
+
+      Lecture Notes
+
+      Slides
+
+      May 2
+
+      2
+
+      13. 無限と代数的構造：鈴木寛
+
+      整数論 / Number Theory
+
+      Lecture Notes
+
+      Slides
+
+      May 2
+
+      8
+
+      14. 無限と代数的構造：鈴木寛
+
+      四色問題 / Four Color Theorem
+
+      Lecture Notes
+
+      Slides
+
+      May 29
+
+      15. 無限と代数的構造：鈴木寛
+
+      集合・論理と不完全性定理 / Sets, Logic, Incompleteness Theorem
+
+      Lecture Notes
+
+      Slides
+
+      Jun 04
+
+      16. 無限と代数的構造：鈴木寛
+
+      有限単純群の分類定理・数学から学んだこと / Classification of Finite Simple Groups and what I learned from Mathematics
+
+      Lecture Notes
+
+      Slides
+
+      Jun 0
+
+      5
+
+      1
+
+      7
+
+      . 情報科学における数学：情報科学メジャー教員＋山崎満
+
+      Jun
+
+      11
+
+      1
+
+      8
+
+      . 物理学における数学：物理学メジャー教員＋清水勇二
+
+      Jun 1
+
+      2
+
+      1
+
+      9
+
+      .  まとめと議論'
+  source: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 清水勇二
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 鈴木寛
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 名誉教授
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 山崎満
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Mathematics 数学 | Course ID: MT'
+- 'MTH105 | Course Schedule: 3/M, 3/TU | Update: 2018.05.21'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Ad6_S3pCcaVwJ6BZjG5-bBMnfx2PdyRg/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1nqxxRe09wg4t8zTSXyuGKca6MQ-7oKil/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1hOPFe35Qdhl-zbvE7FcxPSMmikPsEt7i/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1tDXoU9MBEOfIWmSE10yzPKUy5WD9VWCV/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1j1NnYfxtahUcZUQZmcuqdH9L4dAhB67u/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1M3TJRsmC4WuQ1WkKof6hgc-Pp4MnpIM0/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1n8CpLMrOrdU9K2_rqZ-Q3aGtWlMLLUDH/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ap3pDtwAtGSPoR_20n1wPiyTeT1jpQk9/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1gXxHbv5jz9GU2IVg5wQbJehT2nqDkkOe/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1pcYe_T_b5_t3WJdUiRGN5ZyCocatdV9p/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth105_2018s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

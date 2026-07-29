@@ -1,0 +1,98 @@
+slug: utokyo-series-ifalm9d8z6ue
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ifALM9D8z6Ue
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座：予測できる未来と、予測できない未来
+description:
+  ja: 地震予測が難しい理由を、実験の制約やデータの少なさ、破壊現象としての性質から考える講義である。さらに、精度の低い予測を公表することが社会にどのような影響を及ぼすかを、ラクイラ地震事件を手がかりに扱う。
+quotedDescription:
+  text:
+    ja: '地震は「実験ができない」「超低頻度でデータが乏しい」「破壊現象で決定論が無理」などの理由から、精度の高い予測が難しいことを、例を示しながら解説します。
+
+      また、社会からの強い要請のために精度の低い予測を公表せざるを得ない場合に何が起こるかを、イタリアのラクイラ地震事件を例に解説します。
+
+      01:10　日本はなぜ地震国なのか？
+
+      10:41　基礎知識
+
+      20:56　科学的予測の経緯ー東日本大震災例にー
+
+      28:57　全国地震…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ifALM9D8z6Ue
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 纐纈 一起
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大森 裕浩
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大口 敬
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 橋本 英樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田村 善之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 杉山 将
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- social_sciences
+- ict
+keywords:
+- 災害・防災
+- 国際関係
+- 経済・金融
+- ロボット・技術
+- AI・情報
+- 生命・医療
+- 人口・社会問題
+- 政治・法律
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

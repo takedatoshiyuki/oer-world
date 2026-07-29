@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0648
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/648/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「看護のアイデンティティとは－看護の基礎学問を求めて－」
+description:
+  ja: 看護のアイデンティティを主題に、看護の基礎学問を求める視点から論じる講義である。京都大学医学研究科で開講された最終講義で、担当は齋藤ゆみである。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 齋藤 ゆみ
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-02-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

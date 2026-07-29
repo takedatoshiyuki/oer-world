@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0415
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/415/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「Method of Algebraic Analysis in the Study of Integrable Models（代数解析の方法による可積分系の研究 ）」
+description:
+  ja: 京都大学理学研究科で開講された三輪哲二担当の最終講義である。代数解析の方法による可積分系の研究を扱い、講義は英語で行われる。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 三輪 哲二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

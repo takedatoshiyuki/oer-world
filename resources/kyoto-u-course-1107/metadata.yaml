@@ -1,0 +1,66 @@
+slug: kyoto-u-course-1107
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1107/
+type:
+- LearningResource
+- Course
+name:
+  ja: The 5th Conference of the International Association for Japanese Philosophy “95 Years after the
+    Birth of Nishida Philosophy-‘Basho’ as Symbiosis of Non-Human and Human”
+description:
+  ja: 本教材は、西田幾多郎の「場所」の論理を手がかりに、西田哲学の展開とその論点を扱う。自己と他者、生命、身体、技術、芸術、宗教などの主題に加え、パンデミック下で人間と非人間の共生をどう考えるかが示される。京都の南禅寺で行う国際会議の趣旨説明として構成されている。
+quotedDescription:
+  text:
+    ja: It was in 1926 that Nishida Kitarō (1870-1945) formulated the logic of ‘basho’ (place) and published
+      an essay on it. The theme of the 2021 5th Conference of the International Association for Japanese
+      Philosophy (IAJP) will be on Nishida philosophy after 95 years of its birth. Nishida philosophy
+      as a logic of ‘basho’ developed from previous stages of his thinking centered around the concepts
+      of ‘pure experience’ (junsui keiken) and ‘self-awakening’ (jikaku). With the establishment of this
+      logical structure, Nishida developed the logic of ‘basho’ further as a logic of human society and
+      the historical world. We find, with this thematic deepening of Nishida Philosophy, one after another,
+      issues to be probed, such as ‘the relationality of self and other’, ‘life’, ‘body and action’, ‘technology’,
+      ‘art’, ‘human being,’ ‘religion’, etc. Currently at this moment, in the year 2020, the world is
+      being visited by a pandemic and our daily life is no longer as it was. We are thus pressed to revolutionize
+      our view of the world or, to put it differently, we are urged to reconsider the relationship of
+      our social distance with family, friends, colleagues, and others with whom we live, work, and create.
+      Moreover, we are also necessitated to find ways to live symbiotically not only with human beings,
+      but with “non-humans,” organic and inorganic, including viruses. 95 years after the birth of Nishida
+      philosophy, do we have the need now to reconsider the concept of ‘basho’? Do we have the need now
+      to seriously investigate and possibly incorporate the significance of the biologically “non-human”
+      even if this topic was rather thin in Nishida’s own philosophy? The organizers of the 5th Conference
+      of the IAJP would like to invite you to think together with us about “‘basho’ as symbiosis of non-human
+      and human” before and after the pandemic at Nanzen-ji temple in Kyoto.
+  source: https://ocw.kyoto-u.ac.jp/course/1107/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: hokudai-fundamentals-of-machine-learning-and-application-development-with-chatgpt-workshop
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/fundamentals-of-machine-learning-and-application-development-with-chatgpt-workshop
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「ChatGPTと学ぶ機械学習・アプリ開発の基礎 1日ワークショップ」
+description:
+  ja: 生成AIの位置づけから、プロンプト・エンジニアリング、機械学習の導入と環境構築へ進み、ChatGPTを用いたアプリ開発まで扱う1日ワークショップである。最後にまとめとふりかえりを行い、学習内容を振り返る構成になっている。
+quotedDescription:
+  text:
+    ja: "「ChatGPTと学ぶ機械学習・アプリ開発の基礎」1日ワークショップ\n■講義内容\n \n「ChatGPTと学ぶ機械学習・アプリ開発の基礎　1日ワークショップ」の教材は全て制限資料のライセンスで公開しています。\n\
+      \ \nイントロダクション\n \n1. 生成AIの衝撃\n \n2. プロンプト・エンジニアリング\n \n3. 機械学習イントロ & 環境構築\n \n4. ChatGPTと学ぶアプリ開発\n\
+      \ \n5. まとめ・ふりかえり"
+  source: https://ocw.hokudai.ac.jp/lecture/fundamentals-of-machine-learning-and-application-development-with-chatgpt-workshop
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 巽 雅洋
+  affiliation:
+    name: 株式会社 原子力エンジニアリング 解析サービス本部 解析技術グループ
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- ChatGPT
+- 機械学習
+- アプリ開発
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

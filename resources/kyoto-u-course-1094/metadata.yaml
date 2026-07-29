@@ -1,0 +1,79 @@
+slug: kyoto-u-course-1094
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1094/
+type:
+- LearningResource
+- Course
+name:
+  ja: 防災研究所 第49回総合防災セミナー“Multi-voiced and Multi-angle Reality of Disaster Risk Reduction Action Research
+    ―Perspective of Chained Visual Ethnography”
+description:
+  ja: 防災分野のアクションリサーチを対象に、研究者や地域住民、行政、教師、学生など複数の関係者が関わる実践を扱う。メキシコの防災実践をもとにした visual ethnography を土台に、参加者のコメント動画を重ねていく
+    chained visual ethnography の方法を示す。研究者側だけでなく参加者側の視点も映像化し、その記録をウェブサイトで共有する流れまでを扱う。
+quotedDescription:
+  text:
+    ja: 'Disaster risk reduction action research involves various stakeholders such as researchers, government
+      officers, community people, teachers and students. Stakeholders collaboratively carry out the action
+      research, for example, making community plans, evacuation drills and educational activities. Since
+      all the stakeholders are proactively involved in the action research, each stakeholder has their
+      own way of looking/analyzing the action research progress and outcomes. In other words, a researcher
+      has his/her own way of looking at the action research while community people have their own way
+      of looking at the action research, thus there exists a multi-voiced and multi-angle reality of action
+      research. However, evaluation of action research often reflects only the voice of researchers and
+      is published in the form of academic paper and/or book chapters. The multi-voiced and multi-angle
+      reality of action research remains as researcher’s single-voice and single angle.
+
+      This presentation aims to propose chained visual ethnography of action research that depicts multi-voiced
+      and a multi-angle reality. The visual ethnography (VE) that reflected the author’s reality was developed
+      based on the disaster risk reduction practices in Mexico. The VE was viewed with the action research
+      participants and their comment videos were developed. Thus, the multi-voiced and multi-angle reality
+      of the practices from the standpoint of the researchers and the participants are visualized. The
+      VE and videos are posted on a website to stimulate advanced practices which lead to further VE and
+      comment videos as chained visual ethnography.'
+  source: https://ocw.kyoto-u.ac.jp/course/1094/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中野 元太
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+- health_welfare
+- natural_sciences_math
+- arts_humanities
+keywords:
+- 社会貢献
+- 教育学
+- 安全・衛生
+- 自然科学
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

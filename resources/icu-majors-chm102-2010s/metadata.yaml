@@ -1,0 +1,131 @@
+slug: icu-majors-chm102-2010s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/chm102_2010s
+type:
+- LearningResource
+- Course
+name:
+  ja: Foundation of Chemistry Laboratory 基礎化学実験
+description:
+  ja: 有機化学、分析化学、無機化学、物理化学から選んだ実験を通して、基礎的な化学の概念と実験技術、実験を行う際の基本的な習慣を扱う。講義内容には、科学的思考力「系」、無機定性分析、反応速度、分配の法則、合成高分子、ルミノールが含まれる。
+quotedDescription:
+  text:
+    ja: 'To acquire the basic concepts of chemistry, experimental techniques, and customs required to
+      carry out chemistry experiments, through selected experiments from Organic, Analytical, Inorganic,
+      and Physical Chemistry.
+
+      有機化学，分析化学，無機化学，物理化学の分野から選んだ実験を通して，基礎的な化学の概念，実験技術と化学実験を行う際の基本的習慣を身に付ける。
+
+      Contents of Lectures
+
+      7
+
+      Lecture
+
+      s
+
+      Course schedule
+
+      Scientific Thinking: The System
+
+      科学的思考力：「系」
+
+      Inorganic Qualitative Analysis (IQA) – Part 1
+
+      無機定性分析-その1
+
+      Inorganic Qualitative Analysis (IQA) – Part 2
+
+      無機定性分析-その2
+
+      Physical Chemistry Part 1 – Rate of Reaction
+
+      物理化学:その1 – 反応速度
+
+      Physical Chemistry Part 2 – Partition Law
+
+      物理化学:その2 – 分配の法則
+
+      Organic Synthesis Part 1 – Synthetic Polymers
+
+      有機化学：その1 – 合成高分子
+
+      Organic Synthesis Part 2 – Luminol
+
+      有機化学：その2 – ルミノール
+
+      Resource
+
+      Lecture Notes
+
+      Organic Chemistry
+
+      Physical Chemistry
+
+      Inorganic Chemistry
+
+      Lecture Notes
+
+      Lecture Notes
+
+      Lecture Notes'
+  source: https://ocw.info.icu.ac.jp/majors/chm102_2010s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 久保謙哉
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 小竹祥子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Chemistry 化学 | Course ID: CHM1'
+- 'CHM102 | Course Schedule: 4/F, 5/F, 6/F, 7/F | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1CIjrjiXIilAM7BhpeIUfHuoTfvsqPhTR/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm102_2010s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1-t8QiYllYTCZtcBevwAdmTv_AXkN3Kte/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm102_2010s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/12zIYnrrExEuG8czCJ4RW5uWEqAr2fbcu/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm102_2010s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1NhlAL7Xi5kj8zAjHkQm6fO_GRGICammX/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm102_2010s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

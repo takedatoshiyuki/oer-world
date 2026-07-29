@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0941
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/941/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅠ-Ⅱ「大震災後の放射性物質除去を考える」 京都大学発・新技術セミナーシリーズ「土壌・水質汚染の実態と放射性核種の高速除去」
+description:
+  ja: 京都大学が提供・担当する講義で、2011年8月4日に開講された。大震災後の放射性物質除去、土壌・水質汚染の実態、放射性核種の高速除去を扱う内容である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-08-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

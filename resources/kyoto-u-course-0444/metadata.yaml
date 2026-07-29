@@ -1,0 +1,103 @@
+slug: kyoto-u-course-0444
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/444/
+type:
+- LearningResource
+- Course
+name:
+  ja: 動物生体機構学
+description:
+  ja: 動物の生体機構と生理機能を主題に、細胞・組織・器官の構造と働きを順に扱う。あわせて、内分泌機能、免疫機能、家畜の遺伝的改良に伴う体の構造と生理機能の変化と適応も取り上げる。公開資料では、細胞から各器官系までを通して学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      動物の生体機構および生理機能に関連した授業を行う。
+
+      授業の概要目的
+
+      動物は環境に適応しながら、ホメオスタシスの働きで体内の恒常性を一定に維持している。動物の細胞・組織・器官などの構造と生理・内分泌機能の特性、家畜の遺伝的改良に伴う体の構造と生理機能の変化と適応、動物の免疫機能の特徴などを講述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/444/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 久米 新一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+- natural_sciences_math
+keywords:
+- 農学
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　動物の生体機構'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第2回　動物の細胞'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第3回　動物の細胞と細胞膜'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第4回　動物の組織'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第5回　動物の血液の機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第6回　動物の免疫機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第7回　動物の内分泌系'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第8回　動物の筋肉と骨'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第9回　動物の神経系'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第10回　動物の消化器系'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第11回　動物の循環器系'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第12回　動物の泌尿器系'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第13回　反芻動物のルーメン機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+- name: '講義資料: 第14回　乳牛の疾病予防'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_doubutsuseitaikikougaku_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/444/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

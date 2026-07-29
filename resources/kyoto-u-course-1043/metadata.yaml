@@ -1,0 +1,92 @@
+slug: kyoto-u-course-1043
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1043/
+type:
+- LearningResource
+- Course
+name:
+  ja: スーパーグローバルコース数学オンライン集中講義1 “Loop space decompositions in homotopy theory with applications to Poincaré
+    Duality spaces”
+description:
+  ja: ホモトピー論におけるループ空間の分解方法を扱い、基礎的なCW複体の性質の理解に向けて議論を進める講義である。とくに Poincaré Duality complexes に焦点を当て、関連する予想やその結果にも触れる。公開資料として、講義資料が10件付属する。
+quotedDescription:
+  text:
+    ja: 'A great challenge in homotopy theory is determining properties of the homotopy groups of finite
+      simply-connected CW-complexes. One approach is to try to decompose the based loops on such a space
+      into a product of more recognizable factors. In these talks we will investigate a new loop space
+      decomposition method that applies to many interesting families of spaces, with special focus on
+      various classes of Poincaré Duality complexes. Among the consequences are resolutions of instances
+      of famous conjectures: by Moore on the relation between the torsion and rational homotopy groups,
+      and by Gromov and Vigué-Poirrier on exponential growth in the rational homology of free loop spaces.
+
+      1回目から5回目までの講義資料（板書）を、以下の資料（10）よりご覧いただけます。'
+  source: https://ocw.kyoto-u.ac.jp/course/1043/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Prof. Stephen Theriault
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-10-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: Loop space decompositions in homotopy theory with applications to Poincaré Duality spaces'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: Loop space decompositions'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: A decomposition method'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: Example: Poincaré Duality complex'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: Recall an n-dimensional PD complex'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: Inert maps are connected sums'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: Reminder'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: The Homology of Loops on PD-complexes'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: Exponential Growth in the rational homology of free loop space'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+- name: '講義資料: Additional Results are open Problems'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/10/20211019_SuperGlobal_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1043/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

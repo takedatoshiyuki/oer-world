@@ -1,0 +1,143 @@
+slug: icu-ge-gen015-2016s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen015_2016s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: Invitation to Astronomy Ｎ1：天文学への招き'
+description:
+  ja: 宇宙の特徴や構造を、最新の天体観測と理論的研究に基づいて扱う講義である。太陽系から恒星、銀河、遠方宇宙へと話題を広げ、宇宙論や人間と宇宙の関係まで踏み込む。
+quotedDescription:
+  text:
+    ja: 'In this course, we scientifically discuss what the universe is. We learn the feature and the
+      structure of the universe, which are discovered through the latest observational and theoretical
+      researches of astrophysics. Why can we understand the world at such great distant where we cannot
+      visit in actual? That is because the universe also follows the universal laws of nature. Considering
+      this fact, we understand the scientific providence of the universe and learn the past, the present,
+      and the future of the universe. Finally, we attempt to discuss why we human being could come into
+      this universe.
+
+      宇宙とはどのような存在であるかを科学的に考察する．まず，最新の天体観測や理論的研究によって明らかにされつつある宇宙の姿を学ぶ．私達が，実際に行くことができないような遠方の世界のことを把握できるのは，この宇宙も共通の自然科学の法則に従っているからである．その事実に基づいて，宇宙の摂理を理解し，宇宙の過去・現在・未来について学ぶ．その上で，なぜ私達がこの宇宙に誕生したのかを議論する．
+
+      Contents of Lectures
+
+      1
+
+      6
+
+      Lectures  / 1
+
+      4
+
+      Videos
+
+      Apr 11
+
+      Chap. 0 Introduction / はじめに
+
+      Apr 14
+
+      Chap. 1-i The Solar System: Planets / 太陽系: 惑星
+
+      Apr 18
+
+      Chap. 1-ii The Solar System 2: Jovian Planets and Trans-Neptunians / 太陽系外縁部へ
+
+      Apr 21
+
+      Chap. 1-ii The Solar System 2: Jovian Planets and Trans-Neptunians / 太陽系外縁部へ
+
+      Apr 25
+
+      Chap. 2-i: Our Star: The Sun – Solar Activity / 私達の星: 太陽 – 太陽の活動性
+
+      Apr 28
+
+      Chap. 2-ii: Our Star: The Sun – Energy of the Sun / 私達の星：太陽 – 太陽のエネルギー
+
+      May 02
+
+      Chap. 3: Message from Stars / 星からの伝言
+
+      May 09
+
+      Chap. 4: Stellar Birth / 星の誕生
+
+      May 12
+
+      Chap. 5-i: Life of a Star / 星の一生
+
+      May 16
+
+      Chap. 5-ii: Life of a Star / 星の一生 ii
+
+      May 19
+
+      Chap. 5-ii: Life of a Star / 星の一生 ii
+
+      May 23
+
+      Chap. 6: Fate of Stellar Remnants / 星の残骸の運命
+
+      May 26
+
+      Chap. 7-i: Our Galaxy / 我々の銀河系 i
+
+      Jun 06
+
+      Chap. 7-ii: Our Galaxy ii / 我々の銀河系 ii
+
+      Jun 09
+
+      Chap. 8: Galaxies in the Universe / 銀河宇宙
+
+      Chap. 9: Distant Universe / 遠方宇宙
+
+      Jun 13
+
+      Chap. 10: Cosmology / 宇宙論
+
+      Chap. 11: Humans and the Universe / 人間と宇宙'
+  source: https://ocw.info.icu.ac.jp/ge/gen015_2016s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 石丸友里
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 一般教育科目
+- 'GEN015 | Course Schedule: 4*/M, 4*/TH | Update: 2017.06.15'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

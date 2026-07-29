@@ -1,0 +1,91 @@
+slug: kyoto-u-course-1062
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1062/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第16回京都大学附置研究所・センター シンポジウム 京都大学熊本講演会 京都からの挑戦 －地球社会の調和ある共存に向けて「未知の原野を行く コロナ禍を越えた新しい世界へ」
+description:
+  ja: 京都大学の附置研究所・センターが持つ研究成果を社会へ還元することを目的に開かれた講演会である。第16回では、「未知の原野を行く－コロナ禍を超えた新しい世界へ」を掲げ、京都大学地域講演会の一環として実施した。
+quotedDescription:
+  text:
+    ja: '本学１９の附置研究所・研究センターにより構成される京都大学研究連携基盤は、第１６回京都大学附置研究所・センターシンポジウム／京都大学熊本講演会「京都からの挑戦―地球社会の調和ある共存に向けて」を開催しました。
+
+      本シンポジウムは、それぞれ独自の研究業績を有する附置研究所・研究センターが、それらの成果を広く社会に還元することを目的として、平成１８年から毎年１回全国各地の主要都市で開催しているものです。
+
+      第１６回となる今回は、「未知の原野を行く－コロナ禍を超えた新しい世界へ」をサブテーマとして開催しました。今回のシンポジウムは、本学がこれまで蓄積してきた知的資源や現在進行中の教育研究活動の成果等を広く社会に還元する目的として平成９年から全国で展開してきた京都大学地域講演会の一環でもあります。'
+  source: https://ocw.kyoto-u.ac.jp/course/1062/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 湊長博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 森前 智行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 梅澤俊明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 德山 奈帆子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小柳 義夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 宇野 裕美
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 関口 格
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: マリオ・ロペズ
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- natural_sciences_math
+- agriculture
+- health_welfare
+keywords:
+- 社会貢献
+- 経済学・金融
+- 物理学
+- 農学
+- 生物学・生命科学
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

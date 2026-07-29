@@ -1,0 +1,45 @@
+slug: icu-for-high-oc2012-gillan
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/for_high/oc2012_gillan
+type:
+- LearningResource
+- Course
+name:
+  ja: What is music?
+description:
+  ja: 国際基督教大学が提供・担当する英語の講義で、講義名は「What is music?」である。開講日は2012-07-21とされている。
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012-07-21'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- オープンキャンパス講義
+audience:
+- student
+educationalLevel:
+- upper_secondary
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

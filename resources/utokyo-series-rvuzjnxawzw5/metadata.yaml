@@ -1,0 +1,55 @@
+slug: utokyo-series-rvuzjnxawzw5
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=rVuzJNxAWzW5
+type:
+- LearningResource
+- Course
+name:
+  ja: 労働法（2008年度）
+description:
+  ja: 労働法を構成する基本的な法分野を順に取り上げ、労働法をめぐる問題を考えるための基盤を扱う講義である。事例を用いて具体的な場面を示しつつ、諸外国の制度や日本の社会・文化に由来する特徴にも目を向ける。対話を交えながら進め、受講者が主体的に考えることを促す構成である。
+quotedDescription:
+  text:
+    ja: この講義では、労働法をめぐる重層的な問題を考え解いていくための知的基盤を提供することを目的とする。具体的には、労働法総論、雇用関係法、労使関係法、労働市場法、労働紛争解決法という「労働法」を構成する基本的な法分野の枠組みを順に講義していくが、①事例を使って具体的なイメージをもちながら講義を進めていく、②諸外国の制度や実態、日本の社会や文化に起因する特徴への考察などを踏まえてより広く深い思考を促す、③できる限り皆さんと対話を行い主体的に考える力を養ってもらう、といった点に重きを置いたインターアクティブな講義にしたいと考えている。
+  source: https://ch.u-tokyo.ac.jp/series/?id=rVuzJNxAWzW5
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 水町 勇一郎
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 法学部・法学政治学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

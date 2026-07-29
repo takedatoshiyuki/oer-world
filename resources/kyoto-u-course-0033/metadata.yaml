@@ -1,0 +1,93 @@
+slug: kyoto-u-course-0033
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/33/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済英語B
+description:
+  ja: アメリカ企業とアメリカ航空機産業を例に、インターネットや経済紙誌を使って企業・産業情報を集め、整理する方法を扱う。あわせて、財務諸表の読解、ROI・ROA・ROEの確認、企業分析の進め方、レポート作成までを含む。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      経済問題・外交問題について、米英の主要誌の記事・論文を読み、自らの見解を持つことを目的とする。
+
+       
+
+      授業の紹介
+
+      アメリカ企業（The Boeing Company）とアメリカ産業（アメリカ航空機産業）を例に取り、インターネットを通じて、どのように情報を収集し、整理するか、講義を通じて学ぶ。
+
+      具体的には、上記企業・産業についてのFinancial Times, Wall Street Journal, Economist, Forbes, Fortune, Business Weekなどの経済情報紙誌の英文記事を読み進め、1.
+      製品・サービスの質、2. 業界内での位置づけ、3. 不況抵抗力、4. 経営者の質などの主要項目について調査し、経営戦略・産業動向を検討する。
+
+      講義で検討した手法をもとに、分析する特定のアメリカ企業・産業を選択し（関心のある企業で、10-K形式の会計報告をSECに提出し、公開している企業）、Form 10-K, Moody’s Company
+      Dataおよび各種経済紙誌を素材として、経営戦略と将来性を日本語でレポートにまとめる。'
+  source: https://ocw.kyoto-u.ac.jp/course/33/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 語学
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: #1 ガイダンス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+- name: '講義資料: #2 企業情報の入手（1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+- name: '講義資料: #3 財務諸表を読む（1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+- name: '講義資料: #4 企業情報の入手（2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+- name: '講義資料: #5 企業情報の入手（3）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+- name: '講義資料: #6 企業分析・調査'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+- name: '講義資料: #7 ROIとROAとROE'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+- name: '講義資料: #8 レポートの書き方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-b_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/33/
+extensions:
+  faculty: 経済学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

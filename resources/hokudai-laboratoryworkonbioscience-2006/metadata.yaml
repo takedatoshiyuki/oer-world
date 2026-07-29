@@ -1,0 +1,81 @@
+slug: hokudai-laboratoryworkonbioscience-2006
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/laboratoryworkonbioscience-2006
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 生物機能化学実験II – 植物栄養学（2006）
+description:
+  ja: 植物が根から吸収する養分と、葉での光合成による炭素獲得を前提に、植物の生育を水耕栽培と生長解析から調べる実験を扱う。あわせて、体内の窒素、糖、デンプン、無機成分の分析を通して、これらの成分が生育にどう関わるかを解析する。実験書として、秤量操作やピペット操作、試薬の安全教育も含む。
+quotedDescription:
+  text:
+    ja: '植物は根から炭素以外の養分を吸収し、葉で光合成により炭素を獲得している。
+
+      授業では実際に植物を水耕栽培し、その生長解析を行うのと同時に、体内の窒素、糖、デンプン、無機成分の分析を通して植物の生育にとってこれらの成分がどのように関わり合っているのかを解析する。実験を通して、秤量操作、ピペット操作、試薬に対する安全教育などを徹底的に行い、即実践に役立つ技術、能力を身につける。'
+  source: https://ocw.hokudai.ac.jp/lecture/laboratoryworkonbioscience-2006
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 信濃 卓郎
+  affiliation:
+    name: 農学研究院
+- type: Person
+  name: 渡部 敏裕
+  affiliation:
+    name: 農学研究院
+- type: Person
+  name: 江澤 辰広
+  affiliation:
+    name: 北海道大学大学院農学研究科
+- type: Person
+  name: 山岸 真澄
+  affiliation:
+    name: 北海道大学大学院農学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 植物栄養
+- 作物栽培
+- 水耕栽培
+- 無機分析
+- タンパク質分析
+- 菌根菌
+- 農学
+- 農学部
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義資料/実験書'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/LaboratoryWorkOnBioscience-2006-Note-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/laboratoryworkonbioscience-2006
+extensions:
+  faculty: 農学部
+  targetAudience: 2年生 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,82 @@
+slug: utokyo-series-ixqj1vdcxbar
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=IXQj1VdCXBAr
+type:
+- LearningResource
+- Course
+name:
+  ja: 博士たちの輝くキャリアデザイン
+description:
+  ja: 東京大学が提供する、第一回グローバルCOE国際シンポジウムに関する講義である。グローバルCOEプログラムの位置づけを説明し、化学・材料科学分野のグローバルCOEプログラムにも言及する。英語話者向けで、使用言語は英語である。
+quotedDescription:
+  text:
+    ja: 第一回グローバルCOE 国際シンポジウム 「博士たちの輝くキャリアデザイン」について  ・グローバルCOEプログラムとは ２１世紀COEプログラムの基本的な考え方を継承しつつ、国際的に卓越した教育研究拠点の形成を重点的に支援する文部科学省の事業です。化学・材料科学分野では、グローバルCOE
+      プログラム「理工連携による化学イノベーション」が2007年度夏からスタートしました。これは東京大学として、理学系と工学系の２１世…
+  source: https://ch.u-tokyo.ac.jp/series/?id=IXQj1VdCXBAr
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山田 泰之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 張 祐銅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岸本 健史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 泉川 美穂
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Sebastian Lacher
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Frise Anton Erik
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Yaning He
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Loic Lemiegre
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

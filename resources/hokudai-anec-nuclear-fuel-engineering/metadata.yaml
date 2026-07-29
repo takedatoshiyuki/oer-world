@@ -1,0 +1,52 @@
+slug: hokudai-anec-nuclear-fuel-engineering
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/anec_nuclear-fuel-engineering
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「核燃料工学特論」
+description:
+  ja: 北海道大学が提供する2025年度の日本語教材で、公開ファイルは『原子燃料の製造』に関する講義資料1件である。講義名からは核燃料工学特論の一部として位置づけられていることが読み取れるが、公開情報から確認できる内容は原子燃料の製造に関する資料までである。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 谷口 良則
+  affiliation:
+    name: 原子燃料工業株式会社
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+audience:
+- student
+materials:
+- name: '講義資料: 原子燃料の製造（谷口 良則・原子燃料工業株式会社）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2026/07/anec_nucler_fuel_engineering_tanigchi_20260202.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/anec_nuclear-fuel-engineering
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0728
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/728/
+type:
+- LearningResource
+- Course
+name:
+  ja: 応用微生物学実験
+description:
+  ja: 微生物の基本的な実験操作として、滅菌、分離、形態観察、培養の手順を学ぶ教材である。あわせて、微生物を用いた有用物質の生産やその定性・定量、清酒・ワイン醸造、酵素生産までを実験を通して扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      約1ヶ月間集中して行う実験を通じて、自然界に存在する微生物の多様性を認識させ、応用微生物学実験の基礎を学ぶことにより、微生物のもつ多機能性や可能性を身近なものとして体感させる。
+
+      授業の紹介
+
+      微生物の研究の基本的な実験操作、すなわち滅菌操作・自然界からの分離法・形態観察・培養法について習熟し、微生物を用いた有用物質の生産とその生産物の定性・定量を行う。また、微生物による醸造を通じて発酵機構を理解する。さらに、微生物生理を生化学的側面から解析し、酵素生産について理解する。'
+  source: https://ocw.kyoto-u.ac.jp/course/728/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 阪井 康能
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 片岡 道彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 応用微生物学実験実験書2004年度版'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第1〜2回　微生物の培養'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_01-02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第3〜4回　微生物の形態観察'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_03-04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第5回　かびのスライド培養法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第6回　自然界からの放線菌の単離'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第7回　細菌のグラム染色'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第8〜9回　メタノール資化性菌の分離（集積培養）とその生育'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_08-09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第10〜11回　放線菌による抗生物質生産とバイオアッセイによる抗生物質の定量'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_10-11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第12〜13回　Laccaseの生産と精製'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_12-13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第14〜15回　L-チロシンの酵素合成'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_14-15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第16〜17回　清酒醸造'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_16-17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第18〜19回　ワイン醸造'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_18-19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+- name: '講義資料: 第20回　アルコール濃度の定量'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_ouyoubiseibutsugakujikken_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/728/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

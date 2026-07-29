@@ -1,0 +1,66 @@
+slug: hokudai-nitobe-symposium-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nitobe-symposium-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際シンポジウム 新渡戸稲造とこれからのグローバル化 – 『武士道』と国際人- （2013）
+description:
+  ja: 新渡戸稲造とその思想を踏まえ、人文学研究のグローバル化を進めるために何が求められるかを学内外の参加者が討論するシンポジウムである。あわせて、北海道大学大学院文学研究科・文学部の研究力を国内外に発信し、海外の大学との学術交流を進めることを目指す。
+quotedDescription:
+  text:
+    ja: 本シンポジウムでは、札幌農学校第二期生で国際的に活躍した新渡戸稲造とその思想内容を踏まえた上で、今後、人文学研究のグローバル化を推進するには、何が求められ、何をなすべきかについて、学内外の多彩なメンバーが自由に討論します。これを契機として、北海道大学大学院文学研究科・文学部の多様な研究力を国内外に発信するとともに、海外の大学と学術交流の推進を図ります。
+  source: https://ocw.hokudai.ac.jp/lecture/nitobe-symposium-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: ミシェル・ラフェイ
+  affiliation:
+    name: 北海道教育大学
+- type: Person
+  name: トレント・マクシ
+  affiliation:
+    name: 米国アマースト大学
+- type: Person
+  name: 権 錫永
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 新渡戸稲造
+- グローバル化
+- 武士道
+- 国際人
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

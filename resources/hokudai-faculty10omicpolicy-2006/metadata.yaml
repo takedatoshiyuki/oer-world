@@ -1,0 +1,68 @@
+slug: hokudai-faculty10omicpolicy-2006
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty10omicpolicy-2006
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 経済政策論（2006）
+description:
+  ja: 公共政策の基本科目に入る前提として置かれた経済政策の講義で、財政・金融政策に限らず、日本経済や世界経済の構造変化まで視野に入れて扱う。学際的な観点から経済政策を体系的に整理し、理論と実践の両面を結びつけて学ぶ内容である。
+quotedDescription:
+  text:
+    ja: '本科目は、公共政策の基本科目のうち、学生の知見を標準化するための前提科目の一つとして開講される。
+
+      経済政策に関し、財政・金融政策といった範囲に限定することなく、日本経済、世界経済の構造変化等
+
+      学際的な視点から体系的に方向づけ、理論と実践を融合した経済政策の知識と応用力を形成することを目的としている。'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty10omicpolicy-2006
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐々木 隆生
+  affiliation:
+    name: 公共政策大学院
+- type: Person
+  name: 石井 吉春
+  affiliation:
+    name: 公共政策学連携研究部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- ビジネス／経済
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/EconomicPolicy-2006-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty10omicpolicy-2006
+extensions:
+  faculty: 公共政策大学院／公共政策学教育部／公共政策学連携研究部
+  targetAudience: 1年次 公共政策大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

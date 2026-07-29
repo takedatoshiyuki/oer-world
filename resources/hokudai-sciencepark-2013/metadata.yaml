@@ -1,0 +1,66 @@
+slug: hokudai-sciencepark-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sciencepark-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンスパーク in 北海道大学総合博物館 ノーベル化学賞鈴木章先生と 見て、触れて、楽しみ、学ぼう！ （2013）
+description:
+  ja: 北海道大学総合博物館で開かれたサイエンスパークの教材で、北海道大学名誉教授の鈴木章氏を招いた企画を扱う。子どもたちを対象に、科学技術への関心を高めるための体験型の交流の場として構成されている。公開教材は解説資料1件である。
+quotedDescription:
+  text:
+    ja: '北海道大学名誉教授の鈴木章氏をお招きし、本道の未来を担う子どもたちに、生活の利便性向上や社会経済の発展に大きく貢献する科学技術への関心を高めてもらうため、「見て、触れて、楽しんで、学ぶ」ことができる「体験型の交流の場」を創出しました。
+
+      リンク
+
+      北海道科学技術振興課
+
+      北海道大学総合博物館'
+  source: https://ocw.hokudai.ac.jp/lecture/sciencepark-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- サイエンスパーク
+- 有機合成
+- 鈴木カップリング
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 解説資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SPinHUMuseum.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sciencepark-2013
+extensions:
+  faculty: サイエンスパーク in 北海道大学総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

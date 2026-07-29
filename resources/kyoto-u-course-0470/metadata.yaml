@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0470
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/470/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第6回 iCeMSラーニングラウンジ：山本 暁久 + Georgia Kafer
+description:
+  ja: 英語で行うラーニングラウンジ形式の回で、2名の若手研究者がそれぞれ自身の研究を紹介する。山本暁久は細胞接着の力を直接測定する手法と、その計測を通じた細胞の特徴づけを扱う。Georgia KaferはDNA損傷と修復を扱い、細胞が損傷にどう反応し、その解明をどう進めるかを示す。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      山本 暁久 さん
+
+      「しっかりギュッとくっついて！－細胞をつなぐ力に迫る」
+
+      細胞は生き物を形作るブロックのようなもので、互いにくっつくために”糊”を持っています。この糊がなくなっていくと組織が崩れ、癌の転移のような重い病気につながることがあります。接着の強さが分かれば、細胞が健康かどうかを認識することができるかもしれません。そこで、接着力を直接測定し、細胞を特徴づけるための新たな手法をご紹介します。
+
+      今回お話させていただいたテーマである細胞接着は、生き物の体が細胞を使ってどのように組織や臓器を“組み上げている”かを理解するための重要な要素です。細胞の種類や状態によって接着力がどう変わるかを定量的に測定することで、病気などで組織が乱れるメカニズムを理解し、病気をいち早く見つけるための新たな手法を開発する手がかりを得たいと考えています。物理・生物・医学にまたがるユニークな研究を目指しています。
+
+       
+
+      ジョージア・ケーファー さん
+
+      「あなたの「マニュアル」を守る」
+
+      人間を操作する「マニュアル」は、体の中の特別な説明書に書き込まれています。その説明書は「DNA」と呼ばれ、もしDNAが傷つくと、マニュアルの一部がなくなったり、うまく伝わらなくなったりして、病気になりやすくなってしまいます。DNAは、体の外から傷つけられることもありますが、多くの場合は、体の中で日々おこっているさまざまな生命活動の中で傷ついていきます。では、傷ついたDNAはどのように修復されるのでしょうか――その解明方法に迫ります。
+
+      私は今、DNAの損傷に関する研究に取り組んでいます。細胞が、きわめて整然としていながら驚くほど複雑にDNAの損傷に反応する様子は芸術的で、今まで関わってきたどの研究よりも一番楽しいと感じています。この分野の研究は、1940年代に始まったにもかかわらず、まだ比較的解明されていないことが多いという点も、研究者にとっては魅力です。でも私が何より魅力を感じるのは、DNA損傷に関する新しい発見は、人類が抱える様々な病気に対する理解、治療法、予防法について直接的な影響を与える可能性を秘めている、ということです。'
+  source: https://ocw.kyoto-u.ac.jp/course/470/
+  note: 京都大学OCW 「概要」・「山本 暁久 さん」・「ジョージア・ケーファー さん」・「「あなたの「マニュアル」を守る」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山本 暁久 さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Georgia Kaferさん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-03-31'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

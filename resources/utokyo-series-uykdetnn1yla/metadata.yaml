@@ -1,0 +1,74 @@
+slug: utokyo-series-uykdetnn1yla
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=UYkDeTnn1ylA
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「無駄」
+description:
+  ja: 古代ギリシア、とくにアテネに見られる「無駄」と思われる事例を手がかりに、その社会の慣習や制度を扱う講座である。シュンポシオン、裁判、神々への犠牲を取り上げ、それぞれにどのような要素が含まれるかを述べる。
+quotedDescription:
+  text:
+    ja: 古代ギリシア（特にアテネ）には、現在から見ると時間やお金の「無駄」のように思われるものが少なくとも三つあります。第一は「シュンポシオン（饗宴）」。これは貴族ないし裕福な人が好んで行う社会的・文化的慣習です。第二は「裁判」。アテネの裁判は、手当をもらう数百名の裁判人が多数決で決めます。コストは小さくありません。最後に、神々に捧げる犠牲。これには大量の家畜が使われます。これもやはり「無駄」なのでしょ…
+  source: https://ch.u-tokyo.ac.jp/series/?id=UYkDeTnn1ylA
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 葛西 康徳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 辻 誠一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小林 修
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 五十嵐 中
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤本 隆宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 星加 良司
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- natural_sciences_math
+keywords:
+- 生命・医療
+- 環境史
+- 水田稲作
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

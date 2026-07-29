@@ -1,0 +1,115 @@
+slug: utokyo-series-rsqskz5xsvmc
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=RSqSKz5XsvmC
+type:
+- LearningResource
+- Course
+name:
+  ja: 流れ（学術フロンティア講義）
+description:
+  ja: 本講義は、文理双方の教員がオムニバス形式で、年度ごとのテーマを多角的に扱う。2025年度は「流れ」をテーマに、風や水、移動、会話、時の流れなどを手がかりに、その捉え方や対応のしかたを考える。各分野の講義を通して、流れの固有の力や構造を見直すための視点を示す。
+quotedDescription:
+  text:
+    ja: '本講義は、文系・理系あわせて13名の教員によるオムニバス形式で行われます。年度ごとに一つのテーマを設定し、それぞれの専門領域から多角的にアプローチします。
+
+      この「学術フロンティア講義」では、以下の点を重視しています。
+
+      ①学生が多様な視点や考え方に触れ、物事を多角的に捉える力を身につけること
+
+      ②出講教員が研究を進めるうえでの問いの立て方や思考のプロセスを提示し、それを通じて履修者自身の問題意識や知的な姿勢を育むこと
+
+      複数の分野が交差するこの講義は、専門を越えた新たな視点を触れる貴重な機会となるでしょう。
+
+      25年度は下記のテーマおよび趣旨で開講します。
+
+      ■テーマ：流れ
+
+      ■講義趣旨：
+
+      古代の哲学者に「万物は流転する」と言われるまでもなく、われわれは「流れ」のなかに生きている。風の流れや水の流れ、あるいは人や車の流れといったものを、われわれは具体的に経験するし、「会話の流れJや「時の流れJといった言い回しをわれわれはごく自然なものとして用いている。
+
+      とはいえ、それを捉え、表現することは必ずしも容易ではない。流れを「読み」、「見極める」ことは、したがって一つの重要な能力となる。ただそうして掴みえた流れにどう対応するのかにも、決まった処方があるわけではない。
+
+      その中に安んじて身を置く場合もあれば、それに悼さし、あえて乗るという場合もある。あるいはまたそれを自ら作り出し、変え、場合によっては堰き止めることが必要になることもあるだろう。
+
+      流れはわれわれにとって、労せずして進むことを可能にする推進力となることもあれば、われわれをなすすべもなく翻弄することもある。それは新しいかたちを生み出すこともあれば、すべてを押し流す破壊的な力をふるうこともある。
+
+      「流水腐らず」と言われることもあれば、「流れ水に大魚なし」という諺もある。本講義では、そうした「流れ」がせめぎ合うなかで生きるわれわれが、その固有の力、固有のロジックを自覚し、独自の観点から再考するための手がかりを、文理双方の教員による多様な分野からの講義を通して提供することを目指す。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=RSqSKz5XsvmC
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山崎 大
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 辻 信一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 牧原 出
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 関本 義秀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福本 理恵
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鳥海 不二夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 早野 薫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- arts_humanities
+- business_law
+keywords:
+- 環境
+- 宇宙・物理
+- 言語・思想
+- 政治・法律
+- 歴史
+- 教育
+- 地球環境
+- 河川
+- UTokyo OCW
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 教養学部・総合文化研究科
+  targetAudience: 中高生向け・学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,53 @@
+slug: sophia-20181107lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20181107lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: アフリカの健康、アフリカの未来：より質の高い保健・医療サービスへのアクセスを可能にする制度づくり
+description:
+  ja: 上智大学が2018年11月7日に開催した講演会・シンポジウムの講義資料である。アフリカにおける健康と将来を主題に、より質の高い保健・医療サービスへのアクセスを可能にする制度づくりを扱う。公開教材は講義資料1件で、日本語で提供されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 公衆衛生専門官
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: WHO健康開発総合研究センター諮問委員）ほか
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 181107lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/181107lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20181107lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2018/11/07
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

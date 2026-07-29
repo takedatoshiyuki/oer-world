@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0860
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/860/
+type:
+- LearningResource
+- Course
+name:
+  ja: KU-UNDP joint international symposium “Collaboration Between UN Organization and Higher Education”,
+    2017
+description:
+  ja: 京都大学とUNDPの協力協定締結を記念して開かれる国際シンポジウムである。UN機関と高等教育機関の連携をテーマに、2017年1月13日に京都大学大学院総合生存学館が主催し、GSSが支援する形で実施される。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Kyoto University and the United Nations Development Programme (UNDP) will be commemorating the April
+      2016 conclusion of their comprehensive cooperation agreement with the International Development
+      Symposium “Collaboration Between UN Organization and Higher Education — Ceremonial Symposium for
+      Conclusion of MoU Between United Nations Development Programme (UNDP) and Kyoto University”, to
+      be held Friday 13 January as follows.
+
+      The event will be hosted by the Kyoto University Graduate School of Advanced Integrated Studies
+      in Human Survivability (GSAIS, or “Shishu-Kan”), the University’s lead institution for the MoU,
+      with support from the Inter-Graduate School Program for Sustainable Development and Survival Societies
+      (GSS).'
+  source: https://ocw.kyoto-u.ac.jp/course/860/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-01-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+keywords:
+- コミュニケーション
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

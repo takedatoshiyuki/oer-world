@@ -1,0 +1,54 @@
+slug: hokudai-societyandethic03-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/societyandethic03-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 現代社会と倫理 「循環型社会における安全・安心な社会基盤構造物」（2009）
+description:
+  ja: 防災、都市再生、生活環境、国土保全、交通輸送に関わる社会基盤構造物を対象に、循環型社会や少子高齢化社会への対応を考える講義である。コンクリートを用いる場合の設計・施工の論点に加え、更新時期を迎える構造物を延命しながら使い続ける考え方も扱う。
+quotedDescription:
+  text:
+    ja: 防災、都市再生、生活環境、国土保全、交通輸送などに資する社会基盤構造物は、莫大な予算の下、大量の資材、人材、時間をかけて構築される。循環型社会や少子高齢化社会に対応した社会基盤構造物の設計、施工はどうあるべきか、技術的な解決策はどのようなものかについて、建設基幹材料であるコンクリートを使用する場合について述べる。また、大更新時期を向かえる社会基盤構造物をどのように延命させ、使いこなしていくかについても述べる。
+  source: https://ocw.hokudai.ac.jp/lecture/societyandethic03-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 杉山 隆文
+  affiliation:
+    name: 北海道大学大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

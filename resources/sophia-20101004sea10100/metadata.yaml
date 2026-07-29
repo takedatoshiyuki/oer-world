@@ -1,0 +1,77 @@
+slug: sophia-20101004sea10100
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101004sea10100/
+type:
+- LearningResource
+- Course
+name:
+  ja: 機能創造理工学Ｉ
+description:
+  ja: 物理学の基礎として、力学と電磁気学を順に扱う講義である。前半では3次元空間での質点の運動や重力下・惑星の運動を保存則とともに学び、中盤では例題演習を通じて力学を確認する。後半では電流と磁気の関係、および電磁誘導の法則を学ぶ。
+quotedDescription:
+  text:
+    ja: 物理学は機能創造理工学の基礎である。本講義では，その物理学の中でも基本的な位置を占める力学，電磁気学を学ぶ。（オムニバス方式／全１４回）始めの５回は、基礎物理学で学んだ力学を受けて，3次元空間での質点の運動を学ぶ。特に重力下での質点の運動と惑星の運動を，運動量，角運動量，エネルギーの保存則を使って理解する。次の４回は、例題の演習と解説を通じて，物理学の基礎である力学の理解を深める。最後の５回は、電流と磁気の関係（ビオ-サバールの法則,アンペールの法則），電磁誘導（ファラデーの法則）を学ぶ。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101004sea10100/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大槻 東巳
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 佐藤 美洋
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 中村 一也全学共通科目
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20101004SEA10100_chukan.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101004SEA10100_chukan.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101004sea10100/
+- name: '講義資料: 20101004SEA10100_kimatsu.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101004SEA10100_kimatsu.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101004sea10100/
+- name: '講義資料: 20101004SEA10100_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101004SEA10100_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101004sea10100/
+- name: '講義資料: 20101004SEA10100_04.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101004SEA10100_04.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101004sea10100/
+- name: '講義資料: 20101004SEA10100_05.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101004SEA10100_05.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101004sea10100/
+extensions:
+  faculty: 理工学部
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

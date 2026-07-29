@@ -1,0 +1,59 @@
+slug: utokyo-series-2xkusuyr8vtg
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=2xkuSUyR8VTG
+type:
+- LearningResource
+- Course
+name:
+  ja: 模擬国連ワークショップ
+description:
+  ja: 模擬国連を題材に、担当国になりきって国際問題を議論する学習手法を扱う。あわせて、模擬国連で学んだことが社会でどのように生かされるかを、授業担当教員と国連職員が議論する内容である。
+quotedDescription:
+  text:
+    ja: '模擬国連は、一人一人が米国政府代表や中国政府代表などの担当国になりきって国際問題について話し合う教育手法（ロールプレイ。シミュレーション）です。このセッションでは、模擬国連を通して学んだことが社会でどう役立つかについて、学生時代に模擬国連を経験した授業担当教員と国連職員が話し合います。
+
+      イベント詳細はこちら。（セッション1とセッション2は資料のみの掲載です）
+
+      主催：東京大学大学院総合文化研究科…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=2xkuSUyR8VTG
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 尚子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中村 長史
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

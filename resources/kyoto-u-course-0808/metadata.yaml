@@ -1,0 +1,109 @@
+slug: kyoto-u-course-0808
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/808/
+type:
+- LearningResource
+- Course
+name:
+  ja: 進化とは何か？
+description:
+  ja: チャールズ・ダーウイン生誕200年を背景に、進化をテーマとする全学共通科目の講義資料をまとめた教材である。前半では進化ダイナミックスにおける自己・非自己循環原理を扱い、後半ではこころの進化とこころの老化を扱う。
+quotedDescription:
+  text:
+    ja: 'Charles Robert Darwin (1809-1882).
+
+      At the age of 51, Charles Darwin had just published “On the Origin of Species”.
+
+      出所　http://en.wikipedia.org/wiki/Charles_Darwin
+
+       
+
+      授業の紹介
+
+      2009年は、チャールズ・ダーウイン生誕200年にあたる。そこで、本年は「進化とは何か？」というテーマで全学共通セミナーを開講する。'
+  source: https://ocw.kyoto-u.ac.jp/course/808/
+  note: 京都大学OCW 「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 村瀬 雅俊
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第1回\tはじめに"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第2回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第3回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その2）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第4回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その3）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第5回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その4）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第6回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その5）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第7回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その6）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第8回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その7）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第9回\t進化ダイナミックスにおける自己・非自己循環原理の探求（その8）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第10回\tこころの進化とこころの老化（その１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第11回\tこころの進化とこころの老化（その2）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第12回\tこころの進化とこころの老化（その3）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第13回\tこころの進化とこころの老化（その4）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+- name: "講義資料: 第14回\tこころの進化とこころの老化（その5）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_shinkatohananika_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/808/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

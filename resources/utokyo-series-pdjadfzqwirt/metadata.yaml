@@ -1,0 +1,87 @@
+slug: utokyo-series-pdjadfzqwirt
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=PdjADFZQWIRt
+type:
+- LearningResource
+- Course
+name:
+  ja: 変化する都市－政治・技術・祝祭（学術俯瞰講義）
+description:
+  ja: 東京を主題の一つにしながら、都市の本質や変化の要因、将来像を多面的に考える講義である。都市を建物やインフラの集合として見るだけでなく、文化や権力の基盤として捉える視点も扱う。
+quotedDescription:
+  text:
+    ja: 'われわれは都市文明のなかに暮らしている。都市は生活の場であり、表現の場であり、文化の母胎であり、記憶の容器である。また、われわれの都市は建物の集合体であり、道路やライフラインなど、インフラ・ストラクチュアといわれるものの集合体であり、また、目に見えない文化や権力の基盤である。何がこうした都市を生み出してきたのか。何が都市を変化させてゆくのか。そして今、都市はどこに向かっているのか。われわれをとりまく都市の本質とその将来像を、東京をひとつの主題としながら、さまざまな視点に立って考えてみたい。
+
+      都市には，自らをつくり出し，変化させてゆく多くの力が働いている。そして都市には、それが発する多様なメッセージが充満している。都市は物理的構造体であると同時に、文化的・政治的現象でもある。多面的な都市を多面的に問おうとするこの講義のなかから、みなさんにとっての都市をつかまえていただきたい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=PdjADFZQWIRt
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鈴木 博之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 淳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 御厨 貴
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 木下 直之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西村 幸夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安藤 忠雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 都市・建築
+- 歴史
+- 災害・防災
+- 文化・芸術・文芸
+- 環境
+- 視点を変えた新しい世界史
+- 都市計画
+- 近代日本
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0960
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/960/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅩⅢ　強靭な「日本列島」を構想する～佐伯啓思×清野純史×藤井聡×中野剛志～
+description:
+  ja: 大震災後の社会や国づくりを考える京都大学のシンポジウム講義である。日本列島の強靭化をテーマに、佐伯啓思、清野純史、藤井聡、中野剛志が議論する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐伯 啓思
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 清野 純史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 藤井 聡
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中野 剛志
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-09-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

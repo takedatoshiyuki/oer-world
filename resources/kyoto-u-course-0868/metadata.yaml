@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0868
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/868/
+type:
+- LearningResource
+- Course
+name:
+  ja: '第4回国際シンポジウム”The Global Energy Transformation: a quest for solutions from the perspective of human
+    survivability”'
+description:
+  ja: 総合生存学館（思修館）が、エネルギー・環境・人口などの地球規模課題を背景に開催する第4回国際シンポジウムである。国内外から若手の専門家・実務家を招き、エネルギー転換をめぐる論点を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      総合生存学館（思修館）では、高い使命感・倫理観を有するグローバルリーダーとしての責任を持った人材育成を目的として掲げています。また、エネルギー・環境・人口等に関する地球規模の問題について研究を行っています。このたび、その活動の一環として国内外から若手の専門家・実務家を招いて、第4回国際シンポジウム「The
+      Global Energy Transformation」を開催します。'
+  source: https://ocw.kyoto-u.ac.jp/course/868/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-11-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

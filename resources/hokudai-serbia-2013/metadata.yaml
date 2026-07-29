@@ -1,0 +1,55 @@
+slug: hokudai-serbia-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/serbia-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー Serbia – a crossroad ／ セルビア（2013）
+description:
+  ja: セルビアを題材に、バルカン半島にある内陸国としての位置や、歴史的背景から生じた民族・宗教・文化の重なりを取り上げる。あわせて、産業、食、音楽、川を中心とした暮らし、伝統芸術や農村観光、ベオグラードや峡谷、要塞都市、祭り、スポーツまでを紹介する。
+quotedDescription:
+  text:
+    ja: セルビアは、ヨーロッパの南東に位置する、バルカン半島にある陸地に囲まれた国です。長い歴史や地理的な位置のおかげで、セルビアには多くの民族、宗教、文化が会い、混ざり、今でも共存しています。様々なサービス、農業、工業が主な国の産業です。美味しい食べ物、にぎやかな音楽、川を中心にした暮らし方、最近の伝統芸術と技術、農村観光の復活等がセルビアで楽しめます。発表では、眠らない町
+      ―ベオグラード、ヨーロッパの最大の峡谷、二番目に大きい要塞都市、にぎやかな祭り、スポーツ等について紹介致します。
+  source: https://ocw.hokudai.ac.jp/lecture/serbia-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: ノヴコヴィチ・ビリャナ
+  affiliation:
+    name: 環境科学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 歴史／民俗
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

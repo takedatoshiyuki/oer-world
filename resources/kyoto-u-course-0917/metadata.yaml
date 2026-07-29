@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0917
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/917/
+type:
+- LearningResource
+- Course
+name:
+  ja: デザイン学シンポジウム「心のデザイン」
+description:
+  ja: 京都大学が提供する「デザイン学シンポジウム『心のデザイン』」である。2016-03-25に開講され、担当は大平英樹、村井俊哉、増田貴彦、子安増生である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 大平 英樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 村井 俊哉
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 増田 貴彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 子安 増生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-03-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- health_welfare
+keywords:
+- 教育学
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0161
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/161/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第12回国際学生セミナー
+description:
+  ja: 生命科学研究科、ウイルス研究所、薬学研究科の若手研究者が主体となって開催する国際学生セミナーで、世界各地の若手研究者を招いて交流する。参加者は自らの研究を英語で発表し討論することで、英語による発表や議論を行う場を持つ。今回の回では、生命科学研究に関するスローガンとして「No
+    Life No Science; No Science No Life」を掲げる。
+quotedDescription:
+  text:
+    ja: '【セミナーの紹介】
+
+      国際学生セミナーは、生命科学研究科、ウイルス研究所、薬学研究科の若手研究者が主体となって開催し、世界から優れた若手研究者（大学院生・ポスドク）を招き、国際的な交流を深めます。
+
+      本セミナーの目的は、大学院生やポスドクといった若手研究者が、国際的な研究者へ成長することへの後押しです。参加者の皆さんは、自らの研究について英語による発表や討論を行うことで、英語のプレゼンテーションやディスカッションのスキルを磨き、さらに国内外の若手研究者とのコミュニケーションにより、新たな視点や刺激を手にできます。
+
+      今回のセミナーでは、生命科学研究における分野の広大さ、相互の関係性、何よりその重要性をふまえ、”No Life No Science; No Science No Life” をスローガンとしました。'
+  source: https://ocw.kyoto-u.ac.jp/course/161/
+  note: 京都大学OCW 「【セミナーの紹介】」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-02-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

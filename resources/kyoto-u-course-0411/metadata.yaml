@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0411
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/411/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成29年度（第10期）ELCAS基盤コース開講式
+description:
+  ja: 京都大学が推進するELCAS基盤コース第10期の開講式を収録する。開式挨拶の後に、山極壽一、Andrew MacIntosh、市川温子の3名がそれぞれ講演を行う。講演題目から、フィールドワーク、霊長類の学際的研究、素粒子物理学とニュートリノ研究を扱う回である。
+quotedDescription:
+  text:
+    ja: '要旨
+
+      本学が推進する「科学体系と創造性がクロスする知的卓越人材育成プログラム（略称 ELCAS）」の平成29年度基盤コース（第10期）開講式を京都大学国際科学イノベーション棟シンポジウムホールにて開催しました。
+
+      有賀哲也 副学長（理学研究科教授・高大接続科学教育ユニット長）の開式挨拶のあと、山極壽一総長が「京都大学の創造の精神 フィールドワークの世界」、Andrew MacIntosh 霊長類研究所准教授が「The
+      Complex Primate: Interdisciplinary Science, Biological Organization and the Math behind the Monkey」、市川温子理学研究科准教授が「世界は、何で、どうやってできている？－素粒子物理学、特にニュートリノ研究最前線－」と題した講演を行いました。'
+  source: https://ocw.kyoto-u.ac.jp/course/411/
+  note: 京都大学OCW 「要旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Andrew MacIntosh
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 市川 温子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-09-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

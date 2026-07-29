@@ -1,0 +1,54 @@
+slug: hokudai-cloudsoverforests-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/cloudsoverforests-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! 森の上の雲 ～シベリアを環（めぐ）る水の話～（2010）
+description:
+  ja: 水が雲、雨、川、海、氷河へと姿を変えながら循環するしくみを扱い、その背景にある要素を考える。研究の舞台をシベリアに置き、永久凍土とタイガ林の地域で進める水循環研究を、フィールドワークの写真を交えて紹介する。あわせて、地球温暖化によって水の流れがどう変化するかも取り上げる。
+quotedDescription:
+  text:
+    ja: 地球上の生き物にとって必要不可欠な水。水は雲や雨、さらに川、海、氷河などに姿を変えながら私たちのまわりを循環しています。では水が循環する背景にはどのような要素が関わっているのでしょうか？また、地球温暖化によって水の流れはどのように変化していくのでしょうか？今回のゲストは、水循環を研究している杉本敦子さん。研究の舞台、それは札幌から約3000km離れた、永久凍土とタイガ林が広がるシベリアです。杉本さんはそこで様々に“かたち”を変える水を追いながら、生物と環境の相互作用を明らかにすることを目指しています。本日はその研究について、フィールドワークの写真を交えながらお話しいただきます。さらに、まだ明らかになっていない地球温暖化と水循環の関係について、みなさんと一緒に考えていきたいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/cloudsoverforests-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 杉本 敦子
+  affiliation:
+    name: 北海道大学大学院地球環境科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

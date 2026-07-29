@@ -1,0 +1,55 @@
+slug: utokyo-series-2pdijdxwjluo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=2PDiJDxWJLUo
+type:
+- LearningResource
+- Course
+name:
+  ja: C++言語の生みの親、Stroustrup博士講演会
+description:
+  ja: Bjarne Stroustrupが、C++の現状と今後について語る講演である。2018年に東京大学で提供され、英語話者向けに英語で行われる。
+quotedDescription:
+  text:
+    ja: "1979年に開発が始まったC++は、今までで最も広く使用されているプログラミング言語のひとつです。この講演では、C++言語の生みの親、Stroustrup博士が、C++の現状や今後について語ります。\
+      \ \n \n  ★ 東京大学大学院情報理工学研究科     http://www.i.u-tokyo.ac.jp/   \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。\
+      \  \n  お気に入りの講義・講演があればSNSなどでシェアをお願いします。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=2PDiJDxWJLUo
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Bjarne Stroustrup
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- Insights from Global Experts and International Leaders
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,85 @@
+slug: kyoto-u-course-0384
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/384/
+type:
+- LearningResource
+- Course
+name:
+  ja: E.FORUM 全国スクールリーダー育成研修　第13回実践交流会 シンポジウム「学力評価をどう改善するか？―学力評価スペシャリスト研修の成果と今後の課題」
+description:
+  ja: 本教材は、学力評価の改善が教育実践の改善につながる道筋を扱うシンポジウムの記録である。教師に求められる知識やスキル、理解をめぐる問いを取り上げ、学力評価スペシャリスト研修で得られた成果の一部を示す。公開資料としてプログラムと2件の講義資料が含まれる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      学力評価を改善することによって教育実践を改善する道筋は、どう構想されるのでしょうか？また、そのために、教師にはどのような知識やスキル、理解が必要となるのでしょうか？ 今年度の E.FORUM
+      では、「学力評価スペシャリスト」研修の実施を通して、これらの問いを探究してきました。このシンポジウムでは、その成果の一端を紹介しつつ、参加者の皆さんと議論を深めたいと考えています。'
+  source: https://ocw.kyoto-u.ac.jp/course/384/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北原 琢也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岩見 理華
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 花岡 由美子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岩佐 亜子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石井 英真
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: プログラム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6a2f4743c65477e49c5f71c8c732545d.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/384/
+- name: '講義資料: 教師の評価力の成長をどう捉えるか？'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/45664e076f5d9a0a222ea5cbf339e4af.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/384/
+- name: '講義資料: 国際的課題と向き合い、行動の変容を促す　英語授業の実践と評価'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/25c2f1e9c94e9bb4fe944737f81db0c1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/384/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

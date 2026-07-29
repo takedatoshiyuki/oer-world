@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0544
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/544/
+type:
+- LearningResource
+- Course
+name:
+  ja: 化学固定電子論
+description:
+  ja: 化学の立場から固体の電子論を扱い、金属伝導性を示す物質の電子状態と電子物性を理論面と実験面の両方から論じる講義である。自由電子モデルや擬自由電子モデルからバンド理論へ進み、バンド構造の測定法、さらにGL理論とBCS理論までを演習を交えて扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      化学で扱う固体の電子論，特に，金属伝導性を示す物質を対象に，その電子状態・電子物性に関して，理論的実験的の両面から論述する。
+
+      授業の紹介
+
+      化学の立場から，固体の電子論を解説する．一般の金属状態の固体電子論に関し，自由電子モデルや擬自由電子モデルから出発して，バンド理論に関して理論的 に論じ，バンド構造などを実験的に調べる手段に関して紹介しながら解説する．さらに，超伝導の現象論であるGL理論や，最終的にはミクロな超伝導理論であるBCS理論について，典型的な演習問題や第二量子化の方法などの演習を交えて解きながら論述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/544/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉村 一良
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回～第2回 化学固体電子論1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakukotaidennshiron_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/544/
+- name: '講義資料: 第3回 化学固体電子論2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakukotaidennshiron_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/544/
+- name: '講義資料: 第4回 化学固体電子論3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakukotaidennshiron_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/544/
+- name: '講義資料: 第5回～第6回 化学固体電子論4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakukotaidennshiron_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/544/
+- name: '講義資料: 第7回～第8回 化学固体電子論5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakukotaidennshiron_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/544/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

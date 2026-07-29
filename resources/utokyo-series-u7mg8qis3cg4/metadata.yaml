@@ -1,0 +1,63 @@
+slug: utokyo-series-u7mg8qis3cg4
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=U7Mg8QIS3cG4
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別講演会「オープンコースウェアからオープンエデュケーションへ」
+description:
+  ja: 日本でのオープンコースウェアによる大学教材の無償公開運動開始から10年を背景に、オープンコースウェアからオープンエデュケーションへの展開を扱う特別講演会である。あわせて、MOOCsの動向や大学教育のグローバル化についても取り上げる。
+quotedDescription:
+  text:
+    ja: "2015年は、日本でオープンコースウェアによる大学教材の無償公開運動が開始されてから10周年となりました。この間、世界では、オープンコースウェアからオープンエデュケーションへと、運動の広がりが見られます。MOOCs（大規模公開オンライン講座）が注目を集める一方で、オープンエデュケーションの意義を見直す動きも出てきています。大学教育のグローバル化の必要性も高まってきました。\
+      \   \n    この特別講演会では、これら…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=U7Mg8QIS3cG4
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 吉見 俊哉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 白井 克彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 重田 勝介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 竹村 治雄(司会)
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

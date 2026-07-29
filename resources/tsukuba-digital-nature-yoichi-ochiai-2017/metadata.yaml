@@ -1,0 +1,48 @@
+slug: tsukuba-digital-nature-yoichi-ochiai-2017
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/others/digital_nature_yoichi_ochiai_2017/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2017年度 特別講義「ユビキタスからデジタルネイチャーへ：アート・エンターテイメント・デザイン」
+description:
+  ja: ユビキタスコンピューティングの先にある計算機自然を主題に、人と機械、物質世界と実質世界の関係を取り上げる講義である。計算機応用を計算機科学的に実装する考え方を通じて、産業・学問・芸術に関わる問題解決や新たな文化的価値の創成を扱う。あわせて、関連するケーススタディと現在に至るメディア史を紹介する。
+quotedDescription:
+  text:
+    ja: 我々はユビキタスコンピューティングの先に計算機自然（Digital Nature）の到来を見据えている。計算機自然では、人と機械、物質世界（Material World）と実質世界（Virtual
+      World）の間に、今までの工業化社会よりも多様な未来の形が起こりうると考えられる。本研究室は、そういった物質性と実質性の間で、計算機応用のもたらす様々な選択肢を想定し、それらを計算機科学的に実装することで、産業・学問・芸術にいたる様々な問題解決に挑戦し、人・計算機・自然における新たな文化的価値の創成を目指しており、そのケーススタディや現在に至るメディア史などを紹介する。
+  source: https://ocw.tsukuba.ac.jp/course/others/digital_nature_yoichi_ochiai_2017/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 落合 陽一
+  affiliation:
+    name: 筑波大学 図書館情報メディア系・メディア創造分野 准教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2017-12-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: hokudai-costep-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/costep-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 CoSTEPこれまでとこれから(2010)
+description:
+  ja: この講義は、CoSTEPが取り組んできた科学技術コミュニケーション教育の歩みを扱う。専門家と市民をつなぐ人材育成を軸に、双方向性や地域性を重視した実践の意図と、その達成方法、さらに今後の方向性を述べる。
+quotedDescription:
+  text:
+    ja: ＣｏＳＴＥＰはこれまで５年間、「科学技術コミュニケーター」と呼ばれる、科学技術の専門家と市民との間を橋渡しする人々を育成する教育活動を行なってきました。その際、次のことを重視しました。双方向的な科学技術コミュニケーションの実現を目指すこと、地域に根ざした科学技術コミュニケーションを実践すること、そして双方向的な科学技術コミュニケーションを目指すことなどです。なぜそれらを意識したのか、どのように達成しようとしたのか、これからは何をめざすのか、などについてお話しする予定です。
+  source: https://ocw.hokudai.ac.jp/lecture/costep-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 杉山 滋郎
+  affiliation:
+    name: 北海道大学高等教育推進機構部　科学技術コミュニケーション研究部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

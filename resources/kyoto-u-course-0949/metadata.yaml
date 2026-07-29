@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0949
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/949/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅨ「大地震･津波を考える－その2」 －巨大災害にどう立ち向かうか－想定とその限界－ 京都大学防災研究所平成23年度公開講座（第22回）
+description:
+  ja: 京都大学防災研究所が公開講座として実施した、2011年開講の講義である。講義名から、大地震や津波を題材に、巨大災害への備えとその想定の限界を扱う内容であることが分かる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-09-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

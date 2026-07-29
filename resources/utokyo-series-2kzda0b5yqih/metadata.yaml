@@ -1,0 +1,95 @@
+slug: utokyo-series-2kzda0b5yqih
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=2kzDA0B5YQIH
+type:
+- LearningResource
+- Course
+name:
+  ja: この国のかたち−日本の自己イメージ（学術俯瞰講義）
+description:
+  ja: 日本国憲法の改正論議を手がかりに、その背後にある日本という国の自己イメージを考える講義である。改正論議そのものの法的な意味に踏み込むだけでなく、過去と現在の日本の国柄をどう捉えるかを考えるための材料を示す。
+quotedDescription:
+  text:
+    ja: 'コーディネータ： 長谷部恭男（法学部）
+
+      ナビゲータ： 福岡安都子（教養学部）
+
+      日本国憲法を改正しようという議論が盛んです。提案されている改正がどのような法的な意味を持つか（持たないか）も問題ですが、この講義ではそうしたホットな議論から少し距離をとって、憲法改正論議の背景にある、日本という国の自己イメージ（の不安定さ）について考える材料をみなさんに提供しようと思います。憲法を変えたいと思う人は、現在の憲法に示された国のすがたに違和感を抱く人たち、それとは異なる日本のイメージに共感を覚える人たちのはずです。
+
+      人に人柄があるように、国にも国柄があります（そのイメージも人それぞれですが）。日本の国柄は過去、どのようなものだったのか。現在の日本の国柄はどのようなものか。それを考えるきっかけをこの講義から見つけて下さい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=2kzDA0B5YQIH
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 長谷部 恭男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 葛西 康徳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 苅部 直
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐伯 仁志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 陽子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉見 俊哉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宍戸 常寿
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+- arts_humanities
+- social_sciences
+keywords:
+- 政治・法律
+- 言語・思想
+- 歴史
+- 国際関係
+- 法律
+- 政治
+- 戦争
+- 哲学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

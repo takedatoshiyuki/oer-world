@@ -1,0 +1,61 @@
+slug: sophia-20101120comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101120comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Intellectual Networks in Early Modern Japan
+description:
+  ja: 徳川史研究の最近の動向を取り上げ、徳川期のネットワークに関する3人の研究発表を扱う教材である。あわせて、ネットワーク分析の方法やモデルについて参加者が議論する内容を含む。
+quotedDescription:
+  text:
+    ja: The first workshop of the ICC research group “Network Studies” introduces recent trends in the
+      field of Tokugawa history. We have three presenters who will share their recent research on networks
+      in the Tokugawa period. In addition, as an understudied era in regards to network analysis, the
+      workshop welcomes the audience to discuss methods and models for a network analysis.
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101120comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: University of California
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Irvine)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20101120comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101120comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101120comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2010/11/20
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

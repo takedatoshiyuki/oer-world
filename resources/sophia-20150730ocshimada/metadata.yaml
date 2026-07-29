@@ -1,0 +1,46 @@
+slug: sophia-20150730ocshimada
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20150730ocshimada/
+type:
+- LearningResource
+- Course
+name:
+  ja: 妊活って必要？～10代から知っておきたい不妊の話～
+description:
+  ja: 上智大学の総合人間科学部看護学科で2015年度に開講された講義である。担当は島田真理恵で、テーマは「妊活」と不妊に関する話題を10代向けに扱う内容である。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 島田 真理恵
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 総合人間科学部 看護学科
+  term: 2015年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

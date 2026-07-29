@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0212
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/212/
+type:
+- LearningResource
+- Course
+name:
+  ja: アウン・サン・スー・チー ミャンマー国民民主連盟議長 講演会
+description:
+  ja: 京都大学の東南アジア地域研究研究所が開講した、アウン・サン・スー・チーによる講演会である。ミャンマー国民民主連盟議長としての講演を英語で扱う。
+quotedDescription:
+  text:
+    ja: 詳細（京都大学HP）→ https://www.kyoto-u.ac.jp/static/ja/news_data/h/h1/news7/2013/130415_1.htm
+  source: https://ocw.kyoto-u.ac.jp/course/212/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-04-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

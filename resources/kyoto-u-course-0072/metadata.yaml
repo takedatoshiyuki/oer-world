@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0072
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/72/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物センシング工学演習Ⅱ , 2013
+description:
+  ja: 英語で行う演習形式の講義で、発表と質疑応答を通してプレゼンテーション、英語でのコミュニケーション、スライド作成に必要なデザインの各要素を扱う。発表内容は、修士論文や博士論文、課題研究で行った実験に基づく。前期・後期にそれぞれ2回の発表を行い、教員やNative
+    Speaker、海外研究者、Ph.Dコース学生が評価する。
+quotedDescription:
+  text:
+    ja: '授業の概要・目的
+
+      本講義は，プレゼンテーション能力，英語のコミュニケーション能力，パワーポイント作成時に必要なデザイン能力等を養うため，英語で行うものである。受講生は前期，後期共に２回ずつの発表を行い，担当教員ならびにNative
+      Speaker，海外からの研究者およびPh.Dコースの学生によってそれぞれの能力の評価を行う。発表は修士論文，博士論文，課題研究などを通じて行った実験について行い，発表時間は12分，質疑応答は約10分で行う。適宜OCWも利用することより，自己評価ならびに自分自身での能力向上を可能としている。'
+  source: https://ocw.kyoto-u.ac.jp/course/72/
+  note: 京都大学OCW 「授業の概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小川  雄一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 農学研究科
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

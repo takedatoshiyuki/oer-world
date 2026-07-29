@@ -1,0 +1,93 @@
+slug: kyoto-u-course-0955
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/955/
+type:
+- LearningResource
+- Course
+name:
+  ja: ポケットゼミ メディアアート研究
+description:
+  ja: 日本文化を支える要素を題材に、研究とメディアアート制作を行う講義である。出典サイトでは、日本の自然風土や日本文化とアジア文化との関係、神仏習合、日本語の特性、日本的意匠を扱うとしている。公開教材には、2010年度学生作品として「俳句とかさね
+    HitchHaiku + Kasane」の題名をもつ講義資料が8件ある。
+quotedDescription:
+  text:
+    ja: '授業のテーマと目的
+
+      日本文化を支える以下の項目をテーマに研究し、メディアアートを制作する。
+
+      ・日本の自然風土
+
+      ・日本文化とアジア文化との関係性
+
+      ・神仏習合
+
+      ・日本語の特性
+
+      ・日本的意匠（デザイン）
+
+      教員ホームページ'
+  source: https://ocw.kyoto-u.ac.jp/course/955/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 土佐尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（青木 舞）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_18.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（尾崎 達哉）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_19.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　小満 / 卯の花の襲（鷲尾 尚也）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_20.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　夏至 / 蓬の襲（前田 和輝）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_21.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大暑 / 二藍の襲（前澤 俊哉）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_22.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　霜降 / 紅葉の襲（日下 千夏）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_23.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　冬至 / 檜皮の襲（柴田 悠）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_24.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大寒 / 松の襲（熊切 俊祐）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_26.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/955/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

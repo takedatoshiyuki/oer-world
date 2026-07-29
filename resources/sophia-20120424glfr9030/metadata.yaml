@@ -1,0 +1,53 @@
+slug: sophia-20120424glfr9030
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120424glfr9030/
+type:
+- LearningResource
+- Course
+name:
+  ja: フランス語発音・語彙強化クラス１
+description:
+  ja: フランス語の正しい発音と語彙の習得を扱う講義である。発音、リズム、イントネーションを身体や手の動きを使って学び、毎回1つのテーマに関連する語彙も取り上げる。対象は初級から上級までの学生である。
+quotedDescription:
+  text:
+    ja: "目的：フランス語の正しい発音を学ぶ。語彙力を高める。 \n 内容：フランス語の発音、リズム・イントネーションのコツを、身体や手の動きを使って、身体全体で習得します。また、毎回１つのテーマに関連する語彙を学びます。\
+      \ \n 対象：初級から上級まで（すべてのレベルの学生）"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120424glfr9030/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 北村 亜矢子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

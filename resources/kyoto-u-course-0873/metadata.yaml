@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0873
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/873/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2006年春季企画展「コンピュータに感覚を　京大情報学パターン情報処理の系譜」
+description:
+  ja: 京都大学で行われた企画展に関連する映像記録を収めた教材で、会場で閲覧できた記録の一部を扱う。坂井利之研究室の映像や、京都大学総合博物館での公開講座、展示作品デモ「ZENetic Computer」に関する映像が含まれる。松岡正剛や複数の教授が登場する映像も収録されている。
+quotedDescription:
+  text:
+    ja: 会期中、会場で閲覧できた映像記録の一部（坂井利之研究室），京都大学総合博物館にて行われた公開講座（河原達也教授、黒橋禎夫教授、美濃導彦教授、富田眞治教授），展示作品デモ：ZENetic Computer
+      松岡正剛（編集工学研究所所長），土佐尚子教授をビデオにしています。
+  source: https://ocw.kyoto-u.ac.jp/course/873/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

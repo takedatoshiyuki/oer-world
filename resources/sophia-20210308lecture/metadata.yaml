@@ -1,0 +1,64 @@
+slug: sophia-20210308lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20210308lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: HPSRとCOVID-19ーヘルスシステムの強靭性を探るー
+description:
+  ja: COVID-19を題材に、ヘルスシステムの強靭性を探る講義である。上智大学が主催する講演会・シンポジウムとして開講され、複数の担当者が関わっている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Lucy Gilson
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Katherine Ann Villegas Reyes
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Valéry Ridde
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Fanny Chabrol
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Lola Traverson
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 他
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2021/03/08
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,83 @@
+slug: kyoto-u-course-1008
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1008/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】”立ち止まって、考える” シーズン2 「文化遺産が語る人類と災禍 」
+description:
+  ja: 文化遺産と災禍の関係を、考古学調査の事例からたどる全6回の公開講義である。朝鮮古蹟調査、ガンダーラの現地調査、遺跡発掘で見つかる災害痕跡を通して、調査資料や実証上の課題を扱う。
+quotedDescription:
+  text:
+    ja: '【第1回・第2回】
+
+      世界的にスペインかぜが流行していた1918年10月、京都帝国大学考古学教室の濱田耕作と梅原末治は、はじめての朝鮮古蹟調査に出発した。調査は順調に進んでいたものの、濱田の感染により、調査は中断されることになる。
+
+      1回目の講義では、彼らがこの時期に調査を行うことになった背景について概説する。
+
+      2回目の講義では、現在デジタル化を進めている当時の調査関係資料のいくつかを紹介し、その学史的意義について紹介する。
+
+      【第3回・第4回】
+
+      パキスタンやアフガニスタンと聞いて、皆さんはどのようなイメージをお持ちになるだろう。地図上でも日本からは遠く離れ、歴史や文化においても日本とは関係性の薄い地域、といった印象を多くの方が持たれるのではないだろうか。
+
+      しかし、日本の文化について考える場合、古代にガンダーラの名で知られたこの地域の文化は非常に重大な意義を持つ。なぜなら、同地で発展を遂げた仏教文化が、古代以来の日本の文化に多大な影響を与えてきたためである。
+
+      本講義では、日本の研究者達によっておこなわれたガンダーラ現地調査の一端と、調査によって判明した過去の災害についての話を紹介する。
+
+      【第5回・第6回】
+
+      第5回：日本では、復興や防災に伴う工事においても、事前に遺跡（埋蔵文化財）の発掘調査が実施されるほどに文化遺産への意識が高い。また、実際に遺跡発掘で過去の災害痕跡に遭遇することは多く、発掘調査ならではのデータや知見も得られる。足もとの災禍を見てみよう。
+
+      第6回：考古学では、自然科学と人文学が両輪で進む。遺跡発掘で遠古の“災害”を自然現象として抽出し得た次には、その現象を取り巻く人間の営みを歴史として検討する。しかし、特に先史時代研究では、被災も復興も、実証するためには実は論理的課題が立ちはだかる。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1008/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉井 秀夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 内記 理
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 冨井 眞
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

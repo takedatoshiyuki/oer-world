@@ -1,0 +1,51 @@
+slug: sophia-20110724ochiwatari
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110724ochiwatari/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本の政治・安全保障からみた東日本大震災
+description:
+  ja: 東日本大震災を、日本の政治と安全保障の観点から扱う講義である。上智大学の2011年度開講科目として提供され、公開教材として講義資料のPDFが1件ある。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 樋渡 由美
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20110724ochiwatari.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110724ochiwatari.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110724ochiwatari/
+extensions:
+  faculty: 外国語学部 国際関係副専攻
+  term: 2011年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

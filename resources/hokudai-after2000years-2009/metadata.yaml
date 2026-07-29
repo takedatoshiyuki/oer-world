@@ -1,0 +1,56 @@
+slug: hokudai-after2000years-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/after2000years-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 2000年後の美術館・博物館プロジェクト（2009）
+description:
+  ja: 本教材は、「2000年後から見た現代社会」というテーマにもとづき、41世紀に発掘された携帯電話やパソコンなどの化石を制作する活動を扱う。あわせて、全国各地の美術館・博物館で行われた、美術品や出土品とのコラボレーションによる展覧会や、市民・学生を巻き込んだアートプロジェクト、ワークショップを紹介する。
+quotedDescription:
+  text:
+    ja: '演者は、イタリアのポンペイ遺跡などに触発され「２０００年後から見た現代社会」という壮大なテーマで、”４１世紀に発掘された携帯電話やパソコン等の化石”を制作しています。
+
+      今回は、全国各地の美術館・博物館で美術品や出土品とコラボレーションし魅力を引き出す展覧会や、市民・学生を巻き込んで行ったアートプロジェクトやワークショップを紹介します。'
+  source: https://ocw.hokudai.ac.jp/lecture/after2000years-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 柴川 敏之
+  affiliation:
+    name: 美術作家・福山市立女子短期大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 美術
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

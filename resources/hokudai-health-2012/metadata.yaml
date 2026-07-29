@@ -1,0 +1,62 @@
+slug: hokudai-health-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/health-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 私たちの未来とリスク 健康とリスク ―健康の社会的規定要因―（2012）
+description:
+  ja: 'この講義は、健康や疾病を個人の問題にとどめず、社会的条件との関係から考える。競争やストレス、経済格差、教育格差が健康にどう結びつくかを、具体例を通して扱う。
+
+    あわせて、現代社会におけるリスク認識が、疾病や個人のリスク行動を考えるうえで重要であることを示す。'
+quotedDescription:
+  text:
+    ja: '健康や疾病は個人に現れますが、その原因や結果あるいは影響は個人的課題ではなく、むしろ社会的な課題です。健康は人生の全過程における多様な社会的な諸条件によって規定されています。競争・ストレス社会では自殺が増え、血圧は上昇します。現代ではむしろ貧しい人々に肥満者は多く、経済格差が教育格差を通して健康格差に連動しています。現代社会のリスク認識は、疾病や個々人のリスク行動を認識する上で重要です。
+
+      河口　明人
+
+      1974年北海道大学文学部卒業、1984年旭川医科大学医学部卒業、都立豊島病院、国立循環器病センター、および同研究所を経て2003年北海道大学・大学院教育学研究科（現研究院）教授、健康科学担当。専門は、循環器内科学。動脈硬化症を焦点とした生活習慣病予防、健康増進の視点から、札幌ライフスタイルスタディなどの地域住民を対象とした臨床疫学研究を実施。'
+  source: https://ocw.hokudai.ac.jp/lecture/health-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 河口 明人
+  affiliation:
+    name: 北海道大学大学院教育学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 北海道大学公開講座
+- 健康
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

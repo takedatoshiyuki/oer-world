@@ -1,0 +1,45 @@
+slug: kyoto-u-course-0176
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/176/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学アカデミックライティング研究会 講演会
+description:
+  ja: 京都大学が提供する、人間・環境学研究科で開講された講演会である。担当はU.K.で、使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: U.K.）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-05-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

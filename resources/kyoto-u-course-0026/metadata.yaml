@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0026
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/26/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際政治経済学（演習）
+description:
+  ja: 国際政治と国際経済が交錯する現代の問題を、政治経済学の視点から扱う演習である。理論、歴史、現状分析を通じて国際社会の課題を考え、情報を集めて整理する力を培うことを目的とする。教材には概要資料や講義スライドのほか、学生作成資料も含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      現在、国際社会で起こっている問題を政治経済学の視点から、理論・歴史・現状分析のにわたり考える力（情報収集と整理）を培う。
+
+      授業の紹介
+
+      現代の国際社会は、国際政治と国際経済の交錯した複雑な情勢の中で、政策上の諸課題の新たな解決策を求めています。外交面では、イラク・北朝鮮の核開発問題とオバマ政権が打ち出した「核兵器のない世界」という新たなビジョン、また、イラク・アフガニスタンからのアメリカ軍撤退問題等、経済面では、サブプライム・ローン問題、リーマン・ショック、GM倒産に代表されるアメリカの経済危機はまだ解決したわけではありませんし、ドルを基軸通貨とする国際通貨体制も動揺の兆しをみせています。また、地球温暖化問題をめぐる国際政治経済交渉も本格化しています。こうした状況の中で注目を浴びているのが「国際政治経済学」と呼ばれる学問分野です。国際政治経済学は、国際政治学・国際経済学の相互的な視座から国際社会の問題の探求に取り組むアプローチです。'
+  source: https://ocw.kyoto-u.ac.jp/course/26/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 概要資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_kokusaiseijikeizaigaku-enshuu_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/26/
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_kokusaiseijikeizaigaku-enshuu_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/26/
+- name: "講義資料: 学生作成\tアンチエコ"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/03/2010_kokusaiseijikeizaigaku-enshuu_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/26/
+- name: "講義資料: 学生作成\t日本の財政破綻"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/03/2010_kokusaiseijikeizaigaku-enshuu_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/26/
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

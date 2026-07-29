@@ -1,0 +1,56 @@
+slug: kyoto-u-course-1061
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1061/
+type:
+- LearningResource
+- Course
+name:
+  ja: ILASセミナー ：京都の文化を支える森林－地域の智恵 と生態学的知見
+description:
+  ja: この講義は、京都の文化を支える森林をテーマに、地域の知恵と生態学的知見を扱う。説明文では北白川試験地を取り上げ、その設置の経緯や植栽されている樹木の種類、材鑑室の標本構成を示している。
+quotedDescription:
+  text:
+    ja: '※一部、口頭での説明とテロップ内容に違いがございます。ご了承いただけますと幸いです。
+
+      【北白川試験地】農学部が創設された翌年の1924年に苗畑として，吉田キャンパス北部構内の北東部に設置されました。亜寒帯から暖温帯に至る国内産250種と，外国産170種，その他栽培品種80種が見本樹として植栽されています。材鑑室には，各研究林および試験地から集められた裸子植物5科23種，被子植物33科103種の材鑑標本が収められています。'
+  source: https://ocw.kyoto-u.ac.jp/course/1061/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤井 弘明
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目, フィールド科学教育研究センター
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

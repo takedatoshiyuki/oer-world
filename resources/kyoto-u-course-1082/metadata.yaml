@@ -1,0 +1,47 @@
+slug: kyoto-u-course-1082
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1082/
+type:
+- LearningResource
+- Course
+name:
+  ja: '京大SPHショートコース: Pandemic Preparedness and Response by UK Public Health Rapid Support Team'
+description:
+  ja: 京都大学の医学研究科が提供する、Daniel Bausch担当の英語講義である。講義名から、英国の公衆衛生迅速支援チームによるパンデミックへの備えと対応を扱う内容であることがわかる。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Daniel Bausch
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 安全・衛生
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

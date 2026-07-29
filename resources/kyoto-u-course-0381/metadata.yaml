@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0381
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/381/
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和3年度 学部・大学院入学式 総長式辞
+description:
+  ja: 新型コロナウイルス感染症の拡大防止のため中止となっていた、令和2年度入学者を対象とする入学式に関する式辞である。京都大学の総長である湊長博が担当する。
+quotedDescription:
+  text:
+    ja: 令和2年度入学式は新型コロナウィルス感染症の拡大防止のため中止になっていた、令和2年度入学者対象の入学式です。
+  source: https://ocw.kyoto-u.ac.jp/course/381/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 湊長博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-04-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

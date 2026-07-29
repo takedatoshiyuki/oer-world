@@ -1,0 +1,141 @@
+slug: icu-ge-gen025-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: World of Mathematics Ｎ１：数学の世界'
+description:
+  ja: 数学の複数分野から選んだ話題を通して、数学の世界を扱う講義である。例として、組み合わせの数学、微積分の歴史、幾何学における代数的手法が挙げられている。扱う内容の詳細はシラバスで示される。
+quotedDescription:
+  text:
+    ja: 'Through topics from various fields of mathematics, students are invited to the world do mathematics.
+      Topics depend on the lecturer and are chosen among mathematics of combinatorics, history of calculus,
+      algebraic methods in geometry and others. The details will be given in the syllabus.
+
+      多岐にわたる数学の分野の中から選ばれたトピックスを通して数学の世界を理解する。たとえば、組み合わせの数学、微積分の発生の歴史、幾何学の代数的な方法などが、考えられる。詳細は、開講時にシラバスによって明示される。
+
+      Contents of Lectures
+
+      2
+
+      6
+
+      Lectures / 2
+
+      6
+
+      Videos'
+  source: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 鈴木寛
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 名誉教授
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 数学
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 一般教育科目
+- 'GEN025 | Course Schedule: 3/M, 3/W, 3/F | Update: 2013.09.04 Fields of Relation: Mathematics 数学'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1YcxNGzxwJ9UUV1Qd_jQmI6YAEft5NatC/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/17DN4b_1bQuUba0CdCxWXCqm7lltalNE-/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1soEc6-rMR_kMASaBpe8vCTnnBcNu4hbt/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1vYGllsBfBtXcBVSzJle2Jh4MR6pFK0TH/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1bQCYvn8O4c8Ykr8q4EqDAqQPk8FwZF1A/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1P3pAKBKryPTD5Hbn0G0Q3JDqvcB5PCSp/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1uvBW8RtDKbyruPQh32tSYrqvqbwp1UX3/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/16NR-3otUKi4x7PGSx4_f-EmeB9HbXtPP/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1SFqbbLzXy8GMY4ZfEw3mSx4Fqg9WTFMJ/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1D-WEYkEMPfQ1nQujV45mtl_XqC0ISt2N/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1NNrG2SZ2WJ7O8k2qXoh4tT98DC6-IhG6/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10z6nOZ4icdHuIcf0GD62ttNe1c1OktL8/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1N6wOstieRurzsoSHOjhq3UI2CCIOt9cQ/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Nsj0ci8_K9tBkSVXWO8UD2xhMy1JdJNZ/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1-14GGD0IkOhrq-xnS70aLtzabgiswM0J/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ctW8XolngdI2YLSKkfnYfPnmW4kza4V2/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1nCm5q6gvD8z_dd-cwssLJSV5Dv-ZIWGC/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1X1ww33EXLqDqatSwAwAtxzQkkzWfQX3Y/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1qloecw3JgPEwoaV0gzicXEX5mde3w8DK/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1-7BgFLLZbfAGxURaSBe6gdkQxUFmW_zv/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen025_2013s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

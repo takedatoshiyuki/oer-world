@@ -1,0 +1,58 @@
+slug: utokyo-series-21sktwmloblp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=21SkTWMLoBLp
+type:
+- LearningResource
+- Course
+name:
+  ja: 英米法演習（アメリカの裁判と準拠法）
+description:
+  ja: アメリカの紛争解決において、どの裁判所でどの法律を適用するかという問題を扱う。教材の設問を順に追いながら、アメリカの国際私法の考え方と裁判のルールを、日本との比較を交えて検討する。
+quotedDescription:
+  text:
+    ja: 'アメリカであれどこであれ、紛争が訴訟によって解決されようとする場合、どこの裁判所でどの法律が適用されて解決が図られるかという問題が最初の関門となる。
+
+      この講義では、アメリカにおける国際私法（州際私法、抵触法）を具体的な事例を交えて解説した参考書である Michael H. Hoffheimer, Conflict of Laws (Aspen
+      2009)  を教材とする。この教材の全400頁の設問を１つずつ回答していくことで、アメリカにおける裁判のあり方と、それに関するルールについて、日本との比較を交えながら検討する。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=21SkTWMLoBLp
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 樋口 範雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 法学部・法学政治学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

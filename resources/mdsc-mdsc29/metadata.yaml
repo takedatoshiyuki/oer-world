@@ -1,0 +1,56 @@
+slug: mdsc-mdsc29
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc29
+type:
+- LearningResource
+- Course
+name:
+  ja: DS.INSIGHT
+description:
+  ja: ビッグデータを授業でどう活用するかを扱い、アンケートに代わる社会関心の調査や分析把握への利用を示す。さらに、人流データから移動状況を読み取り、観光、災害、経済、交通などの分野分析につなげる内容を扱う。
+quotedDescription:
+  text:
+    ja: "・ビッグデータを活用した、データサイエンスの授業利用\r\n・アンケートの代替として、社会関心の調査などの分析把握への利用\r\n・人流データによる移動状況からの各種分野分析（観光、災害、経済、交通など）"
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc29
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc29
+  summary:
+    ja: 利用条件は配布元サイトを参照。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: ヤフー株式会社
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2021-10-08'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- health_welfare
+keywords:
+- サービス業_他に分類されないもの
+- 不動産業-物品賃貸業
+- 公務_他に分類されるものを除く
+- 医療-福祉
+- 卸売業-小売業
+- 学術研究-専門_技術サービス業
+- 宿泊業-飲食サービス業
+- 情報通信業
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

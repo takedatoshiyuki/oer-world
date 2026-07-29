@@ -1,0 +1,57 @@
+slug: utokyo-series-c9wd9jcuh5sf
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=c9Wd9Jcuh5sF
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代行政（事例研究）
+description:
+  ja: 現代日本の政策決定を事例で扱い、特定の地方自治体を対象に現場の行政課題やその対応を検討する。制度そのものだけでなく、実際の運用や地方分権改革の影響にも目を向け、聞き取りと調査を通じて課題の全体像を把握する。最後に政策提言を含むレポートをまとめ、対象自治体に提出する。
+quotedDescription:
+  text:
+    ja: 現代日本における政策決定の事例を取り上げ、議論を中心として授業を進めてゆく。 今年度は、特定の地方自治体を素材として定点観測を行い、自治体の現場における行政課題、それへの対応、行政管理の方法等を、制度とのその運用実態とに着目しながら考察する。その過程で、現在進められている地方分権改革の影響も学ぶ。
+      観察する自治体は千葉県佐原市を予定しており、授業においては、同市の概要を学んだ後、一定の政策課題について、佐原市の関係者、地元の組織、県、国の関係省等から聞き取りを行って、課題の全体像を把握する。
+      最終的に、政策提言を含めレポート作成し、佐原市に提出する予定。
+  source: https://ch.u-tokyo.ac.jp/series/?id=c9Wd9Jcuh5sF
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 森田 朗
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 公共政策大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

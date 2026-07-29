@@ -1,0 +1,47 @@
+slug: tsukuba-ds-data-science-for-business
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/data-science-for-business/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 ビジネスとデータサイエンス
+description:
+  ja: ビジネスにおけるデータサイエンスの役割を、実事例を通して扱う講義である。筑波山江戸屋でのデータ活用によるマーケティング手法の検討や、水戸信用金庫での営業支援AIの試みを取り上げる。あわせて、実験的なエビデンス経営や経営情報システムの革新による経営管理システムの高度化を説明する。
+quotedDescription:
+  text:
+    ja: 本講義では、ビジネスにおけるデータサイエンスの役割について解説します。地域企業・旅館である筑波山江戸屋におけるデータを活用したマーケティング手法の検討、非営利の地域金融機関である水戸信用金庫における営業支援AIの試みなど、実事例を紹介しながら、実験的なエビデンス経営や経営情報システムの革新による経営管理システムの高度化について説明します。
+  source: https://ocw.tsukuba.ac.jp/data-science/data-science-for-business/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 岡田 幸彦
+  affiliation:
+    name: 筑波大学 システム情報系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2022-09-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

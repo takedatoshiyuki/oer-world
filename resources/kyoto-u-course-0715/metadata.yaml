@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0715
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/715/
+type:
+- LearningResource
+- Course
+name:
+  ja: An Introduction to Subfactors in Mathematics and Physics
+description:
+  ja: subfactors の理論を導入し、位相や物理との関わりを扱う講義である。あわせて、subfactors の分類の現状と、それらが量子場理論と関係するかという問いを取り上げる。Richard
+    Thompson の群 F と T も登場する。
+quotedDescription:
+  text:
+    ja: We will introduce the theory of subfactors and their interactions with topology and physics. We
+      intend to describe the current state of classification of subfactors and attack the question of
+      whether all subfactors have something to do with quantum field theory, including an appearance of
+      Richard Thompson’s groups F and T.
+  source: https://ocw.kyoto-u.ac.jp/course/715/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Vanderbilt University
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-06-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

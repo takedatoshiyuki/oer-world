@@ -1,0 +1,99 @@
+slug: hokudai-warandpeace-2004
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 戦争と平和 – 政治経済学的アプローチ（2004）
+description:
+  ja: 国家を主体とする国際関係の構造と変動から、戦争と平和の原因を考察する講義である。あわせて、国際関係の特質をめぐる3つの立場と、国際関係の中での政治と経済の関係を扱う。さらに、同時多発テロや国際緊張、安全保障問題に対する日本のかかわり方を検討する。
+quotedDescription:
+  text:
+    ja: '１．戦争と平和の原因を、国家を主体とする国際関係の構造と変動から考察し、平和の実現と維持をリアルに追求する社会科学的な考え方への案内を行う。
+
+      ２．国際関係の特質をめぐる主な立場である（１）ホッブズ的無政府社会、（２）自由貿易平和主義的調和社会、（３）グロチウス的秩序社会の３者の対立と関係を理解することと、国際関係の中での政治と経済のダイナミックな関係を理解することとを通じて、国際関係をみる基本的視点を養う。
+
+      ３．同時多発テロやさまざまな国際緊張、安全保障問題への日本のかかわり方を主体的に検討する知的基盤を養う。'
+  source: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐々木 隆生
+  affiliation:
+    name: 公共政策大学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+- business_law
+- generic
+keywords:
+- 戦争
+- 平和
+- 国家
+- 国家システム
+- ホッブズ的無政府社会
+- 自由貿易平和主義
+- ビジネス／経済
+- 法律／政治
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-00.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Reference.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+- name: '講義資料: 全講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarAndPeace-2004-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/warandpeace-2004
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

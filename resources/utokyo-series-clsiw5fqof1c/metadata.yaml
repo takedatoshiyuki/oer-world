@@ -1,0 +1,60 @@
+slug: utokyo-series-clsiw5fqof1c
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=cLsiW5fQoF1c
+type:
+- LearningResource
+- Course
+name:
+  ja: 谷川浩司九段 特別講演「常識外の一手で勝利をつかむ」
+description:
+  ja: 東京大学の2014年の講演で、谷川浩司九段が将棋の歴史や対局に臨む棋士の心構えを取り上げる。あわせて、そこから生まれる常識外の一手についても話し、質疑応答では対局時の心理状態や調整方法が話題となる。
+quotedDescription:
+  text:
+    ja: "2014年度冬学期全学体験ゼミナール「将棋で磨く知性と感性」に関連して、特別に企画された講演です。前年の羽生善治三冠（当時）に続き、谷川浩司九段をお招きし、将棋の歴史と、対局に向かう棋士の心構え、そこから生まれる常識外の一手について、ユーモアを交えつつ語ってもらいました。質疑応答でも、対局における心理状態や調整方法などについて学生から多くの質問があり、活発な議論がなされました。\
+      \ \n \n  「将棋で磨…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=cLsiW5fQoF1c
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 谷川 浩司
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- arts_humanities
+keywords:
+- 心理・認知
+- 文化・芸術・文芸
+- 将棋
+- 判断力
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

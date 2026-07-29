@@ -1,0 +1,57 @@
+slug: hokudai-sustainablecampuses-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sustainablecampuses-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク サステイナブルキャンパス 国際シンポジウム（2011）
+description:
+  ja: 大学のサステイナビリティを、キャンパスの整備と構成員の活動の両面から扱う国際シンポジウムである。米国と日本の大学の取組や課題を取り上げ、サステイナブルキャンパス構築に向けた今後の方向性を検討する。
+quotedDescription:
+  text:
+    ja: '大学のサステイナビリティに関しては、すでに米国・カナダの大学を対象に行われているサステイナブルキャンパスランキングや、英国の大学で行われているグリーン・リーグなどがその評価を行っています。そこでは、エネルギー消費量などの数値データだけを問題にするのではなく、マネジメント手法や構成員の参加・協力体制を含めるなど、大学の特徴を踏まえた総合的な施策が評価対象となっています。
+
+      一方、国内の幾つかの大学においても、学生に対する環境教育の充実、キャンパスサステイナビリティを推進するための組織整備など、サステイナブルキャンパス構築に向けた様々な取組みが推進されつつあります。
+
+      今回のシンポジウムは、北海道大学が主催する「サステナビリティ・ウィーク」の一環として、大学のサステイナビリティを支えるハードとしてのキャンパスとソフトとしての諸活動の両面からの視点で、米国及び日本におけるサステイナブルキャンパスに関するトップランナーの大学から、これまでの取組(Achievements)やこれからの課題(Challenges)について紹介いただき、サステイナブルキャンパス構築に向けた今後の方向性を検討することを目的としています。'
+  source: https://ocw.hokudai.ac.jp/lecture/sustainablecampuses-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- サステイナブルキャンパス
+- 環境教育
+- サステイナビリティー
+- 複合分野／学際
+audience:
+- student
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

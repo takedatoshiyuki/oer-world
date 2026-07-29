@@ -1,0 +1,78 @@
+slug: kyoto-u-course-0286
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/286/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「ないをたのしむ」展 ワークショップ「きく、さわる、つくる」
+description:
+  ja: この教材は、「見えない」「きこえない」「できない」といった状況を手がかりにした展示とワークショップを扱う。音楽を動画や造形に変える作品の展示に加え、会話や触覚で得た情報をもとに造形を制作し、その作品を展示する内容を含む。ワークショップでは、めかくしをして声を聞きながら作品をつくる活動を行う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ないをたのしむ」展
+
+      おぼえられない、みえない、きこえない、できない。
+
+      様々な「ない」状況は、障害である以前に、そこに必死に生きている、それぞれの世界観でもあります。
+
+      本イベントは、まったく異なる世界観の壁を逆に楽しんでしまう試みです。
+
+      音楽を動画や造形に変化させる作品の展示や、その製作動画を展示します。
+
+      また、ワークショップで、目の前にいる人との会話情報のみから造形を作ったり、触覚で獲得した部分的な情報を元に全体を思い描く作品を制作し、展示を行います。
+
+      ワークショップ「きく、さわる、つくる」
+
+      めかくしをして、おともだちのこえをききながらさくひんをつくってみるワークショップです。
+
+      さわってつくってみる、できあがったものは、いままでみたこともさわったこともないものになるかも・・・？'
+  source: https://ocw.kyoto-u.ac.jp/course/286/
+  note: 京都大学OCW 「概要」・「「ないをたのしむ」展」・「ワークショップ「きく、さわる、つくる」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 富田 直秀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 桑田 知明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 広瀬 浩二郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-03-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- デザイン学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

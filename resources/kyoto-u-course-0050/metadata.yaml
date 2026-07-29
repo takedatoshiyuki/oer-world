@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0050
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/50/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第41回 京都大学品川セミナー「クォーク、グルーオンから核力へ」
+description:
+  ja: 核子に働く核力が原子核の成立にどう関わるかを扱い、湯川の中間子論で提案されたπ中間子交換の考え方を取り上げる。さらに、核子-核子散乱実験から見えてきた遠距離での有効性と近距離での斥力の存在までを述べる。
+quotedDescription:
+  text:
+    ja: '核子（陽子や中性子の総称）には、『核力』と呼ばれる強い力が働き、その結果、銀河や星や我々の体を構成する原子核（陽子と中性子の複合体）が存在できます。
+
+      　湯川秀樹氏は、1935年に発表した中間子論において、この核力が当時未発見であったπ中間子の交換によりもたらされると予言しました。その後、加速器を用いた核子-核子散乱実験の進展により、核子同士が遠く離れている時は湯川氏の考えは正しいが、近距離になるとπ中間子では説明できない大きな斥力（反発力）が働くことが明らかになって来ました（図１参照）。'
+  source: https://ocw.kyoto-u.ac.jp/course/50/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 青木 愼也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-10-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

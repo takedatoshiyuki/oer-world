@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0896
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/896/
+type:
+- LearningResource
+- Course
+name:
+  ja: 環境安全衛生教育
+description:
+  ja: 京都大学が2012年に開講した「環境安全衛生教育」の講義である。工学研究科と環境安全衛生センターが関わり、松井康人、日名田良一、大岡忠紀、橋本訓、中川俊幸が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松井 康人
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 日名田 良一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大岡 忠紀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 橋本 訓
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中川 俊幸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 安全・衛生
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学研究科, 環境安全衛生センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

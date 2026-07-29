@@ -1,0 +1,74 @@
+slug: kyoto-u-course-1078
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1078/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第16回 MACSコロキウム
+description:
+  ja: 本講義は2つの講演で構成され、1つ目では生物・化学現象に見られる非平衡過程を量子統計力学の観点から扱う。2つ目では量子アニーリングの基本と、それを量子シミュレータとして用いる研究成果を取り上げる。
+quotedDescription:
+  text:
+    ja: '講演1
+
+      「生物化学物理を支配する非平衡量子統計力学」
+
+      谷村 吉隆 博士
+
+      京都大学大学院　理学研究科　量子化学研究室　教授
+
+      森羅万象を記述する物理学的運動方程式は時間反転性を持つにもかかわらず、我々の身の回りに生じる生物・化学現象は時間不可逆的に発展する。この過程は、物理的にはミクロな量子系と、溶媒やタンパク質に代表されるマクロな系との相互作用により起因している。これら非平衡現象の基礎を数学的な観点を入れて、幾つかの量子熱力学や生物化学物理現象を例に解説する。
+
+      講演2
+
+      「量子アニーリングを用いた量子系のシミュレーション」
+
+      西森 秀稔 博士
+
+      東京工業大学　科学技術創成研究院　量子コンピューティング研究ユニット　特任教授
+
+      量子コンピュータを使うということは、チップの内部で量子力学の原理に従った現象を起こすということであり、量子力学の理論の検証を行う実験装置（量子シミュレータ）としての利用の道が開かれる。本講演では、量子アニーリングの初歩的な解説から始めて、量子アニーリング装置を量子シミュレータとして使った「実験」の研究成果を解説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/1078/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 谷村 吉隆
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西森 秀稔
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-07-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

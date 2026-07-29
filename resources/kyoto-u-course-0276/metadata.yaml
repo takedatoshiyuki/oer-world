@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0276
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/276/
+type:
+- LearningResource
+- Course
+name:
+  ja: 一般社団法人日本心理臨床学会ミニ・レクチャー「心理療法とこころの古層」
+description:
+  ja: 京都大学こころの未来研究センターが提供する、河合俊雄担当のミニ・レクチャーである。心理療法と「こころの古層」を題材にした講義として開講され、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河合 俊雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-12-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- コミュニケーション
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

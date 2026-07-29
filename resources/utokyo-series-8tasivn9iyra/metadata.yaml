@@ -1,0 +1,72 @@
+slug: utokyo-series-8tasivn9iyra
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=8TaSIVN9iyRa
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別シンポジウム『今だから聞く、建設産業と情報化の未来』
+description:
+  ja: 建築・都市分野のDXを軸に、建設産業が抱える人手不足、生産性、持続可能性の課題を扱うシンポジウムである。産学連携を切り口に、三名の登壇者の視点から建設産業におけるDXのあり方と実現までの道筋を議論する。
+quotedDescription:
+  text:
+    ja: 令和7年度初回となる本シンポジウムでは、「今だから聞く」をテーマに掲げます。 建築都市DX研究会は発足からの2年間、建築・都市分野におけるDXの最前線を追い続けてきました。 いま、私たちはあらためて「DXが目指すべき未来」と向き合う時期にあると感じています。
+      人手不足、生産性、そして持続可能性――建設産業が直面する課題解決に向け、 建築都市DX研究会では、その推進力となる「産学連携」に焦点を当てたシンポジウムを開催します。 登壇者には、日本の建設界を牽引する三名を迎えます。
+      建設マネジメント分野・小澤一雅教授（政策研究大学院大学）、建築生産分野・松村秀一学長（神戸芸術工科大学）、都市解析分野・浅見泰司副学長（東京大学）。 それぞれの視座からの産業界との共創による建設産業の新たな未来像を伺いながら、
+      三者の鼎談を通して、建設産業全体が共有すべきDXのあり方、そしてその実現に向けた道筋を紐解きます。
+  source: https://ch.u-tokyo.ac.jp/series/?id=8TaSIVN9iyRa
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小澤 一雅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松村 秀一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅見 泰司
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- engineering
+keywords:
+- AI・情報
+- 都市・建築
+- 居場所のデザイン
+- インフラ
+- DX
+- 建築
+- 情報
+- 都市
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

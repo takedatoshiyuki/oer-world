@@ -1,0 +1,58 @@
+slug: hokudai-blackhole-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/blackhole-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! ブラックホールを〈描く〉男 宇宙物理学者は星空の向こうに何を見るか?（2009）
+description:
+  ja: ブラックホールを題材に、宇宙物理学者が世界をどのようにとらえ、描き出すかを扱う。天文学や宇宙物理学の最先端の話題を交えながら、科学者のものの見方に注目する内容である。
+quotedDescription:
+  text:
+    ja: '私たちと科学者のあいだには、物事の見方にどんな違いがあるのでしょうか? たとえば、宇宙や ブラックホールに思いを馳せるとき。多くの人はそこにロマンや神秘を感じるでしょうし、広がる暗黒の世界に畏敬の念を抱く人もいることでしょう。しかし、ブラックホールに真正面から挑む宇宙物理学者は、同じ宇宙に、私たちとは違う「何か」を感じ取っているようです。
+
+      今回のゲスト、早崎公威さんは、ブラックホールに関する理論構築で注目を集める気鋭の研究者。数式を駆使して、まだ誰も見たことのない宇宙での物理現象を描き出します。その評価は高く、彼の描き出したブラックホールを探すために、国際宇宙ステーションでの観測計画も進んでいます。彼の発想は、一体どんなところから、どのようにして生まれてくるのでしょうか?
+
+      今回のサイエンス・カフェでは、天文学や宇宙物理学に関する最先端の話題を交えながら、科学者がどのように世界をとらえ、描き出しているのか、考えてみたいと思います。科学者特有のものの見方を知ることで、みなさんにも身のまわりの世界を再発見するキッカケが生まれれば嬉しいです。'
+  source: https://ocw.hokudai.ac.jp/lecture/blackhole-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 早崎 公威
+  affiliation:
+    name: 理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,59 @@
+slug: kyoto-u-course-1011
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1011/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】”立ち止まって、考える” シーズン2 「「ふれる」ことの美学」
+description:
+  ja: コロナ禍で制限された「ふれる」行為を手がかりに、触覚を含む感覚のあり方を考える講義である。西洋哲学で視覚や聴覚がどのように位置づけられてきたかを参照しながら、「ふれる」ことを感覚論と美学の観点から扱う。
+quotedDescription:
+  text:
+    ja: 'コロナ禍で最も制限されたことの一つは「ふれる」ことであった。
+
+      人間には五つの感覚――視覚・聴覚・味覚・嗅覚・触覚――があるが、西洋哲学は伝統的に視覚と聴覚を高級感覚と見なして芸術を享受する特権的な地位を付与してきた。しかし他方で、触覚を最も根源的な感覚と見なす考えも、根強く存在する。
+
+      本講義では、「ふれる」という行為がいかなるものであるのかを、他の感覚との関連に顧慮しつつ、西洋哲学における「感覚」についての理論――「美学」は語源的には「感覚の学」である――を参照しながら考えたい。人々が「ふれあう」ことのできる日々の再来を祈念しつつ。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1011/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 杉山 卓史
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

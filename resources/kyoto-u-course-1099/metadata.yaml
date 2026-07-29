@@ -1,0 +1,59 @@
+slug: kyoto-u-course-1099
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1099/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第76回人環国際交流セミナー”A Journey through Bangladesh”（バングラデシュの旅）
+description:
+  ja: バングラデシュの自然環境と文化を主題に、河川の多い国土や災害の印象の背後にある景観、歴史、各種の観光資源を扱う。あわせて、服装、言語、生業、踊り、音楽、映画、祭りなど、日常や文化の側面にも触れる。遺跡や海岸、マングローブ林といった具体的な対象も取り上げる。
+quotedDescription:
+  text:
+    ja: Bangladesh  is  the  south  Asia’s  greenest  jewel  –  a  country  braided  with  rivers  and 
+      rich  with  its  own culture.  Reading  the  world’s  press  you  may  think  that  Bangladesh 
+      is  a  disaster  zone  rather  than  a travel destination. But hiding behind the images of cyclones 
+      and  floods  is  a  strikingly  lush  and  beautiful  land  with  a  rich  history  and  a  variety 
+      of attractions  unusual  for a  country this size.  People  of  Bangladesh  have  cherished  some 
+      of  amazing culture  and  tradition.  The  Bangladeshi  culture  reflects  the  behavior  of  individuals, 
+      their  dresses, occasions,  languages,  livelihood,  dance,  music,  film,  festivals,  etc.  For 
+      a  start,  you  can  visit archaeological  sites  dating  back  over  2000  years;  check out the
+      longest beach and the largest littoral mangrove forest in the world.
+  source: https://ocw.kyoto-u.ac.jp/course/1099/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: A. F. M. Mustafizur Rahman
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-01-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

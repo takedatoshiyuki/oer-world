@@ -1,0 +1,130 @@
+slug: kyoto-u-course-0779
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/779/
+type:
+- LearningResource
+- Course
+name:
+  ja: ITビジネス・マネジメント
+description:
+  ja: ITビジネスを題材に、情報を自ら処理し、ITビジネスを自ら構築することを扱う講義である。eラーニングによる自習を前提に、対面ではチームでの作業、討議、プレゼンテーション、プロジェクト・マネジメントを扱う。内容はAで機能別の視点、Bで業界別の視点に分かれ、eマーケットプレース、CRM、SCM、金融、製造、流通などを取り上げる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本クラスは、「ITビジネス」を題材として、情報を自ら処理する能力を育成すること（ITビジネスを自ら構築することを含む）を目的とする。インターネットを事前の自習に最大限活用し、クラスではオフライン（対面時）において重要な社会活動を中心に学習を行う。
+
+      ・基本的な知識の学習は、各自、eラーニング（パワーポイント資料、講義ビデオ、講義オーディオなど）で自習することを前提とし、クラス（オフライン）ではチームワーク、コラボレーション、プロジェクト・マネジメント、プレゼンテーション、質疑応答と討議、合意形成に焦点を当てる
+
+      ・インターネット上にあふれる情報（ITビジネスに関連するもの）を利用して、自ら考える習慣を醸成する
+
+      ・大量の情報を処理するときに、あるべき思考形態（体系・類型化、「仮説と検証」、科学的思考、論理性と客観性など）について考える
+
+      ・チームでの作業を通して、コラボレーションの可能性と難しさについて学習する
+
+      ・プロジェクト・ベースの作業から、プロジェクト・マネジメントのノウハウの重要性について実体験する
+
+      ・多種多様の考えや意見が存在する「ITビジネス」について、多角的な視野を育成し、混乱する実社会の実情と解決策について理解する端緒とする
+
+      授業の紹介
+
+      ITビジネスには、経営における、あらゆる題材が含まれるため、ITビジネス論Aでは機能別の視点、ITビジネス論Bでは業界別の視点をそれぞれ取り入れて、分類の大枠とする。
+
+      ITビジネス論A
+
+      ・eマーケットプレース
+
+      ・CRM（Customers Relationship Management）
+
+      ・SCM（Supply Chain Management）
+
+      ・ナレッジ・マネジメント、その他
+
+      ITビジネス論B
+
+      ・金融業界
+
+      ・製造業界
+
+      ・流通業界
+
+      ・その他業界および業界横断的視点'
+  source: https://ocw.kyoto-u.ac.jp/course/779/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 末松 千尋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- 経営学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: "講義資料: IT ビジネス・マネジメント A　第1回\t講義ビデオ： Introduction"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementA_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント A　第2回\t講義ビデオ： Chapter 1"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementA_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント A　第5回\t講義ビデオ： Chapter 2"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementA_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント A　第8回\t講義ビデオ： Chapter 3"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementA_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント A　第11回\t講義ビデオ： Chapter 4"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementA_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第1回\t講義ビデオ：Chapter 1"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第1回\t講義ビデオ：Chapter 1"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_1.ppt
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第4回\t講義ビデオ： Chapter 2"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第4回\t講義ビデオ： Chapter 2"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_2.ppt
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第7回\t講義ビデオ： Chapter 3"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第7回\t講義ビデオ： Chapter 3"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_3.ppt
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第10回\t講義ビデオ： Chapter 4"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+- name: "講義資料: IT ビジネス・マネジメント B　第10回\t講義ビデオ： Chapter 4"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2007_ITBusinessMangementB_4.ppt
+  page: https://ocw.kyoto-u.ac.jp/course/779/
+extensions:
+  faculty: 経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

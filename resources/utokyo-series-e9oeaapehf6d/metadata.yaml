@@ -1,0 +1,83 @@
+slug: utokyo-series-e9oeaapehf6d
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=e9oEAAPeHF6D
+type:
+- LearningResource
+- Course
+name:
+  ja: 東大×知の巨人たちの雑談
+description:
+  ja: 東京大学の教授らが集まり、10年後の未来について語る場を扱う講義である。説明文では、暦本純一、合田圭介、松尾豊が登場し、今後も各界の人物を招く予定が示されている。
+quotedDescription:
+  text:
+    ja: "【東大THE NEXT】最前線の東大教授らが集まる秘密のサロン  そこで初めて語られる10年後の未来とは？  イントロダクションの今回は… \n暦本純一 教授（東京大学大学院情報学環・学際情報学府）\
+      \ 合田圭介 教授（東京大学大学院 理学系研究科化学専攻 化学科） 松尾豊 教授（東京大学大学院工学系研究科 人工物工学研究センター 技術経営戦略学専攻）　 \n今後も各界の知の巨人たちをお招きする予定。 \
+      \ \nMC 加藤真平 准教授（東京大学…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=e9oEAAPeHF6D
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 暦本 純一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 合田 圭介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松尾 豊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 真平
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 瀧口 友里奈
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 江崎 浩
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 黒田 忠広
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川原 圭博
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- engineering
+keywords:
+- AI・情報
+- ロボット・技術
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

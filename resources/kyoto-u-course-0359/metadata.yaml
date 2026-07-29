@@ -1,0 +1,196 @@
+slug: kyoto-u-course-0359
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/359/
+type:
+- LearningResource
+- Course
+name:
+  ja: SGU Mathematics Kickoff Meeting
+description:
+  ja: この講義集は、代数幾何やシンプレクティック多様体、分散型方程式の解、正のスカラー曲率、ディオファントス方程式、作用素空間、ランダムポリマーなど、複数の分野の話題をまとめて扱う。各回では、それぞれのテーマについて定義や背景、関連する結果や手法の概要を紹介し、最近の展開にも触れる。
+quotedDescription:
+  text:
+    ja: '1. March 9, 2015 14:40-15:40 Rational curves and symplectic manifolds
+
+      Manfred Lehn (Johannes Gutenberg-Universität Mainz / Professor) Video
+
+      Abstract
+
+      A symplectic manifold in the context of this talk is a compact complex manifold with the additional
+      structure that each tangent space is equipped with a skew-symmetric bilinear form which, when expressed
+      in terms of local coordinates, varies holomorphically. Whereas there are plenty of examples for
+      the real version of this notion, compact complex symplectic manifolds are rather dicult to construct.
+      A famous and by now classical paper of Mukai shows how such manifolds can be obtained as moduli
+      spaces of vector bundles on a certain complex surface. The key insight is that geometric properties
+      of a point in such a parameter space can be intrinsically expressed in terms of the properties of
+      the object that the point represents. Taking this idea further we consider moduli spaces (=parameter
+      spaces) of rational curves that lie on a four dimensional hypersurface of degree 3 and show how
+      new symplectic manifolds can be obtained from these by a contraction process. This relates to work
+      of Kuznetsov on the derived category of cubic fourfolds and connects with another strand of Mukai’s
+      early paper. In the talk I want to give an introduction to this circle of ideas and present some
+      recent developments.
+
+       
+
+      2. March 9, 2015 16:10-17:10 The spaces Up and Vp and global solutions to dispersive equations
+
+      Herbert Koch (Universität Bonn / Professor) Video
+
+      Abstract
+
+      Functions of finite p variation occur at various places in mathematics: Dispersive equations, harmonic
+      analysis, and the rough path theory in probability. I will explain their definition and properties,
+      the relation to Strichartz estimates and bilinear estimates, and the application to several dispersive
+      equations.
+
+       
+
+      3. March 10, 2015 10:00-11:00 The topology of positive scalar curvature
+
+      Thomas Schick (Georg-August-Universität Göttingen / Professor) Video
+
+      Abstract
+
+      Given a smooth compact manifold M without boundary, does it admit a Riemannian metric with posi-
+      tive scalar curvature everywhere? This question reveals deep connections between geometry, topology,
+      and analysis (through the modern method to answer it). The most classical answer is given for 2-dimensional
+      surfaces by the Gauss-Bonnet theorem: if a manifold has positive curvature then its Euler characteristic
+      is positive. In higher dimensions, the role of the Euler characteristic is taken by the index of
+      the Dirac operator. To make ecient use of this, recent developments of operator algebras have to
+      be used. The talk will mainly try to introduce the basics of these exciting methods, and explain
+      in examples how it works.
+
+       
+
+      4. March 10, 2015 11:20-12:20 Fundamental groups, reciprocity laws, and Diophantine equations
+
+      Minhyong Kim (University of Oxford / Professor) Video
+
+      Abstract
+
+      In the late 19th century, Kurt Hensel introduced non-Archimedean completions of algebraic number
+      fields, which was used soon afterwards by Minkowski and Hasse to study Diophantine equations via
+      the so- called local-to-global principles. During the first world war, Takagi proved the existence
+      theorem for class fields, leading up to his lecture at the ICM in Strasbourg, and laid the foundation
+      for Artin’s reciprocity law of class field theory. In this lecture, we will remark briefly on subsequent
+      developments, concluding with a description of recent attempts to refine Hasse principles using
+      arithmetic fundamental groups and non-abelian reciprocity laws.
+
+       
+
+      5. March 10, 2015 14:00-15:00 Quantum expanders, random matrices and geometry of operator spaces
+
+      Gilles Pisier (Texas A&M University / Distinguished Professor) Video
+
+      Abstract
+
+      Using random unitary matrices, we show that there are well separated families of quantum expanders
+      with asymptotically the maximal cardinality allowed by a known upper bound. This has applications
+      of “geometric” nature, for the operator space analogue of Euclidean geometry. This allows us to
+      provide sharp estimates for the growth of the multiplicity of MN-spaces needed to represent (up
+      to a constant C > 1) the MN -version of the n-dimensional operator Hilbert space OHn as a direct
+      sum of copies of MN. We show that, when C is close to 1, this multiplicity grows as expβnN2 for
+      some constant β > 0. The main idea is to identify quantum expanders with “smooth” points on the
+      matricial analogue of the unit sphere, and to show that there are plenty of “uniformly smooth” points
+      (more precisely as many as allowed by a soft metric entropy dimensional restriction). This generalizes
+      to operator spaces a classical geometric result on n-dimensional Hilbert space (corresponding to
+      N = 1). Our work strongly suggests to further study a certain class of operator spaces that we call
+      matricially subGaussian.
+
+      （About the formula, please refer to https://www.math.kyoto-u.ac.jp/sites/default/files/public_files/SGUKick_0.pdf.）
+
+       
+
+      6. March 10, 2015 15:30-16:30 Random polymers
+
+      Erwin Bolthausen (Universität Zürich / Professors Emeriti) Video
+
+      Abstract
+
+      A (directed) random polymer in d + 1 dimensions is a (standard) random walk in d dimensions where
+      the time axis is considered as an additional dimension, which is transformed by a random potential
+      in space and time. The best known and most famous case is the directed polymer in random environment
+      which has a potential given by independent random variables in space and time. Some of the basic
+      questions are open even in 1 + 1 dimensions which is believed to be connected with the KPZ universality
+      class. The only case of the 1 + 1 dimensional directed polymer which has been fully analyzed is
+      a very special one investigated by Kurt Johannson. Important partial results on the directed polymers
+      have been obtained by Imbrie-Spencer, Bolthausen, Comets-Shiga-Yoshida, Carmona, Petermann, and
+      many others.
+
+      The main focus of the talk will however be on the so-called copolymer, first discussed in the physics
+      literature by Garel, Huse, Leibler and Orland in 1989 which models the behavior of a polymer at
+      an interface. Important rigorous results have first been obtained by Sinai and Bolthausen-den Hollander,
+      and have later further been developed by Bodineau, Giacomin, Caravenna and others. A basic object
+      of interest is a critical line in the parameter space which separates a localized phase from a delocalized
+      one. Particularly interesting is the behavior at the weak disorder limit where the phase transition
+      is characterized by a universal critical tangent whose existence had first been proved in the Bolthausen-den
+      Hollander paper, and whose exact value is still open. In a recent paper by Bolthausen-den Hollander-Opoku,
+      a new lower bound has been derived, disproving a long-standing conjecture from the physics literature.
+      The bound was obtained by an application of a sophisticated large deviation theory developed by
+      Birkner-Greven-den Hollander. We present a sketch of an elementary version of this new bound.'
+  source: https://ocw.kyoto-u.ac.jp/course/359/
+  note: 京都大学OCW 「Abstract」・「Abstract」・「Abstract」・「Abstract」・「Abstract」・「Abstract」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Manfred Lehn（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Herbert Koch（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Universität Bonn）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Thomas Schick（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Minhyong Kim（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of Oxford）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Texas A&M University）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Universität Zürich）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-03-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

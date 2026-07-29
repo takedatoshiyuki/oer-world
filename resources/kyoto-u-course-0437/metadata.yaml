@@ -1,0 +1,127 @@
+slug: kyoto-u-course-0437
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/437/
+type:
+- LearningResource
+- Course
+name:
+  ja: 資源生物科学概論A
+description:
+  ja: 資源植物と資源動物の生産・利用技術の基礎を扱い、植物生理、栽培植物の起源、作物改良、園芸、品質評価、畜産や生物資源情報までを広く概説する講義である。公開されている講義資料には、植物と動物の双方に関する複数回分のテーマが含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      資源植物および動物の生産および利用技術の基礎として、それらに関連した授業を行う。
+
+      授業の紹介
+
+      資源植物および資源動物に関連の深い研究分野の連携により、植物生理学、栽培植物起源学、植物遺伝学、作物学、育種学、果樹園芸学、蔬菜花卉園芸学、品質設計開発学、品質評価学、栽培システム学、植物生産管理学、動物遺伝育種学、生殖生物学、動物栄養科学、生体機構学、畜産資源学、生物資源情報学を概説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/437/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 荒木　崇
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河原　太八
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 遠藤　隆
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 白岩　立彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 奥本　裕
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 米森　敬三
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 土井　元章
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 裏出　令子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　植物の生理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第2回　栽培植物の起源'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第3回　作物の改良：遺伝の基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第4回　作物生産と品種改良'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第5回　園芸作物の特徴1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_05-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第5回　園芸作物の特徴2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_05-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第7回　食料の品質評価'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第11回　動物の繁殖と増殖－生命科学技術を用いた動物生産'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第12回　動物の生体と機能－動物と環境にやさしい科学をめざして'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第13回　動物の栄養と機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第14回　世界の家畜生産システムとその評価法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+- name: '講義資料: 第15回　畜産分野での情報処理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-a_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/437/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

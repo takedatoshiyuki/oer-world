@@ -1,0 +1,82 @@
+slug: utokyo-series-8n6eqwwbr4wz
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=8N6EqwwBr4wZ
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回農学部オンライン公開セミナー「スマート農業：ICT 技術を活用した新しい農業の形」
+description:
+  ja: 東京大学の農学部・農学生命科学研究科が2021年に開講した、中高生向けの公開セミナーである。スマート農業とICT技術をテーマにし、附属生態調和農学機構の研究農場や、環境と調和した持続可能な方法をめざす農学研究に触れている。
+quotedDescription:
+  text:
+    ja: '附属生態調和農学機構は、東京都西東京市にある、約30haの研究農場で、水田、果樹園、畑地、ハスのコレクションなどを有しています。環境と調和した持続可能方法による世界の食料問題の解決を目指した農学研究を行っています。
+
+      講師：河鰭実之
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=8N6EqwwBr4wZ
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 河鰭 実之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 郭 威
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 海津 裕
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 平藤 雅之
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+- ict
+- engineering
+keywords:
+- 食料・農業・水産業
+- AI・情報
+- ロボット・技術
+- AI
+- 農業
+- スマート農業
+- データ
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 農学部・農学生命科学研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,103 @@
+slug: utokyo-series-dapjnc3oaalb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=DAPjNC3oaALB
+type:
+- LearningResource
+- Course
+name:
+  ja: Quantum Education for Future Technologies 量子技術教育プログラム
+description:
+  ja: 量子技術に共通する用語や見方を学びながら、光、原子、固体欠陥、超伝導回路といった量子系を横断して扱う講義である。量子コンピューター、量子シミュレーション、量子インターネット、量子センサーにも触れ、基礎的な理解と応用の両方を視野に入れる。講義資料に加えて、YouTubeで公開された講義映像も参照できる。
+quotedDescription:
+  text:
+    ja: '量子力学が体系付けられてきてから既に100年以上の月日が経っている。 1800年代後半、その時には空想上のものですらなかった量子の効果が種々の実験に垣間見られるようになった。人類の歴史の中で量子が長らくその存在さえ知られていなかった理由として量子の持つ脆弱さがある。量子からの信号は、かつてノイズの中に埋もれ確認が困難であったが、装置や技術の向上に伴いゆっくりではあるが見ることができるようになってきた。この100年は人類にとって「量子の観測」の旅路だったとも言える。しかしその長い年月の後でさえ量子力学は未だに非自明であり、我々の直感ではなかなか理解しづらいことが多い。
+
+      　近年量子技術は新たな展開を迎えている。見ることさえ難しかった量子は測定技術や周辺テクノロジーの発展により、「操作の対象」となってきた。量子コンピューター、量子シミュレーション、量子インターネット、量子センサーなどの応用はこれらの量子技術の成熟によって可能となってきており、これから10-30年という間に社会進出してくるのは間違いない。インターネットの創出によって世の中が変わったように、量子技術の社会進出は既存の概念や生活様式自体をも変えていくだろう。
+
+      　また応用だけではなく、これらの量子操作技術こそ我々がまだ垣間見ていない量子の核心に迫ることを可能とし、未開拓の基礎物理の扉を開ける礎になるはずである。そのような意味で、我々はとてもエキサイティングな時代に生きている。情報、物理、工学などの融合が量子というキーワードで新たな装いをまとい、基礎から応用まで多くの変革を生むであろう時代である。
+
+      　しかし様々な期待が世界的に高まる中、量子技術、また量子を取り巻くテクノロジーを扱う技術者の育成は明らかに遅れを取っている。これら社会を変革する量子技術をオンタイムで利用していくのは講師陣である我々ではなく、みなさん若者である。このプログラムを通して、過去に築かれた量子技術の習得とともに、今後の未来を開拓していく新たな知見を探していただきたい。
+
+      　本授業は量子技術における共通のことばを学び、様々な量子系の実験を横断的に理解できるようにしてあります。光や原子から固体欠陥や超伝導回路まで、様々な技術を紹介します。
+
+      　また初めて勉強する分野では、多くの研究者も学術論文から学ぶわけではありません。教科書、参考書、博士論文、レビュー論文などは数ページの学術論文より圧倒的な量の詳細が書かれてあり、基礎から学習するために最も効率的なツールの1つです。各分野を代表する「わかりやすい」参考文献も紹介します。
+
+      ----------
+
+      このプロジェクトのホームページはこちらからご覧ください。
+
+      https://www.sqei.c.u-tokyo.ac.jp/qed/
+
+      ＊この講義シリーズは、主催者のご協力により、YouTubeで公開されているプロジェクトの講義映像を埋め込んでいます。
+
+      下記の講義一覧画面では講義映像のアイコンが表示されていませんが、映像も視聴することができますので、ぜひ講義資料と併せて講義映像もご覧ください。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=DAPjNC3oaALB
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 野口 篤史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武田 俊太郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 生田 力三
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 優樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 豊田 健二
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山口 敦史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 牛島 一朗
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 富田 隆文
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

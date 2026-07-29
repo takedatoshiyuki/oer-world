@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0080
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/80/
+type:
+- LearningResource
+- Course
+name:
+  ja: 形式化の問題
+description:
+  ja: 形式化を、人文学や社会科学を含む複数の分野をまたいで考える講義である。ゲーデルの定理とその歴史的背景を軸に、ウェーバーの合理性理論との関係や、ソフトウェア工学における形式化の問題を扱う。さらに、時間があれば経営学、生産工学、設計学に見られる関連問題にも触れる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      形式化という概念を、人文学、情報学、数学基礎論の歴史、社会科学等を融合・横断した視点から考察する。
+
+      授業の紹介
+
+      「形式化の問題」とは、自然物、人工物を問わず、システムを、「どの程度、また、どのように形式言語・半形式言語で記述し、予測し、manage できるか」、そして、そのときに「どんな問題が生じるか」を問うことである。「形式化の問題」は、19、20世紀の数学の基礎付け運動の中で、初めて学問的に明瞭に意識され研究され、その研究の到達点が、ヒルベルトの形式主義と、「数学の形式系は本質的に不完全である」というK.
+      ゲーデルの定理であった。そのゲーデルは、彼自身の定理をルネッサンスに始まる西洋文明の「左傾化」の必然的到達点として理解していたが、それは M. ヴェーバーの近代化論・合理化論の視点に極めて近い立場であったといえる。この講義では、形式化の問題への入門として、林と八杉により岩波文庫のために書かれつつあるゲーデルの論文の和訳と解説などを元に、ゲーデルの定理とその歴史的背景、およびゲーデルの歴史観をウェーバーの合理性理論と対比しつつ解説する。また、現代の情報工学、特に、ソフトウェア工学の中心問題が、この形式化の問題であり、その解決には社会科学的アプローチが必要となることを、この数年のソフトウェア工学の中心的話題である
+      UML, Agile法、Problem frames などを例にとって説明する。また、時間がゆるせば、これに関連して、経営学、生産工学、設計学などに現れる形式化の問題についても考察したい。'
+  source: https://ocw.kyoto-u.ac.jp/course/80/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 林 晋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- ict
+- arts_humanities
+keywords:
+- データサイエンス
+- 人文科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

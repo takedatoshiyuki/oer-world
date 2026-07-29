@@ -1,0 +1,72 @@
+slug: icu-majors-jps101-2008w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/jps101_2008w
+type:
+- LearningResource
+- Course
+name:
+  ja: History, Art, and Literature 歴史、芸術、文学
+description:
+  ja: 日本研究の成立と展開を、歴史・芸術・文学の観点から扱う講義である。日本研究とは何か、国内外でいつからどのように研究されてきたか、近年の動向を取り上げ、当年のテーマとして「Visions of
+    Japan」を据える。秋学期に全19回で実施され、討論、短いレポート、美術館レビュー、研究報告を通して学ぶ構成である。
+quotedDescription:
+  text:
+    ja: 'This course is an introduction to the developing field of Japan Studies with a special emphasis
+      on history, art and literature. What is “Japan Studies?” When did people, both outside and inside
+      Japan, begin to study about Japan — and why? What are some recent trends in Japan Studies? The special
+      theme of this year’s course is: “Visions of Japan.”
+
+      Course Structure
+
+      This course is taught on the ICU campus during the Autumn term. There are 19 sessions, each 105
+      minutes long, held over a period of 11 weeks. The course includes multiple discussion sessions,
+      5 short papers, a museum review project and a research report on a topic of the student’s choice
+      in lieu of a final examination. Two graduate students gave special lectures on the topic of the
+      Ph.D. dissertation at the end of the course.
+
+      Contents of Lectures
+
+      10
+
+      Lecture
+
+      s'
+  source: https://ocw.info.icu.ac.jp/majors/jps101_2008w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- Japan Studies 日本研究 | Course ID
+- 'JPS101 | Course Schedule: 4*/M, 4*/TH | Update: 2013.04.01 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

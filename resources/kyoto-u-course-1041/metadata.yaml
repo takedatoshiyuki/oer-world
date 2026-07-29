@@ -1,0 +1,74 @@
+slug: kyoto-u-course-1041
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1041/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第9回国際シンポジウム「ポスト人新世における生存の未来」
+description:
+  ja: 京都大学の総合生存学館（思修館）が開講した国際シンポジウムで、題名は「ポスト人新世における生存の未来」である。複数の担当者が関わり、使用言語は英語である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 寶 馨
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松島 倫明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 篠原 雅武
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ベンジャミン・ブラットン
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高島 宏明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 池田 裕一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山敷 庸亮
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 積山 薫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- natural_sciences_math
+keywords:
+- コンピュータサイエンス
+- 環境学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

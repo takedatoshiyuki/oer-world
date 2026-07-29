@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0169
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/169/
+type:
+- LearningResource
+- Course
+name:
+  ja: 鎌田東二教授 退職記念講演会・シンポジウム
+description:
+  ja: 本講演会・シンポジウムは、宗教・芸術・芸能・武道・スポーツ・教育に見られる技法を手がかりに、身体と心の変容を扱う「身心変容技法」を主題とする。日本の宗教文化や芸能、芸道、武道を通して、その日本的なあり方と広がりを議論する内容である。体と魂をつなぐ「心のワザ」をめぐり、心直しや世直しの方向も考える。
+quotedDescription:
+  text:
+    ja: '概要
+
+      古来、宗教・芸術・芸能・武道・スポーツ・教育などの諸領域では、様々な「技法」が編み出され、伝承、実践されてきた。「身心変容技法」とは、身体と心の状態を当事者にとってよりよいと考えられる理想的な状態に切り替え変容・転換させる、そうした諸技法のことをいう。本講演＆シンポジウムにおいては、「身心変容技法」の日本的なあり方と広がりを、日本の宗教文化・芸能・芸道・武道など、諸種の「心のワザ学」を通して問題提起し、議論していきたい。
+
+      「体は嘘をつかない。が、心は嘘をつく。しかし、魂（霊性）は嘘をつけない。」体と魂をつなぐ心のワザの探究を通して、心直しや世直しの方向を探りたい。'
+  source: https://ocw.kyoto-u.ac.jp/course/169/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 鎌田 東二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 島薗 進
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河合 俊雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 奥井 遼
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-02-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

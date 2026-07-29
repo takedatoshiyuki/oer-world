@@ -1,0 +1,54 @@
+slug: hokudai-faculty09cationreform-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty09cationreform-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 北大の教育改革の15年（2009）
+description:
+  ja: 北海道大学における1995年以降の教育改革を、15年の流れとして整理する講義である。教養教育の再編成、とくに体験型教育の拡充に焦点を当て、特色GP「進化するコアカリキュラム」と教育GP「博物館を舞台とした体験型全人教育の推進」の取り組みをたどる。あわせて、体験型教育を今後どう充実させるかという方向性と課題も扱う。
+quotedDescription:
+  text:
+    ja: 北大では、1995年の教養部廃止・学部一貫教育の開始から15年をかけて、教育改革・授業改善に取り組み、教養教育の再編成、特に体験型教育の拡充をはかってきた。2003～2007年に実施された特色GP「進化するコアカリキュラム」から、2008年にはじまった教育GP「博物館を舞台とした体験型全人教育の推進」までのさまざまな取り組みを振り返るとともに、今後の体験型教育の充実の方向性と課題を考えてみる。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty09cationreform-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 安藤 厚
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

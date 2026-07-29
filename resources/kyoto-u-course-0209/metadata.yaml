@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0209
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/209/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第1回 生命倫理講習会
+description:
+  ja: 京都大学の医学部附属病院で開講された「第1回 生命倫理講習会」である。出典サイトには、京都大学再生医科学研究所と21世紀COEプログラム「融合的移植再生治療を目指す国際拠点形成」が共催したことが示されている。
+quotedDescription:
+  text:
+    ja: '京都大学再生医科学研究所
+
+      21世紀ＣＯＥプログラム「融合的移植再生治療を目指す国際拠点形成」共催'
+  source: https://ocw.kyoto-u.ac.jp/course/209/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006-06-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

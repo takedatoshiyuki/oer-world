@@ -1,0 +1,59 @@
+slug: sophia-20120601comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120601comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Mammas, Don’t Let Your Babies Grow Up to Be Samurai
+description:
+  ja: 徳川日本における武士身分を主題に、武士であることが求められた一方で、それを避ける理由があったことを扱う。あわせて、「samurai」をどう定義するか、だれが本当の武士かを見分ける問題にも踏み込み、徳川の身分秩序が時間の中でどう保たれたかを考える。
+quotedDescription:
+  text:
+    ja: "Mammas, Don’t Let Your Babies Grow Up to Be Samurai \n  Who wouldn’t want to be a samurai? Samurai\
+      \ status was indeed coveted by many people in Tokugawa Japan, but there were also good reasons not\
+      \ to be a warrior. This talk will introduce some of them, and along the way it will also address\
+      \ the surprisingly difficult problem of pinning down the definition of “samurai”: who was a “real”\
+      \ samurai, and who was a pretender? This presentation’s larger purpose is to consider how the Tokugawa\
+      \ status order maintained its integrity over time."
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120601comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: David L. Howell
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 120601comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/120601comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20120601comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2012/06/01
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,88 @@
+slug: utokyo-series-brbzizcntypo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=brBZiZCNtYPo
+type:
+- LearningResource
+- Course
+name:
+  ja: 先輩たちが語る 2019冬の海外大学院留学説明会：知は国境を越える
+description:
+  ja: 東京大学が提供する、海外大学院留学に関する説明会である。志願から渡航、修学、現地での生活や文化事情、金銭事情までを扱い、学位留学経験者の話を聞く構成になっている。
+quotedDescription:
+  text:
+    ja: '魅力的な教育、研究システムを持ち、世界中から優秀な学生を集める海外大学院を選択した講演者、パネリストが、志願から渡航・修学のプロセスに始まり現地での生活、文化事情や金銭事情までを語ります。学位留学経験者の生の声を聞いてみませんか？
+
+      海外大学院留学説明会について
+
+      https://www.u-tokyo.ac.jp/ja/alumni/support-programs/advisory.html
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入り…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=brBZiZCNtYPo
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 川崎 進之介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中田 勝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩根 史明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 下 英恵
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 成田 海
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 上原 大樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 神山 翼
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 南出 将志
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0506
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/506/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成25年度 京都大学図書館機構講演会「知っておくとためになる論文執筆術　インパクトある研究成果公開のために」
+description:
+  ja: 論文執筆術を扱い、研究成果を公開する際に意識する点をテーマにした講演会である。京都大学図書館機構が提供し、配布資料へのリンクが付されている。
+quotedDescription:
+  text:
+    ja: 配布資料リンク　https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/179506
+  source: https://ocw.kyoto-u.ac.jp/course/506/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小田 涼
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 鈴木 哲也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-11-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

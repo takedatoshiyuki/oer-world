@@ -1,0 +1,88 @@
+slug: hokudai-semiconductor-quantum-informatics-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/semiconductor-quantum-informatics-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 半導体量子情報特論 [Semiconductor Quantum Informatics]（2014）
+description:
+  ja: 量子情報処理を題材に、量子ドットを含む半導体ナノ構造の基礎物理を扱う大学院講義である。関連論文の紹介と説明を学生が行う構成で、量子情報処理の基礎と、半導体ナノ構造をその実現にどう結びつけるかを学ぶ。
+quotedDescription:
+  text:
+    ja: '//Course Objectives
+
+      There is a growing interest in quantum information processing，in which semiconductor nano-structures
+      represented by quantum dots are the candidates for the practical applications. We first review the
+      semiconductor nano-structures where quantum mechanics is the physics characterizing essential properties.
+      A special emphasis is on the presentation by students on introduction and explanation of related
+      scientific papers.
+
+      //Course Goals
+
+      The final goal of this course is to understand the basic physics for quantum information processing
+      and the potential use of semiconductor nano-structures for its realization.
+
+      //Reading List
+
+      ComputingExplorations in Quantum Computing／C. P. Williams，S. H. Clearwater，NY，1998
+
+      Quantum Computaion and Information／M.A. Nielsen，I.L. Chuang:Cambridge University，2010
+
+      ※この教材は工学系教育研究センター(CEED)から提供されています。
+
+      工学系教育研究センター(CEED)では、工学院・情報科学研究科・工学部のｅラーニング教材を制作しています。
+
+      CEEDの配信システムでは、細かなチャプターの設定、自動的な言語翻訳、講師が発言した内容のテキスト表示等、視聴者を支援する機能が備わっています。原則として北海道大学の学生向けに公開していますが、自己研鑽の学びを希望される方は科目等履修生や社会人大学院生等で学籍を取得し、正規の学生以外でも視聴可能となる手順がありますので、詳しくはCEEDのホームページを参照いただき、手順についてお問い合わせください。'
+  source: https://ocw.hokudai.ac.jp/lecture/semiconductor-quantum-informatics-2014
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 武藤 俊一 [Shunichi MUTO]
+  affiliation:
+    name: 大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- quantum information
+- quantum mechanics
+- semiconductor
+- nano-structures
+- 'uantum dots
+
+
+
+
+  量子情報'
+- 量子力学
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院でさがす
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

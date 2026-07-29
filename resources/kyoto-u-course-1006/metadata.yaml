@@ -1,0 +1,57 @@
+slug: kyoto-u-course-1006
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1006/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【【オンライン公開講義】”立ち止まって、考える” シーズン2「技術文化史から考えるポストコロナ社会」
+description:
+  ja: コロナ禍で加速したオンラインコミュニケーションを、技術文化史の観点から考える講義である。第1回ではウィリアム・ミッチェルの『e-topia』を通じて対面することのコストを扱い、第2回ではボブ・テイラーの論説をもとに、コンピュータを通信手段として捉える発想とオンラインコミュニケーションの意味を考える。
+quotedDescription:
+  text:
+    ja: 'コロナ禍で思いもしないほどまでに、一気に加速したように見えるオンラインコミュニケーション。しかしこうした未来のありようを描き、その意味を論じていた人々があった。
+
+      第1回はマサチューセッツ工科大学の建築学教授ウィリアム・ミッチェルが1999年に発表したe-topiaを取り上げ、「実際に会うことのコスト」を考える議論を紹介する。第2回はインターネットの始祖にあたるコンピュータネットワークが生まれる頃に、政府のコンピューティング領域助成機関でネットーワーク構築プロジェクトを推進したボブ・テイラーが、コンピュータがコミュニケーション装置として使えることを書いた1968年の論説「コミュニケーション装置としてのコンピュータ」を取り上げ、オンラインコミュニケーションの意味を考える。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1006/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多 千草
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

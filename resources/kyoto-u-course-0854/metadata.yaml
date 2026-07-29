@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0854
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/854/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学経済研究所先端政策分析研究センター 国際シンポジウム  再生可能エネルギーが開く未来－欧州の経験と日本の挑戦－
+description:
+  ja: 再生可能エネルギーの普及をめぐり、ドイツとデンマークの経験を手がかりに、制度設計と導入の状況を扱うシンポジウムである。日本の固定価格買取制度の最新動向や地域ごとの取り組みも取り上げ、普及策を議論する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      今年は７月に再生可能エネルギーを普及させる新しい制度として 固定価格買取制度が始まり、再生可能エネルギー時代の幕開けともなる年です。本シンポジウムでは、この分野での先進国であるドイツ、デンマークの経験を紹介し、日本の固定価格買取制度の最新動向や各地域の挑戦を取り上げ、普及策について議論を深めます。'
+  source: https://ocw.kyoto-u.ac.jp/course/854/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-05-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 経済研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

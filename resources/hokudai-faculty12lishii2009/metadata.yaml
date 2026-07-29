@@ -1,0 +1,78 @@
+slug: hokudai-faculty12lishii2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty12lishii2009
+type:
+- LearningResource
+- Course
+name:
+  ja: '全学教育 英語II Hokkaido University: An Introduction(2009)'
+description:
+  ja: '北海道大学の全学教育科目「英語II Hokkaido University: An Introduction(2009)」に関する教材である。公開教材として講義資料のブックレットがあり、出典サイトではこの講義の映像資料が案内されている。'
+quotedDescription:
+  text:
+    ja: '「英語II Hokkaido University: An Introduction(2009)」の映像資料をご覧いただけます。'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty12lishii2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 土永 孝
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院
+- type: Person
+  name: 河合 剛
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院
+- type: Person
+  name: 鈴木 志のぶ
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院
+- type: Person
+  name: シートン・フィリップ
+  affiliation:
+    name: 北海道大学大学院教育学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 英語
+- オンライン授業
+- TOEFL-ITP
+- WebTube
+- Glexa
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: Hokkaido University: An Introduction (Booklet)'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/EnglishII-2009-Booklet-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishii2009
+extensions:
+  faculty: 文学部
+  targetAudience: 1年生～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,106 @@
+slug: icu-majors-bus208-2017w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+type:
+- LearningResource
+- Course
+name:
+  ja: Marketing マーケティング
+description:
+  ja: マーケティングを対象に、市場調査、製品開発、販売力・径路設計、広告、価格政策を扱う。理論面と実践面の研究を含み、講義資料が12件公開されている。
+quotedDescription:
+  text:
+    ja: 'Marketing is one of the most important activities of the modern corporation. This consists of
+      marketing research, product development, sales forces and channel design, advertising, and pricing.
+
+      現代企業の重要な活動の一つにマーケティング活動がある。この活動のなかには市場調査，製品開発，販売力・径路設計，広告，価格政策などがある。この諸活動の理論的実践的研究をする。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      6
+
+      Videos'
+  source: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 稲葉祐之
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'Business 経営学, Economics 経済学 | '
+- 'BUS208 | Course Schedule: 1/TU, 2/TU, 1/TH | Update: 2018.08.21'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/14bymnDF4picdmkSOma4M-JUUmngq48pw/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1RqO8Q9EzkYhWmVF2jItcCd9TgMz8wKI8/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/19fK_rPlL4i2pGoaSseomm6Mg1jME3reO/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1BwEXqN3xUBgQpW6w13xMuJyU8fEHxMQp/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1JFAFuZbjlXYa1q83EukmCR_I446K3f5g/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1qd5cCfwc5YV3B8k_gUprdVL5Pe83diim/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1JCOzY1kzfY0wJoF5KZtB2O9lGf_KgWv9/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1yxSXKO77aB2tc3IZSGAhfpz47zPB7hVC/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1FwaP8zULhQboaLULq78kOpXAocKbRyqL/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ePPGAy5it2g_6cvIO7eZ21C2ZgxOPIRO/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10gEg1e5mvMPoH-cbPJpQgfi-CAvTrCra/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1hveOeF3PAP4sby6kPQ1kNMi-Xxgx2zuh/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/bus208_2017w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

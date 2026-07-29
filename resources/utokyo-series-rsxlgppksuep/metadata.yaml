@@ -1,0 +1,54 @@
+slug: utokyo-series-rsxlgppksuep
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=rSXlgPpkSUEP
+type:
+- LearningResource
+- Course
+name:
+  ja: Googleパリサ・タブリズ女史講演会
+description:
+  ja: Googleのセキュリティチームでの業務を軸に、パリサ・タブリズの経歴と情報セキュリティへの関わりを扱う講演である。ウェブアプリケーションの脆弱性の発見・修復や、エンジニア教育についても触れている。
+quotedDescription:
+  text:
+    ja: "Google セキュリティプリンセス  \n  Parisa Tabriz (パリサ・タブリズ)女史 \n  Google のセキュリティチームで「雇われハッカー」(ソフトウェアエンジニア)として活動を始め、約10年に渡りGoogleにて情報セキュリティに携わる。エンジニアとして日々、グーグルのウェブアプリケーションの脆弱性を発見・修復し、他のエンジニアへの教育にも取り組む。現在、パリサは\
+      \ GoogleのChrome(クローム)セキュリティエンジニアリングチーム…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=rSXlgPpkSUEP
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: パリサ・タブリズ
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- AI・情報
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

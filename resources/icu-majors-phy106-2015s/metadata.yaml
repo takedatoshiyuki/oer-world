@@ -1,0 +1,198 @@
+slug: icu-majors-phy106-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/phy106_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: Hot Topics in Physics 最先端の物理学
+description:
+  ja: 物理学と応用物理学の複数の研究分野を取り上げ、材料科学・工学、天文学、量子物性、数理物理、量子光学などの話題を扱う講義である。各回では、現在活発に研究が行われているテーマを紹介する構成になっている。
+quotedDescription:
+  text:
+    ja: 'This course will introduce students to active areas of research in physics and applied physics.
+      The topics will be introduced in such a way that even those without a strong background in science
+      will be able to gain a glimpse of the what is going on at the forefront of science.
+
+      物理学、応用物理学の様々な分野から、現在活発に研究が行われている分野を紹介する。
+
+      Apr 1
+
+      4
+
+      Introduction
+
+      Apr 1
+
+      6
+
+      Materials Science and Engineering (1) 物性工学の研究 (1)
+
+      岡野 健
+
+      Apr
+
+      21
+
+      Materials Science and Engineering (2)
+
+      物性工学の研究 (2)
+
+      岡野 健
+
+      Apr 23
+
+      Materials Science and Engineering (3) 物性工学の研究 (3)
+
+      岡野 健
+
+      Apr 28
+
+      Astronomy 天文学の研究
+
+      石丸友里
+
+      Apr 30
+
+      Quantum physical properties(1) 量子物性の研究 (1)
+
+      平島 大
+
+      May 07
+
+      Quantum physical properties(2) 量子物性の研究 (2)
+
+      平島 大
+
+      May 12
+
+      Quantum physical properties(3) 量子物性の研究 (3)
+
+      平島 大
+
+      May 14
+
+      Materials Science and Engineering(4) 物性工学の研究 (4)
+
+      森本智史（東京ガス）：コジェネレーション
+
+      May 1
+
+      9
+
+      Mathematical physics (1) 数理物理の研究 (1)
+
+      HITZER, Eckhard
+
+      May
+
+      21
+
+      Quantum physical properties(4) 量子物性の研究 (4)
+
+      香取浩子(東京農工大教授）
+
+      May
+
+      26
+
+      Mathematical physics(2) 数理物理の研究 (2)
+
+      HITZER, Eckhard
+
+      May 2
+
+      8
+
+      Mathematical physics(3) 数理物理の研究 (3)
+
+      HITZER, Eckhard
+
+      Jun
+
+      02
+
+      Mathematical physics(4) 数理物理の研究 (4)
+
+      HITZER, Eckhard
+
+      Jun 0
+
+      4
+
+      Quantum optics(1) 量子光学の研究 (1)
+
+      岡村秀樹
+
+      Jun 0
+
+      9
+
+      Quantum optics(2) 量子光学の研究 (2)
+
+      岡村秀樹
+
+      Jun 11
+
+      Quantum optics(3) 量子光学の研究 (3)
+
+      板谷治郎（東京大学物性研究所）
+
+      Jun 1
+
+      6
+
+      Quantum optics(4) 量子光学の研究 (4)
+
+      岡村秀樹'
+  source: https://ocw.info.icu.ac.jp/majors/phy106_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 岡野 健
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 岡村 秀樹
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 平島 大
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Physics 物理学 | Course ID: PHY10'
+- 'PHY106 | Course Schedule: 3/TU,3/TH | Update: 2023.05.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: tsukuba-ds-urban-planning
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/urban_planning/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 都市計画とデータサイエンス
+description:
+  ja: 都市計画におけるデータサイエンスの役割を扱い、人口や土地利用、人流データなどを通じて地域の課題を読み取る。現地調査やインタビュー調査による現状分析に加え、都市計画制度の課題整理、社会実験による検証、まちづくり提案までを紹介する。
+quotedDescription:
+  text:
+    ja: 本講義では、都市計画におけるデータサイエンスの役割について解説する。人口・土地利用からの課題の可視化、良好な住環境を備えた住宅地づくり、人流データからのCOVID-19の影響の把握、高齢化が進む団地での団地再生など、生活に密着した課題や場所を対象に、現地調査やインタビュー調査などによる現状分析、都市計画制度等の課題整理、社会実験による検証、まちづくり提案について紹介します。
+  source: https://ocw.tsukuba.ac.jp/data-science/urban_planning/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 藤井 さやか
+  affiliation:
+    name: 筑波大学 システム情報系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2022-09-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

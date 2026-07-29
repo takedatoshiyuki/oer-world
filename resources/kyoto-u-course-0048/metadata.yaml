@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0048
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/48/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第39回 京都大学品川セミナー「湖沼・海洋の微生物はダイナミックに生きている」
+description:
+  ja: 湖沼や海洋におけるプランクトンの食物連鎖を、微生物ループを軸に説明する講義である。植物プランクトン、細菌、原生動物、動物プランクトンの関係をたどりながら、微生物がどのようにつながっているかを扱う。あわせて、この仕組みが人間の生活に関わる点にも触れる。
+quotedDescription:
+  text:
+    ja: '湖沼や海洋のプランクトンも、食物連鎖の中で生きています。プランクトンの中に は、細菌、植物プランクトンや原生動物などの微生物も含まれますが、これらの微生 物は微生物ループと呼ばれる食物連鎖を動かしています。少し詳しく述べますと、微
+      生物ループでは、植物プランクトンが光合成により作りだした有機物の一部を溶存態 有機物（水に溶けた状態の有機物）として排出し、この有機物を細菌が栄養物質とし て食べて増殖し、増殖した細菌を原生動物が食べて、さらに原生動物がミジンコ等の
+      動物プランクトンに捕食されることによって従来の生食連鎖（植物プランクトンが動 物プランクトンに食べられる食物連鎖）につながります。
+
+      つまり、これまで単に分解 者として位置づけられていた細菌や原生生物は、実は微生物ループを通じて動物プラ ンクトンの餌資源としても貢献します。本セミナーでは、湖沼や海洋で微生物ループ がダイナミックに駆動している様子を紹介するとともに、微生物ループがいかに我々
+      の生活にも重要であるか、分かり易く紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/48/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中野 伸一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-08-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生態学研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

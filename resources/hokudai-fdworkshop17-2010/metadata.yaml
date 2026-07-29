@@ -1,0 +1,206 @@
+slug: hokudai-fdworkshop17-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/fdworkshop17-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 第17回 北海道大学教育ワークショップ（2010）
+description:
+  ja: 北海道大学の若手教員向けワークショップで、授業科目の設計やシラバス作成を通して教育の基礎を扱う。あわせて、全学教育と総合入試、授業支援システムELMS、教育方略、教育評価、北大OCW、教育倫理綱領などを取り上げる。グループ作業と発表・全体討論を含み、実習を交えた構成になっている。
+quotedDescription:
+  text:
+    ja: '現在、大学の教育現場においては、学生に知的刺激を与え、自主性を引き出し、自学自習の態度・習慣を身につけさせることが強く求められています。このワークショップでは、若手教員を対象として、新しく授業科目を考え出してシラバスを作成することにより教育の基礎を理解し、新しい教育手法を身につけることを目指します。また、最近制定された北大の教育倫理綱領について学びます。
+
+      ・11月5日
+
+      8:15 受付
+
+      8:30 挨拶 [6:09]
+
+      脇田 稔
+
+      8:55 バス出発
+
+      研修開始:オリエンテーション（挨拶，自己紹介）
+
+      10:10 ないえ温泉「ホテル北乃湯」到着
+
+      玄関前で記念写真
+
+      10:20 ミニ講義
+
+      北大の全学教育と総合入試 [32:49]
+
+      山口 淳二
+
+      10:50 休憩
+
+      11:05 ミニ講義
+
+      授業支援システムELMSの活用法 [26:59]
+
+      布施 泉
+
+      11:35 ミニ講義
+
+      FDの目的と教育倫理 [27:49]
+
+      細川 敏幸
+
+      12:10 昼食
+
+      13:00 ミニ講義
+
+      ワークショップとは [8:01]
+
+      細川 敏幸
+
+      アイスブレーキング [6:43]
+
+      細川 敏幸
+
+      13:30 ミニ講義
+
+      カリキュラムの構成要素とシラバス [28:15]
+
+      山岸 みどり
+
+      14:00 グループ作業Iの課題の説明 [9:42]
+
+      西森 敏之
+
+      14:10 グループ作業I
+
+      15:10 発表・全体討論
+
+      15:50 休憩
+
+      16:10 ミニ講義
+
+      教育方略 [20:27]
+
+      山田 邦雅
+
+      クリッカー [6:28]
+
+      山田 邦雅
+
+      16:40 グループ作業IIの課題の説明 [2:25]
+
+      西森 敏之
+
+      16:50 グループ作業II
+
+      17:50 発表・全体討論
+
+      18:30 夕食
+
+      19:10 ミニ講義
+
+      講義資料公開サイト北大OCWの紹介 [5:19]
+
+      合川 正幸
+
+      20:00 懇親会
+
+      ・11月6日
+
+      7:30 朝食
+
+      8:30 ミニ講義
+
+      教育評価 [22:56]
+
+      細川 敏幸
+
+      9:00 グループ作業IIIの課題の説明 [1:20]
+
+      西森 敏之
+
+      9:10 グループ作業III
+
+      10:10 発表・全体討論
+
+      11:00 休憩
+
+      11:15 修了証授与式 [0:44]
+
+      細川 敏幸
+
+      参加者の個人的感想や意見
+
+      12:00 昼食
+
+      13:00 バス出発
+
+      14:30 JR札幌駅北口到着'
+  source: https://ocw.hokudai.ac.jp/lecture/fdworkshop17-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 脇田 稔
+  affiliation:
+    name: 北海道大学副学長
+- type: Person
+  name: 山口 淳二
+  affiliation:
+    name: 理学研究院
+- type: Person
+  name: 布施 泉
+  affiliation:
+    name: 情報基盤センター
+- type: Person
+  name: 細川 敏幸
+  affiliation:
+    name: 高等教育推進機構
+- type: Person
+  name: 山岸 みどり
+  affiliation:
+    name: 高等教育推進機構
+- type: Person
+  name: 西森 敏之
+  affiliation:
+    name: 高等教育推進機構
+- type: Person
+  name: 山田 邦雅
+  affiliation:
+    name: 高等教育推進機構
+- type: Person
+  name: 合川 正幸
+  affiliation:
+    name: 高等教育推進機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 情報基盤センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

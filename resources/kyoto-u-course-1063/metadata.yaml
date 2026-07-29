@@ -1,0 +1,75 @@
+slug: kyoto-u-course-1063
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1063/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2021年度アフリカ地域研究資料センター公開講座「工学研究者、アフリカへ行く！ ～ ” MNGDプロジェクト” の挑戦」
+description:
+  ja: アフリカの「道」を手がかりに、2019年からエチオピアで進められている工学系の共同研究を紹介する公開講座である。SATREPSのMNGDプロジェクトの活動を取り上げ、道路災害低減に向けた植物由来の土質改良材の開発と運用モデルについて扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      アフリカでは、古来より人やもの、情報のやりとりを様々に発達させてきました。そのなかでも、物理的な往来を容易くする「道」の存在は欠かせません。航空機や高速道路による長距離移動やSNSなどの情報通信が多用されるアフリカで、ともすれば村と村をつなぐふつうの「道」の重要性は看過されてきました。
+
+      今回のアフリカセンター公開講座では、この「道」に注目して2019年からエチオピアで共同研究をはじめた工学研究者たちの挑戦をとりあげます。SATREPS（地球規模課題対応国際科学技術協力プログラム）「特殊土地盤上道路災害低減に向けた植物由来の土質改良材の開発と運用モデル」、通称MNGDプロジェクトの活動について紹介しながら、みなさんと一緒にアフリカの道について考えます。'
+  source: https://ocw.kyoto-u.ac.jp/course/1063/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 木村 亮
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 安原 英明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 福林 良典
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 宮﨑 祐輔
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松隈 俊佑
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 澤村 康生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-10-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: アフリカ地域研究資料センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

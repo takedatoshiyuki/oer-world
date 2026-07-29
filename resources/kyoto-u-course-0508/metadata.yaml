@@ -1,0 +1,94 @@
+slug: kyoto-u-course-0508
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/508/
+type:
+- LearningResource
+- Course
+name:
+  ja: 動物環境生理学
+description:
+  ja: 動物と環境の関係を軸に、環境ホルモンや植物ホルモン、地球温暖化、水不足が動物の生理機能や繁殖、免疫に与える影響を扱う講義資料である。さらに、畜産における温室効果ガスの抑制や防暑対策、エコフィードの利用など、家畜管理に関わる
+    विषयも含む。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久米 新一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+- natural_sciences_math
+keywords:
+- 農学
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　動物と環境問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第2回　環境ホルモンと動物の生理機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第3回　植物ホルモンと動物の生理機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第4回　地球温暖化と動物の生理・繁殖機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第5回　動物の免疫機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第6回　子牛の免疫機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第7回　水不足と動物の生理機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第8回　地球温暖化と畜産'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第9回　家畜からの温室効果ガスの抑制'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第10回　動物の体温調節機構'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第11回　家畜の防暑対策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第13回　家畜のエコフィードの利用'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+- name: '講義資料: 第14回　高泌乳牛の飼養管理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_doubutsukankyouseirigaku_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/508/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

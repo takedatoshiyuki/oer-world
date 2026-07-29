@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0190
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/190/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第65回 京都大学品川セミナー「情報社会の教育を考える」
+description:
+  ja: 情報社会への移行に伴って生じる教育の変化を扱い、e-Learning、遠隔講義、ディジタル教材、学習データ収集といった要素を取り上げる。あわせて、情報社会における教育の特徴や可能な形を議論し、個人適応教育の方向性を示す。
+quotedDescription:
+  text:
+    ja: '工業社会が情報社会に変わりつつある現状では、情報セキュリティの問題、個人情報の漏洩など、様々な問題が起こっている、大きな社会変化の過渡期には、考え方が大きく異なる。「情報」はものではないにもかかわらず、もののように扱っている人が多いのが現状である。
+
+      　情報の本質を考えたときに、情報社会の全貌が見えてくる。社会システムが効率化を求めて情報化されるのは必然の結果であり、情報システムが社会の基盤となってくる。その結果が情報社会であり、これまでの現実の世界(フィジカル世界)にかぶさる形で情報の世界(サイバー世界)が出現する。現実世界での人間の活動はその痕跡がすべてサイバー世界に記録され、サイバー世界にはビッグデータが蓄積される。これらのビッグデータは世界の状況を把握できるほど十分な量になり、人工知能がそのデータを処理して世界規模で最適化、効率化を進める。まるでSFの世界のような話であるが、かなり現実的な話となってきている。
+
+      　このような社会状況の変化の中で、教育の改革が求められている。当然、情報社会のコンテキストでの教育であり、「教育の情報化」と呼ばれている。様々な活動があるが、例としてはe-Learning、遠隔講義、ディジタル教材の利用、学生の学習データの収集(ビッグデータ)などがあげられる。問題は、社会の変化が急激に起きているので、学生の方は環境が変化したのちに育っているのに、教員は変化する前に育っているという点である。このような状況では、教員側に新しい教育ができるかという問題が生じる。加えて、従来の教育は、教員が教室で知識を授ける形態であり、その形態が情報社会では陳腐化しようとしている。なぜならば、知識はサイバー世界にあり、検索により探せるからである。
+
+      　いろいろな議論がなされているが、情報社会での教育の特徴はなにか、どんな教育ができるのかなどについて、議論したのち、一つの方向性として個人適応教育を示してみたい。この講演をきっかけに、情報社会での教育の問題を考えてもらえば幸いである。'
+  source: https://ocw.kyoto-u.ac.jp/course/190/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 美濃 導彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-10-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

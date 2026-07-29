@@ -1,0 +1,64 @@
+slug: hokudai-diet-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/diet-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文学カフェ なぜダイエットは明日からなのか ～心の言い訳を解き明かす行動神経経済学～（2012）
+description:
+  ja: 人間が目先の利益に引きつけられたり、嫌なことを先のばしにしたりする行動を、〈時間割引〉という考え方から扱う講義である。行動経済学と神経生物学を組み合わせた神経経済学の観点から、意思決定や自己制御と人間の心理・ホルモンの関係を取り上げる。
+quotedDescription:
+  text:
+    ja: '人間の行動は、よく理解できないことがあります。「少し我慢すれば、もっと得をするのに」とか「イヤなことを先のばしにすると、本当は損してしまうのに」と頭ではわかっていながら、なかなか自分の行動を制御できません。
+
+      1週間後にチョコレートを2つもらうより、いまチョコレートを1つもらったぼうがいい！」「5年後の10万円より、いますぐの5万円の方が大事」。こんなふうに、目先の利益に惹きつけられてしまうことはありませんか？
+
+      「ダイエットは明日から」。イヤなことを先のばしにすると、嫌悪感が減ったりもします。 得や損の大きさが、時間によって遣って感じられる。これは、不合理な意思決定をしてしまう人間にとって、じつはふつうのことで、利得や損失の〈時間割引〉とよばれています。
+
+      今回の話し手の高橋泰城さんは、行動経済学と神経生物学の手法を組み合わせた神経経済学という分野の研究を行っています。人間の心理や、脳に作用するホルモンのはたらきが、人間の経済行動とどのようにかかわっているのか。こうしたことを明らかにしようとする専門分野です。〈時間割引〉は、その大きな研究テーマになっています
+
+      時間の流れの中で、人間はどういうふうに意思決定を行うのか。忍耐強く自己を制御したり、あるいは衝動的な選択をしてしまったりするのはなぜか。不思議な人間の行動を解明することは、社会のいろいろな問題を解決することにも応用できるかもしれません。高橋さんといっしょに、神経経済学の観点から、人間の行動にアプローチしてみましょう。
+
+      北大人文学カフェ　アーカイブ
+
+      http://www.let.hokudai.ac.jp/archive/cafe/'
+  source: https://ocw.hokudai.ac.jp/lecture/diet-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 泰城
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+keywords:
+- 心理／社会学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

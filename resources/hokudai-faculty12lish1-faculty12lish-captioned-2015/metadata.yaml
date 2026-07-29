@@ -1,0 +1,84 @@
+slug: hokudai-faculty12lish1-faculty12lish-captioned-2015
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty12lish1-faculty12lish-captioned-2015
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 英語I 北大発信型英語基礎教材 英語字幕あり (2015)
+description:
+  ja: 英語字幕付きの北大発信型オリジナルビデオ教材で、Unit 1-5では英語発音、Unit 6-10ではパラグラフライティング、Unit 11-14ではプレゼンテーションを扱う。日本語と英語を用い、英語の基礎的な技能を段階的に取り上げる構成になっている。
+quotedDescription:
+  text:
+    ja: '※この教材には英語字幕がついています。
+
+      Original Video Materials:
+
+      1. Tips for English Speech Sounds (Unit 1-5)
+
+      2. Tips for Writing Sensible Paragraphs (Unit 6-10)
+
+      3. Steps toward Attractive Presentations (Unit 11-14)
+
+      北大発信型オリジナルビデオ教材：
+
+      1. 英語発音の基礎 (Unit 1-5)
+
+      2. パラグラフライティングの基礎 (Unit 6-10)
+
+      3. 魅力的なプレゼンテーションに向けて (Unit 11-14)'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty12lish1-faculty12lish-captioned-2015
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 奥 聡
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: 土永 孝
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: 辻本 篤
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: ジェフ ゲーマン
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 外国語教育センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

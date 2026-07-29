@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0267
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/267/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第31回 知的コラボの会「PISA「読解力」の再考：サンプル問題作成者の経験から」
+description:
+  ja: OECDのPISAにおける読解力測定を題材に、問題がどのような過程で作成されたかを扱う講義である。サンプル問題の作成に直接かかわった人への聞き取り調査を手がかりに、作成の舞台裏にある矛盾や力関係を検討する。あわせて、PISAを支える科学的合理性の前提を問い直す。
+quotedDescription:
+  text:
+    ja: 'コース概要
+
+      2000年にスタートしたOECDのPISA。3年に一度行われるこの「世界の学力テスト」の結果がメディアを賑わせる風景は、すでにお馴染みのものとなりました。その最新の調査結果（PISA2018)が先日12月3日に公表され、リーディング・リテラシー（読解力）において日本の１５歳の順位が１５位まで「転落」したと大々的に報道されています。子どもたちがスマホに依存し、読書量が大幅に減っていることが有力な原因の一つとして挙げられているようです。ですが、この「普遍的」とされる言語操作能力を測るとされるPISAの問題は、そもそもどのようなプロセスを経て作成されたのでしょうか。この講演では、「日本代表」としてPISAのリーディング・リテラシーのサンプル問題の作成に直接かかわった方々からの聞き取り調査を基に、舞台裏から見える矛盾、混乱、不均衡な力関係を明らかにします。そうすることで、PISAの政治的正当性を担保する「科学的合理性」の前提に疑問を呈してみたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/267/
+  note: 京都大学OCW 「コース概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 高山 敬太
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-12-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

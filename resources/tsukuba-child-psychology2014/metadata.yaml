@@ -1,0 +1,47 @@
+slug: tsukuba-child-psychology2014
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/psychology/child-psychology2014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2014年度 特別講義「問いを持ち続けることの大切さ－子どものウソは『嘘』か？」
+description:
+  ja: 子どもがつくウソを手がかりに、心理学の実証的な考え方で認知発達と言語発達を検討する講義である。噂話の伝播、目撃証言、口承文芸などの材料を通して、語りや創造的想像、記憶の基盤までを扱う。あわせて、問いを立てて探求し、そのための方法論を身につけることの重要性にも触れる。
+quotedDescription:
+  text:
+    ja: 心理学は心の不思議を解き明かす実証科学である。子どものつく「ウソ」は本当に『嘘』なのか？嘘をつくための認知発達や言語発達はどのような噂話の伝播の過程、子どもと大人の目撃証言の信ぴょう性、口承文芸の時代による変遷の過程などの言語材料に基づき、語りの発達や創造的想像のメカニズム、記憶と想起を支える脳の基盤などを実証的に検証し、ウソか嘘かを明らかにしていく。この検証の過程を支えるのは、第一に、問いをもつこと。第二に、問いを探求すること。第三に、探求のための方法論を身につけることである。
+  source: https://ocw.tsukuba.ac.jp/course/psychology/child-psychology2014/
+  note: TSUKUBA OCW 「肝心なのは、問うのをやめないこと。」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 内田 伸子
+  affiliation:
+    name: 十文字学園女子大学理事/特任教授、お茶の水女子大学名誉教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-06-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 心理学
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

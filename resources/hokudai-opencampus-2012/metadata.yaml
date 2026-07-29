@@ -1,0 +1,57 @@
+slug: hokudai-opencampus-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/opencampus-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: オープンキャンパス アドミッションセンター 総合入試特別プログラム （2012）
+description:
+  ja: 北海道大学のオープンキャンパス当日の様子を映像で取り上げる教材である。会場の雰囲気を伝える内容で、イベントの様子を視覚的に確認できる。
+quotedDescription:
+  text:
+    ja: '北海道大学で行っているオープンキャンパスの模様を映像でご紹介しています。
+
+      当日お越しになれなかったみなさまも北海道大学の雰囲気を感じることができます。 どうぞご覧ください。'
+  source: https://ocw.hokudai.ac.jp/lecture/opencampus-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小内 透
+  affiliation:
+    name: 北海道大学大学院教育学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- オープンキャンパス
+- 総合入試
+- アドミッションセンター
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

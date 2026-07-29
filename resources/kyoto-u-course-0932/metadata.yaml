@@ -1,0 +1,122 @@
+slug: kyoto-u-course-0932
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/932/
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代の大学・大学生論A
+description:
+  ja: 明治以降の大学の成立と変化を手がかりに、現代の大学と大学生を考える講義である。帝国大学の始動、滝川事件、戦時中の大学、学徒出陣、敗戦後の大学改革、大学紛争などを扱い、歴史的視点から現在を考察する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      現代の大学、大学生問題は、学生諸君にとっては単なる知識や一般的問題としてはすまされない我が身の問題のはずです。この授業では、現代の大学、大学生問題を歴史的知識とともに考えてもらうことを目的としています。
+
+       
+
+      授業の紹介
+
+      大学の誕生、青年、大学生の誕生といわれる明治以来の歴史的概観をもとに、現代の大学、現代の大学生を理解する授業です。授業の目的は、歴史的な知識を詰め込むことではなく、歴史的視点をもって現代を考察することができることにあります。'
+  source: https://ocw.kyoto-u.ac.jp/course/932/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 溝上慎一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西山伸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第2回\t帝国大学の始動と京都帝国大学の創立　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第2回\t帝国大学の始動と京都帝国大学の創立　講義資料"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第3回\t国家と大学　−滝川事件−　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第3回\t国家と大学　−滝川事件−　講義資料"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第4回\t戦時中の大学　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第4回\t戦時中の大学　講義資料"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第5回\t出兵する大学生 −「学徒出陣」−　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第5回\t出兵する大学生 −「学徒出陣」−　講義資料"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第6回\t敗戦後の大学改革と京都大学　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第6回\t敗戦後の大学改革と京都大学　講義資料"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第7回\t大学紛争とその背景（2）　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第7回\t大学紛争とその背景（2）　講義資料"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第8回\t現代の大学・大学生を理解するための問い　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第9回\t前文脈としての大人社会の力(1)　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第10回\t前文脈としての大人社会の力(2)　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第11回\t1970〜1980年代の若者文化の隆盛　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: "講義資料: 第12回\t1990年代以降の大学、大学生　講義ノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+- name: '講義資料: 2004年度試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/04/2005_gendainodaigaku_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/932/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

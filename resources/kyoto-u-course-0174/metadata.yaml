@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0174
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/174/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「やましろ文箱（ポートフォリオ）」をつくろう！, 2013
+description:
+  ja: この教材は、学習の履歴を残し、定期的に見直したり他者と対話したりするポートフォリオの考え方と作り方を扱う。高校生向けに構成されており、あわせて目次の例や検討会（交流会）の進め方に関する資料も収録している。
+quotedDescription:
+  text:
+    ja: '概要
+
+      ポートフォリオに学習の履歴を残し、定期的に編集したり、人と対話したりすることは、効果的に学習を進めたり、自分の生き方について考えたりする上で大きな意義があります。この講演では、高校生の皆さんに、ポートフォリオのつくり方について説明しています。「参考資料」には、ポートフォリオの目次や検討会（交流会）の進め方について説明した資料も掲載しています。
+
+      なお、ポートフォリオは、様々にデザインできます。詳しくは、「資料」に掲載した「補足資料」で紹介している参考文献を参照してください。'
+  source: https://ocw.kyoto-u.ac.jp/course/174/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-07-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 補足資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_やましろ文箱_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/174/
+- name: '講義資料: 事前・当日アンケート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_やましろ文箱_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/174/
+- name: '講義資料: 当日配布資料（生徒用）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_やましろ文箱_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/174/
+- name: '講義資料: 「やましろ文箱」表紙と目次'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_やましろ文箱_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/174/
+- name: '講義資料: 当日配布資料（指導の先生方用）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_やましろ文箱_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/174/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

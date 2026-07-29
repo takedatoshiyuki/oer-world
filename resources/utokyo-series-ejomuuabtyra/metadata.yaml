@@ -1,0 +1,95 @@
+slug: utokyo-series-ejomuuabtyra
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ejOmuuABTYrA
+type:
+- LearningResource
+- Course
+name:
+  ja: 「いのち」のシステムを解き明かす－急展開する生命科学（学術俯瞰講義）
+description:
+  ja: 生命科学の進展を、ゲノムシステム、細胞システム、脳を含む高次生命システムの3つの階層から整理する講義である。全塩基配列の解読とイメージング技術の進展を手がかりに、生命理解がどのように広がってきたかを扱う。
+quotedDescription:
+  text:
+    ja: '「いのち（生命）」とは何だろう。現在の地球には何百万もの種があり、そのうちの１つの種であるヒトだけで67億の生命がある。土壌や海中の細菌にいたっては、その個体数だけでなく種数も計測不可能なほど多い。私たちヒトは、ヒトの誕生以来、生活の必要性からまた知的好奇心から、この多様な生命を理解しようと努めてきた。歴史的にみると、これまでに生命の理解が飛躍的に進んだ時期がいくつかある。1990年代後半からの現在に至る10数年も、まさにそのような時期で、新たな知識に基づいて生命観も大きく変わりつつある。この変化の大きな潮流をつくったのは、生命の設計図であるゲノムを構成する全塩基配列の解読と生命を生きた状態で観察するイメージングの進展である。
+
+      本講義では、これらの新しい技術・情報により急展開しつつある生命の理解を、３つの階層－ゲノムシステム、細胞システム、高次生命システムの代表としての脳－から俯瞰する。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ejOmuuABTYrA
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 塚谷 裕一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 森下 真一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 斎藤 成也
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高木 利久
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宮園 浩平
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 坂野 仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 河西 春郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 堀田 凱樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 生命・医療
+- 歴史
+- 生物学
+- 進化
+- 技術革新
+- ゲノム
+- 進化論
+- 人類学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

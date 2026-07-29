@@ -1,0 +1,91 @@
+slug: utokyo-series-jlm68u825xkk
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=JLM68U825xkK
+type:
+- LearningResource
+- Course
+name:
+  ja: 2023年度 SCERU Seminar / GraSPP Research Seminar
+description:
+  ja: 東京大学公共政策大学院が2023年度に開講した「SCERU Seminar / GraSPP Research Seminar」で、英語話者向けに英語で行われる。担当には複数の教員・登壇者が含まれており、講義情報としては開講年度、部局、言語、対象が示されている。
+quotedDescription:
+  text:
+    ja: '★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=JLM68U825xkK
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Geoffroy d’Andigné
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯田 敬輔
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 四方 敬之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Philip Shetler-Jones
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 青井 千由紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Andriy Zagorodnyuk
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Lutz Guellner
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Krišjānis Kariņš
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- business_law
+keywords:
+- 国際関係
+- 政治・法律
+- G7
+- 国際政治
+- ウクライナ
+- 国際秩序
+- 安全保障
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

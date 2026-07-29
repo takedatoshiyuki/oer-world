@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0178
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/178/
+type:
+- LearningResource
+- Course
+name:
+  ja: 建築学：メキシコ地震に学ぶ1985
+description:
+  ja: 1985年9月19日にメキシコ市で起きた地震を取り上げ、長周期地震が中高層建築に与えた被害をシミュレーションを交えて扱う。あわせて、メキシコの建築文化や近現代建築も紹介する構成である。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      1985年9月19日メキシコ市で起きた大震災について，シミュレーション映像を交えて説明します。
+
+      授業の紹介
+
+      1985年9月19日，メキシコで大きな地震が起きました．このとき起きた地震は長周期地震と呼ばれ，中高層建築に大きな被害が出ました．高層化が進む日本の建物も他人事ではありません．セミナーでは地震の怖さと対策を，コンピュータ・シミュレーションで理解してもらいます．あわせてメキシコの優れた建築文化も紹介したいと思います．
+
+      ジュニアキャンパス
+
+      https://www.kyoto-u.ac.jp/ja/social/open-course/finished/junior'
+  source: https://ocw.kyoto-u.ac.jp/course/178/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐藤 裕一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 建築
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 第1回 メキシコ地震に学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_mexicojishinnnimanabu1985_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/178/
+- name: '講義資料: 第2回 メキシコ近現代建築紹介'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_mexicojishinnnimanabu1985_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/178/
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

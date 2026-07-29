@@ -1,0 +1,54 @@
+slug: hokudai-braincommunication-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/braincommunication-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! コミュニケーションする脳！？ ～脳をカオスで語る～（2010）
+description:
+  ja: 脳とコミュニケーションの関係を、数理科学の視点から扱う講義である。コミュニケーションの際に脳内で起こる神経細胞の相互作用を取り上げ、それをカオスという数理科学的な切り口で考える。
+quotedDescription:
+  text:
+    ja: 私たちは一人ひとり考え方や感じ方が異なっています。それは、私たちがそれぞれ違う脳をもっていることと大きく関係しています。それにもかかわらず、コミュニケーションを通してお互いの思いや情報を共有し合うことができます。どうしてでしょうか？今回のサイエンス・カフェ札幌では、北海道大学の津田一郎さんに、数理科学の観点から脳とコミュニケーションの関係についてお話をしていただきます。私たちがコミュニケーションを通して思いや情報を伝え合っているとき、脳内では神経細胞の複雑な相互作用が起こっています。津田さんは、この現象をカオスという数理科学的側面から解明する研究に第一線で取り組んでいます。
+  source: https://ocw.hokudai.ac.jp/lecture/braincommunication-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 津田 一郎
+  affiliation:
+    name: 北海道大学電子科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 電子科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

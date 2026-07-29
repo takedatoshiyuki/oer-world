@@ -1,0 +1,85 @@
+slug: hokudai-politicalfaculty10omyii-2004
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 グローバル・エコノミーの政治経済学（2004）
+description:
+  ja: 1990年代以降に形成されたグローバル・エコノミーを対象に、現代資本主義の構造と変動を分析する講義である。あわせて、その過程で生じた緊張や矛盾に対して、どのような対応が考えられるかを扱う。
+quotedDescription:
+  text:
+    ja: 1990年代から形成されてきたグローバル・エコノミーを分析し，現代資本主義の構造と変動を明らかにするとともに，そこから生じた緊張や矛盾への適切な処方箋を展望する．
+  source: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐々木 隆生
+  affiliation:
+    name: 公共政策大学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- グローバル・エコノミー，国際資本移動，世界経済管理
+- ビジネス／経済
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-00.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Reference.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+- name: '講義資料: 全講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PoliticalEconomyII-2004-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/politicalfaculty10omyii-2004
+extensions:
+  faculty: 経済学部
+  targetAudience: s:78:"s:70:"s:62:"s:54:"a:2:{i:0;s:1:"3";i:1;s:24:" 4年生 経済学部 ";}";";";";
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

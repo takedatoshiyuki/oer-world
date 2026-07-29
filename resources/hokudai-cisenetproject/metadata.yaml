@@ -1,0 +1,79 @@
+slug: hokudai-cisenetproject
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/cisenetproject
+type:
+- LearningResource
+- Course
+name:
+  ja: CISEネットプロジェクト きっと役に立つキット教材開発セミナー 教育デリバリーシステム「トランクキット」の開発と普及(2012)
+description:
+  ja: 札幌周辺地域の教育施設が連携して進めるCISEネットの活動を背景に、教育デリバリーシステム「トランクキット」の開発と普及を扱うセミナーである。道内の施設や団体で使われている教材の紹介を通じて、教材プログラムの開発や今後のトランクキットのあり方について意見交換する内容になっている。
+quotedDescription:
+  text:
+    ja: '「CISE（Community for Intermediation of Science Education）ネット」は、札幌周辺地域の教育施設が連携し、地域住民への実物科学教育を進めるネットワークです。連携する教育施設の特性に応じた実物教育をおこない、その成果をまとめ地域の知財とし発信します。連携施設が協同して効果的な教育を行うため、教材プログラムの開発を進めています。その主となる活動のひとつが、トランクキットです。
+
+      今回のセミナーでは、道内の施設や団体によって活用されている教材を紹介し、今後のトランクキット開発についての意見交換の場とします。
+
+      主催： CISEネット（運営機関：北海道大学総合博物館）'
+  source: https://ocw.hokudai.ac.jp/lecture/cisenetproject
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 大原 昌宏
+  affiliation:
+    name: CISEネットコーディネーター/北海道大学総合博物館
+- type: Person
+  name: 小林 真樹
+  affiliation:
+    name: 帯広百年記念館
+- type: Person
+  name: 伊藤 彩子
+  affiliation:
+    name: 帯広百年記念館
+- type: Person
+  name: 山崎 真実
+  affiliation:
+    name: 札幌市博物館活動センター
+- type: Person
+  name: 森口 雅和
+  affiliation:
+    name: 札幌市環境プラザ 指定管理者：財団法人 札幌市青少年女性活動協会
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 機械力学
+- 解析力学
+- ハミルトンの原理
+- 構造解析
+- モード解析
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0099
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/99/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法学部オープンキャンパス「裁判員制度－国民の司法参加について」
+description:
+  ja: 京都大学法学部のオープンキャンパスで行われた講義で、裁判員制度を通じた国民の司法参加を扱う。担当は酒巻 匡で、2016-08-10に開講された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 酒巻 匡
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-08-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 法学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 法学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

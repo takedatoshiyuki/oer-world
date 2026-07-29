@@ -1,0 +1,82 @@
+slug: kyoto-u-course-0773
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/773/
+type:
+- LearningResource
+- Course
+name:
+  ja: Fluctuation theory of Markov additive processes and self-similar Markov processes
+description:
+  ja: この講義は、自己相似性をもつ確率過程としての ssMp を中心に、Lévy 過程や MAP の fluctuation theory を用いてその性質を扱う。まず Lévy 過程とランダムウォークの基本結果を確認し、その内容を
+    MAP に広げながら、stable process から得られる例も取り上げる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      By a self-similar process we mean a stochastic process having the scaling property. Self-similar
+      processes often arise in various parts of probability theory as limit of re-scaled processes. Among
+      several classes of self-similar processes, of particular interest to us is the class of self-similar
+      strong Markov processes (ssMp).
+
+      The ssMp’s are involved for instance in branching processes, Lévy processes, coalescent processes
+      and fragmentation theory. Some particularly well-known examples are Brownian motion, Bessel processes,
+      stable subordinators, stable processes, stable Lévy processes conditioned to stay positive, etc.
+      Our main purpose in this course is to give a panorama of properties of ssMp’s that have been obtained
+      since the early sixties under the impulse of Lamperti’s work, where the study of the case of positive
+      valued ssMp’s is initiated. The main result in Lamperti’s work establishes that there is an explicit
+      bijection between positive valued ssMp’s and real valued Lévy processes. Recently it has been proved
+      by Alili et al. that Rd-valued ssMp’s are in a bijection with a generalization of Lévy processes,
+      namely \emph{Markov Additive Processes} (MAP).
+
+      In this course we will mainly focus in the study of ssMp’s making a systematic application of the
+      fluctuation theory of Lévy processes and MAP’s. So, we will start by giving a review of some key
+      results in the fluctuation theory of Lévy processes and random walks, and then extending some of
+      those results to MAP’s. We will study some particular examples, most of them are ssMp’s obtained
+      as a path transformation of stable processes.'
+  source: https://ocw.kyoto-u.ac.jp/course/773/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Investigador Titular "B"
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 'SNI: Nivel III）'
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-12-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

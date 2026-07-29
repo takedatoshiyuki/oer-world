@@ -1,0 +1,63 @@
+slug: sophia-20121110lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20121110lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2012外国語学部語劇祭
+description:
+  ja: この資料は、2012年の外国語学部語劇祭で上演された各学科の演目と、そのあらすじや見どころをまとめた講義資料である。ロシア語、イスパニア語、ポルトガル語の各劇団について、作品名と内容の概要が並んでいる。
+quotedDescription:
+  text:
+    ja: "【劇団名】\nチアトラール（ロシア語学科） \n 【演目】\nНет и Да(ニェット・イ・ダー)（否定と肯定）\nZ.ギッピウス作 \n 【あらすじ・見どころ】\n 人生に対する考え方が違う３人の男が登場します。考え方の違いから３人の意見はぶつかります。個人的な悲劇はいつも新鮮で苦いものであり、大きな災厄には慣れるものです。\n\
+      アピールポイント：短い劇ですが、「不条理」または「実存主義への異議申し立て」をうまく伝えられるよう、戯曲をさらに読み込み、稽古に励んでいます。 \n   \n 【劇団名】\nチアトラール（ロシア語学科）\n\
+       【演目】 \nСчастливая Любовь（幸せな恋）\n Ｎ．テッフィ作 \n 【あらすじ・見どころ】\n 若い男女の物語。ベンチで男女が語り合います。男は女をひたすら口説こうとしますが、女には別に関心事があります。二人で交わされる軽妙な会話のリズムを出すことがポイントです。\n\
+      アピールポイント：会話がかみ合わない、喜劇的要素を含んでいます。そのズレを観客といっしょに楽しみたいと思います。 \n   \n 【劇団名】\nエル ガジネロ（イスパニア語学科） \n 【演目】\n\
+      La zapatera prodigiosa（素晴らしい靴屋の女房靴屋の女房）\nガルシア・ロルカ作 \n 【あらすじ・見どころ】\n53歳の靴屋は18歳の少女と結婚した。しかしその女房、他の男と話をしたり、家の中で泣き叫ぶなど靴屋の平穏だった生活をめちゃくちゃにしてしまう。耐えきれなくなった靴屋は一人静かに家を出ることを決心する。ある日、村に人形使いがやってきた。そこには居酒屋を営みながら、夫である靴屋の帰りを一人待つあの女房の姿もあった。その人形使いは、自分を捨てた女房を探して旅をしているとのことだが…。\
+      \ \n   \n 【劇団名】\nポルトガル語劇団（ポルトガル語学科）\n 【演目】\nSeja do jeitinho como você é（ありのままの君でいて）\n池上実花（ポルトガル語学科2年）作\
+      \ \n 【あらすじ・見どころ】\nブラジルで生まれた日系4世のBrunoは、15歳になった現在までずっと、特に深い意味もなく自分はブラジル人であると考えてきた。しかしブラジル開催のサッカーワールドカップでの出来事をきっかけに、そんな自分の存在に疑問を抱き始める。自分は一体何人なのか、それは何によって決まるのか…\
+      \ 日本語の歌を歌う不思議な少女との出会いを通して、自分という存在について深く考え成長していく、アイデンティティークライシスをテーマとしたポルトガル語劇団オリジナルの物語。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20121110lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 外国語学部
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20121110lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20121110lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20121110lecture/
+extensions:
+  faculty: 外国語学部
+  term: 2012/11/10-11
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

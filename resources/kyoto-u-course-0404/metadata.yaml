@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0404
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/404/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第２回 MACSコロキウム「数理から生物多様性まで－同時にはめったに聞けないおもろい話－」
+description:
+  ja: 本講義は、データ同化と野生動物研究という異なる題材を一つのコロキウムとして扱う。前半では、シミュレーションと実測データの融合を基盤に、気象学での応用や森林・古気候への展開を示す。後半では、氷河から熱帯雨林、海中までの調査経験を通して、フィールドワークで何を見て考えるかを語る。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「データ同化：ゲリラ豪雨予測から異分野連携へ」
+
+      三好 建正 氏（理化学研究所 計算科学研究機構 データ同化研究チーム チームリーダー）
+
+      データ同化は、シミュレーションと実測データを融合するデータサイエンスで、力学系理論と統計数理に基づく。近年の天気予報の向上には、衛星データなどを扱うデータ同化が大きく貢献し、気象学の中で主要な分野となった。計算機性能が向上しシミュレーションが広がる中、データ同化が役立つ場面も増える。本講演では、気象学における最先端のデータ同化研究を紹介し、森林や古気候への展開、さらに幅広い応用に向けた展望を議論する。
+
+       
+
+      「地球はどこでも研究室：氷河から熱帯雨林、ヒマラヤから海中まで」
+
+      幸島 司郎 氏（京都大学 野生動物研究センター 教授）
+
+      ヒマラヤの氷河に住む昆虫の発見から始まり、氷河生態系と地球環境変動のかかわり、ヒトの白目、イルカの眠り方、そしてボルネオやアマゾン、インドでの野生動物研究にかかわることになった、私の「自由すぎる」研究遍歴のお話を交えながら、「自分の目で見て自分の頭で考える」フィールドワークの重要性と楽しさについてお話します。'
+  source: https://ocw.kyoto-u.ac.jp/course/404/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 三好 建正
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 幸島 司郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-12-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,42 @@
+slug: tsukuba-fluctuation
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/systeminformation/fluctuation/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「FLUCTUATION AND SELF-ORGANIZATION – IT IS THE SMALL THINGS THAT MATTER」AT TEDXTSUKUBA
+description:
+  ja: 筑波大学が提供し、岡瑞起が担当する講義である。題名から、ゆらぎと自己組織化を扱う内容であることが読み取れる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 岡 瑞起
+  affiliation:
+    name: 筑波大学 システム情報系 准教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-04-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 情報システム
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0615
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/615/
+type:
+- LearningResource
+- Course
+name:
+  ja: 高次生命科学専攻 分子病態学分野 紹介
+description:
+  ja: 京都大学の生命科学研究科で2015年に開講された、松崎文雄担当の講義である。高次生命科学専攻の分子病態学分野に関する紹介として位置づけられている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松崎 文雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- その他
+audience:
+- general_public
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

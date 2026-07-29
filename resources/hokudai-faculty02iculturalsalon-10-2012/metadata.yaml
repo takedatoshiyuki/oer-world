@@ -1,0 +1,65 @@
+slug: hokudai-faculty02iculturalsalon-10-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon-10-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 時計台サロン 「農学部に聞いてみよう」 第10回 スーパーマーケットはどこへ行くのか？（2012）
+description:
+  ja: 北海道大学大学院農学研究院主催の「時計台サロン」を映像で紹介する教材である。第10回では、スーパーマーケットを題材に、食品調達戦略と地産地消、ならびにスーパーマーケットのあり方を扱う。
+quotedDescription:
+  text:
+    ja: '北海道大学大学院農学研究院主催による「時計台サロン」の模様を映像でご紹介しています。「時計台サロン」は、農学に関連する話題を、一般市民向けに講話するものです（場所：時計台ホール、毎月1回開催予定）。
+
+      「食の終焉とスーパーマーケット」横山　清（株式会社アークス　代表取締役社長）
+
+      「広域スーパーの食品調達戦略と地産地消」坂爪　浩史（北海道大学大学院農学研究院）'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon-10-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 横山 清
+  affiliation:
+    name: 株式会社アークス　代表取締役社長
+- type: Person
+  name: 坂爪 浩史
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+- agriculture
+keywords:
+- ビジネス／経済
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

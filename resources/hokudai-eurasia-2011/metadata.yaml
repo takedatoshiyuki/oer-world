@@ -1,0 +1,119 @@
+slug: hokudai-eurasia-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/eurasia-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 第9回 地球研地域連携セミナー HOKKAIDO ユーラシアへのまなざし（2011）
+description:
+  ja: 2011年6月12日に北海道大学学術交流会館で開催された第9回地球研地域連携セミナーの資料をまとめた教材である。国境、シベリア永久凍土、中央ユーラシア、シベリアの村、環境共同体構築をめぐる講演とパネルディスカッションを収録する。
+quotedDescription:
+  text:
+    ja: '2011年6月12日 北海道大学学術交流会館で開催された、第9回 地球研地域連携セミナーの資料をご覧いただけます。
+
+      主催：北海道大学、総合地球環境学研究所
+
+      プログラム
+
+      13:00-13:10　開会挨拶
+
+      13:10-13:20　趣旨説明
+
+      13:20-14:00　基調講演1:国境について考える
+
+      14:00-14:40　基調講演2:シベリア永久凍土と地球環境
+
+      14:40-14:55　休憩
+
+      14:55-15:20　講演1:中央ユーラシアの今を生きる
+
+      15:20-15:45　講演2:途絶化するシベリアの村─ソ連崩壊と温暖化
+
+      15:45-16:10　講演3:川下・風下から取組む環境共同体構築の試み
+
+      16:10-16:25　休憩
+
+      16:25-17:20　パネルディスカッション
+
+      17:20　　　　　閉会挨拶
+
+      ＜関連情報＞
+
+      第2回アムール・オホーツクコンソーシアム国際会合： 環オホーツク地域の環境データ共有化にむけて'
+  source: https://ocw.hokudai.ac.jp/lecture/eurasia-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 本堂 武
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: 阿部 健一
+  affiliation:
+    name: 総合地球環境学研究所
+- type: Person
+  name: 岩下 明裕
+  affiliation:
+    name: 北海道大学スラブ研究センター
+- type: Person
+  name: 杉本 敦子
+  affiliation:
+    name: 北海道大学大学院地球環境科学研究院
+- type: Person
+  name: 渡邊 三津子
+  affiliation:
+    name: 総合地球環境学研究所
+- type: Person
+  name: 藤原 潤子
+  affiliation:
+    name: 総合地球環境学研究所
+- type: Person
+  name: 白岩 孝行
+  affiliation:
+    name: 北海道大学低温科学研究所
+- type: Person
+  name: 石川 守
+  affiliation:
+    name: 北海道大学大学院地球環境科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 地球研地域連携セミナー
+- ユーラシア
+- ソ連
+- シベリア
+- 国境
+- 永久凍土
+- 複合分野／学際
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: スラブ・ユーラシア研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

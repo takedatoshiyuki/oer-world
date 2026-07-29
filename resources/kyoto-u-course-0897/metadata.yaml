@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0897
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/897/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学大学院医学研究科 社会健康医学系専攻 OPEN CAMPUS, 2015
+description:
+  ja: 京都大学大学院医学研究科社会健康医学系専攻のOPEN CAMPUS, 2015に関する教材で、担当は福原俊一、開講部局は医学研究科である。公開資料は1件で、講義資料「環境生態学 西渕 光昭」が含まれる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 福原 俊一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-05-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 環境生態学 西渕 光昭'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/05/2015_OPEN-CAMPUS_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/897/
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

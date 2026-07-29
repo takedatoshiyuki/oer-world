@@ -1,0 +1,48 @@
+slug: icu-majors-ant101-2016a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/ant101_2016a
+type:
+- LearningResource
+- Course
+name:
+  ja: Comparative Study of Cultures 文化の比較
+description:
+  ja: 国際基督教大学が2016年に提供した、英語で行う「Comparative Study of Cultures 文化の比較」という講義である。講義名からは文化の比較を扱う内容であることが読み取れるが、具体的な扱いの範囲や構成はこの情報だけでは分からない。
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'Anthropology 人類学 | Course ID: '
+- 'ANT101 | Course Schedule: 2/M, 2/W, 2/F | Update: 2019.09.04'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

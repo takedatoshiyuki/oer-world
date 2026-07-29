@@ -1,0 +1,55 @@
+slug: utokyo-series-1idm9zq4td7o
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=1idm9ZQ4TD7O
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営
+description:
+  ja: 企業の経営、戦略、組織を全般的に扱い、経営・組織現象を意思決定プロセスの観点から理論的・実証的に捉える方法を紹介する。題材には、日本企業に見られる具体的な現象を取り上げながら、経営学の諸トピックスを扱う。
+quotedDescription:
+  text:
+    ja: この講義では、企業の経営・戦略・組織について全般的な解説を行った上で、経営・組織現象を意思決定プロセスの観点から理論的・実証的に説明するようなア プローチを紹介する。できるだけ、現実の日本企業に見られる具体的な諸現象を題材にして、経営学のトピックスを取り上げていく。
+  source: https://ch.u-tokyo.ac.jp/series/?id=1idm9ZQ4TD7O
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 伸夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 経済学部・経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: icu-majors-gls201-2008w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/gls201_2008w
+type:
+- LearningResource
+- Course
+name:
+  ja: Global Civil Society 地球市民社会論
+description:
+  ja: 国際基督教大学が2008年に提供した、日本語の講義である。講義名からは地球市民社会を扱う内容であることが読み取れるが、具体的な主題や範囲は与えられた情報だけでは特定できない。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- Global Studies グローバル研究 | Cours
+- 'GLS201 | Course Schedule: 2/M, 2/W, 2/F | Update: 2013.04.01 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,57 @@
+slug: hokudai-tppfaculty02-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/tppfaculty02-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー TPPと北海道農業（2012）
+description:
+  ja: TPPの交渉開始から参加国の拡大、交渉分野の広がりまでを踏まえ、日本の交渉参加をめぐる状況を扱う。あわせて、交渉の対立点や、参加を考えるうえでの問題点を整理して話す内容である。
+quotedDescription:
+  text:
+    ja: TPP＝Trans-Pacific Partnership Agreement（環太平洋連携協定）は、２０１０年３月から交渉が開始され、今年１２月に第１５回の交渉会合が開催される予定です。交渉参加国は米国を含む１１ヶ国に拡大し、２１分野にわたる幅広い交渉分野を設定しています。日本のTPP交渉「参加」をめぐる動向は、昨年１１月１１日の野田首相会見で大きな節目を迎え、それからおよそ１年が経過しています。現在は「参加協議入り」という段階であり、日本はまだ正式な「参加表明」はおこなっていません。TPP交渉は難航していると伝えられています。交渉の対立点や日本のTPP交渉「参加」をめぐって考えなければならない問題点を整理してお話ししたいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/tppfaculty02-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 東山 寛
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- TPP
+- 北海道農業
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

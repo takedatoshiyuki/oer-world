@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0081
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/81/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学研究科共通科目「新産業創成論」、経営管理大学院専門科目「ナノテクベンチャー論」
+description:
+  ja: 京都大学が提供する、工学研究科共通科目と経営管理大学院専門科目として開講された講義である。2010年度の工学研究科前期に実施され、複数の担当者が記載されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松重 和美（京都大学VBL施設長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 工学研究科 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 塚越 雅信
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 藤原 洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西尾 久美子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 児玉 充晴
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 南部 修太郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 須賀 等
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- business_law
+keywords:
+- 経営学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 工学研究科
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

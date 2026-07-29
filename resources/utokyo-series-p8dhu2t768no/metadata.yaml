@@ -1,0 +1,51 @@
+slug: utokyo-series-p8dhu2t768no
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=p8DhU2t768No
+type:
+- LearningResource
+- Course
+name:
+  ja: 林芳正参議院議員特別講演会「これからの農林水産業」
+description:
+  ja: 林芳正参議院議員が、農林水産大臣としての在任経験を踏まえて、これからの農林水産業をどう活性化させるかを語る講演である。講演では、需要の拡大、流通・価値連鎖の構築、生産現場の強化、多面的機能の維持といった農政上の論点を取り上げ、地域の生産者支援にも触れる。
+quotedDescription:
+  text:
+    ja: "農学生命科学研究科では、2012年12月から2014年9月まで農林水産大臣を務めた林芳正参議院議員をお招きし、在任時のご経験を背景に、これからの農林水産業をより活性化させる政策等についてご講演いただきました。\
+      \ \n  講演では、「農政の4本柱」となる1) 需要フロンティアの拡大、2) バリューチェーンの構築、3) 生産現場の強化、4) 多面的機能の維持・発揮が取り上げられ、農林水産業の持つ潜在力と地域の生産者への支援などが言…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=p8DhU2t768No
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 林 芳正
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

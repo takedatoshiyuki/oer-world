@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0199
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/199/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第75回 京都大学丸の内セミナー「『孔（あな）』をエネルギー・環境・医療に役立てる」
+description:
+  ja: 細孔の性質を利用して、さまざまな物質を分離・浄化する研究を扱う。糖尿病患者の尿素や海水の塩分、地球温暖化ガスを例に、こうした技術をエネルギー、環境、医療へどう応用できるかを考察する。
+quotedDescription:
+  text:
+    ja: '一人の人間として、また生き物として、私たちの生活を大きく左右する要素を、１９９６年ノーベル賞受賞者のリチャード・スモーリーが次の通り定義しました。
+
+      １）エネルギー　２）水　３）食料　４）環境　５）貧困　６）戦争／平和
+
+      ７）疾病／医療　８）教育　９）民主主義　１０）人口
+
+      　密接に関わりあうこれらの要素には、常に課題がつきまといます。なかでも近年、私たちが選択するエネルギー源や、生命の維持に不可欠ながら限りある水資源の使い方が環境に及ぼす影響がより明確となり、エネルギー・水・環境の相互関係の重要性が注目されています。２０１５年のパリ協定(気候変動)において
+      、日本政府は地球温暖化ガス（主に二酸化炭素）を１５年間で現状の４分の１削減すると約束しました。これには、工場や発電所から排出される前に二酸化炭素を回収し貯留するという最先端技術が不可欠です。1
+
+      　水の用途は飲料のイメージが強いですが、実際は個人による消費は全体のわずか１〜２割にすぎません。発展途上国では、水は主に農業に使われます。食料生産にどれだけ大量の水が必要かご存知でしょうか？チョコレート１㎏を作るにあたり約１万８０００ℓ、アジアで主食とされる米の生産１㎏にはおよそ２５００ℓを要します。2
+      一方、日本の様な先進国では、発電と製造業において多くの水が使われています。日本は水資源が豊富な国ですが、地震の発生で水の供給が止まる不安が常につきまといます。
+
+      　これらの課題解決に科学技術が果たす役割は非常に大きい。マテリアル・サイエンスの分野では、技術の進歩により、ナノレベルで物質材料の構造を化学的に安定して制御するということが可能になりました。これは髪の毛１本の太さの１万分の１程度に相当するサイズです。
+
+      　私たちは細孔の性質を利用し、フィルターの原理で糖尿病患者の尿素や海水の塩分から地球温暖化ガスまで、あらゆる物質を分離したり浄化したりする研究を行っています。本講義では、私たちの技術がどのようにエネルギー、環境、医療に応用できるかを考察します。
+
+      1 日経新聞社説(2016.4.5)抜粋
+
+      2 Institute of Mechanical Engineers: http://www.imeche.org/policy-and-press/environment-theme'
+  source: https://ocw.kyoto-u.ac.jp/course/199/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: イーサン・シバニア
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- natural_sciences_math
+keywords:
+- 工学
+- 化学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

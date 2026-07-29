@@ -1,0 +1,62 @@
+slug: utokyo-series-qzvixf0x5wgw
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=QZviXF0x5WgW
+type:
+- LearningResource
+- Course
+name:
+  ja: JRA畜産振興事業シンポジウム
+description:
+  ja: 東北地方太平洋沖地震で被害を受けた東北地方の畜産について扱う講義である。地震による直接的な被害に加え、原子力発電所事故に起因する二次災害にも触れている。
+quotedDescription:
+  text:
+    ja: 平成２３年３月１１日に発生した東北地方太平洋沖地震では、古くから畜産が盛んで、乳用牛や肉用牛がさまざまな地域で多数飼育されている東北地方が甚大な被害を受けた。それらは、地震によるインフラ等への直接的被害だけでなく原子力発電所事故に起因する二次災害であり、後者は現在でも終息の見通しが十分に得られておらず、被災地の畜産業は依然として危機的な状況におかれている。このような厳しい状況においては、被災地の…
+  source: https://ch.u-tokyo.ac.jp/series/?id=QZviXF0x5WgW
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 関崎 勉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 細野 ひろみ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 近藤 隆
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 眞鍋 昇
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

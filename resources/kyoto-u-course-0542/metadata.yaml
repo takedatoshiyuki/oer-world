@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0542
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/542/
+type:
+- LearningResource
+- Course
+name:
+  ja: 霊長類の進化（旧世界ザル、人類）
+description:
+  ja: 旧世界ザルと人類を対象に、分類の整理と系統関係の復元を行い、進化の要因まで扱う教材である。公開資料は第1回の旧世界ザルと第2回の人類の2件で構成される。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      旧世界ザルと人類について分類を説明し、系統関係を復元し、進化の要因を推測する。
+
+       
+
+      授業の紹介
+
+      霊長類のうち旧世界ザルと人類について、分類を説明し、系統関係を復元し、進化の要因を推測する。'
+  source: https://ocw.kyoto-u.ac.jp/course/542/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 毛利 俊雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回 旧世界ザル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_reityoruigakunosinka_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/542/
+- name: '講義資料: 第2回 人類'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_reityoruigakunosinka_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/542/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

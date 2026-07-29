@@ -1,0 +1,57 @@
+slug: kyoto-u-course-1010
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1010/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】”立ち止まって、考える” シーズン2 「会話と社交の倫理学」
+description:
+  ja: この講義は、日常的な会話や社交を哲学・倫理学の観点から考える。第一回ではそれらの本質を扱い、第二回では寛容や信頼との関係から倫理学的な意義と課題を考察する。
+quotedDescription:
+  text:
+    ja: '新型コロナウイルスの影響下では、われわれのコミュニケーションのあり方も大きな変化を求められてきたといえるでしょう。しかし、そもそもコミュニケーションとはどういうものであるのか（あるべきなのか）はそれほど自明なことではありません。
+
+      本セミナーでは、これまでの哲学・倫理学の歴史において等閑視されてきたともいえる日常的な「会話」や「社交」の本質について考察し（第一回）、その上でそれらがもつ倫理学的な意義と課題を「寛容」や「信頼」といった概念との関係で考えてみたい（第二回）と思います。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1010/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 水谷 雅彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 倫理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

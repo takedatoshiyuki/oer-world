@@ -1,0 +1,59 @@
+slug: kyoto-u-course-1091
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1091/
+type:
+- LearningResource
+- Course
+name:
+  ja: 新入生ガイダンス フロンティア・レクチャー
+description:
+  ja: 京都大学理学部の新入生向けガイダンスで、履修指導と各系の研究内容の紹介を行う。数理科学系、物理科学系、地球惑星科学系、化学系、生物科学系を対象に、理学部の教育・研究活動の概要を示す。
+quotedDescription:
+  text:
+    ja: 理学部では、学部入学時にガイダンスを実施しています。このガイダンスでは、教員より履修指導や理学部に設けられいる数理科学系、 物理科学系、地球惑星科学科系、化学系、生物科学系の研究内容等を照会し、新入生に対して、理学部の教育・研究活動を理解してもらっています。
+  source: https://ocw.kyoto-u.ac.jp/course/1091/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 筒井 容平
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石岡 圭一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-04-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 物理学
+- エネルギー・地球科学
+- 生物学・生命科学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

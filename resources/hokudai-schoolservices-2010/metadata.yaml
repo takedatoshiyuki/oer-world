@@ -1,0 +1,74 @@
+slug: hokudai-schoolservices-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/schoolservices-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 北海道の博物館の未来－将来構想を考える－（2010）
+description:
+  ja: 北海道の博物館の将来構想を考えるシリーズの第1回として開かれる合同セミナーである。博物館におけるスクールサービスを題材に、複数の講演者が北海道の博物館の在り方について述べる。
+quotedDescription:
+  text:
+    ja: '今回の土曜市民セミナーは、北海道立開拓記念館・札幌市博物館活動センター・北大総合博物館の３館の共催によるフォーラムの「第１回合同セミナー」となります。
+
+      「北海道の博物館の未来－将来構想を考える－」というシリーズセミナーを展開していきます。
+
+      １回目は「博物館におけるスクールサービスについて」をテーマに、複数の講演者を交え、北海道の博物館の在るべき未来構想について語っていただきます。'
+  source: https://ocw.hokudai.ac.jp/lecture/schoolservices-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松枝 大治
+  affiliation:
+    name: 北海道大学総合博物館
+- type: Person
+  name: 吉崎 元章
+  affiliation:
+    name: 札幌芸術の森美術館
+- type: Person
+  name: 大原 昌宏
+  affiliation:
+    name: 北海道大学総合博物館
+- type: Person
+  name: 田山 修三
+  affiliation:
+    name: 札幌市文化財保護指導員
+- type: Person
+  name: 横藤 雅人
+  affiliation:
+    name: 北海道生活科・総合的な学習教育連盟
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: sophia-20140930hsc51200
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140930hsc51200/
+type:
+- LearningResource
+- Course
+name:
+  ja: ライフコースの社会学／SOCIOLOGY OF LIFE COURSE
+description:
+  ja: この講義は、ライフコース論の基本概念とその成立背景を扱い、具体的な分析や世代ごとの動きにも触れる。あわせて、歴史と社会構造を社会学的に捉える視点を学ぶ内容である。
+quotedDescription:
+  text:
+    ja: 高齢化・長寿化が進み、いまや「人生90年時代」と言われる現代社会において、人生や生涯、世代への関心が高まっています。時代や社会、人間関係の影響を受けながら過ごしていく私たちの一生をとらえるため、社会学では「ライフコース」という概念が開発されてきました。本講義では、ライフコース論の諸概念や登場の背景、具体的な分析ならびに世代ごとの動きなどにふれつつ、歴史と社会構造に対する皆さんの社会学的感覚を養ってもらいたいと思います。この講義が、皆さんが今後一生を過ごしていく際のシミュレーションの役割を担えるならば幸いです。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20140930hsc51200/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 藤村 正之
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20140930HSC51200_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20140930HSC51200_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20140930hsc51200/
+- name: '講義資料: 20140930HSC51200_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20140930HSC51200_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20140930hsc51200/
+- name: '講義資料: 20140930HSC51200_04.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20140930HSC51200_04.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20140930hsc51200/
+- name: '講義資料: 20140930HSC51200_05.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20140930HSC51200_05.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20140930hsc51200/
+extensions:
+  faculty: 総合人間科学部 社会学科
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

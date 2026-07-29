@@ -1,0 +1,95 @@
+slug: kyoto-u-course-0345
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/345/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物機械計測学
+description:
+  ja: 自然現象や動植物の挙動に関わる法則を手がかりに，不定形で多様な対象をどう計測するかを扱う講義である。太陽光や色のしくみ，画像処理，生物材料の物性，近赤外計測，センサ構成などを通して，計測装置の原理と仕組みを学ぶ。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      複雑で多様な自然現象および動植物の挙動等に内在する法則，現象を理解することにより，不定形で多様な対象物を計測する装置およびその原理，構成，仕組みなどを学ぶことのできるユニークな授業である。一部，PCを用いた実習を行うことも本授業の特色である。
+
+      授業の紹介
+
+      現代は，規格化された工業製品だけでなく，自然界の植物，動物をも計測したり，制御・生産する時代である。本授業では，複雑で多様な自然現象および植物の挙動等に内在する法則，現象を理解すると同時に，不定形で多様な対象物を計測する装置およびその原理，構成，仕組みなどを学ぶ。これにより，自然界における工学的計測に関わる用語，知識を幅広く身に着けること，植物の成長，挙動に関連する特性およびルールが理解できること，計測装置を備えた生物機械システムの原理が理解容易となることを到達目標とする。具体的には，太陽と自然界の色のしくみ（夕焼けはなぜ赤いか？葉はなぜ緑色か？虹のできる理由など），マシンビジョンシステムとその計測（果実の色，形状，寸法，欠陥計測），植物の力学的特性・粘弾性の計測，音を用いた農産物の体積計測，近赤外線を用いた穀物の食味，水分，糖度などの計測システム，ならびに計測システムにおける信号処理に関して解説すると共に画像処理演習を行う。'
+  source: https://ocw.kyoto-u.ac.jp/course/345/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 自然界の色のしくみと太陽の放射特性'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: マシンビジョンシステムとは？'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 照明の基礎，光及び電磁波の分類とその特徴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 生物の光反射特性'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 画像処理手法の基礎（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 画像処理手法の基礎（２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 画像処理手法の基礎（３）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 人間の目，昆虫の目，機械の目'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 自然界の形状の規則性とその計測方法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 生物材料の物理的特性の計測'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 近赤外による非破壊計測と土壌の計測'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+- name: '講義資料: 種々のセンサと計測システム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_seibutsukikaikeisokugaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/345/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

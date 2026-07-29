@@ -1,0 +1,83 @@
+slug: kyoto-u-course-0091
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/91/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物性化学１
+description:
+  ja: 固体結晶や液相の熱力学を起点に、結晶構造、格子欠陥、格子振動、拡散現象、相転移熱力学までを扱う。講義資料として、章ごとの内容が整理されている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      Gibbsの自由エネルギーによって凝縮相（液相・固相（結晶））の熱力学を論じ，固相の結晶構造とその欠陥（格子欠陥），格子振動，原子の拡散現象，相転移熱力学などについて論じ，物質の性質の原子論的な側面からの理解について論述している．
+
+      授業の紹介
+
+      固体結晶が示す様々な性質を，熱力学ないしは原子論的立場から講述する．主な内容は，凝縮層である固体結晶や液相の熱力学と平衡状態図論，結晶構造論と構造因子，結晶の不完全性（格子振動，格子欠陥：点欠陥，ディスロケーション，積層欠陥，ボイド）と格子振動の量子論的モデル（比熱のアインシュタイン・モデル，デバイ・モデル），結晶中の原子の運動（拡散現象），相転移熱力学（平均場近似やランダウの現象論を用いて）などである．図のプリントを多く配布し，例題などを解説しながら，物性研究の基礎についてわかり易く講述する．'
+  source: https://ocw.kyoto-u.ac.jp/course/91/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉村 一良
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 初めに'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_busseikagaku-1_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/91/
+- name: '講義資料: １章．固体結晶の熱力学と平衡状態図論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_busseikagaku-1_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/91/
+- name: '講義資料: ２章．固体の結晶構造と構造因子'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_busseikagaku-1_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/91/
+- name: '講義資料: ３章．格子欠陥：3-1 静的な格子欠陥'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_busseikagaku-1_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/91/
+- name: '講義資料: ３章．格子欠陥：3-2 動的な格子欠陥としての格子振動'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_busseikagaku-1_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/91/
+- name: '講義資料: ４章．拡散（固体中の原子の運動）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_busseikagaku-1_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/91/
+- name: '講義資料: ５章．相転移熱力学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_busseikagaku-1_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/91/
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

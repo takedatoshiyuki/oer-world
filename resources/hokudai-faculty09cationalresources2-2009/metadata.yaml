@@ -1,0 +1,54 @@
+slug: hokudai-faculty09cationalresources2-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty09cationalresources2-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究会 学術コンテンツの共有 広島大学におけるCMS運用とコンテンツ作成支援について(2009)
+description:
+  ja: 北海道大学情報基盤センターで開催された講演の映像資料で、広島大学におけるCMS運用とコンテンツ作成支援について扱う。学術コンテンツの共有をテーマにした研究会資料として、CMSの運用とコンテンツ作成支援の内容を収録している。
+quotedDescription:
+  text:
+    ja: 北海道大学情報基盤センターで開催された「広島大学におけるCMS運用とコンテンツ作成支援について 」の映像資料をご覧いただけます。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty09cationalresources2-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 隅谷 孝洋
+  affiliation:
+    name: 広島大学情報メディア教育研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

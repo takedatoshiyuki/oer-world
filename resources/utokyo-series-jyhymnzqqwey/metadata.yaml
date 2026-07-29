@@ -1,0 +1,85 @@
+slug: utokyo-series-jyhymnzqqwey
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=JYHYMNZqQwEY
+type:
+- LearningResource
+- Course
+name:
+  ja: Japan in Today's World
+description:
+  ja: 日本の政治外交を扱い、その基本的な見取り図を示すことを目的とする講義である。IARUのサマープログラムの一環として開講され、多国籍の学生が参加する前提で構成されている。
+quotedDescription:
+  text:
+    ja: 日本の政治外交について基本的な見取り図を提供することがこのコースの目的である。研究重点型大学連合(IARU)のサマープログラムの一環として開催される関係から、参加する学生は多国籍であり、そのためにこれまでとは異なった視点から日本政治を考える機会を得ることができるだろう。
+  source: https://ch.u-tokyo.ac.jp/series/?id=JYHYMNZqQwEY
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川人 貞史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 久保 文明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高原 明生
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 木宮 正史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯田 敬輔
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- business_law
+- social_sciences
+keywords:
+- 歴史
+- 政治・法律
+- 国際関係
+- 災害・防災
+- 人口・社会問題
+- 近代日本
+- 政治
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 法学部・法学政治学研究科
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: sophia-20140414sct107m2
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140414sct107m2/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎物理学（物質生命理工学科２クラス）／BASIC PHYSICS
+description:
+  ja: 高校で学ぶ力学を復習しながら、ベクトルや微分方程式を使って運動の法則を整理する講義資料である。次元解析、保存則、重力や空気抵抗下の運動、振動現象、加速度系での運動を順に扱う。さらに、粒子の回転運動から剛体の運動までを角運動量保存則を手がかりに議論する。
+quotedDescription:
+  text:
+    ja: この講義では，高校時代に学習した力学の内容を復習し，ベクトル，微分方程式により力学の法則の記述し，それから導かれる保存則により物理現象を理解する。始めに次元解析など基本的な事項について講義する。次に運動の法則を説明し，運動方程式から出発し，運動量，エネルギーの保存則について説明し，それを重力・空気抵抗中での粒子の運動や振動現象などに応用する。その後，加速度系における物体の運動について議論する。さらに，粒子の回転運動を角運動量保存則から議論し，それを拡張し剛体の運動を説明する。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20140414sct107m2/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大槻 東巳
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20140414SCT107M2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20140414SCT107M2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20140414sct107m2/
+extensions:
+  faculty: 大学
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: icu-majors-law306-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/law306_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: International Human Rights Law 国際人権法
+description:
+  ja: 国際人権保護の法的側面を扱い、国際人権法規範の分析、国内と国際での実施、国連や地域機関の人権保障制度を取り上げる。とくに、個人による申立制度に重点を置いている。動画はコースの一部を公開した部分収録である。
+quotedDescription:
+  text:
+    ja: 'Being offered as an advanced course in the International Law category, this course focuses on
+      the legal aspect of international human rights protection. Topics will include: the analysis of
+      international human rights norms, domestic and international implementation of international human
+      rights law, the UN”s and regional organizations” human rights protection systems with a particular
+      emphasis on the complaint-filing system by individuals
+
+      国際人権法の国内的実施、国際人権法の国際的実施、人権条約の報告制度と個人通報制度、国連の人権活動、人権の地域的保障など、人権保障の法的側面について考究する。
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/law306_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 新垣修
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- business_law
+keywords:
+- 専攻科目
+- 'Law 法学 | Course ID: LAW306 | C'
+- 'LAW306 | Course Schedule: 4*/M, 4*/TH | Update: 2018.03.27'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

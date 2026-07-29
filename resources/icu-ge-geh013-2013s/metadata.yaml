@@ -1,0 +1,65 @@
+slug: icu-ge-geh013-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/geh013_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'H1: The World of Music(A) H1：音楽の世界(A)'
+description:
+  ja: 音楽を聴く際の基礎知識を扱い、作品の鑑賞を通して音楽様式の特徴を歴史や社会的背景と結びつけて考える。主な対象はヨーロッパの音楽作品だが、日本や非西洋の伝統にも必要に応じて触れる。公開動画は複数回の授業内容をまとめたダイジェスト版である。
+quotedDescription:
+  text:
+    ja: 'This course is designed to deepen understanding of basic knowledge that will help students enhance
+      their appreciation of music. The course examines various examples of musical compositions chosen
+      mainly from the repertory of the European tradition, discussing the aspects that feature their musical
+      styles with emphasis on history and social climate. Works of Japanese and non-Western traditions
+      are also cited as necessary.
+
+      音楽を聴くことをより意味深い体験とするために必要な基礎知識を学ぶ。作品を鑑賞し、おもにヨーロッパ地域の音楽様式の特徴を、時代や地域的背景にそって検討する。適宜、日本その他の地域にも言及する。
+
+      ※Videos are condensed version of course.
+
+      ※この動画は複数の授業内容をまとめたダイジェスト版を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/geh013_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 伊東辰彦
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 一般教育科目
+- 'GEH013 | Course Schedule: 3/M, 3/W, 3/F | Update: 2014.07.03'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: tsukuba-ds-disability-science
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/disability_science/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 障害科学におけるデータに基づく意思決定
+description:
+  ja: 障害科学においてデータが必要とされる理由と、障害に関係するデータの扱い方を取り上げる。あわせて、障害の見えやすさ・見えにくさを外れ値として捉え、福祉施設の事例を通して実践現場でのデータに基づく意思決定を扱う。
+quotedDescription:
+  text:
+    ja: 障害のある人々への具体的なサポート、その基盤となる基礎的な研究を通して、人間の本質そのものを探究する学問が「障害科学」である。障害科学にデータが必要とされる理由や社会の側にある障害に焦点を当てるデータの性質を取り上げ、「障害」という言葉に関係するデータの繊細な取り扱いや「外れ値」としての障害の見えやすさ・見えにくさを解説する。そして、研究の文脈のみならず、データを実践現場で用いる「データに基づく意思決定」について福祉施設における事例を紹介する。
+  source: https://ocw.tsukuba.ac.jp/data-science/disability_science/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 佐々木 銀河
+  affiliation:
+    name: 筑波大学 人間系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2021-09-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

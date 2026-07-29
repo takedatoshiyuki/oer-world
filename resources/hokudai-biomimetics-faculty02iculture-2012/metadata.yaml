@@ -1,0 +1,61 @@
+slug: hokudai-biomimetics-faculty02iculture-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/biomimetics-faculty02iculture-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: バイオミメティクス市民セミナー 農業とエントモミメティクス、バイオミメティクス （2012）
+description:
+  ja: 昆虫の生きる戦略や情報伝達、他の生物との相互作用を手がかりに、その機能を農業へ応用する可能性を扱う講義である。昆虫をめぐる「喰う－喰われる」の関係から、生き残りの仕組みを科学的に見ていく内容となっている。
+quotedDescription:
+  text:
+    ja: '地球の歴史上、陸上に初めて登場した動物が「虫」であり、その種類数は地球上の全動物の７割を越えることを皆さんはご存知でしょうか。この意味から、実は地球は「虫」の惑星といえます。
+
+      今回の講演では、地球上で大繁栄する「虫」の生きる戦略を科学の目で切り込み、彼らが使う種々の情報伝達手段や、他の生物との関わり合いを中心に紹介したいと思います。そこには、「喰う－喰われる」の関係を通して、様々な生きる知恵を見出すことが出来ます。その機能を学び、じょうずに農業に応用することは出来ないでしょうか？それは簡単ではありませんが、そこには人間が謙虚に耳を傾けるべき、驚くほど巧妙な現象が隠されています。
+
+      「虫」なんて聞いただけでも身の毛がよだつという方々にも積極的にご参加頂き、彼らを巡るワンダーランドを楽しんで下さい。'
+  source: https://ocw.hokudai.ac.jp/lecture/biomimetics-faculty02iculture-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 森 直樹
+  affiliation:
+    name: 京都大学大学院農学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- バイオミメティクス
+- エントモミメティクス
+- 農業
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

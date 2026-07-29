@@ -1,0 +1,54 @@
+slug: utokyo-series-z8odhpantdu1
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Z8oDhPAntdU1
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語の発音と発音記号
+description:
+  ja: 英語の子音・母音の区別を手がかりに、英語の発音の基礎と発音記号を扱う教材である。つづりだけでは発音を決められない点にも触れ、発音を日本語の音に置き換えずに学ぶ内容になっている。東京大学教養学部英語部会が作成した日本語教材である。
+quotedDescription:
+  text:
+    ja: "英語は、24の子音と約15の母音を使い分けています。これは日本語が使い分ける音よりもずっと多く、当然のことながら日本語の音（カタカナなど）に置き換えて覚えることはできません。しかも、英語ではつづりで発音が決まらないので、つづりで発音を覚えるわけにもいかないのです。東京大学教養学部英語部会が作成したこの教材を使って、英語の発音の基礎と発音記号について実践的に学んでみましょう。\
+      \ \n \n  ★     東京大学…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=Z8oDhPAntdU1
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 教養学部 英語部会
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 言語・思想
+- 英語発音
+- 英語リズム
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

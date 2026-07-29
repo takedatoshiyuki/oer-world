@@ -1,0 +1,57 @@
+slug: kyoto-u-course-1007
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1007/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】”立ち止まって、考える” シーズン2 「パンデミックから考える権力と国家ーフーコーからヘーゲルへ」
+description:
+  ja: 新型コロナウイルスのパンデミックを手がかりに、国家権力と安全、生死の関係を考える講義である。フーコーの権力論を参照しながら、ヘーゲルの『法哲学』に見られる国家構想をたどり、伝染病を防ぐ国家という観点から論じる。
+quotedDescription:
+  text:
+    ja: '新型コロナウィルスが引きおこしたパンデミックは国家権力のあり方が私たちの安全と生死をまさに左右するものであることをあらためて浮き彫りにしました。しかし伝染病をいかに防ぐのかという課題は実は18世紀においてすでに近代国家の課題でした。
+
+      19世紀ドイツの哲学者であるヘーゲルが『法哲学』（1820年）という著作で構想した国家論の背景には、そうした市民の生に配慮する権力観があります。本講義では、この伝染病を防ぐ国家という観点を糸口に、フーコーの権力論と関連づけながら、ヘーゲルが構想した国家がどのようなものであったのかを論じてみたいと思います。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1007/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 大河内 泰樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

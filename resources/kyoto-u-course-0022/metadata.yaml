@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0022
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/22/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育課程論Ⅱ
+description:
+  ja: 京都大学教育学部で2017年に開講された「教育課程論Ⅱ」の講義資料を含む教材である。公開ファイルは「京都の教育事情」という講義資料1件で、担当は西岡加名恵と恩田徹である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 恩田 徹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 京都の教育事情'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2017_kyouikukateiron-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/22/
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

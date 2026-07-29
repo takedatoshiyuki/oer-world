@@ -1,0 +1,163 @@
+slug: icu-ge-gen023-2014s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen023_2014s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: Introduction to Computer Science N1: 情報科学概論'
+description:
+  ja: 情報科学の基本概念と、その発展が社会・科学・技術に与えた影響を、理論と実践の両面から扱う講義である。内容は、インターネットやICT、情報リテラシー、情報セキュリティに加え、マルチメディアや画像処理、計算機の原理、論理回路、科学計算、人工知能まで広く含む。
+quotedDescription:
+  text:
+    ja: 'Fundamental concepts in computer science and their development in the past half century will
+      be discussed in both practical and theoretical aspects, emphasizing their impact on the society,
+      science and technology.
+
+      情報科学の根本的概念と、過去50年における発展を、社会、科学、技術への影響に重点をおきつつ、実践と理論の両面から議論する。
+
+      Contents of Lectures
+
+      24
+
+      Lectures /
+
+      5
+
+      Videos
+
+      第1部 (担当：尾崎敬二，授業予定日：Apr.14,16,21,23,28,30)
+
+      1
+
+      What is information science? 「情報科学とは」
+
+      2
+
+      「デジタル社会の利便性と危険性」
+
+      3
+
+      Information society and our daily lives for your efficient learning
+
+      「情報社会と私の生活」(自分の学びに活かすためには）
+
+      (What are information, Internet, and ICT etc.?)
+
+      （情報とは、インターネットとは、ICTとは？など）
+
+      インターネットの仕組み(How Internet works)
+
+      情報のデジタル化(digital technology)
+
+      Apr 17
+
+      情報通信技術（ICT: information & communication technology)
+
+      Apr
+
+      24
+
+      情報化社会で求められるリテラシー(Information literacy)その他
+
+      情報科学と計算機科学(information science vs. computer science)
+
+      情報セキュリティ(information security) など
+
+      第2部 (担当：太田啓路，授業予定日：5/1,8,13,15,20,22)
+
+      最新の情報通信技術を応用した商品やサービスに焦点をあて、その根幹となる技術の理論、ビジネスコンセプト、ビジネスモデ ルについて、主要なＩＴ企業のケーススタディを通じて解説する。
+
+      また、最新の映像情報メディア技術、例えば、立体映像、高解像度映像、ＡＲ（Augmented Reality、コンピュータグラフィ ックス、HMD（Head Mounted Display）などについて、技術の理論、歴史、応用事例を交えながら解説する。
+
+      こうしたメディ アが人に対して与える影響やその評価手法に関する、認知心理学や人間工学的な話題も紹介する。
+
+      第3部 (担当：Andrea K. Matz，授業予定日：May 7,12,14,19,21,26)
+
+      Introduction to Multimedia Systems
+
+      マルチメディアシステムの概要
+
+      Jun 05
+
+      Introduction to Multimedia Databases
+
+      マルチメディアデータベースの概要
+
+      Jun 10
+
+      Multimedia Information on the Internet
+
+      インターネット上のマルチメディア情報
+
+      Introduction to Image Processing
+
+      第4部 (担当：Lukas Pichl，授業予定日：May 28, June 2,4,9,11,16)
+
+      情報処理の論理原理、物理的な電子回路、機械応用（人工知能など）について紹介します
+
+      We will introduce the general principles of computation and information processing,
+
+      such as software and hardware, outline the design of logical circuits and their
+
+      transistor implementation, and discuss some recent topics in scientific computing
+
+      and artificial intelligence
+
+      ・数値システムのデザイン・歴史・バイナリ数値・ブール論理・二進法計算
+
+      Number systems, binary arithmetic and Boolean logic, and their integration
+
+      ・スイッチのデザイン・歴史（真空管、トランジスタなど）
+
+      Design and history of binary switches for computing
+
+      ・コンピューターの仕組（計算回路からパソコンパーツまで）
+
+      Design and architecture of large scale computing systems
+
+      ・計算科学及び科学計算（ニューラルネットワーク、インシリコバイオロジー世界など）
+
+      Applications of scientific computing and future of computing systems'
+  source: https://ocw.info.icu.ac.jp/ge/gen023_2014s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 尾崎 敬二
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 一般教育科目
+- 'GEN023 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2016.03.22'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

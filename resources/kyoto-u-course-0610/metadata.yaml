@@ -1,0 +1,86 @@
+slug: kyoto-u-course-0610
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/610/
+type:
+- LearningResource
+- Course
+name:
+  ja: 有機化学実験
+description:
+  ja: 低分子有機化合物を対象に、反応や合成、分離・精製の基本的な手法を学ぶ教材である。あわせて、構造確認に用いる物理定数の決め方やスペクトル分析の基礎、生物検定を取り入れた生理活性物質の扱いも扱う。
+quotedDescription:
+  text:
+    ja: 低分子有機化合物の反応と合成および分離・精製の基礎技術を習得する。また、化合物の構造確認のための物理定数の決定法とスペクトル分析の基礎を学び、生物検定を取り入れた生理活性物質の取り扱いを習得する。
+  source: https://ocw.kyoto-u.ac.jp/course/610/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 森 直樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中川 好秋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 宮下 正弘
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小野 肇
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 村井 正俊
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 安部 真人
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉永 直子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-12-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+- agriculture
+keywords:
+- 化学
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/12/2011_yuukikagakujikken_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/610/
+extensions:
+  faculty: 農学部
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

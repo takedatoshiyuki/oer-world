@@ -1,0 +1,95 @@
+slug: utokyo-series-0k1zay3aip6p
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=0k1ZaY3AIP6P
+type:
+- LearningResource
+- Course
+name:
+  ja: 不安の時代（朝日講座「知の調和―世界をみつめる 未来を創る」2020年度講義）
+description:
+  ja: 現代社会で広がる将来不安や社会的不安を取り上げ、その背景にある事情を宗教学、歴史学、社会学の観点から考える講義である。不安と「他者」の関係、外国人や異教徒をめぐる排斥や右傾化にも目を向ける。
+quotedDescription:
+  text:
+    ja: '20世紀後半と比べて現代の日本では、将来の就職、結婚、老後がどうなるかが不透明になっており、自分の将来像を描きにくくなっている。国家が経済的、政治的に衰退に向かっているという予測を耳にする機会も増え、社会や国家の将来に対する不安もかつてないほど高まっている。一方、グローバル化と社会の複雑化に伴い、国外の様々な集団はもちろんのこと、同じ社会や共同体に属している他の人々の考え方や行動の意味も把握しにくくなっている。そのためか、特定の集団を、自分たちを脅かす悪しき「他者」と見なすことで、本来は複雑であるはずの不安の背景や原因を単純化し、恐怖や敵意といった感情を煽ることで、自分たちの集団を結束させようとする現象もしばしば見受けられる。このような現象は日本に限った話ではなく、欧米においても外国人や異教徒を排斥しようとする動きや右傾化が起きている。
+
+      このような趨勢が明るい未来につながるとは考えにくい。そこで本講座においては、宗教学、歴史学、社会学といった様々な切り口から、個人や社会に不安が生じる背景やメカニズム、不安と「他者」の関わりなどについて考察する。不安に対峙するのにまず必要なことは、安易でシンプルな解決法に飛びつくことではなく、困難で複雑な状況への理解を深めることだからである。不安からの脱却は理解の延長上にある。一連の講義を通じて履修者には、情動に流されることなく現実を見据える視座を育み、不安の時代を生き抜くためのヒントを手に入れてもらいたい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=0k1ZaY3AIP6P
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 納富 信留
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安藤 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渡辺 慶一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 井口 高志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 堀江 宗正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 清水 晶子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊達 聖伸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石田 勇治
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- social_sciences
+- education
+keywords:
+- 言語・思想
+- 心理・認知
+- 教育
+- 生命・医療
+- 人口・社会問題
+- 国際関係
+- 政治・法律
+- 歴史
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

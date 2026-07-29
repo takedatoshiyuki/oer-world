@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0856
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/856/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際研究集会2012 「年少者への言語教育の可能性と展望：バイリンガリズムか，複言語主義か」
+description:
+  ja: 年少者への言語教育を主題に、バイリンガリズムと複言語主義を比較する国際研究集会である。京都大学の人間・環境学研究科が2012年に開講し、日本語で行われた。複数の担当者が参加している。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: フィリップ・ジャンヴィエ=カミヤマ
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: マリザ・カヴァリ（ヴァッレ・ダオスタ州立教育研究所
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: イタリア）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ジャン＝フランソワ・グラジアニ
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: アルギロ・ムチドウ（テサロニケ・アリストテレス大学
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ギリシア）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉村雅仁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-09-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

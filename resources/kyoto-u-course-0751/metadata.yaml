@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0751
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/751/
+type:
+- LearningResource
+- Course
+name:
+  ja: Fluctuation-dissipation relations for reversible diffusions in a random environment
+description:
+  ja: この講義は、統計物理の揺らぎ散逸関係を出発点に、ランダム環境中の可逆拡散へ適用する理論を扱う。小さな外力を受ける拡散の有効ドリフトと、摂動なしの運動の有効分散との関係にも触れる。有限相関長をもつ場合のFDRの証明を説明し、その過程でスケーリング極限の記述まで扱う。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Fluctuation-dissipation relations (FDR) were introduced in statistical physics to describe off-equilibrium
+      dynamics; they express the linear response of a perturbed system as correlations for the un-perturbed
+      system.
+
+      When applied to reversible diffusions in a random environment, they yield the so-called Einstein
+      relation: the derivative of the effective drift of a diffusion in a random environment subject to
+      a small external force equals the effective variance of the un-perturbed dynamics in the direction
+      of the perturbation.
+
+      The aim of the course will be to explain the proof of FDR for reversible diffusions in a random
+      environment with finite range of correlation. The proof also provides a full description of all
+      the scaling limits of such processes.'
+  source: https://ocw.kyoto-u.ac.jp/course/751/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-11-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: Lecture Notes taken by a student (recorded by Yuki Tokushige)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2017_Fluctuation-dissipation_relations.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/751/
+extensions:
+  faculty: 理学研究科
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

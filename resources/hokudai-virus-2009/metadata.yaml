@@ -1,0 +1,60 @@
+slug: hokudai-virus-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/virus-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! ウイルスはどうやって生きのびているのか? ～「人獣共通感染症」研究の最前線～（2009）
+description:
+  ja: ウイルスが自然界でどう存続し、人間社会にどのように侵入して感染や流行につながるのかを扱う講義である。人獣共通感染症をめぐる研究の観点から、新型インフルエンザを含む感染症の成立要因を取り上げる。
+quotedDescription:
+  text:
+    ja: '現在、新型インフルエンザに対する世間の関心が急速に高まっています。このような動物にも人にも感染する微生物を病原とする病気は「人獣共通感染症」と呼ばれており、世界中の研究者や医療・保健衛生の専門家らが日々対策に取り組んでいます。
+
+      現場での迅速な対応、それを支援する政策の必要性は言うまでもありませんが、それと同時に、新しい感染症の発生を予測し、流行を防止する「先回り戦略」の重要性が注目されています。
+
+      「先回り戦略」においては、ウイルスの性質と自然界における存続のメカニズム、人間社会への侵入経路および感染・発症・流行に関与するさまざまな要因を解明する基礎的な研究が欠かせません。
+
+      今回のサイエンス・カフェでは、この分野で活躍している最前線の研究者をゲストにお招きし、みなさんと一緒にウイルスの本質に迫っていきたいと思います。それを通じて、新型インフルエンザをはじめとする様々な人獣共通感染症に私たちがどのように立ち向かっていけばよいのかについて、メディアの報道だけからでは得られない貴重な気づきを持ち帰ってほしいと願っています。'
+  source: https://ocw.hokudai.ac.jp/lecture/virus-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高田 礼人
+  affiliation:
+    name: 人獣共通感染症リサーチセンター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 獣医学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人獣共通感染症リサーチセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,106 @@
+slug: utokyo-series-sdabadppzjpt
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=SdaBAdPpZJpt
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Multilateral Financial Institutions: Rules and Practice'
+description:
+  ja: 多国間金融機関が国際開発とルール形成の中で果たす役割を扱い、ブレトンウッズ機関や国連専門機関、地域開発銀行まで視野に入れて学ぶ。あわせて、IFIsのルールと実務がどのように形成され、現場で適用されるかを考える。さらに、実務家の話を通じて、IFIsでのキャリア形成と国際公務員制度の特徴にも触れる。
+quotedDescription:
+  text:
+    ja: 'This course focuses on the nature, roles and operations of multilateral financial
+
+      institutions (more commonly known as international financial institutions (IFIs)) in
+
+      the architecture of international development and rule-making. A variety of such
+
+      IFIs are examined, including Bretton Woods institutions, other global financial
+
+      organizations and specialized agencies of the United Nations, and major regional
+
+      development banks.
+
+      Students, through this course, are expected to achieve a conceptual foundation of
+
+      understanding the rules and practice of the IFIs, and practical apprehension of how
+
+      such rules and practice are developed and applied in reality. Students will also be
+
+      encouraged to consider practical solutions to factors that can impede the effective
+
+      and efficient delivery of the development mandate of the IFIs.
+
+      This course also offers an opportunity for students to learn from experienced
+
+      practitioners how to start and develop a career in IFIs and the key characteristics
+
+      of international civil service system.'
+  source: https://ch.u-tokyo.ac.jp/series/?id=SdaBAdPpZJpt
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Gerard J. Sanders
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Xuan Gao
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Arthur M. Mitchell
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西沢 利郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 安信
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Lauren Suzanne Power
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係
+- 経済・金融
+- 国際社会
+- 金融
+- 法律
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

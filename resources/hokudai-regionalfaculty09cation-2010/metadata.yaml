@@ -1,0 +1,54 @@
+slug: hokudai-regionalfaculty09cation-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/regionalfaculty09cation-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 『地域教育の行方』 ―地域活動と大学教育の連携―(2010)
+description:
+  ja: 地域活動と大学教育の連携をテーマに、学生主体の活動を土台にした地域活動の現状を扱う。あわせて、滋賀県立大学が現代GP採択後の7年間に進めてきた取り組みを紹介する。
+quotedDescription:
+  text:
+    ja: 学生たちが活動の中で地域と共に課題に向き合い、共通の認識を見つけ出した時、地域の願いや、しがらみ、ジレンマを肌で感じることだろう。そこで気づかされる何か。この何かに学生たちの学びのモチベーションを高める秘薬が潜んでいる。より専門性の高い地道な研究をすることが大学としての地域貢献だという意見もある。地域にとっても、突然自分たちの日常に大義を携えて突然やってきた学生に、自分たちの問題や地域活性化の効果を手放しで期待しているわけではない。合意形成を経て地道に歩んでいる地域活動からは、しっかりとした人材や魅力ある資源、営みが生まれている。教育という制度は人間の社会活動のひとつである。現代GP採択により7年間滋賀県立大学が進めて来た学生主体の活動を基本とした地域活動の現在をお話します。
+  source: https://ocw.hokudai.ac.jp/lecture/regionalfaculty09cation-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 印南 比呂志
+  affiliation:
+    name: 滋賀県立大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

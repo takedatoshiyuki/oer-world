@@ -1,0 +1,88 @@
+slug: kyoto-u-course-0032
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/32/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済英語A
+description:
+  ja: 米英を中心とする英文資料を集め、経済問題や外交問題、国際政治経済の諸トピックを扱う。新聞・雑誌・政府文書・議会文書・シンクタンク報告書など、さまざまな種類の英語資料を読み、事実や見解を整理する内容である。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      経済問題・外交問題について、米英の主要誌の記事・論文を読み、自らの見解を持つことを目的とします。
+
+       
+
+      授業の紹介
+
+      米英を中心に英文資料を収集し、国際政治経済上の諸トピックに関する事実・諸見解を整理し、自らの一定の見解をもつ力を身につけることを目標にします。
+
+      ペーパー・インターネットを通じて、新聞・雑誌・政府文書・議会文書・シンクタンクの各種報告書等できるだけ色々なタイプの英文を読むようにします。
+
+      まず、情報収集のアンテナを広げること。具体的には定点観測するインターネットサイト・紙誌を持つこと。次に、膨大な情報を取捨選択する力を身につけること。'
+  source: https://ocw.kyoto-u.ac.jp/course/32/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 語学
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: #1 ガイダンス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-a_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/32/
+- name: '講義資料: #2 「ネオコン」って何？'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-a_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/32/
+- name: '講義資料: #3 アメリカ政権の意思決定プロセス（１）シンクタンク'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-a_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/32/
+- name: '講義資料: #4 アメリカの意思決定プロセス（２）上下院と委員会'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-a_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/32/
+- name: '講義資料: #5 アメリカの意思決定プロセス（３）ホワイトハウスと省庁'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-a_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/32/
+- name: '講義資料: #7 テーマと情報源 (1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-a_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/32/
+- name: '講義資料: #10 フィナンシャルタイムズとは：フィナンシャルタイムズの読み方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_keizaieigo-a_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/32/
+extensions:
+  faculty: 経済学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

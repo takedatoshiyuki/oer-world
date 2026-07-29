@@ -1,0 +1,78 @@
+slug: kyoto-u-course-0991
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/991/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第5回京都こころ会議シンポジウム こころとコロナ危機
+description:
+  ja: 京都こころ会議のシンポジウムとして、「こころ」とコロナ危機の関係を扱う。医学、仏教学、心理学などの観点から、コロナ危機がこころに与える影響や、その意味を考える内容である。
+quotedDescription:
+  text:
+    ja: '2015年4月に発足した「京都こころ会議」は、科学技術の進歩や経済のグローバル化により、複雑化した世界に生きる人間の「こころ」そのものを究明しようという試みです。その際に「こころ」という日本語に含まれる広がりや深いニュアンスを大切にしながら、「こころ」についての新しい理解をKyoto
+      Kokoro Initiativeとして世界に向けて発信します。
+
+      今年度は、今の危機的状況のこころにとっての意味を問う必要があろうという認識から、「こころとコロナ危機」というテーマで、2月にシンポジウムを開催することになりました。コロナ危機は、こころにどのような影響を与えるのか、こころにとってどのような意味があるのかを、医学、仏教学、心理学と様々な見方から問うことができればと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/991/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河合 俊雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 太郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 熊谷 誠慈
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 康裕
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 時任 宣博（京都大学 研究
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 評価
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 産官学連携担当 理事・副学長）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

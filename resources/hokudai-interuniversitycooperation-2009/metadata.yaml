@@ -1,0 +1,132 @@
+slug: hokudai-interuniversitycooperation-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/interuniversitycooperation-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク 持続的アジア社会構築に向けた日中の総合的大学間協力（2009）
+description:
+  ja: 北海道大学と立命館大学のサステイナビリティ学の取り組みを背景に、中国と日本の大学連携を通じた持続的アジア構築を扱うシンポジウムである。中国の永続社会構築、アジアにおける循環社会、立命館大学の中国連携と孔子学院を題材に、日中大学間交流の成果と連携の可能性を議論する。
+quotedDescription:
+  text:
+    ja: '北海道大学と立命館大学は、サステイナビリティ学の創成とその研究・教育を行うために、それぞれ独自にサステイナビリティ学の研究・教育を行うセンターを大学内に立ち上げてきました。
+
+      昨今の世界状況から、世界の持続的な発展にはアジア地域、特に中国と日本の連携が多くの分野で欠かせません。
+
+      本シンポジウムでは、持続的アジア構築に向けて、日本の大学が今後どの様に中国と連携をしていくべきかを探ります。
+
+      プログラム
+
+      ・2009年11月12日
+
+      13:30 開会の挨拶
+
+      大崎 満 （北海道大学サステイナビリティ学教育研究センター副センター長）
+
+      13:40 趣旨説明
+
+      田中 教幸 （北海道大学サステイナビリティ学教育研究センター教授）
+
+      13:50 挨拶
+
+      本郷 真紹 （立命館大学副総長）
+
+      第一部 基調講演
+
+      14:00 中国の永続社会構築への取組み
+
+      張 国有 （北京大学副学長）
+
+      14:40 持続的循環社会構築への道－アジアの重要性－
+
+      吉田 文和 （北海道大学大学院公共政策学連携研究部教授）
+
+      15:20- 15:30 休憩
+
+      第二部 日中大学間連携協力交流で得たもの
+
+      15:30 立命館大学の中国連携と孔子学院
+
+      周?生 （立命館大学孔子学院学院長）
+
+      第三部 パネル討論
+
+      16:00 持続的アジア構築実現の日中大学連携の可能性
+
+      司会：田中 教幸 （北海道大学サステイナビリティ学教育研究センター教授）
+
+      パネリスト：講演者全員、野沢 俊敬 （北海道大学北京事務所所長）、張 偉雄 （札幌大学孔子学院学院長）
+
+      17:00 閉会の挨拶
+
+      佐々木 隆生 （北海道大学サステイナビリティ学教育研究センターセンター長）'
+  source: https://ocw.hokudai.ac.jp/lecture/interuniversitycooperation-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 大崎 満
+  affiliation:
+    name: 北海道大学サステイナビリティ学教育研究センター
+- type: Person
+  name: 田中 教幸
+  affiliation:
+    name: 北海道大学サステイナビリティ学教育研究センター
+- type: Person
+  name: 本郷 真紹
+  affiliation:
+    name: 立命館大学
+- type: Person
+  name: 張 国有
+  affiliation:
+    name: 北京大学
+- type: Person
+  name: 吉田 文和
+  affiliation:
+    name: 北海道大学大学院公共政策学連携研究部
+- type: Person
+  name: 周 ?生
+  affiliation:
+    name: 立命館大学孔子学院
+- type: Person
+  name: 野沢 俊敬
+  affiliation:
+    name: 北海道大学北京事務所
+- type: Person
+  name: 張 偉雄
+  affiliation:
+    name: 札幌大学孔子学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

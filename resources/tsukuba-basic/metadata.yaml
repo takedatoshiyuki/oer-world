@@ -1,0 +1,49 @@
+slug: tsukuba-basic
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/knowledge/basic/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「データ収集と分析の基礎」
+description:
+  ja: 関心を持った事柄についてデータを取得し、目的に合う方法を選ぶための考え方を扱う講義である。データの特徴と分析方法を踏まえたうえで、データ収集と分析の方法を事例とともに紹介する。
+quotedDescription:
+  text:
+    ja: '筑波大学 大学院・図書館情報メディア研究科 鈴木佳苗先生による「データ収集と分析の基礎」の講義。
+
+      問題意識・関心を持った事柄についてデータを取るには、データの特徴や、分析にどのような方法があるかを知った上で、目的に合った方法を選択することが必要となる。データ収集・分析の方法を事例と共に紹介する。'
+  source: https://ocw.tsukuba.ac.jp/course/knowledge/basic/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 鈴木 佳苗
+  affiliation:
+    name: 筑波大学 図書館情報メディア系 准教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 知識情報システム
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

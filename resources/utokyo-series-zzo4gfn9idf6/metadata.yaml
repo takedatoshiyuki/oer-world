@@ -1,0 +1,83 @@
+slug: utokyo-series-zzo4gfn9idf6
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=zzO4GfN9iDf6
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学教育開発論／東京大学フューチャーファカルティプログラム（東大FFP）
+description:
+  ja: 大学教員としての教育に関わる実践的な内容を扱い、学生のモチベーション、授業デザイン、シラバス、評価方法を学ぶ。あわせて、アクティブラーニングを取り入れたグループワークや模擬授業を通して、授業実施に向けた知識とスキルを体験する。
+quotedDescription:
+  text:
+    ja: '授業の概要
+
+      　現在、大学教員としてのキャリアを進むにあたっては、研究者としてだけでなく、教育者としての資質も問われています。本授業は、東京大学フューチャーファカルティプログラムとして、学生が主体的に学ぶために必要な学生のモチベーションの高め方、授業デザインやシラバス、評価方法などを学びます。また、アクティブラーニングの手法を取り入れたグループワークを多く経験し、模擬授業の実践も行います。多様な研究領域から集う受講者相互の学び合いは、新しい視点の獲得につながり、また、プログラムの修了後も継続するネットワークを培います。本授業で学んだことは「目的・目標を明確にし、達成するためのデザイン」や「伝えたいことが確かに相手に伝わるコミュニケーション」を学ぶという点で研究活動の向上にも活きることでしょう。
+
+      目的と目標
+
+      （目的）
+
+      　本授業では、未来の大学教員として、責務としての「教育」の重要性を認識し、学生の立場にたった教育の設計と実行を可能にすることを目的とします。そのために、授業実施に向けた実践的な知識やスキルを多様な専門領域の受講生とともに実際に体験し、互いに学び合いながら獲得し、さらに、研究だけでなく教育についても探究し続ける姿勢を身につけます。
+
+      （目標）
+
+      ・ 高等教育の現状の概要について説明できる
+
+      ・ デリバリースキルの観点を知り、自分のスキルの向上につなげる
+
+      ・ グループワークに積極的に参加し、当事者およびファシリテーターとしてのコミュニケーション力をつける
+
+      ・ 学生が主体的に学べる授業のデザインができる
+
+      ・ 基礎知識をふまえた評価をデザインできる
+
+      ・ 学んだ知識を模擬授業として活用し実施できる
+
+      ・ キャリアパスについて考え、日頃の活動や今後の展望について整理できる
+
+      （なお、本講義のシラバスを、第1回の講義資料として公開しています。第1回の講義ページの「講義資料2」をご覧ください。）'
+  source: https://ch.u-tokyo.ac.jp/series/?id=zzO4GfN9iDf6
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 栗田 佳代子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 教育
+- 東京大学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 学際情報学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

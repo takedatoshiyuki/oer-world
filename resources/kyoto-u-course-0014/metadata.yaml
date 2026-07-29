@@ -1,0 +1,91 @@
+slug: kyoto-u-course-0014
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/14/
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語構造論A
+description:
+  ja: 人間言語の構造を、普遍文法や最適設計、経済性原理、生物学的アプローチから考える講義である。統語現象の具体的な分析を通じて、計算系としての統語派生システムのしくみを扱い、あわせて言語の起源や進化にも触れる。
+quotedDescription:
+  text:
+    ja: 普遍文法とは何か、人間言語の最適設計や経済性原理、言語への生物学的アプローチなどを概述した上で、いくつかの統語現象をとりあげ具体的な分析を紹介しながら人間言語の主に計算系(統語派生システム)のしくみを理解できるよう努める。また近年、学際的研究が推進されている言語の起源・進化についても考察する。
+  source: https://ocw.kyoto-u.ac.jp/course/14/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤田 耕司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 語学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 認知科学としての理論言語学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第2回 人間言語の基本設計'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第3回 生成文法の展開'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第4回 移動と痕跡'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第5回 原理・媒介変数モデル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第6回 Ｘバー理論と語彙情報'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第7回 格と束縛'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第8回 ミニマリスト・プログラム概説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第9回 言語進化と生物進化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第10回 言語能力の由来'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第11回 回帰性の起源'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第12回 行動の文法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+- name: '講義資料: 第13回 語彙の起源'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gengokouzouron-a_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/14/
+extensions:
+  faculty: 総合人間学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

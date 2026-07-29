@@ -1,0 +1,64 @@
+slug: hokudai-russianliteraturesandboundaries-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/russianliteraturesandboundaries-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: GCOE総合博物館市民セミナー ロシア文学と境界（2011）
+description:
+  ja: ロシア文化を、地理や民族構成の多様さを背景にした境界の問題から捉える講義である。文学・芸術だけでなく宗教や政治文化も視野に入れ、東方キリスト教世界や帝国内の諸社会、ヨーロッパとアジアの関係を手がかりに考察する。主として19世紀ロシア文学を題材に、文化的境界のあり方を扱う。
+quotedDescription:
+  text:
+    ja: 'ロシア文化は、地理風土からしても民族構成からしても広く多様な基盤をもっているので、境界に関する事象も複雑な様相を呈しています。
+
+      文学・芸術も宗教・政治文化も、東方キリスト教世界、ロシア帝国内のロシア人社会と諸民族社会、ヨーロッパ部分とアジア部分といった諸空間の入り組んだ関係を抜きにしては、説明できません。
+
+      ただし文学には境界や差異の問題を顕在化する側面と隠ぺいする側面があり、たとえば知識人と民衆の断絶論に熱心な作家が、ロシア的宗教文化の一元性を疑わないというような歪みも観察されます。
+
+      本セミナーではそんなことを前提に、主として19世紀ロシア文学を題材とした文化的境界論を試みたいと思っています。
+
+      ‡ これらの資料は制限資料です。'
+  source: https://ocw.hokudai.ac.jp/lecture/russianliteraturesandboundaries-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 望月 哲男
+  affiliation:
+    name: スラブ研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- ロシア
+- ロシア文学
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: GCOE総合博物館市民セミナー
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

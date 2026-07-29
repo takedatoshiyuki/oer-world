@@ -1,0 +1,88 @@
+slug: utokyo-series-sljasoxlo2ik
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=SlJasOxlO2IK
+type:
+- LearningResource
+- Course
+name:
+  ja: 東日本大震災3周年国際シンポジウム
+description:
+  ja: 東日本大震災と原発事故を契機に、日本の危機管理の課題を取り上げる講義である。あわせて、グローバル化の進展によって広がる世界規模のリスクについて考える内容を含む。
+quotedDescription:
+  text:
+    ja: 開催概要        東日本大震災から3年。震災や原発事故で浮き彫りとなった日本の危機管理の脆弱性への対応はどれほど進んでいるでしょうか。グローバル化の急速な進展に伴い、遠く離れた場所での出来事の影響が瞬時にそして幅広く世界中で壊滅的な状況を引き起こす懸念が高まっています。グローバルなリスクを考え直すことで、そうしたリスクが現実化してしまった際の損害の軽減に向けた準備を整えるだけではなく、リスクへの備え…
+  source: https://ch.u-tokyo.ac.jp/series/?id=SlJasOxlO2IK
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 前田 正史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: グレゴリー・ヤツコ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 城山 英明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Gregory Jaczko
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 哲朗
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 北澤 宏一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 齋藤 ウィリアム 浩幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 新浪 剛史
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 災害・防災
+- 防災
+- 復興
+- 危機管理
+- 情報発信
+- 災害対応
+- リーダーシップ
+- 経営
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

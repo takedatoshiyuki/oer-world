@@ -1,0 +1,72 @@
+slug: utokyo-series-v7msm016mlcx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=v7MSM016MLCX
+type:
+- LearningResource
+- Course
+name:
+  ja: デニ・ムクウェゲ医師講演会
+description:
+  ja: コンゴ東部で続く武装勢力による暴力と、そこで性暴力が紛争手段として用いられる状況を扱う。加えて、同地域で性暴力被害者の医療に取り組むデニ・ムクウェゲ医師の活動を取り上げる講演会である。
+quotedDescription:
+  text:
+    ja: コンゴ東部では豊富な鉱物資源の採掘・流通が武装勢力の資金源として利用され、鉱山とその周辺地域で武装勢力が住民に残虐な暴力をふるう状況が     2016    年現在も継続しています。武装勢力は住民に恐怖感を与えて支配する「紛争手段」として性暴力を利用し、コンゴ東部は「世界のレイプの中心地」とよばれています。本シンポジウムでは、コンゴ東部で性暴力被害者への医療に取り組むデ二・ムクウェゲ医師を講師として招き、紛…
+  source: https://ch.u-tokyo.ac.jp/series/?id=v7MSM016MLCX
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 米川 正子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉永 宏明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Denis Mukwege
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 城山 英明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係
+- 人口・社会問題
+- 'The Pinnacle of Intellect: Masterclasses by Nobel Laureates'
+- 人権
+- 紛争
+- 資源
+- レアメタル
+- 国際社会
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

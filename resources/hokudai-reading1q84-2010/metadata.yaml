@@ -1,0 +1,60 @@
+slug: hokudai-reading1q84-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/reading1q84-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文学カフェ 村上春樹『1Q84』を読む（2010）
+description:
+  ja: 村上春樹の『1Q84』を手がかりに、作品に含まれる暴力や性の描写と、その背後にある「物語の力」を扱う講義である。村上文学がなぜ人を引きつけるのかという点をめぐって、作品の魅力の源泉を考える。
+quotedDescription:
+  text:
+    ja: 現代日本を代表する作家は誰かと尋ねれば、多くの人が「村上春樹」の名前をあげることでしょう。デビュー作の「風の歌を聴け」以来、村上春樹の作品は日本のみならず、海外においても多くの人々の心を魅了し続けてきました。その村上春樹が2009年に発表した「1Q84」もまたベストセラーとなり、村上文学の魅力はますますその輝きを増していると言えるでしょう。しかし彼の小説の中には暴力や性に関する強烈な描写が含まれており、ほかの作家の作品とは一線を画す禍々しさに満ちていることも事実です。それにもかかわらず村上文学が人を惹きつけてやまないのはなぜでしょうか？
+      今回ゲストにお招きする中村さんは、「1Q84」の魅力の源泉はそういった描写の背後にある「物語の力」にあると言います。われわれを魅了し続けてやまない村上文学の魅力の源泉、「物語の力」とはどのようなものなのでしょうか？
+      みなさんも中村さんとともに村上文学の隠れた魅力を探求してみませんか？
+  source: https://ocw.hokudai.ac.jp/lecture/reading1q84-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中村 三春
+  affiliation:
+    name: 文学研究科教授／日本近代文学・比較文学・表象文化論
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 村上春樹
+- 1Q84
+- 日本近代文学
+- 物語の力
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

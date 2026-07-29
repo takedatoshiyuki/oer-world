@@ -1,0 +1,106 @@
+slug: kyoto-u-course-0476
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/476/
+type:
+- LearningResource
+- Course
+name:
+  ja: E.FORUM 2017 全国スクールリーダー育成研修
+description:
+  ja: スクールリーダーの育成と力量向上を扱う研修で、授業づくり、カリキュラム・マネジメント、グローバル化と多文化共生などのテーマを含む。あわせて、国際交流・留学と市民育成、データから読む日本社会、E.FORUMスタンダードの再検討に向けた資料が公開されている。
+quotedDescription:
+  text:
+    ja: '京都大学大学院教育学研究科 教育実践コラボレーション・センター主催
+
+       
+
+      概要
+
+      現在の日本においては、学校や地域の教育改革を推進するスクールリーダー（教育委員会指導主事、学校管理職・研究主任、地域の教育サークルのリーダーなど）の育成・力量向上が求められています。そこで、京都大学大学院教育学研究科では2006年度に
+      E.FORUM を設立し、毎年「全国スクールリーダー育成研修」を提供しています。2012年度からは、教師をめざす学生たちにも積極的な参加を呼び掛け、教師のライフコース全体を見通した力量向上のネットワークを築くことをめざしています。'
+  source: https://ocw.kyoto-u.ac.jp/course/476/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 石井 英真
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 服部 憲児
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山ノ内 裕子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 南部 広孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 矢野 智司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山名 淳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岩井 八郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-08-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 分科会B1「若い教師に伝えたい授業づくりの発想」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2c277634b158157fbca2be6ff818829a.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/476/
+- name: '講義資料: 分科会B2「カリキュラム・マネジメントの向き合い方」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/db8c9b0489e7964d7d23a17f942ab193.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/476/
+- name: '講義資料: グローバル化と多文化共生'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/9e5fc238bc294e257d9d3ee9f7fb8e81.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/476/
+- name: '講義資料: 国際交流・留学と市民育成'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3e099ec4580b472a9aa575b15d57222e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/476/
+- name: '講義資料: 講演「データから読むゼロ年代－縮小する日本らしさ」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c27f8097c138b5a9382d1a060ff955b6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/476/
+- name: '講義資料: シンポジウム＆教科等別分科会「E.FORUMスタンダードの再検討に向けて」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2a4813285ab906c4330f7881f3492553.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/476/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

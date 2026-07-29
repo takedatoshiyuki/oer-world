@@ -1,0 +1,56 @@
+slug: hokudai-wsclarkandplantsofsapporo-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/wsclarkandplantsofsapporo-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー クラーク博士と札幌の植物（2011）
+description:
+  ja: クラーク博士の札幌滞在と、札幌周辺で採集された植物標本を中心に扱う。あわせて、クラーク博士に関係する手紙や、日本の植物が植えられているマサチューセッツの様子も取り上げる。企画展示「クラーク博士と札幌の植物」の内容紹介を行うセミナーである。
+quotedDescription:
+  text:
+    ja: '企画展示「クラーク博士と札幌の植物」の内容紹介を行います。
+
+      クラーク博士は1876年7月31日に札幌に到着し、翌年4月16日には札幌を離れました。この間に、札幌農学校の礎を築き、実学主義・フィールド主義を実践したことで知られています。本展示では一昨年（2009年）にアメリカと日本で「再発見」されたクラーク博士とペンハローが札幌周辺で採集した維管束植物と地衣類の標本を公開し、北大に脈々と伝わるフィールド主義の原点をご紹介します。あわせて、日本の植物が植えられているマサチューセツの様子や、クラーク博士関係の手紙なども紹介する予定です。'
+  source: https://ocw.hokudai.ac.jp/lecture/wsclarkandplantsofsapporo-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 英樹
+  affiliation:
+    name: 総合博物館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

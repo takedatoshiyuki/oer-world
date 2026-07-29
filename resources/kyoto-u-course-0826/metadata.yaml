@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0826
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/826/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回公開国際研究会『移民の社会統合と読み書き能力を考える』
+description:
+  ja: 移民の社会統合と読み書き能力を主題とする公開研究会の教材で、基調講演ではフランスにおける移民の統合と言語教育の歴史・制度・教育を扱う。第2部では、初期日本語教育、読み書き学習の必要性、日本語の読み書きの自然習得、外国人の書きことばに対する評価を取り上げる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: エルヴェ・アダミ
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 内海 由美子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 富谷 玲子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 宇佐 美洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-03-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: 第１部　基調講演「フランスにおける移民の統合と言語教育：その歴史，制度，教育」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/03/2010_iminnosyakaitougou_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/826/
+- name: '講義資料: 第２部　「初期日本語教育と読み書き学習の必要性について」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/03/2010_iminnosyakaitougou_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/826/
+- name: '講義資料: 第２部　「日本語の読み書きは自然習得可能か？」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/03/2010_iminnosyakaitougou_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/826/
+- name: '講義資料: 第２部　「生活場面における外国人の書きことばに対する一般日本人の評価」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/03/2010_iminnosyakaitougou_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/826/
+extensions:
+  faculty: 人間・環境学研究科, その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

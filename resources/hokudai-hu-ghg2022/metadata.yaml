@@ -1,0 +1,65 @@
+slug: hokudai-hu-ghg2022
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/hu-ghg2022
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学GHGインべントリ2022 解説動画
+description:
+  ja: 北海道大学の温室効果ガス排出量等をまとめた「北海道大学GHGインベントリ」を扱う解説動画である。全拠点・全活動を対象にしたデータをもとに、国際基準に準拠したデータベースの内容と位置づけを要点を絞って説明する。2050年カーボンニュートラルに向けた評価・検証の基礎資料として、どのような情報を集約しているかを示す。
+quotedDescription:
+  text:
+    ja: '北海道大学では、2024年10月、本学の温室効果ガスに関する排出量等のデータを体系的にとりまとめた「北海道大学GHGインベントリ」を策定しました。
+
+      本インベントリは、カーボンニュートラル実現に向けた基礎資料として、本学の温室効果ガスに関する現状を適正に把握するために作成したものです。本学の全拠点・全活動を対象に、国際基準に準拠した信頼性の高いデータベースを構築しています。これらのデータは、2050年カーボンニュートラルに向けた、本学の気候変動対策を中長期的に評価・検証するための基礎データとなります。
+
+      本動画では、インベントリについての理解を深めていただくことを目的に、要点を絞って内容を解説しております。
+
+      北海道大学GHGインベントリ（本編・概要版）は以下ウェブサイトからダウンロードいただけます。
+
+      ・ https://www.sustainability.hokudai.ac.jp/repository/ghg/'
+  source: https://ocw.hokudai.ac.jp/lecture/hu-ghg2022
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 横田 篤
+  affiliation:
+    name: 理事・副学長 サステイナビリティ推進機構 機構長
+- type: Person
+  name: 平 裕
+  affiliation:
+    name: 北海道大学サステイナビリティ推進機構キャンパスマネジメント部門
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- サステイナビリティ
+- 持続可能な社会
+- SDGs
+- 気候変動対策
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

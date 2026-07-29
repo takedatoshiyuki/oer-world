@@ -1,0 +1,77 @@
+slug: kyoto-u-course-1051
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1051/
+type:
+- LearningResource
+- Course
+name:
+  ja: スーパーグローバルコース数学オンライン集中講義２ “Spectrum of random graphs”
+description:
+  ja: 有限ランダムグラフと群のケイリーグラフにおける隣接作用素・ラプラシアン作用素のスペクトルを扱う講義である。スペクトル測度の定義とBenjamini-Schramm位相に対する連続性を導入し、さらに量子パーコレーションの枠組みでその正則性を考察する。最後に、ランダムグラフの極値固有値の収束を取り上げる。
+quotedDescription:
+  text:
+    ja: 'We will study the spectrum of the adjacency and Laplacian operators of finite random graphs and
+      Cayley graphs of groups. We first introduce their spectral measures and study their continuity properties
+      with respect to the Benjamini-Schramm topology which we will define. We then explore the regularity
+      properties of the spectral measure and put that into the framework of quantum percolation. The final
+      part of the course is devoted to the convergence of extremal eigenvalues of random graphs.
+
+      1回目から5回目までの講義資料（板書）を、以下の資料（6）よりご覧いただけます。'
+  source: https://ocw.kyoto-u.ac.jp/course/1051/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Prof. Charles Bordenave
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: Lecture1_part1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2022/01/20211108_SuperGlobal_Lecture1_part1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1051/
+- name: '講義資料: Lecture1_part2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2022/01/20211108_SuperGlobal_Lecture1_part2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1051/
+- name: '講義資料: Lecture2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2022/01/20211108_SuperGlobal_Lecture2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1051/
+- name: '講義資料: Lecture3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2022/01/20211108_SuperGlobal_Lecture3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1051/
+- name: '講義資料: Lecture4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2022/01/20211108_SuperGlobal_Lecture4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1051/
+- name: '講義資料: Lecture5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2022/01/20211108_SuperGlobal_Lecture5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1051/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

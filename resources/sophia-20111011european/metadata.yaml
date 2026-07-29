@@ -1,0 +1,60 @@
+slug: sophia-20111011european
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111011european/
+type:
+- LearningResource
+- Course
+name:
+  ja: Foreign and Security Policy of the EU
+description:
+  ja: 本教材は、1993年のマーストリヒト条約以降に形づくられたEUの外交・安全保障政策を扱う。あわせて、その政策のもとでEUが国際政治の場でどのような役割を担うのかを考える内容である。
+quotedDescription:
+  text:
+    ja: "“Foreign and Security Policy of the EU”\n Since the Treaty of Maastricht 1993 the EU has a new\
+      \ Foreign and Security Policy. What role is the EU playing in International Foreign Politics? \n\
+      \ 「EUの外交・安全保障政策」\n1993年のマーストリヒト条約以降、EUは新たな外交・安全保障政策を掲げている。この政策の下でEUは、どんな役割を国際政治の舞台で果たすのだろうか？"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111011european/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: フランク
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: ブルバッハ(元在香港ドイツ総領事)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 111011european.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111011european.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111011european/
+extensions:
+  faculty: ヨーロッパ研究所
+  term: 2011/10/11
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

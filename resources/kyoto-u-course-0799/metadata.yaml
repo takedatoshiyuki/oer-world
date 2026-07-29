@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0799
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/799/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソウル大学校師範大学教育学科 学術交流協定記念講演「韓国における現在の教育政策」
+description:
+  ja: 韓国の現在の教育政策をテーマにした講演で、京都大学が提供し、BAEK, Sun-Geunが担当する。公開資料は講義スライドの日本語翻訳資料1件で、講演内容を資料として確認できる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: BAEK
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Sun-Geun
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-11-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: スライド 日本語翻訳資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/86a2a641e6a85873d48f2d0986cbccf5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/799/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

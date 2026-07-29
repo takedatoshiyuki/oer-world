@@ -1,0 +1,59 @@
+slug: sophia-20101018lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101018lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: ジャン・ラフィット司教 講演会
+description:
+  ja: 本講演は、不確実な時代における愛と結婚を、キリスト教の視点から考える内容である。人を愛すること、結婚の意味、そして「愛」としての神の呼びかけを手がかりに、愛し愛されて生きることのメッセージを扱う。
+quotedDescription:
+  text:
+    ja: "不確実の時代における愛と結婚のキリスト教的ビジョン \n 人を好きになるのは簡単なこと。でも愛するのは…。\n 一人の人をずっと愛せる？結婚って何のためにあるの？\n 神様は私たちを「愛」と呼んでいる。愛し愛されて生きるように招いている。\n\
+      \ 呼びかけの声に耳を傾け、そのメッセージを探ってみませんか？\n当日のチラシは こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101018lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: ジャン
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: ラフィット司教
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20101018lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101018lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101018lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2010/10/18
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

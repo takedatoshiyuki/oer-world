@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0509
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/509/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成28年度 国立大学図書館協会地区助成事業近畿地区協会講演会「オープンサイエンス推進状況下での大学図書館の役割を考える－オープンアクセスの推進と研究者IDの動向－」
+description:
+  ja: オープンサイエンスの推進が大学に求められる状況を背景に、大学図書館が担う役割を扱う講演会である。オープンアクセス、データ保存、研究公正、研究者IDの動向を取り上げ、大学図書館への期待や研究成果のオープン化への影響を考える。さらに、オープンアクセスを進める大学図書館の事例報告も含む。
+quotedDescription:
+  text:
+    ja: '概要
+
+      第５期科学技術基本計画をはじめ、国の審議会等によりオープンサイエンスを推進する方針が示されており、大学における対応が求められている。大学図書館も、研究支援機能として研究成果のオープン化に係る役割を期待されることが予見される。
+
+      そのため本講演会では、オープンサイエンスを柱とし、「①オープンアクセス及びデータ保存や研究公正等も含めた活動についての大学図書館への期待」、「②研究者に世界的なIDを付与し、管理・発信していく活動が研究者や大学、大学図書館、そして研究成果のオープン化に及ぼす影響」についての講演、及び「③オープンアクセスを推進する大学図書館の事例報告」によりオープンサイエンスを俯瞰的に理解し、今後の大学図書館が果たすべき役割について考察する機会としたい。
+
+      企画：京都大学図書館機構、大阪大学附属図書館
+
+      主催：国立大学図書館協会近畿地区協会（主担当：京都大学図書館機構、大阪大学附属図書館）
+
+      協賛：大学図書館近畿イニシアティブ
+
+       
+
+      リンク　https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/227816'
+  source: https://ocw.kyoto-u.ac.jp/course/509/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 内閣府オープンサイエンスフォローアップ検討会構成員）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 蔵川 圭
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 冨岡 達治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

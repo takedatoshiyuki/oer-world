@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0592
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/592/
+type:
+- LearningResource
+- Course
+name:
+  ja: 森里海連環学実習Ｃ
+description:
+  ja: 北海道東部の別寒辺牛川流域を舞台に、上流の森林域から中流の牧草地、下流の厚岸湾岸域までを対象として生物調査を行う。森・川・里・海の連続したつながりを、生物を通して調べながら、その関係に人間がどう関わるかを実習データに基づいて学ぶ。実習は京都大学と北海道大学の研究拠点を使って実施する。
+quotedDescription:
+  text:
+    ja: 自然景観が気象・地象・海象・生物・人為の相互作用によって形成されていることを実体験することを目的に、北海道東部にある別寒辺牛川上流の自然度が高い森林域、牧草地として土地利用されている中流、そして下流の厚岸湾岸域の生物調査を通して、森－川ー里－海のつながりについて学習する。森と川と海が生物を通してつながっていること、さらに人間がそのつながりにどのように関わっているかを実習中に得られたデータや知見をもとに理解を深めることを目的としている。本実習は、京都大学フィールド科学教育研究センター北海道研究林標茶区、北海道大学北方生物圏フィールド科学センター厚岸臨海実験所を拠点に行う。
+  source: https://ocw.kyoto-u.ac.jp/course/592/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 向井 宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 舘野 隆之輔
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中山 耕至
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 坂野上 なお
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 森・里・海連環学 北大・京大合同演習（北海道大学）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/f63646c7a51a3881bc98eb7f2903bed9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/592/
+extensions:
+  faculty: 全学共通科目
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

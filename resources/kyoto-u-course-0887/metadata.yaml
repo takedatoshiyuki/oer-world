@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0887
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/887/
+type:
+- LearningResource
+- Course
+name:
+  ja: こころの未来研究センター シンポジウム「遠野物語と古典」
+description:
+  ja: 京都大学こころの未来研究センターで開かれたシンポジウムで、鎌田東二が担当する。テーマは「遠野物語と古典」で、2009-11-23に日本語で実施された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 鎌田 東二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-11-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

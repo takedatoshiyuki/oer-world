@@ -1,0 +1,176 @@
+slug: icu-majors-eco256-2014a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/eco256_2014a
+type:
+- LearningResource
+- Course
+name:
+  ja: International Trade 国際貿易
+description:
+  ja: 国際貿易を、国境を越える財・サービスの移動として捉え、その背景や影響を分析する講義である。貿易相手や貿易の理由、貿易の勝者と敗者、厚生への効果、国際生産立地、グローバル経済における企業までを扱う。授業では最新の国際貿易関連の出来事を確認しながら、理論モデルや経済データを使って議論を進める。
+quotedDescription:
+  text:
+    ja: 'This course provides an overview of international trade the movement of goods and services across
+      national boundaries – developing analytic tools that can be used to analyze world economic policy
+      debates. Class meetings are interactive. We will begin most classes with a brief review of current
+      events related to international trade. We then work through together, as a class, one of the models
+      under study or look at some economic data and how it informs our understanding of the models under
+      study.
+
+      Contents of Lectures
+
+      18
+
+      Lectures /
+
+      5
+
+      Videos
+
+      Sep
+
+      1
+
+      0
+
+      Lecture1
+
+      Introduction: What is international trade?
+
+      Sep 1
+
+      2
+
+      Lecture
+
+      2 Who do countries trade with? What do they trade?
+
+      Sep 1
+
+      7
+
+      Lecture
+
+      3 Why do countries trade?
+
+      Sep 1
+
+      9
+
+      Lecture
+
+      4 Why do countries trade?
+
+      Sep
+
+      24
+
+      Lecture
+
+      5 The Winners from Trade…
+
+      Sep
+
+      26
+
+      Lecture
+
+      6 The Winners from Trade…
+
+      Oct
+
+      01
+
+      Lecture
+
+      7 …and the Losers
+
+      Oct 0
+
+      3
+
+      Lecture
+
+      8 …and the Losers
+
+      Oct 08
+
+      Lecture9 The Welfare Effects of Trade
+
+      Oct 10
+
+      Lecture10 The Welfare Effects of Trade
+
+      Oct 15
+
+      Lecture11
+
+      Mid-Term Exam
+
+      Oct 17
+
+      Lecture12 In-Class Mini-Cases (no required reading, but please review Chapter 6
+
+      Oct 22
+
+      Lecture13 The International Location of Production
+
+      Oct 24
+
+      Lecture14 The International Location of Production
+
+      Oct 29
+
+      Lecture15 Case Study: Toys R US Japan
+
+      Oct 31
+
+      Lecture16 Peer Writing Workshop / Term Paper Draft Due
+
+      Nov 05
+
+      Lecture17 Firms in the Global Economy
+
+      Nov 07
+
+      Lecture18 Firms in the Global Economy'
+  source: https://ocw.info.icu.ac.jp/majors/eco256_2014a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'Economics 経済学 | Course ID: ECO'
+- 'ECO256 | Course Schedule: *4/W, *4/F | Update: 2015.11.05'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

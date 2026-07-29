@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0999
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/999/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学特別講義（函数解析学）作用素環と共形場理論
+description:
+  ja: 局所共形ネットの理論を通じて、カイラル共形場理論を数学的に記述する方法を扱う。作用素環論を基盤にしつつ、頂点作用素代数との関係に重点を置いている。共形場理論、作用素環、頂点作用素代数の予備知識は前提としない。
+quotedDescription:
+  text:
+    ja: カイラル共形場理論を数学的に記述する方法の一つである局所共形ネットの理論について解説する。これは作用素環論を用いたものであるが、他の同等の方法である、頂点作用素代数の理論との関係に重点を置く。共形場理論、作用素環、頂点作用素代数についての予備知識は仮定しない。
+  source: https://ocw.kyoto-u.ac.jp/course/999/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河東 泰之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-04-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

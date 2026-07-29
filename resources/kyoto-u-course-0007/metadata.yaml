@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0007
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/7/
+type:
+- LearningResource
+- Course
+name:
+  ja: fMRI実験の紹介
+description:
+  ja: 機能的磁気共鳴画像法（fMRI）の実験方法を、実際のMRI装置と実験環境を用いて扱う動画である。fMRIの原理から実験手順、取得データの解析、実験時の注意点までを一連の実験の中で紹介する。
+quotedDescription:
+  text:
+    ja: 現在、ヒトを対象とした脳機能研究において欠かせないツールとなっている機能的磁気共鳴画像法（functional magnetic resonance imaging; fMRI)の実験方法について、実際のMRI装置や実験環境を用いて紹介した動画になります。fMRIの原理や実際の実験の手順、取得したデータの解析、実験において気を付けるべき事等を、一連の実験の中で紹介しています。
+  source: https://ocw.kyoto-u.ac.jp/course/7/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 阿部 修士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中井 隆介
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

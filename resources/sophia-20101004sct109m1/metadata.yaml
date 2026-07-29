@@ -1,0 +1,52 @@
+slug: sophia-20101004sct109m1
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101004sct109m1/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎生物学
+description:
+  ja: 理工学部の新入生を対象に、生体を構成する分子から細胞の構造と機能、遺伝情報の伝達と発現、個体の活動と調節までを扱う。高校生物の内容を復習しながら、現代生物学の発展やバイオテクノロジーと社会の関係にも触れる。
+quotedDescription:
+  text:
+    ja: 理工学部の新入生全員を対象にして、生物学の基礎的知識を教養として身につけることを目的とする．学習項目は、生体を構成する分子、細胞の構造と機能、遺伝情報の伝達と発現、個体の活動と調節など．高校生物の学習内容を復習・確認するとともに、現代生物学の新たな発展、バイオテクノロジーと社会との関わりにも触れる．
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101004sct109m1/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 田宮 徹
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

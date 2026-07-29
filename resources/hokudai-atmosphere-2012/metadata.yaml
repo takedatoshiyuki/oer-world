@@ -1,0 +1,57 @@
+slug: hokudai-atmosphere-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/atmosphere-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 空気と大気 （2012）
+description:
+  ja: 空気の形成を手がかりに、二酸化炭素の進化と行方を考える講義である。地球の大気を、惑星の比較や地球内部・火山活動との関係から捉え、さらに長期の環境変動という視点にも触れる。
+quotedDescription:
+  text:
+    ja: 私たちが普段何気なく吸っている空気はどのようにして形成されたのでしょうか。特に多くの方が注目されているのは二酸化炭素の進化と行く末ではないでしょうか。二酸化炭素というと化石燃料の燃焼とともに年々濃度を増す地球温暖化の元凶というイメージが強いかもしれません。ただ、ここで宇宙へ目を向けて下さい。地球の兄弟星とも言えるお隣の惑星を厚く覆うのは二酸化炭素です。おそらく地球もかつては二酸化炭素の大気に覆われていたことでしょう。しかも、二酸化炭素は地球内部にも広く分布しており、火山活動とともに染み出してきているようです。私たちが環境を考える時、目に映る対象にとらわれがちですが、私たちの環境は地球内部や宇宙とも関連しており、さらに長い地球の歴史の間に人為的な擾乱を遥かに凌駕する環境変動を経験してきたことも分かっています。私たちが真に持続可能な社会の構築を目指すには、こういった視野・視点・視程をもって臨むことも有用ではないでしょうか。
+  source: https://ocw.hokudai.ac.jp/lecture/atmosphere-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山本 順司
+  affiliation:
+    name: 北海道大学総合博物館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 二酸化炭素
+- 地球
+- 環境問題
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

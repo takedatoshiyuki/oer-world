@@ -1,0 +1,56 @@
+slug: utokyo-series-tycksfj7f9xw
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=tYcKSFJ7f9XW
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学ハラスメント防止研修会
+description:
+  ja: 東京大学ハラスメント相談所が開催する、学内向けのハラスメント防止研修会である。ハラスメントの防止と、修学・研究・就業の環境維持を目的としている。
+quotedDescription:
+  text:
+    ja: "ハラスメント相談所では、2016年より、ハラスメントを防止し、修学・研究・就業に望ましい環境を維持することを目的とした全学研修会を開催しています。 \n  主催：     東京大学ハラスメント相談所"
+  source: https://ch.u-tokyo.ac.jp/series/?id=tYcKSFJ7f9XW
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石田 浩
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佃 未音
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

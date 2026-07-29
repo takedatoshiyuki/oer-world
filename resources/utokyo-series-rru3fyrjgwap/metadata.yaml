@@ -1,0 +1,86 @@
+slug: utokyo-series-rru3fyrjgwap
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=rRU3FYrjgwAp
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会から見たサステナビリティ－平和・開発・人権（学術俯瞰講義）
+description:
+  ja: この講義は、サステナビリティを地球環境の問題にとどめず、人類社会の将来に関わる課題として捉え直す。持続可能な開発、平和、人権を軸に、社会と学問の関わり方を俯瞰する。
+quotedDescription:
+  text:
+    ja: '人類社会・人類文明のサステナビリティ（持続可能性）について私たちが真剣に考えるようになってから、まだ１世代ほどしか経っていない。1972年、国連 人間環境会議が開かれ、環境汚染の問題を中心に議論がなされ、「かけがえのない地球」が人類共有財産であることが謳われた。同じ年には『成長の限界』が刊
+      行されている。こうして、無限の発展の可能性は否定され、「持続可能な開発」が大きな課題として浮かび上がり、92年には国連環境開発会議（地球環境サ ミット）が開かれた。
+
+      目をマクロな地球からミクロな人間に転じると、開発から取り残された人々は貧困に苦しんでいるだけでなく、生命や尊厳が脅かされる極限的状況に置かれてい る。個々人の開発（発展）を実現する方策として、1994年「人間の安全保障」が提唱された。そして、開発（貧困からの脱却）と平和（紛争や抑圧からの自
+      由）とが結びつけられ、「持続可能な平和」も大きな課題として認識されるようになった。さらには、重大な人権侵害に対しては「保護する責任」も謳われるよ うになった。今や、サステナビリティの問題は一人ひとりの人間にとっての平和・開発・人権の問題として私たちの前に横たわっているのである。
+
+      本講義では、従来は地球環境問題として捉えられてきた「サステナビリティ」を、人類社会にとっての基本的・本質的な将来テーマとして捉え直し、「持続可能な開発」、「持続可能な平和」そして国際人権保障の観点から、「新しい社会と学問との関わり方」について俯瞰する。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=rRU3FYrjgwAp
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 緒方 貞子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 安信
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中兼 和津次
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩沢 雄司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山影 進
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- business_law
+keywords:
+- 国際関係
+- 経済・金融
+- 政治・法律
+- 国際社会
+- 社会問題
+- 平和
+- 経済
+- 中国
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

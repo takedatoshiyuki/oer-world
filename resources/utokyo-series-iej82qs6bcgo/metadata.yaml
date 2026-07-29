@@ -1,0 +1,96 @@
+slug: utokyo-series-iej82qs6bcgo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=iej82qs6BcGO
+type:
+- LearningResource
+- Course
+name:
+  ja: Japan-Denmark workshop on quantum technology [EN]
+description:
+  ja: 英語で行われた量子技術に関する日・デンマークのワークショップである。東京大学が提供し、英語話者向けの教材として公開されている。
+quotedDescription:
+  text:
+    ja: 'この講演は英語でおこなわれました。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。
+
+      運営・著作権処理・映像編集：東京大学 大学総合教育研究センター'
+  source: https://ch.u-tokyo.ac.jp/series/?id=iej82qs6BcGO
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Mette Frederiksen
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Jan Thomsen
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Ulrik Andersen
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Lene Broeng Oddershede
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 寒川 哲臣
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山本 剛
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古澤 明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- engineering
+- social_sciences
+keywords:
+- AI・情報
+- エネルギー・資源
+- 国際関係
+- 生命・医療
+- 量子技術
+- 未来技術
+- 国際協力
+- 量子コンピューター
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

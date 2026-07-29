@@ -1,0 +1,63 @@
+slug: utokyo-series-vby64xmgrerg
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=VbY64xmgRerg
+type:
+- LearningResource
+- Course
+name:
+  ja: GraSPP Research Seminar Series
+description:
+  ja: 日本の外交が近年どのように変化しているかを手がかりに、従来の日本政治研究で示された見方を検討する講演である。講演では、その理論を提起したKent E. Calder本人に問いを投げかけ、飯田敬輔が進行を務める。
+quotedDescription:
+  text:
+    ja: '日本政治研究で第一人者であるケント・カルダー教授は、かつて日本は外圧がなければ政策を変えることができない「外圧反応型国家」であると主張した。しかし、近年、日本の外交はますます積極的になっているように見える。今日、この理論を修正するほどの状況変化があったのであろうか。
+      この問いを、概念を考案したカルダー教授にぶつけてみる。
+
+      登壇者：Kent E. Calder
+
+      モデレーター：飯田敬輔
+
+      この講演は英語で行われま…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=VbY64xmgRerg
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Kent E. Calder
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯田 敬輔
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

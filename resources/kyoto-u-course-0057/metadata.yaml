@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0057
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/57/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第50回 京都大学品川セミナー「エイズウイルスの過去と現在」
+description:
+  ja: この教材は、HIVの起源とヒトへの広がりを、アフリカのサルのウイルスとの関係からたどる。あわせて、感染後に無症状期を経てエイズへ進行する過程と、逆転写酵素・インテグレース・プロテアーゼを標的とする併用療法について扱う。
+quotedDescription:
+  text:
+    ja: 'HIVの起源はアフリカのサルのウイルス
+
+      ヒト免疫不全ウイルス（HIV）は、大きく２種類に分類される。全世界に爆発的に広がり恐れられたエイズ（後天性免疫不全症候群：acquired immunodeficiency syndrome）
+      の原因となったHIV-1 と西アフリカに多い病原性の弱いHIV-2 である。HIV-1 の起源は中央アフリカのチンパンジーのウイルス、HIV-2 の起源は西アフリカのスティーマンガベイというオナガザルのウイルスであると考えられている。ところでアフリカに生息する多くのサルには、免疫不全ウイルスが数万年前から感染しており、HIV-1がチンパンジーからヒト世界へ侵入したのは100
+      年ほど前で、チンパンジー集団への侵入は、他の複数のサルの免疫不全ウイルスが、500 年ほど前に混合感染した結果だと考えられています。すなわち、「エイズウイルスの起源はアフリカのサルのレトロウイルス群の中にある」ということになります。アフリカにはブッシュミートといって、森林の中でサルを捕って食肉にする人たちがいた。その人たちが捕ったサルを捌く時にサルの血を浴びて、サルからヒトへ感染したのではないかといわれています。それがアフリカで100
+      年くらい前に起きた。
+
+      HIVの出アフリカ記
+
+      アフリカと中米は奴隷貿易の時代から往来が頻繁に行われていたし、植民地支配をしていたヨーロッパ諸国も同様で、HIV-1やHIV-2 は人の流れに乗ってこっそり拡散していたと考えられています。1981
+      年、HIV-1によりエイズになった患者がアメリカのホモセクシュアルの人たちに次々と見つかってセンセーションを巻き起こしました。しかしそれ以前に、現コンゴ民主共和国などの中央アフリカや、そこから中米ハイチに移動した感染者がいたことがすでにわかっています。
+
+      HIVの感染とエイズの発症
+
+      HIV-1 ならびにHIV-2はエイズの原因ウイルスですが、感染後すぐに免疫不全症を発症するわけではありません。 HIV-1の場合、通常7〜8 年にわたる無症候期を経て、CD4 細胞数がμℓ
+      当たり200 個以下（正常値500 〜1200 個）に低下するころに、免疫不全による日和見感染症や悪性腫瘍などの合併症が併発し、脳症や消化器疾患なども発症します。感染初期には多くが無症状ですが、血液や体液中に多くのウイルスがあるので、ウイルスを伝播させるドナーになる可能性が高いことがわかっています。生体内ではHIV
+      抗体が誘導される前に高ウイルス血症が起き、血中のCD4 細胞は減少します。やがて、HIV 感染細胞を破壊するキラーＴ細胞などが誘導され、さらに抗体ができると、ウイルス血症のレベルは低下します。しかし活発なウイルス複製が実は毎日起きてエイズへ向かっているのです。　HIV
+      の複製を阻害するには逆転写酵素、インテグレース、ウイルスタンパク質を作るのに必要な酵素プロテアーゼなどの働きを阻害する薬剤の併用療法があります。この併用療法で死亡に至る患者さんは格段に少なくなりました。早期発見が重要です。'
+  source: https://ocw.kyoto-u.ac.jp/course/57/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小柳 義夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-07-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- health_welfare
+keywords:
+- 生物学・生命科学
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: ウイルス・再生医科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,91 @@
+slug: utokyo-series-zwdtmxs916vy
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=zWdtMxs916vY
+type:
+- LearningResource
+- Course
+name:
+  ja: ジェンダー不平等を考える（学術フロンティア講義）
+description:
+  ja: 現代社会の課題を、ジェンダーや多様性の視点から見直しながら、日本のジェンダー平等の現状を扱う講義である。各講師の専門分野に基づく話題を順に学び、最後にグループディスカッションと発表を行う構成になっている。
+quotedDescription:
+  text:
+    ja: 現代社会では、想定外の政治的課題や事象が次々と起こっています。その際、マジョリティ側とは異なる視点、ジェンダーや多様性の視点を導入することで、複雑な事象や課題を別の視点から捉え、分析することが可能になります。政府が設定した「202030年目標」は未達成に終わりましたが、新たに、2020年代の可能な限り早期に社会のあらゆる分野において指導的地位に占める女性比率が少なくとも30％程度になるよう目標を設定しています。本講義では、ジェンダー平等後進国の日本の現状について、学生が認識を高め、ジェンダーをめぐる多様な問題について自ら考える機会を持つことを目的としています。初回はイントロダクション、2回目から11回目までは各講師の専門領域の視点や切り口からジェンダー不平等に関連したトピックについて講義を行います。第12回は講義を踏まえてグループに分かれてディスカッションを行い、第13回は発表とまとめの回になります。
+  source: https://ch.u-tokyo.ac.jp/series/?id=zWdtMxs916vY
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小川 真理子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村 和明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 横山 広美
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅井 幸子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 日比 健人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武藤 香織
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 たかね
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- arts_humanities
+- education
+keywords:
+- 人口・社会問題
+- 歴史
+- 教育
+- 生命・医療
+- 言語・思想
+- 「リケジョ」の未来図
+- ジェンダー
+- 男女共同参画
+- UTokyo OCW
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 教養学部・総合文化研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

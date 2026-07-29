@@ -1,0 +1,89 @@
+slug: kyoto-u-course-0122
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/122/
+type:
+- LearningResource
+- Course
+name:
+  ja: 知能型システム論
+description:
+  ja: この講義は、人間の知的活動をモデルにした知能型システムを扱い、状態空間探索による問題解決や対戦ゲームソフトウェアの構成法、分枝限定法を取り上げる。あわせて、ニューラルネットワークの教師あり学習・教師なし学習・強化学習を学び、公開教材ではマルコフ決定問題、Q学習、多層パーセプトロン、誤差逆伝搬学習、自己組織化マップまで扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      この講義では，人間の知的活動のモデルとして状態空間の探索による問題解決，対戦ゲームソフトウェアの構成法，分枝限定法，ニューラルネットワークの教師あり学習，教師なし学習，強化学習を講述する．
+
+      授業の紹介
+
+      人間の知的活動のモデルとして様々な知能型システムが提案されている．この講義では，
+
+      （松山担当）：複雑な問題における最適解を求めるための手法として，状態空間の探索による問題解決，対戦ゲームソフトウェアの構成法および分枝限定法を講述するとともに，
+
+      （喜多担当）：例題からの学習を行うニューラルネットワークの教師あり学習，教師なし学習，強化学習について，基本的事項と応用例を講述する．'
+  source: https://ocw.kyoto-u.ac.jp/course/122/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松山 隆司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 喜多 一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第8回　例題からの学習の３つの様式 (教師有り学習，教師無し学習，強化学習)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_chinougatasystemron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/122/
+- name: '講義資料: 第9回　強化学習とマルコフ決定問題，動的計画法，Value Iteration 法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_chinougatasystemron_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/122/
+- name: '講義資料: 第10回　Q-学習法，冬休みの課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_chinougatasystemron_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/122/
+- name: '講義資料: 第11回　多層パーセプトロン(MLP) 構成との動作'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_chinougatasystemron_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/122/
+- name: '講義資料: 第12回　誤差逆伝搬学習によるMLP の教師有り学習'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_chinougatasystemron_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/122/
+- name: '講義資料: 第13回　自己組織化マップ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_chinougatasystemron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/122/
+extensions:
+  faculty: 工学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

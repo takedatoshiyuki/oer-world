@@ -1,0 +1,75 @@
+slug: utokyo-series-oep5mrdgpxg1
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=OEp5MrdGpxg1
+type:
+- LearningResource
+- Course
+name:
+  ja: 農学部公開セミナー 第65回：「GXってなんだろう?」
+description:
+  ja: 東京大学農学部が開く公開セミナーの第65回で、テーマは「GXってなんだろう?」である。農学部で行われている研究を一般向けに紹介する枠組みの中で、生活に近い話題や産業への応用にも触れる内容になっている。中高生向けとして案内されている。
+quotedDescription:
+  text:
+    ja: '農学部では、年2回、6月と10月の土曜日の午後、農学部公開セミナーを開催しています。農学部で行われている最先端の研究を一般の方にわかりやすく解説します。
+
+      ふだんの生活に密着した話題や産業への応用など、社会との関わりを重視する農学部ならではのテーマも取り上げます。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=OEp5MrdGpxg1
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 橋本 禅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 道生
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 尾張 敏章
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- health_welfare
+- engineering
+keywords:
+- 環境
+- 生命・医療
+- ロボット・技術
+- 「問い」から始めるSDGs
+- 生物多様性
+- GX
+- 真珠
+- 炭素
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 農学部・農学生命科学研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

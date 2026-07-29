@@ -1,0 +1,53 @@
+slug: kyoto-u-course-1038
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1038/
+type:
+- LearningResource
+- Course
+name:
+  ja: アジア・アフリカ地域研究研究科 木村大治 退職講演会
+description:
+  ja: 京都大学のアジア・アフリカ地域研究研究科で行われた、木村大治の退職講演会である。2020-03-13に開講され、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 木村大治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- social_sciences
+- natural_sciences_math
+- ict
+keywords:
+- 芸術・文化
+- コミュニケーション
+- 数学
+- コンピュータサイエンス
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: アジア・アフリカ地域研究研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

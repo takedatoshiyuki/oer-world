@@ -1,0 +1,107 @@
+slug: kyoto-u-course-0623
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/623/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎物理化学B
+description:
+  ja: 熱力学の基礎から出発し、自由エネルギーや化学ポテンシャルを用いて、理想気体・溶液、活量、質量作用の法則、蒸気圧降下や沸点上昇などの化学現象を扱う。あわせて、マックスウェル・ボルツマン分布や分子分配関数、平衡定数、遷移状態理論までを含めて、巨視的な熱現象と微視的な分子の振る舞いのつながりを学ぶ。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      化学への応用を念頭に置いた熱力学を解説する。原子分子論と結び付けるために熱統計力学の基礎も適宜取り入れる。その後、微視的なエネルギー準位を測定するための分子分光学を概説する。
+
+       
+
+      授業の紹介
+
+      個々の分子の性質は、前期に学んだ化学結合論と量子力学で決まるが、多数の分子が集合した巨視的な系の熱現象には、新たな法則性が生じる。本講義では、熱力学の最小限の基礎から出発し、自由エネルギーと化学ポテンシャルの概念を経て、質量作用の法則や沸点上昇などの熱化学現象を記述する理論を学ぶ。微視的な原子分子の振る舞いとの結びつきを見るために、熱統計力学の基礎的知識、特に分子分配関数の議論も適宜取り入れる。最後に、分子の微視的エネルギー準位を実験的に決定するための分子分光学について概説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/623/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 安藤 耕司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　講義の概要、熱力学第一法則'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ffa0f4789def946b060b14b3985f08d1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第2回　エントロピーの導入、熱力学第二法則'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/af5009c4ec050569421e6ca32ad74128.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第3回　種々の熱力学ポテンシャル、ルジャンドル変換'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b2103633482f01af5210817d1228f17a.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第4回　自発的過程と自由エネルギー'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/f35dd60798417f9772eefe375766add7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第5回　エントロピーの示量性、Gibbs-Duhemの式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6153a532706d175559bf02948523f955.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第6回　化学ポテンシャル、理想気体、理想混合気体'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/364334e4bb594f660c6621efcd9e32ee.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第7回　理想溶液、非理想溶液、活量と活量係数'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a908b60ed9e70606a7b8e553374952d7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第8回　質量作用の法則、Gibbs-Helmholtzの式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/5436c553a4f31b240921debfbf6182b1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第9回　蒸気圧降下と沸点上昇、ラウールの法則'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4c6f33873ddb68ef220137c40d505fb4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第10回　エンタルピー変化の測定、クラウジウス・クラペイロンの式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4a61d92881bc624ab7bba71ebe8432b3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第11回　マックスウェル・ボルツマン分布、ボルツマンの原理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b50bca62b4442333d33c8b793e28e95e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第12回　分子分配関数、平衡定数、遷移状態理論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3973a8093e0220d5b9fd442dd15ff4b5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 第13回　光と分子、電子スペクトル、振動・回転スペクトル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/423c241937f4894a920e22487a54f487.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+- name: '講義資料: 2007年度試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a3c4ed285952cc6f7f689c579d56b0d5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/623/
+extensions:
+  faculty: 全学共通科目
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

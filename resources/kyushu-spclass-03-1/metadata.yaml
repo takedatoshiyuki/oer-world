@@ -1,0 +1,111 @@
+slug: kyushu-spclass-03-1
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+type:
+- LearningResource
+- Course
+name:
+  ja: 「柔らかい材料 ソフトマテリアル」の化学
+description:
+  ja: ソフトマテリアルに含まれる高分子材料、液晶、界面活性剤、コロイド、タンパク質、多糖類、ゲルなどを題材に、その化学を扱う講義資料である。あわせて、ソフトマテリアルの化学がどのように発展し、社会や身の回りでどのように関わるかを、体験、観察、計算機シミュレーションを通して扱う構成になっている。
+quotedDescription:
+  text:
+    ja: "本イベントは、日本学術振興会の 「ひらめき☆ときめきサイエンス」 のプログラムとして開催されました。\n ソフトマテリアル（柔らかい材料）は、プラスチック・ゴム・繊維などの高分子材料、液晶、石けんなどの界面活性剤、コロイド、タンパク質、多糖類、ゲルなどの有機物質を中心とする柔らかい物資です。硬い金属材料（ハードマテリアル）、セラミックスと対極的な材料です。\n\
+      このプログラムでは、ソフトマテリアルの化学とは何か、それがどのように発展し、これからどのように発展する可能性があるか、またそれが私たちの社会、身の回りでどのように活躍しているかを中高生ならびに教師・父兄に体験、観察、計算機シュミレーションを通して伝えることを目的としています。そのために第一線の研究者による視覚に訴えた講義と、若手研究者・大学院生による最新のソフトマテリアルに関するポスターセッションと交流会、実際の材料に手に触れる機会を設けるものです。\n\
+      また最先端のソフトマテリアルの化学で用いられる研究施設の見学会では、最新の分析機器を使った観察を実際に体験します。\nそして最後に、若手研究者を交えて質疑応答、フリートークを行います。\nQOCWでは、当日の講義資料を公開します。"
+  source: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+  note: 九州大学OCW (QOCW) 「授業の概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 講師： 高原 淳
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 一般向け講演会
+audience:
+- general_public
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 3.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/3.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 4.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/4.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 5.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/5.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 6.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/6.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 7.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/7.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 8.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/8.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 9.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/9.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 10.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/10.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 11.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/11.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 12.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/12.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 13.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/13.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 14.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/14.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 15.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/15.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 16.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/16.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 17.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/17.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 18.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/18.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+- name: '講義資料: 19.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1/19.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/spclass/03/1.html
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

@@ -1,0 +1,63 @@
+slug: utokyo-series-datkiaj85jid
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=DAtKiAj85Jid
+type:
+- LearningResource
+- Course
+name:
+  ja: ユースメンタルヘルス
+description:
+  ja: 精神疾患の社会的負担を背景に、思春期までの時期にメンタルヘルス対策を集中させる考え方を扱う講義である。統合失調症を例に、早期介入や発症前後の病態、神経画像を用いた研究にも踏み込む。人文社会科学と生命科学を結びつけて、こころと脳の発達と精神疾患の早期対応を考える。
+quotedDescription:
+  text:
+    ja: '精神疾患は生涯有病率が極めて高く、大多数が人生早期に発症し、障害が長期に続くことから、その社会的負担は全疾病中最大です。これを根拠に各国では、精神疾患をガン・循環器疾患と並ぶ三大国民病と位置づけ、その対策を進めています。経済的な富の追求に代わり、ライフステージに沿って精神的資本を高め、個人ひいては社会の精神的幸福を達成することが、国家の最大の富であるとの認識も醸成されつつあります。一方、日本では、精神保健医療福祉システム、自殺対策、精神疾患研究、偏見解消など、いずれをとっても先進各国に比べて大きく立ち遅れており、「わが国何十万の精神病者は実にこの病を受けたるの不幸のほかに、この国に生まれたるの不幸を重ぬるものと言うべし」（1918）との呉秀三先生の深い悲しみは癒えていません。
+
+      ヒトは進化の過程で前頭葉を格段に発達させ、高度なこころ（精神機能）を持つに至りました。人間の精神の最大の特徴は、精神機能の自己制御を通じて自らの脳機能を自己統御する能力を獲得し、自己実現・発展を意識的に図れるようになったことにあります。精神療法は、言語という非物質的な介入媒体を用いて、自らの精神機能を制御することを通じて、自らの脳機能を可塑的に統御する、極めて高次の営みであり、精神医学の独自性はまさにここにあります。究極にいえば、精神医学とは、分子から社会までの統合的アプローチにより精神機能の自己制御性の破たんを修復または予防するための医学分野です。
+
+      ヒトの脳とこころは、個体発生上も、ヒト独自のライフステージである思春期までに成熟を遂げます。このことが、精神疾患の発症が思春期までに多いことと符合しています。思春期までの人生早期にメンタルヘルス対策を集中させることによって、精神疾患全体の社会的負担を大きく減少させることが期待されます。
+
+      統合失調症は、頻度が高く、思春期に発症して社会機能低下が慢性に続くため、社会的負担が甚大です。精神病未治療期間（DUP）が長いほど予後が悪いことが明らかにされ、早期介入が重要な課題となっています。私たちは、神経画像を用いた前向き追跡研究によって、従来神経発達障害仮説が信じられていた統合失調症に、発症後数年に集中した大脳新皮質の進行性脳病態が存在することを明らかにしました。前駆期～初発期の進行性病態の多次元的（生物-心理-社会）な機構を明らかにし、これを阻止するような早期診断・治療法を開発することが、統合失調症の予後を大幅に改善し、ひいては予防につながると考えられます。
+
+      人文社会科学と生命科学の学際的連携により、こころと脳の健やかな発達と精神疾患の早期介入を可能にする「ユースメンタルヘルス学」という新たな学問領域を皆さんとともに築き上げたいと思っています。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=DAtKiAj85Jid
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 笠井清登
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 医学部・医学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,80 @@
+slug: utokyo-series-tago9uue2iwo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=taGo9UuE2IwO
+type:
+- LearningResource
+- Course
+name:
+  ja: 第137回（2023年秋季）東京大学公開講座「科学と美」
+description:
+  ja: 気体や液体の流れを手がかりに、身の回りの空気や水が機械の性能や快適さにどう関わるかを扱う講義である。流れを理解し制御することを目的に、工学機器の設計で機能的な形を生み出す試みを紹介する。さらに、生物の体の中で行われる形の最適化にも触れる。
+quotedDescription:
+  text:
+    ja: 物質は、気体、液体、固体の３つの状態で存在するが、そのうち気体と液体は流れる性質を持つ。身の回りの空気や水の流れは、様々な機械の性能や人が感じる快適さなどに大きな影響を与える一方で、それらは透明であるためその運動を直接目にすることは少ない。この講義では、流れを理解し、制御することを目的として、工学機器の設計において、機能的な形を生み出す試みを紹介する。また、生物の体の中においても形の最適化が行わ…
+  source: https://ch.u-tokyo.ac.jp/series/?id=taGo9UuE2IwO
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 長谷川 洋介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松井 千尋
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 樋口 秀男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 由佳理
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 有紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉田 寛
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- engineering
+- arts_humanities
+keywords:
+- 宇宙・物理
+- ロボット・技術
+- 数理
+- 文化・芸術・文芸
+- 言語・思想
+- 生命・医療
+- 流体
+- 乱流
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

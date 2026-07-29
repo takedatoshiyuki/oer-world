@@ -1,0 +1,95 @@
+slug: utokyo-series-pf6pvyrm83d0
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Pf6pvyRm83d0
+type:
+- LearningResource
+- Course
+name:
+  ja: 図形から拡がる数理科学 (学術俯瞰講義)
+description:
+  ja: この講義は、三角形や四角形などの図形を手がかりに、図形の性質をどう理解してきたかをたどり、その知見が設計や生活にどう結びつくかを扱う。さらに、立体図形を含む現代の図形の数理科学が、新しい社会の要請にどう応えてきたかを解説する。予備知識は高等学校の数学程度とされている。
+quotedDescription:
+  text:
+    ja: 'コーディネータ　坪井　俊 (理学部)
+
+      ナビゲータ　金井 雅彦 (理学部)
+
+      　辺の長さが3、4、5の三角形が直角三角形であることは、4000年くらい前には知られていたようです。「直角三角形の斜辺の二乗は他の2辺の二乗の和に等しい」というピタゴラスの定理は図形と数を結びつけるものですが、この形で理解されるにはもう少し時間が必要であったと思われます。この理解から望みの物を設計する道が開けてきたはずです。
+
+      　現実の街並みも、個々の建物も、家具の一つ一つも、机の上のパソコンも本も、普段使う携帯電話も、図形の性質を用いて設計され使われています。三角形、四角形などの平面図形は、立体図形の面を構成するものですから、その性質を十分理解する必要がありました。
+
+      　2000年以上前に著されたユークリッドの『原論』では、公理に基づく演繹的な図形と量の理論が展開されています。このような厳密な図形の理論の上に、現代の私たちの生活は成り立っています。立体図形の世界は非常に豊かで、現在でも新しい現象が発見されています。
+
+      　この講義では、図形の性質をどのように理解してきたか、その理解が現実にどう役立てられているか、新しい社会の要請と、それに対応するための現代の図形の数理科学の発展を解説します。予備知識は高等学校の数学程度です。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Pf6pvyRm83d0
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 金井 雅彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 舘 知宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 坪井 俊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 齊藤 宣一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 五十嵐 健夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 河野 俊丈
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- engineering
+- ict
+keywords:
+- 数理
+- ロボット・技術
+- AI・情報
+- 宇宙・物理
+- 数理科学
+- 多面体
+- 幾何学
+- 数学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

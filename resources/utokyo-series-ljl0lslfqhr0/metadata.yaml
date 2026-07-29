@@ -1,0 +1,78 @@
+slug: utokyo-series-ljl0lslfqhr0
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Ljl0LslfQhr0
+type:
+- LearningResource
+- Course
+name:
+  ja: ソーシャルICTが拓く心の健康イノベーション
+description:
+  ja: 認知行動療法とソーシャルICTの組み合わせによって、心の健康に関わる取り組みを扱う。うつ病をはじめとする心の問題に触れつつ、病理の治療ではなく「生きる力」を育むという方向性に言及する。東京大学が2013年に提供する講義である。
+quotedDescription:
+  text:
+    ja: うつ病をはじめとする"心の問題"を解決する方法として     「認知行動療法」    の有効性が多くのエビデンスによって実証されてきています。私たちは、認知行動療法と最新の情報通信技術（ソーシャルICT）の融合によって、心の健康にイノベーションをもたらすことを目的とする     「心いき」東大プロジェクト    を立ち上げました。本プロジェクトでは、病理の治療ではなく、"     生きる力    "を育むという価値創造を基盤とし…
+  source: https://ch.u-tokyo.ac.jp/series/?id=Ljl0LslfQhr0
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松本 洋一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 國吉康夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅見 徹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 下山晴彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 江口純一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 滝順一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 萩田紀博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 五十嵐健夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

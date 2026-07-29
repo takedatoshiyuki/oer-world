@@ -1,0 +1,54 @@
+slug: hokudai-geopark-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/geopark-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! 地球の鼓動を感じよう（2009）
+description:
+  ja: この講義は、火山活動や地震を手がかりに地球の動きを考え、ジオパークという枠組みを紹介する。北海道の日高地方にあるアポイ岳ジオパークに焦点を当て、かんらん岩の山としての特徴や、日高山脈が大地の成り立ちを知る手がかりになる点を扱う。
+quotedDescription:
+  text:
+    ja: '火山活動や地震は、まさに地球が「生きている」と実感できる自然現象です。なかでも日本列島は、これらの活動を各地で見ることができる、世界でも特徴的な地域なのです。今回のサイエンスカフェでは、最近話題の「ジオパーク」を紹介します。「ジオ」とは地球や大地のこと。ジオパークでは、ダイナミックな地球の歴史に触れることができ、しかも学術的に貴重な場所です。
+
+      今回は北海道大学の新井田清信さんに、日本のジオパークの1つである「アポイ岳ジオパーク」の魅力をお話しいただきます。日高地方にあるアポイ岳は、世界的にも大変めずらしい「かんらん岩」の山です。また、アポイ岳をはじめ日高山脈は、日本列島のような変動する大地がどのようにできたかを知る上で、重要な情報をもたらしてくれます。みなさんも美しい高山植物が花咲くアポイ岳ジオパークで「地球の鼓動」を感じてみませんか。でもその前に、ちょっとカフェに立ち寄って、アポイ岳の魅力に触れてみましょう。'
+  source: https://ocw.hokudai.ac.jp/lecture/geopark-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 新井田 清信
+  affiliation:
+    name: 理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,52 @@
+slug: sophia-20131002emg53900
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20131002emg53900/
+type:
+- LearningResource
+- Course
+name:
+  ja: 会計学特講／SPECIAL LECTURE(ACCOUNTING)
+description:
+  ja: 会計基準設定の最新動向と、企業経営に影響する論点を扱う講義である。具体的なケースを取り上げながら、業種ごとに企業が開示する会計情報の特徴を考察する。
+quotedDescription:
+  text:
+    ja: 最新の会計基準設定の動向と企業経営に重大な影響をおよぶすトピックについて、具体的なケースを取り上げながら、業種別に企業が開示する会計情報の特徴について言及する。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20131002emg53900/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 西澤 茂
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 経済学部 経営学科
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,170 @@
+slug: kyoto-u-course-0077
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/77/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農学部 地域環境工学科 課題研究要旨集 (平成26年度)
+description:
+  ja: 京都大学農学部地域環境工学科の平成26年度課題研究要旨集で、2014年の研究成果をまとめた教材である。公開ファイルには、不飽和透水係数の推定、灌漑期の窒素動態、畝間検出、農業ロボットの測位誤差補正など、地域環境工学に関わる複数の研究題目が含まれる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- agriculture
+keywords:
+- 農学
+- その他
+audience:
+- general_public
+materials:
+- name: '講義資料: Mualem 型モデルを用いた疎水性粒子を含む多孔質媒体の不飽和透水係数の推定'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 住民の性質による地域づくり活動への不参加に関する理由と環境の分類 ―神戸市の「里づくり」を事例として―'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 消化液による藻類培養を利用した循環型メタン発酵機構構築のための基礎研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 茶園とその周辺地域における灌漑期の窒素動態'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 画像処理による果樹の体積計測のための基礎研究 ――果樹模型を用いた分枝構造再構築手法の開発――'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 画像処理による畝間検出手法の開発 -クラスタリング手法を用いた検出-'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 農山村地域活性化におけるクラウドファンディングの有用性に関する研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: AWD 節水灌漑技術に関する研究レビュー'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 滋賀県の名水の水質特性'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 浸透流と表面流が同時に作用するときの限界掃流力の測定'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 有限要素固体解析へのSpace-Time 法の適用'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: カルマンフィルタによるスペクトル拡散音波を用いた 農業ロボット用移動体の測位誤差補正'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 近江八幡市独自の条例による農振農用地指定除外の基準策定過程に関する研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 多孔質媒体への塩水浸入時に生じる振動現象に関する数値実験'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 近赤外分光法を用いた豆乳凝固過程のモニタリングのための基礎研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 日長と光強度がリーフレタスの生長に与える影響'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 地域景観の変遷から導かれる一体的な景観づくりのあり方 ―滋賀県近江八幡市北之庄地区を対象として―'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: コンバインの遠隔操縦システムの開発'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 養液への海洋深層水の添加がリーフレタスの成長に与える影響'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 福島県阿武隈川，新田川，太田川水系における 放射性セシウムの土地利用別流出特性評価'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: コンバインロボットのHTTP によるリモートモニタリング'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: ミリ波を用いた農産物の水分計測に関する基礎研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 塩性環境における撥水布を用いた露収集システム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 弥生前期水田における水稲生育パラメータの推定 ―気象学的な水稲生育予測モデルを用いた弥生前期の水稲収量変動評価―'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 微細藻類を用いたメタン発酵消化液処理法の確立に向けた基礎研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_25.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: アンドロイドアプリによるイネの生育量推定'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_26.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 根-土境界面におけるせん断挙動に関する実験的研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_27.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 宮城県の復興に向けた土地利用計画策定の課題に対する組織の対応の実態把握 -気仙沼市杉ノ下工区と山元町山元東部地区を事例として-'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_28.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: A Distorted Model of a Hydraulic Structure Including Steep Open Channels with Bends （屈曲のある急勾配開水路を含む水理構造物の歪模型）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_29.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 信楽山地流域における流出特性と流出水の酸素・水素安定同位体比の関係'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_30.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 広域農業における市場価格を考慮した収益予測およびリスク分析 ―京都府の事例―'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_31.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: コーン貫入抵抗計測の高精度化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_32.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 流動化した土の間隙水と土粒子の運動'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_33.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: テラヘルツ波全反射減衰分光法を用いた 細胞の酸化ストレス応答評価のための基礎研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_34.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 都市近郊型バイオマス活用システム成立の条件検討ためのデータベース作成'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_35.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 確率論的DCF 法によるアースダムの補修投資時期の考え方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_36.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: フランス南東地域における空中花粉飛散量の時空間分布特性の評価'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_37.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: Linear and Non-linear Stochastic Process Models for Lagrangian Movements of Individual
+    Solute Particles in 1-D Ope'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_38.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 千苅貯水池流域におけるリン排出源の面源解析'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_39.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: ウグイを用いた水中体積測定装置誘導の条件付け学習に関する基礎的研究'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_40.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: コンバインロボットの作業速度向上'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_41.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+- name: '講義資料: 地域ブランドとしての世界農業遺産「能登の里山里海」の活用における課題 ―関係主体の連携実態と構成資産別の課題認識に基づく分析―'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_faculty-of-agriculture_tiikikankyoukougaku_42.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/77/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

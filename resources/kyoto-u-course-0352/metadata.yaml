@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0352
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/352/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第27回 知的コラボの会「移民にとって幸せとは：ソーシャルワーク的アプローチ」
+description:
+  ja: 国際的に移動する人々、とくに移民や長期滞在者が日々どのような葛藤を経験するかを取り上げる。あわせて、その葛藤に対する支援のあり方をソーシャルワークの視点から考察する。
+quotedDescription:
+  text:
+    ja: 'コース概要
+
+      本発表では、国際的に移動する人々（移民、長期滞在者など）が経験する日々の葛藤と、それに関わる支援のあり方を、ソーシャルワーク的アプローチから考えます。'
+  source: https://ocw.kyoto-u.ac.jp/course/352/
+  note: 京都大学OCW 「コース概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 安藤 幸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-12-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

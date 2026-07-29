@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0311
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/311/
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和2年度 学部・大学院入学者への総長祝辞
+description:
+  ja: 京都大学の山極壽一による、令和2年度の学部・大学院入学者に向けた総長祝辞である。出典文では、入学者数が令和2年4月1日現在の数であることと、新型コロナウイルス感染症の影響で変更の可能性があることを示している。
+quotedDescription:
+  text:
+    ja: 入学者数は令和2年4月1日現在の数であり、新型コロナウイルス感染症の影響により、変更が生じる可能性があります。
+  source: https://ocw.kyoto-u.ac.jp/course/311/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山極壽一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-04-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

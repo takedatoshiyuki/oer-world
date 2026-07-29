@@ -1,0 +1,82 @@
+slug: utokyo-series-p9ovidzsccez
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=p9oviDzScCEz
+type:
+- LearningResource
+- Course
+name:
+  ja: GraSPP20周年記念シンポジウム-EBPMと政治
+description:
+  ja: 公共政策分野で広がってきたEBPMの流れを背景に、政策立案の変化を扱うシンポジウムである。東京大学公共政策大学院がこれまで担ってきた役割を振り返り、今後の政策決定で果たすべき役割を考える内容を含む。教員に加えて現役国会議員も登壇する。
+quotedDescription:
+  text:
+    ja: 公共政策分野では過去20年で政策立案の流れが大きく変化し、政策の企画をその場限りのエピソードに頼るのではなく、政策目的を明確化したうえで合理的根拠（エビデンス）に基づくEBPMを推進する流れが強くなってきている。本シンポジウムでは、当大学院の教員に加え、現役国会議員の方々にもご登壇いただき、今まで当大学院が果たしてきた役割を振り返るとともに、こうした流れの変化の中で当大学院が政策決定において果たすべき役割を展望することを予定している。
+  source: https://ch.u-tokyo.ac.jp/series/?id=p9oviDzScCEz
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 河野 太郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 牧島 かれん
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅野 哲
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 相原 博昭
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 津田 敦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川口 大司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 谷口 将紀
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+- social_sciences
+- ict
+keywords:
+- 政治・法律
+- 人口・社会問題
+- 政策
+- データ
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: hokudai-regionalindustry-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/regionalindustry-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! 北海道の地域産業を元気にしたい！（2010）
+description:
+  ja: 北海道の経済状況や少子高齢化による人口減少を背景に、地域産業をどう元気にするかを扱う。須田孝徳の活動を通して、北海道の産業の将来像と大学が地域にどう関わるかを考える。
+quotedDescription:
+  text:
+    ja: 近年、全国的な景気低迷の中、北海道経済も例にもれず厳しい状況の下にあります。また、少子高齢化による生産年齢人口の減少も大きな社会問題となっています。「北海道の産業を元気にするために、一大学人として、一研究者としていったい何ができるのか？」この問いを胸に抱き続け、さまざまな挑戦を続けている須田孝徳さんを、今回のカフェではゲストにお迎えします。須田さんは、北海道に生まれて道内の大学を卒業した後、一度民間企業に就職して関東で働くようになります。しかし、北海道への思いを捨てきれず北海道大学に転職し、現在では一研究者の枠を超えた地域産業活性化のための活動をしておられます。本日は須田さんに、ご自身のこういったさまざまな活動と、その根底にある北海道への想いについて語っていただくことを通じて、北海道の産業の将来像、大学と地域の関係のありかたについて、みなさんと一緒に考えてみたいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/regionalindustry-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 須田 孝徳
+  affiliation:
+    name: 北海道大学大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学院／工学研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

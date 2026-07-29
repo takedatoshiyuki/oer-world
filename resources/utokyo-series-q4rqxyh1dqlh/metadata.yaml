@@ -1,0 +1,62 @@
+slug: utokyo-series-q4rqxyh1dqlh
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=q4rQXyh1dQlh
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代GPシンポジウム 国際シンポジウム 2008
+description:
+  ja: この教材は、ICT技術を利用した教育環境と、学生の能動的な学習をどう促すかを扱うシンポジウム記録である。事例報告とパネルディスカッションの2部構成で進められ、英語話者向けに英語で提供される。
+quotedDescription:
+  text:
+    ja: 現代GPの取り組みの１つとして行われた今回のシンポジウムは、どのような教育環境（特にICT(Information and Commuication Technology）技術の利用によって実現される）によって、学生の能動的な学習（アクティブラーニング）を活性化することができるのかが議論されました。  シンポジウムは、事例報告とパネルディスカッションの2部構成で行われました。事例報告ではまず、マサチューセッツ工科大学（報告者：Peter
+      Dourmashkin…
+  source: https://ch.u-tokyo.ac.jp/series/?id=q4rQXyh1dQlh
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Peter Dourmashkin
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Daniel Gilbert
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 美馬 のゆり
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

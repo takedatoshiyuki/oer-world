@@ -1,0 +1,88 @@
+slug: utokyo-series-83khkcbedu5o
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=83khkcbeDu5O
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和７年度「東京大学安全の日」講演会
+description:
+  ja: 東京大学が毎年7月4日に行う「東京大学安全の日」の講演会であり、2025年度版として実施された。内容は「野外活動のリスクと安全、その対策」をテーマに、野外活動における危険と安全対策を扱う。
+quotedDescription:
+  text:
+    ja: 東京大学では、平成１７年に発生した本学構成員の死亡事故を受けて、7月４日を「東京大学安全の日」と定め、毎年講演会を開催しています。本年度は、「野外活動のリスクと安全、その対策」をテーマに講演会を実施しました。
+  source: https://ch.u-tokyo.ac.jp/series/?id=83khkcbeDu5O
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 齊藤 延人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岸 利治
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯本 武志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 橋谷 晃
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 黒田 玲子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山田 育穂
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 砂田 武俊
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 災害・防災
+- ロボット・技術
+- 安全管理
+- リスク対策
+- ドローン
+- 自転車
+- 事故
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

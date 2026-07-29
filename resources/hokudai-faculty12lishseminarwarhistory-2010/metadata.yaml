@@ -1,0 +1,119 @@
+slug: hokudai-faculty12lishseminarwarhistory-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminarwarhistory-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 英語演習 上級： War History and Memory in Japan（2010）
+description:
+  ja: この講義は、第二次世界大戦を日本の視点から捉え、その後も続く現代日本社会への影響を扱う。授業では、戦争記憶や歴史問題を軸に、メディア、戦争責任、靖国問題、歴史教育、戦争犯罪、家族と戦争の関係までを順に取り上げる。学生発表に加え、書評と期末レポートの提出も含む。
+quotedDescription:
+  text:
+    ja: '＜目標＞
+
+      To discuss World War II from a Japanese perspective and the war''s continued impact on modern Japanese
+      society.
+
+      ＜授業計画＞
+
+      Week 1: Course Introduction:
+
+      the war stories of Allen Nelson and Ayako Kurahashi
+
+      Week 2: Theoretical Approaches to War Memory:
+
+      what is the “history issue” and why does World War II history still matter in contemporary Japan
+      and East Asia?
+
+      Week 3: An Overview of War History:
+
+      themes，issues and debates
+
+      Week 4: The Japanese Media:
+
+      mapping war discourses in Japan
+
+      Week 5: War Responsibility:
+
+      the position of the Japanese government
+
+      Week 6: Commemoration:
+
+      the Yasukuni issue and remembering the dead
+
+      Week 7: Student presentations
+
+      Week 8: Student presentations
+
+      Week 9: Student presentations
+
+      Week 10: Student presentations
+
+      Week 11: History Education:
+
+      textbooks and history education
+
+      Week 12: War Crimes:
+
+      the mass killing of civilians from Nanking to Nagasaki
+
+      Week 13: War and the Family:
+
+      when the personal is very political (submission of the book review).
+
+      Week 14: Towards the Future:
+
+      can the “history issue” be solved?
+
+      Week 15: Conclusions，submission of term papers.'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminarwarhistory-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: シートン・フィリップ
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- s:134:"s:125:"s:116:"s:107:"s:99:"s:91:"s:83:"a:3:{i:0;s:12:"World War II";i:1;s:15:" Japanese media";i:2;s:14:"
+  war memories ";}";";";";";";";
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: My Father’s Dying Wish (Classroom Materials)'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/WarHistory-2010-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminarwarhistory-2010
+extensions:
+  faculty: 外国語教育センター
+  targetAudience: 1年生～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

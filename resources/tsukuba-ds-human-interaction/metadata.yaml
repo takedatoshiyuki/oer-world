@@ -1,0 +1,47 @@
+slug: tsukuba-ds-human-interaction
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/human_interaction/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 ヒューマンインタラクション
+description:
+  ja: 筑波大学で開講される落合陽一担当の講義で、人と計算機の関係を軸にしたヒューマンインタラクションの研究領域を扱う。HCIやCG、VR、触覚、機械制御、デジタルファブリケーションを含む幅広い技術を対象にし、さらに光・音・レーザー・超音波・磁場制御を用いた相互作用や人間の行動制御まで踏み込む。
+quotedDescription:
+  text:
+    ja: 筑波大デジタルネイチャーグループ(落合陽一研究室)では，計算機基盤の上に成り立つ現代社会以後のメディア研究のために，単なる表示器上のやりとりを超えて，HCI・CG・CGH・触覚・VR・機械制御・デジタルファブリケーションなどの融合領域の研究を行っています．人の性質をモデル化し，数値解析とシミュレーションによって情報通信の問題として定義することで，人と計算機の共存する生態系を目指しています．そのために空間での光や音とのインタラクションや，触覚応用など，レーザーや強力超音波，磁場制御などを用いた研究から，人間の行動制御に関する研究にいたるまで，弊ラボの掲げるデジタルネイチャーに向かって研究しています．
+  source: https://ocw.tsukuba.ac.jp/data-science/human_interaction/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 落合 陽一
+  affiliation:
+    name: 筑波大学 図書館情報メディア系・メディア創造分野
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2019-08-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

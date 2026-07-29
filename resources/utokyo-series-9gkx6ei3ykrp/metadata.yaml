@@ -1,0 +1,47 @@
+slug: utokyo-series-9gkx6ei3ykrp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=9gKX6ei3ykrP
+type:
+- LearningResource
+- Course
+name:
+  ja: 知財管理システムマニュアル動画
+description:
+  ja: 東京大学の産学連携法務部産学連携法務課知的財産管理チームが担当する、学内向けの研修・ガイダンス用動画である。知財管理システムについてのマニュアルを扱う教材で、2023年度の日本語資料として提供されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 産学連携法務部産学連携法務課知的財産管理チーム
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

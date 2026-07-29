@@ -1,0 +1,59 @@
+slug: kyoto-u-course-1000
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1000/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第6回 「『日本型』問題解決と授業研究を用いたアメリカ都市部の学校における算数の学習支援：越境する学びの力」
+description:
+  ja: 本講演は、アメリカ都市部の学校での算数の学習支援を題材に、「日本型」問題解決と授業研究の活用を扱う。日本の教育実践が別の教育環境でどのように用いられるかを、講演と質疑応答を通して考える内容である。
+quotedDescription:
+  text:
+    ja: '概要
+
+      グローバル教育展開オフィス主催2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』の第6回講演会を、12月11日（金）にZoom開催しました。今回は、Mills
+      College　Catherine C. Lewis氏が「『日本型』問題解決と授業研究を用いたアメリカ都市部の学校における算数の学習支援：越境する学びの力」と題した講演を行い、司会進行は高山敬太教授が務めました。英語同時通訳を導入し、学内外および国内外からも多くの参加がありました。講演会では活発な質疑応答も行われ、盛況のうち閉会しました。'
+  source: https://ocw.kyoto-u.ac.jp/course/1000/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Mills College
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: US）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-12-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0150
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/150/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第52回人環国際交流セミナー「司馬金龍家族墓誌を手がかりとして」張学鋒教授
+description:
+  ja: 魏晋南北朝時代を、戦乱と分裂の時代としてだけでなく民族融合の過程として捉え、その背景を中国史の流れの中で考察する。司馬金龍一族を具体例に、出土墓誌を手がかりとして北朝政権下の漢人貴族と民族融合の問題を扱う。
+quotedDescription:
+  text:
+    ja: '講演内容
+
+      中国史上、魏晋南北朝時代は戦乱・分裂の時代と思われがちであるが、実は民族融合の時代である。中国文明の中心地－黄河流域に進出して政権を立てた北方の遊牧民族は、軍事力により華北を征服する一方、漢民族との混血・融合を進め、数百年の歳月を経て新たな中国人―「隋唐人」を生み出し、彼らは絢燗たる隋唐文化を創出する担い手となった。北魏の孝文帝が遂行した「漢化政策」はもちろん重要であるが、長期にわたって日常的に継続された民族の融合もまた、歴史の真相であろう。今回の講演では、北朝政権に仕えた漢人随一の貴族である司馬金龍の一族を例に取り上げ、出土墓誌を利用しながら、この問題に迫りたいと思う。
+
+      講演者プロフィール
+
+      張学鋒教授は、南京大学歴史系（考古学専攻）をご卒業、1988年に南京大学歴史系修士課程（中国古代史専攻）を修了の後、母校に留まり助教、専任講師を務められました。その後、京都大学文学研究科に留学され、2001年に文学博士号を取得、同年4月より現在まで南京大学歴史系教授として教鞭を執っておられます。主著の『漢唐考古与歴史研究』（生活・読書・新知三聯書店、2013年）は、漢魏六朝隋唐史の本質に関わる諸問題について斬新な観点から分析を加えたもので、学界の高い評価を受けております。他に、『東晋文化』（南京出版社、2005年）、『中国墓葬史（上下冊）』（広陵書社、2009年）等の著作があります。'
+  source: https://ocw.kyoto-u.ac.jp/course/150/
+  note: 京都大学OCW 「講演内容」・「講演者プロフィール」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 張学鋒
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-12-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

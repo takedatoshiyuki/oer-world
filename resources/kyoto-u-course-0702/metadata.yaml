@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0702
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/702/
+type:
+- LearningResource
+- Course
+name:
+  ja: 離散アルゴリズム理論（現代アルゴリズム入門）
+description:
+  ja: 離散アルゴリズムの近年の話題として、オンラインアルゴリズム、近似アルゴリズム、対話的アルゴリズム、通信複雑性、パラメータ化複雑性を取り上げる。将来情報を使えない状況、通信量や情報漏えいを意識する状況、厳密解を求めない状況を例に、そうしたアルゴリズムの考え方を扱う。設計と解析のための基本的な手法を学ぶ。
+quotedDescription:
+  text:
+    ja: 'Highlights of this Course
+
+      Introduction to new trends of discrete algorithms such as online algorithms, approximation algorithms,
+      interactive algorithms, communication complexities, parameterized complexities, and so on.
+
+       
+
+      Course Description
+
+      Traditional lectures on algorithms are based on the idea that algorithms must be correct and efficient.
+      However, this basic concept has been changed a lot in the last two to three decades. Namely, we
+      have to be satisfied with algorithms that would not always give us correct answers. For instance,
+      an algorithm for stock trading needs to decide the current action without knowing the future inputs
+      (future prices of stocks) so that its profit will be as much as possible compared to the “god” that
+      does know the future input completely. As another example, the amount of communication is more important
+      than the amount of computation time and/or memory space, which requires us to design algorithms
+      being efficient in the amount of bits exchanged between two or more parties. In this case, it is
+      also often important to consider leak of information in the course of communication. We also have
+      to give up exact solutions for NP-complete problems and the notion of approximation comes in naturally.
+      The goal of this course is to give basic ideas of these “new” algorithms, studying several techniques
+      for their design and analysis.'
+  source: https://ocw.kyoto-u.ac.jp/course/702/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 情報学研究科
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

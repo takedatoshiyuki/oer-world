@@ -1,0 +1,129 @@
+slug: kyoto-u-course-0064
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/64/
+type:
+- LearningResource
+- Course
+name:
+  ja: 西洋経済史A
+description:
+  ja: 本講義は、資本主義的生産システムの成立をめぐる「なぜ、いつ、どのように」を中心に扱う。大塚久雄と堀江英一の見解を整理し、近年の研究動向も取り入れながら論点を検討する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      なぜ、いつ、どのようにして資本主義的生産システムが成立したか？大塚久雄の見解と堀江英一の見解を対比・総合しつつ、近年の研究動向を適宜くみあわせつつ、解説します。 両者を検討する際には「先人の足跡を虚心坦懐に学ぶ」という姿勢をとりました。
+
+      授業の紹介
+
+      本講義は、日本における西洋経済史学がとりくんできた中心テーマ「なぜ、いつ、どのようにして資本主義的生産システムが成立したか？」を、５W1Hを明確にしつつ、緒論者の見解を整理しながら検討します。'
+  source: https://ocw.kyoto-u.ac.jp/course/64/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 歴史
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: #1 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #2 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_02-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #2 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_02-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #3 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_03-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #3 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_03-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #4 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_04-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #4 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_04-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #5 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_05-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #5 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_05-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #6 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_06-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #6 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_06-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #7 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_07-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #7 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_07-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #8 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_08-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #8 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_08-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #9 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_09-01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #9 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_09-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #10 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_10-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #10 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_10-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #11 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_11-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #11 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_11-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #12 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+- name: '講義資料: #13 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-a_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/64/
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

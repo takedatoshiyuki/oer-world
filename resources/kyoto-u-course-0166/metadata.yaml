@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0166
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/166/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学部オープンキャンパス, 2013
+description:
+  ja: 京都大学教育学部による2013年8月9日の公開講座で、前平泰志、山名淳、南部広孝、角野善宏が担当する。教育学部に関する内容を扱い、日本語で実施される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 前平 泰志
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山名 淳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 南部 広孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 角野 善宏
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-08-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

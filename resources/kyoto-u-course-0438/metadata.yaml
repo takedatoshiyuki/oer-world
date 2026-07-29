@@ -1,0 +1,100 @@
+slug: kyoto-u-course-0438
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/438/
+type:
+- LearningResource
+- Course
+name:
+  ja: 資源生物科学概論Ⅲ
+description:
+  ja: 海洋資源生物の生活史や生産の特徴を取り上げ、それらを支える物質循環と微生物の役割、海洋の物理環境を扱う。さらに、その基盤の上に成り立つ生物資源の利用、マリンバイオテクノロジー、資源培養技術、海洋環境保全の現状と将来展望を概説する。
+quotedDescription:
+  text:
+    ja: 海洋資源生物の生活史や生産の特徴と、それらを支える物質循環に果たす微生物の役割並びに海洋の物理環境の特徴を述べる。また、それらを基盤にして生まれる生物資源の食料、生理活性物質等としての有効利用、マリンバイオテクノロジー、資源培養技術、海洋環境保全の現状と将来展望を概説する。
+  source: https://ocw.kyoto-u.ac.jp/course/438/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 平田 孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 左子 芳彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 藤原 建紀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山下 洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 笠井 亮秀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田川 正朋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 澤山 茂樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 菅原 達也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 沿岸の海の特徴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-3_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/438/
+- name: '講義資料: 第5回 沿岸域における富栄養化と微生物の利用'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-3_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/438/
+- name: '講義資料: 第6回 栽培漁業'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-3_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/438/
+- name: '講義資料: 第10回 海洋生物資源研究の発展と人類への貢献'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-3_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/438/
+- name: '講義資料: 第11回 海洋生物生産物の利用'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_shigenseibutsukagakugairon-3_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/438/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

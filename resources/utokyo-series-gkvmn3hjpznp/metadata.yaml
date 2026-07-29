@@ -1,0 +1,93 @@
+slug: utokyo-series-gkvmn3hjpznp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Gkvmn3hjpzNp
+type:
+- LearningResource
+- Course
+name:
+  ja: 世界の水安全保障と日本の科学技術の貢献〜問題解決へ向けた「水の知」〜（2011年度）
+description:
+  ja: 世界の水問題をめぐる状況を背景に、解決へ向けた技術と制度を概観する講義である。水循環や水資源、水処理、日本のODAや水ビジネス、国際的な研究者の貢献にも触れながら、関連分野の知見を横断的に学ぶ構成になっている。研究者や実務者による話題提供を交え、複数分野にまたがる「水の知」を統合して扱う。
+quotedDescription:
+  text:
+    ja: '21世紀は人口増加、経済規模の急拡大と気候変動に伴い、世界で水をめぐる紛争が起こるとさえ言われています。その一方で、水と衛生分野への日本の ODA実施額は世界最大であり、最近では政府の支援のもとで日本企業も海外に向けた水ビジネス展開を目指しています。また、日本の水処理技術は世界最高レ
+      ベルといわれ、気候変動に関する政府間パネル（IPCC）報告書では、水循環や水資源の分野をはじめとして日本から多くの科学者が貢献しています。
+
+      水をめぐって、日本と世界の関係がより密接で複雑になる中で、日本の政府・企業・個人が世界の水の安全保障に貢献するためには、より積極的で戦略的な思考 が必要です。しかし、世界の様々な地域で水に関する利害は錯綜し、水を管理する実務が多岐にわたっている中で、水に関する「知」は様々な分野に分散してい
+      ます。そこで、分野･組織横断的な知識体系を統合的に学ぶため、世界の水問題とその解決へ向けた技術と制度を概観するとともに、水に関連する各分野の第一 線の研究者･実務者たちに話題提供をいただきながら講義を行います。
+
+      本講義に参加する学生の文理、学年を問いません。あらゆる分野を志す学生の参加を歓迎します。
+
+      関連ホームページ：
+
+      http://www.wow.u-tokyo.ac.jp'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Gkvmn3hjpzNp
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 滝沢 智
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 徳永 朋祥
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 芦刈 俊彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 永田 淳嗣
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 知花 武佳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 平 久
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 蔵治 光一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大熊 孝
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

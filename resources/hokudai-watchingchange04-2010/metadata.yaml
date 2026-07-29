@@ -1,0 +1,54 @@
+slug: hokudai-watchingchange04-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/watchingchange04-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 「変化」を見つめる－私たちや地域の未来のために－ 第4回ネットワーク時代の光と影： 守れるかセキュリティ (2010)
+description:
+  ja: ウェブを中心に拡大する情報環境を背景に、文章・画像・映像・音楽の広がりを取り上げる。あわせて、情報技術がもたらす「光」と「影」を見て、自分を守るために影を理解する視点を扱う。
+quotedDescription:
+  text:
+    ja: いまや、世界はウェブを中心に回っています。あらゆる種類の文章、画像、映像、音楽が猛烈な勢いで増え続けています。それらは誰でもが自由に手に入れられ、何の価値もなかった”つぶやき”が社会を変えるかもしれません。プロメテウスが人間に与えた火の如く、情報技術が若い世代に与えた新しい「光」は「影」をも生み出します。本講義では、光のもたらす変革の予感を知る一方で自分を守るために影を理解します。
+  source: https://ocw.hokudai.ac.jp/lecture/watchingchange04-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 工藤 峰一
+  affiliation:
+    name: 北海道大学情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

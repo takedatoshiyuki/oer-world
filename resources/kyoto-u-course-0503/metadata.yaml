@@ -1,0 +1,110 @@
+slug: kyoto-u-course-0503
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/503/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報探索入門：図書館とインターネット情報の活用, 2011
+description:
+  ja: 大学で学ぶ際の情報探索を扱い、図書館や図書館資料の利用法、調べ方の実際を学ぶ教材である。公開資料には、大学図書館の機能、分類理論、目録情報、参考資料、インターネット情報・データベース、研究・学習に用いる情報源に関する講義資料が含まれる。
+quotedDescription:
+  text:
+    ja: '[コメント]
+
+      これから大学で様々な事項を学ぶにあたり、図書館および図書館資料(情報)の活きた利用法、調べ方の実際を知り、スキルアップに役立ててください。 初回の授業には必ず出席してください。 履修希望者が120名を超える場合には受講人数を制限することがあります。'
+  source: https://ocw.kyoto-u.ac.jp/course/503/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 古賀 崇
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川崎 良孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金子 周司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 黒橋 禎夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 大学図書館の機能と研究活動　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/1055aaf2099de2eacba83a8a11d6613f.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 大学図書館の機能と研究活動　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/a8238223cfcf8bacca37bc6703c8f1e2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 分類の一般概念と分類理論　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/4cb93bc9671ff1d7db86daadbdee4798.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 分類の一般概念と分類理論　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/fd147bcfd58916bc902225b2ef29ea6e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 目録情報とその利用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/095491201998a4c2edad7c14b0f88933.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 目録情報とその利用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/b5593eed42c6a75dd8c9440ccabe9b7d.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 参考資料の種々とその利用　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/44cd0aadfb3bf4ca7b9008b7e51d0210.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 参考資料の種々とその利用　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/32cf9d16e593cfbc3dfe9fca4b038c63.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/99870b97452b7c0eac1e16ebccfa9ecf.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/8cdeb4e9871f96a6c1d7aee21126f0f8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 大学での研究・学習と情報源　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/193588b1c4dc03c024b4ede93ff4a54d.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 大学での研究・学習と情報源　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/e23ba1d76a0f47e47d7b9611ee8392da.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 総合演習　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/496131744cec22f5b8d3719a3281bc10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+- name: '講義資料: 総合演習　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/c437e02466989cd71e974739bb96f4d0.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/503/
+extensions:
+  faculty: 全学共通科目, 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

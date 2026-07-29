@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0463
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/463/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回 iCeMS キャラバン 福島県立会津学鳳高校
+description:
+  ja: この教材は、iCeMSの研究者が高校を訪れ、異なる分野の知見をもとに共通テーマを説明する場面を扱う。高校生はそこで得た知識を整理し、グループで新しいアイディアを考えて発表する流れを体験する。
+quotedDescription:
+  text:
+    ja: '福島県立会津学鳳高校
+
+      （参加者：高校2年生　20名）
+
+      （参加研究者：勝田陽介、廣理英基、古川修平、Daniel Packwood）
+
+      iCeMSキャラバンウェブサイト https://icemscaravan.com/
+
+       
+
+      概要
+
+      知識をもとにアイデアを創造し、伝える。
+
+      最先端科学を学ぶことで、ワクワクするようなアイディアを生みだせるかな？
+
+      そもそも、学ぶことの意味ってなんだろう？
+
+      化学、生物学、物理学などの分野を超えた学際研究に取り組むiCeMSの研究者は「自ら考えること、学ぶこと、伝えることの重要性」を日々、実感しています。iCeMSキャラバン“学びのカラクリ”は、高校生にもそれらを感じてほしいという強い思いのもとに立ち上げられたアクティブラーニング型教育プログラムです。まるでキャラバン隊のようにiCeMSの研究者たちが全国各地の高校を訪れることから、iCeMSキャラバンと名付けました。
+
+      iCeMSキャラバンでは、まず生物学や化学などの異なる分野の研究者が、それぞれの視点から共通のテーマ（DNAやエネルギー生産など）について、基礎知識と最新の研究成果を説明します。高校生は、新しく得た知識を整理し、知恵に変換します。続いて、グループで議論し、新しい科学や技術のアイディアを創り出すことに挑戦します。最後に、自分たちのアイディアを科学論文の構成にそって、チョークトーク形式で発表します。一連のグループワークを通じて、高校生が「知識をもとにアイディアを創造し、伝える」という過程を経験することができます。
+
+      この「入力（知識）→創造（アイディア）→出力（伝達）」という過程を経て、世界に発信したアイディアが次の誰かの入力になれば、新しい学びのサイクルが開始され、その結果、世界が少しずつ前進していきます。これが、iCeMSキャラバンが伝えたい“学びのカラクリ”です。iCeMSキャラバンで“学びのカラクリ”を体験することが、高校生が毎日の勉強の先に大きく広がる世界を感じて、学ぶことの意味を再確認し、自らの手で人生の舵をとるきっかけになってくれればと、期待しています。'
+  source: https://ocw.kyoto-u.ac.jp/course/463/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-03-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

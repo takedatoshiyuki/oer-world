@@ -1,0 +1,60 @@
+slug: utokyo-series-um9kpnztxiik
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=uM9KpnZTXIiK
+type:
+- LearningResource
+- Course
+name:
+  ja: 2022年春季 東京大学特別公開講座「エビデンスに基づく男女共同参画を目指して」
+description:
+  ja: 日本における理系女子学生の割合の低さを取り上げ、特に数学や物理学で目立つ状況を扱う講座である。近年の研究を手がかりに、こうした傾向に関わる社会的要因と、改善に向けて考えられる点を紹介する。
+quotedDescription:
+  text:
+    ja: '日本は理系の女子学生の割合が世界的に見ても低く、中でも数学や物理学などの分野で
+
+      それが目立ちます。本講演では近年の研究から、どのような社会的要因が影響していると
+
+      考えられるか、改善できることについて紹介します。
+
+      講師：横山広美
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=uM9KpnZTXIiK
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 横山 広美
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

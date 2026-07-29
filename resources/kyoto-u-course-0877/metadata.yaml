@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0877
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/877/
+type:
+- LearningResource
+- Course
+name:
+  ja: '第6回国際シンポジウム “Bridging the Divide Between Science and Culture: The Role of Human Survivability Studies”'
+description:
+  ja: 本講義は、科学と文化の補完関係を手がかりに、知識の分断をどう乗り越えるかを扱う。人文科学・自然科学・社会科学の研究者を集め、SDGsや人間の生存をめぐる現在・将来の課題との関係を論じる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Short Summary
+
+       
+
+      During the symposium we will argue that to overcome the fragmentation and compartmentalization of
+      knowledge, we need to explore deeper the complementarity between science and culture. The Sixth
+      International Symposium on Human Survivability aims to bring together scholars from humanities,
+      natural and social sciences, who are united by the idea that bridging the gap between science and
+      culture is indispensable for achieving the sustainable development goals (SDGs), as well as for
+      dealing with present and future threats to human survivability.
+
+      About the Organizers
+
+      The Graduate School of Advanced Integrated Studies in Human Survivability (GSAIS/Shishukan) runs
+      a 5-year PhD program aiming to raise young future leaders who can find novel solutions to complex
+      social issues such as climate change, resource depletion, biodiversity loss, poverty, and inequality,
+      food security, population pressure, the spread of infectious diseases, etc. Human Survivability
+      Studies is an integrated academic field that aims to integrate knowledge or wisdom from individual
+      disciplines related to the survival of mankind and global society. Our final goal is to contribute
+      to the creation of a sustainable future for humanity.
+
+      To learn more, please visit the web site of GSAIS
+
+      (in English) http://www.gsais.kyoto-u.ac.jp/en-top/
+
+      (in Japanese) http://www.gsais.kyoto-u.ac.jp/'
+  source: https://ocw.kyoto-u.ac.jp/course/877/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-12-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- arts_humanities
+keywords:
+- 自然科学
+- 人文科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

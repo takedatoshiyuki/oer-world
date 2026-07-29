@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0285
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/285/
+type:
+- LearningResource
+- Course
+name:
+  ja: ジュニアドクター育成塾めばえ適塾「オートファジー 〜自分を食べる仕組みが細胞を守る〜」
+description:
+  ja: 小中学生向けのジュニアドクター育成塾「めばえ適塾」の一講義で、オートファジーの仕組みを扱う。吉森 保による講演で、オートファジーについての説明に加えてアヒルの話にも触れる。
+quotedDescription:
+  text:
+    ja: '大阪大学/京都大学/関西大学/NPO法人 知的人材ネットワークあいんしゅたいん
+
+      ジュニアドクター育成塾めばえ適塾
+
+       
+
+      概要
+
+      めばえ適塾（JSTジュニアドクター育成塾）とは、科学への強い興味関心を持つ小中学生を対象に、実習などを通し数理系のセンスを身につけることで未来の研究者を育成することを目的とした教育プログラムです。大阪大学を中心として、京都大学、関西大学、NPO法人あいんしゅたいんが連携して実施しています。
+
+      この講義は、受講生である小中学生に科学の最先端の分野を牽引している研究者を知ってもらうだけでなく、めばえ適塾でアシスタントをしている大学生、大学院生の研修のために開催しましたが、多くの人に興味を持っていただける内容なので、公開することにしました。
+
+      今回は、「オートファジー～自分を食べる仕組みが細胞を守る～」というテーマで、大阪大学 生命機能研究科・医学系研究科の吉森 保教授にご講演いただきました。 ノーベル賞にも選ばれましたオートファジーの仕組みについてはもちろん、先生のトレードマークであるアヒルのお話も聴けてしまう大変魅力的な講演となっておりますので是非ごらんください。'
+  source: https://ocw.kyoto-u.ac.jp/course/285/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉森 保
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-06-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

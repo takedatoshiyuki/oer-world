@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0920
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/920/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第5回 世界トップレベル研究拠点プログラム（WPI）合同シンポジウム「実感するサイエンス」, 2015
+description:
+  ja: 本シンポジウムは、WPIプログラムに採択された9拠点が合同で開くイベントで、高校生を主な対象に最先端の科学を紹介する。講演では、コレステロール、ウイルス、地球生命、ゴリラ研究などを扱い、後半では研究ノートをテーマにしたパネルディスカッションも行う。会場には各拠点のブースが設けられ、研究紹介も実施する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      物質―細胞統合システム拠点（iCeMS：アイセムス）は、2015年12月26日（土）に第5回 世界トップレベル研究拠点（WPI）プログラム合同シンポジウム「実感するサイエンス」を京都大学百周年時計台記念館で開催しました。WPIプログラムは、優れた研究環境と高い研究水準を誇り、世界から第一線の研究者が集まる
+      「目に見える」研究拠点の構築を目指す文部科学省の事業です。本シンポジウムは、主に高校生を対象に最先端の科学とその魅力を伝えるためWPIプログラムに採択されている全9拠点が合同で、2011年から毎年開催しているものです。今回は一般を含め約400名を超える参加がありました。
+
+      シンポジウムでは、日本科学未来館の科学コミュニケーターのヘイチク・パヴェル氏の開会トークに続き、WPI各拠点の3名の研究者の講演、京都大学の山極壽一総長の講演がありました。講演では、まずiCeMSの永田紅助教が、「コレステロールは憎まれ役？」と題し、細胞や分子のレベルで「善玉コレステロール」がどのように作られるか、細胞の“膜”や、“膜タンパク質”の研究と交えて講演をしました。その後、大阪大学免疫学フロンティア研究センター（IFReC：アイフレック）の山下和男助教が「コンピュータは『ウイルス』と戦う」、東京工業大学地球生命研究所（ELSI：エルシー）の高井研主任研究者が「ワンピースを求めて、世界の、宇宙の海へ」と題した講演を行い、特別講演では京都大学の山極壽一総長が、ゴリラ研究のフィールドワークについて語られました。
+
+      その後のパネルディスカッションでは、「東大合格生のノートはどうして美しいのか？」等の著者、太田あや氏をゲストに招き、「研究ノート」をテーマに、講演者たちが各自のノートを披露しながら語り合いました。
+
+      最後にiCeMSの北川進拠点長の挨拶の後、サプライズとして京都大学グリークラブが「もみの木」を合唱し、盛会のうちに締め括られました。
+
+      各拠点を紹介するブースにも多くの来場者があり、iCeMSのブースでも研究ノートや京都大学の山極壽一総長が実際にフィールドワークで使用している道具に注目が集まっていました。ブース前では、iCeMSの研究者がニューズレター
+      “Our World, Your Future” を配布しながら、実際の研究生活について学生達に熱く語る場面もみられました。'
+  source: https://ocw.kyoto-u.ac.jp/course/920/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 永田 紅
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山下 和男
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高井 研
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-12-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

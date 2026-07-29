@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0807
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/807/
+type:
+- LearningResource
+- Course
+name:
+  ja: 統計物理学
+description:
+  ja: 多数の分子からなる系を例に、統計的な考え方が物理の記述にどう役立つかを学ぶ講義である。気体分子運動論から始め、位相空間や時間平均、熱平衡の条件を経て、統計集団の考え方へ進む。最後に量子統計にも触れる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      統計力学に至った経過、すなわち、気体分子運動論、古典力学的位相空間とエルゴード性などに重点をおき、必ずしも統計力学を必要としない分野を目指す学生諸君にとっても、現代物理学の重要な分野である統計力学の世界に興味を持ってもらえるような講義である。
+
+       
+
+      授業の紹介
+
+      まず、多数の分子からなる系に対して、その性質を解明するのに統計的な考え方がどのように役立つかを見るため、高等学校の物理にも出てくる気体分子運動論をくわしく扱う。さらに、系の力学的状態を記述する位相空間を導入し、物理量の観測値である時間平均がどのように表されるか、熱平衡状態が成立するにはこれがどのような性質を持たなければならないかを述べる。これにより、現在の統計力学の基礎である統計集団の考えに自然に行き着くことができる。あとは、種々の統計集団の定義と応用を扱い、最後に量子統計にもふれる。１，２回生でも十分に興味が持てるように、できるだけ平易な内容にとどめている。'
+  source: https://ocw.kyoto-u.ac.jp/course/807/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 冨田 博之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_toukeibutsurigaku_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/807/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

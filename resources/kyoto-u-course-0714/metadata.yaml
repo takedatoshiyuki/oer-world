@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0714
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/714/
+type:
+- LearningResource
+- Course
+name:
+  ja: Boundedness of Varieties of General Type
+description:
+  ja: 一般型多様体を高次元の対象として位置づけ、その有界性に関する最近の結果を扱う講義である。そこから、対応するモジュライ空間の構成へつながる流れを示し、KSBA proper functor の構成にも触れる。
+quotedDescription:
+  text:
+    ja: 'Varieties of general type are the higher dimensional analog of Riemann surfaces of genus \(g\geq
+      2\). If  \(X\subset \mathbb P ^N _{\mathbb C}\) is a variety of general type then, by definition,
+      the sections of \(H^0(\omega _X^{\otimes m})\) determine a birational map for all sufficiently big
+      integers \(m>0\).
+
+      In these lectures we will explain recent results on the boundedness of varieties of general type
+      that ultimately lead to the construction of a corresponding moduli space (more precisely to the
+      construction of the KSBA proper functor of log canonically polarized log canonical pairs).'
+  source: https://ocw.kyoto-u.ac.jp/course/714/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: University of Utah
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Distinguished Professor）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-06-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

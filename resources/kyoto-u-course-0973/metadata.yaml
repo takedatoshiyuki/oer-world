@@ -1,0 +1,78 @@
+slug: kyoto-u-course-0973
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/973/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物理気候学, 2012
+description:
+  ja: 地球システム内のエネルギーの流れが気候をどう形づくるかを、大気科学の視点から扱う講義教材である。地質学的な気候変化や地球の基本データ、大気の状態方程式、熱力学、放射、大気境界層までを順に扱い、最後に気候数値モデルの導入へ進む。各回の資料として、イントロダクションから気候モデルまでの7件が公開されている。
+quotedDescription:
+  text:
+    ja: 地球システム内のエネルギーの流れが気候を形成するが、その様々な形態について気候の記述ではなく大気科学の視点から講述する。具体的には、地質学的気候変化、惑星地球の基本データとその変化、大気放射学の基礎、混合気体の状態方程式、未飽和大気熱力学、飽和大気熱力学、雲・降水形成過程の入門、大気境界層の基礎、気候数値モデル紹介、などである。気候形成物理過程の基礎理解のため、大気の変化過程を記述する方程式を導出してその意味を解説し、実際への応用についても多数の図版を示しながら例示する。
+  source: https://ocw.kyoto-u.ac.jp/course/973/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 里村 雄彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 イントロダクション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_faculty_of_science_physclim1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/973/
+- name: '講義資料: 第2回 地球の基礎データ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_faculty_of_science_physclim2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/973/
+- name: '講義資料: 第3回  大気の状態方程式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_faculty_of_science_physclim3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/973/
+- name: '講義資料: 第4〜6回 大気熱力学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_faculty_of_science_physclim4-6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/973/
+- name: '講義資料: 第7〜10回 大気放射'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_faculty_of_science_physclim7-10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/973/
+- name: '講義資料: 第11〜13回 大気境界層'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_faculty_of_science_physclim11-13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/973/
+- name: '講義資料: 第14, 15回 気候モデル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_faculty_of_science_physclim14-15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/973/
+extensions:
+  faculty: 理学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

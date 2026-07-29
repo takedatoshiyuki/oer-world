@@ -1,0 +1,73 @@
+slug: utokyo-series-weheyzwed6ee
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=wEhEYZweD6eE
+type:
+- LearningResource
+- Course
+name:
+  ja: メディア創造ワークショップ 学生映像作品
+description:
+  ja: 紙漉き職人の田村氏を題材に、和紙が出来上がる場面や外国人の前で紙漉きを披露する活動を通して、その仕事観を取り上げる映像作品である。あわせて、海外での活躍を目指す若者に向けたメッセージも収録する。
+quotedDescription:
+  text:
+    ja: "和紙が出来上がる瞬間の感動を国内外で伝え続ける紙漉き職人の田村氏。外国人を前に紙漉きを披露する機会も多い彼の「仕事観」を探ります。また、海外での活躍を目指す若者へのメッセージも語っていただきました。\
+      \ \n \n    昨今はメディアを消費するだけでなく、メディアを活用して情報を発信することに価値が生まれています。      東京大学 全学自由研究ゼミナール「メディア創造ワークショップ」\
+      \      では、       大学…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=wEhEYZweD6eE
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田村 正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉田 浩一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安田 直道
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- ict
+keywords:
+- 文化・芸術・文芸
+- AI・情報
+- 伝統文化
+- 職人
+- 働き方
+- 情報技術
+- 食文化
+- 対談・座談会・インタビュー
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

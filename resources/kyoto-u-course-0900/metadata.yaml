@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0900
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/900/
+type:
+- LearningResource
+- Course
+name:
+  ja: ミシェル・ヴィノック講演会：「歴史、政治、思想からみたフランスの肖像」, 2015
+description:
+  ja: フランスを歴史、政治、思想の観点から捉える講演会である。京都大学人間・環境学研究科で2015年10月23日に開講され、ミシェル・ヴィノック、齋藤嘉臣、西山教行が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: ミシェル・ヴィノック
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 齋藤 嘉臣
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西山教行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-10-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

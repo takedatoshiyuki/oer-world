@@ -1,0 +1,79 @@
+slug: kyoto-u-course-0866
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/866/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 公開シンポジウム「東アジア地域における大学入試改革」, 2012
+description:
+  ja: 東アジア地域で進められている大学入試改革を取り上げ、学力試験の成績だけに依拠しない選抜方法に目を向ける。あわせて、そうした改革が導入された背景、実施状況、結果を整理し、大学入試のあり方を考える内容である。
+quotedDescription:
+  text:
+    ja: '概要
+
+      わが国では現在、大学入試のあり方が改めて問われている。わが国と同様、激しい受験競争が存在する東アジア地域でも大学入試改革が進められ、学力試験の成績のみによらない選抜方法が模索、導入されている。そうした先行事例における導入の背景、実施状況、結果などについて理解を深めつつ、望ましい大学入試のあり方を考える。
+
+       
+
+      韓 崇熙 教授（ソウル大学）
+
+      洪 成文 教授（北京師範大学）
+
+      洪 泰雄 主任（国立台湾大学）
+
+      コメンテーター: 南部 広孝 准教授（京都大学大学院教育学研究科）
+
+      司会: 鈴木 晶子 教授（京都大学大学院教育学研究科）'
+  source: https://ocw.kyoto-u.ac.jp/course/866/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 韓 崇熙
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 洪 成文
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 洪 泰雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 南部 広孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 鈴木 晶子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-11-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

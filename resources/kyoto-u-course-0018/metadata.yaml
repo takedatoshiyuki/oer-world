@@ -1,0 +1,111 @@
+slug: kyoto-u-course-0018
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/18/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育課程論Ⅱ
+description:
+  ja: 教育課程論Ⅱのうち、学力評価とカリキュラム設計を扱う4回分の授業内容を公開する。資料には評価方法に加え、中学校社会科や高校の英語科・数学科の実践例が含まれ、評価基準、指導案、年間指導計画も扱う。
+quotedDescription:
+  text:
+    ja: '近年、日本においても、学校において創意工夫を生かした教育課程（カリキュラム）編成を行うことが求められています。教育課程論Ⅱでは、前半で「学力評価とカリキュラム設計」、後半で「教育課程の歴史と論点」を扱います。ここでは、「学力評価とカリキュラム設計」を扱っている4回分の授業内容をオープン・コースウェアとして公開しています。
+
+      ※パフォーマンス評価とポートフォリオ評価法の概要を説明した授業を教育課程論Ⅰサイトに掲載しています。
+
+      ※各回の講義資料をプリントアウトして手元に置きつつ、動画を視聴していただくことをお勧めします。'
+  source: https://ocw.kyoto-u.ac.jp/course/18/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 10月16日講義使用のプレゼンテーション資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 10月23日講義使用のプレゼンテーション資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 10月30日講義使用のプレゼンテーション資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 11月20日講義使用のプレゼンテーション資料 課題B'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 11月20日講義使用のプレゼンテーション資料 課題C'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 11月20日講義使用のプレゼンテーション資料 課題D'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料1　評価方法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料2　中学校社会科の実践例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料3　園部高校①英語科の評価基準'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料3　園部高校②英語科の指導案'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料3　園部高校③英語科の年間指導計画'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料3　園部高校④数学科の評価基準'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料4　評価計画の書式（乙訓）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料5　検討会'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料6　小学校国語科の実践例（読書会）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料7　長期的学力評価計画（中学校社会科）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料8　イギリス鍵スキル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+- name: '講義資料: 資料9　一枚ポートフォリオ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_kyouikukateiron-2_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/18/
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

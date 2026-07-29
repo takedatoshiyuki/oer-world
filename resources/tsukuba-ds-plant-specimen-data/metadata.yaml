@@ -1,0 +1,47 @@
+slug: tsukuba-ds-plant-specimen-data
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/plant_specimen_data/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 植物標本データが伝える生物の進化と危機
+description:
+  ja: 植物標本と国際データベースを手がかりに、生物の進化と危機を読み解く講義である。ミヤマハタザオの適応進化や、日本の植物2339種の分布に対する地球温暖化の影響を例に取り上げる。
+quotedDescription:
+  text:
+    ja: 私達の豊かな暮らしを成り立たせている生物多様性は、あらゆる環境問題の中で最大の危機に直面しています。この講義では生物の進化と危機を、14世紀から博物館などに蓄積されている植物標本と国際データベースから読み解きます。一番目に、モデル植物・シロイヌナズナに最も近縁なミヤマハタザオは、低地と高地で著しく寿命を変えて適応進化していました。二番目に、日本の植物2339種の分布に対し地球温暖化が既に広範な影響を与えていました。生物標本は人類の知的資産であり、生物の進化と危機を私達に伝えてくれます。
+  source: https://ocw.tsukuba.ac.jp/data-science/plant_specimen_data/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 田中 健太
+  affiliation:
+    name: 生命環境系・山岳科学センター
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2021-09-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

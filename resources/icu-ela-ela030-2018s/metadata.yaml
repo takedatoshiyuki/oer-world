@@ -1,0 +1,94 @@
+slug: icu-ela-ela030-2018s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ela/ela030_2018s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'English for Liberal Arts Program(Stream 3): Academic Reading & Writing リベラル'
+description:
+  ja: リベラルアーツ英語プログラム(Stream 3)の中核科目として、学問的テーマに沿ったトピックとリーディングを扱う。多読、論文作成、討論を通して学術英語力を養い、批判的思考能力の修得にも重点を置く。3学期を順に履修する構成である。
+quotedDescription:
+  text:
+    ja: 'Along with Reading and Content Analysis 3, ARW3 is a core course in the ELA Program. By engaging
+      important intellectual issues through core topics and readings, this course develops students’ academic
+      English proficiency in extensive reading, writing, and discussion. Particular emphasis is placed
+      on developing critical thinking skills, a cornerstone for further coursework in the liberal arts.
+      This course is taught over three terms which must be taken in sequence.
+
+      「精読と英文構成法」と共に、リベラルアーツ英語プログラム(Stream 3)の中核となる科目である。学問的テーマに沿って選ばれたトピックの学習を通して、大学課程で要求される英語運用能力（多読・精読、論文作成、討論)の向上と、学習スキルの獲得を図る。基礎的学問能力としての批判的思考能力の修得に重点をおく。1、2、3学期の順に履修すること。
+
+      Contents of Lectures
+
+      3
+
+      Lectures /
+
+      3
+
+      Videos
+
+      Section:3
+
+      D, 3R
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      May 11
+
+      Section:3D
+
+      May 1
+
+      4
+
+      Section:3D
+
+      May 1
+
+      5
+
+      Section:3
+
+      R'
+  source: https://ocw.info.icu.ac.jp/ela/ela030_2018s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 英語教育プログラム
+- 'ELA030 | Stream3 | Update: 2018.06.28'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

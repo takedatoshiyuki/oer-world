@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0494
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/494/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成22年度 京都大学図書館機構 第1回講演会「iPad が図書館を変える？ ～これからの出版、教育、大学図書館～」
+description:
+  ja: iPadの登場を起点に、出版と流通、教育と研究、図書館の3つの観点から変化を扱う講演会である。デジタル時代の進展とその課題を踏まえ、大学図書館の役割や機能について考える内容になっている。
+quotedDescription:
+  text:
+    ja: 'iPadの登場は出版・流通業界に大きな衝撃を与え、電子出版や電子書籍への注目がかつてないほどの高まりを見せています。その影響は大学にも及んでおり、授業や教科書など大学 教育のスタイルにも変化が見えはじめています。
+
+      このような最近の潮流をふまえ、今回の講演会では、iPadに象徴されるデジタル時代の進展とその課題について 3人の方から講演をしていただきます。出版と流通、教育と研究、そして図書館という３つの異なった切り口から、最新の状況についてお話いただき、ひいては大学図書館が果たすべき役割や機能についてともに考える場となることを期待します。
+
+      主催：京都大学図書館機構, 共催：国立大学図書館協会近畿地区協会, 協賛：大学図書館近畿イニシアティブ'
+  source: https://ocw.kyoto-u.ac.jp/course/494/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤井 讓治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 湯浅 俊彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中村 聡史（京都大学情報学研究科 准教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学情報学研究科付属情報教育推進センター 副センター長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 入江 伸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-10-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

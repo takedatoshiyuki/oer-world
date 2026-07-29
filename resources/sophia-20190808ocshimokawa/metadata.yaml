@@ -1,0 +1,46 @@
+slug: sophia-20190808ocshimokawa
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20190808ocshimokawa/
+type:
+- LearningResource
+- Course
+name:
+  ja: 世界の貧困とグローバルな社会
+description:
+  ja: 上智大学の総合グローバル学部総合グローバル学科で2019年度に開講された講義で、担当は下川雅嗣である。講義名から、世界の貧困とグローバルな社会を扱う内容であることが分かる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 下川 雅嗣
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 総合グローバル学部 総合グローバル学科
+  term: 2019年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

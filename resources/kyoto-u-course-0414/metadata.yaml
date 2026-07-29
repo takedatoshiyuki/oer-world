@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0414
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/414/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「界面ダイナミクス」
+description:
+  ja: 京都大学の理学研究科で開講された、太田隆夫による「界面ダイナミクス」の最終講義である。2013-03-15に公開され、日本語で提供されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 太田 隆夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,53 @@
+slug: sophia-20111003fes67900
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111003fes67900/
+type:
+- LearningResource
+- Course
+name:
+  ja: コミュニケーション英文法
+description:
+  ja: 口語英語のコミュニケーションを分析するための基礎を扱う講義である。文の構造を確認したうえで、コミュニケーションの種類に応じた文の形式、典型的な言語行為の表現、連接する発言を捉える枠組みを学ぶ。授業は教材の読解と簡単な英語での質疑応答で進め、毎週リアクション・ペーパーを課す。
+quotedDescription:
+  text:
+    ja: "口語英語におけるコミュニケーションを分析するための基礎を学ぶコースです。 \n 文の構造を概観したあとに、コミュニケーションの種類に従ってどのような要素を組み合わせた文の形式が使用されるか、使用に関する標準的な場合とそうでない場合の区別を見る。コミュニケーションにおける典型的な言語行為を概観して、その表現方法を見る。さらに、連接する発言を図式的に捉える枠組みを学習する。\
+      \ \n 授業は教材を読みながら簡単な英語による質疑応答で進められる。 \n 毎週リアクション・ペーパーが要求される。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111003fes67900/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 石川 彰
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 外国語学部 英語学科
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

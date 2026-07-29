@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0376
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/376/
+type:
+- LearningResource
+- Course
+name:
+  ja: Nutrition and Infection in Global Health
+description:
+  ja: 本講義は、グローバルヘルスの文脈で栄養と感染症の関係を扱う。栄養が感染症へのかかりやすさや病状の転帰にどう関わるかを踏まえ、低・中所得層に向けたエビデンスに基づく栄養介入の設計まで扱う。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Kyoto University School of Public Health (KUSPH) invites you to the special lecture series on “Nutrition
+      and Infection in Global Health” by Professor Sharon Cox, School of Tropical Medicine and Global
+      Health, Nagasaki University & London School of Hygiene & Tropical Medicine. She has a particular
+      interest in understanding how nutrition underlies susceptibility to and outcomes of infectious diseases
+      and the design of evidence based nutrition interventions in low and middle income populations. She
+      is an elected trustee of the Royal Society of Tropical Medicine and Hygiene, UK and a member of
+      the Japanese society of Tropical Medicine.'
+  source: https://ocw.kyoto-u.ac.jp/course/376/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Sharon Cox（Professor
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 食・栄養
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

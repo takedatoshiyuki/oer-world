@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0061
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/61/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第55回 京都大学品川セミナー「放射線に立ち向かう生命のたくましさ」
+description:
+  ja: 生命を、環境要因とのエネルギーのやり取りの中で成り立つものとして捉え、放射線との関係を考える内容である。自然放射線に対する生体の応答を生命のストレス応答として扱い、生命が放射線にどう向き合うかを示す。
+quotedDescription:
+  text:
+    ja: 哲学者が命題とする“私はなに？”という単純な疑問は、最先端の生命科学者が持つ疑問 “生命はなに？”と全く同じものと言えるでしょう。それに対する解答は、“生命はエネルギーそのものである”と答えることができます。エネルギーは、原子を作り、原子は分子を作り、分子は様々な物質を作っており生命もその例からもれません。生命は、地球上に生まれ36億年の間、温度、圧力、放射線といった様々な物理化学的要因に満たされた環境で生き、それらのストレスから切り離されて存在したことはありません。言い換えれば、そうした“環境要因との間でエネルギーのやり取りをする営み自体が生きている”ことにほかなりません。生命は細胞膜で囲まれた極めて狭い空間に宇宙の法則に逆らった自立的な環境を作り出すために様々な進化を遂げてきたのです。従って、自然放射線を生命から切り離すことは不可能であって、その線量域における生体の放射線応答反応は、生命のストレス応答現象そのものであり“生命とはなにか？”に迫る鍵となる生命反応であると考えられます。本シンポジウムでは、生命が放射線に立ち向かうたくましさを備えていることを解説します。
+  source: https://ocw.kyoto-u.ac.jp/course/61/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 渡邉 正己
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小林 純也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-12-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,65 @@
+slug: utokyo-series-ht90kbvlupr9
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Ht90kbvluPr9
+type:
+- LearningResource
+- Course
+name:
+  ja: SCERU Public Seminar
+description:
+  ja: 本教材は、Strategic Communications を政治・地政学的影響の形態として取り上げ、その特徴と位置づけを扱う。説明文では、自由民主主義の価値や個人の自由に基づくことが、この領域の脆弱性につながる点まで踏み込む。
+quotedDescription:
+  text:
+    ja: 'The recent emergence of Strategic Communications as a distinct form of political and geopolitical
+      influence has caught the attention of academics and practitioners alike. Yet its key distinguishing
+      feature––a grounding in liberal democratic values and the fundamental freedoms of the individual––have
+      exposed a number of vulnerabilities.
+
+      From outside it is under attack from authoritarian and tot…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Ht90kbvluPr9
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Neville Bolt
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 青井 千由紀
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- business_law
+keywords:
+- 国際関係
+- 政治・法律
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,70 @@
+slug: kyushu-faculty-09-5
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5.html
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎分光計測学 (2005)
+description:
+  ja: 光と物質との相互作用を軸に、分光計測のための光学を扱う。関連科目で学んだ内容を振り返りながら、分光計測機器についての基礎知識と基礎技術を学ぶ。
+quotedDescription:
+  text:
+    ja: 'この講義は、光と物質との相互作用に主眼をおいた、分光計測のための光学入門です。
+
+      関連授業科目（物理化学II、応用物理学、固体物理学など）で修得した内容を復習しつつ、
+
+      分光計測機器をブラックボックスとせず、必要に応じて改良・開発するための基礎知識、基礎技術について学びます。'
+  source: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5.html
+  note: 九州大学OCW (QOCW) 「授業の概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 原田 明
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 学部・大学院講義
+audience:
+- student
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5.html
+- name: '講義資料: 3.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5/3.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5.html
+- name: '講義資料: 4.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5/4.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/09/5.html
+extensions:
+  faculty: 工学部・工学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

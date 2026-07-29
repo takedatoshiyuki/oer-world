@@ -1,0 +1,128 @@
+slug: utokyo-series-r0q1cae0g8po
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=R0Q1CAe0g8PO
+type:
+- LearningResource
+- Course
+name:
+  ja: 多様性包摂共創センターキックオフシンポジウム「共に創るDEI」
+description:
+  ja: 東京大学多様性包摂共創センター（IncluDE）のキックオフシンポジウムを、第1部と第2部に分けて収録する。第1部ではセンターの活動報告と、東大発のDEIをめぐるパネルディスカッションを扱う。第2部では手話狂言の上演に続いて、舞台裏の話題とIncluDE教員とのディスカッションを収める。
+quotedDescription:
+  text:
+    ja: '東京大学多様性包摂共創センター（IncluDE）キックオフシンポジウム「共に創るDEI」第1部
+
+      2024年4月に設立した東京大学多様性包摂共創センター（通称IncluDE／インクルード）は、2025年9月22日にキックオフシンポジウム「共に創るDEI」を開催しました。下記のようなプログラムで第1部を実施しました。反DEIの風も吹く中、IncluDEはそれにどのように立ち向かうのでしょうか。学内外から向けられる期待が詰まった内容となっております。日本語版は、日本手話通訳と字幕付きとなっております。ぜひご覧ください。
+
+      ◆開会
+
+      　開会挨拶　：伊藤 たかね　東京大学副学長、IncluDEセンター長
+
+      　ご来賓挨拶：　
+
+      　　塩見 みづ枝局長（文部科学省　総合教育政策局長）
+
+      　　岡田 恵子局長（内閣府　男女共同参画局）
+
+      　　野村 知司部長（厚生労働省　障害保健福祉部）
+
+      　IncluDEの活動報告
+
+      ◆パネルディスカッション「今こそ進めよう、東大発DEI」
+
+      　登壇者：
+
+      　　藤井 輝夫（東京大学総長）
+
+      　　菅田 利佳（ピアニスト 令和4年度東京大学総長大賞受賞者）
+
+      　　大井 真理子 （日本人初BBCキャスター）
+
+      　モデレーター
+
+      　　松中 権　（東京大学総長室アドバイザー LGBTQ+社会活動家）
+
+      東京大学多様性包摂共創センター（IncluDE）キックオフシンポジウム「共に創るDEI」第2部
+
+      2024年4月に設立した東京大学多様性包摂共創センター（通称IncluDE／インクルード）は、2025年9月22日にキックオフシンポジウム「共に創るDEI」を開催しました。下記のようなプログラムで第2部を実施しました。第2部では、手話狂言の「六地蔵」の演目の後、なかなか聞く（見る）機会のない手話狂言の舞台裏の話や、IncluDEの教員とのスペシャルディスカッションをご覧いただくことができます。日本語版は、演目を除き、日本手話通訳と字幕付きとなっております。ぜひご覧ください。
+
+      ◆手話狂言（日本ろう者劇団）＋IncluDEスペシャルディスカッション
+
+      ◆ 閉会挨拶　林 香里（東京大学理事・副学長）'
+  source: https://ch.u-tokyo.ac.jp/series/?id=R0Q1CAe0g8PO
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 菅田 利佳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大井 真理子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松中 権
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 たかね
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塩見 みづ枝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡田 恵子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野村 知司
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- arts_humanities
+keywords:
+- 人口・社会問題
+- 文化・芸術・文芸
+- 居場所のデザイン
+- 多様性
+- インクルージョン
+- 手話狂言
+- DEI
+- ダイバーシティ
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 英語話者向け・学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

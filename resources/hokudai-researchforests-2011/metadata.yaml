@@ -1,0 +1,58 @@
+slug: hokudai-researchforests-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/researchforests-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク “超面積”を活かした地球環境の研究と教育（2011）
+description:
+  ja: 北海道大学の研究林を題材に、広大な森林を個別の樹木管理と結びつけて扱う研究の様子を示す。衛星観測と地上実測の比較や、森林を生態系として捉えた機能研究など、地球環境の研究と教育の具体例を取り上げる。
+quotedDescription:
+  text:
+    ja: 'この映像コンテンツは、サステナビリティー・ウイーク2011のオープニング・セレモニー（10月24日）、関連イベントの一つであるGIFT（10月30日）で上映した「“超面積”を活かした地球環境の研究と教育-北海道大学の研究林-」です。北大の持つ研究林は、世界でも類を見ない規模の森林の敷地面積を持ちながらも、木々の1本1本を管理しています。そして、この木々を衛星から観測し、地上での実測データとどの程度誤差が出るのか調査研究しています。他にも、森林を森林生態系としてとらえ、森林の多様な機能について研究を行なうなど、規模の大きさを活かした先端的な研究なども行なわれています。
+
+      世界各国の研究者から注目を集めている研究林を、より多くの研究者に活用していただくために制作され、インターネットなどを通じて世界へ発信されています。'
+  source: https://ocw.hokudai.ac.jp/lecture/researchforests-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- agriculture
+keywords:
+- 研究林
+- 理学／自然科学
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

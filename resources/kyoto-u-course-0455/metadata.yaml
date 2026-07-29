@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0455
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/455/
+type:
+- LearningResource
+- Course
+name:
+  ja: '第66回人環国際交流セミナー “Russian Culture and Science: A Brief Overview”'
+description:
+  ja: ロシア出身でTartu大学に所属するMikhail Brikが、ロシアの文化と科学を広く取り上げる。講演は英語で行われ、専門分野として光学材料における理論化学計算にも触れる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      ブリック先生はロシア出身で、現在エストニアの Tartu 大学で指導されています。専門は光学材料における理論化学計算です。セミナーでは、ロシアの文化や科学について幅広くお話し頂きました。（講演は英語で行われました）'
+  source: https://ocw.kyoto-u.ac.jp/course/455/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Mikhail Brik（エストニア Tartu大学 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学人間・環境学研究科 客員教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-11-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 芸術・文化
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,115 @@
+slug: kyoto-u-course-0718
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/718/
+type:
+- LearningResource
+- Course
+name:
+  ja: GCOE「親密圏と公共圏の再編成をめざすアジア拠点」人口ボーナスとアジアの未来
+description:
+  ja: この講義は、人口ボーナスとアジアの将来をテーマに、人口転換が経済発展や人間開発とどう関わるかを扱う。公開教材には、第1回から第3回までの講義資料があり、各回で人口配当や人口動向、人的資源の移動を取り上げる。英語で実施され、京都大学文学研究科で2009年度に開講された。
+quotedDescription:
+  text:
+    ja: '京都大学グローバルCOEプログラム「親密圏と公共圏の再編成をめざすアジア拠点」
+
+      グローバル化、高齢化など社会の基本条件を揺るがす大きな変動が起きている現代世界では、国家や労働市場などマクロな制度の再編成と、家族や親密な人間関係など私的な領域の変容が同時進行している。本COEではその両端の変化と相互関係に注意を向けながら、とりわけアジアに特徴的な諸問題（超低出生率、急速な高齢化、家族主義的福祉、国際移動の女性化等）の分析と解決をめざしている。
+
+      拠点ページ：http://gcoe-intimacy.bun.kyoto-u.ac.jp/'
+  source: https://ocw.kyoto-u.ac.jp/course/718/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: クア・ウォンブーンシン
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: パチャラワライ・ウォンブーンシン
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 人文科学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: "講義資料: 第1回\tFirst and Second Demographic Dividend"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第2回\tPopulation Trends, Economic and Human Development　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_2-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第2回\tPopulation Trends, Economic and Human Development　資料２"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_2-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第2回\tPopulation Trends, Economic and Human Development　資料３"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_2-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第2回\tPopulation Trends, Economic and Human Development　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_2-4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第2回\tPopulation Trends, Economic and Human Development　資料５"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_2-5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第2回\tPopulation Trends, Economic and Human Development　資料６"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_2-6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第3回\tCapitalizing on Demographic Dividend: Trans-mobility of Human Resources　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_3-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第3回\tCapitalizing on Demographic Dividend: Trans-mobility of Human Resources　資料２"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_3-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第3回\tCapitalizing on Demographic Dividend: Trans-mobility of Human Resources　資料３"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_3-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第3回\tCapitalizing on Demographic Dividend: Trans-mobility of Human Resources　資料４"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_3-4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第3回\tCapitalizing on Demographic Dividend: Trans-mobility of Human Resources　資料５"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_3-5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第4回\tHuman Competence and Dignity Ageing　資料１"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_4-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第4回\tHuman Competence and Dignity Ageing　資料２"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_4-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第4回\tHuman Competence and Dignity Ageing　資料３"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_4-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第4回\tHuman Competence and Dignity Ageing　資料４"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_4-4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+- name: "講義資料: 第4回\tHuman Competence and Dignity Ageing　資料５"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/04/2009_shinmitukentokoukyouken_4-5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/718/
+extensions:
+  faculty: 文学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

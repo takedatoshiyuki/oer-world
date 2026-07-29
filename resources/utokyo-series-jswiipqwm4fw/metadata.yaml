@@ -1,0 +1,55 @@
+slug: utokyo-series-jswiipqwm4fw
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=JsWIiPqWm4FW
+type:
+- LearningResource
+- Course
+name:
+  ja: ネットワーク工学概論
+description:
+  ja: コンピュータネットワークを支える要素技術と全体アーキテクチャを概観する講義である。データ伝送やインターネットプロトコル、WEB技術、セキュリティー、アプリケーション、運用管理、ネットワークビジネスまでを取り上げる。
+quotedDescription:
+  text:
+    ja: コンピュータネットワークを構成する要素技術と全体アーキテクチャに関する概要。データ伝送技術、インターネットプロトコル、WEB技術、セキュリティー技術、アプリケーション、コンピュータネットワークの運用管理、ネットワークビジネスに関する概要を展望する。
+  source: https://ch.u-tokyo.ac.jp/series/?id=JsWIiPqWm4FW
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 江崎 浩
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

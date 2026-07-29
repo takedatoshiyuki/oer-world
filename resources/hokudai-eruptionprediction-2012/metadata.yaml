@@ -1,0 +1,56 @@
+slug: hokudai-eruptionprediction-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/eruptionprediction-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 火山噴火の中長期予測の手法と現状（2012）
+description:
+  ja: 火山活動と噴火の予測を扱い、地震や地殻変動の観測技術の進歩にも触れる。とくに、数10〜数100年先を見すえた中長期予測の手法と、その問題点を扱う。
+quotedDescription:
+  text:
+    ja: 火山研究の目標のひとつは、火山活動および噴火の予測を可能にすることにある。地震や地殻変動の観測技術の進歩によって、現在では噴火前の前兆現象は、ほぼ完璧に捉えられるようになっており、その意味で短期的な噴火予測は可能になってきたと考えられる。しかしながら、数10～数100年先、あるいはより長期の火山活動・噴火活動の予測に関しては、まだまだ問題が多い。この長期予測は噴火災害の軽減に必要なだけではなく、例えば放射性廃棄物の処分場の候補地選定にも不可欠であり、この場合は数万から数10万年の予測が要求される。今セミナーでは、火山活動の数10～数100年間の中長期予測の手法と問題点について紹介する。
+  source: https://ocw.hokudai.ac.jp/lecture/eruptionprediction-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中川 光弘
+  affiliation:
+    name: 北海道大学大学院理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 火山
+- 噴火予測
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院でさがす
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

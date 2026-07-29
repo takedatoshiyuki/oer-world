@@ -1,0 +1,45 @@
+slug: kyoto-u-course-1088
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1088/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「京都大学での15年間の振り返りとデジタル社会の将来ビジョン予測」
+description:
+  ja: 京都大学情報環境機構が提供する、永井靖浩による日本語講義である。講義では、京都大学での15年間を振り返りつつ、デジタル社会の将来ビジョンを扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 永井 靖浩
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-03-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- データサイエンス
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 情報環境機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,56 @@
+slug: utokyo-series-xofeffrdtnaa
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=xofEfFRDtnAa
+type:
+- LearningResource
+- Course
+name:
+  ja: 2023年度ジェンダー・エクイティ研修「誰にでもある思い込みと向き合う」
+description:
+  ja: 2023年度の東京大学によるジェンダー・エクイティ研修のトレーニング動画で、テーマは「誰にでもある思い込み」と向き合うことにある。学内向けの研修・ガイダンスとして提供され、英語題名は“Understanding
+    Our Own Biases”である。
+quotedDescription:
+  text:
+    ja: 'The training video for AY2023 Gender Equity Training: "Understanding Our Own Biases"'
+  source: https://ch.u-tokyo.ac.jp/series/?id=xofEfFRDtnAa
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+keywords:
+- 教育
+- 人口・社会問題
+- ジェンダー
+- ジェンダーバイアス
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

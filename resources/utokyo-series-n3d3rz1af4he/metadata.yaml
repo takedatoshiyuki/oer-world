@@ -1,0 +1,58 @@
+slug: utokyo-series-n3d3rz1af4he
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=N3d3rz1af4He
+type:
+- LearningResource
+- Course
+name:
+  ja: アメリカの国際的経済関与についてスペシャルトークセッション
+description:
+  ja: 米国国務省のキース・クラック氏を招き、藤原帰一教授とともにアメリカの国際的経済関与を論じるトークセッションである。東京大学が2019年に英語で提供し、東大EMPと米国大使館が共催する。
+quotedDescription:
+  text:
+    ja: "米国国務省  国務次官（経済成長・エネルギー・環境担当）のキース・クラック氏をお招きしたトークセッションです。藤原帰一教授（未来ビジョン研究センター長・法学政治学研究科）とともに、アメリカの国際的経済関与について語ります。\n\
+      主催：東京大学\n共催：東大エグゼクティブ・マネジメント・プログラム（東大EMP ） / 米国大使館\n★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。 \nお気に入りの講義・講演…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=N3d3rz1af4He
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: キース・クラック
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原帰一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 対談・座談会・インタビュー
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,49 @@
+slug: kyoto-u-course-1012
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1012/
+type:
+- LearningResource
+- Course
+name:
+  ja: 高校生向けコンテンツ
+description:
+  ja: 京都大学が提供し、2013年度に公開された高校生向けの教材である。公開されている教材ファイルは「OCW高校生向けパンフレット 2013」の1件で、日本語で提供される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+materials:
+- name: '講義資料: OCW高校生向けパンフレット 2013'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/ocw2013brochure-hs.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1012/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

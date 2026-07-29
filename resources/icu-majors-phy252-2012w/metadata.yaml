@@ -1,0 +1,87 @@
+slug: icu-majors-phy252-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/phy252_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: Hot Topics in Physics 最先端の物理学
+description:
+  ja: 物理学と応用物理学の現在活発に研究されている分野を取り上げる講義である。講義では、研究の最前線で何が進んでいるかを紹介する構成になっている。公開教材として講義資料が1件あり、コースの一部の講義映像も公開されている。
+quotedDescription:
+  text:
+    ja: 'This course will introduce students to active areas of research in physics and applied physics.
+      The topics will be introduced in such a way that even those without a strong background in science
+      will be able to gain a glimpse of the what is going on at the forefront of science.
+
+      物理学、応用物理学の様々な分野から、現在活発に研究が行われている分野を紹介する。
+
+      Contents of Lectures
+
+      3
+
+      Lectures  /
+
+      3
+
+      Videos
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      Dec
+
+      13
+
+      Lecture
+
+      3'
+  source: https://ocw.info.icu.ac.jp/majors/phy252_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 岡野 健
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Physics 物理学 | Course ID: PHY25'
+- 'PHY252 | Course Schedule: 1 /TH, 2 /TH | Update: 2014.01.09'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Sly6cokxnWq8mb2v8_78Mhi09lUFC5NJ/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/phy252_2012w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

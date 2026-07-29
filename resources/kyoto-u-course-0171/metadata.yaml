@@ -1,0 +1,90 @@
+slug: kyoto-u-course-0171
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/171/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部オープンセミナー「ひと・社会・工学－工学のいまを知る－」, 2013
+description:
+  ja: 本教材は、京都大学工学部のオープンセミナーとして行われた講演群を収録する。内容は、ビッグデータの検索と分析、高分子材料の機能、巨大地震への備え、都市防災シミュレーションを扱う。工学が情報、材料、防災の各分野で何をテーマにしているかをまとめている。
+quotedDescription:
+  text:
+    ja: '1 開会挨拶
+
+      大津 宏康（工学研究科 教授）
+
+      2 「ビッグデータの検索と分析」
+
+      田中 克己（情報学研究科 教授）
+
+      インターネット上で生成・発信されるデジタル情報などの「ビッグデータ」から必要な情報を見つける検索技術、有用な知見を得るための分析技術について解説します。
+
+      3 「高分子の魅力－新しい構造が生み出す革新機能－」
+
+      辻井 敬亘（化学研究所 教授）
+
+      高分子ナノブラシの魅力ある性質とこれを利用した次世代材料－人類が直面している環境・エネルギー問題を解決する潤滑機能ならびに次世代電池－について紹介します。
+
+      4 「巨大地震に備える」
+
+      荒木 慶一（工学研究科 准教授）
+
+      巨大地震に対する建物の耐震性を高めるための工夫について最新の研究事例を紹介します。
+
+      5 「都市防災シミュレーションの最前線」
+
+      後藤 仁志（工学研究科 教授）
+
+      激甚化する自然災害に対して耐久性の高い都市を創るために有効なシミュレーションについて最先端技術を紹介し、解説します。'
+  source: https://ocw.kyoto-u.ac.jp/course/171/
+  note: 京都大学OCW 「1 開会挨拶」・「大津 宏康（工学研究科 教授）」・「2 「ビッグデータの検索と分析」」・「田中 克己（情報学研究科 教授）」・「辻井 敬亘（化学研究所 教授）」・「4
+    「巨大地震に備える」」・「荒木 慶一（工学研究科 准教授）」・「5 「都市防災シミュレーションの最前線」」・「後藤 仁志（工学研究科 教授）」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 田中 克己
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 辻井 敬亘
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 荒木 慶一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 後藤 仁志
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-07-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

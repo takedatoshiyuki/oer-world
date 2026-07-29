@@ -1,0 +1,74 @@
+slug: utokyo-series-rmwcxx33hf04
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=RMWcxX33hf04
+type:
+- LearningResource
+- Course
+name:
+  ja: SDGsセミナーシリーズ
+description:
+  ja: 都市化によって生じる課題を背景に、アジアの巨大都市であるカラチとマニラ首都圏の住居問題を扱う。都市における住まいの問題を、これら2つの都市を題材に議論する講義である。
+quotedDescription:
+  text:
+    ja: '都市化が進むと、生活の不安定化など様々な課題が生じます。このセミナーでは、アジアの重要な巨大都市カラチとマニラ首都圏における住居に関する問題について議論します。
+
+      ※この講演は英語です。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=RMWcxX33hf04
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Noman Ahmed
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Chester Antonino Arcilla
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Nazia Hussain
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Markus Shultze-Kraft
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Jeffrey Paller
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

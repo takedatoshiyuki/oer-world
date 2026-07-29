@@ -1,0 +1,56 @@
+slug: mdsc-mdsc10
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc10
+type:
+- LearningResource
+- Course
+name:
+  ja: 気象庁過去の気象データ(無料)
+description:
+  ja: 気象に関するデータを地点ごとに扱い、気温、降水量、日照時間、積雪、降雪、風、湿度、気圧、天気などの項目を含む。アメダスなどの気象データを対象とする。
+quotedDescription:
+  text:
+    ja: アメダスなどの気象にまつわるデータ．各地点ごとの気温・降水量・日照時間・積雪・降雪・風・湿度・気圧・天気など。
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc10
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc10
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- agriculture
+keywords:
+- 不動産業-物品賃貸業
+- 卸売業・小売業
+- 宿泊業・飲食サービス業
+- 漁業
+- 農業・林業
+- 運輸業・郵便業
+- 電気・ガス・熱供給・水道業
+- 表形式
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

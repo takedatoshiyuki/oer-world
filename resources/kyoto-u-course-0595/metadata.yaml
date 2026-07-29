@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0595
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/595/
+type:
+- LearningResource
+- Course
+name:
+  ja: 魚類心理学入門
+description:
+  ja: 魚の行動や生態を対象にする「魚類心理学」を、担当教員自身の研究例を軸に扱う講義である。講義資料では、スキューバ潜水、群れ行動、栽培漁業、海の資源、回遊魚の行動学、研究発表に関する内容を取り上げる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      魚の行動や生態を科学する「魚類心理学」という研究分野について，担当教員自身の取り組みを中心にわかりやすく紹介してゆく．'
+  source: https://ocw.kyoto-u.ac.jp/course/595/
+  note: 京都大学OCW 「授業の特色」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 益田 玲爾
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　研究の道具としてのスキューバ潜水（レジュメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/806bfab629c8f9bc06ae11e6bbb01a30.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/595/
+- name: '講義資料: 第2回　群れ行動の発達心理学（レジュメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/409eccaae41fa2f62123df0b03e74b04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/595/
+- name: '講義資料: 第3回　魚類心理学を栽培漁業に活かす（レジュメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6a3b35ac1fe6ffb7a9c555a53a46cefa.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/595/
+- name: '講義資料: 第4回　魚の行動から海の資源の未来を読む（レジュメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/115f51bdd0dc5bb44d7dd5c3b75c8c93.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/595/
+- name: '講義資料: 第5回　回遊魚の行動学（レジュメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/1774ba61c054eec36ec0cc369319fc16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/595/
+- name: '講義資料: 第6回　研究というゲームの楽しみ方＆プレゼンテーションの奥義（レジュメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/1e0083262434627a9f1c918bc5ea8b53.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/595/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,89 @@
+slug: utokyo-series-iqqzrf6aao5h
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=iQqZRf6aAO5H
+type:
+- LearningResource
+- Course
+name:
+  ja: 学際情報学－情報と諸学問の融合（学術俯瞰講義）
+description:
+  ja: 情報技術が社会や諸分野の知的活動に与える影響を、経済・社会・教育・文化・芸術・人間行動・生命などの領域にわたって扱う。基礎科目「情報」で学ぶ概念や方法論を土台に、各分野で情報が知の営みをどう変えてきたかを考える。
+quotedDescription:
+  text:
+    ja: 急速に発展している情報技術は，現代の情報化社会を支える技術的および思想的な基盤として社会全体に大きな影響を与えており，経済，社会，教育，文化・芸術，人間行動，生命等の様々な分野における知的活動を質的に変化させてきた。そのため，これら諸分野における知の営みと情報の関係を正しく理解することは，21世紀に生きる私たちにとって，文系・理系の区別なく必要である。この講義では，全科類生にとって必修である基礎科目「情報」で学ぶ概念や方法論をベースにして，それら概念や方法が，上述の諸分野でどのような影響を与え，知の営みをどのように変化させてきたかを学ぶことで，真の意味での広義の情報リテラシーを幅広く身に付けることを目指している。
+  source: https://ch.u-tokyo.ac.jp/series/?id=iQqZRf6aAO5H
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石田 英敬
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 植田 一博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 林 香里
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鮫島 和行
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐倉 統
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山内 祐平
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤幡 正樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+- social_sciences
+- arts_humanities
+keywords:
+- AI・情報
+- 心理・認知
+- 人口・社会問題
+- 言語・思想
+- 教育
+- 文化・芸術・文芸
+- 情報
+- メディア
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

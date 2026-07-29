@@ -1,0 +1,49 @@
+slug: sophia-20090624renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20090624renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第2回
+description:
+  ja: 上智大学が提供する「ソフィアルネッサンス連続講演会 第2回」の講義資料である。2009年6月24日に公開され、日本語で作成されたPDF資料1件が公開されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 細川 佳代子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20090624renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20090624renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20090624renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2009/06/24
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

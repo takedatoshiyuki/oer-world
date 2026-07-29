@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0893
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/893/
+type:
+- LearningResource
+- Course
+name:
+  ja: ラーニングアナリティクスに関するシンポジウム～教育ビッグデータを用いた教育・学習支援の展開～
+description:
+  ja: デジタル教科書、LMS、eポートフォリオシステムに蓄積される学習ログデータを統合し、教育ビッグデータとして活用する取り組みを扱う。あわせて、ラーニングアナリティクスに関する国内外の研究動向を紹介し、それを支える情報基盤システムのあり方を考える。
+quotedDescription:
+  text:
+    ja: '主催：科研費基盤研究(S), 16H06304
+
+      「教育ビッグデータを用いた教育・学習支援のためのクラウド情報基盤の研究」
+
+      共催：京都大学学術情報メディアセンター
+
+       
+
+      概要
+
+      近年、教育現場では、デジタル教科書や LMS (Learning Management System)、e-ポートフォリオシステム等を利用した、教育の情報化が急速に進んでいます。このような中、これらのシステムに蓄積された学習ログデータを統合し、教育ビッグデータを構築して、教育・学習支援を支援する試みが国内外で活発に行われつつあります。本シンポジウムでは、教育ビッグデータの分析（ラーニングアナリティクス）に関する国内外の最新の研究動向を登壇者の方にご紹介頂き、そのための情報基盤システムのあり方について参加者の皆様と考えたいと思います。多くの皆様のご来場をお待ちしております。'
+  source: https://ocw.kyoto-u.ac.jp/course/893/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

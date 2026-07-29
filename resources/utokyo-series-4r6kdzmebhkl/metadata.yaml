@@ -1,0 +1,65 @@
+slug: utokyo-series-4r6kdzmebhkl
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=4R6kdZMeBHkl
+type:
+- LearningResource
+- Course
+name:
+  ja: 業務改革総長賞表彰式2018
+description:
+  ja: 東京大学が2018年に提供する、学内限定の研修・ガイダンス向け教材である。委託費等収支簿・報告書作成支援ツール プロジェクトや複数の担当者が関わっている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 委託費等収支簿・報告書作成支援ツール プロジェクト
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長島 亮太
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 北海道演習林技術室有志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 寛也
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+- engineering
+- ict
+keywords:
+- 食料・農業・水産業
+- ロボット・技術
+- スマート林業
+- データ活用
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,62 @@
+slug: hokudai-adolescent-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/adolescent-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 私たちの未来とリスク 子ども・若者が直面する「リスク」と 貧困・社会的不利（2012）
+description:
+  ja: 子ども・若者が失敗したときに、それがどのようにリスクへつながるのかを、貧困や社会的不利という観点から考える講義である。試行錯誤と失敗の意味を踏まえつつ、安心して失敗できる仕組みの必要性を扱う。
+quotedDescription:
+  text:
+    ja: '人はさまざまな試行錯誤と失敗から学び、成長します。ですから失敗は、できれば避けたいものであると同時に、歓迎されるべきことかも知れません。これは子ども・若者にとっても同様です。しかし現実には、失敗がリスクに直結する構造があります。この点を貧困・社会的不利という観点からとらえて、「安心して失敗できる仕組み」の大切さを考えてみたいと思います。
+
+      松本　伊智朗
+
+      1959年大阪府堺市生まれ。主な研究テーマは、子どもの貧困と社会的排除に関する研究、要養護児童の社会的自立に関する研究。北海道子どもの虐待防止協会運営委員、日本子ども虐待防止学会評議員、雑誌「貧困研究」「季刊児童養護」「子どもの虐待とネグレクト」の編集委員、NPO法人CAN代表理事などを務める。主な著作に『子どもの貧困―子ども時代のしあわせ平等のために』（共編著、明石書店、2008年）、『子ども虐待と貧困―「忘れられた子ども」のいない社会をめざして』（編著、明石書店、2010年）など。'
+  source: https://ocw.hokudai.ac.jp/lecture/adolescent-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松本 伊智朗
+  affiliation:
+    name: 北海道大学大学院教育学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 子ども
+- 若者
+- 貧困
+- 社会的不利
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

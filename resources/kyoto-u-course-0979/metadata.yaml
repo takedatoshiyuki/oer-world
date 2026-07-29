@@ -1,0 +1,195 @@
+slug: kyoto-u-course-0979
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/979/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地球環境政策論1B：企業と市民社会の対話と協力
+description:
+  ja: 企業トップ、環境NGO、有識者が交代で講義する形式で、環境経営と環境政策を扱う。実社会での環境問題への取り組みを素材に、持続可能な社会の形成を考える構成である。講義後には質疑応答とアンケートを行う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      環境経営・環境政策をテーマに、企業トップ、環境ＮＧＯ、有識者によるリレー講座として実施。全学共通科目であるとともに、公開講座でもある。実社会における環境問題への取り組みを素材とし、持続可能な社会の形成を考えることが本講座の目的。
+
+       
+
+      授業の紹介
+
+      「環境を考える経済人の会（Ｂ−ＬＩＦＥ２１）」のご協力によって、環境経営・環境政策をテーマにして、企業トップ、環境ＮＧＯ、有識者によるリレー講座として実施する。毎回の授業では、各講師それぞれの立場での環境問題への取り組みと、受講生へのメッセージを込めた講義をいただき、その後質疑応答を行う。毎回の講義の後には、受講生に対し講義の感想、質問、意見などのアンケートを実施する。実社会の第一線における環境問題への取り組みを素材として持続可能な社会の形成を考えることが本講座の目的である。'
+  source: https://ocw.kyoto-u.ac.jp/course/979/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小林 陽太郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岡部 敬一郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 福地 茂雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 栗和田 榮一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: すぎ本 育生
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 加藤 尚武
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 藤村 宏幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岡田 卓也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005-10-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: ポスター（表面）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_2.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: '講義資料: ポスター（裏面）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_3.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第1回\t三橋　規宏「地球限界時代の企業経営」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第1回\t三橋　規宏 「地球限界時代の企業経営」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第1回\t三橋　規宏 「地球限界時代の企業経営」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第2回\t岡部敬一郎「化石燃料と環境」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第2回\t岡部敬一郎「化石燃料と環境」（資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第3回\t福地 茂雄「アサヒビールの環境経営」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第3回\t福地 茂雄「アサヒビールの環境経営」（配布資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第3回\t福地 茂雄「アサヒビールの環境経営」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第3回\t福地 茂雄「アサヒビールの環境経営」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第4回\t栗和田　榮一「佐川急便の環境戦略〜交通分野における企業の社会的責任（ＣＳＲ）」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第4回\t栗和田　榮一「佐川急便の環境戦略〜交通分野における企業の社会的責任（ＣＳＲ）」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第4回\t栗和田　榮一「佐川急便の環境戦略〜交通分野における企業の社会的責任（ＣＳＲ）」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第5回\t杉本 育生 「持続可能な社会をめざして NGOと企業のパートナーシップの可能性」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第5回\t杉本 育生 「持続可能な社会をめざして NGOと企業のパートナーシップの可能性」（資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第6回\t加藤 尚武「環境倫理学の現在」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第6回\t加藤 尚武「環境倫理学の現在」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第6回\t加藤 尚武「環境倫理学の現在」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第7回\t藤村宏幸「バイオマスを資源とする新しい社会創り」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第7回\t藤村宏幸「バイオマスを資源とする新しい社会創り」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第7回\t藤村宏幸「バイオマスを資源とする新しい社会創り」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第8回\t岡田 卓也「イオンの社会貢献活動」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第8回\t岡田 卓也「イオンの社会貢献活動」（資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_25.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第9回\t佐和隆光「地球温暖化対策の経済評価」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_26.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第9回\t佐和隆光「地球温暖化対策の経済評価」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_27.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第9回\t佐和隆光「地球温暖化対策の経済評価」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_28.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第10回\t北村 必勝 「揖保事業の視点から環境経営を考える」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_29.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第10回\t北村 必勝 「揖保事業の視点から環境経営を考える」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_30.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第10回\t北村 必勝 「揖保事業の視点から環境経営を考える」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_31.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第11回\t新田 恭子 「チャリティシップと国際協力」（概要）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_32.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第11回\t新田 恭子 「チャリティシップと国際協力」（資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_33.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第12回\t三橋規宏、一方井誠治、松下和夫「企業と市民社会の対話と協力（まとめと討論）」（資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_34.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+- name: "講義資料: 第12回\t三橋規宏、一方井誠治、松下和夫「企業と市民社会の対話と協力（まとめと討論）」（資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2005_chikyukankyouseisakuron1B_35.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/979/
+extensions:
+  faculty: 全学共通科目
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

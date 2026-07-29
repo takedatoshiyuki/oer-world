@@ -1,0 +1,149 @@
+slug: kyoto-u-course-0450
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/450/
+type:
+- LearningResource
+- Course
+name:
+  ja: 熱帯農業生態学
+description:
+  ja: 熱帯農業生態学を扱う京都大学の講義資料で、2011年に農学部で開講された。公開資料には、熱帯の気候、土壌、作物に関する回が含まれ、第1回から第5回までの講義資料がそろっている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 縄田 栄治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+- natural_sciences_math
+keywords:
+- 農学
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_01-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第1回 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_01-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第2回 熱帯の気候 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_02-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第2回 熱帯の気候 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_02-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第2回 熱帯の気候 3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_02-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第2回 熱帯の気候 4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_02-4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第3回 熱帯の土壌 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_03-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第3回 熱帯の土壌 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_03-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第4回 熱帯の作物 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_04-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第4回 熱帯の作物 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_04-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第5回 熱帯の作物 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_05-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第5回 熱帯の作物 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_05-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第6回 熱帯の作物 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_06-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第6回 熱帯の作物 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_06-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第7回 熱帯の作物 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_07-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第7回 熱帯の作物 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_07-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第8回 熱帯の作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第9回 熱帯の作物 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_09-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第9回 熱帯の作物 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_09-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第9回 熱帯の作物 3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_09-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第10回 熱帯の土地利用と営農・作付体系 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_10-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第10回 熱帯の土地利用と営農・作付体系 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_10-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第10回 熱帯の土地利用と営農・作付体系 3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_10-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第11回 熱帯の土地利用と営農・作付体系 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_11-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第11回 熱帯の土地利用と営農・作付体系 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_11-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第11回 熱帯の土地利用と営農・作付体系 3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_11-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第12回 熱帯の土地利用と営農・作付体系 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_12-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第12回 熱帯の土地利用と営農・作付体系 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_12-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第12回 熱帯の土地利用と営農・作付体系 3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_12-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第12回 熱帯の土地利用と営農・作付体系 4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_12-4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第12回 熱帯の土地利用と営農・作付体系 5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_12-5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+- name: '講義資料: 第12回 熱帯の土地利用と営農・作付体系 6'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nettainougyouseitaigaku_12-6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/450/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

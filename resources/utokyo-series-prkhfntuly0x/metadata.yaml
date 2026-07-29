@@ -1,0 +1,62 @@
+slug: utokyo-series-prkhfntuly0x
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=PrkHFNtuLY0X
+type:
+- LearningResource
+- Course
+name:
+  ja: ノーベル化学賞受賞 根岸英一博士講演会
+description:
+  ja: 東京大学の工学部応用化学科の卒業生である根岸英一博士を取り上げた公開講演会である。工学部・工学系研究科出身者として初めてノーベル化学賞を受賞したことを記念して開催された内容を扱う。
+quotedDescription:
+  text:
+    ja: 本学工学部応用化学科（現在の工学部化学・生命系三学科）卒業の根岸英一博士が、工学部・工学系研究科出身者として初めてノーベル化学賞を受賞されることを記念して、公開講演会が開催されました。
+  source: https://ch.u-tokyo.ac.jp/series/?id=PrkHFNtuLY0X
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 根岸 英一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- natural_sciences_math
+keywords:
+- ロボット・技術
+- エネルギー・資源
+- 'The Pinnacle of Intellect: Masterclasses by Nobel Laureates'
+- 化学
+- ノーベル賞
+- 研究
+- キャリア
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

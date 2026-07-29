@@ -1,0 +1,61 @@
+slug: utokyo-series-wy01tv87xh5o
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Wy01Tv87Xh5O
+type:
+- LearningResource
+- Course
+name:
+  ja: 濱田純一東京大学総長・緒方貞子JICA理事長公開対談
+description:
+  ja: 東京大学とJICAの連携協定締結を記念して行われた、濱田純一と緒方貞子による公開対談を収録する。対談は、国際協力事業や国際貢献、学術研究・教育の発展に関わる協定締結の流れの中で実施されている。
+quotedDescription:
+  text:
+    ja: 10月18日（月）10時から、東京大学と国際協力機構（JICA）は、開発途上地域への国際協力事業の質の向上及び国際貢献、学術研究及び教育の発展に寄与することを目的に、小柴ホールにおいて調印式を行い、連携協定を締結しました。
+      また、調印式に引き続き、同ホールにおいて、本連携協定の締結を記念して、濱田総長と緒方理事長の公開対談が開催されました。公開対談には、東京大学の学生約160人が出席し、後半の質疑応答では、出…
+  source: https://ch.u-tokyo.ac.jp/series/?id=Wy01Tv87Xh5O
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 濱田 純一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 緒方貞子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+keywords:
+- 教育
+- 国際関係
+- グローバル人材
+- 国際社会
+- 対談・座談会・インタビュー
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

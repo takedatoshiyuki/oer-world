@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0473
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/473/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回 iCeMSラーニングラウンジ：佐藤 綾 + 廣理 英基
+description:
+  ja: この講義は、若手研究者2名が英語で自身の研究を紹介する形式で進む。佐藤綾はDNAが子どもへ受け継がれる仕組みを、廣理英基は暗闇での視覚や赤外線感知、レーザー光装置による観測の広がりを扱う。いずれも研究の内容を、身近な現象や社会的な文脈と結びつけて説明する構成である。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      佐藤 綾 さん
+
+      「DNAはどうやってこどもたちに受けつがれるの？」
+
+      体内で精子や卵子が作られるとき、わたしたちのDNAの半分だけが精細胞や卵細胞に組み込まれます。DNA分子はどうやって、こんなにも精密にコントロールされるのでしょう。細胞分裂の中で、DNAがどのように操作されることで、あなたの遺伝情報がこどもたちに渡されていくのかについてお話します。
+
+       
+
+      廣理 英基 さん
+
+      「見えない世界」を「見える世界」に
+
+      人間の目は明るい太陽の下ではよく見え、色鮮やかな山並みから細かいホコリまでとらえることができますが、夜の暗闇の中で視覚はほとんど役に立ちません。ところが、動物の中にはヘビなどのように、獲物が発する赤外線を感知して暗闇の中で狩りをするものがいます。人類もまた、太陽が見せてくれる世界の外側を見るための研究を重ねてきました。レーザー光装置の発展がもたらす新たな「見える世界」に迫ります。'
+  source: https://ocw.kyoto-u.ac.jp/course/473/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐藤 綾 さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 廣理 英基 さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-10-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

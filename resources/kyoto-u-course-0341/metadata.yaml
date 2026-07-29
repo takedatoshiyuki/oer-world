@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0341
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/341/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2013年度 京都大学新任教員教育セミナー
+description:
+  ja: 京都大学の教育改善やFD、学生の学習実態、教養・共通教育、教育の国際化、ICTを用いた教育支援など、新任教員が知っておくべき学内の教育関連事項を扱う。あわせて、教育サポートリソースの案内と、教員自身の授業実践を扱う講義が含まれる。開会挨拶と複数のミニ講義で構成される。
+quotedDescription:
+  text:
+    ja: '1 開会挨拶：松本 紘（京都大学総長）
+
+      セッション１　ミニ講義１：｢京都大学のFD・教育改善｣
+
+      2 FD研究検討委員会委員長　宮川 恒
+
+      セッション２　ミニ講義２：「京大生の学習の実態」
+
+      3 高等教育開発推進センター准教授　溝上 慎一
+
+      ミニ講義３：「京大の教育的取組」
+
+      4 「教養・共通教育」
+
+      国際高等教育院教育院長　北野 正雄
+
+      5 「京大の教育の国際化戦略」
+
+      国際交流推進機構長　森 純一
+
+      6 「ICT利用による教育支援」
+
+      高等教育研究開発推進センター教授　飯吉 透
+
+      7 「京都大学の教育サポートリソース」
+
+      高等教育研究開発推進センター助教　田中 一孝
+
+      ミニ講義４：「私の授業」
+
+      8 人間・環境学研究科教授　鎌田 浩毅'
+  source: https://ocw.kyoto-u.ac.jp/course/341/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0248
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/248/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第6回「京大おもろトーク：アートな京大を目指して」〜矛盾をはらんだ創造
+description:
+  ja: 京都という土地の歴史と文化、そこにアートが果たす役割、さらに京都大学がアートの発想を取り入れて変わろうとする試みを扱う講義である。公開資料はディスカッションの書き起こしで、第6回のテーマとして「矛盾をはらんだ創造」を掲げている。
+quotedDescription:
+  text:
+    ja: 長い歴史と文化を持つ京都は、同時に常に最先端の動きを取り入れてきた町でもあります。アートはその伝統とモダンをつなぎ、新しい動きを創る力を持っています。いま京都大学はアートの発想を取り入れて、新しく生まれ変わろうとしています。京大おもろトークに参加して、その試みを目撃してみませんか？
+      第6回目のテーマは、「矛盾をはらんだ創造」です。
+  source: https://ocw.kyoto-u.ac.jp/course/248/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 高橋 剣
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北野 貴章
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 富田 直秀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 土佐 尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: ディスカッション書き起こし'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/10/2016_omorotalk6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/248/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

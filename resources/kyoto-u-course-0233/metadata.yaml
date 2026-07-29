@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0233
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/233/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第2回「意図した断絶と意図せざる継承についてー1945年の台湾と朝鮮における学校文書から」
+description:
+  ja: 1945年の台湾と朝鮮を対象に、学校文書の一つである『学校沿革誌』を手がかりに、学校教育が「解放」や「脱植民地化」とともにどう変化したかを扱う講演である。日本統治期に作成された沿革誌を取り上げ、1945年後半を画期とする変化に注目する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      8月28日（金）、教育学研究科グローバル教育展開オフィス主催　2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』をテーマにZOOM講演会を開催いたしました。
+
+      第二回目となる今回は、人間文化研究機構国立歴史民俗博物館　樋浦　郷子先生により「意図した断絶と意図せざる継承についてー１９４５年の台湾と朝鮮における学校文書から」Intended Break
+      and Unexpected Continuation: School Documents in/after Japan’s Colonial Rule をテーマにご講演いただきました。司会進行はオフィス長
+      教授 高山敬太先生が務め、日・同英時通訳も入りました。当日は学内外から多くの参加があり、活発な質疑応答が行われました。
+
+      要旨
+
+      台湾や朝鮮の学校は、１９４５年に「解放」に至ったわけですが、学校教育はどのように「解放」「脱植民地化」されていったのでしょうか。本講演では、学校文書のなかでも、『学校沿革誌』に注目してお話します。日本の植民地であった台湾や朝鮮の学校でも、日本内地と同様に沿革誌の作成がなされていました。日本統治期には必置の文書であり、日本語で書き綴られた学校沿革誌のなかには、現在の台湾や韓国で保存されているものも多くあります。
+      １９４５年の後半を画期に、学校沿革誌はどのように変化していくのか、ということを中心にお話ししたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/233/
+  note: 京都大学OCW 「概要」・「要旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 樋浦 郷子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-08-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0251
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/251/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第104回 京都大学丸の内セミナー「重力波天体からのガンマ線バースト」
+description:
+  ja: 重力波の直接検出から、中性子星合体に伴う重力波とガンマ線バーストの同時観測までを扱う。これらの観測が示した天体現象と、その解釈をめぐる議論を取り上げ、重力波研究の進展と今後の見通しを述べる。
+quotedDescription:
+  text:
+    ja: 'アインシュタインが一般相対性理論を提唱して100年目の2015年9月14日に重力波が直接検出されました。２つのブラックホールの合体という宇宙の全く新しい姿が明らかになってきたのです。宇宙はブラックホールだらけということがはっきりしてきました。
+      また、2017年8月17日には２つの中性子星の合体からの重力波も発見され、同時にガンマ線バーストなど、あらゆる波長の電磁波で対応天体も発見されました。まさに本格的なマルチメッセンジャー（多粒子天文学）時代の到来を告げる歴史的イベントになりました。観測されたガンマ線バーストは、これまで知られているものより何桁も暗く、ガンマ線バーストの正体が中性子星の合体だという４０年来の仮説が本当に証明されたのかどうか、激しい議論が巻き起こっています。我々は、通常のジェットを横から見ているというオフ・アクシスモデルを提唱しましたが、最近それをサポートする観測が見つかってきています。
+
+      　本セミナーでは、重力波の発見から始まった怒涛の発展と興奮を将来展望も含めてお伝えできればと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/251/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 井岡 邦仁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-03-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

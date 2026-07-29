@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0412
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/412/
+type:
+- LearningResource
+- Course
+name:
+  ja: 未来創成学国際研究ユニットセミナー（第8回）「進化の過程における人間の思考と言語の発達」
+description:
+  ja: 人間の言語の起源と、ホモ・サピエンスにおける思考の発達を扱う。遺伝子、言語、壁画を手がかりに、道具や武器、美術が同時に発達した時期の出来事を考える。
+quotedDescription:
+  text:
+    ja: '要旨
+
+      人間の言語は10万年ほど前に現れたと言われている。ネアンデルタール人よりもはるかに高度な思考がホモ・サピエンスに芽生え、優れた道具、武器、美術などが同時に発達した。本発表では、この時期に一体何があったのかを遺伝子、言語、壁画などをもとに考える。'
+  source: https://ocw.kyoto-u.ac.jp/course/412/
+  note: 京都大学OCW 「要旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 宮川 繁（マサチューセッツ工科大学 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 東京大学 教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-07-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

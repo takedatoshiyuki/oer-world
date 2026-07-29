@@ -1,0 +1,59 @@
+slug: hokudai-wakayamaforest-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/wakayamaforest-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究教育資料 北海道大学 和歌山研究林紹介（2013）
+description:
+  ja: 北海道大学和歌山研究林本館を取り上げ、その建物の外観と内部を映像で紹介する。1927年に建てられた洋風木造建造物であることや、和歌山研究林の成り立ちが示されるほか、揚妻林長による内部案内も含まれる。
+quotedDescription:
+  text:
+    ja: '和歌山県古座川町平井地区にある登録有形文化財（建造物）「北海道大学和歌山研究林本館」の紹介映像。研究林本館は1927年に建てられた洋風の木造建造物で、北大研究林の歴史を残しています。
+
+      北海道大学の研究林は国内7カ所にあり、和歌山県以外の研究林はすべて北海道にある。和歌山研究林は北海道帝国大学時代の1925年に開設された。北大研究林で戦前に建てられた建造物を現在も利用しているのは和歌山研究林のみです。この映像は、和歌山研究林本館の内部を揚妻林長に案内し、建物内の魅力を語ります。'
+  source: https://ocw.hokudai.ac.jp/lecture/wakayamaforest-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 揚妻 直樹
+  affiliation:
+    name: 北海道大学北方生物圏フィールド科学センター
+- type: Person
+  name: 藤田 良治
+  affiliation:
+    name: 北海道大学高等教育推進機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- student
+extensions:
+  faculty: 北方生物圏フィールド科学センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

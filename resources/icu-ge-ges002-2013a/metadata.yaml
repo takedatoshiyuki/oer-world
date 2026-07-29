@@ -1,0 +1,111 @@
+slug: icu-ge-ges002-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges002_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Capitalism and Society Ｓ１: 資本主義と社会'
+description:
+  ja: 貨幣を起点に、共同体・交換・市場・利潤との関係を古代から現代まで追う講義である。あわせて、資本主義社会の特徴やその変化、さらに貨幣・法・言語の関係も扱う。最後に、人文社会科学を自然科学や生命科学とは異なる対象を扱う学問として捉え直す。
+quotedDescription:
+  text:
+    ja: 'The subject of this course is “money”, not in the sense of making money but in the sense of asking
+      what money is. Money plays a central role in capitalist society we now live in. But it is surprisingly
+      elusive to define. This course traces the history of thoughts on money and its relations with community,
+      exchanges, markets, and profits since ancient times to the present. Indeed, money is the simplest
+      social entity that mediates human intercourses, and the study of money is the best introduction
+      to the study of more complex social entities such as rights, power, and language. The ultimate purpose
+      of this course is to present humanities and social sciences, i.e., Human Sciences, as “sciences”
+      of these social entities, distinct from natural sciences and biological sciences that deal with
+      physical matters and life substance.
+
+      「貨幣とは何か」を考察する。貨幣は、資本主義社会で中心的な役割を果たしているが、貨幣とは何かを定義するのは容易ではない。太古から現在まで、人々が貨幣について、そして共同体や交換や市場や利潤についてどのように思考してきたかをたどり、資本主義社会とは、一体どういう社会であるのか、それ以前の社会とどう違うのか、これからどう変化していくのかを明らかにする。さらに、貨幣とは何かという問いと、法とは何か、言語とは何かという問いとの関連性を示し、貨幣や法や言語をその分析対象とする人文社会科学とは、自然科学や生命科学と異なったもう一つの「科学」であることを示す。
+
+      Contents of Lectures
+
+      9
+
+      Lectures / 2 Videos
+
+      Sep 10
+
+      ０．始めに：貨幣とは何か？（１）
+
+      インドヨーロッパ語族とバンベニスト
+
+      Slide
+
+      Sep 1
+
+      2
+
+      ０．始めに：貨幣とは何か？（１）
+
+      貨幣法言語と社会
+
+      Slide
+
+      １．貨幣以前の社会について：マルセル・モース
+
+      ２．贈与交換経済から資本主義社会へ：中世とは何か？
+
+      ３．ポリス（都市国家）と貨幣：アリストテレス
+
+      ４．貨幣とは何か（２）
+
+      ５．資本主義とは何か？
+
+      ６．資本主義の諸問題
+
+      ７．終わりに：貨幣・法・言語と「人間」'
+  source: https://ocw.info.icu.ac.jp/ge/ges002_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 岩井克人
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES002 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2013.11.27'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1y9H8BRRCksosZtTkpKw2YhaxFiqN7BC_/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges002_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10wh3XogWJ1H7Gahph9HvUN2HmYIORLJ-/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges002_2013a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

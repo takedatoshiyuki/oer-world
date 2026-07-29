@@ -1,0 +1,55 @@
+slug: hokudai-bogusembassy-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/bogusembassy-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文学カフェ 渡る使節はニセばかり（2010）
+description:
+  ja: 中世室町時代に日本から朝鮮へ送られた使節を取り上げ、その正体と派遣の実態を検討する講義である。足利将軍家や有力大名の使節とされた人物をめぐり、日朝外交・通商の史実に迫る内容である。
+quotedDescription:
+  text:
+    ja: 時は中世室町時代、日本からは多くの外交使節が朝鮮を訪問していました。彼らを遣わしたのは、時の権力者足利将軍家や西国の有力大名たち。使節たちは「日本国王使」、「王城大臣使」と呼ばれ、朝鮮との外交・通商にあたっていました。ところが彼らの多くは、本当は足利将軍家の使節でも有力大名の使節でもなかったのです。日朝間を股にかけ華々しく外交や通商を担った謎の使節団、彼らの正体はいったい何者だったのでしょうか？今回の話し手、橋本雄さんは中世日朝外交史研究家として、朝鮮に遣わされた使節の真偽問題を正面から検討し、中世対朝鮮外交の真相を明らかにしました。はるか中世の昔、玄界灘をかけ巡った遣朝鮮使節たちのミステリアスな歴史的伝奇物語。今回の人文学カフェは、橋本さんとともにこの遣朝鮮使節団をめぐる知られざる史実に迫ります。
+  source: https://ocw.hokudai.ac.jp/lecture/bogusembassy-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 橋本 雄
+  affiliation:
+    name: 文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 室町時代
+- 使節
+- 朝鮮
+- 歴史／民俗
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

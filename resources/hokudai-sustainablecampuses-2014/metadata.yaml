@@ -1,0 +1,88 @@
+slug: hokudai-sustainablecampuses-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sustainablecampuses-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク サステイナブルキャンパス 国際シンポジウム（2014）
+description:
+  ja: サステナビリティ・ウィークの一環として実施される国際シンポジウムで、2014年はサステイナブルキャンパスの思想と実践をテーマに据える。講演では、サステイナブルキャンパスの必要性や諸外国における大学と地域の関係を扱い、その後のパネルディスカッションで北海道大学における地域連携とキャンパスの活用の可能性を議論する。
+quotedDescription:
+  text:
+    ja: サステナビリティ・ウィークの一環として行われるサステイナブルキャンパス国際シンポジウムは2011年から始まり、今回で4回目を迎えます。昨年のシンポジウムでは、「地域と連携したサステイナブルキャンパスの構築」をテーマに、大学キャンパスの役割を地域計画の中でどう位置づけるかが一貫して主題となり、特に本学札幌キャンパスは市街中心部において他との明解な境界を持つにも関わらず、市民、観光客との相互作用が起きやすい環境にあるとの指摘から、その“浸透膜”のような柔らかい境界を活かしたキャンパスづくりを目指すべきであるとの意見で議論が締めくくられました。これを踏まえ、今回は「サステイナブルキャンパス構築のための思想と実践―
+      大学にとって地域とは―」をテーマに、なぜサステイナブルキャンパスが必要なのか、諸外国において、大学の地域連携はサステイナブルキャンパス構築の文脈の中でどのように位置づけられているのか、といった思想的・実践的話題について講演を行います。さらにその後のパネルディスカッションでは、北大にとっての「地域」を想起しながら、地域連携のためにキャンパスがどのように活用されうるか、その可能性を議論します。
+  source: https://ocw.hokudai.ac.jp/lecture/sustainablecampuses-2014
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 森 政之
+  affiliation:
+    name: 文部科学省
+- type: Person
+  name: 生島 典明
+  affiliation:
+    name: 札幌市
+- type: Person
+  name: 吉見 宏
+  affiliation:
+    name: 北海道大学大学院経済学研究科
+- type: Person
+  name: 小篠 隆生
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 植田 和弘
+  affiliation:
+    name: 京都大学大学院経済学研究科
+- type: Person
+  name: アリアネ・ケニッグ
+  affiliation:
+    name: ルクセンブルク大学サステイナブルデベロップメントセンター
+- type: Person
+  name: 小澤 丈夫
+  affiliation:
+    name: 北海道大学大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+- engineering
+- generic
+keywords:
+- サステナブルキャンパス
+- 市民・観光客との相互作用
+- 浸透膜
+- 大学の地域連携
+- 思想的・実践的話題
+- ビジネス／経済
+- 工学／情報
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

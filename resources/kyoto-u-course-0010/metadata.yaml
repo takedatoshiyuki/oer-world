@@ -1,0 +1,110 @@
+slug: kyoto-u-course-0010
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/10/
+type:
+- LearningResource
+- Course
+name:
+  ja: シミュレーション概論
+description:
+  ja: この講義は、数値計算の基礎をプログラミング実習を通して扱う。公開教材には、計算機環境の基本操作から、誤差、方程式の数値解法、数値積分、常微分方程式、連立一次方程式、偏微分方程式までの資料が含まれる。
+quotedDescription:
+  text:
+    ja: 本講義では数値計算の基礎をプログラミング実習を通して学ぶ事を 目的としている。使用言語はFortran 90或はCを用いる。
+  source: https://ocw.kyoto-u.ac.jp/course/10/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 早川 尚男
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '1999'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 事始め、Unix, Mule,メール、WWW、Cの基本'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 計算機の誤差、丸め誤差、情報落ち、桁落ち'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 方程式の根、２分法、ニュートン法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 数値積分、台形公式、シンプソン公式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 常微分方程式、微分と差分、オイラー法、ルンゲ・クッタ法、 RK法の収束について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: RK法の収束について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 常微分方程式のシンプレクティック解法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 連立一次方程式：ガウスの消去法、LU分解法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 偏微分方程式１：放物型方程式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 偏微分方程式２：双曲型方程式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: 偏微分方程式３：楕円型方程式、サブルーチンについて'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: サブルーチンについて'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: レポート第1回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_report1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: レポート第1回 解答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/1999/04/1999_introduction-to-simulation_report1_rep.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: レポート第2回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_report2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: レポート第2回 解答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/1999/04/1999_introduction-to-simulation_report2_rep.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: レポート第3回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/1999_introduction-to-simulation_report3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+- name: '講義資料: レポート第3回 解答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/1999/04/1999_introduction-to-simulation_report3_rep.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/10/
+extensions:
+  faculty: 総合人間学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

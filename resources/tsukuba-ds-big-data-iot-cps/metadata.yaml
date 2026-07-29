@@ -1,0 +1,48 @@
+slug: tsukuba-ds-big-data-iot-cps
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/big_data_iot_cps/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 高度なデータの管理と活用：ビッグデータとIoT／CPS
+description:
+  ja: 大量のデータを集めて分析し、知見の発見や社会・組織・業務の改善につなげるビッグデータの考え方を扱う講義である。あわせて、IoTやCPSをビッグデータ分析を支える情報システムとして位置づけ、その概要や関連する問題点まで解説する。
+quotedDescription:
+  text:
+    ja: 大量のデータを収集・分析することで、これまでにない新たな知見や知識を発見し、社会・組織・業務を改善するビッグデータの手法が広く用いられている。また、ビッグデータ分析を実現する情報システムとしてIoT（Internet
+      of Things）やCPS（Cyber-Physical System）が注目されている。本講義では、ビッグデータやIoT / CPSについて概要を述べるとともに、それらを支える情報システム、また、ビッグデータ活用における問題点について解説する。
+  source: https://ocw.tsukuba.ac.jp/data-science/big_data_iot_cps/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 天笠 俊之
+  affiliation:
+    name: 筑波大学 計算科学研究センター ／ 人工知能科学センター
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2024-09-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

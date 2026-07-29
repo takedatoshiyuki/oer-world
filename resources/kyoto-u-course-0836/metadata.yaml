@@ -1,0 +1,42 @@
+slug: kyoto-u-course-0836
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/836/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回サービス・イノベーション国際シンポジウム「日本の高品質サービス－和のかたち・和のこころ－」
+description:
+  ja: 京都大学の経営管理大学院が担当する、日本語で行われた第4回サービス・イノベーション国際シンポジウムである。題目は「日本の高品質サービス－和のかたち・和のこころ－」で、2011-11-19に開講されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-11-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 経営学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 経営管理大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

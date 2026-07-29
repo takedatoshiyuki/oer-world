@@ -1,0 +1,72 @@
+slug: hokudai-international-nuclear-science-olympiad
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/international-nuclear-science-olympiad
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「国際原子力科学オリンピック（INSO）挑戦用講義」
+description:
+  ja: 国際原子力科学オリンピック（INSO）への挑戦を意識した講義で、放射線が人体に及ぼす影響や原子力の歴史、放射線物理の基礎と応用を扱う。あわせて、放射線の医療分野での利用や放射線とノーベル賞にも触れる。
+quotedDescription:
+  text:
+    ja: "国際原子力科学オリンピック（INSO）挑戦用講義\n \n放射線が人体に及ぼす影響（入門編）（角山 雄一・京都大学 環境安全保健機構 放射線管理部門）CC BY-NC\n \n原子力の負の歴史を乗り越えて（岩井\
+      \ 敏・東京大学）制限資料\n \n放射線物理の基礎と応用（上蓑 義朋・公益社団法人 日本アイソトープ協会）★準備中\n \n放射線の医療分野での利用（藤井 博史・公益社団法人 日本アイソトープ協会）★準備中\n\
+      \ \n放射線とノーベル賞（川合 將義・高エネルギー加速器研究機構 名誉教授）★準備中"
+  source: https://ocw.hokudai.ac.jp/lecture/international-nuclear-science-olympiad
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 角山 雄一
+  affiliation:
+    name: 京都大学 環境安全保健機構 放射線管理部門
+- type: Person
+  name: 岩井 敏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 上蓑 義朋
+  affiliation:
+    name: 公益社団法人 日本アイソトープ協会
+- type: Person
+  name: 藤井 博史
+  affiliation:
+    name: 公益社団法人 日本アイソトープ協会
+- type: Person
+  name: 川合 將義
+  affiliation:
+    name: 高エネルギー加速器研究機構 名誉教授
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 国際原子力科学オリンピック（INSO）
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

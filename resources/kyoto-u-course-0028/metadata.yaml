@@ -1,0 +1,79 @@
+slug: kyoto-u-course-0028
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/28/
+type:
+- LearningResource
+- Course
+name:
+  ja: 欧米経済史
+description:
+  ja: 19世紀から20世紀にかけての欧米経済史を、帝国と覇権、国際金本位制、大恐慌、戦間期の政策対応、戦後の国際通貨体制、ニクソン・ショックやプラザ合意までの流れに沿って扱う講義である。公開されている教材は、各論点ごとの講義資料として10件まとまっている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 本講義の課題と視角－帝国と覇権'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: パクス・ブリタニカの構造'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: 国際金本位制'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: 大恐慌'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: イギリス宥和政策とスターリング・ブロック'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: ナチス経済体制'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: ニューディール経済'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: ブレトン・ウッズ構想の試練'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: ニクソン・ショック'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_oubeikeizaishi_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+- name: '講義資料: プラザ合意とマクロ政策協調'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/10/2012_oubeikeizaishi_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/28/
+extensions:
+  faculty: 経済学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

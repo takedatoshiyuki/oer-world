@@ -1,0 +1,89 @@
+slug: utokyo-series-du1ajeoc2iiy
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=DU1AjEOc2iiY
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学ダイバーシティ＆インクルージョン宣言制定記念シンポジウム
+description:
+  ja: 東京大学が制定したダイバーシティ＆インクルージョン宣言を記念するシンポジウムである。学内の構成員と卒業生が、多様性と包摂性をめぐる課題を共有し、今後の取り組みや方向性を検討する。
+quotedDescription:
+  text:
+    ja: '東京大学は、本年6月に「ダイバーシティ＆インクルージョン宣言（D&amp;I宣言）」を制定しました。
+
+      本シンポジウムではこれを記念し、本学構成員、本学卒業生がそれぞれの視点から多様性と包摂性をテーマに課題を共有し、今後の取り組みと方向性を考えました。
+
+      登壇者：藤井輝夫、矢口祐人、高野明、小川真理子、中野円佳、相原博昭、李美淑、Woodward, Jonathan、近藤武夫、星真梨子、林香里'
+  source: https://ch.u-tokyo.ac.jp/series/?id=DU1AjEOc2iiY
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 矢口 祐人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高野 明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小川 真理子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中野 円佳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 相原 博昭
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 李 美淑
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Woodward
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+keywords:
+- 教育
+- 人口・社会問題
+- 多様性
+- ジェンダー平等
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

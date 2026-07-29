@@ -1,0 +1,64 @@
+slug: hokudai-library-information-2016
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/library-information-2016
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別教育コース 図書館情報入門（2016）
+description:
+  ja: 本教材は、本と論文を中心に文献を探して入手するための手順や方法を扱う。論文の入手、図書の入手、図書館のサービスの使い方を扱い、文献の定義や情報の信頼性といった内容は含まない。
+quotedDescription:
+  text:
+    ja: '本講義は、全学教育科目のうち一部の科目で実施されている「図書館情報入門」講義の一部分である。この教材では本と論文を中心とした文献の探し方を説明する。本教材は学生自身が文献を探し、入手することができるようになることを目的としている。ただし、文献とは何か？　情報の信頼性とは何か？　といった内容は含んでいない。これらのことは授業で伝え、本教材ではその補助となる具体的なテクニックを習得してもらうことを目的としている。
+
+      図書館情報入門
+
+      1) 論文の入手
+
+      2) 図書の入手
+
+      3) 図書館の便利なサービス
+
+      関連教材
+
+      「スタディスキル」自習用補助教材シリーズ
+
+      1) プレゼンテーションの“技法” 基礎編
+
+      2) レポート作成の“技法” 基本編'
+  source: https://ocw.hokudai.ac.jp/lecture/library-information-2016
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+license: CC-BY-NC-4.0
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

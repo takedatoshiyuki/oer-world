@@ -1,0 +1,73 @@
+slug: kyoto-u-course-1101
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1101/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第17回 MACSコロキウム
+description:
+  ja: 2つの講演からなるコロキウムで、1本目は進化の系統樹と系統ネットワークを組合せ論の観点から扱い、系統ネットワークの構造定理と応用を紹介する。2本目は進化と発生の関係を主題に、発生プログラムの変化という観点から円口類とカメ類の研究を取り上げる。
+quotedDescription:
+  text:
+    ja: '講演1
+
+      「進化の系統樹と系統ネットワークに関する組合せ論」
+
+      早水 桃子 博士
+
+      早稲田大学 理工学術院 専任講師／JSTさきがけ研究者
+
+      生物の進化を記述するモデルとして系統樹は広く使われているが、現実のデータを系統樹のような整然とした木構造だけで正確に表現することは難しいため、近年では系統樹の拡張版である系統ネットワークを活用した新しい系統解析手法の開発に向けた理論研究が行われている。最終的に系統樹を構築したい場合でも、まずは系統ネットワークでデータを可視化することがしばしばあるため、系統ネットワークに潜む多数の系統樹の中から正しい進化のシナリオを効率的に探るための方法論を考えることは有意義であろう。本講演では、この問題意識に即した組合せ論的系統学の研究の一例として、系統ネットワークの構造定理と色々な応用について紹介する。
+
+      講演2
+
+      「進化と発生のパターンについて」
+
+      倉谷 滋 博士
+
+      理化学研究所 生命機能科学研究センター 形態進化研究チーム チームリーダー／理化学研究所 開拓研究本部 倉谷形態進化研究室 主任研究員
+
+      進化が発生プログラムの変化の歴史であるとして、では発生プログラムはどのように変化するのだろうか。伝統的な理解は「発生が進化を繰り返」し、発生の終末に新たな変更が付加されるというヘッケル的な反復理解であった。それに対置されるのが、発生中期に最も保守的なパターンが現れ、ボディプランが定立し、その後に系統特異的な特殊化が起こるという考えであった。このトークでは、脊椎動物の中でも原始的なパターンを保持するといわれる円口類と、甲羅という進化的新規形態を獲得したことが注目されるカメ類の研究を通じ、進化と発生の問題を考える。'
+  source: https://ocw.kyoto-u.ac.jp/course/1101/
+  note: 京都大学OCW 「講演1」・「講演2」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 早水 桃子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 倉谷 滋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0889
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/889/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第53回京都大学大学院人間・環境学研究科 国際交流セミナー「中国の文化と教育」
+description:
+  ja: 中国の文化と教育を扱う講演で、伝統行事、民族芸術、建築、料理に加え、ビジネス慣習としての関係や面子、贈り物、食事のマナーを取り上げる。後半では、現代中国の教育制度、改革、特徴、問題点について述べる。講演は英語で行われる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      この講演では、中国の文化と教育を簡単にご紹介しましょう。まず文化としては、伝統行事、民族芸術、建築、料理などについてお話しした後、重要なビジネス慣習である「関係と面子」「贈り物」「食事のマナー」についてもお話しします。次に、現代の中国の教育に関して、その制度、改革、特徴、問題点等についてお話しする予定です（講演は英語で行なわれます）。
+
+       
+
+      講師プロフィール
+
+      ハイフェン・ドン先生は2011年に南京大学で博士号を取得。同年、北京科技大学の講師となりました。2012年から2013年まで米国ピッツバーグ大学で研究員をした後、北京科技大学の教授となり現在に至っています。
+
+      研究分野は機能性ナノ物質のDNAバイオセンサーへの応用、細胞間マイクロRNAのイメージ分析です。その目覚ましい研究業績により、2012年の江蘇省最優秀博士論文100に選ばれ、また、2013年には中国最優秀博士論文100の候補にも選ばれました。2013年には中国教育省の第一級自然科学賞を受け、2014年には中国装置分析協会の第一級科学技術賞を受賞しました。'
+  source: https://ocw.kyoto-u.ac.jp/course/889/
+  note: 京都大学OCW 「概要」・「講師プロフィール」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 董 海峰
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

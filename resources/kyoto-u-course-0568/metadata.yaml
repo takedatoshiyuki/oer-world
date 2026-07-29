@@ -1,0 +1,45 @@
+slug: kyoto-u-course-0568
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/568/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「私のコンピュータアーキテクチャ教育研究の36年－マイクロプロセッサの歴史と歩みを共にして－」
+description:
+  ja: 富田眞治による最終講義で、コンピュータアーキテクチャの教育研究を36年にわたって振り返る内容である。マイクロプロセッサの歴史と歩みを重ねながら、その研究と教育の経過を扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 富田 眞治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- データサイエンス
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 情報学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

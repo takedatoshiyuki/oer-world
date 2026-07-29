@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0399
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/399/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「アフリカの焼畑研究30年」
+description:
+  ja: 荒木茂による最終講義で、題名は「アフリカの焼畑研究30年」である。京都大学のアジア・アフリカ地域研究研究科で開講され、日本語で提供される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 荒木 茂
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: アジア・アフリカ地域研究研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0958
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/958/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズXV「東日本大震災地域事業継続に向けて」
+description:
+  ja: 京都大学が提供し、経営管理大学院で開講した日本語の講義である。東日本大震災後の地域における事業継続を扱うシンポジウムシリーズの一回として位置づけられている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-10-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経営管理大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

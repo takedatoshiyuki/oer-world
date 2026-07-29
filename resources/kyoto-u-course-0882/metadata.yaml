@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0882
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/882/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学 赤﨑勇先生 名誉博士称号授与記念講演会
+description:
+  ja: 京都大学名誉博士称号の贈呈を記念して開かれた講演会で、赤﨑勇博士の講演を収録する。2015年5月15日に時計台百周年記念ホールで開催された。
+quotedDescription:
+  text:
+    ja: '概要
+
+      2015年5月15日に、ノーベル物理学賞受賞者の赤﨑勇博士に京都大学名誉博士称号が総長より贈呈され、これを記念し時計台百周年記念ホールにて赤﨑博士の講演会が開催されました。'
+  source: https://ocw.kyoto-u.ac.jp/course/882/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-05-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,101 @@
+slug: utokyo-series-d0cjvi9usnf7
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=D0CJvi9USNF7
+type:
+- LearningResource
+- Course
+name:
+  ja: スピングラスと計算物性物理 （髙山一最終講義）
+description:
+  ja: この講義は、髙山一の研究を軸に、物性物理学の中で扱ってきたテーマをたどる内容である。1次元系物質の非線形現象、乱れた磁性体の量子臨界現象やスピングラス、さらに超大規模数値シミュレーションを用いる計算物理学までを取り上げる。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      物性物理学の分野で様々な研究を行った。中でも、ポリアセチレン中のソリトンの理論に代表される、１次元系物質における非線形現象の研究、および、乱れの ある磁性体における量子臨界現象やスピングラスのスローダイナミクスなど、ランダム磁性体に関する研究では分野の最先端をいく成果を上げた。
+      また、これらの研究に用いられた、超大規模数値シミュレーションを駆使しての研究（計算物理学）の発展にも大きく貢献した。
+
+      【教授略歴】
+
+      1963-72年　学生時代
+
+      ・東京大学和田(靖)研
+
+      ・第2種超伝導体における輸送現象 (GL方程式)・超伝導臨界現象
+
+      1972-75年　PD時代 (1972-74ミュンヘン, 74-75シュトゥットガルト)
+
+      ・Fuldeグループ
+
+      ・電子・フォノン系における不純物のダイナミクス
+
+      ・Ni表面磁化 (結晶場，スピン軌道相互作用，HF近似)
+
+      1975-84年　北海道大学時代 (含む南カリフォルニア大(79-80))
+
+      ・スピングラス (平均場近似, スピン波理論から計算物理へ)
+
+      ・ポリアセチレン中のソリトン (場の理論模型)
+
+      ・1次元ソリトン系の量子統計力学
+
+      ・ＣＤＷ系における不純物ピン止めのダイナミクス
+
+      1984-89年　京都大学基礎物理学研究所時代
+
+      ・スピングラス, CDW系
+
+      1989-95年　筑波大学時代
+
+      ・スピングラス (平均場理論, スローダイナミクス)
+
+      1995-2007年　東大物性研時代
+
+      ・物質設計評価施設, スパコン共同利用の管理・運用
+
+      ・スピングラス (エイジング現象), フラストレートスピン系
+
+      ・(ランダム) 量子スピン系, 双極子相互作用磁性体, DNAゲル電気泳動'
+  source: https://ch.u-tokyo.ac.jp/series/?id=D0CJvi9USNF7
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 髙山 一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 宇宙・物理
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 理学部・理学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

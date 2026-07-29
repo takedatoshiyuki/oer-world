@@ -1,0 +1,54 @@
+slug: hokudai-faculty09cationalinnovation-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty09cationalinnovation-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 教育の改革と将来像(2010)
+description:
+  ja: 高校までの教育と大学教育のつながりを前提に、受験勉強と大学の一般教養教育の間に生じるずれを取り上げる。あわせて、大学の教養教育を「学問の基礎体力」の養成として捉え、北海道大学が行った入試と教養教育課程の改善を事例として扱う。そこから、教育の改革と将来像を考える。
+quotedDescription:
+  text:
+    ja: 大学での教育と高校までの教育は連続していることが望ましく、高校の教育の程度が上がったものが大学の教育であるという認識は誤りです。大学で、学生のなじんだ受験勉強と、大学で行われる一般教養教育の間には、しばしばずれが生じます。大学ではどの専門分野に進んでもその教育に耐えるよう教養教育をまず行う、「学問の基礎体力」の養成を目的としています。そこで北大は入試と教養教育課程の改善を行いました。北大の事例をもとに、教育の改革と将来像について考えます。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty09cationalinnovation-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 脇田 稔
+  affiliation:
+    name: 北海道大学理事・副学長
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

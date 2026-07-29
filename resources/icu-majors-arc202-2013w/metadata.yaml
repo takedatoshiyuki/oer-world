@@ -1,0 +1,62 @@
+slug: icu-majors-arc202-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/arc202_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: Art of the West in the 16th-18th Centuries 西洋近世美術
+description:
+  ja: 16〜18世紀のイタリア、フランス、ドイツの絵画・彫刻・服飾を扱い、作品の様式と図像学を考察する講義である。公開動画はコースの一部を収録したものとなっている。
+quotedDescription:
+  text:
+    ja: 'The painting, sculpture, and clothes of the 16th-18th century in Italy, France and Germany. Style
+      analysis and study of Iconography.
+
+      イタリア、もしくはフランス、ドイツにおける16-18世紀の絵画、彫刻、服飾の解説。作品の様式的・図像学的問題を考察する。
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/arc202_2013w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 伊藤亜紀
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- Art and Cultural Heritage 美術・文
+- 'ARC202 | Course Schedule: 1/TU, 2/TU, 1/TH | Update: 2014.05.23'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

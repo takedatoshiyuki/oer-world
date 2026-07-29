@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0041
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/41/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第29回 京都大学品川セミナー「研究用原子炉と中性子科学－中性子の生成と利用について－」
+description:
+  ja: この講義は、研究用原子炉と加速器を基盤にした中性子の生成と利用を扱う。加速器駆動システム(ADS)の研究開発の状況を述べるとともに、生成された中性子を用いた物質科学研究として、原子配列や運動、析出、揺らぎ、中性子イメージングを取り上げる。
+quotedDescription:
+  text:
+    ja: '京都大学原子炉実験所では研究用原子炉を中心に種々の研究が進められていますが、安全・安心・信頼を目指して、将来型の新しい中性子源や原子力システムとして、臨界とはならない核燃料集合体と加速器を組み合わせた加速器駆動システム（ADS）という装置の研究が世界に先駆けて行われています。その開発に向けた基礎的・先進的な研究の状況を紹介したいと思っています。
+
+      また、その研究用原子炉や加速器で生成された中性子を使って基礎・応用研究が展開されています。前回の品川セミナーではその例としてホウ素中性子捕捉療法(BNCT)という癌治療の研究について紹介しましたので、続いて今回は中性子の物質科学への利用、すなわち原子配列や運動の観察、析出や原子集団の揺らぎの観察、さらにマクロ的な中性子イメージングなどの研究の一端を紹介いたします。'
+  source: https://ocw.kyoto-u.ac.jp/course/41/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 福永 俊晴
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 三澤 毅
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-10-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 複合原子力科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: sophia-20181117lecturee
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20181117lecturee/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第8回上智大学全国高校生英語弁論大会ジョン・ニッセル杯
+description:
+  ja: 全国の高校生が参加する英語弁論大会を扱う。テーマに沿って、応募者の中から選ばれた高校生が4〜5分のスピーチを行い、その後に審査員の質問へ英語で応答する流れを収録する。
+quotedDescription:
+  text:
+    ja: '第8回を迎える今回の大会テーマは、“Action Speaking Louder than Words”。179人の応募者のなかから厳しい一次審査を通過した20人の高校生が全国から集まり、自分自身の経験や様々な視点から、深く考え抜かれたスピーチを豊かな表現力で披露しました。
+
+      大会ルールとして、スピーチの長さは4分以上5分以内、スピーチ後に審査員からの質問に英語で答えることとなっています。'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20181117lecturee/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 言語教育研究センター
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 外国語学部英語学科
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 言語教育研究センター/外国語学部英語学科
+  term: 2018/11/17
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

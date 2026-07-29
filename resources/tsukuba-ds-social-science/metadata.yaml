@@ -1,0 +1,47 @@
+slug: tsukuba-ds-social-science
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/social_science/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 データサイエンスと社会科学
+description:
+  ja: 社会科学分野の研究例を通して、データサイエンスが社会科学で担う役割と、将来どのようなことが可能になるかを扱う講義である。説明にはグラフや動画を用い、専門外の学生にも向けて内容を示す。
+quotedDescription:
+  text:
+    ja: この講義では、社会科学分野での研究例を示しながら、データサイエンスが社会科学でどのような役割を果たすのか、また将来どのようなことが可能になるかを概説する。専門外の学生にも分かるように、グラフや動画を使って説明する。
+  source: https://ocw.tsukuba.ac.jp/data-science/social_science/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 内藤 久裕
+  affiliation:
+    name: 人文社会系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2020-09-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,49 @@
+slug: tsukuba-reading
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/knowledge/reading/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「小学生の読書量が学習意欲に及ぼす影響」
+description:
+  ja: 小学生の読書量と学習意欲の関係を扱う研究発表である。読書に関する既存の議論と、読書の効果を実証的に確かめる研究の少なさに触れつつ、その影響を検討する内容である。
+quotedDescription:
+  text:
+    ja: '「小学生の読書量が学習意欲に及ぼす影響」についての研究発表。
+
+      読書をすると良いことがある、と良く言われるが、読書に関する文献では、学習意欲が沸き立つ、想像力が養われる、教養が身につくなどが述べられているに留まり、読書の効果を実証的に示した研究は少ない。読書が学習意欲に及ぼす影響を検討することを目的として、研究を行っている。'
+  source: https://ocw.tsukuba.ac.jp/course/knowledge/reading/
+  note: TSUKUBA OCW 「読書をすると良いことがある、というのは本当か」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 野﨑 裕司
+  affiliation:
+    name: 筑波大学 大学院 図書館情報メディア研究科 博士前期課程（公開当時）
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 知識情報システム
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

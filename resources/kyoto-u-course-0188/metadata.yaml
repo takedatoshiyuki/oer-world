@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0188
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/188/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第26回京都賞「高校フォーラム」山中 伸弥 教授 講演
+description:
+  ja: 第26回京都賞ウイークの教育イベントとして行われた、高校生向け特別授業の講演である。山中伸弥が担当し、京都賞高校フォーラムと「人間万事塞翁が馬」を含む題目で構成されている。第26回京都賞の先端技術部門受賞に関連する内容を扱う。
+quotedDescription:
+  text:
+    ja: '第26回京都賞ウイーク 教育イベント
+
+      高校生特別授業「京都賞　高校フォーラム」
+
+      －人間万事塞翁が馬－
+
+      第26回京都賞 先端技術部門受賞'
+  source: https://ocw.kyoto-u.ac.jp/course/188/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山中 伸弥
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iPS細胞研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

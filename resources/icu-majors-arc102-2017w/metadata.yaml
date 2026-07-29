@@ -1,0 +1,92 @@
+slug: icu-majors-arc102-2017w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/arc102_2017w
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Western Art 西洋美術概論
+description:
+  ja: 西洋美術を対象に、形態、空間、色彩、構図、象徴性といった観点から作品を分析する講義である。絵画、彫刻、建築、工芸を含む美術理論に加え、主題や内容の解釈、図像学の概説も扱う。
+quotedDescription:
+  text:
+    ja: 'A survey of western art, dealing primarily with stylistic analysis and evaluation of major and
+      minor arts in terms of form, space, color, composition, problems of symbolism, etc. A brief survey
+      of iconography is included.
+
+      西洋美術の基礎的知識の習得。絵画、彫刻、建築、工芸等の美術理論を解説し、作品の主題、内容の解釈、形態、色彩、空間構成等の様式分析、作品の総合的評価を学ぶ。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      1
+
+      Video
+
+      プロローグ「ヴァザーリを訪ねて」
+
+      1. ジョットの何が革新的だったか?──パドヴァのスクロヴェーニ家礼拝堂壁画
+
+      2. 学者たちの饗宴──ラファエッロ《アテネの学堂》
+
+      3. 「欺瞞」の青──ピーテル・ブリューゲル《ネーデルラントの諺》
+
+      4. 「傷」の意味するもの──カラヴァッジョ《トマスの不信》
+
+      5. 日常生活の中の寓意──フェルメール《絵画芸術》
+
+      6. 女性画家たち──エリザベート=ルイーズ・ヴィジェ=ルブラン《自画像》
+
+      7. 絵画の革命──マネ《草上の昼食》
+
+      8. タイトルは絵画を説明しうるか？──マグリット《光の帝国》
+
+      Jan 25
+
+      9. 黒を着る'
+  source: https://ocw.info.icu.ac.jp/majors/arc102_2017w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 伊藤亜紀
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- Art and Cultural Heritage 美術・文
+- 'ARC102 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2020.02.18 Category:'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

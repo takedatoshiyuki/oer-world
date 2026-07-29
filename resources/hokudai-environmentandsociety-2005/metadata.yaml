@@ -1,0 +1,75 @@
+slug: hokudai-environmentandsociety-2005
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/environmentandsociety-2005
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 社会の認識 環境と地域社会（2005）
+description:
+  ja: 自然環境や環境問題を、地域住民の視点から考える講義である。日本・東南アジア・太平洋地域の事例を取り上げ、地域と環境の関わりや、人と人の関係まで視野に入れて扱う。あわせて、テーマに沿ったレポート作成を通じて、調査の進め方やまとめ方を学ぶ。
+quotedDescription:
+  text:
+    ja: '自然とはなんだろう？　自然保護、と言うけれど、自然を守るとはどういうことだろうか？　よく考えると実はそれほど簡単ではない。自然保護とは人間の手が加わらないことか？　自然保護という思想は、世界共通のものになりうるのか？　それとも、文化や歴史によって違うのか？
+
+      この講義では、自然環境について、あるいは環境問題について、あくまで〈地域〉の視点、地域住民の視点を重視しながら考える、ということをやってみたいと思います。そこでは、地域の住民自身がその環境と歴史的にどうかかわってきたか、今後どうかかわるべきか、といった点が中心的なテーマになります。それは単に人が自然にどうかかわるか、ということにとどまらず、人と人の間にどういう関係を作っていったらいいのかという問題である、といったことについても考えます。講義では、こうしたことを、日本・東南アジア・太平洋地域の具体的事例を取り上げながら考えたいと思います。
+
+      さらに、この講義では、以上のような “環境と地域社会”というテーマに沿って、論文（レポート）を書いてもらいます。レポートを書くときには、何をどう調べればよいのか、どうまとめればいいのか、などについて、実践的に学びます。'
+  source: https://ocw.hokudai.ac.jp/lecture/environmentandsociety-2005
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 宮内 泰介
+  affiliation:
+    name: 文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+- arts_humanities
+keywords:
+- 自然とは何か
+- 環境保全とは何か
+- 地域の視点
+- 地域社会
+- ルール
+- 共同利用
+- 心理／社会学
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/EnvironmentAndSociety-2005-Note-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/environmentandsociety-2005
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/EnvironmentAndSociety-2005-Slide-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/environmentandsociety-2005
+extensions:
+  faculty: 文学部
+  targetAudience: 's:293:"s:284:"s:275:"s:266:"a:13:{i:0;s:1:"1";i:1;s:2:" 2";i:2;s:2:" 3";i:3;s:2:'
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

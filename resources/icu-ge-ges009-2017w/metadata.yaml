@@ -1,0 +1,153 @@
+slug: icu-ge-ges009-2017w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges009_2017w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Debates in International Relations Ｓ１：国際関係ディベート2017 W'
+description:
+  ja: 国際関係論の主要な理論を土台に、政策ディベートを通じて議論を進める講義である。日本の国際関係に関する現代的な論点に加え、国際交渉、国連での持続可能な開発と気候変動交渉、ディベートの基礎と実践を扱う。
+quotedDescription:
+  text:
+    ja: 'Based on the basic knowledge of contending theories of international relations reviewed in the
+      course, students are encouraged to develop their critical thinking skills through policy debate
+      on the current topics of Japan”s international relations.
+
+      国際関係論の主要な理論を概観し基本的な知識を習得する。その理論をもとに討論を通じて国際関係理論のロジックを実践的に身につける。
+
+      Contents of Lectures
+
+      21
+
+      Lectures  /
+
+      1
+
+      Video
+
+      Dec 05
+
+      ディベートで学ぶ国際関係
+
+      Dec 07
+
+      政策ディベート基礎編
+
+      Dec 12
+
+      国際交渉とディベート
+
+      Dec 14
+
+      Sustainable Development and Climate Change Negotiations in the United Nations 持続可能な開発と気候変動をめぐる国連交渉
+
+      Guest Speaker : André Corrêa do Lago アンドレ・コヘーア・ド・ラーゴ [ 駐日ブラジル特命全権大使]
+
+      Dec 19
+
+      ディベートで使える国際関係学の理論
+
+      Dec 21
+
+      政策ディベート実践編（予行演習）
+
+      Jan 09
+
+      What makes a good debater? (Guest Speaker, The Cambridge Union)
+
+      Jan 11
+
+      ディベート試合（１）
+
+      Jan 16
+
+      ディベート試合（２）
+
+      Jan 18
+
+      ディベート試合（３）
+
+      Jan 23
+
+      ディベート試合（４）
+
+      Jan 25
+
+      ディベート試合（５）
+
+      Jan 30
+
+      ディベート試合（６）
+
+      Feb 01
+
+      ディベート試合（７）
+
+      Feb 06
+
+      ディベート試合（８）
+
+      Feb 08
+
+      ディベート試合（９）
+
+      Feb 13
+
+      ディベート試合（11）
+
+      Feb 15
+
+      ディベート試合（12）
+
+      Feb 20
+
+      ディベート試合（13）
+
+      Feb 22
+
+      ディベート試合（14）
+
+      2017, Winter'
+  source: https://ocw.info.icu.ac.jp/ge/ges009_2017w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 吉川元偉
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES009 | Course Schedule: 4*/M, 4*/TH | Update: 2018.03.07'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

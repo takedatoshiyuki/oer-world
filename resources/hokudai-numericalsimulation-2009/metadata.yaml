@@ -1,0 +1,70 @@
+slug: hokudai-numericalsimulation-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/numericalsimulation-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 広域シミュレーション特論(2009)
+description:
+  ja: 大型構造物や地殻の運動・破壊挙動、地殻中の移動現象を計算する広域シミュレーション手法を扱う講義である。移動現象の方程式と数値解法に加え、DEMによる離散系力学の計算方法、FEMの基礎理論と計算手法の概要、大規模計算に向けた計算容量削減法と連立方程式の高速解法まで学ぶ。
+quotedDescription:
+  text:
+    ja: '大型構造物・地殻の運動・破壊挙動や、地殻中の移動現象を計算する広域シミュレーション手法について学習します。さまざまな移動現象を記述する方程式と数値解法について理解するとともに、離散要素法（DEM）に代表される離散系力学の計算方法について学びます。さらに有限要素法（FEM）の基礎理論と計算手法の概要を理解した上で、大規模計算のための計算容量削減法と連立方程式の高速解法についても学びます。
+
+      本編撮影年度：平成20年度前期（第8～13回）
+
+      第2回以降の講義はこちら
+
+      ガイダンス以降の本編は、工学系教育研究センター（CEED）の配信システムで公開しています。
+
+      >CEEDの配信システムでは細かなチャプターの設定，自動的な言語翻訳，講師が発言した内容のテキスト表示等，視聴者を支援する機能が備わっています。
+
+      原則として北海道大学の学生向けに公開していますが、自己研鑽で学びを希望される方は科目等履修生や社会人大学院生等で学籍を取得し、正規の学生以外でも視聴可能となる手順がありますので、詳しくは右記のリンクよりCEEDのホームページを参照いただき、手順についてお問い合わせください。'
+  source: https://ocw.hokudai.ac.jp/lecture/numericalsimulation-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 金子 勝比古
+  affiliation:
+    name: 北海道大学工学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- engineering
+keywords:
+- 移動現象
+- 離散系の力学
+- FEM
+- CG法
+- PCCG法
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院でさがす
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

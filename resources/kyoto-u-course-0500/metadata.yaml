@@ -1,0 +1,117 @@
+slug: kyoto-u-course-0500
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/500/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報探索入門：図書館とインターネット情報の活用, 2009
+description:
+  ja: この教材は、図書館情報学と情報探索の基本を扱い、図書館の機能、学問・研究における文献と情報、分類や目録情報、参考資料、インターネット情報やデータベースの活用までを取り上げる。文献・情報収集や卒業論文作成のための調査を念頭に、演習を通じて情報活用技術を学ぶ構成になっている。図書館司書も演習に協力する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      情報探索に必要な基礎を、専門分野の異なる教員によるリレー方式の講義と演習で身につける。演習には図書館司書が協力する。
+
+      授業の紹介
+
+      論文・レポートを書くための文献・情報収集、卒業論文作成のための文献調査等に必要な情報活用技術を演習によって習得しながら、図書館情報学、情報探索の概要を学ぶ 。'
+  source: https://ocw.kyoto-u.ac.jp/course/500/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 古賀 崇
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川崎 良孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金子 周司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 黒橋 禎夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 図書館情報、および図書館の種類とその機能　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4627e8c2892e7a8ce47e1b063ce3c430.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 図書館情報、および図書館の種類とその機能　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/8fecdd861e671187e318bf51f0c75416.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 学問・研究・文献・情報　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/94e21d59c35fefaada95fbceb5c6aad4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 学問・研究・文献・情報　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/7caf1435b55f85c460125f29045cbf60.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 分類の一般概念と分類理論　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c8b20a16bdad4feb2141b37354fc1f3e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 分類の一般概念と分類理論　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a33b056081e5c79eda5864161e236bac.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 目録情報とその利用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/dda098f13a14aa4178640a6e745f9e36.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 目録情報とその利用法　資料２－１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/8bd110c02640ac469c6547367f4006e0.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 目録情報とその利用法　資料２－２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b4ffad352dd3eea4d8ec142887e5abbc.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 参考資料の種々とその利用　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/380465aff4062ab902c6bdf06071c397.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 参考資料の種々とその利用　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/aa9497cdddc0dd821130fe06da6718e5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/1687316d33f8d175435da8596b451c8e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/78f2ad092f098c46b63df64f4326aa2d.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 総合演習　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d1500c80de4155d9f9e86612c63ae75c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+- name: '講義資料: 総合演習　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/cc5dcfd2eeb4acffc0e24e6ee6911e6f.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/500/
+extensions:
+  faculty: 全学共通科目, 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

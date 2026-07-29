@@ -1,0 +1,83 @@
+slug: utokyo-series-cauma8ggk0sc
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=cauma8ggK0SC
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代日本を考える (学術俯瞰講義)
+description:
+  ja: この講義は、現代日本を他国との比較の中で考えることを目的としている。東京大学の「国際総合日本学」の運営経験を踏まえ、比較の視点から日本を捉える研究者が担当する。
+quotedDescription:
+  text:
+    ja: 'コーディネータ・ナビゲータ：藤原帰一
+
+      私たちの多くは、いま日本に生きている。その日本という社会や国家をどのように考えればよいのか。幕末維新期や大戦直後のように、かつて諸外国との対比のなかで日本を考えるアプローチが広く行われた時代があった。だが学術の専門化が進むなか、日本研究そのものが独自の領域として立ち現れ、より焦点を絞った比較研究は広く行われる一方、諸外国との対比のなかで日本を考えるアプローチは衰えたように見える。東京大学では英語によって日本に関する基本的な知識を講義する国際総合日本学というコースを設けている。この学術俯瞰講義は、そのコース運営の経験をふまえ、対比のなかから日本を捉えることのできる第一級の研究者を集め、改めて比較の中から現代日本を考えることが目的である。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=cauma8ggK0SC
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 北田 暁大
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中島 隆博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宇野 重規
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 白波瀬 佐和子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- arts_humanities
+- business_law
+keywords:
+- 国際関係
+- 言語・思想
+- 人口・社会問題
+- 政治・法律
+- 歴史
+- 現代日本
+- 国民
+- 社会学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

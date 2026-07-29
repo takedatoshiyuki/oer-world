@@ -1,0 +1,47 @@
+slug: tsukuba-ds-explainable-ai
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/explainable-ai/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 説明可能なAI
+description:
+  ja: この講義は、機械学習のブラックボックスモデルを題材に、信頼性・公平性・有用性に関わる問題を扱う。あわせて、モデルの仕組みを確認し、どのような場合に解釈可能性が生まれ、どのような場合に不明瞭になるかを取り上げる。さらに、ブラックボックス問題を軽減するための技術的手法、その使用例、現在の課題まで概説する。
+quotedDescription:
+  text:
+    ja: この講義では、機械学習におけるブラックボックスモデルの信頼性、公平性、そしてAIアプリケーションの有用性に関する課題に取り組みます。具体的なモデルのメカニズムを調べ、どのようにして一部のモデルが解釈可能であり、どのようにしてそれらが不明瞭になるかを示します。また、ブラックボックス問題を軽減するための一般的な技術的解決策を取り上げ、これらの技術の具体的な使用例と現在の課題についても概説します。
+  source: https://ocw.tsukuba.ac.jp/data-science/explainable-ai/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Bogdanova Anna
+  affiliation:
+    name: 筑波大学システム情報系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2024-09-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

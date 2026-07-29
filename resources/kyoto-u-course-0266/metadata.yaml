@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0266
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/266/
+type:
+- LearningResource
+- Course
+name:
+  ja: 薬学部 オープンキャンパス, 2019
+description:
+  ja: 京都大学薬学部が提供するオープンキャンパスの記録で、2019年8月8日に開講された。担当者として中山 和久、小野 正博、山下 富義の3名が示されており、薬学部webページが出典として付されている。
+quotedDescription:
+  text:
+    ja: 薬学部webページ https://www.pharm.kyoto-u.ac.jp/
+  source: https://ocw.kyoto-u.ac.jp/course/266/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中山 和久
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小野 正博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山下 富義
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-08-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 薬学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 薬学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

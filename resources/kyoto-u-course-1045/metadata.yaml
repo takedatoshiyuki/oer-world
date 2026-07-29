@@ -1,0 +1,73 @@
+slug: kyoto-u-course-1045
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1045/
+type:
+- LearningResource
+- Course
+name:
+  ja: 『ヨーロッパ言語共通参照枠』に関する批判的言説の学説史的考察 研究会 「複言語主義、その過去と現在、未来」
+description:
+  ja: '本講義は、複言語主義をめぐる議論を3つの発表から検討する。起源の学説史、1970年代イタリアでの民主的言語教育、そして英語以外の外国語教育における複言語主義教育の位置づけを扱う。
+
+
+    各発表では、CEFRやCARAPにも触れながら、複言語主義がどのように語られ、実践されてきたかを論じる。歴史的経緯と現在の教育上の論点を並べて考える構成になっている。'
+quotedDescription:
+  text:
+    ja: '「複言語主義の起源を求めて」西山教行（京都大学）
+
+      複言語・複文化主義が2001年に刊行された『ヨーロッパ言語共通参照枠』によって初めて唱道された言語教育思想であることは知られているが，歴史に的に見ると，この用語は1956年に刊行されたマルセル･コエン『言語の社会学のために』のなかで初めて登場する。この発表では，コエンによる「複言語主義」plurilinguismeの用法を検討するとともに，これ以降なぜ1990年代までこの用語が言語教育界からほぼ消え去り，語られなくなってしまったのかを考える。語られなくなったものが語られるようになったことを明らかにすることにより，「複言語主義」の意義を改めて確認したい。
+
+      「イタリアの民主的言語教育−1970年代に萌芽した複言語主義と複言語教育−」西島順子（大分大学）
+
+      1975年、イタリアで「民主的言語教育」と称する提言が発表された。この言語教育はplurilinguismo(複言語主義)の理念を包摂しており、イタリアに存在する少数言語や多様な方言を承認したうえで言語教育を行うことを提唱していた。それは、欧州評議会が唱道する複言語主義と類似する。しかしなぜ、CEFRより20年以上も前にイタリアでplurilinguismoにもとづく言語教育が提唱されたのか。それはいかなる言語教育であったのか。本発表では、イタリアで民主的言語教育が萌芽した要因、また当時行われた複言語教育の実践を論じる。そして過去のイタリアにおけるこの民主的言語教育が、現在の欧州あるいは世界の言語教育に何を示唆するのか考察する。
+
+      「英語は，コミュニケーションの道具としての教育に徹し，複言語主義教育は，それ以外の外国語にまかせなさい！」大木充（京都大学名誉教授）
+
+      逆に言うと，「英語以外の外国語は，複言語主義教育に徹し，コミュニケーションの道具としての教育は英語に任せない！」ということになる。極論ではあるが，これには二つの理由がある。理由の一つは，英語を必要とする機会と英語使用人口の急速な拡大である。あとの一つの理由は，機械翻訳の精度の飛躍的な向上である。本発表のタイトルは，このような状況で，特に第二外国語としての英語以外の外国語について，これからはどのような教育をすれば良いのかをあらわしている。では，具体的にどのような複言語主義教育をするのか。よく言われているように，この教育に具体的に取り組んでいるのは，複言語主義を唱道しているCEFRではなくて，CARAPである。でも，大学生に対する複言語主義教育を考えると，残念ながらCARAPの取り組みではまだ不十分なように思われる。どこが不十分なのかについて具体的に話したい。'
+  source: https://ocw.kyoto-u.ac.jp/course/1045/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西島 順子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大木 充
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-09-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

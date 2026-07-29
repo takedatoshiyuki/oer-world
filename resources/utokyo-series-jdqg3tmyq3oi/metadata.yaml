@@ -1,0 +1,51 @@
+slug: utokyo-series-jdqg3tmyq3oi
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=JdqG3TMYq3Oi
+type:
+- LearningResource
+- Course
+name:
+  ja: 山崎直子宇宙飛行士「帰地球」報告会
+description:
+  ja: 山崎直子宇宙飛行士が、2010年4月の宇宙滞在と帰還について語る講演会である。スペースシャトル内の様子、宇宙ステーションでの実験や作業、無重量状態での感覚、宇宙での生活を取り上げる。
+quotedDescription:
+  text:
+    ja: 2010年4月5日から20日まで、スペースシャトルで宇宙に行き、宇宙ステーションにも短期滞在して帰還した本学工学系研究科修了の山崎直子宇宙飛行士の講演会（工学系研究科主催、GCOE機械システムイノベーション国際拠点後援）が7月8日に安田講堂にて開催された。
+      打ち上げや大気圏再突入時でのスペースシャトル内の様子、宇宙ステーションでの実験をはじめとする種々の作業、無重量状態での感覚、宇宙での生活の様子など、宇宙での…
+  source: https://ch.u-tokyo.ac.jp/series/?id=JdqG3TMYq3Oi
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山崎 直子 宇宙飛行士
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

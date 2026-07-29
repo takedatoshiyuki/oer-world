@@ -1,0 +1,90 @@
+slug: utokyo-series-ynwgdixstwgu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=YnwGdIxstwgU
+type:
+- LearningResource
+- Course
+name:
+  ja: 動物の発生の仕組みを探し続けて40年（浅島誠最終講義）
+description:
+  ja: この講義は、発生生物学を軸に、卵から幼生への形づくり、器官形成、細胞の増殖と分化を扱う。あわせて、担当教員の略歴が掲載されており、研究内容と経歴を通して講義の位置づけを示している。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      発生生物学
+
+      １．  「卵から幼生への形づくり」: 実験形態学から分子生物学まで
+
+      ２．  器官形成の発生生物学
+
+      ３．  細胞の増殖と分化の分子生物学的研究
+
+      【教授略歴】
+
+      1944年9月6日生まれ
+
+      1967年  東京教育大学理学部卒業
+
+      1972年  東京大学理学系大学院博士課程修了（理学博士）
+
+      1972年  ドイツ・ベルリン自由大学分子生物学研究所研究員
+
+      1974年  横浜市立大学文理学部助教授
+
+      1986年  横浜市立大学文理学部教授
+
+      1993年  東京大学教養学部教授
+
+      1995年  東京大学　総長補佐
+
+      1996年  東京大学大学院総合文化研究科教授
+
+      1999年  東京大学大学院総合文化研究科．評議員（兼任）
+
+      2001年  東京大学大学院総合文化研究科．学部長特別補佐
+
+      2003年  東京大学大学院総合文化研究科長・教養学部長'
+  source: https://ch.u-tokyo.ac.jp/series/?id=YnwGdIxstwgU
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 浅島 誠
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

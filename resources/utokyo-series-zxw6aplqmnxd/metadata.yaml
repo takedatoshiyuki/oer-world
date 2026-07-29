@@ -1,0 +1,92 @@
+slug: utokyo-series-zxw6aplqmnxd
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ZxW6aPlQMNxD
+type:
+- LearningResource
+- Course
+name:
+  ja: 固体電子構造理論について（藤原毅夫最終講義）
+description:
+  ja: 東京大学工学部・工学系研究科で2006年に開講された、藤原毅夫による日本語講義である。出典文では研究概要として、工学や応用物理学、物理学、物性一般に関する領域が示されている。あわせて、担当教員の教授略歴が掲載されている。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      工学
+
+      応用物理学・工学基礎
+
+      応用物理学一般
+
+      理学
+
+      物理学
+
+      物性一般（含基礎論）
+
+      【教授略歴】
+
+      1970-1977　東京大学工学部助手（物理工学科）
+
+      1975-1977　University of Oxford, Department of Theoretical Physics, Postdoctoral Fellow
+
+      1977-1984　筑波大学物質工学系助教授
+
+      1982-1983　Max-Plank Insititut fuer Festkoerperforschung, Visiting Fellow
+
+      1984-1990　東京大学工学部助教授（物理工学科）
+
+      1990-2007　東京大学大学院工学系研究科教授（物理工学専攻）
+
+      2000-2002　東京大学大学評議員
+
+      2004-2007　東京大学大学院工学系研究科工学教育推進機構長
+
+      2007.3　　　 東京大学工学系研究科教授　定年退職
+
+      2007.4-　　　東京大学大学総合教育研究センター特任教授授'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ZxW6aPlQMNxD
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤原毅夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- natural_sciences_math
+keywords:
+- 教育
+- 宇宙・物理
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

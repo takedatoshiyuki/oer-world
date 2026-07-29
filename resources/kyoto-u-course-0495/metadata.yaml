@@ -1,0 +1,99 @@
+slug: kyoto-u-course-0495
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/495/
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学図書館の活用と情報探索, 2015
+description:
+  ja: 理系・文系の複数教員が、情報の組織化と活用方法の歴史と現在を扱う講義である。あわせて、図書館職員の支援のもとで図書館やデータベースを使った文献検索の演習を行う。公開教材には、資料調査、検索の理論と実際、インターネット検索、総合演習に関する資料が含まれる。
+quotedDescription:
+  text:
+    ja: 本授業では、理系・文系双方にわたる専門分野の異なる教員陣によって、各分野における情報の組 織化と活用方法の歴史や現在について講義を行う。その上で、図書館職員のサポートのもと、図書 館やデータベース
+      などの文献検索ツールの演習を行い、レポート作成や発表などのアウトプットに つなげる。
+  source: https://ocw.kyoto-u.ac.jp/course/495/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 引原隆士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: カール・ベッカー
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 黒橋禎夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金子周司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北村由美
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 大学図書館の魅力と研究活動　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/28fe0062b810e4235f743c535127ce10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: 大学図書館の魅力と研究活動　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d90ae7c06e7d74a5da6168d8449b750e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: 資料調査の入り口　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/62ee942134487f3e308c632eb61fe04c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: 資料調査の入り口　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a82cf5b3b994dbfdbdf75486c487911c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: 情報の組織化と検索：理論と実際　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/5e85ae5ca5e69ecbebc09b00e4c282db.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: 情報の組織化と検索：理論と実際　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/816f0140cb1f6028bb0d3594d97b8fd9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: インターネット検索の落とし穴と データベースの活用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/7f41e04c565adaae6d77558651e822d6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: 総合演習　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b0a516ef7298b0db0841747d9662e55e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+- name: '講義資料: 総合演習　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4ac30badddbcaa91e3875822521061b6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/495/
+extensions:
+  faculty: 全学共通科目, 図書館機構
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

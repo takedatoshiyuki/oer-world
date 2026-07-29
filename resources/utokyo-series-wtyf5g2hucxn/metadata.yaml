@@ -1,0 +1,51 @@
+slug: utokyo-series-wtyf5g2hucxn
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=WtYf5G2hUcxN
+type:
+- LearningResource
+- Course
+name:
+  ja: 五月祭公開講座 2011
+description:
+  ja: 働くことにまつわるストレスと、その背景にある就労上の問題を扱う講義である。働く人のメンタルヘルスを良い状態に保つにはどうするかを主題に、ストレスの要因にも触れていく。
+quotedDescription:
+  text:
+    ja: 仕事のストレスを抱えている人が約6割に上っているといわれています。一方で、経済不況により、働きたくても働けない、思ったような仕事に就けないという就労問題も深刻化しています。働いていても、思うように働けなくても、働くことにまつわるストレスは大きいといえるでしょう。このような中、働く人のメンタルヘルスを良い状態に保つにはどうしたらよいでしょうか。働くことにまつわるストレスの要因は様々ですが、そもそも働…
+  source: https://ch.u-tokyo.ac.jp/series/?id=WtYf5G2hUcxN
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 美保
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

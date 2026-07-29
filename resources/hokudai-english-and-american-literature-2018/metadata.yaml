@@ -1,0 +1,65 @@
+slug: hokudai-english-and-american-literature-2018
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/english-and-american-literature-2018
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 英米文学 Sustainability Studies beyond Hollywood Film (2018)
+description:
+  ja: 2018年度に実施された講義のファイナルプレゼンテーションを収録した動画である。導入に続いて複数のグループ発表があり、高齢者の孤独問題やトランスジェンダーの受容などを扱う。最後にDiscussionが入る。
+quotedDescription:
+  text:
+    ja: 'この動画では、2018年度に実施された "英米文学 Sustainability Studies beyond Holllywood Film (2018)" のファイナルプレゼンテーションの様子をご覧いただけます。
+
+      動画01：Eijun SENAHA、"Introduction"
+
+      動画02：Group01-Team Future''s Elderly、"Final Presentation ~Loneliness Problems of the Elderly in Sapporo~"
+
+      動画03：Group02-Team Drop Dead Divas、"Final Presntation"
+
+      動画04：Group03-Team Over the Rainbow、"Increase the Acceptance of Transgender People"
+
+      動画05：Eijun SENAHA、"Discussion"'
+  source: https://ocw.hokudai.ac.jp/lecture/english-and-american-literature-2018
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 瀬名波 栄潤
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学院でさがす
+  targetAudience: 2~4年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

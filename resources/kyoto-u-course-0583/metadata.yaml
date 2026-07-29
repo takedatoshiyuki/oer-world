@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0583
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/583/
+type:
+- LearningResource
+- Course
+name:
+  ja: 環境農学論
+description:
+  ja: この教材は、陸域生態系管理に関わる内容を扱う講義資料で、パワーポイント形式で構成されている。資料中では、ダストボウルや世界の土壌に関する外部資料が参照されている。
+quotedDescription:
+  text:
+    ja: '渡邊 哲弘（陸域生態系管理）
+
+      パワーポイント資料、引用著作物出所
+
+      http://ja.wikipedia.org/wiki/ダストボウル
+
+      ISRIC World Soil Infomation（https://www.isric.org/）
+
+      Major Soils of the World（旧サイト http://www.isric.nl/Isric/Webdocs/Docs/Major_Soils_of_the_World/start.pdf）'
+  source: https://ocw.kyoto-u.ac.jp/course/583/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

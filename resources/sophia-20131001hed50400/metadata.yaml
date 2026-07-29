@@ -1,0 +1,84 @@
+slug: sophia-20131001hed50400
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生涯教育学ＩＩ／LIFE-LONG EDUCATION 2
+description:
+  ja: 環境教育や開発教育を統合して構想されたESD（持続可能な開発のための教育）を扱う講義である。ESDのねらい、内容、方法、政策、実践までを取り上げる。
+quotedDescription:
+  text:
+    ja: 環境教育・開発教育などを統合して構想された「持続可能な開発のための教育（ＥＳＤ）」のねらい、内容、方法、政策、実践などについて講義する。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 田中 治彦
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20131001HED50400_1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_2_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_2_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_3.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_3.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_6_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_6_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_7_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_7_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_9_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_9_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_10_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_10_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_11.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_11.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_12.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_12.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+- name: '講義資料: 20131001HED50400_13.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20131001HED50400_13.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131001hed50400/
+extensions:
+  faculty: 総合人間科学部 教育学科
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

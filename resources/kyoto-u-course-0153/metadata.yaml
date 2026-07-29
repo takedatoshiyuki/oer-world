@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0153
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/153/
+type:
+- LearningResource
+- Course
+name:
+  ja: Bhutan 医療支援報告会
+description:
+  ja: 京都大学の医学部附属病院が開講した、ブータンの医療支援に関する報告会である。担当者として岡島 英明、植村 健吾、村本 佳奈美、酒井 悠助が記載されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岡島 英明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 植村 健吾
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 村本 佳奈美
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 酒井 悠助
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-04-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

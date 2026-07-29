@@ -1,0 +1,64 @@
+slug: sophia-20111125comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111125comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Political Purpose and National Identity:Representations of the Food Education Campaign in Japan
+description:
+  ja: 日本の食教育キャンペーン「shokuiku」を、オンラインコンテンツや公共広告といったメディア表象の質的分析から検討する講義である。食の問題を手がかりに、国家的・地域的アイデンティティがどのように表現されるかを扱う。
+quotedDescription:
+  text:
+    ja: Unbalanced eating habits including leaving home without breakfast and consuming fatty food and
+      ready-made meals have become a matter of serious concern in Japan. Weight problems, such as obesity
+      but also skinniness, diabetes, coronary heart diseases, and high blood pressure are among prevalent
+      lifestyle-related diseases supposedly caused by unbalanced nutritional habits. In 2005, the Japanese
+      government initiated a nationwide food education campaign, termed shokuiku in order to counterbalance
+      this trend and advocate a return to supposedly healthier Japanese staple foods such as rice and
+      miso. This campaign also encourages the consumption of regional food products. Based on a qualitative
+      analysis of media representations of the shokuiku campaign such as online content and public advertisements,
+      this presentation argues that a state campaign has developed into a political campaign, which uses
+      pressing health concerns to address national and regional identities expressed through food.
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111125comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Organization
+  name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 111125comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111125comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111125comparativeculture/
+- name: '講義資料: 111125comparativeculture_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111125comparativeculture_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111125comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2011/11/25
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

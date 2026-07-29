@@ -1,0 +1,87 @@
+slug: utokyo-series-ngckzrdgmla0
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ngckzrdgMLA0
+type:
+- LearningResource
+- Course
+name:
+  ja: 深層学習の先にあるもの – 記号推論との融合を目指して（２）
+description:
+  ja: この講義は、知能の中で想像が果たす役割を手がかりに、知能を記号系と知覚運動系の二階建てモデルとして捉える視点を扱う。そこから、記号推論とディープラーニングを結びつける人工知能の可能性を考える内容である。
+quotedDescription:
+  text:
+    ja: '知能全体の中で、想像はどのような役割を果たしているのでしょうか？
+
+      記号系と知覚運動系の二階建てモデルで知能を理解することで、記号推論とディープラーニングをつなぐ人工知能の新たな可能性が見えてきます。
+
+      ★公開シンポジウム  深層学習の先にあるもの – 記号推論との融合を目指して（2）については こちら
+
+      主催：　東京大学先端人工知能学教育寄付講座
+
+      共催：　東京大学次世代知能科学研究センター
+
+      ★あなたのシェアが…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ngckzrdgMLA0
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松尾 豊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山川 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 麻生 英樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 谷口 忠大
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 尾形 哲也
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 國吉 康夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中島 秀之
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- social_sciences
+keywords:
+- AI・情報
+- 心理・認知
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0416
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/416/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「ICT(情報通信技術)に魅せられて」
+description:
+  ja: 京都大学の情報学研究科で開講された、吉田 進による最終講義である。講義題目から、ICT（情報通信技術）を主題として扱う内容であることが分かる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉田 進
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 情報学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

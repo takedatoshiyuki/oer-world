@@ -1,0 +1,59 @@
+slug: sophia-20120124renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120124renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第18回
+description:
+  ja: 国際文化協力と世界遺産保護を題材に、ユネスコの役割と大学にできることを扱う講演会である。松浦晃一郎と石澤良昭特任教授の対談形式で行われ、講義資料のPDFが公開されている。
+quotedDescription:
+  text:
+    ja: '国際文化協力と世界遺産保護－ユネスコの役割と大学にできること－
+
+      なおこの講演は、本学前学長、石澤良昭特任教授との対談形式で行います。'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120124renaissance/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 松浦 晃一郎 (公益財団法人日仏会館理事長
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 国際連合教育科学文化機関前事務局長)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 120124renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/120124renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20120124renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2012/01/24
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

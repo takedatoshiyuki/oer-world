@@ -1,0 +1,58 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-introduction-principles-and-forecastin
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-introduction-principles-and-forecasting-of-extreme-weather-hazards-strong-winds
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「導入：極端気象ハザード（強風）の原理と予測」
+description:
+  ja: 極端気象ハザードのうち強風に焦点を当て、その原理と予測を扱う講義資料である。内容は、極端気象ハザード、日本付近の風系、強風ハザードをもたらす気象に及ぶ。
+quotedDescription:
+  text:
+    ja: "導入：極端気象ハザード（強風）の原理と予測\n「導入：極端気象ハザード（強風）の原理と予測」の教材は全てCC BY-NCのライセンスで公開しています。\n \n本教材の内容は以下の通りです。\n\
+      \ \n・極端気象ハザード\n \n・日本付近の風系\n \n・強風ハザードをもたらす気象"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-introduction-principles-and-forecasting-of-extreme-weather-hazards-strong-winds
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 稲津 將
+  affiliation:
+    name: 北海道大学 大学院理学研究院 地球惑星科学部門
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 極端気象ハザード
+- 気象
+audience:
+- student
+materials:
+- name: '講義資料: 導入：極端気象ハザード（強風）の原理と予測'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/10/Nuclear-Regulatory-Human-Resource-Development-Project_Introduction_Principles-and-forecasting-of-extreme-weather-hazardshigh-winds.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-introduction-principles-and-forecasting-of-extreme-weather-hazards-strong-winds
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

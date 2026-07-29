@@ -1,0 +1,56 @@
+slug: mdsc-mdsc9
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc9
+type:
+- LearningResource
+- Course
+name:
+  ja: 国民生活基礎調査
+description:
+  ja: 全国の世帯と世帯員を対象に、保健・医療・福祉・年金・所得に関する基礎的な項目を調べる教材である。世帯数や世帯人員、所得、健康、介護の状況などの結果を扱い、行政の企画や運営に必要な基礎資料を得るための調査であることが示されている。
+quotedDescription:
+  text:
+    ja: 世帯数と世帯人員の状況、各種世帯の所得等の状況、世帯員の健康状況、介護の状況等の結果を提供。全国の世帯及び世帯員を対象に、保健、医療、福祉、年金、所得等国民生活の基礎的事項を調査し、厚生労働行政の企画及び運営に必要な基礎資料を得ることを目的とし、昭和61年を初年として３年ごとに大規模な調査を実施し、中間の各年は簡易な調査を実施している。
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc9
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc9
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- health_welfare
+keywords:
+- サービス業
+- 不動産業-物品賃貸業
+- 医療・福祉
+- 卸売業・小売業
+- 宿泊業・飲食サービス業
+- 教育・学習支援業
+- 生活関連サービス業・娯楽業
+- 複合サービス事業
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

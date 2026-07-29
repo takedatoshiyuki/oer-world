@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0020
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/20/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育課程論Ⅱ
+description:
+  ja: 京都大学の教育学部で2015年度に開講された講義で、教育課程論の第二部にあたる。西岡加名恵、田中容子、飯澤功が担当し、日本語で実施される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 容子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 飯澤 功
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

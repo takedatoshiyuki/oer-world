@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0328
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/328/
+type:
+- LearningResource
+- Course
+name:
+  ja: 聴講コース 臨床研究者のための生物統計学
+description:
+  ja: 臨床研究に必要な生物統計の考え方を扱う講義で、ランダム化やP値といった基本事項から傾向スコアなどの実践的な内容までを取り上げる。定期開催のコースである。
+quotedDescription:
+  text:
+    ja: 本コースは定期開催となっており、ランダム化やP値といった基本から傾向スコアなど実践的な内容まで臨床研究に必要な生物統計の考え方を分かりやすく解説します。
+  source: https://ocw.kyoto-u.ac.jp/course/328/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐藤 俊哉
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 司朗
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 米本 直裕
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐藤 恵子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 多田 春江
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-05-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- ict
+keywords:
+- 医学
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

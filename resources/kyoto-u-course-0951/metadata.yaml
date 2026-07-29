@@ -1,0 +1,107 @@
+slug: kyoto-u-course-0951
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/951/
+type:
+- LearningResource
+- Course
+name:
+  ja: ILASセミナー：工学系アートのススメ, 2017
+description:
+  ja: アートとテクノロジーを組み合わせ、感情や意識、言語化しにくい情報をどう表現し、どう伝えるかを扱う。ITを使ったインタラクティブな表現を通じて文化を理解する方法を考え、日本文化に関わる題材を研究対象としている。公開資料には、学生レポートや学生作品の教材が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の概要目的
+
+      このゼミでは、感情、意識、ノンバーバルな情報を扱ったコミュニケーションを テーマにアート＆テクノロジー領域を研究、作品制作を行います。さらに、未来のコンピュータの不可欠なコミュニケーション能力である定量化できなかった個人の感情・意識・民族性・物語性といった人々に内属する文化の本質を表現し、文化の精神に触れるインターフェースを研究します。文化には、固有のまたは共通の形式があります。人間が歴史の中で行為や文法などの形で蓄えてきたものをモデル化し、ITを用いてインタラクティブな表現、文化理解体験をする方法を、「カルチュラル・コンピューティング」と定義します。
+      特に日本文化のコンピューティングに注目し、ほとんどコンピューティングの対象となって来なかった 1.日本の移ろいやすい気象・自然風土「もののあわれ」などの無常思想、「わび、さび」などの美意識　2.日本文化とアジア文化との関係性　3.神仏習合を根底とした文化構造　4.和歌、俳譜や能などの日本語独特の特性　5.日本的意匠（紋、織、色、型、能、歌舞伎）を研究します。'
+  source: https://ocw.kyoto-u.ac.jp/course/951/
+  note: 京都大学OCW 「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 土佐 尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- engineering
+keywords:
+- 芸術・文化
+- 工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 2017年度レポート工学部工業化学科1回生'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_kougakukeiartnosusume_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2017年度レポート工学部地球工学科1回生'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/2017_kougakukeiartnosusume_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2012年度レポート　「Art and Technology Report」Mai Cong Hung'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2012年度レポート　「工学系アートのススメ まとめレポート」瀬川　智子'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2012年度レポート　「工学系アートのススメ最終レポート」川本　稜'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（青木 舞）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_18.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（尾崎 達哉）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_19.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　小満 / 卯の花の襲（鷲尾 尚也）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_20.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　夏至 / 蓬の襲（前田 和輝）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_21.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大暑 / 二藍の襲（前澤 俊哉）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_22.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　霜降 / 紅葉の襲（日下 千夏）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_23.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　冬至 / 檜皮の襲（柴田 悠）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_24.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大寒 / 松の襲（熊切 俊祐）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_26.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2009年度学生作品　都々逸（どどいつ）塩野渚'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/shiono.wmv_.zip
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2009年度学生作品　都々逸（どどいつ）池宮由楽'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ikemiya.wmv_.zip
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+- name: '講義資料: 2009年度学生作品　都々逸（どどいつ）植松広一郎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/uematu.mov.zip
+  page: https://ocw.kyoto-u.ac.jp/course/951/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

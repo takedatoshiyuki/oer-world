@@ -1,0 +1,68 @@
+slug: kyoto-u-course-0353
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/353/
+type:
+- LearningResource
+- Course
+name:
+  ja: '教育学研究科レクチャーシリーズ第3回 “Opportunities and Risks of Parental Homework Involvement: Insights from Germany
+    and Switzerland”'
+description:
+  ja: ドイツとスイスの教育文脈を背景に、宿題を通じて家庭と学校が交わる場面を扱う講義である。保護者が宿題に関わることの利点とリスクを、縦断的大規模調査・評価研究に基づいて検討し、子どもの学業発達との関係を論じる。あわせて、政策や実践への示唆と、保護者・教師が宿題環境を改善する方法を取り上げる。
+quotedDescription:
+  text:
+    ja: 'ウェブページ https://www.educ.kyoto-u.ac.jp/archives/6944
+
+       
+
+      コース概要
+
+      In the German and Swiss educational context, schools and families are regarded as two distinct and
+      independent environments in which children learn and are socialized. Homework is the setting in
+      which home and school intersect most closely. On the one hand, this implies a great potential to
+      bridge these two learning environments of children. On the other hand, homework may also be the
+      cause for conflict between parents, children and schools. Based on several longitudinal large-scale
+      survey and assessment studies from Germany and Switzerland, in which secondary school students were
+      asked about their parents’ involvement in their homework process, I will present findings on the
+      opportunities and risks of parental homework involvement for children’s academic development showing
+      that it is the quality of parental homework involvement that matters, not its quantity. I will then
+      discuss implications for policy and practice and outline several ways how parents and teachers can
+      improve the homework setting for children.'
+  source: https://ocw.kyoto-u.ac.jp/course/353/
+  note: 京都大学OCW 「コース概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Dr. Hanna Dumont
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-10-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

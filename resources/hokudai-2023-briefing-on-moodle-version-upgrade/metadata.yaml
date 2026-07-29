@@ -1,0 +1,82 @@
+slug: hokudai-2023-briefing-on-moodle-version-upgrade
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/2023-briefing-on-moodle-version-upgrade
+type:
+- LearningResource
+- Course
+name:
+  ja: Moodle更新に伴う説明会（2023.8.28）
+description:
+  ja: 北海道大学で実施したMoodle更新に関する説明会のスライド資料を収録する。Moodle 3.9から4.1へのメジャーバージョンアップに伴う仕様変更を取り上げ、更新前に確認する内容を扱う。
+quotedDescription:
+  text:
+    ja: '北海道大学大学院教育推進機構オープンエデュケーションセンター（OEC）は、オープン教育資源（Open Educational Resource：OER）を中心とした教材開発、ICT（情報通信技術）を活用した授業支援ならびに教育システムの提供、またこれらを総合した研究開発を行っています。
+
+      センターでは授業支援・教育システムとして、ELMSや、オンラインでのクイズ実施やレポート採点を行うMoodleの管理を行っています。
+
+      今回、2023年9月2日 に予定されている Moodle 3.9 から 4.1 へのメジャーバージョンアップ に先立ち、仕様上の変更点などについて解説する説明会 を実施いたしました。
+
+      なお、本セミナーは、北海道大学「教育に関するFD」として開催いたしました。
+
+      >> スライド資料
+
+      【開催概要】
+
+      開催日時：2023年8月28日（月）13：00～14：00
+
+      登壇者：OEC副センター長　重田 勝介、OEC助教　藤岡 千也
+
+      主催：北海道大学大学院教育推進機構オープンエデュケーションセンター
+
+      共催：北海道大学大学院教育推進機構高等教育研修センター'
+  source: https://ocw.hokudai.ac.jp/lecture/2023-briefing-on-moodle-version-upgrade
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 小林 和也
+  affiliation:
+    name: 北海道大学オープンエデュケーションセンター
+- type: Person
+  name: 重田 勝介
+  affiliation:
+    name: 北海道大学オープンエデュケーションセンター
+- type: Person
+  name: 藤岡 千也
+  affiliation:
+    name: 北海道大学オープンエデュケーションセンター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- オンライン教育
+- Moodle
+audience:
+- student
+materials:
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/08/20230828_Briefing-on-moodle-version-upgrade.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/2023-briefing-on-moodle-version-upgrade
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

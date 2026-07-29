@@ -1,0 +1,93 @@
+slug: kyoto-u-course-0707
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/707/
+type:
+- LearningResource
+- Course
+name:
+  ja: 木材加工学Ⅰ
+description:
+  ja: 木材加工に関する講義資料で、はじめにから始まり、林産加工学の概説、木材切削の基礎と切削機構を扱う。さらに、被削性として切削抵抗、工具摩耗、仕上面、工作精度を取り上げ、工作機械の基礎や鋸挽き、回転削りまで含む。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 奥村 正悟
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: はじめに'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第1回　はじめに'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第2回　林産加工学概説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第3回　木材切削の基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第4回　木材の切削機構(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第5回　木材の切削機構(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第6回　木材の被削性－切削抵抗'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第7回　木材の被削性－工具摩耗'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第8回　木材の被削性－仕上面／第9回　木材の被削性－工作精度'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_08-09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第10回　工作機械の基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第11回　鋸挽き'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第12回　回転削り'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第13回　穴あけ・研削'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 第14回　特殊加工／第15回　単板・単板切削'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_14-15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+- name: '講義資料: 引用文献一覧'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_mokuzaikakougaku_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/707/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

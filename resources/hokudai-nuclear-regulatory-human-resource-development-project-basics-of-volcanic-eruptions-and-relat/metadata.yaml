@@ -1,0 +1,61 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-basics-of-volcanic-eruptions-and-relat
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-basics-of-volcanic-eruptions-and-related-disasters
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「解説：火山噴火の仕組みと火山災害」
+description:
+  ja: この教材は、火山噴火が起こる仕組みを、マグマの生成から上昇、噴火に至る過程まで扱う。あわせて、日本の活火山と災害事例、カルデラ生成規模の巨大噴火、噴火予測や活動監視の現状と取り組みを取り上げる。
+quotedDescription:
+  text:
+    ja: "解説：火山噴火の仕組みと火山災害\n \n「解説：火山噴火の仕組みと火山災害」の教材は全てCC BY-NCのライセンスで公開しています。\n \n本教材の内容は以下の通りです。\n \n\
+      1. マグマの生成と上昇・多様性の獲得\n \n2. 火山噴火の仕組み\n \n3. 日本の活火山と災害事例\n \n4. 巨大噴火（カルデラ生成規模の噴火）\n \n5. 噴火予測や活動監視の現状と取り組み\n\
+      \ \n \n「導入：火山噴火の仕組みと火山災害」の教材はこちらから視聴可能です。"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-basics-of-volcanic-eruptions-and-related-disasters
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 青山 裕
+  affiliation:
+    name: 北海道大学 大学院理学研究院附属地震火山研究観測センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2026'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 火山
+- 火山噴火
+- 火山災害
+- 噴火予測
+audience:
+- student
+materials:
+- name: '講義資料: 解説：火山噴火の仕組みと火山災害'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2026/05/Nuclear-Regulatory-Human-Resource-Development-Project_Basics-of-volcanic-eruptions-and-related-disasters.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-basics-of-volcanic-eruptions-and-related-disasters
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

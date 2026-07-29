@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0070
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/70/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物理気候学, 2011
+description:
+  ja: 地球システム内のエネルギーの流れと、そこから生じる気候形成の物理過程を大気科学の視点から扱う講義である。地質学的気候変化や地球の基本データから始まり、大気放射、熱力学、雲・降水形成、大気境界層、気候数値モデルまでを取り上げる。あわせて、大気の変化過程を記述する方程式を導出し、その意味と応用を解説する。
+quotedDescription:
+  text:
+    ja: 地球システム内のエネルギーの流れが気候を形成するが、その様々な形態について気候の記述ではなく大気科学の視点から講述する。具体的には、地質学的気候変化、惑星地球の基本データとその変化、大気放射学の基礎、混合気体の状態方程式、未飽和大気熱力学、飽和大気熱力学、雲・降水形成過程の入門、大気境界層の基礎、気候数値モデル紹介、などである。気候形成物理過程の基礎理解のため、大気の変化過程を記述する方程式を導出してその意味を解説し、実際への応用についても多数の図版を示しながら例示する。
+  source: https://ocw.kyoto-u.ac.jp/course/70/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 里村 雄彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 イントロダクション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/physclim1-2011.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/70/
+- name: '講義資料: 第2回 地球の基礎データ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/physclim2-2011.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/70/
+- name: '講義資料: 第3回  大気の状態方程式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_butsurikikougaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/70/
+- name: '講義資料: 第7〜10回 大気放射'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_butsurikikougaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/70/
+- name: '講義資料: 第11〜13回 大気境界層'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_butsurikikougaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/70/
+- name: '講義資料: 第14, 15回 気候モデル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_butsurikikougaku_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/70/
+extensions:
+  faculty: 理学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

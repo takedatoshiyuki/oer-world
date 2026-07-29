@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0507
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/507/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成29年度 京都大学図書館機構講演会「デジタルアーカイブの新たな展開と可能性 －IIIFの動向と活用例から考える－」
+description:
+  ja: 本講演会は、貴重資料の高解像度画像をIIIFで公開する動きと、その基盤となるIIIFの仕組みを扱う。あわせて、IIIFコンソーシアムの活動、画像共有を用いた研究事例、実装例を通して、デジタルアーカイブの現状を整理する。
+quotedDescription:
+  text:
+    ja: '主催：京都大学図書館機構
+
+      共催：国立大学図書館協会近畿地区協会
+
+      後援：デジタルアーカイブ学会、大学図書館近畿イニシアティブ、国立大学図書館協会学術資料整備委員会
+
+      ウェブページ https://www.kulib.kyoto-u.ac.jp/kenshu/?p=4117
+
+       
+
+      概要
+
+      近年、貴重資料等の高解像度な画像データを、国際的な標準として浸透しているIIIF (International Image Interoperability Framework) を利用して公開する機関が増加している。京都大学図書館機構もオープンアクセス推進事業の一環として、IIIFコンソーシアムに参加するとともに、従来進めてきた貴重資料電子化成果のIIIF対応による公開を進めている。
+
+      こうした中、本講演会ではIIIFコンソーシアムの活動およびIIIFの概要、デジタル画像の共有による研究事例、IIIFの実装例の報告により、デジタルアーカイブを巡る最新の状況を俯瞰する。また、これにより今後の大学図書館におけるデジタル画像の情報発信、研究における活用の可能性、およびデジタルアーカイブの推進の契機としたい。'
+  source: https://ocw.kyoto-u.ac.jp/course/507/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松井 啓之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Mr. Tom Cramer
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 永崎 研宣
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 林 晋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 千文
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-10-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

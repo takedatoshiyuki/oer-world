@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0046
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/46/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第35回 京都大学品川セミナー「痛みと再生の諸相－インド洋津波から2年を迎えたスマトラの経験を振り返る」
+description:
+  ja: インド洋津波の最大被災地となったインドネシア・スマトラ島アチェ州の経験を取り上げ、被災から2年目の時期に人びとがどのように喪失の痛みを受け止めたかを考える。あわせて、個人として、また社会として再生にどう取り組んできたかを扱う。
+quotedDescription:
+  text:
+    ja: '大きな災厄に見舞われた社会では、物理的な復興・再建をどのように進めるか という課題と同時に、身近な人を失った痛みや、個人個人を支えてきた社会の記 憶の断絶をどのように受け止めるかという課題に直面します。復興・再建で、地
+      域経済、社会的インフラ、個々人の生業の立て直しが相互に作用しながら進めら れていくのと同じように、災厄によってもたらされた痛みが相互に作用しなが ら進んでいきます。
+
+      このセミナーでは、死者・行方不明者22万5000人という未曽有の犠牲を出した 2004年12月のスマトラ島沖地震・インド洋津波の最大の被災地となったインドネ シアのスマトラ島アチェ州の経験を振り返り、特に被災から2年目の時期に焦点
+      をあてて、大規模な自然災害に見舞われた社会で人びとが個人として、そして社 会として喪失の痛みにどのように向き合い、再生にどのように取り組んできたか を考えます。'
+  source: https://ocw.kyoto-u.ac.jp/course/46/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西 芳実
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 博之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-04-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

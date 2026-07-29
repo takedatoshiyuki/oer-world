@@ -1,0 +1,95 @@
+slug: hokudai-naturalhistoryresearch-plants2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/naturalhistoryresearch_plants2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 大学博物館講座 北大自然史研究の系譜 植物（2011）
+description:
+  ja: 北海道大学の自然史研究の歴史を取り上げ、海藻、地学、昆虫、魚類、植物の各分野を通してその系譜をたどる講義である。オリエンテーションを含む全15回で構成され、北大に通底する精神や、学問分野の将来像について考える内容を含む。
+quotedDescription:
+  text:
+    ja: '北大の自然史研究の歴史を学び、北大に通底する精神とは何かを考えるとともに、さまざまな学問分野の将来像についての思索を深め、自分の将来の専門分野についての視座を定めます。
+
+      1.オリエンテーション　高橋 英樹（総合博物館）
+
+      2.海藻1 　　増田 道夫
+
+      3.海藻2 　　増田 道夫
+
+      4.海藻3 　　増田 道夫
+
+      5.地学1 　　加藤 誠（名誉教授）
+
+      6.地学2 　　加藤 誠（名誉教授）
+
+      7.地学3 　　加藤 誠（名誉教授）
+
+      8.昆虫1 　　諏訪 正明（名誉教授）
+
+      9.昆虫2 　　諏訪 正明（名誉教授）
+
+      10.昆虫3 　諏訪 正明（名誉教授）
+
+      11.魚類1 　今村 央（水産科学研究院）
+
+      12.魚類2 　今村 央（水産科学研究院）
+
+      13.魚類3 　今村 央（水産科学研究院）
+
+      14.植物1 　高橋 英樹（総合博物館）
+
+      15.植物2　 高橋 英樹（総合博物館）
+
+      ‡ これらの資料は制限資料です。'
+  source: https://ocw.hokudai.ac.jp/lecture/naturalhistoryresearch_plants2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 英樹
+  affiliation:
+    name: 総合博物館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+- agriculture
+keywords:
+- 自然史
+- 研究系譜
+- 植物
+- 昆虫
+- 海藻
+- 地学
+- 理学／自然科学
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部
+  targetAudience: 基礎1-52組
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

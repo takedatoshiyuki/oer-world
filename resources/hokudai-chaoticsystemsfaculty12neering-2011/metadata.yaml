@@ -1,0 +1,69 @@
+slug: hokudai-chaoticsystemsfaculty12neering-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12neering-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 混沌系工学特論(2011)
+description:
+  ja: 確率モデルを用いた情報処理の基礎として、HMMの推定手法やベイジアンネットワークの推論を扱う。理論面では最尤法、EM法、確率伝搬法、平均場法などを取り上げ、応用面ではロボットシステムへの適用事例を紹介する。
+quotedDescription:
+  text:
+    ja: '本講義では確率モデルを用いた情報処理技法に関し，その基礎と応用を具体例から学習する。理論編では音声認識などで広く用いられる隠れマルコフモデル（HMM）とそのミクロ／マクロパラメータ推定（推論形式）に関し，最尤法およびEM法を詳しく学ぶ。また，HMMをより一般化したモデルであり，近年データマイニングなどにも使われるベイジアンネットワーク（グラフィカルモデル）について，それを用いた推論形式を確率伝搬法や平均場法など最近開発された確率的アルゴリズムを中心に解説する。時間が許せば，これらをより一般的に扱う体系である情報統計力学について触れる。応用編では，HMMやベイジアンネットワークの手法を実際にロボットシステムへ応用した事例（具体的には，ヒューマノイドによる音声認識や動作生成の事例）を紹介する。
+
+      本編撮影年度：平成23年度後期（第4～12回）
+
+      ガイダンス以降の本編は，工学系教育研究センター（CEED）の配信システムで公開しています。
+
+      CEEDの配信システムでは細かなチャプターの設定，自動的な言語翻訳，講師が発言した内容のテキスト表示等，視聴者を支援する機能が備わっています。
+
+      原則として北海道大学の学生向けに公開していますが，自己研鑽で学びを希望される方は科目等履修生や社会人大学院生等で学籍を取得し，正規の学生以外でも視聴可能となる手順がありますので，詳しくは右記のリンクよりCEEDのホームページを参照いただき，手順についてお問い合わせください。
+
+      第2回以降の講義はこちら'
+  source: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12neering-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小野 哲雄
+  affiliation:
+    name: 北海道大学大学院情報科学研究科
+- type: Person
+  name: 井上 純一
+  affiliation:
+    name: 北海道大学大学院情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院でさがす
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

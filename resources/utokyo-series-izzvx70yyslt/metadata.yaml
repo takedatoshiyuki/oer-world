@@ -1,0 +1,55 @@
+slug: utokyo-series-izzvx70yyslt
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=izZVX70Yyslt
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営戦略
+description:
+  ja: 経営戦略に関わる諸問題を扱い、実務の場で生じる問題の発生や認識と、学問的な発展との関係を踏まえて進める講義である。東京大学の経済学部・経済学研究科で2006年に開講され、新宅純二郎が担当する。
+quotedDescription:
+  text:
+    ja: 経営戦略にかかわる諸問題について、実務面での問題の発生・認識とそれに対する学問的発展の関係をふまえながら、講義を進めていきます。
+  source: https://ch.u-tokyo.ac.jp/series/?id=izZVX70Yyslt
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 新宅 純二郎
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 経済学部・経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

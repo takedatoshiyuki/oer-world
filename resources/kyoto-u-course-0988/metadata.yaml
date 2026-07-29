@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0988
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/988/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「人類進化研究から地域環境問題へ」
+description:
+  ja: 市川光雄による最終講義の記録で、人類進化研究から地域環境問題へと至るテーマを扱う。京都大学アジア・アフリカ地域研究研究科で開講された講義の動画として提供されている。
+quotedDescription:
+  text:
+    ja: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/03/20100312_final_lecture_prof_ichikawa.mp4
+  source: https://ocw.kyoto-u.ac.jp/course/988/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 市川 光雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-03-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+- social_sciences
+keywords:
+- 環境学
+- 社会科学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: アジア・アフリカ地域研究研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

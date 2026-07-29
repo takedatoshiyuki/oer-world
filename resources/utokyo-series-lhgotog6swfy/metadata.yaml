@@ -1,0 +1,51 @@
+slug: utokyo-series-lhgotog6swfy
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=lhGoTog6sWFY
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部 テクノサイエンスカフェ 第22回 デザインとものづくり
+description:
+  ja: 小中高生とその保護者を対象にした東大テクノサイエンスカフェの第22回で、テーマはデザインとものづくりである。講演、実験、ワークショップを通して、射出成形による大量生産の基礎を取り上げる。
+quotedDescription:
+  text:
+    ja: "東京大学大学院工学系研究科・工学部では、工学の魅力を伝える活動の一環として、小中高生とその保護者に向けた「東大テクノサイエンスカフェ」を開催しています。第22回目を迎えた今回は「デザインとものづくり」をテーマに、講演・実験・ワークショップを開催しました。\
+      \ \n  長藤准教授の講演では、射出成形による大量生産の基礎について、実験を交えてわかりやすく伝えます。 \n  ★東大テクノサイエンスカフェ \n    http://ww…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=lhGoTog6sWFY
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 長藤 圭介
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

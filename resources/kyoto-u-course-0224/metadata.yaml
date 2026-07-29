@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0224
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/224/
+type:
+- LearningResource
+- Course
+name:
+  ja: シンポジウム＜オープンな教育資源活用について＞
+description:
+  ja: 京都大学学術情報メディアセンターと京都大学オープンコースウェアプロジェクトが共催する、オープンな教育資源の活用を扱うシンポジウムである。主催は日本オープンコースウェアコンソーシアム（JOCW）で、2012年11月22日に開講された。
+quotedDescription:
+  text:
+    ja: '主催：日本オープンコースウェアコンソーシアム（JOCW）
+
+      共催：京都大学学術情報メディアセンター／京都大学オープンコースウェアプロジェクト'
+  source: https://ocw.kyoto-u.ac.jp/course/224/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-11-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: sophia-20121210renaissanse
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20121210renaissanse/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第23回
+description:
+  ja: 本資料は、上智大学のソフィア・ルネッサンス連続講演会第23回に関する講義資料である。内容は、大西啓介による「大学での研究からの起業とナビタイムの世界戦略について」を扱う。
+quotedDescription:
+  text:
+    ja: "日本からの発信、日本への紹介―文化による国際理解 \n 国際基督教大学\n重延 浩 氏\n（株式会社テレビマンユニオン 会長 ゼネラルディレクター）\n『21世紀のメディア論～デジタルヒューマニズム～』\
+      \ \n上智大学\n大西 啓介 氏\n（株式会社ナビタイムジャパン 代表取締役社長）\n1988年上智大学理工学部卒業\n『大学での研究からの起業とナビタイムの世界戦略について』"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20121210renaissanse/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大西 啓介(株式会社ナビタイムジャパン 代表取締役社長)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20121210renaissanse.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20121210renaissanse.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20121210renaissanse/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2012/12/10
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

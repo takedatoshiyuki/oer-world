@@ -1,0 +1,74 @@
+slug: hokudai-sustainabilityweek-homecare-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sustainabilityweek-homecare-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク 安心した暮らしと在宅ケアを支える （2012）
+description:
+  ja: 日本の高齢化を背景に、日常生活での健康維持や在宅での看護・介護に関わる課題を取り上げる。内容は、在宅を中心とした安心した暮らしを支える健康科学・技術の紹介にある。
+quotedDescription:
+  text:
+    ja: 急速に高齢化が進む日本では、日常生活の中で健康を維持管理できることが重要です。また、看護・介護が必要になっても在宅で安心な生活できれば、病院ベッド数の不足を解消するとともに、「自宅で最期を迎えたい」という国民意識にも適います。本セミナーは、在宅を中心に安心した暮らしを支えるための健康科学・技術に関する紹介です。
+  source: https://ocw.hokudai.ac.jp/lecture/sustainabilityweek-homecare-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 伊達 広行
+  affiliation:
+    name: 北海道大学大学院保健科学研究院
+- type: Person
+  name: 進藤 ゆかり
+  affiliation:
+    name: 北海道大学大学院保健化学研究院
+- type: Person
+  name: 中島  一樹
+  affiliation:
+    name: 富山大学大学院理工学研究部
+- type: Person
+  name: 山田 憲嗣
+  affiliation:
+    name: 大阪大学大学院医学系研究科
+- type: Person
+  name: 高橋 誠
+  affiliation:
+    name: 北海道大学大学院情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- health_welfare
+keywords:
+- 在宅ケア
+- 看護
+- 介護
+- 健康科学
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

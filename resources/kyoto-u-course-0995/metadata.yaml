@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0995
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/995/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】“立ち止まって、考える” – 連続講義（3）倫理学　パンデミックの倫理学
+description:
+  ja: 新型コロナウイルスのパンデミックを対象に、医療や公衆衛生の問題を倫理学の視点から考える講義である。科学技術だけでは解決できない問題としてパンデミックを捉え、人文社会科学の知も踏まえて検討する。京都大学によるオンライン公開講義で、連続講義の第3回にあたる。
+quotedDescription:
+  text:
+    ja: '新型コロナウイルスのパンデミックは現代社会に未曾有の危機をもたらしている。それは単に医学を始めとする科学技術のみによって解決できる問題ではなく、哲学・倫理学を始めとした人文社会科学の知も大いに必要とされている。本講義では、医療や公衆衛生の問題を中心に、パンデミックを倫理学の視点から一緒に考えていきたい。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/1669/'
+  source: https://ocw.kyoto-u.ac.jp/course/995/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 児玉 聡
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 倫理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

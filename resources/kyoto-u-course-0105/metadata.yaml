@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0105
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/105/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生涯カルテに関する講演会　ジョン・ハラムカ博士（ハーバード大学）・吉原 博幸（京都大学病院医療情報部 教授／部長）, 2009
+description:
+  ja: 2009年に京都大学の医学部附属病院で開講された、英語の講演会である。生涯カルテをテーマに、吉原博幸とJohn Halamka MDが担当する。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉原 博幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: John Halamka MD（CIO
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Harvard Medical School）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

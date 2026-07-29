@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0970
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/970/
+type:
+- LearningResource
+- Course
+name:
+  ja: 査読付きジャーナル論文投稿セミナー：『東南アジア研究』と『アジア経済』への投稿案内
+description:
+  ja: 『東南アジア研究』と『アジア経済』への投稿をテーマに、査読付きジャーナルへの論文投稿の流れを扱うセミナーである。編集委員や編集部員、元編集委員が、投稿時の注意点や査読プロセス、経験談を通して内容を示す。
+quotedDescription:
+  text:
+    ja: '京都大学東南アジア地域研究研究所、日本貿易振興機構アジア経済研究所の共催による査読付きジャーナル 論文投稿セミナー『東南アジア研究』と 『アジア経済』への投稿案内
+
+      両誌の編集委員、編集部員、元編集委員が、投稿時の注意点や査読プロセスの紹介、投稿者・査読者としての経験談等を通し、査読誌への掲載のコツを伝授します。'
+  source: https://ocw.kyoto-u.ac.jp/course/970/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤田 幸一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 安倍 誠
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小林 昌之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 設楽 成実
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小坂 康之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小林  知
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 博之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 橋口 善浩
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-09-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

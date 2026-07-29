@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0168
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/168/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部オープンキャンパス「計算の困難性を利用する－ビットコインの場合－」
+description:
+  ja: 京都大学工学部のオープンキャンパスで行われた講義で、岩間一雄が担当する。計算の困難性を利用するという観点から、ビットコインを題材に扱う内容である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岩間 一雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-08-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

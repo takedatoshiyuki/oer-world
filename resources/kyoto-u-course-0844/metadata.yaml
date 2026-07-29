@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0844
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/844/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学国際シンポジウム「未来創成学の展望」
+description:
+  ja: 京都大学・未来創成学国際研究ユニットの活動成果を総括し、その内容を国内外に向けて発信する国際シンポジウムである。外国人研究者と学内研究者の講演に加え、異分野のパネリストによる学術対話も行う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      2015年7月に発足した京都大学・未来創成学国際研究ユニットは、これまでに32名の外国人研究者を招聘し、10数名の若手研究者の海外からの招聘や海外への派遣を実施しました。その結果40件程度の共同研究成果が得られました。このユニットは2019年度に5年プロジェクトの最終年度を迎えるため、これまでの成果を総括するとともに、世界に向けてそれらの成果を発信します。
+
+      著名外国人研究者による講演と学内研究者による講演、ならびに数名の異分野パネリストが集う学術対話（その１，その２）を実施します。世界をリードする独創研究・国際共同研究を推進するとともに、次世代研究者の国際的共同研究が生まれる機会として、奮ってご参加ください。
+
+      ※2022年3月に 京都大学ジュニアキャンパス “未来目標に基づく現状革新に向けて” 2019年10月26日（土）の映像を7本追加しました。'
+  source: https://ocw.kyoto-u.ac.jp/course/844/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 村瀬 雅俊
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ほか
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-10-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

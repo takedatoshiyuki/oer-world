@@ -1,0 +1,89 @@
+slug: utokyo-series-ntywdptbg4up
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=nTYWdptBg4Up
+type:
+- LearningResource
+- Course
+name:
+  ja: エネルギーと地球環境（学術俯瞰講義）
+description:
+  ja: エネルギーと地球環境をめぐる課題を、理学・工学・政治学・経済学の観点から俯瞰する講義である。人類が直面する問題について、学術がどのような視点と方法で取り組むかを扱う。
+quotedDescription:
+  text:
+    ja: '2007年度冬学期講義 「エネルギーと地球環境」
+
+      われわれは、太陽系第3惑星である地球に生きている。この地球は、水惑星として生命を育み、その生命が地球そのものをつくりかえ豊かな自然環境を生み出してきた。石炭、石油、天然ガスなど、現代の社会に不可欠であるが枯渇性のストック型資源の蓄積もまた、地球における生命の進化の過程で作られた限りあるものなのである。
+
+      一方、20世紀は、科学技術の発展によりさまざまな人工システムが急速に普及した時代であった。航空機や自動車あるいは鉄道に代表される移動システムは、人間の地球上での移動を高速化し、ロケットは人間を月まで運んだ。また人間は、生物による生産活動を必要としない原子力という新しい燃料を得て、未曾有のエネルギーを開放した。半導体デバイスは人間の記憶・演算能力をはるかに超えた道具を生み出し、情報システムはわれわれの視聴覚能力を時空間を越えて拡大させた。その結果これらの科学技術により、利便性に富む輸送網、エネルギー網、あるいは情報網など、今日の巨大な人工環境が築かれたのである。
+
+      しかしこの人工環境は、周知のようにストック型資源の枯渇、廃棄物の大量排出、地球規模の気候変動など予想しなかった自然環境への不可逆的影響を与え、それ自身の持続可能性に関する課題を投げかけることになった。今、われわれが遭遇しつつあるこうした課題は、単なる理工学的課題ではなく、「エネルギー安全保障」や「地球温暖化」という言葉が示すように一国や一地域の問題にとどまらない地球規模の政治経済論的あるいは文明論的ともいえる課題となっている。
+
+      本講義では、エネルギーと地球環境に関して人類が遭遇している課題について、学術がいかなる視点からいかなる方法により課題解決に取り組んでいるのかを、理学、工学、政治学、経済学の観点から俯瞰する。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=nTYWdptBg4Up
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 西尾 茂文
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山地 憲司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 住 明正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 城山 英明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石見 徹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+- natural_sciences_math
+- business_law
+keywords:
+- エネルギー・資源
+- 環境
+- 政治・法律
+- 経済・金融
+- エネルギー
+- 環境問題
+- 工学
+- 技術
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

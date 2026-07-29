@@ -1,0 +1,56 @@
+slug: mdsc-mdsc4
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc4
+type:
+- LearningResource
+- Course
+name:
+  ja: 全産業活動指数 時系列データ
+description:
+  ja: 全産業活動指数の時系列データを扱う教材である。全産業の生産活動状況を供給面から捉えるためのデータで、DATA.GO.JPの経産省提供データから選ばれている。
+quotedDescription:
+  text:
+    ja: 全産業活動指数は全産業の生産活動状況を供給面から捉えることを目的とするデータ。(DATA.GO.JPの経産省提供データより選定）
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc4
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc4
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-04-02'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- health_welfare
+keywords:
+- サービス業
+- 不動産業-物品賃貸業
+- 公務
+- 分類不能の産業
+- 医療・福祉
+- 卸売業・小売業
+- 学術研究・専門・技術サービス
+- 宿泊業・飲食サービス業
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

@@ -1,0 +1,77 @@
+slug: hokudai-nuclear-workforce-development-through-steam-education
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-workforce-development-through-steam-education
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「STEAM教育手法を活用した原子力人材育成」
+description:
+  ja: STEAM教育の理論や実践を軸に、原子力・放射線教育を扱う教材である。放射線の基礎やエネルギー・環境概論、原子力防災の観点からの放射線教育などを含み、教育手法と関連分野の内容をあわせて構成する。
+quotedDescription:
+  text:
+    ja: "STEAM教育手法を活用した原子力人材育成\n \nSTEAM教育論 米国との比較と日本の潮流と日本型のSTEAM教育を目指して（熊野 善介・静岡大学）CC BY-NC\n \n放射線の基礎（大矢\
+      \ 恭久・静岡大学理学部附属 放射科学教育研究推進センター）制限資料\n \nエネルギー・環境概論（中島 宏・北海道大学大学院工学研究院 原子力安全先端研究・教育センター）CC BY-NC\n\
+      \ \n原子力防災視点からの放射線教育（小崎完・北海道大学大学院 工学研究院 応用量子科学部門 原子力安全先端研究・教育センター）CC BY-NC\n \nSTEM/STEAM教育の検討方策\
+      \ －TとEを中心に－（上野 耕史・白?大学 教育学部）CC BY-NC\n \nSTEAM教育実践論 エネルギー・環境問題を基盤とした原子力・放射線教育のために（森 健一郎・国立大学法人北海道教育大学\
+      \ 釧路校）制限資料\n \nSTEAM教育の理論と実践「見方・考え方」と「資質・能力」に着目して（森 健一郎・国立大学法人北海道教育大学 釧路校）"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-workforce-development-through-steam-education
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 熊野 善介
+  affiliation:
+    name: 静岡大学
+- type: Person
+  name: 大矢 恭久
+  affiliation:
+    name: 静岡大学理学部附属 放射科学教育研究推進センター
+- type: Person
+  name: 中島 宏
+  affiliation:
+    name: 北海道大学大学院工学研究院 原子力安全先端研究・教育センター
+- type: Person
+  name: 小崎 完
+  affiliation:
+    name: 北海道大学大学院 工学研究院 応用量子科学部門 原子力安全先端研究・教育センター
+- type: Person
+  name: 上野 耕史
+  affiliation:
+    name: 白?大学 教育学部
+- type: Person
+  name: 森 健一郎
+  affiliation:
+    name: 国立大学法人北海道教育大学 釧路校
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- STEAM教育
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

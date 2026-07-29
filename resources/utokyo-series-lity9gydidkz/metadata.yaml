@@ -1,0 +1,97 @@
+slug: utokyo-series-lity9gydidkz
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=LiTy9GYDIDKz
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報数理科学VII
+description:
+  ja: 機械学習の手法を定式化から学び、後半でその基礎となるパラメータ推定理論を扱う講義である。教師あり学習、教師なし学習、ベイズ推論、凸最適化を取り上げ、演習では講義で扱ったアルゴリズムの実践を行う。
+quotedDescription:
+  text:
+    ja: '機械学習手法の定式化を前半で学び、それらの基礎となるパラメータ推定理論を後半で扱う。
+
+      演習では講義で扱ったアルゴリズムの実践を行う。
+
+      Ⅰ．教師あり学習
+
+      　　１．最小二乗法
+
+      　　２．過学習と正則化
+
+      　　３．交差検証
+
+      　　４．正則化付き経験リスク最小化
+
+      　　５．カーネル法
+
+      Ⅱ．教師なし学習
+
+      　　１．ハードクラスタリング問題
+
+      　　２．ソフトクラスタリング問題
+
+      　　３．次元削減問題
+
+      Ⅲ．ベイズ推論
+
+      　　１．各問題の確率論的定式化
+
+      　　２．推定理論
+
+      Ⅳ．凸最適化
+
+      　　１．凸関数
+
+      　　２．双対問題
+
+      　　３．最適化法'
+  source: https://ch.u-tokyo.ac.jp/series/?id=LiTy9GYDIDKz
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松島 慎
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+- ict
+keywords:
+- 数理
+- AI・情報
+- 機械学習
+- 線形回帰
+- AI
+- データ分析
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

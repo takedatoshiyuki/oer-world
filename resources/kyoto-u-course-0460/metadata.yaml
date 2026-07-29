@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0460
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/460/
+type:
+- LearningResource
+- Course
+name:
+  ja: やまだようこ教授 退官記念事業
+description:
+  ja: 本教材は、質的研究とナラティヴを主題とする多声対話シンポジウムと、やまだようこ教授の記念講演から成る。講演では「人生心理学」を扱い、イメージ画と語りを題材にしている。
+quotedDescription:
+  text:
+    ja: '1. 多声対話シンポジウム
+
+      「質的研究の来し方と未来－ナラティヴを巡って－」
+
+      2. やまだようこ教授 記念講演（最終講義）
+
+      「人生心理学－イメージ画と語り－」'
+  source: https://ocw.kyoto-u.ac.jp/course/460/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: やまだ ようこ
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 麻生 武
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 斎藤 清二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 徳田 治子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 矢守 克也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-02-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 最終講義
+audience:
+- general_public
+materials:
+- name: '講義資料: プログラム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/39c64f4473caf88ae0b6664b5a77c4db.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/460/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

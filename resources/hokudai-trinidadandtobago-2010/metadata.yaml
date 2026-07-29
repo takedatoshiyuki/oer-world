@@ -1,0 +1,59 @@
+slug: hokudai-trinidadandtobago-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/trinidadandtobago-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー トリニダードトバゴ共和国の歴史と文化、自然 …常夏の島…（2010）
+description:
+  ja: カリブ海の南端にあるトリニダード・トバゴ共和国を、2つの島から成る国として扱う。1492年のコロンブス到着以後の植民の歴史と、アフリカ系・インド系住民の系譜がつくる食文化や音楽、文化の重なりを取り上げる。あわせて、スチールパン、カリプソ、ソカ、リンボや、天然資源とマンパワーにも触れる。
+quotedDescription:
+  text:
+    ja: 'トリニダード トバゴ共和国はカリブ海列島の南端に位置し、２つの主な島から成ります。
+
+      １４９２年のコロンブス到着に始まる植民の歴史で、トリニダード トバゴは主にアフリカ系 及び、インド系住民が創り上げました。
+
+      住民の系譜のこの二重性によって、食文化・音楽そして文化そのものがなお、それぞれに独自性を保ち、かつ 絡み合ってひとつの独特のものを作り上げています。（スチールパンやカリプソ、ソカ、リンボなど。）　豊かな天然資源とマンパワーによって、トリニダード
+      トバゴは、この地域の発展の推進力となっています。'
+  source: https://ocw.hokudai.ac.jp/lecture/trinidadandtobago-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Roshan Mahabir
+  affiliation:
+    name: 医学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 歴史／民俗
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

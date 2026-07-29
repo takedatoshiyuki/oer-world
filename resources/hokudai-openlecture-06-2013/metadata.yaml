@@ -1,0 +1,63 @@
+slug: hokudai-openlecture-06-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/openlecture-06-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 ２０３０年へのシナリオ わが国の医療と薬の近未来像とは（2013）
+description:
+  ja: 日本の医療水準を諸外国との比較の中で捉え、その特徴を確認する内容を扱う。あわせて、医療と薬に関わる研究が今後どの方向へ向かうかを解説する。
+quotedDescription:
+  text:
+    ja: '昨年は山中伸弥教授のノーベル賞受賞の話題で日本中が沸きました。一方で、医療費負担の増大、薬害による健康被害など、医療をめぐるマイナス面の報道も目につきます。しかし、実際にはこれらの判断は諸外国との比較のなかでなされる必要があります。本講義では、わが国の医療水準を世界と比較してその特徴を明らかにした上で、今後医療と薬にかかわる研究がどの方向ヘ向かおうとしているのか、わかりやすく解説します。
+
+      教員紹介
+
+      武田 宏司
+
+      1980年、北海道大学医学部医学科卒業。同年北大医学部第三内科ヘ入局し、消化器内科医として、関連病院勤務。1994年北大医学部第三内科助手、その後、同講師、准教授を経て、2008年より北大大学院薬学研究院臨床病態解析学教授。2010年からは北大病院栄養管理部長を兼任し、同栄養サポートチーム委員長も務める。研究テーマは、炎症性腸疾患、機能性消化管疾患、栄養不良の病態生理・治療に関する研究。'
+  source: https://ocw.hokudai.ac.jp/lecture/openlecture-06-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 武田 宏司
+  affiliation:
+    name: 北海道大学大学院薬学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- health_welfare
+keywords:
+- 北海道大学公開講座
+- 少子高齢化
+- 財政危機
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 薬学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

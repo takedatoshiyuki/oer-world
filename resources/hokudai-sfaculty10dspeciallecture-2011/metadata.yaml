@@ -1,0 +1,79 @@
+slug: hokudai-sfaculty10dspeciallecture-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sfaculty10dspeciallecture-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別プログラム 第2回 福島第一原子力発電所における事故の影響に関する説明会 （2011）
+description:
+  ja: 福島第一原子力発電所事故による健康への影響と食品の安全を扱い、あわせて日本と海外メディアの報道の違いを説明する説明会の記録である。公開教材には、冒頭説明、放射線の人体への影響、食品安全、情報提供とパニックの関係を扱う資料が含まれる。北海道大学の外国人留学生や札幌市の在留外国人を主な対象としている。
+quotedDescription:
+  text:
+    ja: 北海道大学の外国人留学生及び札幌市の在留外国人等を対象に、４月１１日に開催した説明会において参加者の関心が高かった、福島第一原子力発電所の事故による健康への影響及び食品の安全について正しい知識を提供するとともに、日本と海外メディアにおける報道の違いを説明し、生活・学習への不安を軽減するために、英語による説明会（第２回）を開催しました。
+  source: https://ocw.hokudai.ac.jp/lecture/sfaculty10dspeciallecture-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 玉木 長良
+  affiliation:
+    name: 北海道大学大学院薬学研究院
+- type: Person
+  name: 山口 亮
+  affiliation:
+    name: 北海道庁
+- type: Person
+  name: Philip Seaton
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院/外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- generic
+keywords:
+- 福島第一原子力発電所
+- 東日本大震災
+- 健康
+- 食品
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: Opening Remarks'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/SecondSpecialLecture-2011-Text-00.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sfaculty10dspeciallecture-2011
+- name: '講義資料: Effects of Radiation on Human Health'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/SecondSpecialLecture-2011-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sfaculty10dspeciallecture-2011
+- name: '講義資料: Food Safety'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/SecondSpecialLecture-2011-Slide-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sfaculty10dspeciallecture-2011
+- name: '講義資料: Providing Information or Spreading Panic?'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/SecondSpecialLecture-2011-Slide-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sfaculty10dspeciallecture-2011
+extensions:
+  faculty: 外国語教育センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

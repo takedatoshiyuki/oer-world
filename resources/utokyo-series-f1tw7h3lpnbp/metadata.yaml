@@ -1,0 +1,88 @@
+slug: utokyo-series-f1tw7h3lpnbp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=F1Tw7h3LPnbP
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和7年度 研究倫理セミナー
+description:
+  ja: 本講義は、RRIとELSIを主題に、責任ある研究とイノベーションの考え方を扱う。あわせて、異なる学問分野からの視点を共有しながら議論し、4部局での取り組みも紹介する。
+quotedDescription:
+  text:
+    ja: 2025年度研究倫理セミナーでは、「責任ある研究とイノベーションの浸透と実践－その２－」をテーマに、RRI（Responsible Research and Innovation：責任ある研究とイノベーション）やELSI
+      （Ethical, Legal and Social Issues：倫理的・法的・社会的観点）に関する講演を行います。 また、RRIやELSIについて、様々な学問分野からの視点を共有、議論し、４部局における良い取り組みについても紹介します。
+  source: https://ch.u-tokyo.ac.jp/series/?id=F1Tw7h3LPnbP
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤垣 裕子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 唐沢 かおり
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川原 圭博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武藤 香織
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 亘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 孝明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松田 康弘
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- business_law
+- engineering
+keywords:
+- 教育
+- 政治・法律
+- ロボット・技術
+- 生命・医療
+- ELSI
+- RRI
+- 研究倫理
+- ドローン
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

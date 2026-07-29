@@ -1,0 +1,84 @@
+slug: utokyo-series-buzgkyztrryi
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=BUZGkyZTRryI
+type:
+- LearningResource
+- Course
+name:
+  ja: 教養教育高度化機構シンポジウム2025
+description:
+  ja: D&Iの推進をめぐって、多様性と安全が緊張関係に置かれる状況を扱う。教養教育高度化機構のD&I部門の活動を背景に、教養教育の場でこの関係をどう捉え直すかを考える。
+quotedDescription:
+  text:
+    ja: D&Iの推進がひとつの大きな課題になっている現在は、「多様性」と「安全」がある種の緊張を孕んで対置され、フレームアップされることも多くなってきた。日本の大学でそれまで前例のなかったSafer
+      Spaceの活動をひとつの前身とする教養教育高度化機構のD&I部門も、教育・研究活動の中でこの緊張にさまざまなかたちで直面してきた。教養教育の場に根差しつつ、この緊張関係を正面から見据え、多様性と安全との共存可能性をあらためて問い直す。
+  source: https://ch.u-tokyo.ac.jp/series/?id=BUZGkyZTRryI
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 清水 晶子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福永 玄弥
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Judith  Butler
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 原 和之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡 真理
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 井芹 真紀子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 井谷 聡子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高谷 幸
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 人口・社会問題
+- 多様性
+- 共生
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

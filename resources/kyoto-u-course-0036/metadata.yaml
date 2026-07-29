@@ -1,0 +1,98 @@
+slug: kyoto-u-course-0036
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/36/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報メディア工学特論
+description:
+  ja: 可視化対象となるデータの分類や数値補間の基本を扱い、それらに対する可視化処理を学ぶ講義である。あわせて、UMLやOpenGLを用いた可視化システムの設計・実装や、ボリュームレンダリング、等値面表示、多視点映像処理などの教材を含む。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      可視化処理の基本技術の講義とシステム開発実習を通じて可視化技術を効果的に理解することができる
+
+      授業の紹介
+
+      本講義では、可視化対象となるデータの分類と数値補間技術について基本事項を理解させ、それらのデータに対する可視化処理について習得させる。さらにシステム構築技法についての概要を説明した上で可視化システム開発の基本を理解させ、基本グラフィックスライブライリを使用した可視化システムプロトタイプの開発を経験させる。'
+  source: https://ocw.kyoto-u.ac.jp/course/36/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小山田 耕二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回 ボリュームコミュニケーションについて説明し本講義への学びの動機付けを与える'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第2回 スカラデータ向け可視化技術として等値面生成アルゴリズムについて説明する'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第3回 ボリュームレンダリング技術の基礎となる散乱方程式を説明し、その数値解法を理解させる'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第4回 テンソルデータからベクタデータの変換について説明し、ベクタデータに対する代表的な可視化手法である流線表示手法について理解させる'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第5回 人物映像データからボリュームデータを生成することを目的として，多視点カメラとPCクラスタを利用した3次元形状復元技術を説明する'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第6回 グループ対グループのコミュニケーションを支援するために開発した多視点映像実時間表示システムについて説明する'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第7回 ベクタデータにおいて特異点を探索し、分類する手法について説明する'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第8回 特異点グラフを用いて等値面表示を高速化する手法に説明する'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第9回 UMLを使ったオブジェクト指向システム開発技術について簡単な販売管理業務を例にとり説明を行う'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第10回 可視化システムにおける基本オブジェクトについて説明する。また実装レベルで利用するグラフィックスライブラリであるOpenGLについて解説を行う'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第11回 UMLを使って等値面表示システムを設計し、C言語を用いた実装を行う'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第12回 UMLを使ってボリュームレンダリング表示システムを設計し、C言語を用いた実装を行う'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+- name: '講義資料: 第13回 UMLを使って流線表示システムを設計し、C言語を用いた実装を行う'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2004/10/2004_media_engineering_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/36/
+extensions:
+  faculty: 工学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

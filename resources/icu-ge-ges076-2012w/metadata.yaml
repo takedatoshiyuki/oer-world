@@ -1,0 +1,63 @@
+slug: icu-ge-ges076-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges076_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: Culture, Gender and Health Ｓ２：文化、ジェンダー、健康'
+description:
+  ja: 文化、ジェンダー、健康の相互関連を学際的に扱い、文化的な観念や価値観が健康に与える影響を考察する。主要トピックとしてHIV-AIDSを取り上げ、これに関する考え方、患者の現状、今後を扱う。公開されているのはコースの一部である。
+quotedDescription:
+  text:
+    ja: 'This course’s purpose is to examine from a multidiciplinary perspective the interrelations between
+      culture, gender and health. In particular it will examine the ways in which cultural ideas and values
+      can have a profound impact on an individual’s health. Special attention will be given to HIV-AIDS
+      in the comtemporary world, ideas regarding it cause, the situation of those ill with it and the
+      future of the epidemic.
+
+      本コースの目的は、文化とジェンダーと健康の相互関連を学際的視点から考察することにある。特に、各文化に固有の観念や価値観が個人の健康に及ぼす影響の大きさについて見る。主要トピックのひとつとして、現代世界におけるHIV-AIDS、これにまつわる様々な考え、患者の現状、この病気の今後について考察する。
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/ges076_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GES076 | Course Schedule: 2/M, 2/W, 2/F | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

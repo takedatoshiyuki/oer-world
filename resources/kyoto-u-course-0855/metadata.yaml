@@ -1,0 +1,64 @@
+slug: kyoto-u-course-0855
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/855/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第19回京都大学国際シンポジウム －東日本大震災の健康リスクを考える－
+description:
+  ja: 東日本大震災後の健康リスクを軸に、被災地で人々が生活を取り戻していく過程を扱う。工学の環境工学と医学の公衆衛生学の観点から、京都大学とハーバード大学の研究者が共同で検討する内容である。あわせて、復興施策の考え方と、将来の震災で知識や経験をどう生かすかも取り上げる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      東日本大震災からいかにして人々が人間らしい生活を取り戻したかを、健康リスクを中心に紹介する。最先端の研究をリードしてきたハーバード大学と京都大学の研究者が共同して、工学（環境工学）と医学（公衆衛生学）の異なる観点から検討・検証を行い、知識を結集させる。地域や学術分野の枠を超え、それぞれの知識を融合させることにより、わが国の復興施策について改めて考え直す機会を提供する。さらには、近い将来に発生するとされる次の震災にこれらの知識と経験が、どのように活用されるべきかについても紹介する。
+
+       
+
+      主催：京都大学
+
+      共催：ハーバード大学
+
+      協賛：京都大学環境衛生工学研究会
+
+      後援：公益財団法人　京都大学教育研究振興財団
+
+      公益財団法人 関西エネルギー・リサイクル科学研究振興財団'
+  source: https://ocw.kyoto-u.ac.jp/course/855/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-07-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- health_welfare
+keywords:
+- エネルギー・地球科学
+- 医学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,58 @@
+slug: hokudai-climatechange-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/climatechange-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学プロフェッサー・ビジット 気候変動のサイエンス（2008）
+description:
+  ja: 気候がなぜ変動するのかと、科学者がその変動をどのように監視しているのかを扱う講義資料である。あわせて、世界各地の研究仲間たちの取り組みや人物像にも触れる。
+quotedDescription:
+  text:
+    ja: 気候はなぜ変動するのでしょう？科学者たちはどうやって変動を監視しているのでしょう？これらの疑問に答えます。また、世界各地にいる研究仲間たちの取り組みやその素顔もお話いたします。
+  source: https://ocw.hokudai.ac.jp/lecture/climatechange-2008
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤原　正智
+  affiliation:
+    name: 環境科学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ClimateChange-2008-Slide.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/climatechange-2008
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

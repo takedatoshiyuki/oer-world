@@ -1,0 +1,108 @@
+slug: kyoto-u-course-0518
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/518/
+type:
+- LearningResource
+- Course
+name:
+  ja: 海洋生物科学技術論と実習Ⅱ
+description:
+  ja: 京都大学農学部で開講された講義と実習で、京都府の漁業、海洋無脊椎動物、海洋生物の種同定、微細藻類、有用成分の抽出、海洋観測や底棲生物調査を扱う。公開されている教材には、講義資料と臨海実習資料が含まれる。
+quotedDescription:
+  text:
+    ja: '澤山 茂樹 教授 (農学研究科)
+
+      山下 洋 教授 (フィールド科学教育研究センター)
+
+      上野 正博 助教 (フィールド科学教育研究センター)
+
+      豊原 治彦 准教授 (農学研究科)
+
+      木下 政人 助教 (農学研究科)
+
+      甲斐 嘉晃 助教 (フィールド科学教育研究センター)'
+  source: https://ocw.kyoto-u.ac.jp/course/518/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 澤山 茂樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山下 洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 上野 正博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 豊原 治彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 木下 政人
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 甲斐 嘉晃
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 1 京都府の漁業（上野)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-2_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/518/
+- name: '講義資料: 2 海洋無脊椎動物(ベントス)の採集・同定と生理活性物質の抽出・活性測定（豊原）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-2_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/518/
+- name: '講義資料: 3 分子遺伝学的手法による海洋生物の種同定プロトコル（豊原)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-2_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/518/
+- name: '講義資料: 4 微細藻類の観察（澤山）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-2_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/518/
+- name: '講義資料: 5 有用成分抽出の試み（木下）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-2_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/518/
+- name: '講義資料: 6 海洋観測・底棲生物調査（山下）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-2_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/518/
+- name: '講義資料: 7 臨海実習資料（鰺坂）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kaiyouseibutsukagakugijutsuron-jisshuu-2_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/518/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

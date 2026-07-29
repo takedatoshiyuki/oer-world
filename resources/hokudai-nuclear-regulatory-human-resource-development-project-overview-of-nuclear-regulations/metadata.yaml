@@ -1,0 +1,72 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-overview-of-nuclear-regulations
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-overview-of-nuclear-regulations
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「原子力規制の概要」
+description:
+  ja: 原子力規制の目的や対象、根拠法令といった基本事項から、規制体制や全体像までを扱う教材である。あわせて、発電用軽水型原子炉の規制基準、長期施設管理計画、廃止措置に関する規制の概要を取り上げる。
+quotedDescription:
+  text:
+    ja: '原子力規制の概要
+
+      「原子力規制の概要」の教材は全てCC BY-NCのライセンスで公開しています。
+
+      本教材の内容は以下の通りです。
+
+      ・ 原子力規制の目的、対象と法律
+
+      ・ 原子力規制の体制
+
+      ・ 原子力規制の全体像
+
+      ・ 発電用軽水型原子炉の規制基準の概要
+
+      ・ 長期施設管理計画の概要
+
+      ・ 廃止措置にかかわる規制の概要'
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-overview-of-nuclear-regulations
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 山本 章夫
+  affiliation:
+    name: 名古屋大学大学院工学研究科 総合エネルギー工学専攻 エネルギー安全工学講座
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 原子力規制
+audience:
+- student
+materials:
+- name: '講義資料: 原子力規制の概要'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2024/03/Nuclear-Regulatory-Human-Resource-Development-Project_Overview-of-Nuclear-Regulations.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-overview-of-nuclear-regulations
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

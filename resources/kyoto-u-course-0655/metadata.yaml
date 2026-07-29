@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0655
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/655/
+type:
+- LearningResource
+- Course
+name:
+  ja: ILASセミナー：Physical Computing 入門, 2016
+description:
+  ja: 京都大学の全学共通科目として2016年前期に開講された「ILASセミナー：Physical Computing 入門」の授業資料を収録する。物理コンピューティング入門に関する講義資料が公開されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多 一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 授業資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2016_Physical-Computing.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/655/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

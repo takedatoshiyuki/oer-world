@@ -1,0 +1,47 @@
+slug: kyoto-u-course-0643
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/643/
+type:
+- LearningResource
+- Course
+name:
+  ja: '[ポケット・ゼミ] Physical Computing 入門, 2014'
+description:
+  ja: 京都大学の全学共通科目として2014年前期に開講された、Physical Computing 入門の講義である。担当は喜多一で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多　一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,57 @@
+slug: utokyo-series-vnh4pihrky1c
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=VNh4pIHrKY1c
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学オープンエデュケーションプロモーション映像
+description:
+  ja: 東京大学が2005年から進めてきたオープンエデュケーションの取り組みを、20年の歩みとして紹介する映像教材である。大学総合教育研究センターTL推進部門の映像制作スタッフが中心となって制作している。
+quotedDescription:
+  text:
+    ja: 2001年にMITから始まった知の開放。その志を継ぎ、東京大学は2005年からオープンエデュケーションの道を歩み始めました。このシリーズでは、東京大学の20年にわたる取り組みを紹介します。本動画は、大学総合教育研究センターTL推進部門の映像制作スタッフが中心となって制作されたものです。
+  source: https://ch.u-tokyo.ac.jp/series/?id=VNh4pIHrKY1c
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2026'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- ict
+keywords:
+- 教育
+- AI・情報
+- UTokyoOCW
+- オンラインエデュケーション
+- オープンエデュケーション
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

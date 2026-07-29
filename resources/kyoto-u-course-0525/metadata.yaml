@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0525
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/525/
+type:
+- LearningResource
+- Course
+name:
+  ja: MOOC時代の大学教育改善
+description:
+  ja: MOOCやOCWをはじめとする教育テクノロジーを、既存の授業や学習方法とどう組み合わせるかを扱う。あわせて、教授学習活動の可視化、分析、評価の方法とその適用を取り上げる。ハーバード大学のHarvardXやDerek
+    Bok Center for Teaching and Learningの事例を踏まえ、日本の大学での教育改善を考える内容である。
+quotedDescription:
+  text:
+    ja: 「人材・教育システムの国際化」、「産業界のニーズに対応した社会人の学び直し機会の拡大」、「大学教育の質保証・向上」、「教育情報の公開」、「教育イノベーションの創発」など、我が国の高等教育における喫緊の重要課題・目標に取り組むにあたり、インターネットやマルチメディア等のテクノロジーの教育利用は、大学における教育や学習を革新し進展させる大きな可能性を孕んでいる。MOOC（大規模オープンオンラインコース）や
+      OCW（オープンコースウェア）などに代表される新たな教育技法や教材と既存の授業や学習方法を、どのように相乗的・相互補完的に活かしていくか。また、学生による主体的・能動的・実質的な学習を実現するために、教授学習活動の可視化、分析・評価を行う方法、そしてその実践的な適用などに国内外の大学の関心が高まっている。しかし、このような教育の進展を支えるための包括的な支援体制は、日本の大学において極めて乏しく未発達であり、必要とされるキャパシティづくりが急務である。本公開研究会・国際シンポジウムでは、ハーバード大学の
+      MOOC プロジェクト HarvardX と世界的に著名な Derek Bok Center for Teaching and Learning の Faculty Director である
+      Robert A. Lue 教授を基調講演者としてお招きし、同大学の先進的な試みや成果、これまで我が国の大学で推進されてきた教育制度改革や FD（ファカルティ・ディベロプメント）を踏まえ、教員の教育に対する情熱や学生の学ぶ意欲に基づいた真の教育イノベーションや教育改善のための具体的な方策を探索し、その可能性や課題について理解と議論を深めたい。
+  source: https://ocw.kyoto-u.ac.jp/course/525/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北野 正雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Robert A. Lue（Faculty Director
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Harvard University）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 飯吉 透
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 美濃 導彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 竹村 治雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松下 佳代
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-01-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

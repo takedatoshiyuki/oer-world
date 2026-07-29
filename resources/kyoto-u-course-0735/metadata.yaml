@@ -1,0 +1,141 @@
+slug: kyoto-u-course-0735
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/735/
+type:
+- LearningResource
+- Course
+name:
+  ja: 民法III（債権総論）
+description:
+  ja: 民法第三編債権を対象に、契約・事務管理・不当利得・不法行為などから生じる債権に共通する効果を扱う講義資料である。債権総論の導入から始まり、債権の種類、債務不履行、損害賠償、債権者代位権、債権者取消権までを順に取り上げる。出典文では、これらの論点について判例・学説の解釈を踏まえて考察することが示されている。
+quotedDescription:
+  text:
+    ja: 民法第三編債権として、各種の債権発生原因（契約・事務管理・不当利得・不法行為）から生じる債権に共通の効果を規定している制度を概観し、現代の諸問題に対して、判例・学説が解釈によっていかに対応する諸準則を展開しているかを考察する。講義項目の順序・日程などの詳細な予定は、教科書等の説明と共に、最初の時間に示す。また、講義の際には、レジュメを配布する。
+  source: https://ocw.kyoto-u.ac.jp/course/735/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松岡 久和
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　債権総論導入編　講義を進めるにあたって／民法とは／債権総論の位置'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: '講義資料: 第2回　債権の種類(1)　債権の種類序論／特定物債権と種類債権'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: '講義資料: 第3回　債権の種類(2)　特定物債権と種類債権（続）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第4回\t債権の効力(1) 債権の構造〜現実的履行の強制"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第5回\t債権の効力(2) 債務不履行の構造と種類"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第6回\t債権の効力(3) 債務不履行の種類と帰責事由"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第7回\t債権の効力(4) 損害賠償の範囲"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第8回\t債権の効力(5) 賠償額の算定時期・賠償額の調整ほか"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第9回\t債権の効力(6) 補論：債務不履行と不法行為、請求権競合論"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第10回\t債権の効力(7) 債権者代位権"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第11回\t債権の効力(8) 債権者取消権(1)"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第12回\t債権の効力(9) 債権者取消権(2)"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第13回\t債権の効力(10) 第三者による債権侵害とそれに対する法的救済"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第14回\t多数当事者の債権関係(1) 分割債権関係・不可分債権関係・連帯債務（上）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第15回\t多数当事者の債権関係(2) 連帯債務（下）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第16回\t多数当事者の債権関係(3) 保証債務（上）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第17回\t多数当事者の債権関係(4) 保証債務（下）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第18回\t債権譲渡(1) 序論・債権の譲渡性その他"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第19回\t債権譲渡(2) 指名債権譲渡の対抗要件"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第20回\t債権譲渡(3) 債権譲渡の特別法・債務引受等"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第21回\t債権の消滅(1) 弁済・代物弁済"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第22回\t債権の消滅(2) 弁済の提供・債権者遅滞"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第23回\t債権の消滅(3) 種類債務の特定・特別編"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第24回\t債権の消滅(4) 求償と代位"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第25回\t債権の消滅(5) 相殺"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_25.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: "講義資料: 第26回\t債権の消滅(6)／債権と物権"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3_26.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: '講義資料: 2003年度経済学部 民法第三部 試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3-exam_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+- name: '講義資料: 2003年度法学部 民法第三部 試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2003_minopu-3-exam_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/735/
+extensions:
+  faculty: 法学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

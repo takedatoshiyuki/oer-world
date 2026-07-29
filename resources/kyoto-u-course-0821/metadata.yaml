@@ -1,0 +1,80 @@
+slug: kyoto-u-course-0821
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/821/
+type:
+- LearningResource
+- Course
+name:
+  ja: 文学研究科GCOE「親密圏と公共圏の再編成をめざすアジア拠点」台湾大学東アジア社会学国際学術検討会
+description:
+  ja: 台湾大学での東アジア社会学に関する国際学術検討会の記録で、基調報告と複数の分科会で構成される。分科会ではジェンダー、家族、越境移動、文化と近代化、組織文化史、市民社会、科学と物理などの主題を扱う。
+quotedDescription:
+  text:
+    ja: '基調報告：
+
+      Ming-Tseng Lee（国立台湾大学）
+
+      太郎丸 博（京都大学）
+
+       
+
+      分科会：
+
+      Gender and Sexuality I, II
+
+      Gender and Family I, II
+
+      Cross-Border Migration
+
+      Culture and Modernization
+
+      Organizational Culture History
+
+      Civil Society
+
+      Physics and Science'
+  source: https://ocw.kyoto-u.ac.jp/course/821/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: Ming-Tseng Lee
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 太郎丸 博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-07-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 文学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

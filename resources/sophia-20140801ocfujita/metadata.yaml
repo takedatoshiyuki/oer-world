@@ -1,0 +1,46 @@
+slug: sophia-20140801ocfujita
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140801ocfujita/
+type:
+- LearningResource
+- Course
+name:
+  ja: CLILで学ぶ上智の英語
+description:
+  ja: 上智大学が提供し、藤田保が担当する2014年度の講義である。講義名からは、CLILを用いて上智の英語を学ぶ内容であることが分かる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 藤田 保
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 大学
+  term: 2014年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

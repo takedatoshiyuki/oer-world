@@ -1,0 +1,66 @@
+slug: utokyo-series-mt2o7gjbzlct
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=mT2o7GjbzlCT
+type:
+- LearningResource
+- Course
+name:
+  ja: Tell the World - Global research outreach at the University of Tokyo
+description:
+  ja: 東京大学の研究成果を英語で発信する方法を扱う半日のワークショップをもとにした教材である。講演会とポスターセッションを通じて、研究者、学生、職員が研究発信に関わる場面を扱う。英語で実施され、国籍を超えたネットワーク形成にも触れている。
+quotedDescription:
+  text:
+    ja: "素晴らしい研究成果が出ました。それをどうやって世界に発信すればよいのでしょうか？   \n    東京大学広報室は、研究成果を英語で発信するための半日のワークショップ（講演会およびポスターセッション）を本郷キャンパスで開催しました。\
+      \      英語で行われたこの      ワークショップでは、東京大学の研究者、学生、研究活動および研究発信に関わる職員が、国籍を超えたネットワークを作りました。   \n  イベント詳細は\
+      \     …"
+  source: https://ch.u-tokyo.ac.jp/series/?id=mT2o7GjbzlCT
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高祖 歩美
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小松 陽一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Jonathan Woodward
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Anupreeta More
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

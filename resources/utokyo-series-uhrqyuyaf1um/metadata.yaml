@@ -1,0 +1,58 @@
+slug: utokyo-series-uhrqyuyaf1um
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=UHRQyUYaf1uM
+type:
+- LearningResource
+- Course
+name:
+  ja: 東洋文化研究所公開講座 第20回 アジアの書
+description:
+  ja: 東洋文化研究所に新たに加わった、明代刊行の『新刻彙正十八国闘宝伝』を手がかりに、中国の書物を扱う。春秋時代の伍子胥を主人公とする通俗小説として、この資料の性格を紹介しつつ、新発見の作品に触れる。
+quotedDescription:
+  text:
+    ja: '東洋文化研究所は数多くの貴重書を収蔵しています。このたび、中国で明の時代に出版された『新刻彙正十八国闘宝伝』という本が、新たにその仲間に加わりました。
+
+      春秋時代に実在した伍子胥という文武両道の名将を主人公とする通俗小説で、これまで存在が知られていなかった、新発見の作品です。
+
+      とはいえ、そのストーリーは、今まで誰も知らなかったお話というわけではありませんでした。それどころか、明よりも前の元の時代か…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=UHRQyUYaf1uM
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上原 究一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文化・芸術・文芸
+- 歴史
+- 小説
+- 資料
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

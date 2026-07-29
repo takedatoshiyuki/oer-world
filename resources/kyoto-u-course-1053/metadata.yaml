@@ -1,0 +1,49 @@
+slug: kyoto-u-course-1053
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1053/
+type:
+- LearningResource
+- Course
+name:
+  ja: ILASセミナー：Physical Computing 入門, 2021
+description:
+  ja: 京都大学が提供する、2021年開講の全学共通科目の講義である。担当は喜多 一で、前期に日本語で実施される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多 一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-07-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- engineering
+- ict
+keywords:
+- 電子工学
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

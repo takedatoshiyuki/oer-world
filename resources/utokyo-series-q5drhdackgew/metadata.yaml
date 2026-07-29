@@ -1,0 +1,60 @@
+slug: utokyo-series-q5drhdackgew
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Q5DrHdacKGew
+type:
+- LearningResource
+- Course
+name:
+  ja: 量子統計の進歩−理論研究40年を振り返って− （高橋實最終講義）
+description:
+  ja: 本教材は、高橋實による最終講義として、量子統計をめぐる理論研究の歩みを振り返る。内容は、1次元量子系のベーテ仮説法、低次元磁性体に対するスピン波理論、量子モンテカルロ法の多体系への適用を扱う。あわせて、研究者としての略歴も示されている。
+quotedDescription:
+  text:
+    ja: "【研究概要】\n1.１次元量子系のベーテ仮説法による研究\n2.スピン波理論による低次元磁性体の研究\n3.量子モンテカルロ法の多体系への適用\n【教授略歴】\n1967年 3月\t \t\
+      \ 東京大学教養学部基礎科学科卒\n1972年 3月\t \t 東京大学理系大学院博士課程修了\n1972年 4月\t \t 大阪大学教養部助手\n1978年 8月\t \t 東京大学物性研助教授\n\
+      1991年 3月\t \t 東京大学物性研教授"
+  source: https://ch.u-tokyo.ac.jp/series/?id=Q5DrHdacKGew
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 實
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- engineering
+keywords:
+- 宇宙・物理
+- ロボット・技術
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 理学部・理学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

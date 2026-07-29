@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0071
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/71/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフトマター/ソフトマター物理学基礎論
+description:
+  ja: 高分子、液晶、両親媒性分子などのソフトマターを、物性物理学の立場から扱う講義である。対象は理学部の物理系学生と、理学研究科の物理学・宇宙物理学専攻の修士課程学生で、基礎から説明する内容になっている。講義ノートが公開されている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      理学部の物理系の学生、及び理学研究科の物理学・宇宙物理学専攻の修士課程の学生を対象とする。
+
+      授業の紹介
+
+      高分子、液晶、両親媒性分子等「ソフトマター」と総称される物質系を物性物理学の立場からどのように扱うか、その基礎から説明する。'
+  source: https://ocw.kyoto-u.ac.jp/course/71/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山本 潤
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 瀬戸 秀紀
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_softmatter-hardmatter-butsurigakukisoron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/71/
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

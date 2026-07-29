@@ -1,0 +1,151 @@
+slug: icu-ge-ges009-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges009_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Debates in International Relations Ｓ１：国際関係ディベート'
+description:
+  ja: 国際関係論の主要な理論を確認し、それを手がかりに日本の国際関係をめぐる論点を政策ディベートで扱う講義である。憲法9条や特定秘密保護法、TPP、難民受入れ、炭素税などのテーマを通して、理論と討論を結びつける。授業の一部は動画として公開されている。
+quotedDescription:
+  text:
+    ja: 'Based on the basic knowledge of contending theories of international relations reviewed in the
+      course, students are encouraged to develop their critical thinking skills through policy debate
+      on the current topics of Japan’s international relations.
+
+      国際関係論の主要な理論を概観し基本的な知識を習得する。その理論をもとに討論を通じて国際関係理論のロジックを実践的に身につける。
+
+      Contents of Lectures
+
+      1
+
+      8
+
+      Lectures  /
+
+      2
+
+      Videos
+
+      Dec 09
+
+      ディベートで学ぶ国際関係
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。
+
+      Dec 12
+
+      政策ディベート（基礎編）
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。
+
+      Dec 16
+
+      ディベートで使える国際関係学の理論
+
+      Dec 19
+
+      政策ディベート（実践編）
+
+      Jan 06
+
+      日本国憲法第９条は改訂すべきか。
+
+      Jan 09
+
+      日本は特定秘密保護法を廃止すべきか。
+
+      Jan 16
+
+      普天間基地機能は沖縄県外に移設すべきか。
+
+      Jan 20
+
+      日本は国連安保理常任理事国になるべきか。
+
+      Jan 23
+
+      日本政府は難民受入れを大幅に増加すべきか。
+
+      Jan 27
+
+      日本は死刑制度を廃止すべきか。
+
+      Jan 30
+
+      G20 諸国は国際金融取引税を導入すべきか。
+
+      Feb 03
+
+      日本は TPP 交渉においてすべての品目の関税を撤廃すべきか。
+
+      Feb 06
+
+      日本政府は原則すべての職種において外国人労働者を認めるべきか。
+
+      Feb 10
+
+      日本政府は 2015年までにODA/GNI 比0.7％目標を達成すべきか。
+
+      Feb 13
+
+      日本政府はすべての小学校で英語教育を教科化すべきか。
+
+      Feb 17
+
+      日本政府は炭素税を導入すべきか。
+
+      Feb 20
+
+      日本政府はすべての原子力発電所を直ちに廃止すべきか。
+
+      Feb 24
+
+      （予備日）'
+  source: https://ocw.info.icu.ac.jp/ge/ges009_2013w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 毛利勝彦
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES009 | Course Schedule: 4*/M, 4*/TH | Update: 2014.05.20'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

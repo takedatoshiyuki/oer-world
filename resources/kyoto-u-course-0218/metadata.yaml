@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0218
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/218/
+type:
+- LearningResource
+- Course
+name:
+  ja: 水産・臨海・臨湖実験所フィールド実習ワークショップ「魅力ある、効果の高いフィールド実習を考える」
+description:
+  ja: 水産・臨海・臨湖の実験所で行うフィールド実習を題材に、実習の具体例を共有しながら内容を検討するワークショップである。複数の施設の報告をもとに、実習のあり方や組み立て方について意見交換する構成になっている。
+quotedDescription:
+  text:
+    ja: '詳細HP（フィールド科学教育研究センター）→ http://fserc.kyoto-u.ac.jp/wp/blog/archives/10041
+
+       
+
+      趣旨
+
+      最近、学生のフィールド離れが顕著であり、実習参加希望者が減少傾向にあるようです。ファミコンのせいだけではないかもしれませんが、子供達が外で遊ばなくなり、大学生の中にも森や川、海で遊んだことのない学生が数多く見られます。若者が自然環境に対する興味を失いつつあることが危惧されます。人類の持続可能な社会の構築のためには、将来日本をリードする立場に立つ大学生が、人類が実際に暮らし多大な恩恵を受けている自然環境と、自然の恵みを生み出すメカニズムを五感で体験し、自然環境の重要性とその仕組みを正しく理解することが極めて重要です。そのためには、まず大学生をフィールドに連れて行く必要があり、さらに、目的に沿った効果的な実習内容が求められます。今回のワークショップでは、いくつかの施設から実習の具体例を報告してもらい、アイデアや意見交換を行うことによって、魅力ある教育効果の高いフィールド実習について検討することを目的としています。'
+  source: https://ocw.kyoto-u.ac.jp/course/218/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-11-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

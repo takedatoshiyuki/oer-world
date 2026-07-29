@@ -1,0 +1,61 @@
+slug: hokudai-recurrent2018
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/recurrent2018
+type:
+- LearningResource
+- Course
+name:
+  ja: 学芸員リカレント教育プログラム 特論１ くみたて和室 × 煎茶のコラボレーションイベント (2018)
+description:
+  ja: 北海道大学のキャンパスを会場に、「くみたて和室」と煎茶席を組み合わせた特別講義として行われる。設置から撤収までの流れの中で、煎茶の歴史や美、文学や美術をめぐる対話を扱う。
+quotedDescription:
+  text:
+    ja: "学芸員リカレント教育プログラムの特別講義を、一般公開いたします。北大工学院建築デザイン学研究室が取り組む「くみたて和室」と、文学や芸術を語り合うサロン文化を継承する「煎茶一茶菴」。そのコラボレーションが北海道大学のキャンパスに繰り広げられます。\n\
+      \ \nくみたて和室 × 煎茶\n「くみたて和室」と「煎茶」のコラボレーションによって、北海道大学のキャンパスに「場」が現れ、「人」が集い、「美」を語り感じる、一日限りの時空そそぐ光と、そよぐ風を、身体と心に感じながら、この日、この場で展開する、ひとつらなりの出来事は「学芸リカプロ」のもくろみのひとつーーイベント、エクシビション、あるいはフォーラム、そして、ミュージアムーーその根源（アルケー）を探るこころみでもあります。\n\
+      講師：佃 一輝（一茶庵宗家）\n小澤 丈夫（北海道大学工学研究院 教授）\n企画：鈴木 幸人（北海道大学文学研究科 准教授）\n協力：北海道大学工学研究院 建築デザイン学研究室\n \nプログラム\n\
+      くみたて和室の設置：くみたてプロジェクト解説\n煎茶席のしつらえ：煎茶の歴史とその美の概説\n煎茶席での語らい：文学や美術を巡っての対話\nくみたて和室の撤収：本イベントの位置づけ考察\n \n\
+      主催：北海道大学文学研究科 学芸員リカレント教育プログラム（プログラム代表 佐々木 亨）\n共催：北海道大学総合博物館、同工学研究院、同アイヌ・先住民研究センター、同CoSTEP、同TERRACE\n\
+      助成：文化庁平成30年度大学における文化芸術推進事業\n「ミュージアム学芸員の企画展制作〈立案・運営・評価〉スキル養成深化プログラム」"
+  source: https://ocw.hokudai.ac.jp/lecture/recurrent2018
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佃 一輝
+  affiliation:
+    name: 一茶庵宗家
+- type: Person
+  name: 小澤 丈夫
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 今村 信隆
+  affiliation:
+    name: 北海道大学大学院文学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

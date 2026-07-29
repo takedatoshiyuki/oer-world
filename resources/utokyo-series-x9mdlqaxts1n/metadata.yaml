@@ -1,0 +1,98 @@
+slug: utokyo-series-x9mdlqaxts1n
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=x9MdlqaxTs1n
+type:
+- LearningResource
+- Course
+name:
+  ja: 第133回（2021年秋季）東京大学公開講座「繋がる」
+description:
+  ja: 多様な個性や背景を持つ子どもたちが共に学ぶために必要な条件を扱い、日本のインクルーシブ教育の課題と展望を具体例に沿って考える講義である。特別支援教育対象児童生徒の増加にも触れながら、教育のあり方を論じる。
+quotedDescription:
+  text:
+    ja: '特別支援教育対象児童生徒は年々8％前後増え続けています。
+
+      多様な個性やバックグラウンドを持つ子どもたちが「共に学ぶ」ために必要なことはなにか、
+
+      日本のインクルーシブ教育の課題と展望を具体的な事例に則してお話ししたいと思います。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。
+
+      こちらの動画の概要を特集記事でもご紹介してい…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=x9MdlqaxTs1n
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小国 喜弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 檜山 敦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長井 志江
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 池澤 優
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 金 貝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐久間 一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡部 明子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 耕一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+- ict
+keywords:
+- 教育
+- 人口・社会問題
+- AI・情報
+- ロボット・技術
+- 生命・医療
+- 都市・建築
+- 歴史
+- 居場所のデザイン
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

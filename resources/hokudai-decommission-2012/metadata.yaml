@@ -1,0 +1,57 @@
+slug: hokudai-decommission-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/decommission-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 原子力発電所の廃炉と放射性廃棄物の処分（2012）
+description:
+  ja: 福島第一原子力発電所事故後に生じる廃炉関連の課題を扱い、除染廃棄物や汚染水、溶融燃料、原子炉解体で生じる廃棄物の処理・処分を取り上げる。あわせて、原子炉の廃炉方法、解体廃棄物の種類と量、使用済核燃料の再処理、放射性廃棄物の処分方法と安全性を解説する。
+quotedDescription:
+  text:
+    ja: 福島第一原子力発電所の事故から２年。福島の環境修復から生じる除染廃棄物、発電所内の溶融燃料、汚染水、原子炉の解体で生じる廃棄物等の安全な処理・処分が大きな課題となっている。ここでは、通常の運転の末に役目を終えた原子炉の廃炉方法とその技術、廃炉で発生する解体廃棄物の種類と物量、使用済核燃料の再処理方法とその利点などを解説する。また、現在進められている放射性廃棄物の処分方法とその安全性を整理した上で、福島の復興と未来の地球環境のために我々が為すべきことを考えたい。
+  source: https://ocw.hokudai.ac.jp/lecture/decommission-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小崎 完
+  affiliation:
+    name: 北海道大学大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 福島原発事故
+- 原子力発電所
+- 放射性廃棄物
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

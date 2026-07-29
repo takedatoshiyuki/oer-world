@@ -1,0 +1,57 @@
+slug: kyoto-u-course-1004
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1004/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】”立ち止まって、考える” シーズン2 「科学哲学の観点からみたコロナをめぐる言説」
+description:
+  ja: 新型コロナウイルスをめぐって語られてきた感染経路、治療法、対処法などの話題を、科学哲学の観点から取り上げる。科学の方法論に関する考え方を踏まえ、情報の真偽やもっともらしさをどう受け止めるかを考える内容である。
+quotedDescription:
+  text:
+    ja: 'この一年間、われわれは新型コロナウイルスについて、感染経路や治療法・対処法などいろいろなことを語り合ってきました。このウイルスについての科学的な情報の真偽やもっともらしさを見極めなくてはならないようなことがらも多かっただろうと思います。
+
+      わたしが専門とする科学哲学は、科学の実践とは少し距離をおきながら、科学の方法論などについて考える分野です。　決して直接どの情報が信用できるかが科学哲学からわかるわけではありませんが、そうした情報との接し方、距離のとり方について、少し参考になるような話はできるのではないかと思います。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1004/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 伊勢田 哲治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

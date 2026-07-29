@@ -1,0 +1,49 @@
+slug: sophia-20091215renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20091215renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第6回
+description:
+  ja: 上智大学による「ソフィアルネッサンス連続講演会」の第6回にあたり、藤田和芳が担当する講演資料を公開している。2009年12月15日に開講された回の教材として、PDF形式の講義資料が付属する。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 藤田 和芳(NGO大地を守る会 会長)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20091215renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20091215renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20091215renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2009/12/15
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0524
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/524/
+type:
+- LearningResource
+- Course
+name:
+  ja: 海洋生物科学技術論と実習Ⅲ
+description:
+  ja: 環境微生物学に関心のある学生を対象に、細菌とウイルスを分子生物学的手法で扱う実習型の教材である。講義に加えて野外資料の採取や細菌・ウイルスの計数を行い、水域環境とミクロな生物との関係を学ぶ内容になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本自習は、環境微生物学に興味を持った学生を対象としています。分子生物学的手法を学習し、目には見えないけれども、環境では多数派 (“Unseen majority”) の細菌やウイルスを見ることができます。
+
+      授業の紹介
+
+      細菌とウイルスは水圏環境において最も豊富に存在する生物学的存在です。そして細菌とウイルスは、水圏における物質循環にきわめて大きな影響を及ぼしていると考えられています。本実習では、講義、野外資料の採取、分子生物学的手法を用いて細菌とウイルスを数えることによって、水域環境が、こうした圧倒的な数のミクロの生物によって支えられていることを体感し、身近な水域環境の生態への理解を深めることを目指します。'
+  source: https://ocw.kyoto-u.ac.jp/course/524/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 左子 芳彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉田 天士
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_kaiyouseibutsukagakugijutsuron-jisshuu-3_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/524/
+- name: '講義資料: 操作テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2011_kaiyouseibutsukagakugijutsuron-jisshuu-3_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/524/
+extensions:
+  faculty: 農学部
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

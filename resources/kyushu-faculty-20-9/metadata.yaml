@@ -1,0 +1,93 @@
+slug: kyushu-faculty-20-9
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報処理演習
+description:
+  ja: 九州大学の基幹教育・全学教育で2016年に開講された「情報処理演習」の教材である。藤村直美が担当し、日本語の講義資料PDFが複数公開されている。
+inLanguage:
+- ja
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 藤村 直美
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 基幹教育・全学教育
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 3.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/3.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 4.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/4.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 5.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/5.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 6.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/6.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 7.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/7.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 8.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/8.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 9.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/9.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 10.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/10.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 11.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/11.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 12.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/12.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 14.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/14.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+- name: '講義資料: 15.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9/15.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/9.html
+extensions:
+  faculty: 基幹教育・全学教育
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

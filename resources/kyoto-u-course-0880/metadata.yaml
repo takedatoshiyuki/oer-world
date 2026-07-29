@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0880
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/880/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学ユネスコチェア設立記念国際シンポジウム〜水・エネルギー・防災分野における持続可能な開発〜
+description:
+  ja: 京都大学ユネスコチェアWENDIの設立を受けて開かれたキックオフシンポジウムで、水・エネルギー・災害研究と持続可能開発教育（HESD）の関係を扱う。大学院生がグローバルリスクや地球規模課題を自主的・系統的に学ぶ場としての構想も示している。
+quotedDescription:
+  text:
+    ja: '持続可能社会のための高等教育・研究（HESD）の展開―ユネスコチェア・センターとの協働
+
+       
+
+      概要
+
+      本学に水・エネルギー・災害研究に関するユネスコチェア（京都大学ユネスコチェアWENDI）が設立されたことを受けて、キックオフシンポジウムを開催します。
+
+      グローバルリスクあるいは地球規模課題の解決 －それは人類共通のテーマであり、問題の所在の認知、世界的な取り組みの状況の把握、解決に向けた方策の模索が必要です。WENDIでは、これらを大学院生が自主的・系統的に学ぶ場を提供することにより、社会の諸問題を解決する視野を持った人材として育つことを支援します。こうした系統的・学際的な大学院レベルの持続可能開発教育（HESD）を全国に先駆けて実践します。'
+  source: https://ocw.kyoto-u.ac.jp/course/880/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-07-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

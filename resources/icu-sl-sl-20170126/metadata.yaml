@@ -1,0 +1,45 @@
+slug: icu-sl-sl-20170126
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/sl/sl_20170126
+type:
+- LearningResource
+- Course
+name:
+  ja: 「経済の中に倫理を見出すー日本の伝統芸能と資本主義の新しい形」
+description:
+  ja: 岩井克人が担当する、国際基督教大学提供の講義である。講義名からは、経済と倫理の関係を、日本の伝統芸能と資本主義のあり方に結びつけて考える内容であることが読み取れる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 岩井克人
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017-01-26'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 公開講演・特別講義
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,79 @@
+slug: sophia-20110129lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智大学フランス文学科主催シンポジウム
+description:
+  ja: 上智大学フランス文学科が主催するシンポジウムの講義資料をまとめた教材である。2011年1月29日に文学部で行われ、日本語の資料PDFが複数公開されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 澤田 肇(上智大学教授)ほか
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20110129lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_02.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_02.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_03_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_03_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_03_02_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_03_02_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_04_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_04_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_05_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_05_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_06_01_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_06_01_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_06_02_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_06_02_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_06_03_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_06_03_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+- name: '講義資料: 20110129lecture_06_04_Compressed.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110129lecture_06_04_Compressed.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110129lecture/
+extensions:
+  faculty: 文学部
+  term: 2011/01/29
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

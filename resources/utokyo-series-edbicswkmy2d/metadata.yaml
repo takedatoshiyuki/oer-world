@@ -1,0 +1,63 @@
+slug: utokyo-series-edbicswkmy2d
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=EDbiCswKmy2D
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語情報科学
+description:
+  ja: 日本語や英語などの自然言語を計算機で処理するための基礎と応用を扱う講義である。形態素から句、節、文、談話へと進む言語学に立脚した処理に加え、統計的自然言語処理の基礎も取り上げる。後半では情報抽出、要約、機械翻訳、情報検索といった応用を紹介し、最後に全体を総括して歴史的意義と今後の方向を議論する。
+quotedDescription:
+  text:
+    ja: '日本語、英語などの自然言語の計算機処理に関する基礎的項目の概観と応用の紹介を行う。特にこの授業ではテキストとして書かれた言語の処理を扱う。
+
+      前半では言語学に立脚する自然言語処理について述べる。すなわち、意味を持つ最も小さな言語単位である形態素の解析から初めて順次より大きな言語単位の処理に進む。すなわち、句、節、文、そして文の連続である談話である。
+
+      中盤は1990年代以降盛んになった統計学に基礎を置く、いわゆる統計的自然言語処理の基礎について説明する。
+
+      後半は統計的自然言語処理の重要な応用、すなわち情報抽出、要約、機械翻訳、情報検索について紹介する。
+
+      最終回は以上で説明してきたことを総括して、その歴史的意義付けと未来の方向性を議論する。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=EDbiCswKmy2D
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中川 裕志
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 情報理工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

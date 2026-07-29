@@ -1,0 +1,59 @@
+slug: hokudai-polishliterature-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/polishliterature-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: GCOE総合博物館市民セミナー ポーランド文学と越境 （2011）
+description:
+  ja: ポーランドが分割・侵略・占領を経験するなかで生まれた亡命や移住の歴史を背景に、作家の経験と文化活動を通じて境界の問題を扱う講義である。社会・文化・民族のあいだにある境界が、どのように知覚され、越えられてきたかを考える。
+quotedDescription:
+  text:
+    ja: '列強諸国による分割、侵略、占領－ポーランドは、政治的歴史的変動が起こるたびに数多くの亡命者や移民を世に送り出してきた国です。
+
+      本講演は、亡命や移住の経験を持つ作家と彼らの文化活動を通して、社会・文化・民族の間を横切る様々な「境界」がどのように知覚され、踏み越えられてきたかを紹介します。
+
+      ‡ これらの資料は制限資料です。'
+  source: https://ocw.hokudai.ac.jp/lecture/polishliterature-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 井上 暁子
+  affiliation:
+    name: スラブ研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- ポーランド
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: GCOE総合博物館市民セミナー
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

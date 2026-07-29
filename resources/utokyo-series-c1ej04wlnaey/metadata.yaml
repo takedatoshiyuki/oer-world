@@ -1,0 +1,65 @@
+slug: utokyo-series-c1ej04wlnaey
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=C1ej04wLNaEy
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語論文セミナー 2014
+description:
+  ja: 国際誌で研究成果を発表し、論文を投稿する際に押さえるべき点を扱うセミナーである。編集者と投稿者の双方の視点から、投稿に関わる基本的な要点を取り上げる。大学院生や、初めて国際誌の査読に携わる若手研究者を対象とする。
+quotedDescription:
+  text:
+    ja: "研究成果を国際誌で発表することは、社会に新しい知見をもたらすだけでなく、学術研究に携わる院生・研究者のキャリアにとっても非常に重要です。このセミナーでは、国際学術誌の編集者と投稿者という両方の立場から、論文投稿において欠かせないポイントをお話します。文系理系問わず、これから国際誌に投稿してみようという大学院生や、初めて国際誌の査読に携わる若手研究者におすすめの内容です。\
+      \ \n \n  00:14 Introduction …"
+  source: https://ch.u-tokyo.ac.jp/series/?id=C1ej04wLNaEy
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: ヤン・ヴィレム・ヴァイネン
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 隆史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: マリー・ニシカワ
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育
+- 論文執筆
+- 科学論文
+- 英語論文
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0063
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/63/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第62回 京都大学品川セミナー「人と自然のつながり：森里海の連環」
+description:
+  ja: '森・川・海のつながりを手がかりに、森里海連環学の考え方を紹介する講義である。川の水に含まれる有機物、窒素栄養塩、鉄を通して、森と海の関係をどのように読み取るかを扱う。
+
+    あわせて、里を含む人と自然の関係にも話を広げ、環境意識や価値判断についても考える。森の写真を例に、人が自然とのつながりをどう捉えるかも取り上げる。'
+quotedDescription:
+  text:
+    ja: '森と川と海がつながっていること、最近では、いろんなところで話題になっています。そのきっかけは、宮城県気仙沼の牡蠣漁師である畠山重篤さんの「森は海の恋人」活動でした。私たち京都大学フィールド科学教育研究センターでは、2003年のセンター設立以来、畠山さんを社会連携教授に迎え、新しい学術の分野として「森里海連環学」を提唱して研究と教育を進めてきました。
+
+      「森」と「海」は、川を通じてつながっています。川には降った雨がそのまま流れているだけではありません。森林生態系の中で消費と生産の結果として生じ、余ったものが水と一緒に流れています。そして、それらの物質は、川の水が流れ込む海の生態系に大きな影響を及ぼします。私たちは、森のこと、海のこと、そして森と海のつながりについて研究を続けてきました。今回の品川セミナーでは、川の水を調べることで、森の何が分かるのか、森と海のつながりの何が分かるのかについてお話ししたいと思います。
+
+      キーワードは、川の水に溶けている、有機物、窒素栄養塩と鉄です。
+
+      もう一つお話ししたいことがあります。森里海連環学では、森と海だけではなく、里も研究の対象です。里の主人公は、人です。人と森や川や海とのつながりとは何でしょうか。
+
+      講演中に二つの森の写真をお見せします。あなたは、どちらの森が好きですか。
+
+      右ですか、それとも、左？　なぜ、その森が好きなのでしょう？
+
+      それぞれの理由があり、あなたと森のつながりのことを物語ってくれているのかもしれません。その物語をよく聞くことが、遠回りでも環境問題を解決するために必要なことではないか。
+
+      そんな考えから、人と自然のつながりについてもお話ししたいと思います。
+
+      キーワードは、環境意識と価値判断です。'
+  source: https://ocw.kyoto-u.ac.jp/course/63/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

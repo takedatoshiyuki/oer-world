@@ -1,0 +1,96 @@
+slug: kyushu-faculty-05-1
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+type:
+- LearningResource
+- Course
+name:
+  ja: 数値解析
+description:
+  ja: 自然現象や科学的諸問題を数式で表し、その方程式をコンピュータで解くための数値計算法を扱う。教材では、そうした計算法とその性質について述べる。
+quotedDescription:
+  text:
+    ja: '自然現象や科学的諸問題は、しばしば数式を用いてモデリングされます。
+
+      このような数式はほとんどの場合、複雑な方程式の形をしており、コンピュータを援用しなければ解けません。
+
+      したがって、このような方程式をコンピュータで効率よく解くための計算法が必要になります。
+
+      この授業の目的は、このような数値計算法やその性質などを述べることです。'
+  source: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+  note: 九州大学OCW (QOCW) 「授業の目的」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 青柳 睦
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 学部・大学院講義
+audience:
+- student
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 3.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/3.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 4.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/4.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 5.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/5.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 6.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/6.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 7.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/7.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 8.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/8.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 9.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/9.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 10.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/10.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 11.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/11.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+- name: '講義資料: 12.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1/12.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/05/1.html
+extensions:
+  faculty: 理学部・理学府・数理学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

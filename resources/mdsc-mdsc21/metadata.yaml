@@ -1,0 +1,48 @@
+slug: mdsc-mdsc21
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc21
+type:
+- LearningResource
+- Course
+name:
+  ja: NEXRAD on AWS
+description:
+  ja: 北海道大学 数理・データサイエンス教育研究センターが提供し、教育用データベース分科会が担当する講義である。講義名からNEXRADとAWSを扱う内容であることが分かるが、具体的な扱いの範囲や構成は与えられた情報には示されていない。
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc21
+  summary:
+    ja: オープンライセンス（詳細はデータセットページの表示に従う）。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-12'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- agriculture
+keywords:
+- 学術研究・専門・技術サービス
+- 宿泊業・飲食サービス業
+- 漁業
+- 農業・林業
+- 画像
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: low

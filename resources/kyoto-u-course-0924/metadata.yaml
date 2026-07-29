@@ -1,0 +1,42 @@
+slug: kyoto-u-course-0924
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/924/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回 国際シンポジウム An Initiative of Global Leaders for Human Survivability, 2014
+description:
+  ja: 京都大学が提供し、総合生存学館（思修館）で開講された2014年の国際シンポジウムである。使用言語は日本語と英語である。
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-11-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

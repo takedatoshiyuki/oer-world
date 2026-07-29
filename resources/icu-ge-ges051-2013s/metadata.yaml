@@ -1,0 +1,63 @@
+slug: icu-ge-ges051-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges051_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: Media and Cultural Signs Ｓ２：メディアと記号'
+description:
+  ja: メディアを通じて意味がどのように社会的に構築されるかを扱い、記号論的分析によって日常で見過ごしやすい記号の意味を読み解く。文化記号論に基づき、多様な記号を批判的に解釈する視点を示す。授業内容をまとめたダイジェスト版として公開されている。
+quotedDescription:
+  text:
+    ja: 'The course examines how meaning is socially constructed through media. Semiotic analysis allows
+      us to reveal the meanings of various signs which we may overlook in everyday life and to open up
+      the possibility of different interpretation.
+
+      様々なメディアを通して構築される私たちの周りの世界の意味を読み解いていく。文化記号論的な考え方に基づき、日常の「当たり前」を見直すために、多様な記号のクリティカルな意味解釈を試みる。
+
+      ※Videos are condensed version of course.
+
+      ※この動画は授業内容をまとめたダイジェスト版を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/ges051_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 池田理知子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES051 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2013.09.05'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

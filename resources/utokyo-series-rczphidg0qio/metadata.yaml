@@ -1,0 +1,58 @@
+slug: utokyo-series-rczphidg0qio
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=RCzphIdG0qiO
+type:
+- LearningResource
+- Course
+name:
+  ja: 血管新生因子の癌と炎症への関与（澁谷正史最終講義）
+description:
+  ja: 東京大学医学部・医学系研究科で開講された澁谷正史の最終講義で、血管新生因子が癌と炎症にどう関わるかを扱う。説明文には、講義の背景として分子生物学や基礎生物科学の研究経歴が示されており、がん関連遺伝子や血管内皮増殖因子とその受容体の研究が含まれる。
+quotedDescription:
+  text:
+    ja: "【研究概要】\n複合領域\t／基礎生物科学／分子生物学\n【教授略歴】\n1970年　　　　東大医学部医学科卒\n1970-73年　　東大病院第三内科などで臨床研修\n1973年-76年　東大医科研、化学研究部（上代淑人教授）\n\
+      大腸菌の遺伝子発現調節機構を研究\n1976年7月　　東大医科研、化学研究部助手\n1979年9月　　米国ロックフェラー大学、花房秀三郎\n教授のもとへ留学、\nＲＮＡ腫瘍ウイルス、がん遺伝子を研究\n\
+      1982年9月　　帰国、東大医科研、細胞遺伝学研究部助教授、\n1990年12月　　同　　教授\nがん関連遺伝子群、プロテインキナーゼ群、\n血管内皮増殖因子と受容体などを研究"
+  source: https://ch.u-tokyo.ac.jp/series/?id=RCzphIdG0qiO
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 澁谷 正史
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 医学部・医学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

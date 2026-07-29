@@ -1,0 +1,88 @@
+slug: utokyo-series-lw5jcpdijeup
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=LW5jcPDIJEuP
+type:
+- LearningResource
+- Course
+name:
+  ja: 画像によるイノベーションを目指す半世紀（安田浩最終講義）
+description:
+  ja: 超高速通信網やインターネットの応用、画像処理・画像符号化・知的財産権保護技術、感性工学研究を扱う講義である。あわせて、担当教員の学歴とNTT、東京大学での経歴が紹介されている。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      超高速通信網及びその応用、インターネット及びその応用、
+
+      画像処理・画像符号化・知的財産権保護技術の研究ならびに感性工学研究
+
+      【教授略歴】
+
+      1967年　東京大学工学部電子工学科卒業
+
+      1972年　同大学院工学系研究科電子工学専攻 博士課程修了
+
+      1972年　日本電信電話公社入社
+
+      1978年　米国カリフォルニア州パサデナ市ジェット推進研究所 客員研究員
+
+      1987年　ＮＴＴヒューマンインターフェース研究所　画像メディア研究部長
+
+      1992年　ＮＴＴ企業通信システム本部　開発部長
+
+      1995年　ＮＴＴ理事・情報通信研究所所長
+
+      1997年　NTT退社
+
+      1997年　東京大学　教授 先端科学技術研究センター
+
+      1998年　東京大学　教授 国際・産学共同研究センター
+
+      2003年　東京大学　教授・国際・産学共同研究センター長
+
+      2005年　東京大学　国際・産学共同研究センター長任期終了'
+  source: https://ch.u-tokyo.ac.jp/series/?id=LW5jcPDIJEuP
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 安田 浩
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+- arts_humanities
+keywords:
+- AI・情報
+- 文化・芸術・文芸
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

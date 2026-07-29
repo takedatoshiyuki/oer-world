@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0800
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/800/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2010年度 京都大学OCWシンポジウム「オープンエデュケーション」
+description:
+  ja: 京都大学OCWシンポジウムの様子を収録したビデオを掲載する教材である。内容は、シンポジウムの映像を通じて「オープンエデュケーション」に関わる催しの様子を確認できる。
+quotedDescription:
+  text:
+    ja: 京都大学OCWシンポジウムの様子をビデオで掲載しました。下記リンクより是非ご覧ください。
+  source: https://ocw.kyoto-u.ac.jp/course/800/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

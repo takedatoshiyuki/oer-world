@@ -1,0 +1,75 @@
+slug: hokudai-thermodynamics-2003
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/thermodynamics-2003
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 物理学II 熱力学（2003）
+description:
+  ja: 熱現象に関する経験的法則を整理し，熱力学として体系化する内容を扱う。理想気体を例に状態量や熱力学変数を導入し，第1法則から比熱などを導いたうえで，第2法則と可逆・不可逆過程を考察し，エントロピーを導入する。
+quotedDescription:
+  text:
+    ja: '【概要】
+
+      熱力学は熱現象に関する経験的法則を整理し、法則に体系化したものである．はじめに、理想気体を例にして熱力学的状態とそれを表す熱力学変数について学ぶ。
+
+      さらに熱力学の第１法則を導き，比熱等の幾つかの熱力学的量を導出し，熱力学を体系的に理解する。熱現象の可逆過程と熱力学の第２法則を考察し，エントロピーの概念を導入する。
+
+      【スケジュール】
+
+      1.熱現象
+
+      2.熱平衡状態（状態量の導入と理想気体の状態方程式）
+
+      3.熱力学第１法則（エネルギー保存則と基本的な熱力学的変化の過程の考察）
+
+      4.熱力学第２法則（不可逆過程の考察とエントロピーの導入）'
+  source: https://ocw.hokudai.ac.jp/lecture/thermodynamics-2003
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 辻見 裕史
+  affiliation:
+    name: 北海道大学大学院電子科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 熱力学
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 全講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/Thermodynamics-2003-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/thermodynamics-2003
+extensions:
+  faculty: 理学部
+  targetAudience: s:70:"s:62:"s:54:"s:46:"a:2:{i:0;s:7:"1年生";i:1;s:10:" 農学部";}";";";";
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

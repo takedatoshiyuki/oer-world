@@ -1,0 +1,65 @@
+slug: icu-majors-soc102-2016a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/soc102_2016a
+type:
+- LearningResource
+- Course
+name:
+  ja: Principles of Sociology 社会学原論
+description:
+  ja: 社会学の原理と基礎概念を扱い、social action、roles、groups、institutions、systems までを取り上げる。学期によって開講言語が異なり、1回分の講義動画として提供されている。
+quotedDescription:
+  text:
+    ja: 'Introduction to sociological principles and basic concepts of sociology, with special attention
+      to social action, roles, groups, institutions and systems. Languages of instruction differs by term.
+
+      社会学の基礎理論，基礎概念を検討し社会学的なものの考え方，分析方法を解明する。学期により開講言語が異なる。
+
+      Contents of Lectures
+
+      1
+
+      Lecture /1 Video
+
+      SOC102-kim-20160926.pdf'
+  source: https://ocw.info.icu.ac.jp/majors/soc102_2016a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'Sociology 社会学 | Course ID: SOC'
+- 'SOC102 | Course Schedule: 4*/M, 4*/TH | Update: 2017.03.29 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,96 @@
+slug: kyoto-u-course-0003
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/3/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電気電子回路演習
+description:
+  ja: この教材は、USB実験装置を使って自宅でも回路実験を行える電気電子回路の演習である。線形代数や微積分の基礎知識を土台に、LTspiceやOctaveを用いながら、回路のシミュレーションから実際の装置の作成までを扱う。例題資料として結合共振器、昇圧コンバータ、移相型発振回路が公開されている。
+quotedDescription:
+  text:
+    ja: 学生１人に１台のUSB実験装置を貸与し、自宅においても回路実験が可能な環境を整えることにより、主体的な学びを実現することを目的とした演習。線形代数や微積分の基礎的な数学の知識から、回路シミュレータLTspiceや数値計算ツールoctaveも利用しながら、実際に動作する装置を作るところまで、自ら課題設定をしながら実施する。
+  source: https://ocw.kyoto-u.ac.jp/course/3/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 下田 宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 久門 尚史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 蛯原 義雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 青木 学聡
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石澤 明宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 木村 真之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-04-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- 電子工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 電気電子回路演習テキスト2020'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_denkidenshikaironyumon_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/3/
+- name: '講義資料: LTspice ガイド 電気電子回路演習編 Ver. 1.4.1.2019032'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_denkidenshikaironyumon_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/3/
+- name: '講義資料: Octave, myDAQ ガイド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_denkidenshikaironyumon_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/3/
+- name: '講義資料: 例題：結合共振器'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_denkidenshikaironyumon_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/3/
+- name: '講義資料: 例題：昇圧コンバータ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_denkidenshikaironyumon_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/3/
+- name: '講義資料: 例題：移相型発振回路'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2020_denkidenshikaironyumon_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/3/
+extensions:
+  faculty: 工学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

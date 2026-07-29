@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0851
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/851/
+type:
+- LearningResource
+- Course
+name:
+  ja: TEDxKyotoUniversity, 2018
+description:
+  ja: 京都大学が提供・担当するTEDxKyotoUniversity, 2018の講義情報で、使用言語は英語である。出典では、TEDxをTEDと同様の体験を地域ごとに提供する場として位置づけている。
+quotedDescription:
+  text:
+    ja: 'TEDxKyotoUniversity Official Website  https://tedxkyoudai.wordpress.com/
+
+       
+
+      概要
+
+      TEDxとは：「広めるべきアイディアを共有する場（ideas worth spreading）」の精神をもとに創設された米国のプレゼンシリーズ “TED” と同様の体験を、各地域で提供する。'
+  source: https://ocw.kyoto-u.ac.jp/course/851/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-ND-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-06-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+keywords:
+- デザイン学
+- 生物学・生命科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

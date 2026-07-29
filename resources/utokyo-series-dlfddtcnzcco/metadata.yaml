@@ -1,0 +1,55 @@
+slug: utokyo-series-dlfddtcnzcco
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=dlfDdtCNZCcO
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学総長賞 授与式
+description:
+  ja: 東京大学総長賞の授与式で行われた受賞者プレゼンテーションを収録する。総長賞が、学業や課外活動、社会活動、国際交流などの分野で顕著な功績を挙げた学生個人・団体を対象とする賞であることが示される。収録には、工学部と医学部の受賞者による発表が含まれる。
+quotedDescription:
+  text:
+    ja: "平成23年度総長賞授与式より、受賞者プレゼンテーションの模様を配信します。総長賞は、学業、課外活動、各種社会活動、大学間の国際交流等の分野において顕著な功績のあった学生個人又は団体を称える賞です。\
+      \ \n \n  Chapter1 00:22　小林 弘明（工学部）  \n  アンモニアを窒素源として用いた触媒的官能基変換反応系の開発 \n \n  Chapter1 04:49　赤穂 吏映（医学部）\
+      \  \n  生体脳における単一神経細胞レベルでの多重…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=dlfDdtCNZCcO
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 総長賞受賞者
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 学生研究
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0543
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/543/
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理統計学
+description:
+  ja: 確率論の入門から統計の初歩までを扱い、理論面では定式化や証明の進め方に触れる。あわせて、血液型の分布や地球温暖化の検証、気温とビール消費量の相関といった具体例を通して応用を示す。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      用語や概念に「慣れ親しむ」ことを重視し、通常の数学の講義に比べ「証明」の比重を軽くする。
+
+      授業の紹介
+
+      確率論への入門から統計の初歩までを解説する。理論部分の解説では、定式化の明快さと、証明法の効率性、わかりやすさを最大限追求する。一方、具体例への 応用では血液型の分布、地球温暖化の検証、気温とビールの消費量の相関といった、現実的かつ興味深い題材をとりあげる。'
+  source: https://ocw.kyoto-u.ac.jp/course/543/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉田伸生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2008_stat.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/543/
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

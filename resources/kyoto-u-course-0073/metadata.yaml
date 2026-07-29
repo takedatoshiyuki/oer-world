@@ -1,0 +1,80 @@
+slug: kyoto-u-course-0073
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/73/
+type:
+- LearningResource
+- Course
+name:
+  ja: 1999年台湾・集集地震（ジュニアキャンパス）
+description:
+  ja: 1999年台湾・集集地震による被害を取り上げ、被災建物の耐震補強を扱う講義資料である。鉄筋コンクリート建物の被害解析を通して、レンガ壁を併用した構造の挙動と、非線形有限要素法による検討を示す。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      1999年台湾中部地震で被災した建物の耐震補強法について視覚的に解説。
+
+      授業の内容
+
+      この講義では1999年台湾・集集地震の被害を紹介するとともに，ある鉄筋コンクリート建物の被害状況の解析を示します。この建物は近代的なコンクリート架構にレンガ壁を併用していました。構造計算上はレンガ壁の強度を無視していたのですが，実際は地震時にある程度の耐震性能を発揮したようです。そこでこの建物を非線形有限要素法という方法で詳しく解析しました。その結果，レンガ壁にも耐震性能があることが分かり，低コストのレンガ壁をさらに増設することで，この建物の変形を46%抑えられることが分かりました。'
+  source: https://ocw.kyoto-u.ac.jp/course/73/
+  note: 京都大学OCW 「授業の特色」・「授業の内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 佐藤裕一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '1999'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- engineering
+keywords:
+- 建築
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 1999年台湾・集集地震01'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/04/1999_Jiji_earthquake-01jp.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/73/
+- name: '講義資料: 1999年台湾・集集地震02'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/04/1999_Jiji_earthquake-02jp.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/73/
+- name: '講義資料: 1999年台湾・集集地震03'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/04/1999_Jiji_earthquake-03jp.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/73/
+- name: '講義資料: 1999年台湾・集集地震04'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/04/1999_Jiji_earthquake-04jp.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/73/
+- name: '講義資料: 1999年台湾・集集地震05'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/04/1999_Jiji_earthquake-05jp.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/73/
+- name: '講義資料: 1999年台湾・集集地震06'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/04/1999_Jiji_earthquake-06jp.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/73/
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

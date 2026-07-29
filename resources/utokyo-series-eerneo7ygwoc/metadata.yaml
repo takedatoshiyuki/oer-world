@@ -1,0 +1,55 @@
+slug: utokyo-series-eerneo7ygwoc
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=eerneO7YGWOc
+type:
+- LearningResource
+- Course
+name:
+  ja: 困難を抱えた学生に教員が対応するとき
+description:
+  ja: 不登校や連絡がとれない学生への対応を扱い、教職員がどう向き合うかを事例を通して示す教材である。学生相談室に教員が相談に来たという設定の模擬事例を使い、対応の仕方を説明する。視聴後にはケースを用いた討議にも利用できる。
+quotedDescription:
+  text:
+    ja: "本コンテンツは、不登校、連絡がとれない、などの困難を抱える学生への対応に困っている教職員の支援のために制作されました。コンタクトがとれなくなった学生の事例を模擬的に創作し、指導に困る教員が学生相談室に来たという設定で対応の仕方を解説します。\
+      \      ビデオ視聴後、ケースを用いて討議をするなど大人数でもご活用いただけます。   \n \n  制作・著作 \n    東京大学 学生相談ネットワーク本部　学生相談所   \n  \
+      \  …"
+  source: https://ch.u-tokyo.ac.jp/series/?id=eerneO7YGWOc
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 倉光 修
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

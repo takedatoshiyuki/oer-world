@@ -1,0 +1,63 @@
+slug: utokyo-series-hft0g5ag4mgk
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=HFt0g5aG4MGk
+type:
+- LearningResource
+- Course
+name:
+  ja: Paul Polman氏との対談イベント
+description:
+  ja: Paul Polman氏を迎えた対談イベントの記録で、藤井総長のスピーチに続いて石井菜穂子氏をモデレーターとする対談が展開される。2022年11月のG20バリとCOP27エジプトでの議論の報告と講評を踏まえ、気候変動への対応と食糧生産システムの改革を取り上げる。
+quotedDescription:
+  text:
+    ja: 'ユニリーバの前CEOであり、SDGs策定にビジネス界代表として関わった経験を持つPaul Polman氏との対談イベントの様子です。
+
+      当日は藤井総長のスピーチに続いて、Polman氏と石井理事（モデレーター）の対談形式で行われています。
+
+      対談では、2022年11月に開催された重要な二つの国際会議（G20バリ、COP27エジプト）で行われた議論の報告とPolman氏による講評に続き、気候変動に対する食糧生産システムの改革の重要性と、第2次大戦…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=HFt0g5aG4MGk
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Paul Polman
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石井 菜穂子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 対談・座談会・インタビュー
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0912
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/912/
+type:
+- LearningResource
+- Course
+name:
+  ja: 高温超伝導発見 ベドノルツ博士（ノーベル賞受賞者）を迎えて－大学への物理学：超伝導とトポロジー, 2016
+description:
+  ja: 高温超伝導体の発見者であるベドノルツ博士を迎え、発見の経緯やノーベル賞受賞者としての活動を取り上げる講義である。前半では京都大学の教員が超伝導の入門的な解説を行い、高温超伝導体を用いた実験や、超伝導とトポロジーの関係の導入にも触れる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      高温超伝導体を発見による1987年ノーベル物理学賞受賞者のべドノルツ博士を迎えて、高校生向けのメッセージを主眼に、発見の経緯やノーベル賞受賞者としての活動などをお話しいただきます。概要の通訳も致します。
+
+      前半では京都大学の教員が超伝導の入門的解説を行い、さらに高温超伝導体を用いた実験もお見せします。解説では、物質科学の分野で急速な発展を遂げつつあるトポロジーと超伝導の関係についても入門的なお話をします。
+
+       
+
+      主催：文部科学省 科学研究費補助金
+
+      新学術領域研究「トポロジーが紡ぐ物質科学のフロンティア」'
+  source: https://ocw.kyoto-u.ac.jp/course/912/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 京都大学 大学院理学研究科 物理学・宇宙物理学専攻 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 前野 悦輝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 米澤 進吾
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Johannes Georg Bednorz
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-02-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

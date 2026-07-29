@@ -1,0 +1,45 @@
+slug: kyoto-u-course-0942
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/942/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅡ「留学生への大震災情報を考える」 “The Role of Universities in the
+    Aftermath of the Great East Japan Earthquake -Avoiding Misinformation and Misunderstanding in Academic
+    Research-“
+description:
+  ja: 京都大学が国際交流センターで開講した、東日本大震災後の大学の役割を扱うシンポジウムシリーズの一回である。留学生への震災情報の伝え方に焦点を当て、学術研究における誤情報や誤解を避けることをテーマにする。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-07-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際交流センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

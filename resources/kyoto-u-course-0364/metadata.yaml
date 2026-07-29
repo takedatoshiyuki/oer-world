@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0364
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/364/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「共生ネットワークでよみとく地球生態系の未来」
+description:
+  ja: DNA分析技術の進歩を背景に、微生物の多様性と機能を取り上げる講義である。ヒトの腸内細菌、植物に共生する細菌や真菌の役割を通して、病気の予防、食糧生産、希少植物の保全との関係を扱う。あわせて、人類と地球生態系の未来に関わる菌の発見という最新科学の話題を紹介する。
+quotedDescription:
+  text:
+    ja: '講演内容
+
+      DNA分析技術が近年飛躍的に進歩し、微生物たちの驚くべき多様性と機能が次々に明らかになってきました。ヒトの腸内に生息する多様な細菌たちは、病気の予防にも大きく貢献しています。植物に共生する細菌や真菌（きのこ・かび類）は、食糧生産を伸ばす上で、また、希少植物を絶滅から救う上で、欠かせない存在です。人類と地球生態系の未来を救う菌を発見できるのか？
+      最新科学の挑戦について紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/364/
+  note: 京都大学OCW 「講演内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 東樹 宏和
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-09-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生態学研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

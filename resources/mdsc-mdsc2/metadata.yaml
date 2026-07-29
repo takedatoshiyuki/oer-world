@@ -1,0 +1,56 @@
+slug: mdsc-mdsc2
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc2
+type:
+- LearningResource
+- Course
+name:
+  ja: 人口総数：総務省『国勢調査』
+description:
+  ja: 市区町村ごとの人口総数を、時系列で並べたCSVデータを扱う。総務省がDATA.GO.JPで提供するデータの中から選ばれている。
+quotedDescription:
+  text:
+    ja: 市区町村別の人口総数を時系列で整理したCSVファイル。(DATA.GO.JPの総務省提供データより選定）
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc2
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc2
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-04-02'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- health_welfare
+keywords:
+- サービス業
+- 不動産業-物品賃貸業
+- 医療・福祉
+- 宿泊業・飲食サービス業
+- 教育・学習支援業
+- 生活関連サービス業・娯楽業
+- 複合サービス事業
+- 表形式
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

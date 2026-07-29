@@ -1,0 +1,100 @@
+slug: hokudai-psychology-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 基礎心理学入門（2009）
+description:
+  ja: 心理学の歴史を手がかりに、感覚と知覚を中心とした心理学研究の基礎的成果と理論を扱う講義である。あわせて、注意・記憶・学習やパターン認知にも触れ、人間の心的過程についての基礎を学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: 心理学の歴史を参照しつつ、特に感覚・知覚の過程を主領域とした心理学研究における基礎的成果及び理論について講義します。講義を通じて人間の心的過程に関して基礎的な知識を身につけてもらうと共に、心理学研究の意義や難しさ、面白さを理解してもらうことをねらいとしています。
+  source: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田山 忠行
+  affiliation:
+    name: 北海道大学文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 基礎心理学，感覚，知覚，認知，記憶，学習，思考
+- 心理／社会学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第0章 ガイダンス'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第1章 心理学の歴史（１）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第１章 心理学の歴史（２）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第２章 感覚（１）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第２章 感覚（２）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第３章 知覚（１）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第３章 知覚（２）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第４章 パターン認知'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第５章 注意'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第６章 記憶（１）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第６章 記憶（２）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第７章 学習'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-12.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第8章 思考'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-13.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+- name: '講義資料: 第９章 脳と心'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/Psychology-2009-Note-14.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/psychology-2009
+extensions:
+  faculty: 文学部
+  targetAudience: 1年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

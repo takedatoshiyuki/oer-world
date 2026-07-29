@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0208
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/208/
+type:
+- LearningResource
+- Course
+name:
+  ja: 21世紀COEシンポジウム『再生医療と生命倫理２』
+description:
+  ja: 再生医療と生命倫理を扱う21世紀COEシンポジウムである。主催は21世紀COEプログラム「融合的移植再生治療を目指す国際拠点形成」で、京都大学大学院医学研究科、医学部附属病院、再生医科学研究所が関わる。
+quotedDescription:
+  text:
+    ja: '主催: 21世紀ＣＯＥプログラム「融合的移植再生治療を目指す国際拠点形成」
+
+      （京都大学大学院医学研究科、医学部附属病院、再生医科学研究所）'
+  source: https://ocw.kyoto-u.ac.jp/course/208/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007-10-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

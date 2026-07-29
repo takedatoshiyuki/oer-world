@@ -1,0 +1,64 @@
+slug: hokudai-faculty02iculturalsalon-05-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon-05-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 時計台サロン 「農学部に聞いてみよう」 第5回 農業の近未来像（2012）
+description:
+  ja: 北海道大学大学院農学研究院主催の「時計台サロン」を映像で紹介する教材である。第5回では、北海道の米づくりに関わる品種改良、ロボットを用いた農業の未来像、次世代の農業の担い手の確保が扱われる。
+quotedDescription:
+  text:
+    ja: "北海道大学大学院農学研究院主催による「時計台サロン」の模様を映像でご紹介しています。「時計台サロン」は、農学に関連する話題を、一般市民向けに講話するものです（場所：時計台ホール、毎月1回開催予定）。\
+      \ \n「米どころ北海道をつくる品種改良」高牟禮　逸朗（北海道大学大学院農学研究院）\n「北海道から発信！ロボットによる未来の農業」野口　伸（北海道大学大学院農学研究院）\n「次世代の農業の担い手をどう確保するのか」柳村　俊介（北海道大学大学院農学研究院）"
+  source: https://ocw.hokudai.ac.jp/lecture/faculty02iculturalsalon-05-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高牟禮 逸朗
+  affiliation:
+    name: 北海道大学大学院農学研究院
+- type: Person
+  name: 野口 伸
+  affiliation:
+    name: 北海道大学大学院農学研究院
+- type: Person
+  name: 柳村 俊介
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

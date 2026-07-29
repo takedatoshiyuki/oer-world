@@ -1,0 +1,133 @@
+slug: icu-majors-lng206-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/lng206_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: Language and Culture in Japan 日本の言語と文化
+description:
+  ja: 日本語の言語的特徴と文化との関係を、言語学や日本語学の観点から扱う講義である。語彙、和製英語、敬語、男女差のある言葉、擬態語・擬声語などの話題に加え、日本語教育の歴史や日本語で書かれた非日本語話者の文学作品にも触れる。
+quotedDescription:
+  text:
+    ja: 'Study of some aspects of Japanese language and culture in the light of the history of Japanese
+      language education. Various literary works written in Japanese by non-Japanese writers will be discussed.
+
+      日本の言語と文化の関係について考察する。
+
+      Contents of Lectures
+
+      1
+
+      0Lectures /
+
+      2
+
+      Videos
+
+      Week
+
+      1
+
+      言語学とは？日本語学とは？
+
+      Week
+
+      2
+
+      文化とは？日本の文化とは？
+
+      Week
+
+      3
+
+      日本語の特徴、語彙
+
+      Week
+
+      4
+
+      和製英語
+
+      Week
+
+      5
+
+      敬語
+
+      Week
+
+      6
+
+      女性言葉・男性言葉
+
+      Week7 「する」動詞と「なる」動詞
+
+      Week8
+
+      May 31
+
+      擬態語・擬声語
+
+      Week
+
+      9 June 5 日本語教育：日本語と日本文化
+
+      ゲストスピーカー
+
+      畑佐 一味（ミドルベリー日本語学校 校長）
+
+      柳亭 左龍（落語家）
+
+      Week
+
+      10
+
+      期末プロジェクト'
+  source: https://ocw.info.icu.ac.jp/majors/lng206_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 江田早苗
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 言語学
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'Linguistics 言語学 | Course ID: L'
+- 'LNG206 | Course Schedule: 4*/M, 4*/TH | Update: 2016.06.28'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

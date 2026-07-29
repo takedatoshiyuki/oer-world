@@ -1,0 +1,95 @@
+slug: utokyo-series-qnr2rwxxhuuf
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=QNr2rWxXHUuf
+type:
+- LearningResource
+- Course
+name:
+  ja: 知と幸福（朝日講座「知の冒険—もっともっと考えたい、世界は謎に満ちている」2012年度講義）
+description:
+  ja: この講義は、文系理系を横断しながら「幸福」という概念を複数の知の領域から考察する。あわせて、不安・リスク・危機管理・希望といった概念との関係にも目を向け、異なる分野の考え方に触れる構成になっている。
+quotedDescription:
+  text:
+    ja: '「幸福」は照れくさい言葉です。テレビドラマでは連呼されても、私たちの日常生活では意外に口にされませんし、ましてや細分化された学問の世界ではなかなか正面から扱うのが難しいようです。しかし、このところ――とりわけ2011年3月以降――メディア等でしきりに取り上げられる「不安」「リスク」「危機管理」「希望」といった概念をつきつめていくと、その根底には私たちが「幸福」なる得体のしれない感覚とどのように付き合うかという問題があることがわかってきます。最近、「幸福」そのものを題材とした研究があらためて増えつつあるのもそのためかもしれません。
+
+      　この授業では文系理系の垣根を越え、「幸福」という概念がさまざまな知のフィールドでどのような意味を持つかについて――ときには批判的な視点をまじえながら――考察します。この講義を通して、ふだん接する機会のあまりない他の分野で、どのようなものの考え方がされているかを体験する機会にもなるかと思います。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=QNr2rWxXHUuf
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 加藤 陽子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 菅野 覚明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長谷部 恭男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 唐沢 かおり
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塚谷 裕一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武田 晴人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: トム・ガリー
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柴田 元幸
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- engineering
+- business_law
+keywords:
+- 歴史
+- 災害・防災
+- 言語・思想
+- 文化・芸術・文芸
+- 政治・法律
+- 心理・認知
+- 経済・金融
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

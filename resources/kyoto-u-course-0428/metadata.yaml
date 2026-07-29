@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0428
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/428/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「ハドロン物理学の展開－スピンとストレンジネスをめぐって－」
+description:
+  ja: 京都大学理学研究科で開講された今井憲一の最終講義で、題目はハドロン物理学の展開とスピン、ストレンジネスに関わる内容を示している。講義名から、ハドロン物理学の中でスピンとストレンジネスをめぐる話題を扱う教材であることが分かる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 今井 憲一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-03-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

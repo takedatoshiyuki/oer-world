@@ -1,0 +1,75 @@
+slug: utokyo-series-2cb52pksmyds
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=2CB52PksMYDs
+type:
+- LearningResource
+- Course
+name:
+  ja: 放射能の農畜水産物等への影響についての研究報告会 第9回報告会
+description:
+  ja: 福島第一原子力発電所事故後に続けられてきた被災地支援研究の第9回報告会である。森林や土壌に加え、イネやダイズなどの作物に対する放射性物質の影響を取り上げ、研究成果を報告する。
+quotedDescription:
+  text:
+    ja: "福島第一原子力発電所の事故直後から、3-4ヶ月ごとに開催してきた本学農学生命科学研究科での被災地支援研究も、今回で9回目を数えました。今回は森林や土壌に加え、イネやダイズといった作物への放射性物質の影響を中心に研究成果を報告しました。\
+      \ \n \n  農学生命科学研究科の復興支援プロジェクト HP \n    http://www.a.u-tokyo.ac.jp/rpjt/index.html   \n \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=2CB52PksMYDs
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 丹下 健
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中西 友子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大政 康史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 益守 眞也
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塩沢昌
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 徹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 二瓶 直登
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

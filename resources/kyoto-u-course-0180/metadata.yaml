@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0180
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/180/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報メディア学
+description:
+  ja: 京都大学の学術情報メディアセンターが2005年度後期に開講した「情報メディア学」の講義資料を収録する。公開教材は、第1回のオリエンテーション、第2回の情報メディアの技術史、第3回の情報メディアの構造に関する3件で、講義の導入から情報メディアの成立過程と構造までを扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 美濃 導彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　オリエンテーション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_情報メディア学_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/180/
+- name: '講義資料: 第2回　情報メディアの技術史'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_情報メディア学_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/180/
+- name: '講義資料: 第3回　情報メディアの構造'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_情報メディア学_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/180/
+extensions:
+  faculty: 学術情報メディアセンター
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

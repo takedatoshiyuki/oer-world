@@ -1,0 +1,89 @@
+slug: kyoto-u-course-0400
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/400/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成29年度（第21回）京大病院臨床懇話会
+description:
+  ja: 京大病院臨床懇話会として、ロボットテクノロジーの応用を全体テーマにした講演と、地域連携の展望をテーマにしたパネルディスカッションを収録する。内容は、手術支援ロボットを用いた泌尿器科手術、HALを用いた取り組み、SaCoNによるケア、外来完全予約制、診療情報提供の取組みで構成される。
+quotedDescription:
+  text:
+    ja: '講演【全体テーマ】未来を拓く京大病院―ロボットテクノロジーの応用
+
+      1 「手術支援ロボットを使った泌尿器科手術の現状と評価」
+
+      小川 修（泌尿器科 教授）
+
+      2 「HALを用いた取り組みから拓く未来」
+
+      菊池 隆幸（脳神経外科 助教）
+
+      3 「ロボットテクノロジーで進化するケア～SaCoN」
+
+      山中 寛惠（看護部管理室 副看護部長）
+
+      パネルディスカッション【テーマ】京大病院における地域連携の展望
+
+      4 「外来完全予約制の試み」
+
+      妹尾 浩（消化器内科 教授）
+
+      5 「本院における診療情報提供の取組み」
+
+      近藤 祥司（地域ネットワーク医療部 准教授）'
+  source: https://ocw.kyoto-u.ac.jp/course/400/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小川 修
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 菊池 隆幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山中 寛惠
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 妹尾 浩
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 近藤 祥司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

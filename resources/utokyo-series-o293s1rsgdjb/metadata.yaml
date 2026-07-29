@@ -1,0 +1,84 @@
+slug: utokyo-series-o293s1rsgdjb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=o293s1rSGdJB
+type:
+- LearningResource
+- Course
+name:
+  ja: 信託法
+description:
+  ja: 信託法の基本項目を取り上げ、関係法令、判例、約款、実例、英米の基礎的資料を用いて学ぶ講義である。講義と質疑応答を交えながら、新信託法の意義や活用、民事信託を含むさまざまな利用例を扱う。信託法の考え方を、具体例と比較法の素材に即して確認する内容である。
+quotedDescription:
+  text:
+    ja: '信託法に関する基本的な項目を取り上げ、基礎知識を習得させるとともに、それぞれの項目の基礎にある考え方及び比較法的な素養を身につけ、現実の例を取り上げて分析する基礎的な力を養うことを目的とする。授業は、関係法令、判例、約款や実例、英米の基礎
+      的資料などを収録した教材を使用し、講義形式と質疑応答形式をおりまぜて行う。
+
+      新信託法が２００７年に施行され、それがどのような意義を有するかが徐々に明らかになりつつある。可能であれば信託に関係する実務を担当してきた方をゲストに招いて、新しい信託法の意義とその活用について具体的な話をうかがう。
+
+      たとえば、信託法および信託業法の改正により、次のようなことが近い将来可能になる可能性がある。「高齢のＡさんは、精神的能力に問題のある息子の将来を心配している。幸いＡさんには一定の財産があり、自分が生きている間はそれを運用し維持してその収益を息子の生活費に充てているが、自らの死後が心配である。そこで、ＡさんはＢ信託会社（Ｂが弁護士という場合もありうる）に事情を説明し、相当額の財産を信託して、自らの死後、息子に十分な生活費が行くようなスキームを作ってもらうことにした。息子が死んだ後には、Ａさんのその他の子や孫に残余財産が渡ることになる」。このようないわゆる民事信託の例のほか、すでに信託は投資信託・年金信託・不動産信託、さらに資産流動化など商事信託と呼ばれる分野において多方面で利用されている。それらの根底にある信託法の考え方を学ぶことが本講義の目的である。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=o293s1rSGdJB
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 樋口 範雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 神田 秀樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 折原 誠
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 早坂 文高
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 哲郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉谷 晋
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 和明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 法学部・法学政治学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

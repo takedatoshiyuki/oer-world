@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0191
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/191/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第44回人環国際交流セミナー Prof. Thomas Buchheim
+description:
+  ja: このセミナーは、心が何であるかという問題を、西洋哲学の二つの譬えから考える。プラトンの「心の馬車」とアリストテレスの「手のように」を取り上げ、心を潜勢態や活動態として理解する見方を扱う。
+quotedDescription:
+  text:
+    ja: '授業概要・目的
+
+      心がいかなるものであるかはまだ科学的に解明されていないが、偉大な哲学者は譬えを用いて心の本質を把握しようとしてきた。このセミナーでは、西洋哲学の中でも最も有名な二つの譬えについてお話しする。まずプラトンの「心の馬車」。心という馬車では、二頭の馬と御者による三者三様の力がともかくも一つに束ねられ、こうして我々の生は進行していく。もう一つはアリストテレスの「手のように」。我々は手を使い、様々な道具を駆使して世界を改変していくが、この手の働きに心はなぞらえられる。プラトンの譬えでは、心は自らの運動の結果にはついぞ姿を現さない「潜勢態」であるのに対し、アリストテレスは心を生命体の根幹をなす原初的な「活動態」として端的に捉えている。彼によれば、我々の個々の行動はこの生命の根幹に接ぎ木されることによってはじめて現実のものとなるのである。'
+  source: https://ocw.kyoto-u.ac.jp/course/191/
+  note: 京都大学OCW 「授業概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Thomas Buchheim（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: München）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-06-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

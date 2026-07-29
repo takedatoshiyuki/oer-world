@@ -1,0 +1,72 @@
+slug: sophia-20170412gse71930
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20170412gse71930/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'MIGRATION AND CO-EXISTENCE 1: TRADE AND INEQUALITY'
+description:
+  ja: 国境を越える資本・物資・人の移動が、どのような不平等や貧困の偏在を生むかを検討する講義である。自由貿易や比較優位が利益を均等に広げるかどうか、また農業や食料システムが貧困削減にどう関わるかを考える。世界の貧困がどこに、どのような経済構造のもとで集中するかにも触れる。
+quotedDescription:
+  text:
+    ja: 'This course examines various forms of inequality arising from the increasing global flows of
+      capital&comma; goods&comma; and people across national boundaries. While globalization has a great
+      potential to increase opportunities and economic mobility&comma; it has resulted in uneven distribution
+      of social and economic benefits within and among nations. The World Bank commended the progress
+      made by the international community under the Millennium Development Goals (MDGs): “The number of
+      people living in extreme poverty around the world is likely to fall to under 10 percent of the global
+      population in 2015.” Since 2000&comma; about 1 billion people have risen out of extreme poverty.
+      The World Bank&comma; however&comma; evaluates that the global poverty remains unacceptably high
+      and geographically concentrated with Sub-Saharan Africa accounting for 43 percent and South Asia
+      a third of global poverty. Furthermore&comma; global poverty is also concentrated in natural resource-based
+      economies where the share of the natural resource-based exports such as coffee&comma; wood&comma;
+      copper and petroleum products is 30 percent or higher in 2011. About 37 percent of the global poor
+      live in natural resource-based countries. ||Why does globalization not contribute to human efforts
+      to achieve a world free of poverty? What prevents increased mobility and opportunities from distributing
+      benefits equally? Can free trade with comparative advantage lift all boats? Why is poverty concentrated
+      in natural resource-based economies? What is the role of agriculture in reducing poverty? Can free
+      trade in food contribute to poverty reduction? What food systems are required to address the root
+      causes of global poverty? ||In order to ensure a quality learning environment&comma; TOEFL 550&comma;
+      TOEFL IBT 79&comma; TOEFL ITP 550&comma; IELTS 6.0 or the equivalent English skills are preferred.This
+      does not apply to FLA&comma; Green Science and Green Engineering students as well as exchange students
+      from universities that use English as the language of instruction.'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20170412gse71930/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 浦元 義照
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

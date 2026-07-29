@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0876
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/876/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日米医学医療交流セミナー　京都で医学留学を感じよう
+description:
+  ja: 日米医学医療交流財団を主催とし、京都大学大学院医学研究科・医学部や芝蘭会が共催するセミナーである。京都大学の医学部で開講され、日本語で実施される。グローバルCOE「生命原理の解明を基とする医学研究教育拠点」にも関連づけられている。
+quotedDescription:
+  text:
+    ja: '主催：財団法人 日米医学医療交流財団
+
+      共催：京都大学大学院医学研究科・医学部 　(社)　芝蘭会
+
+      グローバルCOE（生命原理の解明を基とする医学研究教育拠点）'
+  source: https://ocw.kyoto-u.ac.jp/course/876/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小池 薫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-11-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

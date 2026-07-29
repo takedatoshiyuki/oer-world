@@ -1,0 +1,57 @@
+slug: hokudai-biomimetics-gel-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/biomimetics-gel-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: バイオミメティクス市民セミナー ゲルとバイオミメティクス （2012）
+description:
+  ja: この講義は、ゲルの基本的な性質と身近な例を取り上げ、そこからダブルネットワークゲル（DNゲル）へと話を進める。さらに、人の体にある筋肉・腱・軟骨を例に、生体の機能とゲルの関係を扱い、DNゲルがどのように生まれたかを説明する。
+quotedDescription:
+  text:
+    ja: ぷるぷるのプリンやゼリー。水分を９０％以上も含んでいるのに形を保ち、ちょっと触ると崩れてしまいます。こうしたに大量の水を含みながらも水が流れ出さずに形を保つものを「ゲル」といいます。豆腐やコンニャク、ソフトコンタクトレンズもゲルです。そのイメージと正反対に、ハンマーでたたいてもトラックで踏みつぶしても壊れず、後で元の形に戻るゲルもあります。このゲルは「ダブルネットワークゲル」（略称ＤＮゲル）と呼ばれ、この物質で直径数センチメートルのボールを作り、ゴルフクラブで一撃しても、一時的に変形はするものの、元の形に戻ります。実は人の体にも、力を生む筋肉、それを骨に伝える腱、荷重に耐える軟骨といったゲルの部分が沢山あります。こうした生体の素晴らしい機能を深く知ることにより、人類は初めて強靭なＤＮゲルを生み出しました。
+  source: https://ocw.hokudai.ac.jp/lecture/biomimetics-gel-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 龔 剣萍
+  affiliation:
+    name: 北海道大学大学院先端生命科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- バイオミメティクス
+- ゲル
+- ダブルネットワークゲル
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

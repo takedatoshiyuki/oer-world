@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0513
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/513/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成27年度 京都大学図書館機構講演会「デジタル化資料の公開にかかわる権利処理を学ぶ」
+description:
+  ja: デジタル化した資料を公開する際に必要となる権利処理を扱う講演会である。著作権者の確認、許諾内容の確認、二次利用の明示といった要素を含む権利処理の基礎を取り上げるほか、京都大学における資料デジタル化事業の事例とライセンス表示の情報を示す。
+quotedDescription:
+  text:
+    ja: '概要
+
+      現在インターネット上にはデジタル化された種々の資料が公開され、大学や研究機関においても貴重資料画像や機関リポジトリにおける学術論文の公開などのサービスが定着しているが、こうしたデジタル資料の公開にあたっては「権利処理」が欠かせないものとなっている。
+
+      一口に「権利処理」といっても、そこには著作権者が誰なのかを確認する作業や、著作権者が資料公開の条件として設定している許諾内容の確認、さらに公開したデジタル資料の二次的利用を一般の利用者に対しどのように許諾するのかを明示する、など様々な要素が含まれる。しかし日常の図書館業務で直接的、間接的にデジタル資料を扱う機会が増えているにもかかわらず、ある程度の法的知識を必要とするこれらの複雑な処理について、図書系職員が体系的に学ぶ機会はこれまであまりなかったといえる。
+
+      本講演会は、資料のデジタル化・公開にあたり必要となる権利処理の基礎知識についての講義、本学における資料デジタル化事業の事例報告、権利の許諾内容を明示するライセンス表示に関する情報提供の3つで構成し、図書系職員はじめ大学教職員が「権利処理」について複眼的に学ぶことで理解を深め、大学の重要な資源であるデジタル資料の有効活用につなげるものとしたい。
+
+      主催：京都大学図書館機構
+
+      共催：国立大学図書館協会近畿地区協会
+
+      協賛：大学図書館近畿イニシアティブ
+
+       
+
+      リンク　https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/227771'
+  source: https://ocw.kyoto-u.ac.jp/course/513/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐藤 久美子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 渡辺 智暁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-12-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

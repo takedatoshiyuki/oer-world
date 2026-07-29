@@ -1,0 +1,99 @@
+slug: utokyo-series-jll9tv1cqtrm
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=JLL9tv1CqtRM
+type:
+- LearningResource
+- Course
+name:
+  ja: 「居場所」の未来（朝日講座「知の調和―世界をみつめる 未来を創る」2018年度講義）
+description:
+  ja: 現代社会における居場所の確保や喪失、そこを取り戻そうとする動きについて扱う講義である。身近なコミュニティから宇宙のスケールまで視野を広げ、居場所とその未来を考える。
+quotedDescription:
+  text:
+    ja: '安心して過ごすことのできる居場所があることは、生きるための基本的な条件です。
+
+      　一面で、現代社会では、かつてなく居場所を見つけることが容易になったと言えるでしょう。室内はますます快適になり、街には居心地の良さそうな場所が増え、サイバー空間の使い勝手も劇的に改善されてきました。その気になればいつでもどこでも居場所を手にすることができるかのような楽観的な見方すら、珍しいものではありません。
+
+      　その一方で、居場所の欠如や喪失の感覚が深まり、これを取り戻すための努力が静かに広がりつつあるのも現代の特徴ではないでしょうか。もっとも、居場所への渇望ないしは衝動は、それをつくったり維持したりすることを妨げるものへの無関心や、ときには敵意にまでつながるのかもしれません。
+
+      　本年度の朝日講座では、こうした矛盾に注意を払いつつ、見えるものと見えないもの、そして、身近なコミュニティと宇宙のスケールの間を行き来しながら、私たちの居場所とその未来について考えたいと思います。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=JLL9tv1CqtRM
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 祐成 保志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大月 敏雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山崎 亮
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西村 明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 守川 知子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 金井 利之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 水町 勇一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 芳村 圭
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- engineering
+- arts_humanities
+keywords:
+- 人口・社会問題
+- 都市・建築
+- 言語・思想
+- 歴史
+- 国際関係
+- 環境
+- 宇宙・物理
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

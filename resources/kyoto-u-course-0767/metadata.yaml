@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0767
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/767/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「平成の地震災害を振り返る – 何を学び何を伝えるのか -」
+description:
+  ja: 平成に起こった地震災害を題材に、兵庫県南部地震、東北地方太平洋沖地震、熊本地震などの事例を取り上げる。あわせて、南海トラフ巨大地震や首都直下地震にも触れ、過去の地震から何を学び、それをどう生かすかを考える。
+quotedDescription:
+  text:
+    ja: '講演内容
+
+      近年の都市型地震災害の典型である1995年の兵庫県南部地震や、大津波による大規模な人的・物的被害が生じた2011年の東北地方太平洋沖地震、震度7の強烈な揺れが2度続いた2016年の熊本地震を始めとして、平成では数多くの大地震が起こりました。南海トラフの巨大地震や首都直下地震も近い将来の発生の切迫性が指摘されていますが、我々は過去の地震で何を学び、それをどう生かしていくべきなのかを考えてみます。
+
+      春秋講義は、京都大学における学術研究活動の中で培われてきた知的資源について、広く学内外の人々と共有を図るため、1988（昭和63）年秋から開講している公開講座です。年に2回、春と秋にテーマをもうけ講義を行います。
+
+      平成31年度春季講義は、「平成を振り返って－日本を取り巻く世界の変化」をテーマに開催します。'
+  source: https://ocw.kyoto-u.ac.jp/course/767/
+  note: 京都大学OCW 「講演内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 清野 純史
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-09-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

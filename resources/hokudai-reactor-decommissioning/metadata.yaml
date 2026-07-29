@@ -1,0 +1,54 @@
+slug: hokudai-reactor-decommissioning
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/reactor-decommissioning
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） オープン教材の活用による原子力教育の受講機会拡大と質的向上「我国の原子炉廃止措置の現状と重要施策のポイント」
+description:
+  ja: 北海道大学が提供する、日本語の講義教材である。原子炉廃止措置の現状と、重要施策のポイントを扱う内容で、原子力人材育成事業に関連する教材として開講されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐藤忠道
+  affiliation:
+    name: 原電エンジニアリング株式会社 顧問　原子力デコミッショニング研究会 事務局長
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 原子炉廃止措置
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院共通授業科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

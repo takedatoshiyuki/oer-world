@@ -1,0 +1,88 @@
+slug: kyoto-u-course-0467
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/467/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第9回 iCeMSラーニングラウンジ：Patrick Larpent + Wan-Ting Hong
+description:
+  ja: この講義では、2名の若手研究者が英語でそれぞれの研究を紹介する。1つは二酸化炭素の捕集に向けた「nano-pockets」の応用で、もう1つはスローロリスを例にした動物園動物の福祉の定量的評価である。動物の福祉をさまざまな環境で測る科学的手法にも言及する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      Patrick Larpent（パトリック・ラルパント）さん
+
+      “Nano-Pockets to Trap Carbon Dioxide”
+
+      The dramatic and continuous increase of carbon dioxide emission responsible of global warming is
+      a major problem for the welfare and future of our planet. The development and easy fabrication of
+      state-of-the-art technologies capable of capturing carbon dioxide efficiently from their emission
+      centers are therefore of crucial needs. Join us to learn about the innovating use of ‘nano-pockets’
+      towards the realization of such novel molecule capturing systems.
+
+       
+
+      Wan-Ting Hong（ワンティン・ホン）さん
+
+      “Zoo from Lorises’ Point of View”
+
+      The well-being of zoo animals is now drawing much more attention than before. But how do we know
+      whether animals are satisfied about their environment or not? Let’s look at slow lorises as an example
+      of how well-being of zoo animals are measured quantitatively, in an effort to improve the lives
+      of these small primates whose welfare is often overlooked.
+
+      研究者コメント
+
+      Animals think, perceive their environment and experience suffering and pleasure as we do. However,
+      while doctors can ask human patients how they feel, we have no idea whether animals are happy, sad
+      or stressed because we do not share a common language with them. Scientists have been trying to
+      establish rigorous scientific methods to measure well-being of animals as pets, in zoos, laboratories,
+      on farms and in the wild.'
+  source: https://ocw.kyoto-u.ac.jp/course/467/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Patrick Larpent さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Wan-Ting Hong さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-09-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0913
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/913/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回 京都大学 − 稲盛財団合同京都賞シンポジウム (KUIP Symposium), 2015
+description:
+  ja: 本教材は、2015年に京都大学が開催した第2回KUIP Symposiumに関する講義資料2件からなる。資料の題目からは、20世紀音楽とピアノ、京都賞受賞作曲家に関する内容を扱うことが読み取れる。シンポジウム全体は、テクノロジー・遺伝子・芸術を統一テーマに据えて行われた。
+quotedDescription:
+  text:
+    ja: '概要
+
+      2015年7月11、12日、百周年時計台記念館において、第2回「京都大学－稲盛財団合同京都賞シンポジウム」（KUIP：Kyoto University–Inamori Foundation Joint
+      Kyoto Prize Symposium）を開催しました。
+
+      第2回目となる2015年は、一般市民、学生、研究者など2日間合わせて約650名の参加者のもと、「テクノロジー・遺伝子・芸術－進化の足跡を辿り、現代文明とその未来を考える－」を統一テーマに、それぞれの分野における12名の世界的トップランナーによって、学術界と社会の双方から注目されているテーマについて、研究者も満足できる内容を一般の方々にも興味深く聴講いただけるよう工夫された内容で語られました。
+
+       
+
+      ウェブページ'
+  source: https://ocw.kyoto-u.ac.jp/course/913/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: ピアノで駆け抜ける二十世紀音楽の森（京都賞受賞作曲家を含む）　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_KUIP-Symposium_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/913/
+- name: '講義資料: ピアノで駆け抜ける二十世紀音楽の森（京都賞受賞作曲家を含む）　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_KUIP-Symposium_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/913/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

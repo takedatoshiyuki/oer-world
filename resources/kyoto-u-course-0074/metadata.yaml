@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0074
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/74/
+type:
+- LearningResource
+- Course
+name:
+  ja: 群集生態学
+description:
+  ja: 群集生態学を扱う京都大学の講義資料である。農学部の2010年度後期に開講された授業に対応し、教材ファイルは講義資料1件で構成される。出典サイトには、群集生態学や動物生態学に関する参考文献が挙げられている。
+quotedDescription:
+  text:
+    ja: "参考文献\n \t伊藤嘉昭、山村則男、嶋田正和（1992）動物生態学　蒼樹書房\n \t木元新作、武田博清（1989）群集生態学入門　共立出版株式会社\n \tPianka (1974)\
+      \ Niche overlap and diffuse competition. Proceedings of the National Academy of Sciences of the\
+      \ United State of America 71\n \tBovbjerg RV (1970) Ecological isolation and competitive exclusion\
+      \ in two crayfish (Orconectes virilis and Orconectes immunis)\n \tFrenchel T (1975) Character displacement\
+      \ and coexistence in mud snails (Hydrobiidae)"
+  source: https://ocw.kyoto-u.ac.jp/course/74/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 大澤 直哉
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 群集生態学 資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_gunsyuuseitaigaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/74/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

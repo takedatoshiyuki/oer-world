@@ -1,0 +1,54 @@
+slug: hokudai-manhood-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/manhood-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 男らしさの神話と実話（2013）
+description:
+  ja: 男女の役割の変化や、「男」について見直す議論を背景に、理想化された男性像と現実の男を検証する講義である。英米文学作品やハリウッド映画を手がかりに、男性像をめぐる考え方を扱う。神話そのものを紹介する内容ではなく、事前準備は必要ないとされている。
+quotedDescription:
+  text:
+    ja: 女性の社会進出が進み、男女の役割にも変化が起きています。男女平等を求める一方で、おとなしい男性を草食系と揶揄したりするのは好例でしょう。こうしたなか、最近では「男」について考え直す議論が盛んに行われています。本講義では、まずこれらの背景を説明し、それから文学作品や映画などを紹介したいと思います。講師の専門分野上、英米文学作品やハリウッドの映画作品が中心になると思います。が、事前準備は必要ありません。また、本講義では、男性が登場する神話を紹介するわけでもありません。ご承知おき下さい。それでは、「理想化された男性像」と「現実の男」について検証し、今後のオトコについて考えましょう。
+  source: https://ocw.hokudai.ac.jp/lecture/manhood-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 瀬名波 栄潤
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

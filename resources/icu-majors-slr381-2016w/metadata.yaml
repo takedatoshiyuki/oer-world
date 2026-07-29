@@ -1,0 +1,148 @@
+slug: icu-majors-slr381-2016w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/slr381_2016w
+type:
+- LearningResource
+- Course
+name:
+  ja: Special Studies in Service Learning I サービス・ラーニング特別研究 I
+description:
+  ja: ICUと海外連携大学のサービス・ラーニング実習で得られたデータや体験をもとに、その教育効果と日本の高等教育における位置づけを考える講義である。Iでは国際サービス・ラーニングを主に扱い、講義ではアクションリサーチや各分野のゲスト講義を通して論点を広げる。
+quotedDescription:
+  text:
+    ja: 'The course will examine the data collected through Service Learning programs at ICU and its partner
+      institutions to analyze their educational impact and to pursue the significance of service learning
+      program in the context of Japanese higher education.
+
+      ICUおよび海外連携大学のサービス・ラーニング実習体験の蓄積を分析し、教育効果を検証、また日本高等教育における意味を明らかにする。Iでは主に国際サービス・ラーニングに焦点をあてる。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      3
+
+      Videos
+
+      Dec 9
+
+      1. コースのねらいと進め方、アクションリサーチとは（西尾・清水）
+
+      Dec
+
+      16
+
+      2. メディアの世界に生きるということ
+
+      ゲストスピーカー： 渡辺真理氏
+
+      Jan
+
+      6
+
+      3. 人生を切り拓く問題解決力を身につけろ
+
+      ゲストスピーカー：齋藤顕一氏
+
+      Jan 13
+
+      4
+
+      .
+
+      ICUから学んだこと、星から学んだこと
+
+      ゲストスピーカー：鏡リュウジ氏
+
+      Jan 20
+
+      5. 探査機はやぶさと雛たち：太陽系科学の最先端を拓く
+
+      ゲストスピーカー：矢野創氏
+
+      Jan 2
+
+      7
+
+      6. グーテンベルク以来？の情報革命における、ファッション誌のチャレンジ
+
+      ゲストスピーカー：岡野まかみ氏
+
+      Feb
+
+      10
+
+      7. グローバル化する金融市場と日本
+
+      ゲストスピーカー：木越純氏
+
+      Feb 1
+
+      7
+
+      8. リベラルアーツの「知」は「現場」にどう挑んだか（清水）
+
+      Feb
+
+      24
+
+      9.
+
+      まとめ（西尾）'
+  source: https://ocw.info.icu.ac.jp/majors/slr381_2016w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 西尾隆
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 清水康之
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 木越純
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 矢野創
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 専攻科目
+- '| Course ID: SLR381 | Course S'
+- 'SLR381 | Course Schedule: 5F/6F | Update: 2019.01.06'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

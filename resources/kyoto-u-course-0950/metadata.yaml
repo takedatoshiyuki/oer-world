@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0950
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/950/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅩ「大震災後の防災を考える」 －2011東日本大震災を踏まえた今後の防災について－ （第48回自然災害科学総合シンポジウム）
+description:
+  ja: 2011年の東日本大震災を踏まえ、今後の防災をどう考えるかを扱う講義である。京都大学の防災研究所が提供・担当し、第48回自然災害科学総合シンポジウムとして位置づけられている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-09-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

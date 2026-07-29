@@ -1,0 +1,55 @@
+slug: utokyo-series-bvk5llifcmyb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Bvk5LlifcmyB
+type:
+- LearningResource
+- Course
+name:
+  ja: 認知臨床心理学
+description:
+  ja: 日常生活や臨床場面で問題となる不安、恐怖、抑うつ、幻覚、妄想、自我障害を扱う講義である。ビデオ観察を通して現象を確認したうえで、アセスメント、メカニズム、治療の観点から整理する。認知療法、行動療法、認知心理学、社会心理学を統合する認知行動理論にも触れる。
+quotedDescription:
+  text:
+    ja: 人間の感情や異常心理は、科学最後のフロンティアである。認知療法・行動療法・認知心理学・社会心理学などを統合する形で、認知行動理論（Cognitive-Behavioral Approach)が大きく展開し、臨床心理学はいま大きく様変わりしている。この講義では、日常生活や臨床場面で問題となる不安・恐怖・抑うつ・幻覚・妄想・自我障害といった現象をとりあげる。これらについて、ビデオ観察により現象を理解したあと。アセスメント・メカニズム・治療の側面から整理して解説する。
+  source: https://ch.u-tokyo.ac.jp/series/?id=Bvk5LlifcmyB
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 丹野 義彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

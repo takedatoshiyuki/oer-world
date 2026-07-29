@@ -1,0 +1,132 @@
+slug: kyoto-u-course-0729
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/729/
+type:
+- LearningResource
+- Course
+name:
+  ja: 民法V（親族・相続法＝家族法）
+description:
+  ja: 民法典の親族編と相続編に置かれた家族法の制度を取り上げ、その基本的な仕組みと考え方を概説する講義である。婚姻や離婚、親子関係、養子縁組、親権、後見・保佐・補助、扶養などを順に扱い、制度が現実の問題としてどのように現れるかも見る。
+quotedDescription:
+  text:
+    ja: 民法典第四編「親族」第五編「相続」に規定されている、家族法の種々の制度の基本的な仕組みと考え方、および現実の問題の現れ方につき概説する。講義項目の順序・日程などの詳細な予定は、教科書等の説明と共に、最初の時間に示す。また、講義の際には、レジュメを配布する。
+  source: https://ocw.kyoto-u.ac.jp/course/729/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松岡 久和
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2000'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- business_law
+keywords:
+- 法学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　講義案内・家族法序論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第2回　婚姻の成立'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第3回　婚姻の効果−夫婦の財産関係を中心に'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第4回　婚姻予約と内縁'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第5回　離婚の成立'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第6回　離婚の効果'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第7回　実親子関係'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第8回　養子縁組'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第9回　親権(1) 親権者の決定と変更'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第10回　親権(2) 利益相反行為など'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第11回　後見・保佐・補助'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第12回　扶養'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第13回　相続制度概説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第14回　相続人'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第15回　相続財産の清算'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第16回　相続財産'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第17回　具体的相続分'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第18回　遺産の共有と管理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第19回　遺産の共有と管理・応用編'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第20回　遺産分割'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第21回　相続回復請求権'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第22回　遺言(1) 遺言の意義・特徴・方式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第23回　遺言(2) 遺贈、遺言の解釈・執行・取消し'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 第24回　遺留分と遺留分減殺請求権'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2000_minpou-5_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+- name: '講義資料: 2000年度民法V（家族法）試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_minpou-5-exam.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/729/
+extensions:
+  faculty: 法学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

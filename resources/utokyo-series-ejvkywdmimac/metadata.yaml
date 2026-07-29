@@ -1,0 +1,99 @@
+slug: utokyo-series-ejvkywdmimac
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=EJvKyWdmiMAC
+type:
+- LearningResource
+- Course
+name:
+  ja: 宇宙・物質・社会－物質の成り立ちから応用まで（学術俯瞰講義）
+description:
+  ja: 宇宙の始まりから物質の生成、原子や電子のふるまいに基づく物性の成り立ちまでを、複数の専門家の講義で横断的に扱う。さらに、先端的な実験手法や、持続可能な社会での物質機能の利用にも触れ、自然界と現代社会における物質の諸相を俯瞰する。
+quotedDescription:
+  text:
+    ja: 'コーディネータ　家　泰弘（物性研究所）
+
+      ナビゲータ　　　福島　孝治（教養学部）
+
+      　この学術俯瞰講義は、理科Ⅰ類の学生諸君はもちろんのこと、生命科学系や人文・社会科学系の学生諸君の受講も大いに歓迎し、期待します。
+
+      　一連の講義で、自然界および現代社会における「物質」の諸相を俯瞰します。われわれが棲むこの宇宙がどのように始まり、物質がどのように創られたか。物質の性質（物性）がそのミクロな構成要素である原子や電子のふるまいからどのように生じるか。それらを解明するためにどのような先端的実験手法が用いられ、新たな概念が生み出されているか。そして持続可能な社会を営むためにどのような物質の機能がの利用されようとしているか。これらを、第一線の研究を行っている専門家たちによる講義を通じて俯瞰し、自然界の成り立ちや物質の諸相を理解するとともに、われわれが将来にわたって物質を賢く利用するための素養を身につけます。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=EJvKyWdmiMAC
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 家 泰弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村山 斉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅井 祥仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 永原 裕子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 肇
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯本 武志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石坂 香子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福島 孝治
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 教育
+- 歴史
+- 宇宙・物理
+- 生命・医療
+- エネルギー・資源
+- AI・情報
+- 科学史
+- 宇宙
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

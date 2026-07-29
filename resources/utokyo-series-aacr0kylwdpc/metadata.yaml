@@ -1,0 +1,54 @@
+slug: utokyo-series-aacr0kylwdpc
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=AACR0kyLWdpc
+type:
+- LearningResource
+- Course
+name:
+  ja: ストップ！自転車事故
+description:
+  ja: 東京大学の構成員による自転車事故を題材に、事故防止のための注意喚起を行う動画である。学内での研修・ガイダンス向けに、英語で提供されている。事故防止キャンペーンの一環として制作されている。
+quotedDescription:
+  text:
+    ja: "本学構成員による自転車事故は後を絶たず、中には１ヶ月の休業を伴う事故も報告されています。今後、より大きな被害を伴う事故や、反対に加害者となってしまう事故の発生が危惧されます。 \n \n\
+      \  教育・学生支援部、総合企画部、施設部および環境安全本部では、自転車事故の防止のため自転車事故撲滅ＷＧを組織しキャンペーン等を実施しており、     このたび自転車事故注意喚起動画の制作に至りました。安全なキャンパスライフを…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=AACR0kyLWdpc
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- 要約失敗の傾向がある特定の表現(「不可能です」「内容の要約」「文字起こし」)が含まれます。
+- AIによる要約がエラー終了しました。映像に音声が含まれていない
+- または音声が不鮮明だった可能性があります。
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

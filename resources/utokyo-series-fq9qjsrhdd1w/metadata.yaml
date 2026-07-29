@@ -1,0 +1,83 @@
+slug: utokyo-series-fq9qjsrhdd1w
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=fQ9qJSRHDD1W
+type:
+- LearningResource
+- Course
+name:
+  ja: アキンウミ・アデシナ氏講演会（アフリカ開発銀行総裁）[EN]
+description:
+  ja: アフリカの戦略的重要性を軸に、アフリカ諸国と日本の協力、若者への教育やスキル開発への投資を取り上げる講義である。後半では、若い起業家の課題や国際協力・投資の位置づけ、大学が果たす役割についてパネル形式で議論する。
+quotedDescription:
+  text:
+    ja: 'アフリカ開発銀行・アデシナアキンウミ総裁が、アフリカの戦略的重要性、そしてアフリカ諸国と日本が協力して学生や起業家の育成支援を行うことの重要性に触れつつ、アフリカ開発銀行が力を入れている若者への教育やスキル開発への投資について紹介します。後半のパネルディスカッションでは、若い起業家が直面する課題、国際協力や投資の重要性、多様性やグローバルな視点を育むために大学が果たす役割などについ話します。
+
+      ★…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=fQ9qJSRHDD1W
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: アデシナ アキンウミ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 染谷 隆夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 林 香里
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野元 隆章
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 永井 健太郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 津田 尊弘
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係
+- Insights from Global Experts and International Leaders
+- アフリカ
+- 起業
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

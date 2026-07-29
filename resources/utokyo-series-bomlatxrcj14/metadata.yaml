@@ -1,0 +1,55 @@
+slug: utokyo-series-bomlatxrcj14
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=BomlATXrCJ14
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営管理 II
+description:
+  ja: 生産要素の管理・改善と、製品開発のプロセスおよび組織を扱う講義である。生産活動を、工程から製品への設計情報の転写として捉える見方を軸に、経営管理Iからの連続した観点で考察する。
+quotedDescription:
+  text:
+    ja: 経営管理Ｉでは、生産活動を製造企業の経営管理、競争力の源泉と管理･改善という観点から分析した。本講義の経営管理IIでは、さらに生産要素の管理･改 善、製品開発のプロセスと組織という観点で、経営管理Ⅰからの一貫した「生産活動を工程から製品への設計情報の転写とみなす」姿勢を貫く。
+  source: https://ch.u-tokyo.ac.jp/series/?id=BomlATXrCJ14
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤本 隆宏
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 経済学部・経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

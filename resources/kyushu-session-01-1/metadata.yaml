@@ -1,0 +1,67 @@
+slug: kyushu-session-01-1
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/session/01/1.html
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究用計算機システム講習会
+description:
+  ja: この教材は、研究用計算機システムの利用に関する講習をまとめたもので、UNIXの基本操作から中級内容までを扱う。加えて、スーパーコンピュータや高性能演算サーバでのFortran、C、C++の利用法と、OpenMPによる並列プログラム作成法を扱う。
+quotedDescription:
+  text:
+    ja: '「UNIX初級」では、UNIXのコマンドやエディタの基本的な使用方法の解説と実習を行います。
+
+      「プログラミング言語利用」では、スーパーコンピュータ、高性能演算サーバにおける Fortran、C、C++の利用方法の解説と実習を行います。
+
+      「UNIX中級」では、UNIXにおけるファイル管理、プロセス管理、シェルプログラミング等についての解説と実習を行います。
+
+      「並列プログラミング(OpenMP)」では、多くの共有メモリ型並列計算機で利用可能なOpenMPによる並列プログラム作成法の解説と実習を行います。'
+  source: http://ocw.kyushu-u.ac.jp/menu/session/01/1.html
+  note: 九州大学OCW (QOCW) 「講習会の概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 南里 豪志
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- 講習会
+audience:
+- student
+- professional
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/session/01/1/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/session/01/1.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/session/01/1/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/session/01/1.html
+extensions:
+  faculty: 情報基盤研究開発センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: sophia-20111005fst61400
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111005fst61400/
+type:
+- LearningResource
+- Course
+name:
+  ja: 演劇入門
+description:
+  ja: 古代ギリシャから現代日本まで、世界各地・各時代の演劇を扱い、その広がりを学ぶ講義である。ワークショップや劇場での観劇、観劇レポート、特別講演も組み込まれている。
+quotedDescription:
+  text:
+    ja: '「全てこの世はひとつの舞台、男も女も遍（あまね）く役者にほかならない」（シェイクスピア）
+
+      この世の営みはひとつの大きな芝居であるとルネサンス期のヨーロッパの人たちは考えていました。他方で、古代ギリシャの時代から、演劇は社会のあり方やそこに生きる人間たちの姿を映す鏡でもありました。つまり、芝居の中に、世界が詰まっているのです。そんな演劇の世界の面白さと無限の広がりをどうしても学生諸君に伝えたい。この講義は、数人の外国語学部教員の、そんな熱い想いから生まれました。講義では、古代ギリシャから現代日本まで、世界中の様々な地域の、様々な時代の演劇について学びます。さらに、２回のワークショップではちょっぴり劇団員の気分を味わいます。そして教室外では劇場で実際の舞台も観て来てもらいます。（その体験を「観劇レポート」として提出）著名な演劇関係者に来てもらう特別講演の機会も設ける予定です。このように出来る限り多角的に演劇の魅力を受講生に知ってもらえるようプログラムに工夫を凝らしました。
+
+      これまで演劇に全く触れたことのない人から、劇団に所属しているような演劇オタクまで、演劇に興味を持つ全ての学生が楽しめる素敵な「入門」としたい。そのためにも、好奇心旺盛でやる気のある、知的レベルの高い皆さんの受講を望みます。'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111005fst61400/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: コ）東郷 公德
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20111005FST61400-6.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111005FST61400-6.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111005fst61400/
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

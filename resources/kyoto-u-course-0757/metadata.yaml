@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0757
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/757/
+type:
+- LearningResource
+- Course
+name:
+  ja: Special Lecture on Random Dynamical Systems
+description:
+  ja: この講義は、決定論的な力学系と対比しながら、確率過程や確率変数に依存するランダム力学系の基本概念を導入する。主として幾何学的な視点から、簡単な例、初歩的な結果、未解決問題を扱う。自然科学系の大学院生を対象とし、力学系と確率論の基礎的知識があれば理解の助けになる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Dynamical systems describe the time-evolution of variables that characterize the state of a system.
+      In deterministic autonomous dynamical systems, the corresponding equations of motion are independent
+      of time and constant, but in random dynamical systems the equations of motion explicitly depend
+      on a stochastic process or random variable. The development of the field of deterministic dynamical
+      systems – including “chaos” theory – has been one of the scientific revolutions of the twentieth
+      century, originating with the pioneering insights of Poincaré, providing a geometric qualitative
+      understanding of dynamical processes, aiding and complementing analytical and quantitative viewpoints.
+
+      Motivated by increasing demands on modelling from scientists, during the last decade there has been
+      an increasing interest in time-dependent and in particular random dynamical systems, often described
+      by stochastic differential equations. Despite the obvious scientific importance of the field, with
+      applications ranging from physics and engineering to bio-medical and social sciences, a geometric
+      qualitative theory for random dynamical systems is still in its infancy.
+
+      This short course consists of an introduction to random dynamical systems, from a predominantly
+      geometric point of view. The aim is to introduce basic concepts in the context of simple examples.
+      We will discuss some elementary results and highlight open questions.
+
+      The course is aimed at graduate students in the exact sciences. Some elementary background in dynamical
+      systems and probability theory will be useful, but is not a strict prerequisite.'
+  source: https://ocw.kyoto-u.ac.jp/course/757/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Imperial College London）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-04-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

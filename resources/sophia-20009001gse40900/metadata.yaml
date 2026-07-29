@@ -1,0 +1,52 @@
+slug: sophia-20009001gse40900
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20009001gse40900/
+type:
+- LearningResource
+- Course
+name:
+  ja: 身近な物理
+description:
+  ja: 日常に見られる現象を物理学の視点で捉え、毎回2～3の話題を取り上げて進める講義である。熱、光、音、電気製品、スポーツ、自然、おもちゃ、料理に関する物理に加え、宇宙や量子力学などの話題も扱う。
+quotedDescription:
+  text:
+    ja: 日常に見られる現象について，物理学の目で見た解釈を講義する．生活の中にはおもしろい物理が沢山あるので，毎回2～3の話題を取り上げて皆で考えながら，講義を進めていく．具体的には，熱の物理，光の物理，音の物理，電気製品の物理，スポーツの物理，自然の中の物理，おもちゃの物理，料理の物理，などをテーマとして取り上げる．また，身近でないテーマ（宇宙，量子力学など）もいくつか話題にする．
+  source: https://ocw.cc.sophia.ac.jp/lecture/20009001gse40900/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 江馬 一弘
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

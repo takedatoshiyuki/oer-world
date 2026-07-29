@@ -1,0 +1,94 @@
+slug: hokudai-proteincrystals-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/proteincrystals-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: ひらめき☆ときめきサイエンス タンパク質の結晶を作ろう（2010）
+description:
+  ja: タンパク質の働きと立体構造をテーマに、結晶を作る実験を通してその調べ方を扱う。講義ではタンパク質の役割や結晶化の方法・原理、X線結晶構造解析について学び、実験では結晶化と観察を行う。研究室見学も含め、タンパク質の「カタチ」を調べる流れを体験する。
+quotedDescription:
+  text:
+    ja: '私達の体の中には何万種類というタンパク質が存在しています。食べ物を消化する時、バイ菌をやっつける時、筋肉を動かす時、タンパク質はいつも忙しく体の中で働いています。私達の研究室ではタンパク質の結晶を作って、タンパク質の立体構造“カタチ”を調
+      べています。当日は、最初に講義室でセミナー「タンパク質とは何か」を行い、タンパク質の生命現象における役割をご紹介します。その後実験室に移動し、皆さんにタンパク質の結晶化を体験してもらいます。昼食後は当日作製した結晶と塩化ナトリウムの結晶の観察を行います。最後にセミナー「タンパク質のＸ線結晶構造解析」を行い、タンパク質の立体構造がどのようにして得られるのかについてご説明します。さあ、私達と一緒にタンパク質の結晶を作って、タンパク質の“カタチ”を調べる仕組みを勉強してみませんか？！
+
+      ・2010年9月23日
+
+      8:30　 集合
+
+      8:30-9:00　　 実験室へ移動・自己紹介
+
+      9:00-9:15　　 科研費の説明
+
+      9:15-9:50　　 実験「ピペッターの使い方の説明・練習」
+
+      9:50-10:10　 講義「結晶化方法の説明」
+
+      10:10-11:30　 実験「結晶化」
+
+      11:30-11:50　 講義「結晶化の原理説明」
+
+      11:40-13:00　 昼食・研究室見学
+
+      13:00-13:20　 講義「タンパク質とは？」
+
+      13:20-13:40　 講義「X線結晶構造解析について」
+
+      13:40-14:40　 実験「結晶観察」
+
+      14:40-15:00　 考察
+
+      15:00-15:30　 クッキータイム
+
+      15:30-16:00　 修了式
+
+      16:00 解散'
+  source: https://ocw.hokudai.ac.jp/lecture/proteincrystals-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田中 勲
+  affiliation:
+    name: 先端生命科学院
+- type: Person
+  name: 喜多 俊介
+  affiliation:
+    name: 生命科学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- タンパク質
+- 結晶
+- 立体構造
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

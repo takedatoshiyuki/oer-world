@@ -1,0 +1,58 @@
+slug: hokudai-biotriz-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/biotriz-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: バイオミメティクス市民セミナー 生物の不思議を工学に生かす －バイオＴＲＩＺという考え方－（2014）
+description:
+  ja: 自然界に見られる生物機能を工学技術へ移すための手法として、バイオTRIZを扱う。講義では、その基礎から最新の研究動向までを紹介し、生物の知恵を手がかりに技術上の矛盾を解決する考え方に触れる。
+quotedDescription:
+  text:
+    ja: '近年、高効率・高性能な生物機能を材料設計に取り入れる生物模倣工学の研究が活発に進められています。
+
+      しかしながら、発明者の発想に頼ったケースバイケースでの材料設計が主となっており、生物の機能を工学技術に移転する手法の体系化は、非常に困難なのが現状です。
+
+      本講演では、自然界に見られる高効率な生物機能を簡便かつ能率良く、工学技術に移転できる手法「バイオＴＲＩＺ」について、基礎から最新の研究動向までを紹介します。
+
+      この方法では、生物の知恵をヒントにすることで、研究者が抱える技術矛盾を解決することが期待できます。'
+  source: https://ocw.hokudai.ac.jp/lecture/biotriz-2014
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 生物模倣工学
+- バイオＴＲＩＺ
+- 複合分野／学際
+audience:
+- general_public
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

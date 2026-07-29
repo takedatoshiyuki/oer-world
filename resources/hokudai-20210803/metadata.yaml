@@ -1,0 +1,79 @@
+slug: hokudai-20210803
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/20210803
+type:
+- LearningResource
+- Course
+name:
+  ja: 外国語教育センター高大連携プロジェクト：中高英語教員対象セミナー We are all Linguistic Geniuses (2021)
+description:
+  ja: この教材は、言語学の観点から人間の言語能力を扱い、日英比較を中心に講演内容を示す配布資料である。北海道大学の奥聡が、英語科教員向けの英語講演として行ったセミナーに関連して公開されている。
+quotedDescription:
+  text:
+    ja: '2021年 8月3日（火）に実施された、「2021年度 第1回 英語科教員対象 英語教育セミナー We are all Linguistic Geniuses : Using the power
+      of natural language acquisition to be better English teachers（より良い英語教育活動のために～自然言語習得力の活用～）」より、北海道大学
+      奥聡先生の講演を一般公開いたします。講演は、英語科教員に向けて英語で実施されました。
+
+      ■ プログラムと配布資料
+
+      ｢言語学の観点から見た人間の言語能力の魅力 ～日英比較を中心に～」
+
+      北海道大学教授　奥　聡　氏（理論言語学）
+
+      >> 配布資料（handout）
+
+      ■ 開催情報
+
+      第1回　英語科教員対象　英語教育セミナー We are all Linguistic Geniuses (2021)
+
+      開催日時：２０２１年8月３日（火）　10：00～12：30（09：30受付開始）
+
+      開催会場：クラーク記念国際高等学校　札幌大通キャンパス
+
+      対象者：英語科教員、小・中・高等学校教員、教育関係者等'
+  source: https://ocw.hokudai.ac.jp/lecture/20210803
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 奥　聡
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 高大連携プロジェクト
+- 外国語教育センター
+- クラーク記念国際高等学校 札幌大通キャンパス
+- 奥聡教授
+- 英語教育
+audience:
+- student
+materials:
+- name: '講義資料: 配布資料（handout）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2021/09/7f00b81293898dd1f2cdcb4200826181.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/20210803
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,95 @@
+slug: utokyo-series-ff2hufxjhfle
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=FF2hUfXJhFLE
+type:
+- LearningResource
+- Course
+name:
+  ja: リスクと社会（学術俯瞰講義）
+description:
+  ja: 科学技術の利用がもたらす便益と、そこに伴う安全・環境・安全保障上のリスクを手がかりに、社会がリスクをどう扱うかを考える講義である。あわせて、エネルギー、金融、食品などの分野ごとの対応を取り上げ、最後に失敗学、安全保障研究、社会心理学、防災研究の視点から横断的な論点を学ぶ。
+quotedDescription:
+  text:
+    ja: '現代社会は科学技術の発達に伴う様々なベネフィットを享受するとともに、安全性や環境面に関する様々なリスクに直面している。リスクには、当初民生用であった科学技術が軍事目的に転用されるといった安全保障上のリスクも含まれる。科学には不確実性が不可避であり、また、技術は予測の必ずしも容易ではない多様な社会的目的のために利用可能である。このような中で、技術の利用に関しては一定の規制等が不可欠である。他方、研究や活動の自由を社会として認めることも、イノベーションを促すために重要である。実験としてイノベーションを求めて試行錯誤するプロセスでは、一定のリスクを許容する必要もある。
+
+      以上のような状況の下で、科学技術に関わる社会的意思決定を行う際には、どのような考慮事項があり、どの様な場で如何にして判断していけばいいのだろうか。また、このような判断を行う仕組みをどのように構築すればいいのだろうか。便益やリスクの見え方はアクターの立ち位置によって大きく異なるという難しさもある。この講義では、社会においてリスクをどのように扱うのかという基本的課題を検討した後、エネルギー、金融、食品といった様々な科学技術の利用分野におけるリスクへの対応について考えてみたい。その上で、このようなリスクを社会において扱う際に利用分野横断的に考えるべき問題として、失敗学の視座、安全保障研究の視座、社会心理学の視座、複合的災害に対応する防災研究の視座について学ぶこととする。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=FF2hUfXJhFLE
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 城山 英明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤垣 裕子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 住 明正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柳川 範之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中嶋 康博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渋谷 健司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中尾 政之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+- social_sciences
+- natural_sciences_math
+keywords:
+- 政治・法律
+- 人口・社会問題
+- 環境
+- 経済・金融
+- 食料・農業・水産業
+- 生命・医療
+- ロボット・技術
+- 災害・防災
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,169 @@
+slug: kyoto-u-course-0926
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/926/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2016年 若手パブリックヘルス研究者京都国際会議
+description:
+  ja: 本教材は、2016年12月の2日間に行われた国際会議の記録で、開会挨拶、基調講演、セッション、ポスター発表、閉会までを収録する。内容はユニバーサル・ヘルス・カバレッジを軸に、日本やアジア各国の医療制度、保健医療経済、費用対効果の論点を扱う。各地域の事例を通して、医療制度の課題と政策上の検討事項を取り上げる。
+quotedDescription:
+  text:
+    ja: '2016年12月14日
+
+      Opening Session – Welcome addresses
+
+      1 Masao Kitano (Vice President, Kyoto University) Video
+
+      2 Shinji Uemoto (Dean, Graduate School of Medicine, Kyoto University) Video
+
+      3 Takeo Nakayama (Dean, Kyoto University School of Public Health) Video
+
+      Keynote Speeches
+
+      Session chairs: Takeo Nakayama (Kyoto University) and Masahiro Kihara (Kyoto University)
+
+      4 “Achieving Universal Health Coverage: The Contribution of Health Economics”
+
+      Anne Mills (Deputy Director & Provost and Professor of Health Economics and Policy London School
+      of Hygiene & Tropical Medicine)Video
+
+      5 “Achieving Universal Health Coverage in Light of Ageing Populations: Health Economic and Political-economy
+      Considerations”
+
+      Alex Ross (Director, WHO Centre for Health Development, Kobe) Video
+
+      Session 1 – Universal Health Coverage: Japan
+
+      Session chairs: Alex Ross (WHO Centre for Health Development) and Tosiya Sato (Kyoto University)
+
+      6 “Sustainable Development of Japanese Health Care System under the Universal Health Coverage”
+
+      Tetsuya Otsubo (Kyoto University) Video
+
+      7 “Visualization and Reform of Health and Social Care Systems in a Super-Aging Society”
+
+      Yuichi Imanaka (Kyoto University) Video
+
+      Session 2 – Universal Health Coverage: Emerging Economies (1)
+
+      Session chairs: Maznah Dahlui (University of Malaya) and Akio Koizumi (Kyoto University)
+
+      8 “Universal Health Coverage: Experience from Thailand”
+
+      Sathirakorn Pongpanich (Chulalongkorn University) Video
+
+      9 “Satisfaction with Universal Health Coverage Use Among Thais in Bangkok Metropolitan Area, Thailand”
+
+      Sukhonta Siri (Mahidol University) Video
+
+      Session 3 – Poster Presentation
+
+      10 Poster Presentation Video
+
+      Session 4 – Universal Health Coverage: Emerging Economies (2)
+
+      Session chairs: Anne Mills (London School of Hygiene & Tropical Medicine) and Toshiaki Furukawa
+      (Kyoto University)
+
+      11 “Universal Health Coverage in Malaysia”
+
+      Maznah Dahlui (University of Malaya) Video
+
+      12 “Health Care Systems in Taiwan: Current Problems to Future Challenges”
+
+      Yawen Cheng (National Taiwan University) Video
+
+      13 “The Impact of Community Based Health Insurance in Enhancing Better Accessibility and Lowering
+      the Chance of Having Financial Catastrophe Due to Health Service Utilization: A Case Study of Savannakhet
+      Province, Laos”
+
+      Somdeth Bodhisane (Chulalongkorn University) Video
+
+      2016年12月15日
+
+      Session 5 – Cost-effectiveness of Health Care (1)
+
+      Session chairs: John Cairns (London School of Hygiene & Tropical Medicine) and Chang-Chuan Chan
+      (National Taiwan University)
+
+      1 “Utilization of Reproductive Health Services: Time Trends & Equity”
+
+      Jenny Cresswell (London School of Hygiene & Tropical Medicine) Video
+
+      2 “Financial Difficulty and Catastrophic Health Expenditure for Colorectal Cancer Treatment”
+
+      Tin Tin Su (University of Malaya) Video
+
+      3 “Treatment Cost of Genital Warts on Provider and Patient Perspectives vs Government Expenditure
+      Analysis on Prevention Control and Treatment of the Sexually Transmitted Disease (STDs) in Thailand”
+
+      Sukhontha Kongsin (Mahidol University) Video
+
+      Session 6 – Poster Presentation
+
+      4 Poster Presentation
+
+      Session 7 – Cost-effectiveness of Health Care (2)
+
+      Session chairs: Sathirakorn Pongpanich (Chulalongkorn University) and Tetsuya Otsubo (Kyoto University)
+
+      5 “Beyond Accuracy: Assessing and Projecting the Public Health Impacts of New Diagnostics for Tuberculosis”
+
+      Hsien-Ho Lin (National Taiwan University) Video
+
+      6 “Using Cost-effectiveness Evidence to Inform Health Care Decision Making”
+
+      John Cairns (London School of Hygiene & Tropical Medicine) Video
+
+      Closing
+
+      7 Panel Discussion
+
+      Facilitated by John Cairns (London School of Hygiene & Tropical Medicine) and Yuichi Imanaka (Kyoto
+      University) Video
+
+      8 Best Poster Presentation Award Ceremony and Closing
+
+      Moderated by Takeo Nakayama (Kyoto University) Video'
+  source: https://ocw.kyoto-u.ac.jp/course/926/
+  note: 京都大学OCW 「2016年12月14日」・「Keynote Speeches」・「2016年12月15日」・「Closing」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Masao Kitano（Vice President
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Kyoto University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-12-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 医学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

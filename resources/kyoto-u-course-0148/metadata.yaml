@@ -1,0 +1,87 @@
+slug: kyoto-u-course-0148
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/148/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2014年度 E.FORUM 全国スクールリーダー育成研修：教師力アップ研修「探究力をどう育成するか」
+description:
+  ja: 本教材は、学校教育で求められる探究力の育成をテーマに、探究を深める際の思考のあり方や、その育成方法を扱う。あわせて、SGHでの実践報告を踏まえ、探究指導のためのカリキュラムと評価のあり方まで検討する内容である。
+quotedDescription:
+  text:
+    ja: '趣旨
+
+      変化の激しい現代社会において、学校教育では、探究力の育成がますます求められるようになっています。スーパーサイエンスハイスクール (SSH) や、スーパーグローバルハイスクール (SGH) において探究的な学習が重視されていることは、そのことを示す端的な例と言えるでしょう。
+
+      そこで本研修では、探究力を育成するための手立てについて考えます。探究を深める際に鍵となる思考とはどのようなものなのかについて伊勢田哲治准教授にご提案いただくとともに、SGH として先進的な取り組みを進めておられる金沢大学附属高等学校より実践をご報告いただきます。その上で、探究指導のためのカリキュラムや評価のあり方について検討したいと考えています。'
+  source: https://ocw.kyoto-u.ac.jp/course/148/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 伊勢田 哲治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 吉次
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石井 英真
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-03-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 開会挨拶：子安 増生'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_E.FORUM_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/148/
+- name: '講義資料: 講演資料：伊勢田 哲治'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_E.FORUM_02-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/148/
+- name: '講義資料: 講演資料：山本 吉次'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_E.FORUM_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/148/
+- name: '講義資料: 講演資料：西岡 加名恵'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_E.FORUM_04-01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/148/
+- name: '講義資料: 参考資料：西岡 加名恵'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_E.FORUM_04-02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/148/
+- name: '講義資料: 案内チラシ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2014_E.FORUM_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/148/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

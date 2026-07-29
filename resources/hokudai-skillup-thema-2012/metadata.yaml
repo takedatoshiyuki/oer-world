@@ -1,0 +1,62 @@
+slug: hokudai-skillup-thema-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/skillup-thema-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: スキルアップセミナー第2回 論文・レポートを書く前に（2012）
+description:
+  ja: 論文やレポートを書き始める前に、アカデミックな文章を書く際の考え方と注意点を扱う。講義外の学習支援として実施されるスキルアップセミナーの第2回で、学部学生を主な対象とした連携ゼミに位置づけられている。
+quotedDescription:
+  text:
+    ja: '第２回目は、「論文・レポートを書く前に」と題して、アカデミックな文章を書く上での考え方や注意点について、セミナーを開催しました。これから卒論、修論を始める人にオススメです。
+
+      アカデミック・サポートセンター（ASC）は、講義外での学習サポートやセミナーを開催し、学生の主体的な学習活動を支援しています。学習支援の一環として、学部学生を主な対象とした、ASCと図書館の連携ゼミ「スキルアップセミナー」を開催しています。'
+  source: https://ocw.hokudai.ac.jp/lecture/skillup-thema-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 多田 泰紘
+  affiliation:
+    name: 北海道大学アカデミック・サポートセンター
+- type: Person
+  name: 堀越 邦恵
+  affiliation:
+    name: 北海道大学附属図書館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- プレゼンテーション
+- スライド作成
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

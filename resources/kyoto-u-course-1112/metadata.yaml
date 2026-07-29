@@ -1,0 +1,87 @@
+slug: kyoto-u-course-1112
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1112/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育実践コラボレーション・センター公開シンポジウム「現代社会に求められる新たな秩序を考える」
+description:
+  ja: 学校、家庭、地域、国際交流の現場を取り上げ、従来の常識やモデルが通用しにくくなっている状況を考える。あわせて、混乱とは異なるかたちで現れつつある新たな秩序の動きを、具体的な現場の話から捉えようとする。
+quotedDescription:
+  text:
+    ja: '概要
+
+       学校が抱える困難、家庭が抱える困難。それぞれ違った難しさですが、よく見ると、似たところがあります。例えば、これまでの常識が通用しない、従来のモデルが有効に働かなくなっている。
+
+       もちろん、そのために混乱し、苦労しているわけですが、では、元に戻せばそれでよいか。むしろ今までとは違う、何らか新たな「秩序」が出現しようとしているのではないか。しかもそれは、普通の秩序という言葉には納まり切らない、秩序を崩す可能性を内に秘めた（しかし単なる混乱でもない）新たな「秩序」を創りだしてゆくような、「秩序ならざる秩序」。
+
+       その動きが、学校でも家庭でも地域の中でも、そして国際交流の現場でも、生まれ始めている。もしかすると、いくつかの異なる場面を重ね合わせてみた時に初めて聴こえてくるような、新たな芽生え。
+
+       具体的な現場の話の中に、その小さなき（うごめき）を見つけたい。「秩序ならざる秩序」に耳を傾けてみたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/1112/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 稲垣 恭子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岸田 蘭子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西平 直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 服部 憲児
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 南部 広孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大山 泰宏
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

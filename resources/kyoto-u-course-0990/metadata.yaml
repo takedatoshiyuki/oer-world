@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0990
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/990/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第3回「世界に羽ばたく生活綴方？―『世界の子ども』にみる「翻訳」の問題」
+description:
+  ja: 生活綴方運動の国際的な広がりを、『世界の子ども』（全15巻）の編集と出版を手がかりにたどる講演である。作文を集める過程で浮かび上がる「生活綴方」とは何かという問いや、冷戦体制下・脱植民地化をめぐる地域で生じた収集の難しさを扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      グローバル教育展開オフィス主催　2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』の第3回講演会を、9月25日（金）にZoom開催しました。今回は、当研究科の駒込　武教授が「世界に羽ばたく生活綴方？―『世界の子ども』（全15巻、平凡社、1955-1957年）にみる「翻訳」の問題」と題した講演を行い、司会進行はオフィス長の高山敬太教授が務めました。日本語と英語の同時通訳を導入し、学内外および国内外からも多くの参加がありました。講演会では活発な質疑応答も行われ、盛況のうち閉会しました。
+
+      要旨
+
+      生活綴方運動は、近代日本における草の根教育運動としてよく知られています。1950年代には生活綴方という思想と方法を世界に広めようとする挑戦的なプロジェクトがなされました。国分一太郎（1911-1985）や成田忠久（1897-1960）ら戦前期以来の運動の指導的人物が、著名なエスペランティストたちと協力しながら世界中の子どもたちの書いた作文を集めて、『世界の子ども』（全15巻、平凡社、1955-1957年）として出版したのです。
+
+      作文を集めようとする過程で、「そもそも『生活綴方』とは何か？」という問いが浮かび上がりました。冷戦体制下に内戦に引き裂かれた地域や脱植民地化をめぐる行き詰まりに遭遇した地域からは作文が集めにくいという問題もありました。試行錯誤に満ちた経験から何を学べるか、考えてみたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/990/
+  note: 京都大学OCW 「概要」・「要旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 駒込 武
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-09-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

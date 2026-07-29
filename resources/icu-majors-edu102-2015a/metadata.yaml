@@ -1,0 +1,151 @@
+slug: icu-majors-edu102-2015a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/edu102_2015a
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Education and Mass Communication 教育とマス・コミュニケーション概論
+description:
+  ja: マス・コミュニケーションの過程とその影響を、主要な理論やモデルを通して扱う講義である。政治的・社会的行動への影響の分析に加え、教育との関係ではセサミストリートやメディア・リテラシー教育を取り上げる。
+quotedDescription:
+  text:
+    ja: 'Review of major perspectives on the process and effects of mass communication. Special attention
+      will be given to the analysis of the extent that mass communication affects our lives in such areas
+      as political and social behavior.
+
+      マス・コミュニケーションの過程とその影響における理論の主なものを検討する。特に，政治的または社会的行動のような領域で，マス・コミュニケーションがどの程度われわれの生活に影響を与えるかということの分析に注目する。
+
+      Contents of Lectures
+
+      17
+
+      Lectures /
+
+      1
+
+      Video
+
+      September 7
+
+      導入&メディアとは
+
+      September 9
+
+      /
+
+      September 14
+
+      /
+
+      September 16
+
+      1. コミュニケーションの諸領域について
+
+      2. マス・コミュニケーションの諸モデル
+
+      直線（＝liner）モデルから循環（円環＝circular）モデルへ
+
+      September 28 /
+
+      September 30 / October 5 /
+
+      October 7
+
+      マス・コミュニケーション公開の概念＆類型
+
+      １．果と影響の違いは？
+
+      2. 時間軸を基準にした累計（ホブランドの仮眠効果、他）
+
+      3. 心理的段階を基準にいした類型（ロジャースのイノベーション研究他）
+
+      4. 効果と機能の違いは？順機能と逆機能
+
+      October 12
+
+      ビデオ視聴＆内容の考察
+
+      October 14 / October 19
+
+      マス・コミュニケーションの影響研究
+
+      １．弾丸理論 2.限定効果モデル
+
+      October
+
+      21
+
+      / October
+
+      28
+
+      マス・コミュニケーションの影響研究
+
+      3. 適度効果モデル 4．強力効果モデル
+
+      November 2
+
+      ビデオ視聴＆内容の考察
+
+      November 4
+
+      マス・コミュニケーションと教育（1） セサミストリートを中心に
+
+      November 9
+
+      マス・コミュニケーションと教育（2） メディア・リテラシー教育
+
+      November 11
+
+      期末試験
+
+      Lecture Notes'
+  source: https://ocw.info.icu.ac.jp/majors/edu102_2015a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 木輝美
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 専攻科目
+- 'Education 教育学 | Course ID: EDU'
+- 'EDU102 | Course Schedule: 1/W,1/F | Update: 2016.03.08 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1BWK5ksmxchCaVdJKFi7kO3yHDzE07jlb/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/edu102_2015a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

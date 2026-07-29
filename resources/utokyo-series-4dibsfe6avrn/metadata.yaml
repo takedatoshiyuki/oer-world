@@ -1,0 +1,56 @@
+slug: utokyo-series-4dibsfe6avrn
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=4diBsFE6AVRN
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学工学部1号館15号講義室・改修の記録「千葉先生に聞く」
+description:
+  ja: 東京大学工学部1号館内の15号講義室改修を題材に、講義室の来歴と改修の経緯を扱う。改修設計を監修・総括した千葉学が、新しい知見や技術を取り入れた設計について語る内容である。
+quotedDescription:
+  text:
+    ja: '※動画を再生すると、東京大学工学部・大学院工学系研究科のYouTubeチャンネルに遷移します。
+
+      東京大学工学部1号館は、内田祥三元総長の設計により1935年に竣工した鉄筋コンクリート構造の建物です。この度、鹿島建設からの寄附により１号館内にある15号講義室を改修することになりました。改修設計を監修・総括された東京大学工学系研究科建築学専攻の千葉学先生に、講義室の来歴から新しい知見や技術を取り入れた改修設計、最…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=4diBsFE6AVRN
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 千葉 学
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤田 香織
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,162 @@
+slug: icu-majors-phr111-2016a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/phr111_2016a
+type:
+- LearningResource
+- Course
+name:
+  ja: Old Testament Hebrew 旧約ヘブライ語
+description:
+  ja: 旧約ヘブライ語の文法と原典講読を通じて、旧約聖書文献学を扱う。音節や名詞・動詞の形態、代名詞、構文などを段階的に取り上げ、本文読解に結びつけて進める。
+quotedDescription:
+  text:
+    ja: 'A study of Old Testament Hebrew and philology. Grammar and reading selections of the text.
+
+      旧約聖書へブライ語文法および原典講読を中心として旧約聖書文献学を研究する。
+
+      Contents of Lectures
+
+      2
+
+      1
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Sep 08
+
+      1. Introduction
+
+      Sep 12
+
+      2. Syllables; The Matres Lectionis; The Full and Defective Spellings
+
+      Sep
+
+      15
+
+      3. Noun: Gender, Number, and Endings
+
+      Sep 1
+
+      9
+
+      4. Hebrew Roots and Patterns; Weak Radicals; Nouns With Prefixes
+
+      Sep
+
+      26
+
+      5. Geminate Nouns; Segolate Nouns; Irregular Plurals
+
+      Sep 2
+
+      8
+
+      6. The Definite Article; The Prefixed Prepositions
+
+      Oct 03
+
+      7. Adjectival Patterns; Uses of the Adjective; Agreement of the Adjective
+
+      Oct 06
+
+      8. The Verbal Patterns; The Inflection of the Participle
+
+      Oct 10
+
+      9. The Qal Active Participle; Uses of the Participle
+
+      Oct 13
+
+      10. The Independent Personal Pronouns; The Suffixed Pronouns; The Marker of Definite Direct Object
+
+      Oct 17
+
+      11. The Demonstratives; Relative Clauses; Interrogative Clauses
+
+      Oct 20
+
+      12. The Construct Chain; Construct Noun Forms; The Superlative
+
+      Oct 24
+
+      13. Nouns with Pronominal Suffixes; Forms of the Noun before Suffixes
+
+      Oct 27
+
+      14. The Afformatives of the Perfect; The Qal Perfect; Uses of the Perfect
+
+      Oct 31
+
+      15. The Syntax of the Verbal Clause; Negation of the Perfect
+
+      Nov 03
+
+      16. The Qal Perfect of Irregular Verbs
+
+      Nov 07
+
+      17. The Imperfect Inflection; The Qal Imperfect
+
+      Nov 10
+
+      18. The Uses of the Imperfect; Expression of Will; Negation of Imperfects; Jussives; Cohortatives
+
+      Nov 14
+
+      19. The Qal Imperative; The Qal Infinitive Absolute; The Qal Infinitive Construct
+
+      Nov 17
+
+      20. The Niphal Pattern; The Piel Pattern; The Hiphil Pattern; The Hithpael Pattern
+
+      Nov 21
+
+      21. Summary'
+  source: https://ocw.info.icu.ac.jp/majors/phr111_2016a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 魯恩碩
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- Philosophy and Religion 哲学・宗教学
+- 'PHR111 | Course Schedule: 4*/M, 4*/TH | Update: 2017.05.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

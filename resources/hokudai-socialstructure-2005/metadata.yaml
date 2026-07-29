@@ -1,0 +1,98 @@
+slug: hokudai-socialstructure-2005
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 社会構造論 日本の社会変動と宗教変容（2005）
+description:
+  ja: 社会構造、社会的機能、社会変動の理論的なつながりを押さえたうえで、日本社会と宗教制度・教団の関係を歴史的に扱う。さらに、近年の動向も踏まえつつ、現代のカルト問題を事例として日本社会の社会秩序を検討する。
+quotedDescription:
+  text:
+    ja: 社会構造と社会的機能、社会変動の理論的関連をおさえたうえで、日本社会と宗教制度・教団の関係を歴史的に近年の動向もふまえつつ考察する。とりわけ、現代におけるカルト問題の構成を事例に、日本社会における社会秩序の問題を検討する。
+  source: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 櫻井 義秀
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+- arts_humanities
+keywords:
+- 社会構造
+- カルト
+- 社会秩序
+- 心理／社会学
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/SocialStructure-2005-Note-12.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/socialstructure-2005
+extensions:
+  faculty: 文学部
+  targetAudience: s:86:"s:78:"s:70:"s:62:"a:3:{i:0;s:1:"2";i:1;s:2:" 3";i:2;s:19:" 4年生 文学部";}";";"
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

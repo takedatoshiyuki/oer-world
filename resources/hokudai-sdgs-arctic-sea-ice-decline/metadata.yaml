@@ -1,0 +1,54 @@
+slug: hokudai-sdgs-arctic-sea-ice-decline
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sdgs-arctic-sea-ice-decline
+type:
+- LearningResource
+- Course
+name:
+  ja: 北極海の海氷減少が引き起こす海洋環境への影響
+description:
+  ja: 北極海での長期漂流観測「MOSAiC」計画に参加した講師が、その計画の内容を説明する教材である。あわせて、海氷表面の融解で生じるメルトポンドの調査結果を取り上げ、北極海で起きている状況を扱う。
+quotedDescription:
+  text:
+    ja: '本学が参加する国連大学SDG-UP（SDG大学連携プラットフォーム)は、他の参加大学と協働で、一般教養科目「国連SDGs入門」を2021年度末に開発しました。本動画は、これに合わせて本学から提供した２つの動画のうちの一つです。
+
+      本動画では、北極海での長期漂流観測「MOSAiC」計画に参加した講師が、この計画の内容について示し、海氷の表面が融けてできた水溜であるメルトポンドの調査結果も含めて、北極海でいま何が起きているかを紹介します。'
+  source: https://ocw.hokudai.ac.jp/lecture/sdgs-arctic-sea-ice-decline
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 野村大樹
+  affiliation:
+    name: 北海道大学北方生物圏フィールド科学センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 北極海
+- MOSAiC計画
+- メルトポンド
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

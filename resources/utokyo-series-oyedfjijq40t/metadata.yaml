@@ -1,0 +1,89 @@
+slug: utokyo-series-oyedfjijq40t
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=oYedFJIjq40T
+type:
+- LearningResource
+- Course
+name:
+  ja: Juan Carlos Salazar氏（ICAO事務局長）特別セミナー [EN]
+description:
+  ja: 本講義は、ICAOの設立経緯と、国際民間航空の発達や国際協力、国際ルールの策定における役割を扱う。あわせて、感染症へのレジリエンス強化、カーボンニュートラル、新技術への対応といった近年の課題も取り上げる。
+quotedDescription:
+  text:
+    ja: 'ICAO（国際民間航空機関）は、1944年にシカゴ条約に基づき国連専門機関として設立され、2024年に設立80周年を迎えました。これまで、国際民間航空の発達や国際協力を促進し、国際ルールの策定において、ICAOが果たしてきた役割について理解を深めます。
+
+      また、近年、国際民間航空は、感染症に対するレジリエンス強化やカーボンニュートラルなどの世界規模の課題、新技術への対応も求められていますが、ICAOではどのような戦略を…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=oYedFJIjq40T
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: ファン・カルロス・サラサール
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川口 大司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大沼 俊之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: ナヒール・ワファ・ダジャーニ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: ロブ・ヘンダーソン
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯塚 美理
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 篠原 康弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小椋 康裕
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- social_sciences
+keywords:
+- エネルギー・資源
+- 国際関係
+- Insights from Global Experts and International Leaders
+- 航空
+- 脱炭素
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

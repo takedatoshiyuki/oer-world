@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0578
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/578/
+type:
+- LearningResource
+- Course
+name:
+  ja: 森里海連環学実習Ａ
+description:
+  ja: 由良川を実習フィールドに、芦生研究林内の源流から河口までの環境と生態を調べる実習である。森林構造の観察に加え、河川から河口域での水質分析や、魚類・水生昆虫・エビ・カニ類・プランクトンの採集と同定、魚類の消化管内容物の分析を行う。これらの調査結果をまとめ、森林域から沿岸域へ至る生態系の変化を解析する。
+quotedDescription:
+  text:
+    ja: 森林から始まる淡水は河川に流入し、里域において様々な人間活動に伴う負荷を受けた後に沿岸域へ流れ込む。そのため、陸上生態系のあらゆる変化が河川を通して集積され、最終的には沿岸海洋域の生態系に影響を与える。本実習では、由良川を実習フィールドとして、芦生研究林内の源流から河口までの環境と生態調査を行い、森や都市などの陸域の構造が、河川の水質、動植物の組成と生活にどのように影響しているかを調べる。森林域では森林構造の観察、河川～河口域では水質分析と魚類、水生昆虫、エビ・カニ類、プランクトンなどの生物採集を行う。採集した動植物の種類を同定し、魚類の消化管内容物を分析する。これらの調査結果を総合して、森林域から河川を通して河口域へ至る生態系構造の変化を解析し、森－里－海の連環について考察する。
+  source: https://ocw.kyoto-u.ac.jp/course/578/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山下 洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 長谷川 尚史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 上野 正博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中西 麻美
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 甲斐 嘉晃
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-08-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/f591dee301303722a43476bf06e3d07b.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/578/
+extensions:
+  faculty: 全学共通科目
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

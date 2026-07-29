@@ -1,0 +1,82 @@
+slug: utokyo-series-khunzo0e13pa
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=khUnzo0e13pa
+type:
+- LearningResource
+- Course
+name:
+  ja: 回路網と超電導（仁田旦三最終講義）
+description:
+  ja: 超電導応用機器を研究概要として掲げる、仁田旦三の最終講義である。東京大学工学部・工学系研究科で2006年に開講され、出典サイトには担当者の略歴も掲載されている。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      超電導応用機器
+
+      【教授略歴】
+
+      1944年　兵庫県西宮市に生まれる
+
+      1967年　京都大学工学部電気工学第二学科卒業
+
+      1969年　京都大学大学院工学研究科電気工学第二専攻修了
+
+      1972年　京都大学大学院博士課程単位取得退学
+
+      1972年　京都大学工学部助手
+
+      1980年　京都大学工学部助教授
+
+      1996年　東京大学大学院工学系研究科教授
+
+      電気学会会長代理・上級会員
+
+      IEEE会員 (Council of Applied Superconductivity)
+
+      低温工学協会理事
+
+      超電導エネルギー貯蔵研究会理事長'
+  source: https://ch.u-tokyo.ac.jp/series/?id=khUnzo0e13pa
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 仁田 旦三
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- エネルギー・資源
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

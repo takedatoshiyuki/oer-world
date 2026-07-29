@@ -1,0 +1,53 @@
+slug: utokyo-series-mwf5fpupxae4
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=mWf5fpUPXae4
+type:
+- LearningResource
+- Course
+name:
+  ja: 西垣通 最終講義「ラ・マンチャの情報学者」
+description:
+  ja: 東京大学大学院情報学環・学際情報学府教授だった西垣通の最終講義の記録である。2013年3月6日に東京大学福武ラーニングシアターで行われた講義をもとにした資料で、講義の記録を読む形で内容をたどる。
+quotedDescription:
+  text:
+    ja: "西垣通 東京大学最終講義「ラ・マンチャの情報学者」       2013年3月6日，東京大学情報学環・福武ホール（福武ラーニングシアター）にて。   \n \n  講義資料（講義録について）\
+      \  \n    「本稿は、東京大学大学院情報学環・学際情報学府教授であった西垣通の最終講義の記録である。この講義は、同教授の 2013 年 3 月末の定年退任にともない、同年 3 月 6\
+      \ 日に東京大学福武ラーニングシアターにておこなわれた。内容はおも…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=mWf5fpUPXae4
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 西垣 通
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,80 @@
+slug: utokyo-series-iqhjfsfvwtud
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=iQHjfsFVWTUd
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和５年度環境安全衛生実務説明会
+description:
+  ja: 東京大学の環境安全管理業務に関わる教職員を対象にした説明会である。環境安全管理を担当する教職員の業務の一助とすることを目的とし、関心のある教職員も対象に含めている。
+quotedDescription:
+  text:
+    ja: 本学の環境安全管理を担当する教職員の環境安全管理業務の一助としていただくとともに、環境安全管理業務に興味のある教職員も対象とした説明会です。
+  source: https://ch.u-tokyo.ac.jp/series/?id=iQHjfsFVWTUd
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 細谷 孝子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 家田 芳之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古瀬 武彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 林 恵利子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塚田 博明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 木村 圭志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小川 郁英
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 久木田 沙斗里
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

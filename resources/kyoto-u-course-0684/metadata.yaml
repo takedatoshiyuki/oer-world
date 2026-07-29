@@ -1,0 +1,119 @@
+slug: kyoto-u-course-0684
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/684/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物生産機械学
+description:
+  ja: 本講義は、食料生産に用いる農作業体系と、それを支える機械の構造、制御方法、役割を扱う。トラクタや作業機、耕うん・播種・施肥・収穫などの各作業に加え、自動化・ロボット化、共同施設のセンシング、情報化やトレーサビリティまで説明する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      食料生産を行うために，現在までに構築された農作業体系を説明すると同時に，それぞれの作業を行う機械の構造，制御方法，役割について詳述する。生物生産においては不定形，多様，かつ複雑な特性を有する農作物や農産物を取り扱う点が特色と言える。
+
+      授業の紹介
+
+      生物生産機械というのは，複雑で多様な動植物を取り扱うことが多い。それらは農作業体系に応じて色々な構造，制御方法，役割を有する。本授業では，様々な種類の機械に関して，共通要素であるエネルギーと動力，トラクタ等について説明した後，トラクタに装着する作業機および各種作業について詳述する。続いて，その自動化とロボット化に関する現状と将来について，またロボットの構成要素にまで言及する。さらに，地域に導入されている穀物や果実の共同施設とそのセンシングシステムについて非破壊検査技術を交えて説明を加える。最後には，精密農業，精密畜産，精密養魚などに関わる情報化およびトレーサビリティシステムについて講述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/684/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 飯田 訓久
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中嶋 洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 エネルギーと動力 (1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第2回 エネルギーと動力 (2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第3回 農用トラクタ (1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第4回 農用トラクタ (2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第5回 農用トラクタ (3)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第6回 耕うん・整地機械'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第7回 播種・移植機械'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第8回 施肥・防除などの管理機械'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第9回 収穫機械'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第10回 畜産用圃場機械'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第11回 自動化・ロボット化 (1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第12回 自動化・ロボット化 (2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第13回 農産施設および選別機械 (1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第14回 農産施設および選別機械 (2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第15回 情報化とトレーサビリティ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+- name: '講義資料: 第1から15回　一括'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsuisankikaigaku_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/684/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

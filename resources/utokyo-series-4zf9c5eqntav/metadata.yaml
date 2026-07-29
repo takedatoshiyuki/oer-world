@@ -1,0 +1,92 @@
+slug: utokyo-series-4zf9c5eqntav
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=4ZF9C5EqnTav
+type:
+- LearningResource
+- Course
+name:
+  ja: 第135回（2022年秋季）東京大学公開講座「境界」
+description:
+  ja: 本講義は、日本で人文社会科学と自然科学の区分が大学受験制度と結びつき、「文系と理系」という境界意識が生まれる背景を扱う。科学思想史の視点から、そのような状況がどのように形成されたかを考察する。
+quotedDescription:
+  text:
+    ja: '日本では人文社会科学と自然科学の区分が大学受験制度と強く結びついており、「文系と理系」という呼称で両者の境界が意識されやすくなっています。このような状況がどのように出来上がってきたのかを科学思想史の視点から考察します。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。
+
+      こちらの動画の概要を特集記事でもご紹介しています。
+
+      …'
+  source: https://ch.u-tokyo.ac.jp/series/?id=4ZF9C5EqnTav
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 隠岐 さや香
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松永 幸大
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 青木 淳賢
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古澤 泰治
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 遠藤 乾
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 髙谷 幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大久保 範聡
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- health_welfare
+- engineering
+keywords:
+- 教育
+- 生命・医療
+- ロボット・技術
+- 経済・金融
+- 国際関係
+- 政治・法律
+- 人口・社会問題
+- 言語・思想
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0952
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/952/
+type:
+- LearningResource
+- Course
+name:
+  ja: メディアアート
+description:
+  ja: 芸術と技術の歴史的な関係を手がかりに、メディアアートの基礎的な考え方を扱う講義である。古代ギリシャのテクネーに触れつつ、作品や思想を参照しながら、自分の考えや感覚をメディア技術で表現する方法を学ぶ内容となっている。
+quotedDescription:
+  text:
+    ja: '授業の紹介
+
+      芸術と技術の歴史は古い。
+
+      古代ギリシャにおいては、芸術と技術は一括してテクネーと呼ばれていた。テクネーとは人間の制作活動を可能にする認識能力であり、思想（ノエーシス）と制作（ポエーシス）とを統合・包括する技術である。
+
+      様々な芸術家の作品や考え方の知識修得と共に、どんな文化ができあがっていったのかということを考え、自分の思想やフィーリングをどのように認識し、メディア技術を通して表現するかという理系学生のメディアアート入門の方法を学ぶ。
+
+      教員ホームページ
+
+       
+
+      総合大学で芸術を学ぶために 京大の芸術教育を追う（2007.11.01）'
+  source: https://ocw.kyoto-u.ac.jp/course/952/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 土佐 尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第2回講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mediaart_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/952/
+- name: '講義資料: 第9回講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_mediaart_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/952/
+- name: '講義資料: 学生作品　都々逸（どどいつ）塩野渚'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/shiono.wmv_.zip
+  page: https://ocw.kyoto-u.ac.jp/course/952/
+- name: '講義資料: 学生作品　都々逸（どどいつ）池宮由楽'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ikemiya.wmv_.zip
+  page: https://ocw.kyoto-u.ac.jp/course/952/
+- name: '講義資料: 学生作品　都々逸（どどいつ）植松広一郎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/uematu.mov.zip
+  page: https://ocw.kyoto-u.ac.jp/course/952/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,49 @@
+slug: kyoto-u-course-0144
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/144/
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究公正講演会「研究不正の防止を超えて－志の高い研究の仕組み作りを考える－」
+description:
+  ja: 研究公正に関する講演会で、研究不正の防止を起点に、より望ましい研究の仕組み作りを考える内容である。京都大学の国際交流センターで開講され、水谷雅彦と山崎茂明が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 水谷 雅彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山崎 茂明
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-07-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際交流センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

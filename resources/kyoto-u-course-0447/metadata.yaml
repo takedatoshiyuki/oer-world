@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0447
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/447/
+type:
+- LearningResource
+- Course
+name:
+  ja: E.FORUM 学力評価スペシャリスト研修 第2回 フォローアップ研修
+description:
+  ja: 京都大学が提供する、学力評価スペシャリスト研修の第2回フォローアップ研修である。公開教材には、オリエンテーションに加えて、目標に準拠した評価の実現や、カリキュラム改善と校内研修のあり方を扱う資料が含まれる。文部科学省の委託事業に関連し、現場での実践改善に取り組む教員向けに提供される。
+quotedDescription:
+  text:
+    ja: '教育実践コラボレーション・センター
+
+       
+
+      概要
+
+      E.FORUMでは、文部科学省「教員の養成・採用・研修の一体的改革推進事業」の委託により、「学力評価スペシャリスト研修プログラムの開発・施行・改善」に取り組むことになりました。この事業の一環として、E.FORUM「全国スクールリーダー育成研修」の成果を活かしつつ、現場での実践改善に取り組んでおられる先生方に、フォローアップ研修を提供します。'
+  source: https://ocw.kyoto-u.ac.jp/course/447/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石井 英真
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-12-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: オリエンテーション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/0fd996559288abf6a3bd4ede05fb6ce4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/447/
+- name: '講義資料: C.「目標に準拠した評価」の実現'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/e13c5ed47a4d564190eba5564d052f8d.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/447/
+- name: '講義資料: D. カリキュラム改善－校内研修のあり方を中心に'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2017/04/edd31a80a60628e3476668b12906800f.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/447/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

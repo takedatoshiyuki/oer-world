@@ -1,0 +1,91 @@
+slug: utokyo-series-voxwjxk3kzxv
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=VOxwjxK3KzxV
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバル競争の中での自立した大学のあり方
+description:
+  ja: 大学が担うイノベーションや技術移転、社会連携を主題に、その現状を国際的な視点から扱う。あわせて、そこで重要となるガバナンスやコンプライアンス、そうした役割を支える人材育成を議論する。
+quotedDescription:
+  text:
+    ja: "新たな知見や文化の発信を担ってきた大学ですが、昨今はとりわけイノベーションや技術移転の源流としての役割に注目が集まっています。本シンポジウムでは大学発のイノベーションを社会と繋ぐ立場のゲストを国内外から招き、大学の社会連携の現状を国際的に紹介しつつ、そこで肝要となるガバナンスやコンプライアンス、そしてそれらを担う人材育成などに焦点を当てて議論します。\
+      \ \n \n  ★政策ビジョン研究センターの     イ…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=VOxwjxK3KzxV
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 城山 英明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: ジェーン・ムーア
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: アリソン・キャンベル
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: ケビン・カレン
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: エリック・ヴァーナ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: アルフレッド・シラート
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 羽鳥 賢一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: レジーナ・サマー
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+- engineering
+keywords:
+- 教育
+- 国際関係
+- ロボット・技術
+- 大学
+- イノベーション
+- 研究
+- 産学連携
+- 研究倫理
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

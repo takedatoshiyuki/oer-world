@@ -1,0 +1,107 @@
+slug: kyoto-u-course-0202
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/202/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回 市民講座「宇宙と物質の神秘に迫る～物理科学最前線～」特集テーマ「非平衡の世界」
+description:
+  ja: 京都大学理学研究科が開講した市民講座で、特集テーマは「非平衡の世界」である。公開教材には、非平衡による時空間パターン、爆発現象の多い宇宙、宇宙の反物質と時間の矢を扱う講義の配布資料、レジメ、講演スライドが含まれる。
+quotedDescription:
+  text:
+    ja: '主催：京大21世紀COE「物理学の多様性と普遍性の探求拠点」
+
+      後援：京都新聞社、物理教育学会、天文教育普及研究会、京都市教育委員会、京都府教育委員会
+
+       
+
+      概要
+
+      宇宙は非常に高温・高圧の熱平衡状態から始まり、豊かな階層構造をもつ現在の姿に変化してきました。夜の星空を眺めて、宇宙がこのように進化していることを実感するのは難しいでしょう。このような自然界の時間進化を記述することは物理学の対象です。
+
+      今回の講演会では、世界の最先端で活躍中の京都大学の生物化学物理・宇宙物理・素粒子物理の先生方にそれぞれ非平衡系・活動的な天体現象・物質の起源が作り出す構造についてわかりやすく解説していただきます。
+
+      詳細（物理学の多様性と普遍性の探求拠点HP）→http://physics.coe21.kyoto-u.ac.jp/public.html'
+  source: https://ocw.kyoto-u.ac.jp/course/202/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 田中 耕一郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉川 研一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 柴田 一成
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 笹尾 登
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006-11-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 「非平衡が創り出す時空間パターン」配布資料（略歴）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「非平衡が創り出す時空間パターン」配布資料（レジメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「非平衡が創り出す時空間パターン」講演スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「爆発だらけの宇宙」配布資料（略歴）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「爆発だらけの宇宙」配布資料（レジメ１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「爆発だらけの宇宙」配布資料（レジメ２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「爆発だらけの宇宙」講演スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/11/2006_shiminkouza4th_shibata.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「宇宙の反物質と時間の矢」配布資料（略歴）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 「宇宙の反物質と時間の矢」配布資料（レジメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_第4回市民講座_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+- name: '講義資料: 講演ポスター'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/11/2006_siminkouza4th_poster.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/202/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

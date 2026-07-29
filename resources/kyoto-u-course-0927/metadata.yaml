@@ -1,0 +1,144 @@
+slug: kyoto-u-course-0927
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/927/
+type:
+- LearningResource
+- Course
+name:
+  ja: '第5回国際シンポジウム “Disasters and Human Survivability: Enhancing Resilience to Risks Threatening the Future
+    of Humanity”'
+description:
+  ja: 災害が人類の未来に及ぼすリスクを、将来・過去・現在の3つの視点から扱う国際シンポジウムである。極端な災害、歴史上の自然現象や感染症流行、経済・経営を通じたレジリエンス向上などを、複数の講演と討議で構成している。
+quotedDescription:
+  text:
+    ja: '[Program]
+
+      2016年11月21日
+
+      1 Opening Speeches
+
+      Prof. Masao Kitano (Executive Vice-President, Kyoto University)
+
+      Prof. Shuichi Kawai (Dean of GSAIS, Kyoto University)
+
+      Moderator: Prof. Eriko Ishida Kawai (GSAIS, Kyoto University) Video
+
+      2 Keynote Lecture “A Classification of Risks Threatening the Future of Humanity”
+
+      Dr. Shahar Avin and Julius Weitzdoerfer (University of Cambridge, UK) Video
+
+      3 Discussion Video
+
+      4 Presentation about the main idea of the symposium and some concepts that will be discussed
+
+      Prof. Yosuke Yamashiki (GSAIS, Kyoto University) Video
+
+       
+
+      1. FUTURE Session
+
+      “What lies ahead? The risks of extreme disasters (high-impact, low-probability events) in the future”
+
+      5 Presentation 1 “Extreme Space Weather as an Emerging Risk”
+
+      Prof. Hiroaki Isobe (GSAIS, Kyoto University) Video
+
+      6 Presentation 2 “The 2011 Tohoku Earthquake and Tsunami: an Unexpected Disaster”
+
+      Prof. James Mori (Disaster Prevention Research Institute (DPRI), Kyoto University) Video
+
+      7 Discussion Video
+
+       
+
+      2016年11月22日
+
+      8 Summary of Day 1 and preview of Day 2
+
+      Prof. Dimiter Ialnazov (GSAIS, Kyoto University; Head of the Organizing Committee) Video
+
+      Introduction to the student poster session
+
+      9 Student presentations
+
+      General introduction by Prof. Marc-Henri Deroche (GSAIS, Kyoto University) Video
+
+       
+
+      2. PAST Session
+
+      “What can we learn from the history of extreme disasters?”
+
+      10 Past Session Introduction
+
+      Prof. Takura Izumi (GSAIS, Kyoto University) Video
+
+      11 Presentation 1 “How did people observe and describe extraordinary natural phenomena in the period
+      of the Global Crisis?”
+
+      Prof. Satoshi Koyama (Graduate School of Letters, Kyoto University) Video
+
+      12 Presentation 2 “Lessons from the Global Outbreaks of Infectious Diseases in the Past”
+
+      Prof. Masao Mitsuyama (GSAIS, Kyoto University) Video
+
+      13 Discussion Video
+
+       
+
+      3. PRESENT Session
+
+      “How to enhance resilience to extreme disasters from the perspective of economics and management”
+
+      14 General Introduction
+
+      Prof. Takashi Kanamura (GSAIS, Kyoto University) Video
+
+      15 Presentation 1 “The timing of investments for adaptation to climate impacted hazards”
+
+      Prof. Stefan Trück (Centre for Financial Risk, Macquarie University, Australia) Video
+
+      16 Presentation 2 “When should a CAT Index Futures be Created? Limits of Insurance Risk Securitization
+      due to Basis Risk and Adverse Selection”
+
+      Prof. Kazuhiko Ohashi (Graduate School of International Corporate Strategy (ICS), Hitotsubashi University)
+      Video
+
+      17 Discussion Video
+
+      18 Panel Discussion Video'
+  source: https://ocw.kyoto-u.ac.jp/course/927/
+  note: 京都大学OCW 「[Program]」・「2016年11月21日」・「1. FUTURE Session」・「2016年11月22日」・「2. PAST Session」・「3. PRESENT
+    Session」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-11-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 安全・衛生
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

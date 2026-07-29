@@ -1,0 +1,58 @@
+slug: utokyo-series-kgrrehgovpof
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=KgRrEhgovpoF
+type:
+- LearningResource
+- Course
+name:
+  ja: 好奇心の趣くまま（岡部洋一最終講義）
+description:
+  ja: 岡部洋一の最終講義として、研究概要に挙げられた超伝導エレクトロニクス、生体磁気、ニューラルネットワークスを扱う。あわせて、東京大学での学歴と研究・教育歴が略歴として示される。
+quotedDescription:
+  text:
+    ja: "【研究概要】\n超伝導エレクトロニクス、生体磁気、ニューラルネットワークス\n【教授略歴】\n1943年 \t東京生まれ\n1967年 \t東京大学工学部卒\n1989年 \t東京大学電子工学科教授\n\
+      1990年 \t先端科学技術研究センター教授\n1999年 \t先端科学技術研究センターセンター長\n2001年 \t情報基盤センターセンター長\n2002年 \t工学系研究科電子工学専攻教授\n\
+      2006年 \t放送大学教授（メディア教育開発センター理事(非常勤)兼任）\n2006年  東京大学名誉教授"
+  source: https://ch.u-tokyo.ac.jp/series/?id=KgRrEhgovpoF
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 岡部 洋一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- ロボット・技術
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

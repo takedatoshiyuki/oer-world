@@ -1,0 +1,92 @@
+slug: kyoto-u-course-0857
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/857/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'APRU Research Symposium on University Museums: Forming a University Museum Collection Network As
+    the Core of Frontier Research'
+description:
+  ja: 大学博物館における収蔵品と研究の関係を主題に、APRU加盟大学の事例や取り組みを共有するシンポジウムである。収蔵品を基盤にした研究活動、収蔵品のデジタル化、独自のコレクションの紹介を通じて、大学博物館の役割と連携のあり方を扱う。
+quotedDescription:
+  text:
+    ja: 'Kyoto University
+
+      Association of Pacific Rim Universities (APRU)
+
+       
+
+      Scope of Symposium
+
+      University museum collections serve as important resources and stimulation for research and yield
+      numerous scientific findings. In turn, through the research activities of university museums, collections
+      are expanded and improved. Thus, collection and research, with their reciprocal interaction, are
+      inseparably linked components which constitute the core of university museums. This reciprocal interaction
+      promotes the academic activities not only of the university museums but also of the universities
+      as a whole. The Kyoto University Museum (the organizer of this symposium) came to this understanding
+      of the reciprocal and positive circuits of collection-research interaction through our own activities
+      and experiences since the museum’s establishment in 1997. This perspective clearly differs from
+      the commonly hold view of university museums as merely places for maintaining collections. Operating
+      university museums with this understanding greatly contributes to the academic achievements of museums
+      and universities.
+
+      This symposium is being held as research symposium of the Association of Pacific Rim Universities
+      (APRU). Each of the APRU member universities has built large and unique collections in accordance
+      with their varied historical, cultural and natural environmental backgrounds, and each has produced
+      rich scientific results based on its collection. Through this symposium, we would like to share
+      the idea of reciprocal positive interaction between collection and research with other museums of
+      APRU member universities. Furthermore, we hope to establish multilateral cooperation and networking
+      to intensify academic activities not only of each individual APRU member university but also of
+      the APRU network as a whole.
+
+      This symposium, therefore, aims to elucidate and share information and experience on the current
+      status of collection and research of university museums in the Pacific Rim region. Presentations
+      will introduce various aspects of reciprocal and positive collection-research interaction, broad
+      collection-based research activities utilizing new technologies or approaches, the digitization
+      of collections, and information on unique and valuable collections. Through this symposium, we will
+      discuss the roles and importance of the multilateral university museum collection network and its
+      role in promoting university research frontiers.
+
+      In this century, as advancing globalization brings new problems to be solved, research with a global
+      viewpoint is of increasing importance. It is therefore anticipated that the museums of APRU member
+      universities will play an increasingly vital role as active participants in a collection network
+      to promote research to address global issues. We hope that this symposium will serve as the first
+      step in endeavor towards a shared understanding of the importance of reciprocal and positive collection-research
+      interaction in promoting academic activities in museums, and also the importance of forming an APRU
+      university museum collection network to advance university research frontiers and contribute to
+      global society.'
+  source: https://ocw.kyoto-u.ac.jp/course/857/
+  note: 京都大学OCW 「Scope of Symposium」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-09-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

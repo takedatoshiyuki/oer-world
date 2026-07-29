@@ -1,0 +1,60 @@
+slug: utokyo-series-vijrdpeisyz1
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=VIjrDPEisyz1
+type:
+- LearningResource
+- Course
+name:
+  ja: 数理手法IV
+description:
+  ja: 離散時間の確率過程を題材に、確率過程論の考え方を扱う講義である。特にマルチンゲールのアイデアを中心に据え、前半では確率空間が有限集合の場合を取り上げる。測度論や積分論を前提とせず、厳密性よりも直観を重視する構成になっている。
+quotedDescription:
+  text:
+    ja: 時間とともに変化する不確実な現象を記述し理解するには、確率過程論が重要な道具として用いられる。この講義では離散時間の確率過程に関しての講義を行う。 この講義では、数学的に厳密な議論は行わず、確率過程論（特にマルチンゲール）のアイデアを中心として直観を重視した講義を行う。特に前半では確率空間が有限集合である場合を取り扱う。測度論、積分論の知識は前提としない。
+  source: https://ch.u-tokyo.ac.jp/series/?id=VIjrDPEisyz1
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 楠岡 成雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- arts_humanities
+keywords:
+- 数理
+- 言語・思想
+- 数学
+- 確率
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

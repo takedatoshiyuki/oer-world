@@ -1,0 +1,118 @@
+slug: icu-majors-phy102-2017a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/phy102_2017a
+type:
+- LearningResource
+- Course
+name:
+  ja: 2017A Introduction to Physics 初級物理学
+description:
+  ja: エネルギーと運動に関わる物理学の基礎的概念や法則を、力学を中心に扱う講義である。ニュートンの法則、仕事とエネルギー、運動量、回転運動、振動、波、流体、万有引力などを順に学ぶ。
+quotedDescription:
+  text:
+    ja: 'This course provides an introduction to fundamental concepts and laws related to energy and motion
+      in the physical science.
+
+      力学を中心として、エネルギーと運動に関わる物理学の基礎的諸概念や法則について学ぶ。ICU献学の理念とその歴史について近代日本社会の歩みの中でとらえる。明治以来のキリスト教の高等教育の歴史に始まり、冷戦時代に創設されたICUの現在までの経験を考察する。
+
+      Contents of Lectures
+
+      Newtons first two laws, position, velocity, acceleration, force, mass (example: skating)
+
+      Free fall, acceleration due to gravity, mass, weight, superposition (example: falling balls)
+
+      Newton’s third law, force addition, mechanical advantage, work, energy (kinetic and potential),
+      gravitational potential energy (example: ramps)
+
+      Newton’s laws of rotational motion, angular velocity, angular acceleration, torque, rotational inertia,
+      rotational mass, center of mass, lever arm, torque balance (example: seesaw)
+
+      Friction (static and sliding), work, torque and power, translational and rotational kinetic energy,
+      potential and thermal energy, roller bearing, free and powered wheels (example: wheels)
+
+      Linear and angular momentum and momentum transfer, (angular) impulse, change of rotational mass,
+      force and potential energy,
+
+      Hooke’s law of elasticity, measuring mass, simple oscillation (example: spring scale)
+
+      8.
+
+      Elastic and inelastic collisions, energy and velocity of collision and rebound, frames of reference,
+      vibrations (example: ball sports)
+
+      9.
+
+      Feeling of acceleration and apparent weight, uniform circular motion, centripetal force and acceleration
+      (examples: carousel and roller coaster)
+
+      10.
+
+      Static and dynamic stability, precession, drive system (example: bicycle)
+
+      11.
+
+      Rocket propulsion, Newton’s Law of Universal Gravitation, Kepler’s laws (example: space travel)
+
+      12.
+
+      Atmospheric pressure gradient, buoyancy, temperature definitions, ideal gas law (example: ballons)
+
+      13.
+
+      Hydrodynamics, hydraulics, pump mechanism, steady state flow, streamlines, Bernoulli’s equation
+      (example: water distribution)
+
+      14.Oscillations, period, frequency, amplitude, harmonic oscillator, pendulum, piezoelectricity (example:
+      clocks)
+
+      15.Standing and traveling waves, harmonics, resonant energy transfer, sympathetic vibration, sound
+      waves, open and closed air column vibration, transverse and longitudinal waves (example: musical
+      instruments)
+
+      16.
+
+      Water waves, physics of tides, tidal power, tsunami, wave breaking, wave reflection, refraction,
+      dispersion and interference (example: sea)'
+  source: https://ocw.info.icu.ac.jp/majors/phy102_2017a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: Eckhard HITZER
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Physics 物理学 | Course ID: PHY10'
+- 'PHY102 | Course Schedule: 3/TU, 3/TH | Update: 20'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,80 @@
+slug: hokudai-cgh-2015
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/cgh-2015
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 電子ホログラフィとCGHシリーズ（2015）
+description:
+  ja: ホログラフィの基礎から電子ホログラフィと計算機合成ホログラムまでを、11回の動画で順に扱う講義である。回折積分やCGHの基本式、ポリゴン法、点光源法、レンダリング、立体表示技術、3次元表示装置と視覚特性までを含む。
+quotedDescription:
+  text:
+    ja: 'メディア創生学研究室「電子ホログラフィとCGHシリーズ」の動画をご覧いただけます。
+
+      ・メディア創生学研究室
+
+      ・CGH Homepage
+
+      第1回　ホログラフィとは
+
+      第2回　簡単なホログラフィの原理
+
+      第3回　電子ホログラフィと計算機合成ホログラム
+
+      第4回　フレネル-キルヒホッフの回折積分　CGHの基本式
+
+      第5回　ポリゴン法
+
+      第6回　点光源法
+
+      第7回　ホログラフィックステレオグラム
+
+      第8回　レンダリング1　物体の質感
+
+      第9回　レンダリング2　陰面処理
+
+      第10回　様々な立体表示技術
+
+      第11回　3次元表示装置と視覚特性'
+  source: https://ocw.hokudai.ac.jp/lecture/cgh-2015
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 坂本雄児
+  affiliation:
+    name: 北海道大学大学院情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院でさがす
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

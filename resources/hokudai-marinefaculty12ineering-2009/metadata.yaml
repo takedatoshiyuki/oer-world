@@ -1,0 +1,61 @@
+slug: hokudai-marinefaculty12ineering-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/marinefaculty12ineering-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 水産海洋工学（2009）
+description:
+  ja: 水産物生産の流れの中で使う漁船や機械・装置を対象に、それらを効率よく安全に動かすための工学の基礎を扱う。あわせて、船や機械に働く力の仕組みと運動特性の扱い方の基礎を学ぶ。
+quotedDescription:
+  text:
+    ja: 水産物生産において，捕獲・選別・加工する一連の生産プロセスの中で，漁船やこれに搭載される各種の機械・装置が使用されます。本授業ではこうした機械・装置を効率よく安全に動かすために必要な工学の基本について初歩から解説し，船・機械に働く力のメカニズムや運動特性の取り扱い方の基礎を学習します。
+  source: https://ocw.hokudai.ac.jp/lecture/marinefaculty12ineering-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 芳村 康男
+  affiliation:
+    name: 北海道大学水産科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 機械工学，浮体工学，制御工学
+- 水産学
+- 水産学部
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 水産海洋工学テキスト'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/MarineEngineering-2009-Text-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/marinefaculty12ineering-2009
+extensions:
+  faculty: 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,100 @@
+slug: kyoto-u-course-0956
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/956/
+type:
+- LearningResource
+- Course
+name:
+  ja: '[ポケット・ゼミ] メディアアート（映画監督養成講座）, 2014'
+description:
+  ja: 映像制作を通して、人の心に残る物語のしくみを探る講義である。物語と言語の関係や語り部の記憶、『スターウォーズ』を例にした英雄伝説の三段構造を扱い、その考え方に基づいて作品制作を行う。公開教材には学生レポートと学生作品が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の概要目的
+
+      人の心に訴える映像制作を研究、制作を目的として、人々の心に残る物語のしくみについて研究する。
+
+      物語と言語の関係、語り部の記憶とはなにか、物語の母型「スターウォーズ」英雄伝説の三段構造－その考え方に基づいて、実際に作品制作をする。'
+  source: https://ocw.kyoto-u.ac.jp/course/956/
+  note: 京都大学OCW 「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 土佐 尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 2012年度レポート　「Art and Technology Report」Mai Cong Hung'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2012年度レポート　「工学系アートのススメ まとめレポート」瀬川　智子'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2012年度レポート　「工学系アートのススメ最終レポート」川本　稜'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_kougakukeia-tonosusume_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（青木 舞）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_18.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　春分 / 桜萌黄の襲（尾崎 達哉）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_19.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　小満 / 卯の花の襲（鷲尾 尚也）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_20.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　夏至 / 蓬の襲（前田 和輝）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_21.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大暑 / 二藍の襲（前澤 俊哉）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_22.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　霜降 / 紅葉の襲（日下 千夏）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_23.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　冬至 / 檜皮の襲（柴田 悠）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_24.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2010年度学生作品　俳句とかさね HitchHaiku + Kasane　大寒 / 松の襲（熊切 俊祐）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2013_Art-Culture-and-Technology_26.jpg
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2009年度学生作品　都々逸（どどいつ）塩野渚'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/shiono.wmv_.zip
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2009年度学生作品　都々逸（どどいつ）池宮由楽'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ikemiya.wmv_.zip
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+- name: '講義資料: 2009年度学生作品　都々逸（どどいつ）植松広一郎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/uematu.mov.zip
+  page: https://ocw.kyoto-u.ac.jp/course/956/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

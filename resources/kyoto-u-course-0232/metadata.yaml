@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0232
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/232/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第84回 京都大学丸の内セミナー「森・里・海のややこしい三角関係」
+description:
+  ja: 森から海へとつながる栄養物質の循環や、それを利用するプランクトンの生産、川と海を行き来する魚類の生態を取り上げる。あわせて、人間活動が加わることで森・里・海の関係がどのように複雑になるかを扱う。
+quotedDescription:
+  text:
+    ja: '「森は海の恋人」という有名なキャッチフレーズがある。この言葉は「豊かな森が豊かな海を育む」と言い換えることができる。私たちの感性はこの命題は真であると強くささやくが、自然科学を通して森と海のつながりとそのメカニズムを明らかにすることは容易ではない。
+
+      　私が所属する京都大学フィールド科学教育研究センターは、森から海までの生態系や社会のつながりを研究する「森里海連環学」という新たな学問領域の創生をめざして研究を進めている。この中で「里」は人間が活動する場を示す。人間は森、河川、沿岸域を様々に利用することから、人間活動を通して森里海の関係は非常に複雑になる。
+
+      　本講演では、私たちの研究成果を中心に、森から海に至る栄養物質の循環、それを利用するプランクトンの生産、川と海の間を行き来するウナギやスズキなどの魚類の生態について紹介し、そこに人間活動が介在することによって生じる森里海のもつれた三角関係を探索する。'
+  source: https://ocw.kyoto-u.ac.jp/course/232/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山下 洋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-07-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

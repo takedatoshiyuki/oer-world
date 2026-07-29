@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0354
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/354/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科レクチャーシリーズ第4回 “Making Tea, Making Japan－茶道と日本文化を考える－”
+description:
+  ja: 茶道を手がかりに、日本文化と教育を考える講演を扱う。クリステン・スーラック博士を招き、茶道から見た視点で日本文化と教育を論じる内容である。
+quotedDescription:
+  text:
+    ja: 'コース概要
+
+      “Making Tea, Making Japan: Cultural Nationalism in Practice” の著者であるロンドン大学東洋アフリカ研究学院准教授クリステン・スーラック博士をお迎えし、茶道から見た日本文化と教育についてご講演いただきました。'
+  source: https://ocw.kyoto-u.ac.jp/course/354/
+  note: 京都大学OCW 「コース概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: クリステン・スーラック
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-11-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

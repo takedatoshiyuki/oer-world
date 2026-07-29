@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0803
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/803/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「森の生態系と私たちのかかわり－地球温暖化から人のこころまで」
+description:
+  ja: 人間の営みが森林や地球規模の環境変化に与える影響を取り上げる講義である。コンピュータシミュレーションによる人と自然の相互作用の予測研究に加え、森林が人の心理に及ぼす作用や、電子機器を用いたこころの動きの観測も扱う。
+quotedDescription:
+  text:
+    ja: 人間の営みは直接・間接に自然環境を変化させています。森を伐採すれば直接の影響が、地球温暖化を引き起こせば間接の影響が生じます。コンピュータシミュレーションを使った、人と自然のかかわりを総合的に予測する研究を紹介します。また、森林が人間の心理に与える効果についてもお話します。近年開発された電子機器を用いることで、これまでは漠然としていた、自然環境下での人のこころの動きが解明されつつあるのです。
+  source: https://ocw.kyoto-u.ac.jp/course/803/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 伊勢 武史
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

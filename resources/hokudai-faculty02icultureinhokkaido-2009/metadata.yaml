@@ -1,0 +1,84 @@
+slug: hokudai-faculty02icultureinhokkaido-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: Agriculture in Hokkaido (2009)
+description:
+  ja: 北海道における食料生産システムと圃場管理を扱い、大学農場の見学を通じて学ぶ講義である。公開資料には、北海道の農業の概要に加えて、生態系の特徴、畑作物、園芸作物、飼料作物、畜産、農業機械技術、農業経済に関する資料が含まれる。
+quotedDescription:
+  text:
+    ja: Understanding food production system and field management in Hokkaido，cool and snow cover region，by
+      visiting University Farm，Hokkaido University.
+  source: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: PDF Agriculture in Hokkaido'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Title & Contents'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-00.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Characteristics of Ecological System'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Cultivation of Field Crops'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Cultivation of Horticulture Crops'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Forage Crops'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Livestock Production'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Agricultural Machinery Technology'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+- name: '講義資料: PDF Agricultural Economy'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AgricultureInHokkaido-2009-Text-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty02icultureinhokkaido-2009
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

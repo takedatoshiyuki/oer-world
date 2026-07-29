@@ -1,0 +1,67 @@
+slug: hokudai-universityandsociety-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/universityandsociety-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 大学と社会（2009） ※学内限定
+description:
+  ja: 北海道大学が2009年に開講した「全学教育 大学と社会」の講義資料を収録する。教育学部が開講部局で、亀野淳、木村純、三上直之が担当し、1年次以上の複数学部を対象とする。公開資料はスライド1件で、日本語で提供されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 亀野 淳
+  affiliation:
+    name: 北海道大学高等教育機能開発総合センター
+- type: Person
+  name: 木村 純
+  affiliation:
+    name: 北海道大学高等教育機能開発総合センター
+- type: Person
+  name: 三上 直之
+  affiliation:
+    name: 北海道大学高等教育機能開発総合センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 卒業生講話
+- 学生生活
+- 職業生活
+- ライフプラン
+- 教育／学習
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/UniversityAndSociety-2009-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/universityandsociety-2009
+extensions:
+  faculty: 教育学部
+  targetAudience: 1年次～ 文学部，教育学部，法学部，経済学部，理学部，医学部，歯学部，薬学部，工学部，農学部，獣医学部，水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

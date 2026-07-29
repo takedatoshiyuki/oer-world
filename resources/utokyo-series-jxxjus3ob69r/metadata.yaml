@@ -1,0 +1,71 @@
+slug: utokyo-series-jxxjus3ob69r
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=jxXJUS3oB69r
+type:
+- LearningResource
+- Course
+name:
+  ja: Bigリアルセッション ルーブリックを極める
+description:
+  ja: 評価の場面で学習者の学びを促すために、どのような工夫ができるかをグループワークを通して検討し、共有する講義である。あわせて、オンライン講座「インタラクティブ・ティーチング」の動画とワークシートが東大FDサイト内で公開されている。
+quotedDescription:
+  text:
+    ja: "評価に際し、学習者の学びを促すためにできる工夫についてグループワークを交えながら検討・共有するという本イベントの趣旨を確認します。 \n \n  オンライン講座「インタラクティブ・ティーチング」の動画とワークシートは\
+      \     東大FDサイト内    で公開されています。 \n  イベント詳細は     こちら    。 \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。  \n  お気に入りの講義・講演があればSNSなどでシェ…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=jxXJUS3oB69r
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中村 長史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 栗田 佳代子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉田 塁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 堀上 晶子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 竹内 幸哉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 成田 秀夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

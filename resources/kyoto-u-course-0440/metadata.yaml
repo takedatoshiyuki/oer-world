@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0440
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/440/
+type:
+- LearningResource
+- Course
+name:
+  ja: 遺伝学
+description:
+  ja: 遺伝学の基礎事項を扱う講義資料集で、細胞分裂からメンデルの遺伝の法則、そこから広がる遺伝学の発展までを追う。さらに、染色体を遺伝子の集合体として捉え、その数や構造の異常、遺伝子の異常を扱う。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 遠藤 隆
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 「遺伝学」概括と授業のガイダンス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+- name: '講義資料: 第2回 細胞の分裂'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+- name: '講義資料: 第3回 メンデルの遺伝の法則'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+- name: '講義資料: 第4回 メンデル遺伝学の発展(1)，第5回 メンデル遺伝学の発展(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_04-05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+- name: '講義資料: 第5回 メンデル遺伝学の発展(2)，第7回 遺伝子の集合体としての染色体(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_06-07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+- name: '講義資料: 第8回 染色体の数の異常'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+- name: '講義資料: 第9回 染色体の構造の異常'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+- name: '講義資料: 第10回 遺伝子の異常'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_idengaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/440/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

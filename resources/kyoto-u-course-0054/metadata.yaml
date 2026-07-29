@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0054
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/54/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第47回 京都大学品川セミナー「生命の惑星を支える海の微量元素」
+description:
+  ja: 海の形成から生物の誕生、光合成による地球環境の変化までを背景に、海洋生物と元素の関係を考える。さらに、炭素・窒素・リン以外の微量元素が生物の生長や進化にどう関わるかを取り上げ、現代の海での分布と生物生産との関係にも触れる。
+quotedDescription:
+  text:
+    ja: '地球の海は、40億年前以前に形成されたと考えられています。生物は、海で誕生し、進化してきました。生物は、やがて光合成により有機物を合成するようになり、それとともに酸素を放出し、地球表面の環境を大きく変化させました。
+
+      現在、ほとんどすべての生物は、光合成生物の生産に依存しています。海の光合成生物は、必要な栄養素を海水に溶けている成分から吸収します。健全な生長のためには、炭素、窒素、リンなどの元素に加えて、さまざまな微量元素が必要です。多くの微量元素は、40億年の海の歴史を通して濃度が大きく変化し、生物進化にも影響をおよぼしてきたようです。現代の海においても、微量元素の分布は生物の生産と深く関わっていると考えられますが、その詳細はまだ謎に包まれています。'
+  source: https://ocw.kyoto-u.ac.jp/course/54/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 宗林 由樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-04-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 化学
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 化学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

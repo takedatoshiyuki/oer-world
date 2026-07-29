@@ -1,0 +1,47 @@
+slug: kyoto-u-course-0969
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/969/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「最適化・デザイン・アート」
+description:
+  ja: 京都大学工学研究科で、富田直秀が担当した最終講義である。題目には最適化、デザイン、アートが含まれている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 富田 直秀
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-01-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- engineering
+keywords:
+- 芸術・文化
+- デザイン学
+- 工学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

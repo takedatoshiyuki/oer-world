@@ -1,0 +1,86 @@
+slug: hokudai-faculty05icine-qol-2003
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty05icine_qol-2003
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開講座/市民セミナー 高齢者の健康増進とQOLの向上にむけて（2003）
+description:
+  ja: この教材は、高齢者の健康増進とQOLを主題に、健康とQOLの概念やライフステージの捉え方を扱う。あわせて、平均寿命の男女差の意味、文明の成熟度、高齢者の健康に関わる要因、年齢による差別にも触れる。内容の具体的な部分は公開されている3枚の講義資料で確認する構成である。
+quotedDescription:
+  text:
+    ja: '講義の概略は以下のとおりです。
+
+      ●健康とＱＯＬの概念
+
+      ●ライフステージの捉え方
+
+      ●平均寿命の男女差の意味
+
+      ●文明の成熟度
+
+      ●高齢者の健康と関連要因
+
+      ●年齢による差別
+
+      具体的な内容については、講義資料をご覧ください。
+
+      スライド1
+
+      スライド2
+
+      スライド3
+
+      ‡ これらの資料は制限資料です。'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty05icine_qol-2003
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 玉城 英彦
+  affiliation:
+    name: 北海道大学大学院医学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- health_welfare
+keywords:
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: スライド1'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/QOL-2003-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty05icine_qol-2003
+- name: '講義資料: スライド2'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/QOL-2003-Slide-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty05icine_qol-2003
+- name: '講義資料: スライド3'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/QOL-2003-Slide-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty05icine_qol-2003
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

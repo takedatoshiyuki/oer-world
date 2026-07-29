@@ -1,0 +1,50 @@
+slug: mi-literacy-genai
+mode: referenced
+externalUrl: https://www.mi.u-tokyo.ac.jp/consortium/pdf/GenAI.pdf
+type:
+- LearningResource
+- Course
+name:
+  ja: 生成AI（九州大学・数理DS-AI教育 リテラシーレベル）
+description:
+  ja: 九州大学が担当する、2024年開講の生成AIに関する講義である。数理・データサイエンス・AI教育のリテラシーレベルとして提供され、データ・AIの活用領域を対象にする。
+inLanguage:
+- ja
+usageTerms:
+  url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning.html
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。コンソーシアムページの表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 九州大学
+publisher:
+- type: Organization
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+sourceCollection:
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+  url: https://www.mi.u-tokyo.ac.jp/consortium/
+datePublished: '2024'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- slide
+about:
+- ict
+keywords:
+- データサイエンス
+- リテラシーレベル
+- 1-3. データ・AIの活用領域
+audience:
+- student
+- teacher
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 1-3. データ・AIの活用領域
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。数理・データサイエンス・AI教育強化拠点コンソーシアムのモデルカリキュラム対応教材リストに基づく。datePublished
+    は動画は YouTube 公開年、スライドはファイル名または PDF 内部の作成年。description は gpt-5.4-mini が生成。
+  confidence: high

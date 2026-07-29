@@ -1,0 +1,55 @@
+slug: utokyo-series-w1wqwvvpjudk
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=w1wqwvVPJuDK
+type:
+- LearningResource
+- Course
+name:
+  ja: 東大生のためのワークルール入門―働くことの意味・責任・権利について考える―
+description:
+  ja: 過重労働を含む労働問題を取り上げ、ワークルールを考えるための動画教材である。東京大学を卒業・修了した人たちが若くして過労自死に至った事例を紹介し、遺族への取材と弁護士の解説を通じて労働問題を扱う。
+quotedDescription:
+  text:
+    ja: "この動画は、過重労働等の労働問題に焦点を当てた、ワークルールを考えるための教材です。 東京大学を卒業・修了後に、若くして過労自死に追い込まれてしまった方々について紹介しています。ご遺族へのインタビュー取材や弁護士による解説から、労働問題は決して他人事ではなく、皆さんご自身や身近でも起こり得るということを知っていただき、適切な防止や対処につなげていただきたいと思います。\n\
+      \ ※注意※ この動画コンテンツに…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=w1wqwvVPJuDK
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 人口・社会問題
+- 労働
+- 働き方
+- ストレス
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

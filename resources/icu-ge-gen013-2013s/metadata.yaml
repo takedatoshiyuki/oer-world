@@ -1,0 +1,70 @@
+slug: icu-ge-gen013-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen013_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: The Chemical Basis of Nature (A) Ｎ１：自然の化学的基礎（Ａ）'
+description:
+  ja: この教材は、化学の基本知識を手がかりに、自然界と人工物の両方を理解する内容を扱う。あわせて、現代化学と化学技術の発展、その過程で生じた問題、さらに化学・技術行政を考える視点を含む。公開されている動画はコースの一部で、講義資料が1件提供されている。
+quotedDescription:
+  text:
+    ja: 'This course provides a balanced approach for understating natural and artificial worlds based
+      on basic knowledge of chemistry. It is designed to enhance understanding of the development of modern
+      chemistry and chemical technology as well as problems they have generated, helping students grow
+      into citizens in a democratic society able to act on their initiative and judgment regarding chemical
+      and technical policies.
+
+      自然および人工的世界を化学的基礎から理解し、現代化学および科学技術の発展と問題点を認識する。また、民主社会における化学・技術行政に関して、知的な判断力を行使できる能力を養う。
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/gen013_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 久保謙哉
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 一般教育科目
+- 'GEN013 | Course Schedule: 3/M, 3/W, 3/F | Update: 2014.07.17'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Bx2bylQ0qI57ZLhVh1PL9ywTKICB7gxP/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen013_2013s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

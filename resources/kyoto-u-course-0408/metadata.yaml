@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0408
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/408/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第24回 知的コラボの会「教育・学習データの利活用における国内外の研究動向と課題」
+description:
+  ja: 大学教育における教育の情報化と、それに伴って蓄積される教育・学習データを扱う。講義では、教育・学習データの蓄積と分析を目的とするラーニング・アナリティクス研究の概要を示し、今後の課題を議論する。
+quotedDescription:
+  text:
+    ja: 'コース概要
+
+      近年の情報通信技術の発展により、大学教育において、e-Learning の導入など、教育の情報化が推進されており、教育・学習活動に関する膨大な量のデータが急速に蓄積されつつあります。今回はこのような教育・学習データの蓄積と分析を目的としたラーニング・アナリティクスの研究の概要を紹介し、今後の課題について議論します。'
+  source: https://ocw.kyoto-u.ac.jp/course/408/
+  note: 京都大学OCW 「コース概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 緒方 広明
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-12-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

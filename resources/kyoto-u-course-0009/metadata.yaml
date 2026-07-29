@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0009
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/9/
+type:
+- LearningResource
+- Course
+name:
+  ja: 連続体力学
+description:
+  ja: 連続体力学の基礎から、線形弾性論と流体力学の初等的な概念、さらにヘルツの接触理論や弾性波とソリトンまでを扱う講義資料である。完全流体の力学、渦の力学とその安定性にも触れており、講義で扱う範囲は初歩から発展的話題まで広がっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      連続体力学の初歩から発展的な話題まで丁寧に解説する講義ノート。おそらくこのノートだけで自己完結しており、自学用に好適。
+
+      授業の紹介
+
+      本講義では連続体力学（線形弾性論と流体力学）の初等的な話題（ストレステンソルの導入や連続方程式の導入）からヘルツの接触理論、弾性波とソリトン、完全流体の力学と渦の力学とその安定性等を丁寧に紹介している。講義は2000年から2002年迄総合人間学部の専門科目（流体力学）として行われた。'
+  source: https://ocw.kyoto-u.ac.jp/course/9/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 早川 尚男
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2000'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 連続体力学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2000/04/2000renzokutairikigaku.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/9/
+extensions:
+  faculty: 総合人間学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0875
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/875/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文研アカデミー「共同研究の可能性 −人文研80年の回顧と展望」
+description:
+  ja: 京都大学人文科学研究所が提供する講義で、水野直樹が担当する。講義名からは、共同研究の可能性と人文研80年の回顧・展望を扱う内容であることが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 水野 直樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-11-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人文科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

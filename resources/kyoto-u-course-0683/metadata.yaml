@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0683
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/683/
+type:
+- LearningResource
+- Course
+name:
+  ja: 環境形成論
+description:
+  ja: 農業を社会の中でどう位置づけるかという観点から、環境問題を考える講義である。さらに、よりよい環境形成に向けて、望ましい社会構造を哲学的に検討する。出席メールと返信メールを用いた双方向の授業形態をとる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      講義内容に関する出席メールと返信メールによる双方向の授業。受講生に、社会への関心を呼び覚まし、それに対する考える力を養う。
+
+      授業の紹介
+
+      環境問題を考えるとき、社会に農業をどう位置づけるかが重要になる。本授業では、農業という側面から環境問題を考え、よりよい環境形成のためにあるべき社会構造を哲学的に考察していく。'
+  source: https://ocw.kyoto-u.ac.jp/course/683/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 柏 久
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

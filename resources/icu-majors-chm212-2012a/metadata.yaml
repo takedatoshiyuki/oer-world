@@ -1,0 +1,94 @@
+slug: icu-majors-chm212-2012a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+type:
+- LearningResource
+- Course
+name:
+  ja: Analytical Chemistry Laboratory 分析化学実験
+description:
+  ja: 河川水の分析を題材に、分析化学の基本手法を扱う教材である。誤差解析、容量分析、比色分析に加え、化学平衡や化学反応を用いた物質の分離、定性・定量分析の基本を学ぶ内容である。
+quotedDescription:
+  text:
+    ja: 'Through the analysis of river water, the basic analytical methodologies of analytical chemistry,
+      such as error analysis, volumetric analysis and colorimetric analysis, etc are studied.
+
+      主に化学平衡、化学反応を用いて物質の分離と定性及び定量分析法の基本を学ぶ。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      4
+
+      Videos'
+  source: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 堀内晶子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Chemistry 化学 | Course ID: CHM2'
+- 'CHM212 | Course Schedule: 4/W,5/W,6/W,7/W | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1IArvc6y9GFYdN09nl0UZgTZJ6iRNSlRY/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1xWdaGSS6RiyTZ87GckzQgc5aqeF0ItcL/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1cfyh4mglhz0hnqVPxLCY1VVxa7YG9rOT/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1snCjNGwfRyCWYYDNewPNtjnpupYSLAeY/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/13KffQCQBzLpKGnRJe_hTIJ82dL9CIZwq/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Y9d_DNXo7nCQrUs2aIdl94C2ty155ZSG/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1LI420JA0MTTm_JjYclhX9NSL47TnGB1W/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1cX5bP6ElTAZWmvck1rcCf5dKhuiIg8vO/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/chm212_2012a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

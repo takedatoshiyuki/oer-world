@@ -1,0 +1,118 @@
+slug: hokudai-radiation-protection
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/radiation-protection
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「放射線防護学」
+description:
+  ja: 放射線や放射性物質の基本的な性質を出発点に、被ばくによる人体影響と放射線防護の基礎を扱う。さらに、測定や線量評価、安全管理、原子力防災までを含み、放射線施設の管理や関連する実務的な論点にも踏み込む。
+quotedDescription:
+  text:
+    ja: '放射線防護学
+
+      ■講義の概要
+
+      放射線や放射性物質はさまざまな分野で広く、便利に利用されている一方で、被ばくによる人体影響のリスクは避けることはできない。本科目では、放射線や放射性物質のもつ基本的な特徴、放射線施設の安全管理に関係の深い放射線防護の基礎を平易に解説する。
+
+      １. 放射線概論（飯本 武志・東京大学 環境安全本部 東京大学大学院 新領域創成科学研究科 環境システム学専攻）CC BY-NC
+
+       ※本講義を視聴後、以下の映像教材をご視聴ください。
+
+       （１）放射線の利用（文部科学省推薦教育教材）（33分）
+
+       http://www.radi-edu.jp/2012/06/30/1016
+
+       （２）よく解る！放射線講座（20分）
+
+       http://www.radi-edu.jp/2012/06/30/1012
+
+       放射線教育支援サイト「らでぃ」
+
+       http://www.radi-edu.jp/
+
+      ２. 放射線の物理（三輪 一爾・公益社団法人 日本アイソトープ協会 学術振興部 学術課）CC BY-NC
+
+      ３. 放射線の影響 生体影響のメカニズムと分類（横山 須美・長崎大学 原爆後障害医療研究所 放射線生物・防護学分野）CC BY-NC
+
+      ４. 放射線の測定（山西 弘城・近畿大学理工学部 大学院 総合理工学研究科／近畿大学原子力研究所）制限資料
+
+      ５. 被ばく線量評価 ー環境と個人の線量評価の手法とその特徴ー（佐々木 道也・電力中央研究所 サステナブルシステム研究本部 生物・環境化学研究部門）CC BY-NC
+
+      ６. 放射線防護体系（飯本 武志・東京大学 環境安全本部 東京大学大学院 新領域創成科学研究科 環境システム学専攻）CC BY-NC
+
+      ７. 知見の応用① 原子力・放射線関連施設の安全管理の実際（橋本 周・日本原子力研究開発機構 大洗研究所 放射線管理部）CC BY-NC
+
+      ８. 知見の応用② 放射性物質の気圏環境動態と原子力防災 放射性物質の大気拡散解析（永井 晴康・国立研究開発法人 日本原子力研究開発機構）CC BY-NC
+
+      ８. 知見の応用② 原子力防災の概要（嶋田 和真・日本原子力研究開発機構 緊急時支援研修センター・安全研究センター）'
+  source: https://ocw.hokudai.ac.jp/lecture/radiation-protection
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 飯本 武志
+  affiliation:
+    name: 東京大学 環境安全本部 東京大学大学院 新領域創成科学研究科 環境システム学専攻
+- type: Person
+  name: 三輪 一爾
+  affiliation:
+    name: 公益社団法人 日本アイソトープ協会 学術振興部 学術課
+- type: Person
+  name: 横山 須美
+  affiliation:
+    name: 長崎大学 原爆後障害医療研究所 放射線生物・防護学分野
+- type: Person
+  name: 山西 弘城
+  affiliation:
+    name: 近畿大学理工学部・大学院 総合理工学研究科／近畿大学原子力研究所
+- type: Person
+  name: 佐々木 道也
+  affiliation:
+    name: 電力中央研究所 サステナブルシステム研究本部 生物・環境化学研究部門
+- type: Person
+  name: 橋本 周
+  affiliation:
+    name: 日本原子力研究開発機構 大洗研究所 放射線管理部
+- type: Person
+  name: 永井 晴康
+  affiliation:
+    name: 国立研究開発法人 日本原子力研究開発機構
+- type: Person
+  name: 嶋田 和真
+  affiliation:
+    name: 日本原子力研究開発機構 緊急時支援研修センター・安全研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 放射線防護
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

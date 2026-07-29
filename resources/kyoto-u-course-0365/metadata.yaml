@@ -1,0 +1,100 @@
+slug: kyoto-u-course-0365
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/365/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農業経営の未来戦略
+description:
+  ja: 本講義は、農業経営をめぐる環境変化を背景に、個別農業経営体のあり方を多面的に扱う。農外企業の参入、集落営農、六次産業化、農商工連携、流通や金融、輸出といった論点を通じて、地域産業ネットワークの中での経営と地域への影響を検討する。
+quotedDescription:
+  text:
+    ja: '今日、農外企業の農業参入や集落営農の展開が進んでいる。その結果、多様な農業経営体が地域に並存し、地域農業・社会に対し新たな影響を及ぼしている。また、農業者が農産物生産だけでなく、農産物加工やその他関連事業に取り組む六次産業化や農商工連携の事例も広範に出現してきている。このような状況下で、様々な有り様を示す個別農業経営体の発展及び地域社会の活性化に有効な諸方策の具体的提示やモデル造りの必要性が個々の現場において求められてきている。
+
+      本講義は、農業経営に関わる人材の育成を重視しつつ、地域産業クラスター等の地域・産業ネットワークをベースとした個別農業経営体のあり様（財務・投資戦略を含む）を多面的な角度から検討することを目的とする。'
+  source: https://ocw.kyoto-u.ac.jp/course/365/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小田　滋晃
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 長命　洋佑
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川﨑　訓昭
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 10月15日  農業経営の未来戦略～個別経営の限界～'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_01-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 10月15日 農業経営の未来戦略～個別経営の限界～（板書）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_01-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 10月28日 産業としての位置づけ 農産物流通の変化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 11月11日 日本の外食産業と農業の現状'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 12月2日 六次産業化の進展と展開'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 12月9日 協同組合金融と農林中央金庫'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 12月16日 新規参入者論を中心に'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 12月24日 コミュニティ・ビジネス論の展開と実践'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 1月15日 1. 近畿の六次産業化の取り組みについて'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_08-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 1月15日 2. 農産物の輸出戦略について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_08-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+- name: '講義資料: 1月20日 野菜を巡る情勢について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2013_nougyoukeieinomiraisenryaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/365/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

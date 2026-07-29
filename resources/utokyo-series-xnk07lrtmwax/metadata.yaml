@@ -1,0 +1,93 @@
+slug: utokyo-series-xnk07lrtmwax
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=xNk07LRTMWAx
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「人間は進歩しているか？」
+description:
+  ja: 科学技術の進歩を法で制御できるのかを起点に、法と科学技術の関係を考える講義である。あわせて、科学・技術・人文・社会科学における「進歩」と「進化」の違いも扱う。
+quotedDescription:
+  text:
+    ja: 科学技術の進歩を制禦する方策としてまず思い付くものは法規整でしょう。でも、法にそれはどこまで可能なのでしょうか？ 法律家が科学技術を誤解しているかもしれませんし、科学技術者が法を誤解しているかもしれません。いずれの場合も制禦はうまく行かないでしょう。そもそも科学・技術・人文・社会科学などの学問ないし知的営為における進歩とは何なのでしょうか？
+      進化とはどう異なるのでしょうか？それらと、真善美そして人…
+  source: https://ch.u-tokyo.ac.jp/series/?id=xNk07LRTMWAx
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 太田 勝造
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 淳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古田 一雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 徳永 勝士
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 近藤 修
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 遠藤 利彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 梅崎 昌裕
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柴田 徳太郎
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+- engineering
+- natural_sciences_math
+keywords:
+- 政治・法律
+- ロボット・技術
+- 災害・防災
+- 環境
+- AI・情報
+- 生命・医療
+- 心理・認知
+- 教育
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

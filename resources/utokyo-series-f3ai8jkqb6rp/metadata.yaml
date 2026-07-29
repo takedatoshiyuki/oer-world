@@ -1,0 +1,78 @@
+slug: utokyo-series-f3ai8jkqb6rp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=F3aI8jKQB6RP
+type:
+- LearningResource
+- Course
+name:
+  ja: Hernan Santa Cruz Dialogue [EN]
+description:
+  ja: 国連人権高等弁務官事務所の対話シリーズに連なるウェビナーで、人権を促進する経済の重要性をめぐって議論する。環境の持続可能性、ジェンダー平等、企業の説明責任、地方の主体といった論点を扱い、10月回ではミャンマーにおける企業の人権尊重を日本の経験から考える。
+quotedDescription:
+  text:
+    ja: '国連人権高等弁務官事務所（OHCHR）のThe Hernan Santa Cruz Dialogues シリーズでは、学者、経済学者、政治家、市民社会のメンバーが集まり、環境の持続可能性、ジェンダー平等、企業の説明責任、地方の主体などのテーマに触れながら、人権を促進する経済の重要性について対話します。
+
+      10月の本ウェビナーのテーマは「ミャンマーにおけるビジネスの人権尊重の促進：日本からの教訓」です。ミャンマーにおけるビジネスの人権尊重…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=F3aI8jKQB6RP
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Todd Howland
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Sam Baron
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Surya Deva
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Htwe Htwe Thein
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Karina Ufert
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Romain Caillaud
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Ai Kihara-Hunt
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

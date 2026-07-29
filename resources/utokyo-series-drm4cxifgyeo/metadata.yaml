@@ -1,0 +1,54 @@
+slug: utokyo-series-drm4cxifgyeo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=DRM4CXIFgYEo
+type:
+- LearningResource
+- Course
+name:
+  ja: 新図書館トークイベント 第1回 立花隆と語る東大図書館
+description:
+  ja: 東京大学附属図書館の新図書館計画に関連して開かれたトークイベントで、立花隆が講演する。会場となる洋雑誌閲覧室は、かつて記念室または貴賓室と呼ばれていた場所であり、東大と図書館の歴史に関わる場として扱われる。
+quotedDescription:
+  text:
+    ja: "附属図書館では、現在進行中の新図書館計画に関連するトークイベントとして、立花隆氏の講演会を開催しました。  \n  新刊「立花隆の書棚」で巨大な知的関心の広がりをあらためて世に示した立花隆氏。氏は著作「天皇と東大」等で東大の歴史を見つめてきました。会場となる洋雑誌閲覧室はかつて記念室（または貴賓室）と呼ばれており、東大の歴史と図書館の歴史が交差する場でもあります。そのような歴史の地点から計画中の東大新図…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=DRM4CXIFgYEo
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 立花 隆
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石田 英敬
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

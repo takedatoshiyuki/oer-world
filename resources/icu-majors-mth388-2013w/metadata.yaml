@@ -1,0 +1,128 @@
+slug: icu-majors-mth388-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: Topics in Mathematics II 数学特論 II
+description:
+  ja: 現代数学に関する高度の知識を扱う講義で、解析・代数・幾何などの分野から担当教員が選んだ題目を学ぶ。国際基督教大学で2013年に開講され、鈴木寛名誉教授が担当し、日本語で行われる。
+quotedDescription:
+  text:
+    ja: 'Aims to provide advanced knowledge of modern mathematics. The topics are selected by the instructor
+      among various fields of analysis, algebra, geometry, etc. Two periods of lecture weekly.
+
+      数学特論 I, II, III, IV：現代数学に関する高度の知識を学ぶ。講義の題目は解析，代数，幾何などの分野のうちから，そのつど担当教員によって選ばれる。毎週講義2時限。
+
+      Contents of Lectures
+
+      11Lectures / 11 Videos'
+  source: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 鈴木寛
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 名誉教授
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Mathematics 数学 | Course ID: MT'
+- 'MTH388 | Course Schedule: 3/M, 3/W | Update: 2014.03.05'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1y0rW5NssRgs1KZvyyuSj28O6zezlA3HH/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1vBdmCM8SNyJMVqHRL8qMKO0y3a-YMTg3/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1-TD_rslvHZAvNXsCNLhDu1amY-VXtJbS/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1mOoNiPYKpJO9jeqPRk11_wMaOK0k_Pme/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1TC_keTVWY2lQN7Zk_PGTt5nM53WIYh7o/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1eOgaBc8aTR3_mSa5ow-kDmPYIObXL862/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1W2S9o_0XUD8N8zVFC9RnbVh7RwYPrm6_/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/19ai9fiPu4LnejoDJAD0GtkHZR8jcEvt3/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/19uLXM7W13VzQk4ag2QUF8WSlYR6HuxL6/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ea1Qet0J7uGfv4sLYz7TIIkMhvBqjKog/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1SWwVF6o8L3YfopMfav_drouJyyuhCqh_/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Jh3fp3LkHMGjSA_x1-4uoZsCvUUvHhus/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/11iNry2Ey0FsyL7JiqVBVy5NdEOpIWNtw/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/15TZcaEMf9qZ98r7fkx4UJopBgOikpzN4/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1X3HzYZBosHMU80HMoXUWqOzP-xiJBe54/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1gIYUefAJ5kuhofzNIEw-QehyIuLU3N1l/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1eVz-60TNii8y9no6v689FeeEc7ixRIoO/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1WWAfHragrQ6CjY7rmFG5E4zwW6KaQ6os/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1uocETZeeGq9f0fKorfYnPzRsGsucbx5K/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10GKU4Avd1obImvi49tPOI04qME6GC8oM/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth388_2013w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

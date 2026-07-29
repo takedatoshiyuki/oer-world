@@ -1,0 +1,58 @@
+slug: hokudai-backend-international-seminar
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/backend-international-seminar
+type:
+- LearningResource
+- Course
+name:
+  ja: '原子力人材育成事業（*） # 国際セミナー'
+description:
+  ja: 表層土壌中のフォールアウト由来放射性核種の移行と、樹木の木部への137Cs取り込みの推定を扱う国際セミナーである。福島、長崎、Nancyを比較する観点が講義名に含まれている。
+quotedDescription:
+  text:
+    ja: '# 国際セミナー
+
+      講義：Fallout radionuclide migration in the surface soil and estimation of uptake of 137Cs in the xylem
+      of tree:  Comparison of Fukushima with Nagasaki and Nancy（馬原保典先生 ※旧所属 京都大学）'
+  source: https://ocw.hokudai.ac.jp/lecture/backend-international-seminar
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 馬原保典先生
+  affiliation:
+    name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 工学／情報
+audience:
+- student
+extensions:
+  faculty: 大学院横断型プログラム
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

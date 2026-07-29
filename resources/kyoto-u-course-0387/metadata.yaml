@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0387
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/387/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「諸君！」
+description:
+  ja: 京都大学のエネルギー理工学研究所で、牧野圭祐が担当した講義である。講義名は「最終講義『諸君！』」で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 牧野 圭祐
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-03-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: エネルギー理工学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

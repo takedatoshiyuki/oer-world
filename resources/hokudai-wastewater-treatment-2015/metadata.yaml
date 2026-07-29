@@ -1,0 +1,72 @@
+slug: hokudai-wastewater-treatment-2015
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/wastewater-treatment-2015
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 次世代の下水道における衛生的課題とその対応（2015）
+description:
+  ja: 次世代の下水道で生じる衛生的課題を扱い、その対応として下水簡易処理法の開発を取り上げる。あわせて、下水再生利用に関わる処理装置の性能評価と運転管理手法の提案を扱う。
+quotedDescription:
+  text:
+    ja: '平成27年度 土木学会環境工学委員会主催セミナー
+
+      「次世代の下水道における衛生的課題とその対応」より
+
+      平成27年8月10日（月）
+
+      北海道大学工学部　フロンティア応用科学研究棟　鈴木章ホール
+
+      ◆「微生物リスク低減をめざした下水簡易処理法の開発」
+
+      片山 浩之 准教授（東京大学 大学院工学研究科）
+
+      ◆「下水再生利用に関わる下水処理装置の性能評価及び運転管理手法の提案」
+
+      佐野 大輔 准教授（北海道大学 大学院工学研究院）'
+  source: https://ocw.hokudai.ac.jp/lecture/wastewater-treatment-2015
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 片山 浩之
+  affiliation:
+    name: 東京大学 大学院工学研究科
+- type: Person
+  name: 佐野 大輔
+  affiliation:
+    name: 北海道大学 大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院でさがす
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

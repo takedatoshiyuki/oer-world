@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0742
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/742/
+type:
+- LearningResource
+- Course
+name:
+  ja: 哲学講義
+description:
+  ja: 本講義は、「本質」概念を軸に、古代から現代までの哲学的議論をたどる。人種問題やアイデンティティ、自然科学に関わる概念との関連を手がかりに、アリストテレス、ロック、現代の言語哲学などを参照しながら検討する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本講義では、古代から現代にいたる哲学的理論を概観するだけでなく、社会や科学における現実的な問題と哲学との関わりに注目しながら、現在を生きる哲学の「仕事」とその「意義」を解説する。
+
+      授業の紹介
+
+      本講義のテーマは「本質」概念の検討である。「本質」は、人種問題やアイデンティティといった社会的問題や、物理学、化学、生物学など自然科学における諸概念の重要な背景になっている。本講義では、この事実を踏まえつつ、アリストテレス、トマス・アクィナス、シェリング、サルトル、ロック、現代の言語哲学などを手掛かりに、「本質」概念の特徴およびその問題点を解説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/742/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 出口 康夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 文学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　哲学の問題と存在理由：人種問題を事例に'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第2回　アリストテレスの「本質」（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第3回　アリストテレスの「本質」（２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第4回　アリストテレス本質論の批判的検討'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第5回　「実存」と「本質」（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第6回　「実存」と「本質」（２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第7回　「実存」と「本質」（３）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第8回　ロックとアリストテレスの「本質」（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第9回　ロックとアリストテレスの「本質」（２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第10回　ロック意味論の検討'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第11回　アーキタイプ論の再構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第12回　指示の理論と「意味としての本質」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+- name: '講義資料: 第13回　一元論的還元主義vs多元論的自然観'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukougi_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/742/
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,49 @@
+slug: kyoto-u-course-0420
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/420/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「科学哲学から見た言語理論の批判的検討 －言語科学の未来に向けて－」
+description:
+  ja: 科学哲学の観点から言語理論を批判的に検討し、言語科学の未来をテーマにした最終講義の講義ノートを収録する。京都大学人間・環境学研究科で2013年3月29日に開講された講義に対応し、日本語で公開されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山梨 正明
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 最終講義
+audience:
+- general_public
+materials:
+- name: '講義資料: 講義ノート「科学哲学から見た言語理論の批判的検討 －言語科学の未来に向けて－」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/03/yamanasi-handout.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/420/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

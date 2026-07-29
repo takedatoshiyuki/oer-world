@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0189
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/189/
+type:
+- LearningResource
+- Course
+name:
+  ja: CiRA一般の方対象シンポジウム 2009年「iPS細胞研究のいま　その可能性と研究活動」
+description:
+  ja: 京都大学iPS細胞研究所が2009年に開いた一般向けシンポジウムで、iPS細胞研究の現状とその可能性、研究活動を扱う。山中伸弥、中畑龍俊、戸口田淳也が担当する。
+quotedDescription:
+  text:
+    ja: '山中 伸弥 教授 （iPS細胞研究所所長)
+
+      中畑 龍俊 教授 （iPS細胞研究所副所長）
+
+      戸口田 淳也 教授 （iPS細胞研究所副所長）'
+  source: https://ocw.kyoto-u.ac.jp/course/189/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山中 伸弥
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中畑 龍俊
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 戸口田 淳也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iPS細胞研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

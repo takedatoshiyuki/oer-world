@@ -1,0 +1,82 @@
+slug: kyoto-u-course-0908
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/908/
+type:
+- LearningResource
+- Course
+name:
+  ja: E.FORUM 教育研究開発フォーラム 制野俊弘先生 講演会「命と向き合う教室」, 2016
+description:
+  ja: この教材は、講演会「命と向き合う教室」に関連する資料群で、講演会スライドのほか、補足資料、生徒の作文、先生から生徒への手紙、学級通信を含む。東日本大震災から4年後の中学生との関わりや、綴方を通して心をときほぐす指導に触れている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      命と向き合う教室 ～子どもが「命」に見える学校・学級づくり～
+
+      東日本大震災から 4 年、親しい人を失った悲しみを抱えつつも、誰にも打ち明けられずにいる中学生たちに綴方を通して関わり、その心をときほぐす指導をされてきた制野俊弘先生をお迎えして、講演会を行いました。'
+  source: https://ocw.kyoto-u.ac.jp/course/908/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 制野 俊弘
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-02-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 講演会スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/02/2016_E.FORUM_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/908/
+- name: '講義資料: 補足資料・狼煙'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/02/2016_E.FORUM_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/908/
+- name: '講義資料: まなきの作文（生徒の作文）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/02/2016_E.FORUM_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/908/
+- name: '講義資料: まなきへ（先生から生徒への手紙）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/02/2016_E.FORUM_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/908/
+- name: '講義資料: 公成の体験から（生徒の作文）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/02/2016_E.FORUM_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/908/
+- name: '講義資料: 佑の体験から（生徒の作文）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/02/2016_E.FORUM_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/908/
+- name: '講義資料: 学級通信「頓珍漢」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/02/2016_E.FORUM_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/908/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

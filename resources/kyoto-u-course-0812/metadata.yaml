@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0812
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/812/
+type:
+- LearningResource
+- Course
+name:
+  ja: Art, Culture and Technology（英語講義）, 2012
+description:
+  ja: この講義は、芸術と技術の関係から出発し、文化と技術の関係へと話を進めながら、両者の統合によって生まれる新しいコミュニケーションのあり方を扱う。1970年代以降の芸術と技術の流れに触れつつ、21世紀のインターネット時代における文化の理解や異文化間の交流を、計算機技術やインタラクション技術との関わりから考える。最後に、文化の構造を扱うCultural
+    Computingという考え方にも踏み込む。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      We will discuss several serious issues, starting from the topic of art and technology, proceeding
+      to the topic of culture and technology, and finally reaching to the topic of the new world based
+      on the integration of these different concepts where both creators and viewers can reach deep mutual
+      understandings. When we talk about art that achieves this mutual understanding, we have to admit
+      that cultural issues would play a major role there. We can call the 1970’s and the immediately following
+      decades as the era where the relation between art and technology was the main topic. Now, in the
+      early era of the twenty-first century, we should consider the relationship between culture and technology,
+      in other words, culture in the Internet era.
+
+      Each specific culture is strongly related to its region and race. Therefore, it is necessary to
+      actually live there to really understand the culture specific to each place. At the same time, humans
+      have been trying to realize virtual experiences of such ways of living by utilizing strong computing
+      technology and by introducing sophisticated interaction technologies. Based on this, it would become
+      possible for technology to clarify what culture is and, on the other hand, cultures could push technology
+      forward. As a result, we are now approaching the stage where technologies could extract structures
+      that hide behind each culture and try to realize communications among different cultures.
+
+      In the twenty-first century, in the area of computer technology, the basic trend involves us moving
+      from the era of calculation, database processing, information processing, etc., to the era of addressing
+      culture, expressing culture, handling types and structures behind several cultures, and, as a result,
+      letting people understand different cultures at a spiritual level. In other words, I can say that
+      we are getting into the era of Cultural Computing.'
+  source: https://ocw.kyoto-u.ac.jp/course/812/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Naoko Tosa
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

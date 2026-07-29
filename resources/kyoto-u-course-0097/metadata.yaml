@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0097
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/97/
+type:
+- LearningResource
+- Course
+name:
+  ja: 臓器移植
+description:
+  ja: 臓器移植の基礎知識に加え、京都大学での臨床経験から得られたデータを扱う講義である。公開教材では、肝移植の適応や臓器提供者の選択、免疫抑制療法、感染症、合併症、各種疾患に対する肝移植までを取り上げる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      臓器移植は、手術手技・免疫抑制剤の発達とともに1980年代から実験的医療から一般医療へと変貌した。京都大学においても１９９０年より生体肝移植が始まり、2004年には1000例をこえ、世界で最多数の実績を達成した。また生体小腸移植や生体膵島移植も手がけている。この歩みの中で得た見識を我々は広く公開してきた。そのため国内はもとより欧米を含む世界中から研修生が訪れ、帰国後それぞれの地で生体肝移植を芽吹かせている。
+
+      授業の紹介
+
+      臓器移植に関する基礎的な知識、京都大学における実際の臨床経験から抽出されたデーター、移植医療の最先端について紹介する。'
+  source: https://ocw.kyoto-u.ac.jp/course/97/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 江川 裕人
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 平良 薫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 医学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　肝移植の適応'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第2回　臓器提供者選択'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第3回　生体肝移植の手術手技'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第4回　免疫抑制療法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第5回　移植と感染症'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第6回　胆管合併症'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第7回　血液型不適合移植'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第8回　肝癌に対する肝移植'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第9回　ウイルス肝硬変に対する肝移植'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第10回　劇症肝炎に対する肝移植'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第11回　外科と精神科の関わり'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第12回　バイアスを見破る'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第13回　臓器移植と倫理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+- name: '講義資料: 第14回　肝移植修練カリキュラム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_zoukiishoku_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/97/
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

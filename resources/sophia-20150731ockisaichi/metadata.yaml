@@ -1,0 +1,46 @@
+slug: sophia-20150731ockisaichi
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20150731ockisaichi/
+type:
+- LearningResource
+- Course
+name:
+  ja: イスラム国の出現と拡大 いま、イスラム世界で何が起こっているのか？
+description:
+  ja: 2015年度に上智大学の総合グローバル学部 総合グローバル学科で開講された講義で、私市正年が担当する。講義名から、イスラム国の出現と拡大を手がかりに、イスラム世界で起こっていることを扱う内容である。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 私市 正年
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 総合グローバル学部 総合グローバル学科
+  term: 2015年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

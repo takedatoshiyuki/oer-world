@@ -1,0 +1,101 @@
+slug: kyoto-u-course-0545
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/545/
+type:
+- LearningResource
+- Course
+name:
+  ja: 化学統計論1
+description:
+  ja: 凝縮系における化学反応を、統計力学と量子力学の観点から扱う講義資料である。第1回から第12回まで、液体論、分子動力学、反応速度論、時間依存量子力学、量子リウヴィル方程式、マスター方程式などを順に扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      主として凝縮系における化学反応の量子統計力学的な取り扱いについて解説する。学部レベルの基礎事項と最新の原著論文との間のギャップを埋める内容を提供する。
+
+      授業の紹介
+
+      身近な化学反応の多くは液相、固相、生体環境などの凝縮相で起こる。分子集合体の振舞いを記述するには、統計力学的な取り扱いが不可欠となる。気相中の単分子反応であっても、複雑な構造を持つ多原子分子であれば、統計性が重要となる。本講義では、化学反応の古典および量子統計力学的な取り扱いの基礎を概説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/545/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 安藤耕司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回 統計力学の基礎、モンテカルロ法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第2回 液体論の基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第3回 分子動力学における温度と圧力'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第4回 微視的な反応速度論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第5回 凝縮系における動力学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第6回 遷移状態理論への補正'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第7回 時間依存の量子力学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第8回 フェルミの黄金則、時間相関関数形式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第9回 スペクトル形状、運動による尖鋭化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第10回 量子リウヴィル方程式、縮約密度演算子'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第11回 マスター方程式、ウィグナー分布関数'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第12回 ポテンシャルエネルギー面、非断熱遷移'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+- name: '講義資料: 第13回 経路積分法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_kagakutoukeiron1_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/545/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

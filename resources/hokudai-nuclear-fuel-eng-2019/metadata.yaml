@@ -1,0 +1,70 @@
+slug: hokudai-nuclear-fuel-eng-2019
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-fuel-eng-2019
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） オープン教材の活用による原子力教育の受講機会拡大と質的向上「核燃料工学」
+description:
+  ja: 核燃料工学を主題に、軽水炉燃料のふるまいから照射挙動、ペレットや被覆管の挙動、相互作用と破損までを段階的に扱う。後半ではシビア・アクシデントとTMI事故を取り上げ、最後に照射試験と照射後試験を扱う。
+quotedDescription:
+  text:
+    ja: '講義１：核燃料工学 第1回 ～軽水炉燃料のふるまい～
+
+      講義２：核燃料工学 第2回 核燃料の照射挙動 ～あらまし～
+
+      講義３：核燃料工学 第3回 核燃料の照射挙動2 ～ぺレット～
+
+      講義４：核燃料工学 第4回 核燃料の照射挙動3 ～被覆管～
+
+      講義５：核燃料工学 第5回 核燃料の照射挙動4 ～相互作用と破損～
+
+      講義６：核燃料工学 第6回 核燃料の照射挙動5 ～シビア・アクシデント TMI事故を中心に～
+
+      講義７：核燃料工学 第7回 照射試験と照射後試験'
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-fuel-eng-2019
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 宇埜正美
+  affiliation:
+    name: 福井大学附属国際原子力工学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院共通授業科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

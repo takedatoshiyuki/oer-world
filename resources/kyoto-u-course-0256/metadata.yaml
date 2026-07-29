@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0256
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/256/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第113回 京都大学丸の内セミナー「人類に脅威にも福音にもなるアルファ放射体（アクチノイド系列元素）」
+description:
+  ja: アルファ放射体（アクチノイド系列元素）をめぐり、放射性廃棄物の長期毒性とがん治療への応用を同じ視点で扱う講義である。伝播性がん治療薬、Ac-225 を用いる DDS、マイナーアクチノイドの短寿命化研究、さらに事故デブリを含む研究上の課題までを紹介する。
+quotedDescription:
+  text:
+    ja: '放射性廃棄物の長期毒性と伝播性がん治療薬は相反するように見えますが、 アルファ放射体が発生するアルファ粒子の確実な細胞致死性という点で 一致します。
+
+      　このアルファ放射体の学術体系構築が急務となっています。 ここ2-3年、伝播性ガン治療薬用の放射性医薬品分子が末期ガン患者の 治療に成功する成果を上げています。
+
+      　原子炉からの放射性廃棄物から集められたウラン（U-233）の孫の核種である アルファ放射体のアクチニウム（Ac-225）はドラッグデリバリーシステム （DDS）に装荷して投与すると、伝播性がんに最高の治療効果をもたらすと
+      されます。
+
+      　他方、核燃物質の極微少量研究手法の提供も必要とされています。 放射性廃棄物中の超長寿命（100万年程度）のアルファ放射体（マイナー アクチノイド）を破壊し人類が管理可能に短縮（200年程度）する研究が
+      求められていますが、規制厳格化のため極微少量の研究手段が必要です。
+
+      　福島第一原子力発電所の事故デブリを含め、研究や人材供給における 先端的関わりが求められます。
+
+      講演では、このようなアルファ放射体（アクチノイド系列元素）の研究に ついてご紹介したいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/256/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山村 朝雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-12-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- health_welfare
+keywords:
+- エネルギー・地球科学
+- 化学
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 複合原子力科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,68 @@
+slug: hokudai-cosmosciencei-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/cosmosciencei-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 宇宙理学特別講義1 不安定核への平均場アプローチ（2008）
+description:
+  ja: 自己無撞着平均場理論を軸に、広い質量領域の原子核構造を扱う講義である。不安定原子核で見られる核変形、集団励起、対相関現象について、基礎的な知識とそれを記述する理論的方法を学ぶ。
+quotedDescription:
+  text:
+    ja: 広範な質量領域での原子核の構造を包括的記述する理論的枠組みとして有望視されている自己無撞着平均場理論の骨格を習得することは目的である。特に、近年の原子核物理での中心的課題となっている不安定原子核において現れる特徴的な核変形、集団励起や対相関現象の基本的知識とこれらを記述するための理論的方法を習得することを目的とする。
+  source: https://ocw.hokudai.ac.jp/lecture/cosmosciencei-2008
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松尾 正之
+  affiliation:
+    name: 新潟大学 理学部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 原子核構造
+- 不安定核
+- 密度汎関数理論
+- 対相関
+- 集団励起
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: プリント'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/CosmoscienceI-2008-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/cosmosciencei-2008
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/CosmoscienceI-2008-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/cosmosciencei-2008
+extensions:
+  faculty: 大学院でさがす
+  targetAudience: 大学院生 理学研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

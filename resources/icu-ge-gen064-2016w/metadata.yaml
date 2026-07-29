@@ -1,0 +1,121 @@
+slug: icu-ge-gen064-2016w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen064_2016w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N2: Foundation of Global Informatics Ｎ２：グローバル情報学基礎'
+description:
+  ja: 情報リテラシー、情報セキュリティ対策、情報倫理の基礎を扱い、図書館資料とWeb情報を使った情報検索の基礎を学ぶ。さらに、人文・社会・自然科学のデータを統計的に扱うための基礎的な技能を取り上げ、実習も含む。
+quotedDescription:
+  text:
+    ja: 'Students aim to acquire minimum body of knowledge and skills for information literacy, information
+      security measure, and information ethics. They are required to learn basic skills to retrieve global
+      information from combined library and Web resources and to handle data for humanity,social and natural
+      sciences in a statistically proper way.
+
+      情報リテラシ、情報セキュリティ対策、情報倫理の最低限の知識とスキルの獲得を目指す。図書館資料とWeb情報からグローバルな情報および人文・社会・自然科学のデータを統計的に正しく取り扱う基礎的な技能を習得する。実習を含む。
+
+      Contents of Lectures
+
+      1
+
+      9
+
+      Lectures /
+
+      3
+
+      Videos
+
+      Dec 05
+
+      Dec 0
+
+      8
+
+      Dec 12
+
+      Dec 15
+
+      Dec 1
+
+      9
+
+      Dec 22
+
+      Jan 12
+
+      Jan 16
+
+      Jan 19
+
+      Lecture Note
+
+      Jan 23
+
+      Jan 26
+
+      Jan 30
+
+      Feb 02
+
+      Feb 06
+
+      Feb 09
+
+      Feb 13
+
+      Feb 16
+
+      Feb 20
+
+      Feb 23'
+  source: https://ocw.info.icu.ac.jp/ge/gen064_2016w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 尾崎 敬二
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+keywords:
+- 一般教育科目
+- 'GEN064 | Course Schedule: 4*/M, 4*/TH | Update: 2019.01.30'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/15a6rWSDg6Jqca2Jg3Ho0OITK0zOn7hw_/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen064_2016w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

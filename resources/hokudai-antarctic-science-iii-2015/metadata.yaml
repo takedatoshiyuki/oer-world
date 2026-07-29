@@ -1,0 +1,96 @@
+slug: hokudai-antarctic-science-iii-2015
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/antarctic-science-iii-2015
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 南極学特別実習III（野外行動技術実習）（2015）
+description:
+  ja: 極域環境で野外観測活動を安全に行うための行動技術を扱う教材で、氷河、海氷、山岳地域での活動を対象にする。寒冷地の装備や雪崩・クレバスの危険、高山病、低体温症、緊急時の対処法まで取り上げ、室内講義と実習に札幌手稲山での宿泊実習を組み合わせる。
+quotedDescription:
+  text:
+    ja: '極地における野外観測は非常に重要ですが、厳しい環境下での活動は困難で、時として危険も伴います。この実習では、氷河、海氷、山岳地域など、極域環境において野外観測活動を安全に実施するための行動技術の習得と学びます。ヒマラヤや南極での経験豊富な野外活動のスペシャリスト、樋口和生氏（国立極地研究所）を講師に迎えて、寒冷地に必要な装備、雪崩やクレバスの危険、高山病や低体温症、緊急時の対処法など、実践的な知識と技術を習得することができます。野外観測の経験豊富な北大の講師陣も加わり、室内での講義と実習に札幌手稲山での宿泊実習を交えた、全国でもユニークなプログラムです
+
+      実習の詳細については、下記のページをご覧下さい。
+
+      2007年度　野外行動技術実習
+
+      2009年度　野外行動技術実習
+
+      2010年度　野外行動技術実習
+
+      2011年度　野外行動技術実習
+
+      2013年度　野外行動技術実習
+
+      2014年度　野外行動技術実習
+
+      2015年度　野外行動技術実習
+
+      北海道大学環境科学院　国際南極大学カリキュラム
+
+      * 環境科学院HP
+
+      * 低温科学研究所HP'
+  source: https://ocw.hokudai.ac.jp/lecture/antarctic-science-iii-2015
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 杉山　慎
+  affiliation:
+    name: 低温科学研究所
+- type: Person
+  name: 樋口和生
+  affiliation:
+    name: 国立極地研究所
+- type: Person
+  name: 白岩　孝行
+  affiliation:
+    name: 環オホーツク観測研究センター
+- type: Person
+  name: 中村一樹
+  affiliation:
+    name: 防災科学技術研究所
+- type: Person
+  name: 的場　澄人
+  affiliation:
+    name: 環オホーツク観測研究センター
+- type: Person
+  name: 下山　宏
+  affiliation:
+    name: 低温科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 低温科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

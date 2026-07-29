@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0511
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/511/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成25年度 京都大学図書館機構講演会「大学のグローバル化における図書館の役割－留学生サービスから考える」, 2013
+description:
+  ja: 大学のグローバル化に伴う変化と課題を踏まえ、図書館が果たす役割を考える講演会である。とくに留学生への支援サービスに焦点を当て、本学の取り組みや他大学の事例、留学生の声を通して今後のサービスのあり方を検討する。
+quotedDescription:
+  text:
+    ja: '社会ではあらゆる分野でグローバル化が進み、大学もまたその目標や教育研究方針、学生の多様性等を踏まえた効果的な取り組みを進めることが求められています。
+
+      今回の講演会では、大学のグローバル化をめぐる昨今の変化と現状の課題を概観し、その中でも特に留学生に対する支援サービスについて考えます。
+
+      留学生、外国人研究者の受入は今後増加が予想されますが、本学図書館としての組織的な取り組みは「アクティブ・ラーニング・エリア（仮）」「学習サポートデスク」設置などまだ端緒についたばかりです。本学国際交流センターの活動、他大学図書館の先行事例、留学生の声を聞くことで、効果的なサービスの可能性を探るきっかけになることを期待しています。'
+  source: https://ocw.kyoto-u.ac.jp/course/511/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 引原 隆士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 森 眞理子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河上 志貴子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 横山 美佳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 兪 幜蘭(ユ キョンラン)
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-12-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,88 @@
+slug: utokyo-series-7w8kifavpcxr
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=7W8KiFAVpcXr
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「人口」
+description:
+  ja: 日本の人口が減少に転じた状況を背景に、少子化・高齢化・人口減少という論点を扱う公開講座である。日本で進行する人口問題を起点に、人口変動をめぐる課題を考える内容である。
+quotedDescription:
+  text:
+    ja: 昨年末に戦後はじめて日本の人口が減少に転じたという推計が公表されました。日本における人口問題は、生存資源に対する人口の過剰という古典的問題から遠く離れて、「少子化」「高齢化」「人口減少」の問題へと劇的に転換しましたが、これは遠からず世界の他の国々も経験するであろう普遍的事態に他なりません。日本はその先端を走っているわけです。この人口問題３点セットのなかでは、「少子化」が原因で、「高齢化」「人口減…
+  source: https://ch.u-tokyo.ac.jp/series/?id=7W8KiFAVpcXr
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 稲葉 寿
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岸野 洋久
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 土方 苑子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 嶋田 正和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 荒井 良雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大西 隆
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石見 徹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 難波 成任
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+- arts_humanities
+keywords:
+- 経済・金融
+- 人口・社会問題
+- 教育
+- 歴史
+- 数理
+- 環境
+- 食料・農業・水産業
+- 都市・建築
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

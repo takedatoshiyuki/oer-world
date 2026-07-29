@@ -1,0 +1,61 @@
+slug: hokudai-elementalanalysis-2006
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/elementalanalysis-2006
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開講座 植物の元素分析（2006）
+description:
+  ja: 植物の元素分析をテーマにしたセミナー資料である。実際に分析を行う際の注意点や、使用する機器の選択について取り上げる。
+quotedDescription:
+  text:
+    ja: '特定領域「植物の膜輸送」のワークショップが京都で開催された時に植物の元素分析に関するセミナーを開催いたしました。実際に分析を行う場合の注意点、機器の選択などについて紹介いたしました。
+
+      具体的な内容については、スライドをご覧ください。'
+  source: https://ocw.hokudai.ac.jp/lecture/elementalanalysis-2006
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 信濃 卓郎
+  affiliation:
+    name: 農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ElementAnalysis-2006-Slide-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/elementalanalysis-2006
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

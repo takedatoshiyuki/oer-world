@@ -1,0 +1,191 @@
+slug: icu-ge-gex001-2016a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gex001_2016a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'X: Introduction to Christianity Ｘ：キリスト教概論'
+description:
+  ja: 聖書に即してキリスト教信仰の基本概念を学び、その神学的意味を現代文化との関係の中で考察する講義である。学習内容には、マルコによる福音書の読解や『Scapegoat』各章の検討に加え、クイズ、学習ログ、参加記録、神話分析のレポート、試験が含まれる。
+quotedDescription:
+  text:
+    ja: 'The basic concepts of the Christian faith. The study, based on the Bible, is directed toward
+      understanding Christianity”s theological significance in relation to various fields of modern culture.
+      Required of all students seeking a degree. Language of instruction differs by term or section.
+
+      キリスト教信仰の基本的内容を，旧約および新約聖書に即して学びながら，その神学的意味と思想的意義を，とくに現代の文化諸領域との関連において考察する。全学必修。学期およびセクションにより開講言語が異なる。
+
+      Contents of Lectures
+
+      18Lectures / 30Videos
+
+      Sep 8 :
+
+      Introduction to the Syllabus and the course
+
+      Sep 12:
+
+      Read Gospel of Mark, CPA 1, Participation Installment #1
+
+      Sep 15:
+
+      Scapegoat, Ch 1, CPA 3
+
+      Sep 19 Scapegoat, Ch 1, CPA 3
+
+      Quiz
+
+      Quiz
+
+      Sep 26:
+
+      Scapegoat, Ch. 2, CPA 4
+
+      Quiz
+
+      Sep 29:
+
+      Scapegoat, Ch. 3, CPA 5, Learning Logs 1-5
+
+      Quiz
+
+      Quiz
+
+      Quiz
+
+      Oct 3: Lecture 6
+
+      Scapegoat, Ch. 4, CPA 6
+
+      Quiz
+
+      Quiz
+
+      Oct 6: Lecture 7
+
+      Scapegoat, Ch. 5, CPA 7
+
+      Quiz
+
+      Oct 10: Lecture 8
+
+      Scapegoat, Ch. 6, CPA 8, 5-page paper analyzing a myth
+
+      Quiz
+
+      Quiz
+
+      Oct 13: Lecture 9
+
+      Scapegoat, Ch. 7, Ch. 8, CPA 9 and/or CPA 10
+
+      Quiz
+
+      Quiz
+
+      Quiz
+
+      Oct 17: Lecture 10
+
+      Scapegoat, Ch. 9, CPA 11, Participation Installment #2
+
+      Quiz
+
+      Quiz
+
+      Oct
+
+      20: Lecture 11
+
+      Scapegoat, Ch. 10, CPA 12,
+
+      Learning Logs 6-10
+
+      Quiz
+
+      Quiz
+
+      Oct 24:Scapegoat, Ch. 11, CPA 13
+
+      Quiz
+
+      Quiz
+
+      Quiz
+
+      Oct 27:Scapegoat, Ch. 12, CPA 14
+
+      Quiz
+
+      Quiz
+
+      Oct 31:Scapegoat, Ch. 13, CPA 15
+
+      Quiz
+
+      Quiz
+
+      Quiz
+
+      Nov: 3
+
+      Scapegoat, Ch. 14, CPA 16
+
+      Quiz
+
+      Quiz
+
+      Nov: 7
+
+      Scapegoat, Ch. 15, CPA 17
+
+      Quiz
+
+      Quiz
+
+      Nov: 10: Lecture 16
+
+      Exam, Learning Logs 11-15, Participation Installment #3
+
+      2016 Autumn'
+  source: https://ocw.info.icu.ac.jp/ge/gex001_2016a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 一般教育科目
+- 'GEX001 | Course Schedule: 2/M, 2/W, 2/F | Update: 2017.03.03'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

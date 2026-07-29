@@ -1,0 +1,49 @@
+slug: icu-ge-gen013-2014s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen013_2014s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: The Chemical Basis of Nature Ｎ１：自然の化学的基礎'
+description:
+  ja: 自然の化学的基礎を扱う講義で、講義名は英語と日本語の両方で示されている。国際基督教大学が提供し、久保謙哉が担当する。2014年開講で、使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 久保謙哉
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 一般教育科目
+- 'GEN013 | Course Schedule: 2/M, 2/W, 2/F | Update: 2015.03.18'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

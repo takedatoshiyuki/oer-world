@@ -1,0 +1,154 @@
+slug: kyoto-u-course-0119
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/119/
+type:
+- LearningResource
+- Course
+name:
+  ja: 画像処理論
+description:
+  ja: 計算機を用いた画像処理の原理と手法を扱い、画像の入出力、信号処理、画像計測に関する内容を概説する講義である。公開教材には、画像処理の流れや入力・出力、復元処理、前処理、セグメンテーションに加え、フーリエ変換や直交変換、分布と勾配を扱う演習資料が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      計算機を用いた画像処理は、ディジタルカメラの普及、WEB利用の拡大につれてますますその重要性を増してきている。また、計算機で画像処理を行うフォトショップなどのソフトウエアもよく利用されている。
+
+      この授業では、計算機による画像処理の基本的な事項について考察し、その原理を理解することを目指す。市販の画像処理ソフトウエアで実現されている機能がどう作られているのかを理解することにより、それらの機能でうまく処理できないときにどう改良してゆけばいいのかという知見が得られるように、応用の利く基礎知識を身につけるように進めてゆきたい。
+
+      授業の紹介
+
+      計算機を用いた画像処理の原理、手法について概説する。とくに、画像の入出力、画像に対する信号処理、画像計測についてその原理と手法を講述するとともに、計算機の基本的な入出力メディアとしての画像の果たす役割について考察する。'
+  source: https://ocw.kyoto-u.ac.jp/course/119/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 美濃 導彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+- ict
+keywords:
+- 工学
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 はじめに'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第2回 画像処理の流れ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 演習1 フーリエ変換'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第3回 画像の入力処理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第4回 画像の出力処理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 演習2 直交変換'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第5回 画像の復元処理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第6回 前処理I'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第7回 前処理II'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第8回 セグメンテーションI'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 演習3 分布と勾配'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第9回 セグメンテーションII'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 第10回 特徴抽出'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_01-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題1 回答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_01-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_02-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題2 回答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_02-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題6'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_06-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題6 回答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_06-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題7'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_07-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題7 回答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_07-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題8'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_08-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題8 回答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_08-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題9'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_09-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題9 回答例'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_09-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+- name: '講義資料: 課題10'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_gazoushoriron-assign_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/119/
+extensions:
+  faculty: 工学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

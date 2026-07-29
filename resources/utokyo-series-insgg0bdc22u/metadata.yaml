@@ -1,0 +1,77 @@
+slug: utokyo-series-insgg0bdc22u
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=insgG0BDC22U
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和４年度 リサーチ・アドミニストレーター研修
+description:
+  ja: URA業務の基礎から実践までを扱い、研究マネジメントに関する内容を学ぶ研修である。受講者の研究マネジメント力の向上と、本学の研究力強化を目的としている。
+quotedDescription:
+  text:
+    ja: リサーチ・アドミニストレーター（URA）研修は、URA業務の基礎から実践までを幅広く学ぶための研修です。受講者の研究マネジメント力の向上とともに本学の研究力強化に資することを目的としています。
+  source: https://ch.u-tokyo.ac.jp/series/?id=insgG0BDC22U
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 新澤 裕子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 明谷 早映子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野上識
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古宇田光
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 尚樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- ict
+- engineering
+keywords:
+- 教育
+- AI・情報
+- ロボット・技術
+- データ分析
+- 大学経営
+- 産学連携
+- イノベーション
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

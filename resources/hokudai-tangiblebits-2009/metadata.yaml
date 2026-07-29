@@ -1,0 +1,63 @@
+slug: hokudai-tangiblebits-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/tangiblebits-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別講演 「独創・協創・競創の風土とタンジブル・ビット」 （2009）
+description:
+  ja: MITメディアラボの文化風土と、そこから生まれたタンジブル・ビットを扱う講義である。タンジブル・ビットのコンセプトと、タンジブルメディアグループが設計したインターフェイスの例を通して、人間、デジタル情報、物理世界をつなぐ考え方を紹介する。あわせて、MITをめぐる「競創」の風土についても触れる。
+quotedDescription:
+  text:
+    ja: 'MITメディアラボは、「未来は予測するものではなく、発明するもの」というアラン・ケイの言葉を体現する研究所であり、世界中の先進的な企業とのコラボレーションを創造のエンジンとし、ユニークな「独創・協創・競創」の文化風土を作り上げてきた。その中から生まれたのが、タンジブル・ビットである。人々が生涯を通じ物質的な世界と関わりあうことで育んできた豊かな感覚と能力を活かし、人間、デジタル情報、そして物理世界をシームレスにつなぐインターフェイスを実現することが、タンジブル・ビットのゴールである。本講演では、タンジブル・ビットのコンセプトとタンジブルメディアグループがデザインした多様なインターフェイスの例を紹介し、ユビキタス
+      GUI を越える未来を提案する。さらにMIT をとリまく「競創」の風土を生き抜く術について話す。
+
+      主催：北海道大学情報科学研究科GCOEプロジェクト
+
+      共催： 電子情報通信学会北海道支部、 IEEE Sapporo Section、 IEEE WIE Sapporo Section、 北海道大学人材育成本部、 北海道大学大学院工学研究科
+
+      世話人：北海道大学大学院情報科学研究科教授　長谷山美紀 北海道大学大学院情報科学研究科棟
+
+      2009年8月3日'
+  source: https://ocw.hokudai.ac.jp/lecture/tangiblebits-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石井 裕
+  affiliation:
+    name: MITメディアラボ
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0787
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/787/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物理学概論
+description:
+  ja: 物理学の履修経験を前提とせず、現代物理学への導入を目的とする講義である。公開教材には、ローレンツ変換、量子論入門、音響と音楽の物理、宇宙論入門に関する資料が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      大学入学まで及び今後の物理学を履修を前提とせず、現代物理学に興味を持って 貰うための講義。従って、理系で物理学の基礎学力が必要とされている分野の人 には受講を推奨しません。'
+  source: https://ocw.kyoto-u.ac.jp/course/787/
+  note: 京都大学OCW 「授業の特色」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 早川尚男
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第4-7回\tローレンツ変換のノート"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_butsurigakugairon_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/787/
+- name: '講義資料: 量子論入門(その1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_butsurigakugairon_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/787/
+- name: "講義資料: 第13回\t音響と音楽の物理"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_butsurigakugairon_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/787/
+- name: "講義資料: 第16回\t宇宙論入門"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_butsurigakugairon_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/787/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,90 @@
+slug: utokyo-series-jqogf6q0dka9
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=jQOgf6Q0dkA9
+type:
+- LearningResource
+- Course
+name:
+  ja: IMF・東京大学共催：オンラインコンファレンス
+description:
+  ja: IMFと東京大学が共催するオンラインコンファレンスで、東京大学経済学部創立百周年記念事業として開催される。国際金融の安定をテーマに、世界金融危機から得た経験を踏まえつつ、危機管理や政策対応、今後の課題を検討する。
+quotedDescription:
+  text:
+    ja: 'IMF・東京大学共催　オンラインコンファレンス　
+
+      東京大学経済学部創立百周年記念事業
+
+      「国際金融の安定を守るために　コロナ時代に世界金融危機の教訓を学ぶ」
+
+      セッション1：「危機管理」
+
+      金融危機を管理し防止するためには国際協調が重要です。このセッションでは、世界金融危機から得られた経験を活かし、現在の危機下での政策対応を検証し今後の課題を考察することで、政策立案者にとっての広範な課題と教訓を探ります。
+
+      こ…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=jQOgf6Q0dkA9
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 五神 真
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Kristalina Georgieva
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Gillian Tett
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: William Dudley
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Francesco Papadia
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Marianne Nessen
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中曽 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 黒田 東彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0747
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/747/
+type:
+- LearningResource
+- Course
+name:
+  ja: Vertex Operator Algebras and Integrable Systems
+description:
+  ja: vertex operator algebras の構成法を中心に、screenings や拡張による考え方、基本例、W-algebras までを扱う。さらに、vertex algebras
+    と D-modules の関係を通して Hitchin systems や geometric Langlands に現れる話題に触れる。後半では、affine root system に対応する
+    screening system から現れる対象と、KdV 型の可換代数を含む integrable system を扱う。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      First I plan to discuss the known ways of constructing vertex operator algebras. We can use “screenings”
+      – it means that we can find the vertex operator subalgebras into the known ones. Opposite idea –
+      extensions of VOA. In this case we are trying to embed the algebra into the bigger. I present the
+      basic examples of these constructions. We discuss W-algebras and their applications. Vertex algebras
+      produce D-modules on the interesting geometric objects. So we will talk about Hitchin systems and
+      D-modules appearing in geometric Langlands – usual and quantum.
+
+      After that I explain what to do if we have the system of screening corresponding to the affine root
+      system. They do not define vertex algebra but something which has not good name. The object which
+      we get by this way is rather close to the non-conformal field theories and contains the integrable
+      system – commutative algebra of KdV type.'
+  source: https://ocw.kyoto-u.ac.jp/course/747/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Leading researcher
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Higher School of Economics）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-07-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

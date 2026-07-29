@@ -1,0 +1,71 @@
+slug: utokyo-series-iv6uqdwwu1ze
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=iV6UQdwwu1zE
+type:
+- LearningResource
+- Course
+name:
+  ja: メタバース工学部ジュニア講座 2023秋講座「東大工学部×ポーラ・オルビスホールディングス 科学と美しさの未来を探求しよう」
+description:
+  ja: 東京大学工学部とポーラ・オルビスホールディングスの研究者が、化粧品づくりや触感を題材に、美しさを科学の視点から考える講義である。あわせて、ポーラ文化研究所の美しさに関するデータや、自分らしく働くことについても取り上げる。
+quotedDescription:
+  text:
+    ja: あなたにとって“美しさ”とは？この講座では、東京大学工学部とポーラ・オルビスホールディングスの研究者が、様々な視点から専門分野の講演・デモを行います。「粉を混ぜてどうのように化粧品を作る？」「さわり心地って何？」を東京大学の2名の教員が科学的に説明します。また、ポーラ文化研究所で長年にわたり蓄積された“美しさ”に関するデータなどをご紹介します。また、自分らしく働くことの大切さについてもお話します。
+  source: https://ch.u-tokyo.ac.jp/series/?id=iV6UQdwwu1zE
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 脇原 徹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 酒井 崇匡
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 片島 拓弥
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川上 博子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 智穂
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 工学部・工学系研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

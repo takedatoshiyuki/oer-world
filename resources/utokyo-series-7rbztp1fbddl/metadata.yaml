@@ -1,0 +1,84 @@
+slug: utokyo-series-7rbztp1fbddl
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=7RBzTp1FBDDl
+type:
+- LearningResource
+- Course
+name:
+  ja: シンポジウム「うな丼の未来II」
+description:
+  ja: ウナギの資源減少とニホンウナギの絶滅危惧種指定を背景に、何が減少の要因なのか、どう回復させるのかを考えるシンポジウムである。日本のウナギ食文化を続けるために、複数の視点を持ち寄って議論する内容を扱う。
+quotedDescription:
+  text:
+    ja: ウナギは今、慢性的な資源減少に直面しています。2014年6月12日、環境省に次いでIUCNもニホンウナギを絶滅危惧種に指定しました。なぜ資源はこんなにも減ってしまったのでしょうか？どうすれば回復させることができるのでしょうか？私たちはこれからもうな丼を食べ続けることができるのでしょうか？問題は山積しています。このシンポジウムは、日本人がこよなく愛するウナギの食文化を絶やさないために様々な考えを持ち寄り、人と…
+  source: https://ch.u-tokyo.ac.jp/series/?id=7RBzTp1FBDDl
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 塚本 勝巳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 望岡 典隆
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉永 龍起
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 良永 知義
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 秀樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 合瀬 宏毅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Matthew Gollock
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村上 寅美
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 食文化
+- 絶滅危惧種
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け・英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

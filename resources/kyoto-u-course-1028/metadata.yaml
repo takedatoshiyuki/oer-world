@@ -1,0 +1,56 @@
+slug: kyoto-u-course-1028
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1028/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2020年度 アフリカ地域研究資料センター公開講座「アフリカの森を共創する」 第2回「野生動物は何頭いるのか？」
+description:
+  ja: 京都大学アフリカ地域研究資料センターが、SATREPSプログラムのもとで進めるカメルーン東部州の森林地域でのプロジェクトに関連する研究を紹介する公開講座である。第2回では、「野生動物は何頭いるのか？」を題材に、森林地域での研究内容を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      京都大学アフリカ地域研究資料センターは、2018年4月から2023年7月までの５年間あまり、JST-JICAによる地球規模課題対応国際科学技術協力（SATREPS）プログラムの枠組みのもとで、カメルーン東部州の森林地域にて「在来知と生態学的手法の統合による革新的な森林資源マネジメントの共創」プロジェクト（https://sites.google.com/view/projet-comeca/）を実施しています。2020年度公開講座では、このプロジェクトにかかわる研究を紹介します。
+
+      （https://www.africa.kyoto-u.ac.jp/archives/9138）'
+  source: https://ocw.kyoto-u.ac.jp/course/1028/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 本郷 峻
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: アフリカ地域研究資料センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

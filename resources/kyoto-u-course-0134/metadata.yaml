@@ -1,0 +1,101 @@
+slug: kyoto-u-course-0134
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/134/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農村土地利用計画論
+description:
+  ja: 農村計画における土地利用計画を扱い、京都府下を対象とした土地利用上の諸問題や課題を取り上げる。あわせて、景観や重層性に対応した総合計画、市町村総合計画と土地利用規制、住民参加、緊張モデル、神出方式などの計画方法を示す。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      農村計画において、土地利用秩序の形成や景観形成面から土地利用計画の果たす役割は大きい。しかしその実効性面で多くの問題を抱えている。この授業では、土地利用計画を有効ならしめる大きな要素としての、住民参加や計画体系、計画方法について述べる。
+
+      授業の紹介
+
+      （１）京都府下を対象に土地利用上の諸問題と諸課題
+
+      （２）重層性に対応した総合計画の必要性
+
+      （３）総合計画における土地利用計画の位置づけ
+
+      （４）計画づくりにおける住民参加の有り様
+
+      （５）計画体系としての緊張モデルの紹介と適用例
+
+      （６）地区総合計画の計画方法としての神出方式の紹介と適用例
+
+      （７）ヨ−ロッパの土地利用計画の紹介'
+  source: https://ocw.kyoto-u.ac.jp/course/134/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 牛野 正
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: はじめに'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第1回 土地利用問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第2回 景観・重層性に対応した総合計画の必要性'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第3回 市町村総合計画と土地利用規制'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第4回 市町村総合計画の策定と住民参加'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第5回 緊張モデルによる土地利用計画の分析(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第6回 緊張モデルによる土地利用計画の分析(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第7回 神出方式・神出方式拡張型(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+- name: '講義資料: 第8回 神出方式・神出方式拡張型(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_nousontochiriyoukeikakuron_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/134/
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

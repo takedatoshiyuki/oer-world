@@ -1,0 +1,142 @@
+slug: icu-majors-ppl101-2016a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/ppl101_2016a
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Public Policy 公共政策入門
+description:
+  ja: 公共政策の基礎と政策研究の方法を学び、政策の意義・構造・形成から実施、評価までの流れを扱う。あわせて、政府に加えて市民、NPO、企業が政策過程で果たす役割と、その関係の動きを取り上げる。講義では、公共政策の定義、政府と市場、意思決定、立法や行政手続なども扱う。
+quotedDescription:
+  text:
+    ja: 'Fundamentals of public policy, problem solving approaches, and methodology of policy studies.
+      Dealing with significance, structure and processes of public policy, as well as dynamics relationship
+      between government, citizens, NGOs, or companies.
+
+      広く公共政策、公的問題の解決、政策研究の方法について学ぶ入門コース。公共政策の意義と構造、政策の形成・実施・評価プロセスの基礎を理解し、政策過程の中核に位置してきた政府に加え、市民・NPO・企業等の役割も視野に入れてネットワークの動態を把握する。
+
+      Contents of Lectures
+
+      1
+
+      8
+
+      Lecture /
+
+      2
+
+      Videos
+
+      Sep 09
+
+      導入
+
+      Sep 13
+
+      導入
+
+      Sep 15
+
+      公共政策とは何か？
+
+      Sep 20
+
+      「公共政策とは何か」（後半）/ 政府と市場
+
+      Sep27 政府と市場/ 政策型思考と制度型思考
+
+      Sep29
+
+      政策型思考と制度型思考/ 両者との関係 / ディスカッション
+
+      Oct 04
+
+      政策型思考と制度型思考（後半）
+
+      Oct 06
+
+      政策過程とは何か/ 意思決定のモデル
+
+      Oct11
+
+      清水康之さんによるゲストレクチャー
+
+      Oct 13
+
+      ゲストのレクチャーをめぐるディスカッション/ 立法過程
+
+      Oct 18
+
+      政治行政手続
+
+      Oct 20
+
+      政策立案のパタン
+
+      Oct 25
+
+      政策の実施過程
+
+      Oct 27
+
+      政策の評価と行政統制
+
+      Nov 01
+
+      Decision Making
+
+      Nov 03
+
+      Decision Making
+
+      Nov 08
+
+      Decision Making
+
+      Nov 10
+
+      ディスカッションとまとめ'
+  source: https://ocw.info.icu.ac.jp/majors/ppl101_2016a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 西尾隆
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 専攻科目
+- Public Policy 公共政策 | Course ID
+- 'PPL101 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2020.01.06 Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

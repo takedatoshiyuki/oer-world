@@ -1,0 +1,95 @@
+slug: utokyo-series-39wnagoajfvj
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=39wnAGOAjfvJ
+type:
+- LearningResource
+- Course
+name:
+  ja: 境界線をめぐる旅（朝日講座「知の冒険—もっともっと考えたい、世界は謎に満ちている」2013年度講義）
+description:
+  ja: この講義は、私・他者・国家・生物・地球にまたがる境界線を題材に、その線がどのように作られ、誰に向けて引かれているのかを考える。あわせて、誕生や死、脳死問題にも触れながら、人が世界のどこに位置づけられるのかを問い直す。
+quotedDescription:
+  text:
+    ja: '目には見えない無数の境界線を張り巡らせて、人は暮らしています。その基点となるべき私でさえも、どこまでが私なのかと問いかけることが可能です。少なくとも誕生と死というふたつの境界線の間に私は存在しているはずですが、脳死問題を考えれば、死にさえも人為的な境界線が持ち込まれることを拒否できません。
+
+      　初年度のテーマ「震災後、魂と風景の再生へ」を受けて、昨年度は「幸福」を問題にしました。それは、さまざまな幸福の輪郭線を探る試みでした。幸福と不幸とを分ける境界線は、どこよりもまず人の意識の中に引かれるはずです。今年度は少し観点を変え、私たちがつくりだす無数の境界線に目を向けます。リレー形式の講義により、私・他者・国家・生物・地球の境界線を辿りながら、それらが誰によって、誰に向けて、どのように引かれているのかを見つめ直し、私たちの現在地を、私たちがこの世界のどこに存在しているのかを探ります。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=39wnAGOAjfvJ
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 木下 直之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 秋山 聰
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 沼野 充義
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 清水 哲郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伏見 憲明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 赤川 学
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 陳 天璽
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宮代 栄一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- arts_humanities
+- social_sciences
+keywords:
+- 教育
+- 言語・思想
+- 文化・芸術・文芸
+- 人口・社会問題
+- 心理・認知
+- 国際関係
+- 食料・農業・水産業
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

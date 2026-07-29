@@ -1,0 +1,68 @@
+slug: utokyo-series-x6ld5uiv9s3d
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=X6ld5uiV9s3D
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回 模擬国連ワークショップ
+description:
+  ja: 模擬国連を題材に、参加者が各国の代表として国際問題を議論する仕組みを扱う。あわせて、模擬国連を授業に取り入れる方法について、授業担当教員が実践をもとに述べる。
+quotedDescription:
+  text:
+    ja: '模擬国連は、一人一人が米国政府代表や中国政府代表などの担当国になりきって国際問題について話し合う教育手法です。このセッションでは、模擬国連の授業への効果的な導入方法について、授業担当教員が実践を踏まえて説明します。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=X6ld5uiV9s3D
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中村 長史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 室田 大樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小山 淑子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+keywords:
+- 教育
+- 国際関係
+- 模擬国連
+- 国際政治
+- アクティブラーニング
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

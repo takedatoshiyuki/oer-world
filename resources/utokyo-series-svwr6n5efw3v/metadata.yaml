@@ -1,0 +1,78 @@
+slug: utokyo-series-svwr6n5efw3v
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=SVWr6n5eFw3v
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「爆発」
+description:
+  ja: 可燃性ガスや粉じんが着火した際に起こる爆発現象を取り上げ、火炎の伝ぱや圧力上昇、事故との関係を扱う。あわせて、爆発事故の防止と被害軽減に関する技術を、実験動画やムービーを用いて解説する。
+quotedDescription:
+  text:
+    ja: 可燃性ガスと空気の混合気、あるいは空気中に浮遊した可燃性粉体（粉じん雲）に着火が起こるとガス爆発や粉じん爆発が発生します。これらの爆発が発生すると、高速な火炎の伝ぱによる高速な圧力上昇が生じ、しばしば重大な事故となります。これらの現象の解析結果を用いて、爆発事故発生防止および被害軽減の技術が蓄積されています。この講義では、最新の爆発の現象解析と防御技術について実験動画やムービーなどを用いて解説し…
+  source: https://ch.u-tokyo.ac.jp/series/?id=SVWr6n5eFw3v
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 土橋 律
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 柳川 範之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安東 正樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉澤 誠一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 堀本 泰介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 久保 文明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渋谷 哲朗
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中田 節也
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

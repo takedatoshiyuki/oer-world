@@ -1,0 +1,51 @@
+slug: utokyo-series-df9jzwmb3fkn
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Df9jzWmB3fkn
+type:
+- LearningResource
+- Course
+name:
+  ja: 梶田隆章教授ノーベル賞受賞記念講演会
+description:
+  ja: 梶田隆章が2015年のノーベル物理学賞受賞につながった研究について語る講演会である。ニュートリノ振動の発見と、そこからニュートリノの質量を示した経緯を扱う。東京大学が提供し、JPタワーホール＆カンファレンスで開催された。
+quotedDescription:
+  text:
+    ja: "東京大学宇宙線研究所長・教授の梶田隆章先生が、「ニュートリノが質量をもつことを示すニュートリノ振動の発見」により、2015年のノーベル物理学賞を受賞しました。梶田先生の功績を広く社会にお伝えするために、インターメディアテク開催の特別公開『梶田隆章先生ノーベル賞受賞』に併せて、「ＪＰタワーホール＆カンファレンス」において梶田先生ご自身による講演会を開催しました。\
+      \ \n \n  講演ではこれまでの研究生活を…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=Df9jzWmB3fkn
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 梶田 隆章
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

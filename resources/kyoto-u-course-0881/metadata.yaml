@@ -1,0 +1,87 @@
+slug: kyoto-u-course-0881
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/881/
+type:
+- LearningResource
+- Course
+name:
+  ja: 市民講座「物理と宇宙」第２回
+description:
+  ja: 京都大学の市民講座「物理と宇宙」の第2回で、中性子星、冷えた原子による物質の状態、元素の起源を題材にした講義資料を収録する。各テーマについて配布資料と講演ファイルが公開されており、物理学と宇宙物理学の研究成果を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      京都大学では物理学と宇宙物理学についての市民講座「物理と宇宙」を開催します。京都大学の3人の研究者が最新の研究成果を発信し、その最先端を分かりやすく説明します。
+
+      詳細「物理と宇宙」HP'
+  source: https://ocw.kyoto-u.ac.jp/course/881/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 畑 浩之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大西 明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高橋 義朗
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 前田 啓一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-11-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 中性子星を支える力 配布資料(略歴)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/11/2014_buturitoutyuu_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/881/
+- name: '講義資料: 中性子星を支える力 講演ファイル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/11/2014_buturitoutyuu_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/881/
+- name: '講義資料: 冷えた原子でつくる新しい物質の状態 配布資料(略歴)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/11/2014_buturitoutyuu_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/881/
+- name: '講義資料: 冷えた原子でつくる新しい物質の状態 講演ファイル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/11/2014_buturitoutyuu_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/881/
+- name: '講義資料: 元素の起源を探る 配布資料(略歴)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/11/2014_buturitoutyuu_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/881/
+- name: '講義資料: 元素の起源を探る 講演ファイル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/11/2014_buturitoutyuu_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/881/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

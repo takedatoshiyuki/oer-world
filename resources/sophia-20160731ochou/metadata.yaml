@@ -1,0 +1,46 @@
+slug: sophia-20160731ochou
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20160731ochou/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法学部説明会
+description:
+  ja: 上智大学法学部が担当する、2016年度開講の説明会である。講義名と担当情報から、法学部に関する案内を扱う教材であることが読み取れる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 法学部
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 法学部
+  term: 2016年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

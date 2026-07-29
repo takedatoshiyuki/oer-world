@@ -1,0 +1,56 @@
+slug: utokyo-series-ypgfh57fhfgs
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ypGFH57fHfgs
+type:
+- LearningResource
+- Course
+name:
+  ja: 2025年度業務改革総長賞表彰式
+description:
+  ja: 東京大学が2025年度に実施する、業務改革総長賞の表彰式を扱う。DX推進のための地盤醸成チーム、教養学部等経理課財務チーム、農学部経理課経費執行チームが担当する、学内限定の日本語教材である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: DX推進のための地盤醸成チーム
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 教養学部等経理課財務チーム
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 農学部経理課経費執行チーム
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

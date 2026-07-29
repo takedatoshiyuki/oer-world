@@ -1,0 +1,49 @@
+slug: icu-sl-sl-20111210
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/sl/sl_20111210
+type:
+- LearningResource
+- Course
+name:
+  ja: Recollections of War with the United States and Postwar Japan
+description:
+  ja: 国際基督教大学が提供する英語講義で、武田、清子が担当する。講義名からは、アメリカとの戦争の記憶と戦後日本を扱う内容であることが読み取れる。
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 武田
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 清子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2011-12-10'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講演・特別講義
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

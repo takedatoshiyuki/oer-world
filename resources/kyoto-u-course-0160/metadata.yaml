@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0160
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/160/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学アカデミックデイ
+description:
+  ja: 京都大学が提供・担当する「京都大学アカデミックデイ」の教材で、日本語で公開されている。公開資料は「社会をつくりかえる～新しい“デザイン学”を考える」という講義資料1件で、詳細情報は出典サイトの案内先にある。
+quotedDescription:
+  text:
+    ja: 詳細HP→http://www.kura.kyoto-u.ac.jp/event/19/
+  source: https://ocw.kyoto-u.ac.jp/course/160/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-12-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 社会をつくりかえる～新しい“デザイン学”を考える'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_京都大学アカデミックデイ_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/160/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

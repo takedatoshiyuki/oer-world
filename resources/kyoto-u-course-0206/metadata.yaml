@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0206
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/206/
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開講座：アフリカ研究最前線『出会う』
+description:
+  ja: アフリカの農村にある食文化や暮らしの工夫、さらに無文字社会における記号や情報伝達のあり方を扱う公開講座である。エチオピアのエンセーテ、タンザニアの農村の食材、アフリカ伝統社会の『文字』という3つの話題を通して、アフリカ研究のいくつかの側面を紹介する。
+quotedDescription:
+  text:
+    ja: '第1回 2012年1月21日「不思議な植物エンセーテに出会う」
+
+      重田 眞義（京都大学アフリカ地域研究資料センター 教授）
+
+      エチオピアの西南部には１本倒すと家族４人が１ヶ月は食べて暮らせるという作物エンセーテがあります。アフリカ農村の豊かな食文化についてお話します。
+
+      第2回 2012年2月18日「暮らしを守る女性の知恵に出会う」
+
+      近藤 史（京都大学アフリカ地域研究資料センター 助教）
+
+      タンザニアの農村には思いがけない食材があふれていました。半年にわたる乾季をおいしく過ごす、女性の知恵についてお話します。
+
+      ※本講座は、途中までの公開とさせていただきます。 より詳細な内容に関しては、論文や著書等で出版されているほか、今後の講演等で紹介していく予定です。
+
+      第3回 2012年3月17日「無文字社会の”文字”に出会う」
+
+      梶 茂樹（京都大学アフリカ地域研究資料センター 教授）
+
+      アフリカの伝統社会では、私たちが想像もしないようなものが文字の役割を果してきました。無文字社会における「文字」について考えます。'
+  source: https://ocw.kyoto-u.ac.jp/course/206/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-01-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: アフリカ地域研究資料センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

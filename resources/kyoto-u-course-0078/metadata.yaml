@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0078
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/78/
+type:
+- LearningResource
+- Course
+name:
+  ja: 制御工学
+description:
+  ja: 制御対象を微分方程式や伝達関数で表す考え方を学び、ラプラス変換やブロック線図による記述を扱う。さらに、一次遅れ系・二次遅れ系の応答や、フィードバック制御、周波数応答法の基礎を通して、自然界の現象や動植物の挙動を解析する枠組みを示す。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      電気系，温度計，機械系，水位系など種々の系を微分方程式で表現し，一次遅れ，二次遅れ等の伝達関数を，自然界の現象および動植物の挙動等にあてはめることを試み，解析，シミュレーション等を行うための基礎を学ぶところに特色がある。
+
+      授業の紹介
+
+      地域環境工学科における研究対象は，降雨とため池や河川の水位，局所的な気温の変化，グリーンハウス内の温度変化，動植物の光や温度の変化に対する反応，樹木の枝の風や機械的な力による振動など，自然界の現象や動植物の挙動に関わることが多い。これらを解析，制御するには，数学的および物理的な知識が必要であるが，本授業では，それらの現象，反応，挙動を簡易な微分方程式で表現する。その微分方程式を解くにはラプラス変換が便利であることより，複素数を簡単に復習した後，ラプラス変換の利用方法を学ぶ。続いて，制御系の構成要素である伝達関数について，液面系，電気系，機械系の具体例を通して学ぶ。同時に，いくつかの構成要素から成る制御系を簡単化できるブロック線図の描き方を習得する。さらに，その制御系にステップ関数やインパルス関数で表現される代表的な信号が入力された場合の応答を一次遅れ系ならびに二次遅れ系について演算で求める。最後に，それらの一次遅れ系ならびに二次遅れ系に，様々な周波数の正弦波が入力された場合の周波数応答をベクトル軌跡やボード線図で表す。これらの手法を自然界の現象，生物の反応を解析する手段とする。
+
+      授業の概要目的
+
+      自動制御について，基本要素，1次システム，2次システムの伝達関数のラプラス変換による表現と，ブロック線図による制御系の記述法を理解させ，ついでフィードバック制御，周波数応答法などの基礎理論と実際問題への応用について説明する。これにより，オートメーションの基礎が養われると同時に，農産物，農作物のモデル化などに役立てることが可能となる。'
+  source: https://ocw.kyoto-u.ac.jp/course/78/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」・「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 制御工学 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_seigyogaku.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/78/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

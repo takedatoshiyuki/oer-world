@@ -1,0 +1,70 @@
+slug: sophia-20111006comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111006comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Influences on Imageability
+description:
+  ja: 都市の景観変化や、都市化の進行の中で生じる社会的な問題を扱う内容である。あわせて、デリーの労働者居住地域での芸術実践を通じ、住民との協働や地域空間への介入によって社会的テーマを表現する試みが述べられている。
+quotedDescription:
+  text:
+    ja: "One of the starkest visual outcomes of contemporary neo-liberal political environments and economic\
+      \ policies that have catalyzed globalization on an unforeseen and unimaginable scale is the relentless\
+      \ mutation of metropolitan landscapes all over the world. Urban geographies are being rapidly and\
+      \ permanently transformed to accommodate the ever-expanding construction of skyscrapers, corporate\
+      \ offices and shopping malls. The traditionally public, historical and ‘green’ spaces in cities\
+      \ are encroached upon and appropriated, shrinking and disappearing as state property is sold developed\
+      \ into commercial mega-projects for private business interests. The migrant working class is also\
+      \ a subject to various powerful modes of alienation, even while the city enlarges these communities’\
+      \ frames of reference, dismantles provincial and rural prejudices, offers a range of new affiliations\
+      \ and professions, and new possibilities of individual freedom. And at the other end of the scale,\
+      \ cities themselves bloat into unsustainable entities via the influx of millions of impoverished\
+      \ rural migrants, who create their own precarious settlements, infrastructure and relational circuits\
+      \ in whatever corner they can find. \n For the last five years my art practice has involved experimenting\
+      \ with new genres of art across different populations in various working-class localities in Delhi.\
+      \ My research focuses on the representation of social issues through works created in collaboration\
+      \ with the community and through direct interaction / intervention in the physical spaces of neighbourhoods.\
+      \ I visualize collective projects that would serve as a voice for the community, inviting women,\
+      \ children and youth from different background to narrate their personal experiences of the changing\
+      \ urban milieu through a variety of creative media and art forms."
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111006comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Organization
+  name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20111006comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20111006comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2011/10/06
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

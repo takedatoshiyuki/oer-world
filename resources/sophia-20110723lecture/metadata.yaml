@@ -1,0 +1,54 @@
+slug: sophia-20110723lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110723lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智の座シリーズ 第4回
+description:
+  ja: 東日本大震災と被災地での経験を手がかりに、山浦玄嗣が医師としての視点から語る講義である。聖書や祈りにも触れながら、災禍を受け止めて生きることを考える内容である。
+quotedDescription:
+  text:
+    ja: "東日本大震災とどう向き合うか 被災地から見た3・11 \n 岩手県大船渡市の医師・山浦玄嗣さんは、聖書を地元の方言「ケセン語」に翻訳したことで知られている。自らも被災し、大津波に見舞われたガレキの町で、医師として人々を支え続けた。惨害の野に立った時、山浦さんの胸に去来したのは、絶望は絶望のままおわらないということ。そして「祈り」とは、目の前の出来事の中にあらわれる神の声を聞くことだ、ということだった。今、聖書を読みながら、災禍を引き受けて生きる希望を語る。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110723lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 山浦 玄嗣(岩手県大船渡市 医師)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 110723lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110723lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110723lecture/
+extensions:
+  faculty: 上智の座シリーズ
+  term: 2011/07/23
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,154 @@
+slug: icu-ge-ges053-2015a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges053_2015a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: Media and Identity Formation Ｓ２: メディアとアイデンティティ形成'
+description:
+  ja: この講義は、アイデンティティ形成を中心に、メディアやコミュニケーション、教育、心理学の観点から関連する問題を扱う。内容には、デジタル時代の自己やメディアと行動の関係、アイデンティティとウェルビーイング、文化や学習、広告やソーシャルネットワーキングとの関わりが含まれる。
+quotedDescription:
+  text:
+    ja: 'This course examines the process of identity formation and various identity issues through the
+      lenses of communication, media, education and psychology
+
+      アイデンティティを形成していくプロセスについて、コミュニケーション学、メディア論、教育学、心理学などの視点から考察する。
+
+      Contents of Lectures
+
+      1
+
+      9
+
+      Lectures  /
+
+      2
+
+      Videos
+
+      Sep 07 & 10
+
+      Week 1 Course Introduction and Overview (Sasaki, Sasao, Jung – 20 min.)
+
+      Sep
+
+      14
+
+      & 1
+
+      7
+
+      Week
+
+      2
+
+      M: Media, Pro-Social Behaviors, and Identity (Sasaki)
+
+      TH: Media, Anti-Social Behaviors, and Identity (Sasaki)
+
+      Sep 21 & 24
+
+      Week 3 (Sept. 21 – Holiday – Online class)
+
+      TH:  Real vs. Virtual Identity and Redefining Identity in Digital Age
+
+      Sep 2
+
+      8
+
+      Week 4 Identity & Well-being (1) (Sasao)
+
+      Oct 01
+
+      Week 4
+
+      Identity & Well-being (2)
+
+      Oct 05 & 08
+
+      Week
+
+      5
+
+      M: Video Games and Identity  (Sasaki)
+
+      TH: Personal Communications and Well-being (Sasaki)
+
+      Oct 12 & 15
+
+      Week
+
+      6
+
+      M: Soap Operas, Gender and Identity (Jung)
+
+      TH: Advertisements, Gender and Identity (Jung)
+
+      Oct 19 & 22
+
+      Week
+
+      7
+
+      M: Culture, Learning and Identity 1 (Sasao)
+
+      Oct 26 & 29
+
+      Week 8
+
+      M: Culture, Learning and Identity 2 (Sasao)
+
+      TH: Digital Media, Social Networking and Learning Identity
+
+      Nov 2 & 5
+
+      Week 9 M: Mass Media and Learner Identity 1 (Sasaki)
+
+      TH: Mass Media and Learner Identity 2 (Sasaki)
+
+      Nov 09
+
+      Week 10 Final Test'
+  source: https://ocw.info.icu.ac.jp/ge/ges053_2015a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 笹尾敏明
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES053 | Course Schedule: 4*/M, 4*/TH | Update: 2020.02.26'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

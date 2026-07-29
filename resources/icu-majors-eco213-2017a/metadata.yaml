@@ -1,0 +1,62 @@
+slug: icu-majors-eco213-2017a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/ECO213_2017A
+type:
+- LearningResource
+- Course
+name:
+  ja: ECO213 Introduction of Mathematics to Economics 経済学のための数学入門
+description:
+  ja: 中級レベルのミクロ経済学・マクロ経済学を学ぶために必要な数学を扱う。関数、集合、極限、微分、偏微分、ラグランジュ法、積分、確率統計の基礎を、経済学の事例とともに学ぶ構成である。
+quotedDescription:
+  text:
+    ja: 'This course covers basic level mathematics so as to prepare to study intermediate micro/macro
+      economics. Topics that this course deals with are as follows: function, (basic concept of) set,
+      limitation, differentiation, partial derivative, Lagrangean, (basic concept of) integration, (basic
+      concept of) probability and statistics. Since examples are drawn from economics, students are highly
+      recommended to take after PRINCIPLE OF MACROECONOMICS and PRINCIPLE OF MICROECONOMICS.
+
+      中級レベルのミクロ経済学・マクロ経済学を学ぶために必要な数学を学ぶ。内容は、関数、集合（の基礎）、極限、微分、偏微分、最適化（変分法）、積分（の基礎）、確率統計（の基礎）である。経済学からの事例を使用するため、マクロ経済学原論、およびミクロ経済学原論の既修が望ましい。'
+  source: https://ocw.info.icu.ac.jp/majors/ECO213_2017A
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 小川
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- Economics 経済学
+- ECO213
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

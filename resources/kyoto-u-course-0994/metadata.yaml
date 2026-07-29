@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0994
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/994/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】“立ち止まって、考える” – 連続講義（2）環境史　「災害」の環境史：科学技術社会とコロナ禍
+description:
+  ja: 環境史の視点から、「災害」をどう捉え直すかを扱う講義である。自然と人間の関係を問い直しながら、さまざまな「災害」の環境史を取り上げ、現在のコロナ禍を考えるための視点を探る。
+quotedDescription:
+  text:
+    ja: '一般に「災害」とは、人間が突然の自然の来襲によってこうむる損害と考えられている。だが果たしてそうだろうか。この講義では、「環境史」の視点から「災害」について考えなおしてみたい。これまでの歴史が人間からの視点を自明の前提としてきたのに対し、自然と人間の関係を問い直すのが環境史である。そこからは、現代の「災害」がかつてのように未知なる自然の来襲ではなく、高度につくりあげられた科学技術社会の日常に組み込まれているという現実が見えてくる。そのことに私が気づかされたのは3.11のときだった。この講義ではさまざまな「災害」の環境史を取り上げ、現在のコロナ禍を考えるための視点を定めたい。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/1669/'
+  source: https://ocw.kyoto-u.ac.jp/course/994/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 瀬戸口 明久
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0314
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/314/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法学部オープンキャンパス「社会問題から考える法学の役割」
+description:
+  ja: 社会問題を手がかりに、法学が果たす役割を考える模擬講義である。2019年度の法学部オープンキャンパスで実施され、回ごとにAIと水を具体例として取り上げている。
+quotedDescription:
+  text:
+    ja: '模擬講義「社会問題から考える法学の役割」
+
+      2019年度法学部オープンキャンパスは、12:30から行われたA時間帯、15:00から行われたB時間帯の2回に分けて行われました。原田大樹教授の模擬授業「社会問題から考える法学の役割」は、講義の中心となる具体例をA時間帯では「AI」、B時間帯では「水」を取り上げてお話しされています。'
+  source: https://ocw.kyoto-u.ac.jp/course/314/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 原田 大樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-08-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 法学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 法学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

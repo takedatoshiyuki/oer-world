@@ -1,0 +1,97 @@
+slug: utokyo-series-a5zk3ax6ofmk
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=A5Zk3ax6ofMk
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会学ワンダーランド（学術俯瞰講義）
+description:
+  ja: この講義は、社会学を手がかりに、コミュニティや想像力、都市、学校、健康、アジア全体の社会変容へとつながるテーマを横断的に扱う。社会学がさまざまな分野に入り込む様子をたどりながら、学問全体の見取り図を考える構成である。
+quotedDescription:
+  text:
+    ja: '学術俯瞰講義に今回「社会学」が登場します。社会学は不思議な学問です。社会学には固有な対象がない。社会学は人間世界の森羅万象を研究していますが、社会学が研究している分野はそれ以外の学問の人も研究しています。どこにもあり、どこにもない。
+
+      今回の講義では、いろいろな分野に入り込んだ社会学の赤い糸をたどりながら、学問の全体像を横断的に理解してもらうことを目的とします。赤い糸は、コミュニティという日常生活、想像力という自明な力から、都市、学校、健康におよび、かつアジア全体の社会の変容という大きなテーマに広がっていきます。でも、社会学は何でも屋さんではありません。どんなテーマであれ、そこに「社会学的な対象」を発見する不思議な方法、独特な技を必ず使います。この仕掛けは本やインターネットには書いてないものなので、これこそを今回の講義で皆さんの前に示したいと思います。
+
+      社会学というワンダーランドにようこそ。この世界には、曖昧なもの、驚きなど、人間くさいものがたくさん詰まっています。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=A5Zk3ax6ofMk
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山本 泰
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 俊樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 健二
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 清水 亮
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 園田 茂人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 内田 隆三
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 苅谷 剛彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山崎 喜比古
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- arts_humanities
+- engineering
+keywords:
+- 人口・社会問題
+- 言語・思想
+- 歴史
+- 都市・建築
+- 教育
+- 生命・医療
+- 社会学
+- 学際性
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

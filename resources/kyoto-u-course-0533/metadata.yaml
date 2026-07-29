@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0533
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/533/
+type:
+- LearningResource
+- Course
+name:
+  ja: ピア・インストラクションによるアクティブラーニングの深化
+description:
+  ja: ピア・インストラクションを扱うアクティブラーニングの講義である。京都大学の高等教育研究開発推進センターが開講し、飯吉透、エリック・マズール、溝上慎一、松下佳代、大塚雄作が担当する。使用言語は日本語と英語である。
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 飯吉 透
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: エリック・マズール
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 溝上 慎一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松下 佳代
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大塚 雄作
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-10-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

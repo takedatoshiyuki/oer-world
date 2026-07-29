@@ -1,0 +1,68 @@
+slug: hokudai-organismsurface-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/organismsurface-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: バイオミメティクス市民セミナー 生物の表面に学ぶ 撥水、親水、防汚、潤滑のための新しい材料 （2012）
+description:
+  ja: 生物の表面が示す機能特性を手がかりに、人工材料でその働きを実現する考え方を扱う講義である。表面の凹凸による撥水、ポリマーブラシを用いた親水・防汚、水を潤滑剤とする低摩擦、水を溶剤とする接着・剥離を紹介する。
+quotedDescription:
+  text:
+    ja: '生物の表面は様々な場所で、その場所に要求される機能特性を示します。生物の特徴は環境負荷が少なく、低エネルギーで様々な機能特性を示すことがあげられます。私たちもソフトマテリアル（プラスチック、ゴム、ゲル、液晶など）の科学の技術を駆使してようやく生物の示すような表面の機能性を実現することが出来るようになりました。
+
+      本講演では
+
+      １、表面の凹凸を利用した撥水性
+
+      ２、水に対して濡れ易い高分子のひげ（ポリマーブラシ）を用いた親水性と防汚性（汚れにくい）表面
+
+      ３、関節のように水を潤滑剤として低い摩擦係数を示す表面
+
+      ４、水を溶剤として自在に接着・剥離を繰り返すことの出来る材料
+
+      などについて紹介します。'
+  source: https://ocw.hokudai.ac.jp/lecture/organismsurface-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高原 淳
+  affiliation:
+    name: 九州大学先導化学物質研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- バイオミメティクス
+- ソフトマテリアル
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

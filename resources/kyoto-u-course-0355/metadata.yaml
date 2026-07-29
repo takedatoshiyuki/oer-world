@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0355
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/355/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科レクチャーシリーズ第2回 “Research-based Development of Finnish Education”
+description:
+  ja: フィンランド教育を研究に基づいて発展させる考え方を扱い、1970年代後半の教員養成改革以降に続く大学研究と教育実践の関係をたどる。あわせて、研究と実践を結びつけるためのモデルと、数学教育分野の具体例を示す。
+quotedDescription:
+  text:
+    ja: 'コース概要
+
+      Since the new teacher education reform in late 1970’s there has been close relationship between
+      university-based research and educational practices. In the beginning it mainly meant that it was
+      easy to carry out individual research studies in schools, teacher students in preservice teacher
+      education participated in research projects, and researchers were invited to run separate in-service
+      training sessions for teachers. In recent years there have been attempts to make the impact of research
+      more sustainable by developing more systematic, broad-scale, and long-lasting models for research-practice
+      collaboration. In the presentation I present some general principles of Finnish education, research
+      based development models and concrete example from our research in the field of mathematics education.'
+  source: https://ocw.kyoto-u.ac.jp/course/355/
+  note: 京都大学OCW 「コース概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: エルノ・レへティネン
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-06-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

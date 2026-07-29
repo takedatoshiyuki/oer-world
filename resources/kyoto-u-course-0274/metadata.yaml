@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0274
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/274/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第67回人環国際交流セミナー “How is a movie viewers’ understanding related to how they watch a movie?”
+description:
+  ja: 映画を見るときの視線の動きと、物語の理解との関係を扱う講義である。視聴者が映画をどのように見ているかと、その理解がどう結びつくかを、眼球運動の観点から考える。
+quotedDescription:
+  text:
+    ja: '概要
+
+      映画を見る時、私達は異なった見方と理解をしているのか、あるいは同じようにしているのか？視聴者の眼球運動と映画のストーリー理解の関係性についてお話し頂きました（講演は英語で行われました）。'
+  source: https://ocw.kyoto-u.ac.jp/course/274/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Lester Loschky（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Kansas State University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: USA; 京都大学 大学院人間・環境学研究科 客員教授  ）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-04-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

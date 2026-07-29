@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0283
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/283/
+type:
+- LearningResource
+- Course
+name:
+  ja: 湯川秀樹 特別公開資料
+description:
+  ja: 湯川秀樹のノーベル賞論文の手書き原稿と印刷版を公開し、あわせて朝永先生から湯川秀樹への自筆の手紙を収録する。さらに、九後太一による解説資料を含み、史料そのものとその説明を合わせて扱う。
+quotedDescription:
+  text:
+    ja: 画像出典：京都大学基礎物理学研究所湯川記念館史料室、映像提供「湯川秀樹　-その人-」：研究資源アーカイブ映像ステーション
+  source: https://ocw.kyoto-u.ac.jp/course/283/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 湯川秀樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 湯川先生のノーベル賞論文の手書き原稿'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/yukawa1stpaperdraft.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/283/
+- name: '講義資料: 湯川先生のノーベル賞論文の印刷版'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/yukawapaper.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/283/
+- name: '講義資料: 朝永先生から湯川先生に宛てられた自筆の手紙'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/tomonagaletter.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/283/
+- name: '講義資料: 九後太一 前京都大学基礎物理学研究所所長による解説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/taichirokugo_yukawa.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/283/
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

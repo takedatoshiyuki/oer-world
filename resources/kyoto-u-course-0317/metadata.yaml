@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0317
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/317/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2012 PCカンファレンス【セミナー4】京都大学オープンコースウェアを活用したくなるわけ
+description:
+  ja: 京都大学が提供する2012年8月開講の日本語講義である。京都大学オープンコースウェアを主題にしたセミナーとして公開されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 年光 昭夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 須田 淳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 錦織 宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松岡 久和
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉村 一良
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-08-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

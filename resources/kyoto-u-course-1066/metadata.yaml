@@ -1,0 +1,52 @@
+slug: kyoto-u-course-1066
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1066/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第15回MACSコロキウム
+description:
+  ja: 計算機に視覚を与えることを題材に、視覚という問題をどう数学的に定式化するかを扱う講義である。視覚が難しい理由を起点に、最近のブレークスルーと未解決の課題までを取り上げる。
+quotedDescription:
+  text:
+    ja: 講演者は計算機に視覚を与えたいが、それはいったい何をすることなのかがよく解らない。数学の一つの特徴は、何について何を言っているのかよくわかることである。そのため現実の問題を数学的にうまく定式化すると、本質を捉えて多くの問題を解決することができるが、最初の定式化が難しい。視覚には多くの一面的な定式化が存在するが、それさえ最近まで解けなかった。講演では視覚がなぜ難しいのかということから始めて、最近起こったブレークスルーと、それでも残された問題について紹介したい。
+  source: https://ocw.kyoto-u.ac.jp/course/1066/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 石川 博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-04-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

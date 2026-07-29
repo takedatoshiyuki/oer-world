@@ -1,0 +1,55 @@
+slug: hokudai-biomass-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/biomass-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 木質バイオマスの総合利用とその今日的意義（2013）
+description:
+  ja: 木質バイオマスについて、基本的な性質を整理しながら、エネルギー利用とマテリアル利用の両面からその利活用を扱う講義である。実際の利用状況に加えて、比較的最近の研究事例を示し、今後の可能性と課題まで踏み込む。
+quotedDescription:
+  text:
+    ja: 現在、太陽光や風力、水力、地熱などとならび、再生可能資源の一つとして位置づけられているバイオマス、特に木質バイオマスは、エネルギー利用とマテリアル利用の両側面から、化石代替資源として注目を集めています。本講演では、地球上に豊富に存在し、「カーボンニュートラル」とされる木質バイオマスの基本的な性質を整理し、その利活用の実態や比較的最近の研究事例をご紹介するとともに、今後の可能性と課題をわかりやすく概説します。
+  source: https://ocw.hokudai.ac.jp/lecture/biomass-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 幸田 圭一
+  affiliation:
+    name: 北海道大学大学院農学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

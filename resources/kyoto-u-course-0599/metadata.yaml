@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0599
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/599/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【研究成果】「タンパク質が核膜孔を通過する際の構造的原理の解明」
+description:
+  ja: 京都大学の生命科学研究科で2015年に開講された、吉村成弘担当の研究成果に関する講義である。タンパク質が核膜孔を通過する際の構造的原理を扱う。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉村 成弘
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0478
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/478/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回 京都大学 − 稲盛財団合同京都賞シンポジウム (KUIP Symposium)
+description:
+  ja: 京都大学と稲盛財団による京都賞シンポジウムの第4回に関する教材である。日本語と英語を使用し、京都大学が提供・担当する2017年の記録として掲載されている。
+quotedDescription:
+  text:
+    ja: 'ウェブページ
+
+      http://kuip.hq.kyoto-u.ac.jp/ja/archives/2017/about'
+  source: https://ocw.kyoto-u.ac.jp/course/478/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-07-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,99 @@
+slug: kyoto-u-course-0177
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/177/
+type:
+- LearningResource
+- Course
+name:
+  ja: 動物環境生理学特論
+description:
+  ja: 動物の環境生理をテーマに、地球温暖化や環境変動、環境汚染が動物の生理・生産機能に及ぼす影響を扱う講義である。公開されている講義資料では、高泌乳牛の周産期の代謝や疾病、ミネラル・水代謝、免疫、暑熱ストレス、繁殖機能などを取り上げている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      動物の環境生理に関連した授業を行う。
+
+      授業の紹介
+
+      動物の生理・生産機能に及ぼす地球温暖化、環境変動、環境汚染などの影響について、哺乳動物、反芻動物を中心に論述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/177/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久米 新一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 第1回 高泌乳牛の移行期の代謝特性'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第2回 高泌乳牛の周産期病の発生要因'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第3回 高泌乳牛の周産期病の予防（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第4回 高泌乳牛の周産期病の予防（２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第5回 高泌乳牛のミネラル代謝の改善'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第6回 動物と乳牛の水代謝'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第7回 動物の免疫機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第8回 乳牛と子牛の免疫機能の改善'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第9回 動物と植物ホルモン・環境ホルモンの関係'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第10回 高泌乳牛の代謝特性と暑熱ストレスの影響'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第11回 高温環境下における家畜の繁殖機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+- name: '講義資料: 第12回 地球温暖化と放射能汚染'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_doubutsukankyouseirigakutokuron_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/177/
+extensions:
+  faculty: 農学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

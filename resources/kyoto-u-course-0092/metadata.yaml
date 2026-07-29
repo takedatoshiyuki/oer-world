@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0092
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/92/
+type:
+- LearningResource
+- Course
+name:
+  ja: 理学療法評価学
+description:
+  ja: 理学療法の立場から、疾病や外傷に伴う身体的障害の評価を扱う講義である。評価の目的や時期、記録、情報収集に加え、痛みや感覚の検査、骨・筋の触察、関節軟骨の特殊な評価法までを学ぶ。あわせて、リハビリテーション医療の成立過程やICIDH、ICFなどの関連概念も取り上げる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本授業では，疾病・外傷等の結果生じた身体的障害を理学療法学の視点から定性的および定量的に検査および測定する方法等について学習する．
+
+      授業の紹介
+
+      学生は，我が国におけるリハビリテーション医療成立期の状況，IL運動とノーマライゼーション，ESCAP10年，新「障害者の10年」，ICIDH，ICF等を学ぶ．その上で，評価の目的と意義，評価の時期，記録，情報収集等について学習し，さらに具体的手法として，痛みの評価，感覚検査等の基本手技を習得する．また理学療法の評価実技において必要となる骨・筋を体表から触察する技術も併せて習得する．加えて関節軟骨についての特殊な評価法について学ぶ．'
+  source: https://ocw.kyoto-u.ac.jp/course/92/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 黒木 裕士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 玉木 彰
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 医学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第5回　特殊評価１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rigakuryouhouhyoukagaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/92/
+- name: '講義資料: 第6回　特殊評価2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rigakuryouhouhyoukagaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/92/
+- name: '講義資料: 第7回　特殊評価3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_rigakuryouhouhyoukagaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/92/
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

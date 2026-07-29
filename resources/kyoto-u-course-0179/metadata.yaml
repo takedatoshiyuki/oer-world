@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0179
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/179/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報と社会
+description:
+  ja: 情報技術と社会の接点をテーマに、情報コンテンツの共有、ネットワークによるチーム・マーケット・コミュニティの形成、さらに情報メディアが社会変革に与える影響までを3部構成で扱う。公開教材には第1回から第4回までの講義資料とレポート課題が含まれる。
+quotedDescription:
+  text:
+    ja: 「情報と社会」は、高等学校の教職免許「情報」を得るために必要な科目である。本講義では、情報技術と社会接点について解説する。講義は3部に分かれてい る。第１部では情報コンテンツ（データ、ＷＥＢ情報、映像など）の社会的共有を、第２部では情報ネットワークのコミュニケーションが可能とする電子的な組
+      織（チーム、マーケット、コミュニティ）の形成を講義する。第３部では第１部、第２部を踏まえて、情報メディアが今後の社会変革に与える影響を解説する。
+  source: https://ocw.kyoto-u.ac.jp/course/179/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 美濃 導彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 社会科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 情報メディアの技術史'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_jouhoutoshakai_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/179/
+- name: '講義資料: 第2回 情報メディアとコミュニケーション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_jouhoutoshakai_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/179/
+- name: '講義資料: 第3回 情報メディアによる教育の変革'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_jouhoutoshakai_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/179/
+- name: '講義資料: 第4回 情報メディアによる生活支援'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_jouhoutoshakai_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/179/
+- name: '講義資料: レポート課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2006_jouhoutoshakai_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/179/
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

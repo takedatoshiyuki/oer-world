@@ -1,0 +1,47 @@
+slug: tsukuba-ds-tsunami-prediction
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/tsunami_prediction/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 データ駆動型社会における津波高即時予測
+description:
+  ja: 津波高予測を題材に、データサイエンスと高度計測機器、大規模シミュレーションの関係を扱う講義である。Society5.0やデータ駆動型社会に向けて、これらの要素がどのように結びつくかを学ぶ。
+quotedDescription:
+  text:
+    ja: 昨今、IOTで全ての人とものが繋がり、新たな価値を生み出すSociety5.0によるデータ駆動型社会に向けた取り組みが様々な分野で起きつつあります。本講義では、身近な話題として、津波高予測を取り上げます。この題材を通して、高度計測機器、大規模シミュ−レーションにデータサイエンスが融合することで、どうやってデータ駆動型社会実現が可能になるのかを学んでもらえればと思います。
+  source: https://ocw.tsukuba.ac.jp/data-science/tsunami_prediction/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 五十嵐 康彦
+  affiliation:
+    name: システム情報系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2020-09-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

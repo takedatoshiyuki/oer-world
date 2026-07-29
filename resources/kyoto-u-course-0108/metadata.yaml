@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0108
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/108/
+type:
+- LearningResource
+- Course
+name:
+  ja: 応用バイオインフォマティクス
+description:
+  ja: バイオインフォマティクスを基礎に、薬学で必要となるケモインフォマティクスやケミカルゲノミクスを扱う講義である。端末を用いた演習形式で、統計計算プログラミングやデータベース利用法を実習し、バイオ情報とケミカル情報を統合して創薬に生かす考え方を学ぶ。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      バイオインフォマティクスを基礎として、薬学にとって必要な情報科学であるケモインフォマティクスとその融合であるケミカルゲノミクスについて学ぶ。授業は端末を用いた演習形式であり、統計計算プログラミングやデータベース利用法について実習する。
+
+      授業の紹介
+
+      バイオインフォマティクスは、膨大なゲノム情報を処理するための情報技術として、ヒトゲノム計画とともに発展してきた。ヒトゲノムが解読された今日では、莫大なゲノム情報から創薬への手がかりを発見すること、すなわち「ゲノム創薬」に大きな期待が寄せられている。ゲノム創薬は、ゲノム情報を出発点とし創薬の標的遺伝子探索からリード化合物探索を経て臨床段階に至る広範で高度に専門化した複合領域であり、その実践にはこれらの複合領域を結ぶ総合的なインフォマティクス基盤（創薬インフォマティクス）が必須となる。すなわち単なるバイオインフォマティクスのみならず、バイオ情報を扱うバイオインフォマティクスとケミカル情報を扱うケモインフォマティクスの独立に発展してきた２つの情報科学分野の統合を図り、バイオ情報とケミカル情報の両者を同時に統合的にマイニングする新しい情報技術が必要とされている。本授業では、バイオインフォマティクスの創薬応用を意識した創薬インフォマティクスについて学ぶ。'
+  source: https://ocw.kyoto-u.ac.jp/course/108/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 奥野 恭史
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 薬学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ouyoubioinfomatics_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/108/
+- name: '講義資料: 第2回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ouyoubioinfomatics_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/108/
+- name: '講義資料: 第3回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ouyoubioinfomatics_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/108/
+- name: '講義資料: 第4回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ouyoubioinfomatics_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/108/
+- name: '講義資料: 第5回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_ouyoubioinfomatics_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/108/
+extensions:
+  faculty: 薬学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

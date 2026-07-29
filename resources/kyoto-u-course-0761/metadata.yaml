@@ -1,0 +1,123 @@
+slug: kyoto-u-course-0761
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/761/
+type:
+- LearningResource
+- Course
+name:
+  ja: 応用動物科学演習Ⅰ
+description:
+  ja: 京都大学農学部の通年科目「応用動物科学演習Ⅰ」で用いられた講義資料を収録する。第1回では授業の進め方とプレゼンテーションの説明を扱い、第2回以降は家畜、哺乳類、鳥類、植物由来成分などに関する英語論文を題材にした資料が並ぶ。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山田 雅保
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 舟場 正幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 熊谷 元
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 谷口 幸雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 杉本 実紀
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 授業の進め方、プレゼンテーションについての説明'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第2回 Genetic evaluation of Angus cattle for carcass marbling using ultrasound and genomic
+    indicators'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第3回 Identification of inducible brown adipocyte progenitors residing in skeletal muscle
+    and white fat'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第4回 Bioavailability and antioxidant capacity of plant extracts rich in polyphenols, given
+    as a single acute dose, '
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第5回 Soluble growth factors stimulate spermatogonial stem cell divisions that maintain a
+    stem cell pool and produce'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第6回 The carbon footprint of dairy production systems through partial life cycle assessment'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第7回 The relationship between oxygen consumption and body acceleration in a range of species'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第8回 Importin a7 Is Essential for Zygotic Genome Activation and Early Mouse Development'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第9回 The dominantly expressed class I molecule of the chicken MHC is explained by coevolution
+    with the polymorphic '
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第10回 The emergence of cold-induced brown adipocytes in mouse white fat depots is determined
+    predominantly by white'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第11回 Antioxidant and free radical-scavenging activities of seeds and agri-wastes of some
+    varieties of soybean (Gly'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第12回 Multipotential ability of primitive germ cells from neonatal pig testis cultured in
+    vitro'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第13回 Effect of dietary ratio of Na:K on feed intake, milk production, and mineral metabolism
+    in mid-lactation dair'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第14回 Use of overall dynamic body acceleration for estimating energy expenditure in cormorants'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+- name: '講義資料: 第15回 Conditional knockdown of Nanog induces apoptotic cell death in mouse migrating primordial
+    germ cells'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-1_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/761/
+extensions:
+  faculty: 農学部
+  term: 通年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

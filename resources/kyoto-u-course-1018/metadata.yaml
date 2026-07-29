@@ -1,0 +1,82 @@
+slug: kyoto-u-course-1018
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1018/
+type:
+- LearningResource
+- Course
+name:
+  ja: 次世代医療を語るー再生医療の実用化に向けて 2016
+description:
+  ja: この講義は、研究横断型教育プログラムとして再生医療の実用化をテーマに扱う。人間健康科学系専攻に関連し、再生医療支援人材育成コンソーシアム構築（AMED）に関する記載がある。
+quotedDescription:
+  text:
+    ja: '研究横断型教育プログラム「次世代医療を語るー再生医療の実用化に向けてー」（人間健康科学系専攻）
+
+      再生医療支援人材育成コンソーシアム構築（AMED）'
+  source: https://ocw.kyoto-u.ac.jp/course/1018/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中川 誠人
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 浅香 勲
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 池谷 真
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 雅哉
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山下 潤
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 櫻井 英俊
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 八代 嘉美
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 伊藤 達也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 医学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

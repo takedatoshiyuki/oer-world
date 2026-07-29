@@ -1,0 +1,69 @@
+slug: kyoto-u-course-0481
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/481/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部オープンセミナー「ひと・社会・工学 －工学のいまを知る－」, 2017
+description:
+  ja: 京都大学工学部が2017年に開講したオープンセミナーで、鉄骨造建物の耐震に関する研究と、スピンを制御するスピントロニクスを扱う2本の講義からなる。前半では超巨大地震に備える建物設計の取組を、後半ではスピン流を含むスピン操作の考え方を紹介する。
+quotedDescription:
+  text:
+    ja: '1「超巨大地震に備える—鉄骨造建物の最新の取組—」
+
+      聲高 裕治（建築学科准教授）
+
+      我が国で初めて鉄骨造の建物が造られてから100年あまりが経過しました。度重なる大地震のたびに設計法が見直され、より安全・安心な建物を造ることができるように、絶え間ない研究が続けられています。本講では、近年発生が危惧されている超巨大地震に対する最新の取組について紹介します。
+
+       
+
+       
+
+      2「スピンを操る～スピントロニクス事始め～」
+
+      白石 誠司（電気電子工学科教授）
+
+      ナノテクノロジーの発展によって、人類は電子の持つスピンという機能を自由に操作できるようになり、「スピントロニクス」という新しい物理学の領域が創られました。本講では「スピン流」という新しい概念にも触れながらスピンを操る面白さを紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/481/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 聲高 裕治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 白石 誠司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-08-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

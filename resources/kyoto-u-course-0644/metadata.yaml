@@ -1,0 +1,79 @@
+slug: kyoto-u-course-0644
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/644/
+type:
+- LearningResource
+- Course
+name:
+  ja: '[ポケット・ゼミ] Physical Computing 入門, 2013'
+description:
+  ja: Arduinoという小型のマイコンボードに、センサやアクチュエータを接続してプログラムで動作させる方法を扱う。あわせて、作品のアイデアを出し、実際に形にする流れを通してPhysical Computingを学ぶ。公開教材には、Arduino/Suwanoをはじめよう＠KYOTO-Uの資料が複数含まれる。
+quotedDescription:
+  text:
+    ja: '授業の概要・目的
+
+      小さなコンピュータ（組み込み用マイクロプロセッサ）とその開発環境が安価になり、これに光や接触など外界の状況を感知するセンサーとモーターやランプなど外界に働きかけるアクチュエータを接続して「能動的に動作するもの（作品）」についてのさまざまなアイデアを形にすることが
+      Physical Computing として注目されています。本授業では実際に Arduino と呼ばれる小型のマイコンボードにさまざまなセンサやアクチュエータを接続し、プログラムで動作させることを学習するとともに、自ら作品のアイデアを出し、これを実際に作ってみることを通して
+      Physical Computing について体験的に学びます。'
+  source: https://ocw.kyoto-u.ac.jp/course/644/
+  note: 京都大学OCW 「授業の概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多　一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 資料 Arduino/Suwano をはじめよう＠KYOTO-U No.1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/07/2013_Physical-Computing_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/644/
+- name: '講義資料: 資料 Arduino/Suwano をはじめよう＠KYOTO-U No.2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/07/2013_Physical-Computing_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/644/
+- name: '講義資料: 資料 Arduino/Suwano をはじめよう＠KYOTO-U No.3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/07/2013_Physical-Computing_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/644/
+- name: '講義資料: 資料 Arduino/Suwano をはじめよう＠KYOTO-U No.3-2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/07/2013_Physical-Computing_3-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/644/
+- name: '講義資料: 資料 Arduino/Suwano をはじめよう＠KYOTO-U No.4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/07/2013_Physical-Computing_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/644/
+- name: '講義資料: 資料 Arduino/Suwano をはじめよう＠KYOTO-U No.5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/07/2013_Physical-Computing_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/644/
+- name: '講義資料: 資料 Arduino/Suwano をはじめよう＠KYOTO-U No.6'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/07/2013_Physical-Computing_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/644/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

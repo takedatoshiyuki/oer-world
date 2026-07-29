@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0743
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/743/
+type:
+- LearningResource
+- Course
+name:
+  ja: 哲学基礎文化学ゼミナールⅡ
+description:
+  ja: この教材は、哲学基礎文化学ゼミナールⅡの講義資料をまとめたもので、京都大学文学部で2009年に公開された。公開ファイルには、ヒュームとスミスの倫理思想を扱う「道徳感情論入門」と、カリー・ハワード同型対応を扱う資料が含まれる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 林 誓雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大西 琢朗
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 文学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　道徳感情論入門－Ｄ．ヒュームとＡ．スミスの倫理思想 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukisobunkaseminar-2_01-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/743/
+- name: '講義資料: 第1回　道徳感情論入門－Ｄ．ヒュームとＡ．スミスの倫理思想 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukisobunkaseminar-2_01-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/743/
+- name: '講義資料: 第2回　道徳感情論入門－Ｄ．ヒュームとＡ．スミスの倫理思想 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukisobunkaseminar-2_02-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/743/
+- name: '講義資料: 第2回　道徳感情論入門－Ｄ．ヒュームとＡ．スミスの倫理思想 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukisobunkaseminar-2_02-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/743/
+- name: '講義資料: 第5回　カリー・ハワード同型対応入門'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukisobunkaseminar-2_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/743/
+- name: '講義資料: 第6回　カリー・ハワード同型対応入門'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_tetsugakukisobunkaseminar-2_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/743/
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

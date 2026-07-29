@@ -1,0 +1,86 @@
+slug: hokudai-faculty12lishseminar-campustour-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 英語演習 初級：All-English Training for Giving a Campus Tour (2012)
+description:
+  ja: 北海道大学で2012年度に開講された英語演習で、キャンパスツアーを英語で案内するための内容を扱う。キャンパスや市の説明のしかたに加え、札幌で英語を使って人と接する場面にも触れる。公開教材は8件のスライド資料である。
+quotedDescription:
+  text:
+    ja: 'I want you to be friendly，outgoing，personable，useful，and helpful. You can be all of these things
+      and speak English in Sapporo at the same time. I want to help you know our campus and city，how to
+      explain them，and -- above all -- to meet people who would appreciate your help.
+
+      This course is easy，normal，and hard. The easy part is the English language. The normal part is finding
+      somebody who needs help. The hard part is offering help to them.'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 河合 剛
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121003_wed1_week1.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121010_wed1_week2.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121017_wed1_week3.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121024_wed1_week4.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121031_wed1_week5.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121107_wed1_week6.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121114_wed1_week7.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/121121_wed1_week8.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/faculty12lishseminar-campustour-2012
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

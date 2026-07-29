@@ -1,0 +1,84 @@
+slug: kyoto-u-course-1114
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1114/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第17回 京都大学附置研究所・センターシンポジウム 京都大学松山講演会  京都からの挑戦 －地球社会の調和ある共存に向けて－「パラダイムシフト －新しい世界を創る京大」
+description:
+  ja: 京都大学が提供する、第17回京都大学附置研究所・センターシンポジウム／京都大学松山講演会の講義である。題名からは、「京都からの挑戦」や「パラダイムシフト」を主題として、新しい世界を創ることに関わる内容を扱うことが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 宮内 雄平
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小坂田 ゆかり
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 緒方 広明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 舘野 隆之輔
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 内田 由紀子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 清水 延彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 湊 長博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 時任 宣博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-03-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+- natural_sciences_math
+- agriculture
+- ict
+keywords:
+- 経済学・金融
+- 教育学
+- エネルギー・地球科学
+- 農学
+- データサイエンス
+- 環境学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,46 @@
+slug: utokyo-series-ndnesb9vhzzb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=NDNeSb9VhZzB
+type:
+- LearningResource
+- Course
+name:
+  ja: YouTubeはじめました！
+description:
+  ja: 東京大学が提供し、2016年に開講された日本語の講義である。講義名は「YouTubeはじめました！」で、内容の詳細は与えられた情報からは確認できない。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- ict
+keywords:
+- AIによる要約がエラー終了しました。映像に音声が含まれていない
+- または音声が不鮮明だった可能性があります。
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

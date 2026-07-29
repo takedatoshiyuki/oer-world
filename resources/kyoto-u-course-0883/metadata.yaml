@@ -1,0 +1,79 @@
+slug: kyoto-u-course-0883
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/883/
+type:
+- LearningResource
+- Course
+name:
+  ja: 琳派400年記念イベント 琳派の最新映像表現：TOSA RIMPA 裸眼で見えない自然界の美（液体窒素を使った芸術に挑む）
+description:
+  ja: 琳派を手がかりに、先端技術で自然界に隠れた形や動きを映像として捉える制作を扱う講義である。ハイスピードカメラによる撮影や液体窒素の実演を通じて、作品がどのように作られているかを示す。関連する作品として、京都国立博物館の外壁への投影作品「21世紀の風神雷神」や「サウンドオブいけばな」が挙げられる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      土佐尚子氏が琳派の最新映像表現として、先端技術を使って自然界に隠された美しい形と動きを発見しました。それらの映像は、京都府琳派４００年記念事業プロジェクションマッピング作品として今年３月に発表した京都国立博物館の外壁に投影した「21世紀の風神雷神」を発表し、約２万人の観客を集めました。
+
+      実はこの映像はCGではなく、裸眼では見えない自然の美をハイスピードカメラで裸眼では見えない自然の美をハイスピードカメラで捉えたものです。この制作の裏側の秘密を話すだけでなく、コラボレーションをした京都大学低温物質科学研究センター前所長の前川覚京大名誉教授を迎え、液体窒素の実演も交えて公開するエキサイティングなイベントです。
+
+      本作品は、日本文化と先端技術を融合し新しい芸術を創出する事を狙っています。豪華でデザイン性に優れた琳派を私淑し、絵の具・オイルなどの粘性液体に音の振動を与えることによって、各種の色が融合しつつ飛び上がる様を2000フレーム／秒の高速度カメラで撮影する事により実現しました。ディジタル時代の琳派の最新映像表現を創出しています。
+
+      この琳派の最新映像表現は、シンガポールのアートサイエンスミュージアムで「サウンドオブいけばな」という映像作品として発表され、2014年グッドデザイン賞を受賞しました。
+
+      また英国ロンドン大学ゴールド スミスカレッジ企画のクリエイティブマシーン展、及びシンガポールのIkkan Art Gallryの企画で個展として発表した作品「Space Flower」など、言語を超えて文化の壁を越えて人々を魅了した作品の秘密をお話します。
+
+      作品詳細は、naokotosa.comを参照ください。'
+  source: https://ocw.kyoto-u.ac.jp/course/883/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 土佐 尚子（情報環境機構
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高等教育研究開発推進センター教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: アーティスト）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 前川 覚
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: アキーラサンライズ
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 高等教育研究開発推進センター, その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

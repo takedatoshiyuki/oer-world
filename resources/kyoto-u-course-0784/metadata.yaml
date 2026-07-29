@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0784
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/784/
+type:
+- LearningResource
+- Course
+name:
+  ja: CiRA一般の方対象シンポジウム 2011年「iPS細胞研究科学者たちの挑戦」
+description:
+  ja: 2011年に京都大学iPS細胞研究所が開講した一般向けシンポジウムで、山中伸弥、江藤浩之、高橋政代が担当する。出典文では、それぞれの所属としてiPS細胞研究所所長、iPS細胞研究所、理化学研究所発生・再生科学総合研究センターが示されている。
+quotedDescription:
+  text:
+    ja: '山中 伸弥 教授（iPS細胞研究所所長)
+
+      江藤 浩之 教授（iPS細胞研究所)
+
+      高橋 政代 氏 (理化学研究所発生・再生科学総合研究センター)'
+  source: https://ocw.kyoto-u.ac.jp/course/784/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山中 伸弥
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 江藤 浩之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高橋 政代
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iPS細胞研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

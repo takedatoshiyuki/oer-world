@@ -1,0 +1,49 @@
+slug: kyoto-u-course-0136
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/136/
+type:
+- LearningResource
+- Course
+name:
+  ja: Kyoto and UNESCO – a partnership for learning and cultural heritage
+description:
+  ja: 京都大学が2012年に開講した講義で、総合生存学館（思修館）に属する。公開されている教材は、京都大学総長・松本紘による開会挨拶と、ユネスコ事務局長イリナ・ボコヴァによる講義の2件で、英語で提供される。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: Opening Address - Hiroshi Matsumoto (President, Kyoto University)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_kyotoandunesco-apartnershipforlearningandculturalheritage_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/136/
+- name: '講義資料: Lecture - Irina Bokova (Director-General of UNESCO)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2012_kyotoandunesco-apartnershipforlearningandculturalheritage_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/136/
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

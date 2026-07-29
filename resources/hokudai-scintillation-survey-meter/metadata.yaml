@@ -1,0 +1,70 @@
+slug: hokudai-scintillation-survey-meter
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/scintillation-survey-meter
+type:
+- LearningResource
+- Course
+name:
+  ja: NaIシンチレーション式サーベイメータの概略・使用方法について
+description:
+  ja: γ（X）線の検出に使うNaIシンチレーション式サーベイメータについて、基礎知識から使用方法、使用時の注意点までを映像で扱う教材である。用途や検出器の特徴に加え、汚染検査への使い方、時定数、検出部の方向依存性やエネルギー依存性も取り上げる。
+quotedDescription:
+  text:
+    ja: '教材制作：阿保 憲史 技術職員（北海道大学アイソトープ総合センター）
+
+      本映像教材では、γ（X）線の検出に使用されるNaIシンチレーション式サーベイメータに関する基礎知識、使用方法、ならびに諸注意について学ぶことができます。
+
+      １．使用用途等について
+
+      ２．検出器の特徴
+
+      ３．汚染検査への使用に関する諸注意
+
+      ４．測定器の使用方法
+
+      ５．時定数の解説
+
+      ６．測定器の実際の使い方
+
+      ７．検出可能な放射線エネルギー
+
+      ８．検出部の方向依存性
+
+      ９．検出部のエネルギー依存性'
+  source: https://ocw.hokudai.ac.jp/lecture/scintillation-survey-meter
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 放射線測定
+- NaIシンチレーション式サーベイメータ
+- γ線
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

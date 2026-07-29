@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0906
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/906/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第55回人環国際交流セミナー「自然のいたずら」マッシモ・レオーネ（Massimo Leone）先生, 2015
+description:
+  ja: 日本の水石とイタリアのパエジナ石を手がかりに、視覚の中で人が意味ある形を認識することと視覚文化との関係を考える講義である。説明文では、川端康成のスピーチやパブロ・ネルーダの詩に触れながら、自然の模様や石の見え方をめぐる比較が行われる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      マッシモ・レオーネ先生のご専門は記号学。フリブール大学で美術史の博士号を、パリ高等研究実習院で宗教学の博士号を取得した後、フランス国立科学研究センターやスペイン高等学術研究院をはじめとする世界各地の研究機関に務め、現在はトリノ大学哲学部で教鞭を取っておられます。近著に「Signatim—文化における記号論の側面」(2015)、「デジタルな精神性—非物質化時代の宗教的感覚」(2014)等。
+
+      1968年12月12日、川端康成はノーベル文学賞受賞に際して、「美しい日本の私—その序説」と題したスピーチを行ないました。川端は日本の美における本質的な要素を挙げる中で枯山水に言及し、「その『石組み』によって、そこにない山や川、また大海の波の打ち寄せるさままでを現はします」と述べています。
+
+      その17年前にあたる1915年、もう一人のノーベル文学賞受賞者、チリの詩人パブロ・ネルーダは、フィレンツェを訪れ、「パエジナ石（風景石）」と呼ばれる大理石の一種に感銘を受けました。ほとんどトスカーナ地方でしか採掘されないこの石は、その天然の模様の中に都市や風景が描かれているように見えるのです。ネルーダはこの石について「街」という詩を書きました。
+
+      生理学上、人は見るものの中に積極的に意味のある形を認識するようになっていますが、いっぽうでこの傾向は、視覚文化にも強く影響されています。認識の生理学と視覚文化のあいだの複雑な均衡を、日本の水石の美学とイタリアのパエジナ石の美学との比較を通してお話いただきました。（ご講演は英語で行なわれました）'
+  source: https://ocw.kyoto-u.ac.jp/course/906/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-12-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0445
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/445/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学防災研究所フォーラム（21世紀COEプログラム「災害学理の究明と防災学の構築」）,2003
+description:
+  ja: 京都大学防災研究所が、21世紀COEプログラム「災害学理の究明と防災学の構築」に関連して実施した連続公開講座の記録である。京都と東京で、防災研究所の関係者による講演を公開する形で行われた内容を扱う。
+quotedDescription:
+  text:
+    ja: '防災研究所では、21世紀COEプログラム「災害学理の究明と防災学の構築」において、研究成果をできるだけ多くの人たちに知っていただくことを目的に、京都と東京で防災研究所の関係者による連続公開講座を開催しました。
+
+      京都大学防災研究所フォーラム（2004年）の講演映像
+
+      https://ocw.kyoto-u.ac.jp/course/488/
+
+      京都大学防災研究所フォーラム（2005年）の講演映像
+
+      https://ocw.kyoto-u.ac.jp/course/537/'
+  source: https://ocw.kyoto-u.ac.jp/course/445/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2003-01-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

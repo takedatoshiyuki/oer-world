@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0791
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/791/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義『火の山の脅威』
+description:
+  ja: 日本の活火山の定義と分布を踏まえ、噴火の規模の幅や災害へのつながりを扱う。さらに、火山災害が複合化・長期化しやすいことを前提に、観測に基づく事前避難の必要性まで述べる。
+quotedDescription:
+  text:
+    ja: 日本には110の活火山があります。活火山とは1万年以内に噴火が発生したことのある火山で、今後も噴火発生の可能性があります。火山噴火は火口周辺に噴出物がとどまるものから日本列島を火山灰で覆いつくす巨大なものまであり、噴火の発生は必ず災害に結び付きます。火山災害は複合災害であること、長期化しやすいことから対策が困難です。火山観測に基づく噴火発生前の避難は必須の課題です。
+  source: https://ocw.kyoto-u.ac.jp/course/791/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 井口 正人
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-11-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 安全・衛生
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

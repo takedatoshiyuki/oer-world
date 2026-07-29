@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0292
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/292/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成22年度 学部・大学院入学式 総長式辞
+description:
+  ja: 京都大学の松本紘による、平成22年度の学部・大学院入学式での総長式辞を扱う。開講日は2010-04-07で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松本紘
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-04-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

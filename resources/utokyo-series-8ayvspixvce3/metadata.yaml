@@ -1,0 +1,72 @@
+slug: utokyo-series-8ayvspixvce3
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=8aYvSPiXvce3
+type:
+- LearningResource
+- Course
+name:
+  ja: 子どものいのちと未来を紡ぐDX ～途上国における“誰も取り残さない”ビジネスとは？
+description:
+  ja: 途上国の保健医療・教育分野で、デジタル技術を用いた新しい取り組みをどのように事業として形にするかを扱う講義である。日本企業と支援組織の登壇者が、持続可能な事業化に向けた課題と取り組みを語る。
+quotedDescription:
+  text:
+    ja: '「誰も取り残さないビジネス」は可能なのか？途上国の保健医療・教育分野でデジタル技術を駆使した新しいソリューションやビジネスモデルの構築に取り組む日本企業と、そうした取り組みを支える組織から登壇者が、持続可能な事業化に向けた熱意と課題を本音で語ります。熱意をもって第一線で取り組まれている方とこの問題について一緒に考えましょう。
+
+      ※撮影・編集　東京大学放送研究会
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=8aYvSPiXvce3
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 長谷川 裕
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 葉田 甲太
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安島 真澄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山脇 智志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長野 悠志
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

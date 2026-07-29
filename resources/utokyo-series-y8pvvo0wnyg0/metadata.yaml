@@ -1,0 +1,89 @@
+slug: utokyo-series-y8pvvo0wnyg0
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Y8pVvo0wnyG0
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和5年度「東京大学安全の日」講演会
+description:
+  ja: 東京大学が、7月4日の「東京大学安全の日」に合わせて毎年実施している講演会である。2023年度の第18回では、「現代社会に内在するリスクへの対応」をテーマに扱い、同時に東京大学環境安全衛生スローガンコンテストの表彰式も行う。
+quotedDescription:
+  text:
+    ja: '本学では、平成17年に構成員が潜水作業中に亡くなる事故が発生した7月4日を「東京大学安全の日」と定め、安全の日を迎えるこの時期に、事故の記憶を風化させることなく、教育研究活動における安全衛生の向上、事故災害の発生防止、安全意識の向上及び安全文化の定着を図ることを目的として、毎年「東京大学安全の日」講演会を実施しています。
+
+      第18回となる本年度の講演会は、「現代社会に内在するリスクへの対応」をテーマとして7月4日（火）に開催いたしました。
+
+      ※同時開催：第7回東京大学環境安全衛生スローガンコンテスト表彰式'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Y8pVvo0wnyG0
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 齊藤 延人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岸 利治
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 三宅 淳巳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安田 朋弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 江間 有沙
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 佐夜香
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- ict
+keywords:
+- エネルギー・資源
+- 災害・防災
+- AI・情報
+- 安全工学
+- リスク管理
+- AI
+- AI倫理
+- 防災
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

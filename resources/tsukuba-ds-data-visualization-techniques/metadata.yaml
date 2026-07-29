@@ -1,0 +1,47 @@
+slug: tsukuba-ds-data-visualization-techniques
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/data-visualization-techniques/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 だめな事例から学ぶデータ可視化のテクニック
+description:
+  ja: データ可視化を題材に、視覚特性、対象データ、表現手法の関係を取り上げる講義である。ダメな事例を通して、それらの関係を意識することの重要性を説明する。
+quotedDescription:
+  text:
+    ja: データ可視化とは、データを人に見せるために表現を変えることです。データの視覚的表現を人に見せることで、データの理解、発見、洞察を助けることが可能になります。しかしながら、そのような目的に役立たないダメな可視化を見掛けることも多々あります。この講義では、ダメな事例を通して、人間の視覚特性、対象データ、視覚的な表現手法の関係を紹介し、それらの関係を意識することの重要性を説明します。
+  source: https://ocw.tsukuba.ac.jp/data-science/data-visualization-techniques/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 三末 和男
+  affiliation:
+    name: 筑波大学システム情報系情報工学域
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2023-09-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

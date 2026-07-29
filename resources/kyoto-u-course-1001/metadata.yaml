@@ -1,0 +1,49 @@
+slug: kyoto-u-course-1001
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1001/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「エンジンの研究40年…」
+description:
+  ja: 京都大学エネルギー科学研究科で2021年3月25日に開催された、石山拓二教授の最終講義を収録する。エネルギー変換科学専攻に所属する教授の講義として提供されている。
+quotedDescription:
+  text:
+    ja: 令和３年３月２５日に開催された大学院エネルギー科学研究科エネルギー変換科学専攻石山拓二教授の最終講義
+  source: https://ocw.kyoto-u.ac.jp/course/1001/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 石山 拓二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: エネルギー科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

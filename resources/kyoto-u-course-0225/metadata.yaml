@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0225
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/225/
+type:
+- LearningResource
+- Course
+name:
+  ja: 英語による科学論文の書き方 “Scientific Writing in English” Learn how to write papers and presentations
+description:
+  ja: 英語で科学論文を書く方法と、プレゼンテーションの要点を扱う。対象は、英語を母語としない理科系の学生と研究者で、日本語字幕が付く。内容は、マルコム・フィッツアールの著書をもとにしている。
+quotedDescription:
+  text:
+    ja: 英語による科学論文の書き方ならびにプレゼンテーションのエッセンスを解説する。対象は、日本人を含む英語を母国語としない理科系の学生と研究者である（日本語字幕あり）。本コースの内容は、マルコム・フィッツアール著「マルコム先生の書いて身につく科学英語ライティング（Professor
+      Malcolm’s Guide to Scientific English Writing）」（京都大学学術出版会、2015年発行）に基づいている。より詳しく知りたい方は是非このワークブックで学んで欲しい。なおマルコム先生は英国人なので、単語のスペルが米語と異なっている箇所があることを了承されたい。
+  source: https://ocw.kyoto-u.ac.jp/course/225/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: マルコム・フィッツアール（カナダキャピラノ大学名誉教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学農学研究科元客員教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

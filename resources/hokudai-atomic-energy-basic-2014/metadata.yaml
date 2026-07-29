@@ -1,0 +1,91 @@
+slug: hokudai-atomic-energy-basic-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/atomic-energy-basic-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別プログラム オープン教材の作成・活用による実践的原子力バックエンド教育 「基礎教育コース・講義」 （2014）
+description:
+  ja: 原子力バックエンド分野を扱う基礎教育用の講義で、関連する多様な専門分野の概論講義と基礎実験を含む。基礎教育の内容をオープン教材として作成し、公開することを目指す。
+quotedDescription:
+  text:
+    ja: '国際原子力人材育成イニシアティブ事業
+
+      機関横断的な人材育成事業
+
+      本事業では、原子力バックエンド分野において、基礎教育、実践的な専門教育、国際教育の３つを行うことで、原子力バックエンド分野の研究開発を国際的にリードする人材を教育・育成を図ることを目的とします。
+
+      基礎教育では、原子力バックエンド分野に関心を持つ学生が、原子力バックエンド分野がカバーしなければならない多様な専門分野に関する概論講義および基礎実験を受講できるコースです。
+
+      また、基礎教育の内容をオープン教材として作成、公開することにより、一般市民の原子力および原子力バックエンド分野への理解を深める教材とすることを目指します。
+
+      国際原子力人材育成イニシアティブ事業'
+  source: https://ocw.hokudai.ac.jp/lecture/atomic-energy-basic-2014
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 千葉 豪
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 藤吉 亮子
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 加美山 隆
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 山盛 徹
+  affiliation:
+    name: 北海道大学大学院獣医学研究科
+- type: Person
+  name: 柳原 敏
+  affiliation:
+    name: 福井大学附属国際原子力工学研究所
+- type: Person
+  name: 小崎 完
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 井口 幸弘
+  affiliation:
+    name: 日本原子力研究開発機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 大学院横断型プログラム
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

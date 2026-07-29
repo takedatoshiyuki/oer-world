@@ -1,0 +1,101 @@
+slug: utokyo-series-0ailn9ksio9h
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=0aILn9Ksio9H
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回農学部オンライン公開セミナー
+description:
+  ja: 東京大学農学部・農学生命科学研究科が開く公開セミナーで、研究科のOB・OGが登壇する。福島第一原子力発電所事故後の福島復興支援に関わる教育研究の取組みを扱い、その背景とこれまでの発信について触れる。
+quotedDescription:
+  text:
+    ja: '教育活動の部
+
+      本研究科を卒業したOB,OGが登壇しました 
+
+      登壇者
+
+      田野井慶太朗（概要紹介）、尾崎修二、小林里緒奈 、辰野宇大 、森美穂子、鈴木華枝
+
+      農学生命科学研究科では、福島第一原子力発電所の事故後、福島復興支援に係る教育研究の取組みを行ってきており、その成果は、15回の研究報告会の開催、3冊の英文書籍の刊行等により発信してきました。2020年度末には福島第一原子力発電所事故から10年を迎えることから、プ…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=0aILn9Ksio9H
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田野井 慶太朗
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 尾崎 修二
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小林 里緒奈
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 辰野 宇大
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 森 美穂子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 華枝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中西 友子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 二瓶 直登
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- agriculture
+- engineering
+keywords:
+- 環境
+- 食料・農業・水産業
+- 災害・防災
+- 原発事故
+- 復興
+- 農業再生
+- 森林再生
+- 震災復興
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 農学部・農学生命科学研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

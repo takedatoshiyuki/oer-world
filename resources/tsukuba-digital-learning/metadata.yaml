@@ -1,0 +1,45 @@
+slug: tsukuba-digital-learning
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/knowledge/digital_learning/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「体験型デジタル教材を活用した授業の開発と評価」
+description:
+  ja: 高校生を対象に、体験型デジタル教材を用いた授業実践を通して、その効果を検討する研究発表である。教材の活用がどのように授業設計と評価につながるかを扱う。
+quotedDescription:
+  text:
+    ja: 八巻龍さん（筑波大学 大学院 図書館情報メディア研究科 博士前期課程 図書館情報エリア支援室 技術補佐員）による「体験型デジタル教材を活用した授業の開発と評価」の研究発表。体験型デジタル教材は、視覚的な分かりやすさ、体験が難しい現象の疑似体験ができるなどのメリットがあるが、教育現場においてはまだ十分に活用されていない。高校生を対象に、体験型デジタル教材を使用した授業実践を行い、どのような効果が出るかを検討している。
+  source: https://ocw.tsukuba.ac.jp/course/knowledge/digital_learning/
+  note: TSUKUBA OCW 「授業における体験型デジタル教材の効果的な使い方は何か」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Organization
+  name: 筑波大学
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 知識情報システム
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

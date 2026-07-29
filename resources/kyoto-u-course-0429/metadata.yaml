@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0429
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/429/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「ｄ電子の理論化学：昔と現在、そして近未来」
+description:
+  ja: 京都大学の工学研究科で開講された、榊 茂好による日本語の講義である。講義名から、ｄ電子の理論化学を主題にし、その歴史的な側面と現在、さらに近い将来の展開まで扱うことが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 榊 茂好
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-02-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 化学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

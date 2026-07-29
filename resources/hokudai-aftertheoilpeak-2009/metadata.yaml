@@ -1,0 +1,132 @@
+slug: hokudai-aftertheoilpeak-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/aftertheoilpeak-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク 石油ピーク後の日本と北海道のありかたを考える －バイオマス利活用の可能性－（2009）
+description:
+  ja: 石油ピーク後の日本と北海道の将来像を、エネルギー制約とバイオマス利活用の観点から考える講義・シンポジウムである。EPRを手がかりにバイオマスエネルギーの評価や北海道の自律に向けたシナリオを扱い、あわせて道内自治体の具体的な取組みも取り上げる。
+quotedDescription:
+  text:
+    ja: 'エネルギー資源については、量ではなく、質の問題として捉えて議論することが必要です。
+
+      本シンポジウムは、そのための指標としてエネルギー利得率の利用の普及を図っている「もったいない学会」と共同で、エネルギー制約の観点から世界、日本、北海道のあるべき将来像へのビジョンを明らかにすることを目的としています。
+
+      多くの一般市民の参加を得て、正しい将来設計のあり方を議論します。
+
+      <プログラム>
+
+      ・2009年11月14日
+
+      13:30 　　　　開会の挨拶
+
+      佐々木 隆生 （北海道大学サステイナビリティ学教育研究センターセンター長）
+
+      13:40 　　　　趣旨説明
+
+      田中 教幸 （北海道大学サステイナビリティ学教育研究センター教授）
+
+      第一部 基調講演
+
+      13:50 　　　　石油ピークは食料ピーク，そして文明ピーク －日本のプランB－
+
+      石井 吉徳 （NPO法人もったいない学会会長）
+
+      14:30 　　　　21世紀の日本と北海道 －持続可能な社会を目指して－
+
+      丹保 憲仁 （北海道開拓記念館館長）
+
+      15:10-15:25 休憩
+
+      第二部 バイオマスの潜在力を科学する
+
+      15:25 　　　　エネルギー利得率（EPR）で開かす、バイオマスエネルギーの質の科学的評価
+
+      天野 治 （NPO法人もったいない学会EPR部会長）
+
+      15:45 　　　　持続的自律北海道へのシナリオつくり －バイオマスの視点から－
+
+      佐藤 寿樹 （北海道大学サステナビリティ学教育研究センター研究員）
+
+      辻 宣行 （北海道大学サステナビリティ学教育研究センター准教授）
+
+      16:05-16:15 休憩
+
+      第三部 北海道の市町村の取組みの紹介
+
+      16:15-17:15 　農作物残渣を利用した燃料製造
+
+      上出 光志 （北海道立工業試験場環境エネルギー部技術科長）
+
+      伊達市の木質バイオマス利活用事業
+
+      岩渕 泰人（伊達市農務課林務担当参事）
+
+      足寄町地域制限活用事例について
+
+      岩原 栄（足寄町経済課室長）
+
+      富良野方式によるゴミリサイクル（固形燃料化）
+
+      関根 嘉津幸（富良野市市民環境課係長）
+
+      第四部 北海道民へのアピール
+
+      17:15 　　　　エネルギーの質の科学で引き出そう北海道自律のためのバイオパワー
+
+      天野 治 （NPO法人もったいない学会EPR部会長）
+
+      17:30 　　　　閉会の挨拶
+
+      大崎 満 （北海道大学 サステイナビリティ学教育研究センター副センター長）'
+  source: https://ocw.hokudai.ac.jp/lecture/aftertheoilpeak-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 天野 治
+  affiliation:
+    name: NPO法人もったいない学会EPR部
+- type: Person
+  name: 佐藤 寿樹
+  affiliation:
+    name: 北海道大学サステナビリティ 学教育研究センター
+- type: Person
+  name: 辻 宣行
+  affiliation:
+    name: 北海道大学サステナビリティ 学教育研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

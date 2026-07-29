@@ -1,0 +1,60 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-overview-of-risk-assessment-and-manage
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-overview-of-risk-assessment-and-management-in-nuclear-safety
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「原子力安全に関するリスク評価及びマネジメントの概要」
+description:
+  ja: 原子力安全を扱う講義資料で、リスクの概念から原子力安全の原則、確率論的リスク評価の基礎とその歴史、リスク情報活用の概要までを取り上げる。最後にまとめが置かれており、原子力安全に関するリスク評価とマネジメントの全体像を示す構成になっている。
+quotedDescription:
+  text:
+    ja: "原子力安全に関するリスク評価及びマネジメントの概要\n \n「原子力安全に関するリスク評価及びマネジメントの概要」の教材は全てCC BY-NCのライセンスで公開しています。\n \n本教材の内容は以下の通りです。\n\
+      \ \n・リスクの概念\n \n・原子力安全に関する原則\n \n・確率論的リスク評価の概要\n \n・確率論的リスク評価の歴史\n \n・リスク情報活用の概要\n \n・まとめ"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-overview-of-risk-assessment-and-management-in-nuclear-safety
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 成宮 祥介
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 原子力安全
+- 確率論的リスク評価
+- PRA
+- リスク情報活用
+audience:
+- student
+materials:
+- name: '講義資料: 原子力安全に関するリスク評価及びマネジメントの概要'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2026/01/Nuclear-Regulatory-Human-Resource-Development-Project_Overview-of-Risk-Assessment-and-Management-in-Nuclear-Safety.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-overview-of-risk-assessment-and-management-in-nuclear-safety
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

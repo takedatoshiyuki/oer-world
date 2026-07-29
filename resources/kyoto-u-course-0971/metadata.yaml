@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0971
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/971/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「地震・噴火・温暖化は今後どうなるか？」
+description:
+  ja: 地球科学の研究と教育を振り返りながら、地震・噴火・温暖化の今後を扱う講義である。東日本大震災後の日本列島を「大地変動の時代」として捉え、その先の見通しを述べる。
+quotedDescription:
+  text:
+    ja: '1997年の着任以来、24年にわたって行ってきた地球科学の研究と教育を振り返り、未来へのメッセージを伝えたい。
+
+      10年前の2011年東日本大震災によって日本列島は「大地変動の時代」に入ってしまった。今後の地震・噴火・温暖化を予測し、賢く明るく楽しく生き延びる知恵を講義する。'
+  source: https://ocw.kyoto-u.ac.jp/course/971/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 鎌田 浩毅
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 自然科学
+- 最終講義
+audience:
+- general_public
+materials:
+- name: '講義資料: 配布資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/05/20210310_kamata.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/971/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

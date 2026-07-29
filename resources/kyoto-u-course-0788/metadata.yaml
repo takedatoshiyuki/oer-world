@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0788
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/788/
+type:
+- LearningResource
+- Course
+name:
+  ja: 徳山試験地 周南市・京都大学フィールド科学教育研究センター連携公開講座【京大ウィークス2016】
+description:
+  ja: 徳山試験地のヒノキ林での檜皮採取の見学と、移転前の旧京都大学演習林があった西緑地の見学を組み合わせた公開講座である。あわせて、西緑地に集められた国内外の樹木を紹介し、試験地の歴史と現地の樹木資源を扱う。
+quotedDescription:
+  text:
+    ja: '現在の徳山試験地にある「ふるさと文化財の森（ヒノキ林）」で原皮師による檜皮採取を見学するとともに、昭和41年移転前の旧京都大学演習林のあった西緑地を歩き、当時集められた国内外の樹木を紹介します。
+
+      フィールド科学教育研究センター 徳山試験地とは？
+
+      1966年徳山市（現周南市）の緑化公園事業により現在地に移転しました。近年、檜皮などの文化財修復用資材の不足という社会的背景から、試験地のヒノキ林では文化庁による資材確保のための研究に協力し、「ふるさと文化財の森」（文化財のための備林）に設定されました（2007年度）。また、2012年には周南市と連携協定を締結し、教育・研究はもとより、社会連携にも力を入れています。
+
+      https://fserc.kyoto-u.ac.jp/toku'
+  source: https://ocw.kyoto-u.ac.jp/course/788/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉岡 崇仁
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大野 浩二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 雅夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-10-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

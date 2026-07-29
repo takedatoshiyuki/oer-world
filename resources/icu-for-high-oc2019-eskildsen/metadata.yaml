@@ -1,0 +1,47 @@
+slug: icu-for-high-oc2019-eskildsen
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/for_high/OC2019_eskildsen
+type:
+- LearningResource
+- Course
+name:
+  ja: '20190810 From Laozi to Lord Lao: How the Philosopher became the God'
+description:
+  ja: 老子がどのようにして神としての「Lord Lao」へと位置づけられていったかを扱う講義である。講義名から、哲学者としての老子が宗教的存在へと変化する過程を主題にしていることが読み取れる。
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: Stephen ESKILDSEN
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- オープンキャンパス講義
+audience:
+- student
+educationalLevel:
+- upper_secondary
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,114 @@
+slug: hokudai-chaoticsystemsfaculty12ineering-2004
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 混沌系工学特論 (2004)
+description:
+  ja: 本講義は、確率的情報処理を題材に、統計力学の考え方を用いた情報処理システムの設計と動作解析を扱う。具体例を通して、その設計と解析の進め方を説明する構成になっている。
+quotedDescription:
+  text:
+    ja: '確率的情報処理に関する話題の提供 : 統計力学の考え方に基づく情報処理システムの設計と その動作の解析がどのように行われるのか、を具体例をあげて解説する.
+
+      次年度は「画像/符号/スペクトル拡散通信の数理 : ベイズ統計と情報処理」、「ゲーム理論と経済現象の数理」をとりあげる予定です.
+
+      2005年度の資料も参照のこと.'
+  source: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 井上 純一
+  affiliation:
+    name: 情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Note-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+- name: '講義資料: 講義スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaoticSystemsEngineering-2004-Slide-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaoticsystemsfaculty12ineering-2004
+extensions:
+  faculty: 大学院でさがす
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

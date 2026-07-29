@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0323
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/323/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2012 PCカンファレンス
+description:
+  ja: 本教材は、2012 PCカンファレンスの基調講演2本を収録する。1本目はオープン・エデュケーションと日本の大学教育の変化を扱い、2本目は学びに関わる大学生の現状と成長支援を扱う。
+quotedDescription:
+  text:
+    ja: '1 【基調講演1】
+
+      飯吉 透（京都大学高等教育研究開発推進センター 教授）
+
+      「オープン・エデュケーションが変える日本の大学教育」
+
+      2 【基調講演2】
+
+      溝上 慎一（京都大学高等教育研究開発推進センター 准教授）
+
+      「学びに関連して見えてくる大学生の現状と成長支援」'
+  source: https://ocw.kyoto-u.ac.jp/course/323/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 飯吉 透
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 溝上 慎一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-08-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

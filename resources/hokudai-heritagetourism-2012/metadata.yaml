@@ -1,0 +1,66 @@
+slug: hokudai-heritagetourism-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/heritagetourism-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究教育資料 先住民文化遺産とツーリズム ～アイヌ民族における文化遺産活用の理論と実践～（2012）
+description:
+  ja: 知床ウトロ地区を題材に、世界自然遺産としての知床を文化遺産の観点から見直す内容を扱う入門用のガイダンスビデオである。先住民族の歴史・文化に関わる評価や、一般旅行者向けの音声ガイド実証実験、モニターツアーの取り組みも含む。
+quotedDescription:
+  text:
+    ja: '知床は世界自然遺産としてUNESCOに登録されていますが、ただ単に自然遺産としての価値を評価するだけでなく、文化遺産としての意義もしっかり考えなくてはなりません。特に先住民族の歴史・文化の面からの評価は現状では不十分であり、今後の改善が望まれます。
+
+      本VTRはこうした事情を踏まえ、知床ウトロ地区を題材として一般旅行者向けに、文化遺産としての知床を知るための入門編ガイダンスビデオとして制作されました。制作は、アイヌ・先住民研究センターの先住民文化遺産ツーリズム・ワーキンググループが行っておりますが、学内連携の推進、研究活動と教育活動の連動を目的として、同ビデオ制作のためのモニターツアーや音声ガイド実証実験は、国際広報メディア・観光学院における特別演習や観光学高等研究センターでの研究活動でも実施されました。
+
+      関連講義
+
+      ・先住民族ヘリテージツーリズム特別演習
+
+      関連情報
+
+      ・先住民族ヘリテージツーリズム・ワーキンググループ報告書等（HISCUP）
+
+      ・アイヌ・先住民研究センター
+
+      ・観光学高等研究センター'
+  source: https://ocw.hokudai.ac.jp/lecture/heritagetourism-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 先住民文化遺産ツーリズム・ワーキンググループ
+  affiliation:
+    name: 北海道大学 アイヌ・先住民研究センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 歴史／民俗
+audience:
+- student
+extensions:
+  faculty: アイヌ・先住民研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

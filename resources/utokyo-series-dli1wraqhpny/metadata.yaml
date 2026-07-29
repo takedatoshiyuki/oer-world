@@ -1,0 +1,88 @@
+slug: utokyo-series-dli1wraqhpny
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Dli1wrAQhpnY
+type:
+- LearningResource
+- Course
+name:
+  ja: 歴史とは何か（学術俯瞰講義）
+description:
+  ja: この講義は、歴史学の基本的な考え方として、史学概論、史料論、歴史認識論に相当する論点を扱う。続いて、個々の研究者が人物、モノ、フィールドワークに即して歴史を描く方法を紹介し、歴史学の研究の進め方にも触れる。
+quotedDescription:
+  text:
+    ja: この俯瞰講義では、大学で展開されている歴史学という学問の、基本的なあり方とおもしろさ、魅力を考えてみたい。まずは、歴史学の基本的なあり方に関する三人の講師の三回ずつの講義が行われる。これは、やや硬い表現を使うと、史学概論、史料論、歴史認識論だが、これらの領域の基本的な課題をできるだけわかりやすく提示したい。これに続いて、三人の講師がそれぞれ一回の講義で、自分自身の歴史研究の魅力を、具体的な人物、モノやフィールドワークに即して歴史を描いていく「作業場」を紹介しつつ語ることを予定している。歴史とは「現在と過去との対話である」というのは、２０世紀を代表する歴史家E.H.カーの議論だが、この俯瞰講義を通じて、「歴史とは何か」について、ともにじっくり考えてみたい。
+  source: https://ch.u-tokyo.ac.jp/series/?id=Dli1wrAQhpnY
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 羽田 正
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 保谷 徹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 三谷 博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小松 久男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 深沢 克己
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 桜井 由躬雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古田 元夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 歴史
+- 国際関係
+- 人口・社会問題
+- 視点を変えた新しい世界史
+- 世界史
+- グローバルヒストリー
+- イスラム
+- 日本史
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,108 @@
+slug: kyoto-u-course-0899
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/899/
+type:
+- LearningResource
+- Course
+name:
+  ja: E.FORUM 教育研究セミナー「高等学校における探究の評価」, 2015
+description:
+  ja: 高等学校における探究的な学習の評価を扱うセミナーである。高校生と大学生のポスター発表を通じて探究の深まりを考える第1部と、SSH・SGHの実践報告やルーブリックの検討を行う第2部で構成される。課題研究やゼミの指導と評価、探究評価のための資料が公開されている。
+quotedDescription:
+  text:
+    ja: '趣旨
+
+      変化の激しい現代社会において、高等学校では、探究力の育成がますます求められるようになっています。しかしながら、探究の深まりをどのように評価できるのか、また評価を指導の改善にどう活かしていけばよいのかの知見は、まだ十分に共有されているとは言い難い状況が見られます。
+
+      そこで本セミナーでは、高等学校における探究的な学習の評価について考えました。
+
+      【第1部】では、高校生と大学生が一堂に会する探究成果ポスター発表会を開催し、高大の教育接続の視点から探究の深まりについて考えました。第一部のOCWページはこちら
+
+      【第2部】では、スーパーサイエンスハイスクール (SSH) やスーパーグローバルハイスクール (SGH) として実績のある2校に実践をご報告いただくとともに、探究を評価するためのルーブリックについて検討しました。
+
+       
+
+      ※このサイトに掲載の内容を踏まえて研究開発を進められた場合は、引用注・参考文献注などで、該当の発表者名・発表タイトルとURLを明記していただきますよう、お願いします。'
+  source: https://ocw.kyoto-u.ac.jp/course/899/
+  note: 京都大学OCW 「趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐藤 哲也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 村井 昂介
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大貫 守
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 福嶋 祐貴
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 次橋 秀樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 徳島 祐彌
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中西 修一朗
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 本宮 裕示郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-08-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 生徒の自主性・自発性を高める課題研究の指導とその評価（配布資料）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/08/2015_E.FORUM_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/899/
+- name: '講義資料: 生徒の自主性・自発性を高める課題研究の指導とその評価（スライド）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/08/2015_E.FORUM_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/899/
+- name: '講義資料: 多様な角度から問いを深める人文・社会科学系ゼミの指導と評価（スライド）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/08/2015_E.FORUM_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/899/
+- name: '講義資料: 高校生の探究を評価するルーブリックの検討（配布資料）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/08/2015_E.FORUM_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/899/
+- name: '講義資料: 高校生の探究を評価するルーブリックの検討（スライド）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/08/2015_E.FORUM_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/899/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

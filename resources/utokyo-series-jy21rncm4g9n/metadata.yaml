@@ -1,0 +1,94 @@
+slug: utokyo-series-jy21rncm4g9n
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=JY21rncm4g9n
+type:
+- LearningResource
+- Course
+name:
+  ja: 心に挑む－心理学との出会い、心理学の魅力（学術俯瞰講義）
+description:
+  ja: 東京大学の心理学系教員が、それぞれの関心から進めている研究を具体的に紹介する講義である。心理学研究の最先端がどのような内容かを取り上げ、学問としての心理学に触れる構成になっている。心理学関係諸学科への進学を考える受講者も視野に入れている。
+quotedDescription:
+  text:
+    ja: 心理学ほど一般から誤解されている学問も珍しい。この講義では、東京大学の心理 を専門とする教員が、どのような興味から、どのような研究をおこなっているかを具 体的に紹介したい。この講義によって、心理学研究の最先端の面白さと深さを感じて
+      いただきたい。心理学関係諸学科に進学を希望する諸君の聴講も大いに期待する。
+  source: https://ch.u-tokyo.ac.jp/series/?id=JY21rncm4g9n
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高野 陽太郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 隆夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡田 猛
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 横澤 一彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: ジル・スティール
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 秋山 弘子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 唐沢 かおり
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 丹野 義彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- health_welfare
+- arts_humanities
+keywords:
+- 心理・認知
+- 生命・医療
+- 言語・思想
+- AI・情報
+- 政治・法律
+- 国際関係
+- 人口・社会問題
+- 文化・芸術・文芸
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

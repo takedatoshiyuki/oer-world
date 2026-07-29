@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0870
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/870/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学術映像博2009 関連ワークショップ 「共振する音とイメージ」
+description:
+  ja: 京都大学の総合博物館が2009年11月14日に開講した、学術映像博2009の関連ワークショップである。題名にあるとおり、音とイメージの関係を扱う内容であることが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-11-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

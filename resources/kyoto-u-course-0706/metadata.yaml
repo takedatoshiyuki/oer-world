@@ -1,0 +1,78 @@
+slug: kyoto-u-course-0706
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/706/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農業経営の未来戦略
+description:
+  ja: 近畿の農業をセンサスデータから読み取り、その特徴を整理する回と、日本における外食産業と農業の連携事例と課題を扱う回の教材が公開されている。講義資料に加えて第2回の板書も含まれており、講義の一部を資料としてたどれる。
+quotedDescription:
+  text:
+    ja: '小田 滋晃 教授 (農学研究科)
+
+      長命 洋佑 特定准教授 (農学研究科)
+
+      川﨑 訓昭 特定助教 (農学研究科)'
+  source: https://ocw.kyoto-u.ac.jp/course/706/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小田 滋晃
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 長命 洋佑
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川﨑 訓昭
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 10月15日 センサス分析（近畿）の構成 / センサスデータから見る近畿農業の特徴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukeieinomiraisenryaku-note_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/706/
+- name: '講義資料: 第2回 10月29日 日本における外食産業と農業との連携事例および課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukeieinomiraisenryaku-note_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/706/
+- name: '講義資料: 第2回 10月29日 日本における外食産業と農業との連携事例および課題（板書）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukeieinomiraisenryaku-bb-02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/706/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

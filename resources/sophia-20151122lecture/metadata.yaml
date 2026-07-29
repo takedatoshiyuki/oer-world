@@ -1,0 +1,50 @@
+slug: sophia-20151122lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20151122lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第5回上智大学全国高校生英語弁論大会ジョン・ニッセル杯
+description:
+  ja: 上智大学が提供する、2015年11月22日開講の講義である。言語教育研究センターと外国語学部英語学科が担当し、上智大学全国高校生英語弁論大会ジョン・ニッセル杯に関する内容を扱う。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 言語教育研究センター
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 外国語学部英語学科
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 言語教育研究センター/外国語学部英語学科
+  term: 2015/11/22
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

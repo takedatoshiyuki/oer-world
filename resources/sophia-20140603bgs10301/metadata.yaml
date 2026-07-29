@@ -1,0 +1,52 @@
+slug: sophia-20140603bgs10301
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140603bgs10301/
+type:
+- LearningResource
+- Course
+name:
+  ja: 地域研究入門／INTRO. TO AREA STUDIES
+description:
+  ja: 地域研究の成立背景と、その後の展開を踏まえながら、地域研究に共通する姿勢や方法論、他分野との関係を学ぶ。あわせて、対象地域ごとに異なる地域研究のあり方を取り上げ、地域研究の多様な側面を扱う。
+quotedDescription:
+  text:
+    ja: 20世紀後半の米国において、政策的な目的から特定地域の総合的理解を目指した学問として出発した地域研究は、その学際性を維持しつつ、政策性に過度に固執せず、より調査対象の現地に寄り添った学問へと展開してきた。対象地域により、その具体的なあり方は様々だが、本講義では地域研究としての共通の姿勢と方法論、他の学問分野との関係のあり方を学び、さらに対象地域別の地域研究のあり方の特質をみていくことで、地域研究の多様性を含めた理解を深める。総合グローバル学部の必修科目であり、AとBに分けて同一内容で開講されるので、自分が受講すべき授業を間違えないよう注意すること。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20140603bgs10301/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: コ）赤堀 雅幸
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 総合グローバル学部 総合グローバル学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

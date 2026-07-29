@@ -1,0 +1,123 @@
+slug: kyoto-u-course-0609
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/609/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎物理化学Ａ
+description:
+  ja: 量子力学の基本を出発点に、原子・分子の電子状態と化学結合論を扱う講義である。公開資料では、シュレディンガー方程式、一次元井戸型ポテンシャル、水素類似原子、原子軌道やスピン、選択則、スピン軌道相互作用、摂動法と変分法までを取り上げる。講義と演習を通して、分子構造や反応性を原子核と電子の振る舞いから考える。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      量子力学の基本から説き起こし、原子・分子の電子状態および化学結合論について議論する。数学的な取り扱いが比較的容易なモデルを用いた定性的な議論を重視する。
+
+      授業の紹介
+
+      分子の構造や反応性が示す多様な性質は、原子核と電子の振舞いによって決まる。本講義では、量子論に基づく化学結合論について講義と演習を行い、原子・分子の電子状態や分子構造とその変化に関する物理化学の基礎を習得する。'
+  source: https://ocw.kyoto-u.ac.jp/course/609/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 安藤耕司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　講義全体の概要、化学結合論の問題意識'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/5e8cc6e5dd2be3eee915f4a4c5996187.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第2回　量子力学の要点'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/1a89442c4d623435f0f6a9c733ab11c7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第3回　シュレディンガー方程式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/18627da6b8a120694da6c33ca030574c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第4回　一次元井戸型ポテンシャル　A'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/1a54739d6c993584d91da7a754ac4a98.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第4回　一次元井戸型ポテンシャル　B'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/69330ef79033ae19b4a8e553db8b3773.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第5回　水素類似原子　A'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/265983cb07d6a8abe82f0f3b7debe749.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第5回　水素類似原子　B'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b7da911ff627d01618ad964d4e303971.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第6回　原子軌道、スピン量子数　A'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/762ce245bcfbc78ece025aa718e900e7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第6回　原子軌道、スピン量子数　B'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/821aa8669e4378b039507ce2dabfdb56.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第7回　選択則、築き上げの原理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/538d1f200898ba37406469264c0b1b9d.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第8回　スピン軌道相互作用、多電子原子の項記号'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d341ed947311f9808772e15e900fe315.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第9回　摂動法と変分法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6fba64731ca7792e3507098732e28bff.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第10回　ヘリウム原子への応用　A'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b3a8d8845108520b01f0a0473c9753d3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第10回　ヘリウム原子への応用　B'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/f7c166887ce6632b24a47c0e4cc25f07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第11回　分子軌道法、LCAO近似'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/76b0bc89cf2322b0a74ef72e47e724ef.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第12回　分子軌道ダイアグラム、結合次数'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/cb5ff0ec403b25ce001ee761d1b857ff.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 第13回　パイ電子近似、ヒュッケル法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d0283abcb45ea3ed202cb45fb2cfb648.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: レポート課題２：水素類似原子のシュレディンガー方程式について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2f0adf43d0a5784e601e9525384b8252.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: レポート課題３：多電子原子の電子配置について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6a48458f80f026e746bd75ae8bd31863.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+- name: '講義資料: 2007年度試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/43bf2ed1c9716faed3574f3cbbdecc3f.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/609/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

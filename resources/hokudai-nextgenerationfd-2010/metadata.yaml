@@ -1,0 +1,54 @@
+slug: hokudai-nextgenerationfd-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nextgenerationfd-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 次世代FD・TAが支える大学教育の新たな展開(2010)
+description:
+  ja: 北海道大学で行われてきた教員研修と大学院生向けのTA研修を扱い、その実施状況と成果を取り上げる。あわせて、今後の展開についても述べる内容である。
+quotedDescription:
+  text:
+    ja: 信じられないことですが、つい最近まで大学の教員は研究者であり、教育者としての訓練は受けていませんでした。自分の学生としての経験から、講義を行っていたのです。しかし、北海道大学では10年ほど前から、教育者になるための研修を始めました。その研修対象は、新任教員（FD研修）ばかりではなく大学院生（TA研修）にまで及ぶ、全国でも類を見ないものです。今回の講演では、これまでの研修の状況と成果をお話しするとともに、その将来を展望します。
+  source: https://ocw.hokudai.ac.jp/lecture/nextgenerationfd-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 細川 敏幸
+  affiliation:
+    name: 北海道大学高等教育機能開発センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

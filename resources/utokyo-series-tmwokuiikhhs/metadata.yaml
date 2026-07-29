@@ -1,0 +1,112 @@
+slug: utokyo-series-tmwokuiikhhs
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=TmWoKUIIKhHs
+type:
+- LearningResource
+- Course
+name:
+  ja: 'The 94th Public Policy Seminar-From Campus to Community University Collaboration between Africa
+    and Asia for Real-World Change: TICAD 9 Partnership Project'
+description:
+  ja: アフリカと日本の大学連携を軸に、社会課題の解決に向けた官民協力のあり方を扱う講義である。教育や基礎インフラ、都市化、気候脆弱性といった課題をめぐり、大学が仲介役として果たす役割や、異なる立場の関係者をつなぐ方法を検討する。TICAD
+    9 Partnership Projectの一環として、知識にもとづく協働の可能性を取り上げる。
+quotedDescription:
+  text:
+    ja: In the face of complex and interdependent global challenges, the need for inclusive and pragmatic
+      approaches to sustainable development has become ever more pressing. Across Africa, urgent social
+      issues—from inadequate access to education and basic infrastructure, to the consequences of rapid
+      urbanization and climate vulnerability—require not only strategic public-sector planning but also
+      the efficient implementation capacity and innovation of the private sector. While governments are
+      responsible for setting the grand design for addressing social challenges, the private sector is
+      often best positioned to deliver scalable and cost-effective solutions. The ideal model is one in
+      which public and private actors in both Africa and Japan collaborate to co-create solutions. Yet,
+      significant geographic, institutional, and informational distances remain. Japanese companies, though
+      increasingly aware of the growing importance of African markets, often lack a clear understanding
+      of what specific social problems exist, what business models might effectively address them, what
+      barriers to implementation may arise, and how those barriers can be overcome. Conversely, African
+      institutions may face difficulties in identifying, engaging, or aligning with appropriate foreign
+      partners to implement context-sensitive solutions. Universities, with their capacity for interdisciplinary
+      knowledge production, local and global networks, and role as neutral conveners, are uniquely positioned
+      to bridge these gaps. Through collaborative partnerships, African and Japanese universities can
+      work together to bring public and private stakeholders into dialogue, co-produce policy-relevant
+      knowledge, and foster ecosystems for innovation that address real-world challenges. This event explores
+      how university-based collaboration between Africa and Asia can catalyze public-private cooperation
+      in solving social issues. It aims to identify actionable strategies to narrow the distance between
+      distant stakeholders, enhance mutual understanding, and accelerate inclusive development through
+      knowledge-driven partnerships.
+  source: https://ch.u-tokyo.ac.jp/series/?id=TmWoKUIIKhHs
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 川口 大司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Nnenna Lily Nwabufo
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Teruo Fujii
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Margaret Chigita-Mabugu
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Frans Swanepoel
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Hendrina Doroba
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Shohei Naito
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Mary Asantewaa
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+keywords:
+- 国際関係
+- 教育
+- TICAD
+- アフリカ
+- AfricaJapan
+- UniversityCollaboration
+- イノベーション
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

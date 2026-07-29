@@ -1,0 +1,61 @@
+slug: utokyo-series-bqrmijweuvgy
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=BqrmijWeUvGY
+type:
+- LearningResource
+- Course
+name:
+  ja: クリストファー・ロイド氏特別講義
+description:
+  ja: 東京大学が2013年に提供した、クリストファー・ロイドによる特別講義である。英語話者を対象に英語で行われる講義として提供されている。
+quotedDescription:
+  text:
+    ja: クリストファー・ロイド氏特別講義「１３７億年の物語ができるまで」        統合自然科学科では、専門的な知識の教育と並行して、科学の諸分野を俯瞰した視点を養うことを目指しています。このたび、世界的に著名な科学ジャーナリスト、クリストファー・ロイド氏に駒場での講義をお願いしました。ロイド氏は著書「１３７億年の物語」において宇宙と生物、人間と文明の歴史を統合する試みを行い、文系と理系を統合する書として高…
+  source: https://ch.u-tokyo.ac.jp/series/?id=BqrmijWeUvGY
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: クリストファー・ロイド
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+- arts_humanities
+keywords:
+- 教育
+- 心理・認知
+- 言語・思想
+- 視点を変えた新しい世界史
+- Insights from Global Experts and International Leaders
+- 学び
+- つながり
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

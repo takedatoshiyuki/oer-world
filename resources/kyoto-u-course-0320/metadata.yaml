@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0320
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/320/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「ソ連解体と中央ユーラシア研究－開かれたフィールド、資料、協働の可能性」
+description:
+  ja: 1991年のソ連解体を手がかりに、中央ユーラシア研究にどのような変化が生じたかを扱う講義である。中央ユーラシアという枠組みの意義に加え、研究対象の広がりや資料、協働の可能性にも触れ、講師自身のウズベキスタン研究の成果も紹介する。
+quotedDescription:
+  text:
+    ja: '講演内容
+
+      平成の始まりはソ連というかつて冷戦の一極を成した大国の屋台骨が軋み始めていた時期と一致します。1991年のソ連解体によって、「中央ユーラシア」という枠組みに与えられた新しい意義、開かれた巨大なフィールド・膨大な資料・協働の可能性、新たに出現した研究関心や研究分野の発展などについて、講師自身のウズベキスタンに関する研究成果も交えながら、お話したいと思います。
+
+      春秋講義は、京都大学における学術研究活動の中で培われてきた知的資源について、広く学内外の人々と共有を図るため、1988（昭和63）年秋から開講している公開講座です。年に2回、春と秋にテーマをもうけ講義を行います。
+
+      平成31年度春季講義は、「平成を振り返って－日本を取り巻く世界の変化」をテーマに開催します。'
+  source: https://ocw.kyoto-u.ac.jp/course/320/
+  note: 京都大学OCW 「講演内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 帯谷 知可
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-04-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

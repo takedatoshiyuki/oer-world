@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0943
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/943/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅢ「大震災後の森里海の連環を考える」 京都大学フィールド科学教育研究センター 東北地域連携講座
+    「森里海連環学と沿岸管理～東北沿岸の復興をどう進めるか～
+description:
+  ja: 京都大学フィールド科学教育研究センターが担当する講義で、大震災後の森・里・海の連環を主題に据える。東北沿岸の復興を、森里海連環学と沿岸管理の観点からどう進めるかを扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-07-16'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,79 @@
+slug: hokudai-nuclear-data-engineering
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-data-engineering
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「核データ工学」
+description:
+  ja: 核データ工学の基礎として、核データの意味や原子核の性質、崩壊と反応、中性子核反応、核分裂、核融合工学との関係を扱う。あわせて、核データの測定手法、処理、核データライブラリと国際協力にも踏み込む。
+quotedDescription:
+  text:
+    ja: "核データ工学（Nuclear Data Engineering）\n核データ工学概論\n１．イントロダクション（千葉 敏・東京工業大学）★準備中\n \n２．核データとは何か（深堀 智生・国立研究開発法人\
+      \ 日本原子力研究開発機構）　CC BY-NC\n \n３．ミクロの世界の法則（千葉 敏・東京工業大学）★準備中\n \n４．原子核の概要（千葉 敏・東京工業大学）★準備中\n \n５．原子核の質量（千葉\
+      \ 敏・東京工業大学）★準備中\n \n６．原子核の崩壊と反応（千葉 敏・東京工業大学）★準備中\n \n７．シュレーディンガー方程式の解：散乱及び束縛状態（千葉 敏・東京工業大学）★準備中\n\
+      \ \n８．中性子核反応（共鳴、非分離共鳴、スムースパート）（千葉 敏・東京工業大学）★準備中\n \n９．核分裂（千葉 敏・東京工業大学）★準備中\n \n10．核融合工学と核データ（千葉\
+      \ 敏・東京工業大学）★準備中\n \n11．核データの測定手法１（片渕 竜也・旧：東京工業大学 科学技術創成研究院・現：東京科学大学）　制限資料\n \n12．核データの測定手法２（片渕 竜也・旧：東京工業大学\
+      \ 科学技術創成研究院・現：東京科学大学）　制限資料\n \n13．核データ処理1（山野 直樹・東京工業大学 科学技術創成研究院）　制限資料\n \n14．核データ処理2（山野 直樹・東京工業大学\
+      \ 科学技術創成研究院）　制限資料\n \n15．核データライブラリと国際協力（深堀 智生・国立研究開発法人 日本原子力研究開発機構）　CC BY-NC\n \n \n核データ工学特論\nWhat\
+      \ is Nuclear Data（Tokio FUKAHORI・Japan Atomic Energy Agency）　CC BY-NC\n \nNuclear Data Processing（Naoki\
+      \ YAMANO・Tokyo Institute of Technology）　制限資料\n \nNuclear Data Library and International Collaboration（Tokio\
+      \ FUKAHORI・Japan Atomic Energy Agency）　CC BY-NC\n \nNuclear Data Measurement Methods Part 1（Tatsuya\
+      \ KATABUCHI・Institute of Science Tokyo）　制限資料\n \nNuclear Data Measurement Methods Part 2（Tatsuya\
+      \ KATABUCHI・Institute of Science Tokyo）"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-data-engineering
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 千葉 敏
+  affiliation:
+    name: 東京工業大学
+- type: Person
+  name: 深堀 智生
+  affiliation:
+    name: 国立研究開発法人 日本原子力研究開発機構
+- type: Person
+  name: 片渕 竜也
+  affiliation:
+    name: 旧：東京工業大学 科学技術創成研究院・現：東京科学大学
+- type: Person
+  name: 山野 直樹
+  affiliation:
+    name: 東京工業大学 科学技術創成研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 核データ
+audience:
+- student
+extensions:
+  faculty: 工学院／工学研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,89 @@
+slug: hokudai-faculty03eggs-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty03eggs-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: ひらめき☆ときめきサイエンス 魚の卵を科学する(2009)
+description:
+  ja: 魚の卵がどのようにできるかを手がかりに、魚を育てて子どもを得る養殖の考え方を扱う講義である。講義室で研究内容を紹介した後、サケ・マス類の採卵や人工授精、飼育現場の見学を通して、大学での研究と現場の作業を結びつけて学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: '皆さんの普段食べているお魚は，資源に限りがあります。おいしいシャケやホッケ、イクラやキャビアが食べられなくなるかもしれません。いつでも食べられるように養殖するには，魚を育ててその魚から子どもを作る必要があります。大学では，どのように魚の卵ができるのかを詳しく研究して，効率よく魚に卵を産ませる方法を考えています。当日は、「魚の卵を科学する」と題し、大学の講義室で最先端の研究を分かり易く紹介します。また、フィールドセンターでサケ・マス類の人工授精を体験して頂きます。幻の魚、チョウザメやイトウの飼育現場も見学できます。どのような研究が行われているか，実際に目で見て体験してみませんか。
+
+      <スケジュール>
+
+      ・2009年10月25日
+
+      （函館キャンパス）
+
+      9:20 挨拶（挨拶・科研費と本事業の説明）
+
+      9:30 講演「魚の卵を科学する」講師 原 彰彦
+
+      10:20 質問コーナー
+
+      10:30 休憩
+
+      10:45 北大水産学部研究室見学
+
+      11:15 北大北方生物圏フィールド科学センター
+
+      七飯淡水実験所に移動(借上バス)
+
+      12:00 昼食、サケ・マス類の採卵作業の説明
+
+      13:00 サケ・マス類の採卵作業・魚体解剖観察
+
+      14:30 休憩
+
+      14:45 七飯淡水実験所見学・解説
+
+      15:45 北大水産学部に移動（借上バス）
+
+      16:30 修了式（アンケート記入、未来博士号授与）
+
+      17:00 解散'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty03eggs-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 原 彰彦
+  affiliation:
+    name: 北海道大学大学院水産科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- 水産学
+- 水産学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

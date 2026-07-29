@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0135
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/135/
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバル化の下での食料と環境
+description:
+  ja: グローバル化の進行が資源、農産物、工業製品、人の移動に及ぼす影響を取り上げ、経済活動の変化が生活や社会に与える意味を考える講義である。内容は農業、林業、フェアトレード、環境問題に及び、国内外のフィールドワークで得た知見も扱う。公開教材として、グローバル化と日常生活に関する資料と、外来捕食者が在来生態系を損なう事例を扱う資料がある。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      国内外の現場においてフィールドワークの経験のある教員が，グローバル化の現状を批判的な視点から報告し，その問題提起に対して受講者が自ら考え，行動することを求めること．
+
+      授業の紹介
+
+      冷戦の終結後，1990年代を通じてグローバル化が加速度的に進行してきた．その結果，資源，農産物，工業製品そして人が国境を越えて行き交うようになった．世界的な規模で行われるようになった経済活動は，我々の生活にどのような影響をもたらしたのか．この授業ではこうした変化の意味について考える．担当教員は日本国内，海外でのフィールドワークの経験が豊富で，自分たちが見聞き考えたことを授業の中で伝える．その内容は農業，林業，フェアトレードそして環境問題にわたる．経済発展とグローバル化がもたらした変化の光と陰について，受講者が自らの頭で考えることを担当者は願う．'
+  source: https://ocw.kyoto-u.ac.jp/course/135/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 岡田 直紀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大澤 直哉
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: #1 Globalization in our daily'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_globalkanomotodenoshokuryoutokankyou_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/135/
+- name: '講義資料: #9 Introduced predators destroy native ecosystems'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_globalkanomotodenoshokuryoutokankyou_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/135/
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

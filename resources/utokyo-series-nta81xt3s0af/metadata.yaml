@@ -1,0 +1,89 @@
+slug: utokyo-series-nta81xt3s0af
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=NTA81XT3s0af
+type:
+- LearningResource
+- Course
+name:
+  ja: SCERU Seminar / GraSPP Research Seminar
+description:
+  ja: ロシアによるウクライナ侵攻を手がかりに、戦略的コミュニケーションの教訓と示唆を考察する講義である。世界各国から招いた専門家を交え、理論と実践の両面から議論を行う。東京大学公共政策大学院が2022年に英語で提供する。
+quotedDescription:
+  text:
+    ja: "ロシアによるウクライナ侵攻のから考察できる戦略的コミュニケーション（Strategic Communication) 上の教訓とへの示唆は何かー世界各国から招聘した戦略的コミュニケーション研究の専門家達を論客に迎え、理論と実践双方の様々な角度観点から議論します。\
+      \ \nモデレーター：青井千由紀（東京大学 公共政策大学院・教授） \nスピーカー： \nDr. Neville Bolt, “Ambiguity and Strategic Communications:\
+      \ Lessons from Afghanis…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=NTA81XT3s0af
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 青井 千由紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Neville Bolt
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Philip Shetler-Jones
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Paul Charon
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Maxime Audinet
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Ofer Fridman
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Aurelio Insisa
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Alina Frolova
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係
+- 経済・金融
+- ウクライナ侵攻
+- 情報発信
+- ギリシャ
+- 経済再生
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

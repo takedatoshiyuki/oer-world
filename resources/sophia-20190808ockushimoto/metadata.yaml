@@ -1,0 +1,46 @@
+slug: sophia-20190808ockushimoto
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20190808ockushimoto/
+type:
+- LearningResource
+- Course
+name:
+  ja: 東南アジアのイスラーム：「普通の」ムスリム大学生の生活をのぞいてみる
+description:
+  ja: 東南アジアにおけるイスラームを題材に、ムスリム大学生の生活に目を向ける講義である。上智大学の総合グローバル学部総合グローバル学科で2019年度に開講され、久志本 裕子が担当する。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 久志本 裕子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 総合グローバル学部 総合グローバル学科
+  term: 2019年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

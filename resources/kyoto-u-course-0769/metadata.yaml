@@ -1,0 +1,84 @@
+slug: kyoto-u-course-0769
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/769/
+type:
+- LearningResource
+- Course
+name:
+  ja: ウイルス多様性科学2
+description:
+  ja: 本講義は、HIVやHTLVに加えて、それに対応するSIVやSTLVを対象に、霊長類由来レトロウイルスの分子系統解析から起源、伝播、変異、進化を考察する。あわせて、サル／ヒト組換えエイズウイルスを用いたアカゲザルの感染モデルを取り上げ、病態解析と予防・治療法開発を扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      アフリカをはじめとする世界各地の霊長類から分離された病原性レトロウイルスの分子系統解析から、その起源・進化について考察する。また、サル／ヒト組換えエイズウイルスを用いたサルエイズモデルによる病原性の研究と予防・治療法開発について紹介する。
+
+       
+
+      授業の紹介
+
+      ヒトの病原性レトロウイルスとして、エイズの原因ウイルスであるヒト免疫不全ウイルス(HIV)と、成人T細胞白血病の原因ウイルスであるヒトT細胞白血病ウイルス(HTLV)が知られているが、それぞれ類似のウイルス(SIV/STLV)をヒト以外の霊長類も保有している。これまでに報告されているアフリカをはじめとする世界各地のヒトやサルより分離された様々なタイプのHIV/SIVおよびHTLV/STLVの分子系統解析について紹介し、これらウイルスの起源と伝播・変異と進化の問題について考察する。
+
+      一方、急務とされるエイズ予防・治療法開発のためには、感染個体レベルで実験的に解析できる動物モデルが必須であるが、HIV-1が感染する動物種は非常に限られている。我々は、SIVを用いて、外皮蛋白遺伝子(env)を中心とした約半分のゲノム領域をHIV-1のものと置き換えたサル／ヒト免疫不全キメラウイルス(SHIV)を作製し、アカゲザルを用いたエイズの感染モデル系を確立した。このSHIV-アカゲザルのモデルを用いたエイズの病態解析とエイズ予防・治療法開発について説明する。'
+  source: https://ocw.kyoto-u.ac.jp/course/769/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 三浦智行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: "講義資料: 第1回\tレトロウイルスと分子系統解析"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_uirusutayouseikagaku2_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/769/
+- name: "講義資料: 第2回\t白血病ウイルスの起原・進化（1）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_uirusutayouseikagaku2_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/769/
+- name: "講義資料: 第3回\t白血病ウイルスの起原・進化（2）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_uirusutayouseikagaku2_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/769/
+- name: "講義資料: 第4回\tエイズウイルスの起原・進化"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_uirusutayouseikagaku2_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/769/
+- name: "講義資料: 第5回\tアカゲザルによるエイズ病態モデル"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_uirusutayouseikagaku2_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/769/
+- name: "講義資料: 第6回\tサルエイズモデルを用いたワクチン開発"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_uirusutayouseikagaku2_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/769/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

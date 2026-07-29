@@ -1,0 +1,47 @@
+slug: tsukuba-ds-flying-characteristics-on-soccer-balls
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/flying_characteristics_on_soccer_balls/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 現代サッカーボールの空力特性
+description:
+  ja: 現代サッカーボールの空力特性と飛翔特性を、風洞実験とキックロボット実験のデータにもとづいて扱う講義である。実験で得られたデータを用いて、ボールの空気力学的な性質を解説する。
+quotedDescription:
+  text:
+    ja: 本講義では、現代サッカーボールの空力特性と飛翔特性について、風洞実験及びキックロボット実験から得られたデータを利用して解説する。
+  source: https://ocw.tsukuba.ac.jp/data-science/flying_characteristics_on_soccer_balls/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 洪 性賛
+  affiliation:
+    name: 筑波大学 体育系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2019-09-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

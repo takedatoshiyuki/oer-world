@@ -1,0 +1,62 @@
+slug: hokudai-chikamatsu-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/chikamatsu-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文学カフェ 近松、最後の一筆 ～辞世文の匠を読み解く～（2012）
+description:
+  ja: 近松門左衛門が死の直前に残した「近松画像辞世文」を取り上げ、そこに書かれた辞世の歌や文章のあり方を読み解く講義である。単なる心情の表明としてではなく、芸術家としての近松の表現の工夫に注目して、辞世文の読み方を考える。
+quotedDescription:
+  text:
+    ja: '「近松門左衛門」という浄瑠璃作家の名前を御存じの方は多いでしょう。近松は浄瑠璃・歌舞伎作者として活躍し、不朽の名作『曽根崎心中』などは今でも多くの人々に愛されています。その近松が死の直前に書き遺した文章が、今回取り上げる「近松画像辞世文」です。
+
+      人生最後の言葉－辞世の言葉－を目にした時、私たちはそこから何を読み取るでしょう。生涯の終わりにその人が抱いた心情や感慨が吐露されていると受け止めるかもしれません。この近松の辞世文にも、一読したところ己の人生への心情吐露とも取れる辞世の歌がその最後の部分に書き記されています。
+
+      しかしながら今回の話し手、近世演劇研究者の冨田康之さんは、近松のこの辞世文には単なる心情の吐露とは全く別の、芸術家近松の面目躍如ともいうべき匠が凝らされていると言います。では近松最後の一筆にこめられた匠とは何であったのでしょうか？近世日本演劇の巨星が、死に臨んで残した辞世文の真の姿を、冨田さんとともに探ってみませんか。
+
+      北大人文学カフェ　アーカイブ
+
+      http://www.let.hokudai.ac.jp/archive/cafe/'
+  source: https://ocw.hokudai.ac.jp/lecture/chikamatsu-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 冨田 康之
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

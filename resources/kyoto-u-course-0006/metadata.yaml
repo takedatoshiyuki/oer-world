@@ -1,0 +1,45 @@
+slug: kyoto-u-course-0006
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/6/
+type:
+- LearningResource
+- Course
+name:
+  ja: 医学研究科社会健康医学系専攻 ダブルディグリープログラム紹介
+description:
+  ja: 京都大学の医学研究科で開講された、社会健康医学系専攻のダブルディグリープログラムを紹介する教材である。担当は河野文子で、2021年3月18日の後期に日本語で実施された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河野 文子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-03-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- その他
+audience:
+- general_public
+extensions:
+  faculty: 医学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

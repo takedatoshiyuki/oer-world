@@ -1,0 +1,48 @@
+slug: tsukuba-child-psychology2016
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/psychology/child-psychology2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2016年度 特別講義「子どものウソは「嘘」か?―肝心なのは問うのを止めないこと―」
+description:
+  ja: 子どもと大人のウソを題材に、子どもの発話を「嘘」とみなせるかを問い直す講義である。記憶、想起、想像、語りの働きを手がかりに、心理学実験や観察を通して虚構の成立に関わる要素を検証する。
+quotedDescription:
+  text:
+    ja: 子どもも大人もウソをつく。 子どものウソは人の思いの裏をかくような『嘘』なのだろうか?そもそも子どもは作偽の嘘をつけるのであろうか?これらの 問いに答えるために、記憶、想起、想像、語りのメカニズムから検証する。心理学実験や観察を通して「嘘」という高次の虚構の創生に不可欠なpsychological
+      essentialsを明らかにすることによって人間のこころの不思議を解き明かす。この検証の過程を支えているのは第一に、問いをもち、第二に、研究方法論を身につけ、第三に、探究し続けることである。
+  source: https://ocw.tsukuba.ac.jp/course/psychology/child-psychology2016/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 内田 伸子
+  affiliation:
+    name: 十文字学園女子大学理事/特任教授、お茶の水女子大学名誉教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2016-06-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 心理学
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

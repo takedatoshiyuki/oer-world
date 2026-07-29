@@ -1,0 +1,108 @@
+slug: hokudai-historyofmathematics-2005
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 科学・技術の世界 数論の歴史（2005）
+description:
+  ja: 古代の数論から出発し、フェルマーの最終定理に関わる問いがどのように生まれ、どのような解決の प्रयासが重ねられたかを歴史の流れに沿って扱う講義である。公開教材は講義スライド15件で構成され、高校数学
+    I・IIA・IIB を前提としている。
+quotedDescription:
+  text:
+    ja: '1630 年、フランスの法律家 Pierre de Fermat は本の欄外に次のような内容の書き込みを残した.
+
+      「3 以上の整数に対して、不定方程式 x^n + y^n = z^n は整数解を持たない. このことの驚くべき証明を私は見つけたが、これを記すには余白が小さすぎる...」
+
+      この命題の正否はなんと約 370 年後、1995 年になるまで決着がつかなかった. 授業ではこのような問題が産まれる背景を古代の数論から掘りおこし、問題解決のためにどのような努力が払われたかを歴史を追って見ることにする.
+      必要な予備知識としては高校数学 I、IIA、IIB で十分である.'
+  source: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松下 大介
+  affiliation:
+    name: 北海道大学大学院理学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-12.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Slide-13.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: 課題1'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Report-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+- name: '講義資料: 課題2'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/HistoryOfMathematics-2005-Report-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/historyofmathematics-2005
+extensions:
+  faculty: 理学部
+  targetAudience: s:363:"s:354:"s:345:"s:336:"a:15:{i:0;s:1:"1";i:1;s:2:" 2";i:2;s:2:" 3";i:3;s:20
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

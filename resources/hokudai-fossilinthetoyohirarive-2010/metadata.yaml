@@ -1,0 +1,54 @@
+slug: hokudai-fossilinthetoyohirarive-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/fossilinthetoyohirarive-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 豊平川の化石が語る札幌・海の時代～サッポロカイギュウと賑やかな仲間たち～（2010）
+description:
+  ja: 豊平川で見つかった化石を手がかりに、札幌の人類以前の歴史を地層から読み解く内容である。2003年に小金湯で発掘されたカイギュウ化石を起点に、北太平洋の大型カイギュウ類の進化や系統、さらに札幌の海の時代に生きた生物の姿を扱う。
+quotedDescription:
+  text:
+    ja: 人類が登場するはるか以前の札幌の歴史は、地下の地層に閉じ込められています。その世界を垣間見せてくれるのぞき窓となるのが、地表を削り地層を露わにしてくれる日本有数の急流豊平川です。 2003年、豊平川の中流域（小金湯）からカイギュウという大きな動物の化石が発掘され北太平洋に生息した大型のカイギュウ類の進化と系統を明らかにしました。豊平川からはその後も次々と新たな化石が発見され、札幌の海の時代とそこに生きた仲間たちの姿を明かにしつつあります。
+  source: https://ocw.hokudai.ac.jp/lecture/fossilinthetoyohirarive-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 古澤 仁
+  affiliation:
+    name: 札幌市博物館活動センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

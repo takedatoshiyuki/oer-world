@@ -1,0 +1,99 @@
+slug: icu-majors-pcs201-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: Peace and Human Rights 平和と人権
+description:
+  ja: 歴史上および現代世界の戦争・紛争の事例を取り上げ、その理由、主体、影響を考察する講義である。あわせて、平和と人権の国際化をめぐる研究の基礎を学び、理論と実践の両面を扱う。
+quotedDescription:
+  text:
+    ja: 'This course introduces cases of wars and conflicts in history and the contemporary world. It
+      will provide a better understanding of the reasons, actors, and effects of these conflicts, while
+      suggesting ways to their solutions.
+
+      平和と人権の国際化をめぐる研究の基礎を学び、理論と実践の両面を考察する。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      2
+
+      Videos'
+  source: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 千葉眞
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- Peace Studies 平和研究 | Course ID
+- 'PCS201 | Course Schedule: 5/TH ,6/TH | Update: 2014.04.28'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1HxWfrY4yfYdDlYJNdhqvptjKf-Bdodn9/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1aabxK_p2kS2w-8kj3mLIsGf6Azc_ksEN/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/18_JwmdLNudeMtyQ8co-ClUnSjd4odnOC/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1LtZEOJmSe5s8Cwvjhs7q02hEy1MADpDx/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10-tR5cUxSmnnTa1h38fYSZnzwawEO4PT/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1rUXxb9wXJOCLPTMfVsGCeaaeHHH-POKe/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1FHtd2_7gF9q9Ye1uvAlQUnvH_JADBukJ/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1uXc5TJREs6IGnoHFAC5WkUbdq03xc0M2/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1H2FQZY5ia2B_PZ8hFC0linVzqo2rYjRV/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/pcs201_2013a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

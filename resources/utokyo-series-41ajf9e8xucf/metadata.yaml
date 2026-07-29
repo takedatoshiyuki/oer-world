@@ -1,0 +1,94 @@
+slug: utokyo-series-41ajf9e8xucf
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=41AJF9e8xuCF
+type:
+- LearningResource
+- Course
+name:
+  ja: 数学ー革新の歴史と伝統の力（学術俯瞰講義）
+description:
+  ja: この講義は、数学が歴史の中でどのように革新され、同時にどのような伝統を受け継いできたかを扱う。座標や複素数、微分積分の成立から、幾何学の公理や連続・変換の概念をめぐる展開、さらに確率・統計や数理モデルを通じた社会との関わりまでを取り上げる。数理科学の研究者が、数学の発展と現代の課題への応用の接点を語る構成である。
+quotedDescription:
+  text:
+    ja: 'コーディネータ　坪井俊（理学部）
+
+      ナビゲータ　　　緒方芳子（理学部）
+
+      現代の数学はその長い歴史に支えられている。客観的な状況の評価や合理的な意思の決定のために数学は用いられてきた。人類が様々な事象に出会うたびに、それに対応するために数学は革新されてきた。数学の論理、数の概念は長い歴史の中で何度も問い直された。座標の方法の定着、複素数の発見、微分積分の創始など、高等学校で学ぶ数学の革新の後にも、幾何学の公理、連続の概念、変換の概念などを巡り、数学者の研究は進化し、新しい理論を生み出してきた。
+
+      数学は一方でそれ自体の整合性を求め創造的革新的に発展してきたが、他方で社会との関係の中で様々な飛躍を行ってきた。前世紀には数学の抽象化、形式化が大きく進んだが、これにより数学の応用範囲は拡がった。数学は科学の基礎として人々の事象のとらえ方に大きな影響も及ぼしてきている。
+
+      このような社会との相互作用の中で、数学の革新はそれまでの研究成果を止揚する形で進んだ。時には必要な応用への準備が数学の自体の中で前もって準備されているようなこともあり、現実の諸問題への数学の応用は社会から期待されるものになってきている。確率や統計の概念は、客観的な状況の評価や合理的な意思の決定のために現代の社会において重要な役割を果たすようになった。計算情報技術の大幅な進歩の中で、完成度の高い数理モデルの構築へむけて、現象を観測、分析、統合する側と数学の道具を開発する側の協働作業がますます必要とされている。
+
+      この講義では、これまでの数学の革新の歴史を振り返るとともに、そこで培われた伝統の力が新しい現象の理解、社会の問題への対処のためにどのように使われてきたかを、数理科学に関係する第一線の研究者に語っていただき、皆さんに数学の創造の現場の様子をお伝えしたいと思う。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=41AJF9e8xuCF
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Kazuo Okamoto
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石井 志保子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 楠岡 成雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 竹村 彰通
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 儀我 美一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西村 淸彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- ict
+keywords:
+- 数理
+- AI・情報
+- 数学
+- 数論
+- 幾何学
+- 思想
+- 確率
+- 統計学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

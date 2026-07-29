@@ -1,0 +1,64 @@
+slug: kyoto-u-course-0701
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/701/
+type:
+- LearningResource
+- Course
+name:
+  ja: Foundations of Intelligent Systems
+description:
+  ja: この講義は、機械学習の基礎を扱い、前半で離散データからの学習に関する理論を、後半で数値データや連続データからの学習に関する理論を扱う。形式言語や一階論理の式を例に、基本理論とその応用方法を学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の概要·目的
+
+      このコースでは、機械学習の基礎を調べます。最初の部分は、計算の学習などの正式な言語などの離散データから学習するためである理論と、一階論理の式を説明しています。第二部は、数値と連続データからの学習のためである統計的学習理論を説明しています。両方の部分は、基本的な理論とその応用の方法で構成されています。
+
+       
+
+      Course Description
+
+      This course examines the foundations of Machine Learning. The first part explains Computational
+      Learning Theory, which is for learning from discrete data, such as formal languages, and formulae
+      of first-order logic.
+
+      The second part explains Statistical Learning Theory, which is for learning from numerical and continuous
+      data. Both parts consist of fundamental theories and methods of their applications.'
+  source: https://ocw.kyoto-u.ac.jp/course/701/
+  note: 京都大学OCW 「授業の概要·目的」・「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Professor Akihiro Yamamoto
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 情報学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

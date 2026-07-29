@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0840
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/840/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第10回APRU博士課程学生会議
+description:
+  ja: 研究の独自性と、地域・文化における多様性を主題にした博士課程学生会議である。会議では、このテーマに関連する講演を英語で行う。
+quotedDescription:
+  text:
+    ja: '詳細HP→http://www.opir.kyoto-u.ac.jp/apru_dsc/index.html
+
+       
+
+      本会議のテーマである “Promoting Originality and Diversity in Research” により、研究の独自性，地域・文化における多様性といったテーマに繋がるお話をいただきます。講演はすべて英語で行われます。'
+  source: https://ocw.kyoto-u.ac.jp/course/840/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-07-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 国際交流センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

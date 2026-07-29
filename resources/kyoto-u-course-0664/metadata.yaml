@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0664
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/664/
+type:
+- LearningResource
+- Course
+name:
+  ja: 東南アジアの環境と社会
+description:
+  ja: 東南アジアとその周辺域を対象に、自然資源の持続的利用と環境と人間生活の関わりを多面的に扱う講義である。技術・生態学に加えて、民族、開発、社会経済システム、ポリティクスの視点から個別事例を検討し、南アジアや日本との比較も含める。講義は複数教員によるオムニバス形式で、大河川デルタの農業、焼畑、共有資源管理、山地少数民族、棚田保全、高齢化、農村問題、ジェンダー、技術変容などを扱う。
+quotedDescription:
+  text:
+    ja: '授業の概要目的
+
+      東南アジアとその周辺域における自然資源の持続的利用、およびより広く環境と人間生活に関わる諸問題について、技術的・生態学的観点からのみならず、民族、開発、社会経済システムやポリティクスといった点からも幅広くとりあげ、南アジア、日本との比較の視点を含め個別事例的に検討する。講義は、多彩な専門分野をバックグラウンドとする６名程度の教員によるオムニバス方式（1人2回）で行う。取り上げるトピックスの例としては、大河川デルタの農業と農業開発、焼畑システムとその変容、森林・放牧地など地域共有資源の管理・利用と住民組織の問題、山地少数民族の生業と社会変容、棚田の保全と地域開発、地球規模で進む社会の高齢化に関する諸問題、農村問題、ジェンダー、技術変容などである。'
+  source: https://ocw.kyoto-u.ac.jp/course/664/
+  note: 京都大学OCW 「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 安藤 和雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 水野 広祐
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河野 泰之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 清水 展
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松林 公蔵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 速水 洋子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 地球環境学堂・地球環境学舎
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,82 @@
+slug: utokyo-series-rrtxwl2iuvtj
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=RrTxwl2iUVTj
+type:
+- LearningResource
+- Course
+name:
+  ja: 私の物性基礎論・統計力学－研究者として、教育者として－（和達三樹最終講義）
+description:
+  ja: 物性基礎論・統計力学、特に非線形物理学を研究概要として示す講義で、和達三樹の最終講義として公開されている。出典サイトには、学歴と研究職歴を含む教授略歴も掲載されている。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      物性基礎論・統計力学、とくに非線形物理学
+
+      【教授略歴】
+
+      1945年 2月10日生まれ
+
+      1967年 東京大学理学部物理学科卒業
+
+      1970年 ニューヨーク州立大学大学院卒業（Ph.D.）
+
+      1970年 ニューヨーク州立大学研究員
+
+      1971年 東京教育大学光学研究所・助手
+
+      1975年 東京教育大学光学研究所・助教授
+
+      1975年 アルバータ大学客員研究員
+
+      1978年 筑波大学物理工学系・助教授
+
+      1980年 東京大学教養学部・助教授
+
+      1990年 東京大学理学部物理学科・教授'
+  source: https://ch.u-tokyo.ac.jp/series/?id=RrTxwl2iUVTj
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 和達 三樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 宇宙・物理
+- 物理学
+- 量子力学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 理学部・理学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

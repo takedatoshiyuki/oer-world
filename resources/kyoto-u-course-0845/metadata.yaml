@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0845
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/845/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第8回国際シンポジウム “Human Survivability Studies (HSS) and the Sustainable Development Goals (SDGs) in Asia”
+description:
+  ja: アジアにおける持続可能な開発目標を主題に、人口増加や経済成長、環境悪化、自然災害、社会不安定性などの状況を背景として扱う国際シンポジウムである。基調講演者を交え、京都大学総合生存学館の教員と学生が各自の研究関心をSDGsと結びつけて議論する。あわせて、人間の生存可能性研究を今後どのように発展させるかを検討する。
+quotedDescription:
+  text:
+    ja: 'Short Summary
+
+      This international symposium focuses Sustainable Development Goals (SDGs) in Asia, which is the
+      most developing area in the world in terms of population growth, industrial and agricultural development,
+      and economic growth. The area also has many risks such as environmental degradation, natural disasters,
+      and social instability. Inviting a couple of keynote speakers who provide insights about hot issues
+      in Asia, the GSAIS faculty members and students of GSAIS will discuss their own research interests
+      in relation to SDGs with the keynote speakers and other participants and will achieve some conclusion
+      how to further enhance human survivability studies for solving global issues.'
+  source: https://ocw.kyoto-u.ac.jp/course/845/
+  note: 京都大学OCW 「Short Summary」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-11-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

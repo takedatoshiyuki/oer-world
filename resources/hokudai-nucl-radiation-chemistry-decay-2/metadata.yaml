@@ -1,0 +1,58 @@
+slug: hokudai-nucl-radiation-chemistry-decay-2
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nucl-radiation-chemistry-decay-2
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築
+description:
+  ja: 放射化学概論として、核反応の基礎からRIの製造と分析への応用までを扱う。さらに、核分裂反応と放射性核種の取扱をテーマに含む。
+quotedDescription:
+  text:
+    ja: '講義１：放射化学概論 核反応[1]－核反応とは（矢永誠人先生・静岡大学学術院理学領域）　制限資料
+
+      講義２：放射化学概論 核反応[2]－ＲＩの製造と分析への応用（矢永誠人先生・静岡大学学術院理学領域）制限資料
+
+      講義３：放射化学概論 核分裂反応と放射性核種の取扱（矢永誠人先生・静岡大学学術院理学領域）'
+  source: https://ocw.hokudai.ac.jp/lecture/nucl-radiation-chemistry-decay-2
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 矢永誠人
+  affiliation:
+    name: 静岡大学学術院理学領域
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 放射化学
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

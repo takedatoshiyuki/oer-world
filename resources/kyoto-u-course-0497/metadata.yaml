@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0497
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/497/
+type:
+- LearningResource
+- Course
+name:
+  ja: 初心者のための簡易補修～よくある破損、こう直そう
+description:
+  ja: 図書館で見つかる図書の破損のうち、ページの破れや外れ、背の外れ、表紙と中身のつなぎ部分の緩みを取り上げる。作業手順を撮影した映像に基づくレクチャーと実習を通して、簡易な補修の手順を学ぶ。補修経験がない、または補修をよくわからないまま行っている図書系職員を対象とする。
+quotedDescription:
+  text:
+    ja: 'カウンターでの受け渡しや書架整理の際に破損した図書が見つかることがあります。破損の進行を止め長く利用するためには、傷みの少ないうちに適切な処置を施すことが大切です。今回は、ページの破れや外れ、背の外れ、表紙と中身のつなぎ部分の緩みなど、図書館でよくある破損を扱います。作業手順を撮影した映像に基づくレクチャーと実習を通して、ぜひ知っておきたい簡易な補修方法を学んでいただきます。今まで補修をしたことがない、またはよくわからないまま補修をしているという初心者の方が対象です。
+
+      京都大学図書館業務改善検討委員会 資料保存環境整備部会
+
+      対象：図書系職員'
+  source: https://ocw.kyoto-u.ac.jp/course/497/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-11-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: [講義] 初心者のための簡易補修～よくある破損、こう直そう'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/11/2010shyoshinsyanotameno_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/497/
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

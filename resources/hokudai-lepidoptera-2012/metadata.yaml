@@ -1,0 +1,51 @@
+slug: hokudai-lepidoptera-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/lepidoptera-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究教育資料 LEPIDOPTERA（レピドプテラ） 空を舞う昆虫たち、チョウとガの世界 （2012）
+description:
+  ja: 北海道大学の総合博物館が2012年に提供する、日本語の研究教育資料である。チョウとガを扱い、映像制作として藤田良治が担当している。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 映像制作： 藤田良治
+  affiliation:
+    name: 北海道大学高等教育推進機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- 北海道大学総合博物館
+- 企画展
+- 鱗翅目
+- 昆虫標本
+- 理学／自然科学
+audience:
+- student
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

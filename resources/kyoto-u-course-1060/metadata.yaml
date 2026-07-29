@@ -1,0 +1,53 @@
+slug: kyoto-u-course-1060
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1060/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学白浜水族館
+description:
+  ja: 京都大学白浜水族館を題材に、その成り立ちと展示の特徴を扱う。白浜周辺で採取された生物を常時約500種展示していることや、瀬戸臨海実験所での学生実習で利用されていることが示される。
+quotedDescription:
+  text:
+    ja: 【京都大学白浜水族館】昭和天皇行幸一周年の記念式典を機に、1930年に公開された歴史ある水族館です。年間約８万人の入館者が訪れ、瀬戸臨海実験所で実施される学生実習でも利用されています。展示生物は全て白浜周辺で採取されたもので、常時約500種を展示しています。
+  source: https://ocw.kyoto-u.ac.jp/course/1060/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山内 洋紀
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

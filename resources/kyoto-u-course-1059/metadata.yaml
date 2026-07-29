@@ -1,0 +1,75 @@
+slug: kyoto-u-course-1059
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1059/
+type:
+- LearningResource
+- Course
+name:
+  ja: 臨海実習第１部（瀬戸臨海実験所 学生実習）
+description:
+  ja: 京都大学の学生実習として開講された臨海実習で、瀬戸臨海実験所を拠点に行う内容である。出典文では、実験所の所在地や施設、周辺の海域・地形、見られる海洋生物の特徴が説明されている。あわせて、撮影当日の海況に関する注意書きも記されている。
+quotedDescription:
+  text:
+    ja: "【瀬戸臨海実験所】和歌山県西牟婁郡白浜町に位置し，1922年の設立以来，主として海産無脊椎動物の系統分類学・生態学など自然史学的研究が行われています。学内外の臨海実習や外来研究者による研究にも多数利用されています。田辺湾の無人島畠島を有し，また水族館を併設し一般に公開しています。付近の海域は黒潮分枝流の影響を強く受け温暖です。周辺の地形は複雑で，切立った崖に大小の入江と浜を配し，岩盤・転石・礫・砂・泥など様々な底質と，多種多様な海洋生物を見ることができます。\
+      \ \nご注意：撮影当日は波が高く、船舶が上下に揺れております"
+  source: https://ocw.kyoto-u.ac.jp/course/1059/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中野 智之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 後藤 龍太郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河村 真理子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山内 洋紀
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山本 恒紀）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小泉 佳祐
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部, フィールド科学教育研究センター
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

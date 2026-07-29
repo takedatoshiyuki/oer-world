@@ -1,0 +1,88 @@
+slug: utokyo-series-7ionqiwsafkj
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=7IoNqiwSaFKj
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際保健学としての感染症および母子保健（牛島廣治最終講義）
+description:
+  ja: この講義は、下痢症ウイルスやHIVの分子疫学、抗ウイルス薬の開発などの感染症研究を扱う。あわせて、発達と障害に関する研究や、多民族文化社会、アジアにおける母子保健を取り上げる。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      １）下痢症ウイルスとHIVの分子疫学
+
+      ２）抗ウイルス薬（エイズ薬等）の開発
+
+      ３）発達と障害に関する研究
+
+      ４）下痢症ウイルス、HIVの分子疫学、診断と治療の開発
+
+      ５）多民族文化社会による母子保健
+
+      ６）アジアにおける母子保健
+
+      【教授略歴】
+
+      1972年　東京大学医学部医学科卒業・東京大学付属病院小児科（研修医）
+
+      1973年　都立築地産院小児科・東京逓信病院小児科（医員）
+
+      1975年　帝京大学医学部小児科（助手）
+
+      1979年　米国アラバマ州立大学微生物部（リサーチフェロー）
+
+      1981年　帝京大学医学部小児科（助手）・東京厚生年金病院小児科（部長）
+
+      1987年　国立予防衛生研究所外来性ウイルス室・エイズウイルス室・腸内ウイルス室（室長）
+
+      1991年　国立公衆衛生院衛生微生物学部（部長）
+
+      1992年　東京大学医学部母子保健学教室（教授）・医学系研究科国際保健学専攻国際生物医科学講座発達医科学分野（教授）
+
+      2007年　教授退官'
+  source: https://ch.u-tokyo.ac.jp/series/?id=7IoNqiwSaFKj
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 牛島 廣治
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 生命・医療
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 医学部・医学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

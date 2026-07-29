@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0722
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/722/
+type:
+- LearningResource
+- Course
+name:
+  ja: 遺伝学
+description:
+  ja: 遺伝の仕組みとその物質的基礎を、細胞分裂を起点にして扱う講義である。染色体に焦点を当て、遺伝の法則、染色体の構造や異常、染色体工学、ゲノム分析、突然変異、遺伝子解析までを順に学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本授業では、生物学の基礎知識が無くても遺伝の仕組みや物質的基礎をを学べるように、細胞分裂から講述する。
+
+      授業の紹介
+
+      遺伝とは、遺伝情報、すなわち遺伝子 (gene) が親から子に伝わるこどであり、ヒトを含むすべての生物にとって最も重要な事象である。Ｇ.メンデルが1865年に正しい遺伝の法則を最初に発表した。1900年におけるメンデルの業績の再発見以降、遺伝学
+      (genetics) は科学の一分野となり、その後、人類遺伝学、バクテリア遺伝学、分子遺伝学など、いろいろな遺伝学に発展を続けている。本講義では、遺伝の仕組みと物質的基礎を、遺伝子の集合体である染色体という細胞構造に焦点を当てて講述する。以下の項目について講義を行う。(1)
+      細胞分裂、(2) 遺伝の法則、(3) 染色体、(4) 染色体の異常、(5) 染色体の操作、(6) 遺伝子突然変異、(7) 遺伝子の操作'
+  source: https://ocw.kyoto-u.ac.jp/course/722/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 遠藤 隆
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+- natural_sciences_math
+keywords:
+- 農学
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　細胞の分裂'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第2回　メンデルの遺伝学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第3回　メンデル遺伝学の発展'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第4回　染色体の構造'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第5回　染色体の数の異常'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第6回　染色体の構造の異常'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第7回　染色体地図'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第8回　染色体工学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第9回　ゲノム分析'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第10回　突然変異の分子的基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第11回　転移因子と突然変異'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+- name: '講義資料: 第12回　遺伝子の解析'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009_idengaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/722/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

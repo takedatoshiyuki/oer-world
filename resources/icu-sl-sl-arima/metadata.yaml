@@ -1,0 +1,49 @@
+slug: icu-sl-sl-arima
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/sl/sl_arima
+type:
+- LearningResource
+- Course
+name:
+  ja: '持続可能な開発目標達成に向けたアクション対話「対談: 責任あるグローバル市⺠を育む」'
+description:
+  ja: 持続可能な開発目標の達成に向けたアクション対話の一つとして、責任あるグローバル市民を育むことをテーマにした対談を扱う。国際基督教大学が提供し、有馬利男と日比谷潤子が担当する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 有馬利男
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 日比谷潤子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016-12-17'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講演・特別講義
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

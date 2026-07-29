@@ -1,0 +1,58 @@
+slug: utokyo-series-3hvok9xx68l8
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=3HVOK9XX68l8
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学プレミアム・サロン
+description:
+  ja: 東京大学プレミアム・サロンは、各分野のリーダーをゲストに招き、人生観や経営哲学、成功・失敗談を扱う講義である。ここでは株式会社サイバーエージェント代表取締役社長の藤田晋が、インターネットビジネスでの起業経験と経営哲学について語る。
+quotedDescription:
+  text:
+    ja: "「タフな次世代リーダーを育てる」理念のもと、東京大学プレミアム・サロンでは様々な分野でご活躍される各業界のリーダーの方々にゲストとしてお越しいただき、人生観、経営哲学、成功・失敗談などをお話いただいています。今回は株式会社サイバーエージェントの代表取締役社長である藤田晋氏をお招きし、インターネットビジネスにおける起業の経験や、第一線を走り続けるための経営哲学などについて語っていただきました。\
+      \ \n…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=3HVOK9XX68l8
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤田 晋
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済・金融
+- 起業
+- 経営
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

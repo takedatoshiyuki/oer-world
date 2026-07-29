@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0774
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/774/
+type:
+- LearningResource
+- Course
+name:
+  ja: The ubiquitous hyperfinite II1 factor
+description:
+  ja: 作用素環論における hyperfinite II1 factor R を中心に、その埋め込みと関連する構造を扱う講義である。R を Hilbert bimodule の観点から見直し、coarse
+    embeddings や tight embeddings について述べる。さらに、既知の未解決問題をこの観点から再検討し、新しい問題も取り上げる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      The hyperfinite \(II_1\) factor \(R\) has played a central role in operator algebras ever since
+      Murray and von Neumann introduced it, some 75 years ago. It is the unique amenable \(II_1\) factor
+      (Connes 1976), and in some sense the smallest, as it can be embedded in multiple ways in any other
+      \(II_1\) factor \(M\). Many problems in operator algebras could be solved by constructing ”ergodic”
+      such embeddings \(R \to M\). I will revisit such results and applications, through a new perspective,
+      which emphasizes the decomposition \(M\) as a Hilbert bimodule over \(R\). I will prove that any
+      \(II_1\) factor Madmits coarse embeddings of \(R\), where the orthocomplement of \(R\) in \(M\)
+      is a multiple of \(L^2(R) \overline{\otimes} L^2(R^{op})\). I will also prove that in certain situations,
+      \(M\) admits tight embeddings of \(R\). Finally, I will revisit some well known open problems, and
+      propose some new ones, through this perspective.'
+  source: https://ocw.kyoto-u.ac.jp/course/774/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of California
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Los Angeles）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-04-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0853
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/853/
+type:
+- LearningResource
+- Course
+name:
+  ja: Evolang IX Kyoto | The 9th Evolution of Language Conference
+description:
+  ja: 京都大学の人間・環境学研究科が開講した、英語による講義である。担当者として複数の研究者名が挙がっており、講義名からは言語の進化に関する会議であることが読み取れる。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Massimo
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Piattelli-Palmarini
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Minoru Asada
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Cedric Boeckx
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Simon Kirby
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Jenny Saffran
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Simon Fisher
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Russell Gray
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

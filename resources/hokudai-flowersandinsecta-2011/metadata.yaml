@@ -1,0 +1,52 @@
+slug: hokudai-flowersandinsecta-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/flowersandinsecta-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 花と昆虫の利害関係(2011)
+description:
+  ja: 昆虫と被子植物の相互作用を、進化の歴史と現在の具体例の両面から扱う講義である。花と昆虫の関係が固定的ではなく、環境や相手のふるまいに応じて変化することを、身近な事例も交えて考える。
+quotedDescription:
+  text:
+    ja: 「蝶は花の蜜を吸い、花は蝶に花粉を運んでもらうことで、両者はお互いに利益を得ている」- 広く知られるこうした理解は間違いではありませんが、詳しく調べると両者の関係はけっして固定的ではなく、環境や相手の振る舞いに応じて変化するダイナミックな関係であることがわかってきました。本講演ではまず、昆虫と被子植物が互いに影響を及ぼし合ってきた進化の歴史を概観します。また身近な例として、セイヨウオオマルハナバチの移入によって生じる問題などを取り上げます。これは現在進行中の流動的な現象であるため、正しい答えを示すというよりも、様々な側面を見ることで自然を複眼的に考えるきっかけになればと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/flowersandinsecta-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 稲荷 尚記
+  affiliation:
+    name: 総合博物館資料部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,93 @@
+slug: utokyo-series-2xy5guzs7hpj
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=2Xy5guzS7HPj
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバル化する社会に生きる－地球規模での競争の時代における日本（学術俯瞰講義）
+description:
+  ja: 経済のグローバル化が日本経済や社会生活に及ぼす影響を、カネ・モノ・ヒトの移動という切り口から扱う。日本企業の活動や労働者・生活者への影響を踏まえ、地球規模での競争の時代における日本のあり方を考える内容である。
+quotedDescription:
+  text:
+    ja: '現在、我々はグローバル化が急速に進展する時代に生きている。中国やベトナムの賃金水準の動向が日本企業の立地選択、ひいては国内雇用に影響を与え、米国の住宅価格の下落が内外の金融市場を不安定化させ、さらには景気動向を左右している。
+
+      カネ、モノ、ヒトがますます自由に国境を越えて移動し世界が一体化の度合いを強めることをグローバル化と呼ぶとすれば、経済分野におけるこのプロセスは、日本経済を世界経済の不可分の一部として取り込み、日本企業の活動や労働者・生活者としての我々の経済・社会生活も含め、我が国のあり方を大きく変えつつある。
+
+      本講義は、こうした経済のグローバル化の進展とその日本へのインパクトに焦点を当てて、カネ、モノ、ヒトなどいくつかの切り口から、我が国の経済・社会に及ぼされつつあるプラス及びマイナスの影響を明らかにするとともに、地球規模での競争の時代における我が国のあり方について考える。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=2Xy5guzS7HPj
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 廣松 毅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩田 一政
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤本 隆宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩井 克人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 生源寺 眞一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 白波瀬 佐和子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 全講師
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- agriculture
+- engineering
+keywords:
+- 経済・金融
+- 国際関係
+- 食料・農業・水産業
+- ロボット・技術
+- 人口・社会問題
+- 経済
+- グローバル化
+- 金融
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

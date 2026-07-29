@@ -1,0 +1,44 @@
+slug: sophia-20110412lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110412lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智大学総合人間科学部看護学科及び総合人間科学研究科看護学専攻新設記念講演会
+description:
+  ja: 上智大学が2011年4月12日に主催した講演会・シンポジウムで、久常節子が担当する。総合人間科学部看護学科と総合人間科学研究科看護学専攻の新設を記念する講演会として公開されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 久常 節子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2011/04/12
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0005
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/5/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成30年度 京都大学大学院エネルギー科学研究科公開講座「エネルギー科学の今－太陽光の利用と機器診断技術－」
+description:
+  ja: 構造物や交通輸送機器、遊具などの劣化に関わる事故を例に、非破壊検査の役割を扱う講演である。超音波法やうず電流法を含む検査法について、歴史・原理・運用方法を取り上げる。さらに、研究室で行っている賢い材料を用いた非破壊検査法も紹介する。
+quotedDescription:
+  text:
+    ja: '「モノの安全を診る技術 -非破壊検査を知る-」
+
+      木下 勝之（エネルギー科学研究科 准教授）
+
+      講演題目 「モノの安全を診る技術－非破壊検査を知る－」近年、トンネルなどの構造物、新幹線や航空機などの交通輸送機器、さらにジェットコースターなどの遊具といったさまざまなところで、モノの劣化による事故が起きています。そういった事故を未然に防ぐ技術のひとつとして超音波法やうず電流法といった非破壊検査法があります。本講座では、非破壊検査技術の歴史や原理、その運用方法について述べるとともに本研究室で行っている賢い材料を用いた非破壊検査法について紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/5/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 木下 勝之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-11-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー科学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

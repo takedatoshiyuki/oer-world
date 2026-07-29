@@ -1,0 +1,99 @@
+slug: utokyo-series-usi6ensbldyi
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Usi6eNsbLdYi
+type:
+- LearningResource
+- Course
+name:
+  ja: 法と現代社会－見える法と見えざる法（学術俯瞰講義）
+description:
+  ja: 法と社会が相互に影響し合う関係を、日本社会のいくつかの具体的な領域から考える講義である。現代社会で変化する医学、情報、科学技術、経済、都市コミュニティ、文化、市民生活を手がかりに、法が社会の変化にどう関わるかを扱う。
+quotedDescription:
+  text:
+    ja: '鼓腹撃壤の故事によれば、帝王世紀の太平の世に、ある老人が「日出でて作し、日入りて息（いこ）い，井を鑿ちて飲み、田を耕して食らう，帝の力何ぞ我に有らんや」と歌ったとのことである。この故事の真意は、「神の見えざる手」のように「目には定かに見えねども」、「帝の力」はユビキタス（普遍）に、その「高いわざ」で世の太平を支えているという点にあるとされる。この「帝の力」のユビキタスな在り方は、そのまま「法」に当てはまる。人々も、企業や組織も、その日々の活動において、「法の力何ぞ我に有らんや」と謳歌しているが、そのような太平の世の安寧は、「見えざる法の手」が機能しているからに他ならない。
+
+      この「見えざる法の手」が可視化するのは、社会の中の変化する領域においてである。そして、現代社会はさまざまな領域において激動していることをその特色としている。その点は、20世紀末、例えば1990年代の世界と、今世紀のこの数年の世界の在り方とを比較して見れば一目瞭然であろう。たとえば、再生医療等の医学分野、インタネット等の情報分野、発明発見等の科学技術分野、市場のグローバライゼイション等の経済分野、景観・眺望・日照などの都市コミュニティやフェニミズム等の文化分野、そして何より、消費生活や市民参加等の市民生活の全般にわたって変容と革新が加速度的に進んでいるのが現代社会である。
+
+      社会状態や人びとの価値観が変化するときには、その状態遷移コストを極小化するために意識的な法的制禦が必要となるとともに、逆に、変化した社会状態や価値観にリスポンシヴ（応答的）に法の方も変容してゆく。
+
+      このような法と社会の相互作用のフロンティア（最前線）のいくつかを日本社会からピックアップして共に考え直してみよう、というのが今回の学術俯瞰講義の「目論見」である。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Usi6eNsbLdYi
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 太田 勝造
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大村 敦志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 畔柳 達雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大渕 哲也
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 濱田 純一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 八代 尚宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 寺尾 美子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 清水 剛
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+- ict
+- social_sciences
+keywords:
+- 政治・法律
+- AI・情報
+- 経済・金融
+- 言語・思想
+- 社会問題
+- 法律
+- 法学
+- 司法制度
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

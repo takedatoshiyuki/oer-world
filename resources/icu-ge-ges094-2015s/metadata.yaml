@@ -1,0 +1,178 @@
+slug: icu-ge-ges094-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges094_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: S2：Human, Society and Culture in Post-disaster Era S2：「災後」の人間・社会・文化
+description:
+  ja: この講義は、「災後」に現れる社会的な課題を、科学技術・文化・政治の三つの観点から考える。災害文化や土地に根ざした知、公共政策、エネルギー政策、リスク社会論、農の復興などを扱い、学際的な見方をまとめと討議で振り返る。
+quotedDescription:
+  text:
+    ja: 'This course explores analytical frameworks that will enable us to understand various issues that
+      emerge in society in post-disaster era, including sociotechnical, cultural and political dimensions.
+
+      「科学・技術・社会」「文化・象徴」「政治・政策」の三つの視点から、新しい「災後」研究方法の可能性を探る。
+
+      Contents of Lectures
+
+      19
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Apr 13
+
+      イントロダクション
+
+      ・「災後（post-disaster）」とはどのような概念か
+
+      ・災害に対する学際性/リベラルアーツ的視点の意義
+
+      Apr 12
+
+      アジアン・フォーラム
+
+      「聞こえない、見えない嵐：フィリピン・レイテ島における聴覚・視覚障がい被災者への聞き取りから」
+
+      （西田昌之 チェンマイ大学・日本研究センター講師、文化人類学）
+
+      〈第一部：文化・象徴〉 ファシリテーター：加藤 恵津子
+
+      Apr 1
+
+      6
+
+      「災害文化」とは何か：東南アジアと東日本の比較から
+
+      ゲストスピーカー：西田昌之 チェンマイ大学・日本研究センター講師、文化人類学
+
+      Apr 20
+
+      「土地に根ざした知」を探る方法論：文化人類学と民俗学
+
+      Apr 23
+
+      潟化する世界のほとりで：東北学と震災
+
+      ゲストスピーカー：赤坂憲雄、民俗学
+
+      Apr 27
+
+      心は「災後」をどう見るか（1）：「災後/災間」への記号論的アプローチ
+
+      Apr 30
+
+      心は「災後」をどう見るか（2）：災害対応臨床心理学の視点から
+
+      ゲストスピーカー：橋本和典、臨床心理学
+
+      〈第二部：政治・政策〉 ファシリテーター:西尾 隆
+
+      May 07
+
+      「災後」の諸段階と公共政策：「自助」と補完性の原則
+
+      May 11
+
+      「共助」と共生のタイプ ：紐帯のあり方
+
+      May 14
+
+      災後のエネルギー政策（仮）
+
+      ゲストスピーカー：大河原雅子、前参議院議員
+
+      May 18
+
+      脱原発と政策過程
+
+      ゲストスピーカー：大森佐和、公共政策
+
+      May 21
+
+      エネルギーの地産地消へ
+
+      〈特別講義〉
+
+      May 25
+
+      安心と不安：生活者感覚とは
+
+      ゲストスピーカー：村上陽一郎、科学哲学・安全学
+
+      〈第三部・科学技術と社会〉 ファシリテーター：山口 富子
+
+      May 28
+
+      「災後」の社会とは：リスク社会論からの接近
+
+      Jun 01
+
+      災害と農の復興
+
+      Jun 04
+
+      風評被害を考える
+
+      Jun 08
+
+      農の現場から
+
+      ゲストスピーカー：杉内清繁、福島県有機農業者ネットワーク副理事
+
+      Jun 11
+
+      「安心」のかたち
+
+      Jun 15
+
+      まとめとディスカッション
+
+      ・「災後」への学際的/リベラルアーツ的視点の意義と限界'
+  source: https://ocw.info.icu.ac.jp/ge/ges094_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 加藤 恵津子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES094 | Course Schedule: 4*/M, 4*/TH | Update: 2016.06.30'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

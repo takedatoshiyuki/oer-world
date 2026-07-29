@@ -1,0 +1,73 @@
+slug: utokyo-series-sdqylgfe5tbx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=sdqylGfE5TbX
+type:
+- LearningResource
+- Course
+name:
+  ja: Ngozi Okonjo-lweala氏講演会（WTO事務局長）
+description:
+  ja: 世界貿易機関（WTO）事務局長のンゴジ・オコンジョ・イウェアラ氏が東京大学を訪れ、学生向けに短い講演を行う。前半では、世界貿易における課題と機会を主題に、サプライチェーンの強靭性と持続可能性を扱う。後半では、同氏を交えたパネル討論を通じて議論を続ける。
+quotedDescription:
+  text:
+    ja: Dr. Ngozi Okonjo-Iweala, Director General of the World Trade Organization (WTO) visited UTokyo
+      to give a short lecture to UTokyo students. In the first half of the event, Dr. Okonjo-Iweala gave
+      a short lecture titled“Our Challenges and Opportunities on Global Trade — Supply Chain Resilience
+      and Sustainability.” In the second half of the event, a panel discussion with Director General Okonjo-Iweal…
+  source: https://ch.u-tokyo.ac.jp/series/?id=sdqylGfE5TbX
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: ンゴジ・オコンジョ・イウェアラ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石井 菜穂子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 飯田 敬輔
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係
+- 経済・金融
+- Insights from Global Experts and International Leaders
+- 国際経済
+- 貿易
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

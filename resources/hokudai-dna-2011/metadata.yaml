@@ -1,0 +1,89 @@
+slug: hokudai-dna-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/dna-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: ひらめき☆ときめきサイエンス MISSION:遺伝子コードを解読せよ！（2011）
+description:
+  ja: この講義は、遺伝子に記された情報と生物の特徴の関係を扱い、PCR法と電気泳動法を使う。対象はお米で、遺伝子を増幅して大きさを調べ、その結果を組み合わせて遺伝子コードを読み解く流れになっている。
+quotedDescription:
+  text:
+    ja: '遺伝子には、生命をつかさどる情報がたくさん書き込まれています。科学技術が進歩したおかげで、植物や動物、わたしたち人間の遺伝子に書き込まれている、全ての情報が明らかになりました。遺伝子の情報がわかれば、さまざまな生物のもつ特徴を理解することができます。遺伝子研究の基本実験技術として世界の研究者がPCR
+      法や電気泳動法を利用しています。
+
+      このプログラムでは、調べたい遺伝子を人工的に増やすPCR 法と、その大きさを分析する電気泳動法を利用して、私たちが普段食べているお米の特徴を調べます。分析結果をパズルのように組み合わせて、お米のもっている遺伝子コードを解読しましょう！'
+  source: https://ocw.hokudai.ac.jp/lecture/dna-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 出村 誠
+  affiliation:
+    name: 先端生命科学研究院
+- type: Person
+  name: 塚本 卓
+  affiliation:
+    name: 生命科学院
+- type: Person
+  name: 北村 優紀
+  affiliation:
+    name: 生命科学院
+- type: Person
+  name: 高橋 里佳
+  affiliation:
+    name: 生命科学院
+- type: Person
+  name: 木戸 浩貴
+  affiliation:
+    name: 生命科学院
+- type: Person
+  name: 藤井 敦彦
+  affiliation:
+    name: 生命科学院
+- type: Person
+  name: 柴崎 宏介
+  affiliation:
+    name: 生命科学院
+- type: Person
+  name: 倉田 拓郎
+  affiliation:
+    name: 理学部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 遺伝子
+- PCR
+- 電気泳動
+- 品種
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

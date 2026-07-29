@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0287
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/287/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第73回人環国際交流セミナー “Human and Animal Wisdom-An Intercultural Perspective”「人間と動物の叡智 – 異文化間比較の観点から」
+description:
+  ja: 古代ヨーロッパとアジアの思想・文学に見られる動物表象を手がかりに、人間の知恵のあり方を考察する講義である。Aesop’s Fables、『荘子』、Hegelの「ミネルヴァの梟」への言及を通して、動物の知恵の描かれ方と、それが人間理解に与える含意を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      Philosophical and literary works in the classical European and Asian traditions have repeatedly
+      drawn on animal representations when deliberating about the nature and scope of human wisdom. Departing
+      from a close reading of selected stories from Aesop’s Fables, Hegel’s reference to the Owl of Minerva
+      and bird Peng in the Daoist classic Zhuangzi, the paper reconstructs diverse depictions of animal
+      wisdom and their implications for a revised conception of being human. The capacity of animals to
+      know intuitively, to undergo transformation processes and to effortlessly move in their natural
+      habitat calls into question the pretentiousness behind human claims to absolute knowledge. One major
+      function of imaging animal wisdom, the paper demonstrates, is to bring about an often humorous switch
+      of perspective. It allows for the cultivation of humility and the capacity of honoring forms of
+      life one does not completely understand. （講義は英語で行なわれました）'
+  source: https://ocw.kyoto-u.ac.jp/course/287/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Mario Wenning（中国・マカオ大学准教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大学院人間・環境学研究科客員准教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-06-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

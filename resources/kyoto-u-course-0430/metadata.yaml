@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0430
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/430/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「最小2乗法の歴史－地球の形とメートル法－」
+description:
+  ja: 森棟公夫による最終講義で、最小2乗法の歴史を扱う。題名にあるとおり、地球の形とメートル法との関わりを話題にしている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森棟 公夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-03-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- natural_sciences_math
+keywords:
+- 経済学・金融
+- 数学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

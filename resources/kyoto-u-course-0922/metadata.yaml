@@ -1,0 +1,96 @@
+slug: kyoto-u-course-0922
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/922/
+type:
+- LearningResource
+- Course
+name:
+  ja: E. FORUM 2016 全国スクールリーダー育成研修
+description:
+  ja: 学校や地域の教育改革を担うスクールリーダーの育成を扱う研修である。公開教材には、課題設定能力の育成に向けた指導と評価、および高校での教員の職能成長や授業改善に関する講義資料が含まれる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      現在の日本においては，学校や地域の教育改革を推進するスクールリーダー（教育委員会指導主事，学校管理職・研究主任，地域の教育サークルのリーダーなど）の育成・力量向上が求められています。そこで，京都大学大学院教育学研究科では
+      2006年度に E.FORUM を設立し，毎年「全国スクールリーダー育成研修」を提供しています。2012年度からは，教師をめざす学生たちにも積極的な参加を呼び掛け，教師のライフコース全体を見通した力量向上のネットワークを築くことをめざしています。
+
+       
+
+      京都大学大学院教育学研究科教育実践コラボレーション・センター主催'
+  source: https://ocw.kyoto-u.ac.jp/course/922/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 渡邉 久暢
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西條 哲司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岡本 真澄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 桑原 知子（京都大学教育学研究科 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 教育実践コラボレーション・センター センター長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西岡 加名恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高見 茂
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-08-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 課題設定能力の育成を目指す指導と評価の実際　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.forum_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/922/
+- name: '講義資料: 課題設定能力の育成を目指す指導と評価の実際　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.forum_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/922/
+- name: '講義資料: 高校における教員の職能成長と授業改善の可能性を探る～演劇的手法を用いたコミュニケーション力の育成とその評価研究から～　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.foum_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/922/
+- name: '講義資料: 高校における教員の職能成長と授業改善の可能性を探る～演劇的手法を用いたコミュニケーション力の育成とその評価研究から～　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/08/2016_e.foum_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/922/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

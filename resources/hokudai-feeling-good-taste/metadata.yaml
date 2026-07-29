@@ -1,0 +1,60 @@
+slug: hokudai-feeling-good-taste
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/feeling-good-taste
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 食快感の解剖学 （2013）
+description:
+  ja: 味の基本要素として甘味、塩味、酸味、苦味、うまみを取り上げるほか、辛み、のどごし、温度感覚のような口や喉で感じる要素も扱う。さらに、飲み込んだ後に胃や腸にあるセンサー細胞がどのように認識し、消化吸収へつながるかにも触れ、食快感を多面的に考える。
+quotedDescription:
+  text:
+    ja: 私達は味を感じるために、われわれは舌の表面に５種類の味、すなわち甘味、塩味、酸味、苦味、うまみを識別することができる味蕾（みらい）をもっています。さらに辛み、のどごし、温度感覚などの複雑な味覚要素を口や喉の神経を通して直接感じていると考えられています。ビールの喉越しや麺食での喉を通過するときの快感は重要ですよね。飲み込んだ後は胃や腸に存在するセンサー細胞がそれらを認識して、効率のよい消化吸収を導いています。このセンサー細胞は神経との連絡がなく興奮しても意識にはのぼらないため、私達は飲みこんだ後のことまで感知していないのです。本講義では食快感について改めて考えます。
+  source: https://ocw.hokudai.ac.jp/lecture/feeling-good-taste
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 岩永 敏彦
+  affiliation:
+    name: 北海道大学大学院医学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 食快感
+- 解剖学
+- 味覚
+- 味蕾
+- 辛み
+- のどごし
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

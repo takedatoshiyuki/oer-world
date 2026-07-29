@@ -1,0 +1,88 @@
+slug: utokyo-series-qopcyieynunu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=QOpcYIeYnUnu
+type:
+- LearningResource
+- Course
+name:
+  ja: 学問と人間（学術俯瞰講義）
+description:
+  ja: 大学の変革期を背景に、学問そのものの意味を考え直す講義である。人文・社会・心理の分野、とくに思想・宗教や学問論に関わる視点から、学問と人間の関係や、人間を対象とする学問がどう成立するかを扱う。
+quotedDescription:
+  text:
+    ja: 現在、大学は、第二次大戦後３度目といわれる、大きな変革期に直面しています。第１の変革期は、戦後まもなく、旧制大学から新制大学への移行期であり、第 ２のそれは、１９６８／６９年、全世界的なスチューデント・パワーが大学を席巻した時代です。
+      それぞれの変革期には、大学のありかたが問われるとともに、学問それ自体が鋭く問われてきました。この、第３の変革期も例外ではありません。学問を問うこ とは、学問を担う人間を問うことであり、そもそも学問と人間との関係それ自身を問いかえすことです。学問とは、すぐれて人間による営みであるからです。
+      人間、文化、社会、歴史を問題とする学問領域は、同時に、みずからの営みそれ自体を問いかえす宿命を帯びています。それは、人間を対象とする学問（科学） は、そもそもいかにして可能なのかを問い、理性とは背反するとされる対象を学問的に考察する意味を問い、真理それ自体の、いわゆる「客観性」と「歴史性」
+      に対して、あらためて問いかけます。 この講義は、「学術俯瞰講義」シリーズのひとつとして、人文・社会・心理の分野、とりわけ思想・宗教や学問論の分野において広い視野をもった本学関係者が 講師を担当します。この講義によって学生諸君が学問自体の意味を問う営みに触れ、また人文・社会系統の学のありかたに触れられることを望んでいます。
+  source: https://ch.u-tokyo.ac.jp/series/?id=QOpcYIeYnUnu
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐伯 胖
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 島薗 進
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 末木 文美士
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 上野 千鶴子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 坂部 恵
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小林 康夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- arts_humanities
+- health_welfare
+keywords:
+- 心理・認知
+- 歴史
+- 言語・思想
+- 生命・医療
+- 人口・社会問題
+- 文化・芸術・文芸
+- 教育
+- 心理学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

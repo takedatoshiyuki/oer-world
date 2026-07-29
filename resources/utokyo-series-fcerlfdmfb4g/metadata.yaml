@@ -1,0 +1,98 @@
+slug: utokyo-series-fcerlfdmfb4g
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=fCeRlfdMfB4g
+type:
+- LearningResource
+- Course
+name:
+  ja: ワンヘルスの概念で捉える健全な社会（学術俯瞰講義）
+description:
+  ja: 人・動物・環境の相互関係を踏まえて健康を捉えるワンヘルスの考え方を基軸に、環境、食糧、感染症といった課題を地球規模で考える講義である。多分野の専門家を交えながら、健全で持続可能な社会を築くために必要な視点と課題を扱う。
+quotedDescription:
+  text:
+    ja: 'コーディネータ：芳賀 猛
+
+      ナビゲータ：梶谷 真司
+
+      ワンヘルス（One Health）は、人、動物、環境は相互に密接な関係があり、それらを総合的に良い状態にすることが真の健康である、という概念です。グローバル化が加速し、世界的な人口増加の中、環境・食糧・感染症といった、人類共通の課題がクローズアップされてきます。このような課題の克服には、世界は一つ、健康も一つ
+      ”One World, One Health” の観点から、地球規模で、分野横断的なアプローチが求められます。この講義では、広い分野から専門の先生を招き、ワンヘルスの概念を念頭に、健全で持続可能な社会を構築していくには、これからどのようなことが求められるか、考えていきます。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=fCeRlfdMfB4g
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 芳賀 猛
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 梶谷 真司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 直樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 釘田 博文
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松本 芳嗣
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 敏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 笠井清登
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐々木 伸雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- health_welfare
+- natural_sciences_math
+- agriculture
+keywords:
+- 生命・医療
+- 環境
+- 食料・農業・水産業
+- 人口・社会問題
+- 心理・認知
+- 歴史
+- 災害・防災
+- ワンヘルス
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

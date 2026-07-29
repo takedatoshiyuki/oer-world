@@ -1,0 +1,57 @@
+slug: utokyo-series-1jwaagmszedx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=1JWAAgmszedX
+type:
+- LearningResource
+- Course
+name:
+  ja: 2010年度ノーベル文学賞作家 マリオ・バルガス=リョサ氏講演会
+description:
+  ja: 2010年度ノーベル文学賞受賞者のマリオ・バルガス=リョサ氏が、自身の文学観を「文学への情熱ともうひとつの現実の創造」というテーマで語る講演会である。ラテンアメリカ文学の1960年代のブームにも触れ、作家として社会的不正や暴力に向き合うことについても扱う。
+quotedDescription:
+  text:
+    ja: "2010年度ノーベル文学賞受賞者のマリオ・バルガス=リョサ氏を迎えた講演会です。 ラテンアメリカでは1960年代に文学が活況を呈し、世界的な＜ブーム＞を引き起こしました。その＜ブーム＞の立役者のひとり、マリオ・バルガス=リョサ氏が「文学への情熱ともうひとつの現実の創造」というテーマで語ってくださいます。\
+      \ 壮大な小説を書き続けるとともに社会的不正や暴力に立ち向かう作家の、生の声をお聞きください。 \n \n  ※リョサ…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=1JWAAgmszedX
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: マリオ・バルガス=リョサ
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文化・芸術・文芸
+- 'The Pinnacle of Intellect: Masterclasses by Nobel Laureates'
+- 文学
+- ノーベル賞
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

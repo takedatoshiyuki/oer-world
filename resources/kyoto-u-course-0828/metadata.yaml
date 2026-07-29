@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0828
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/828/
+type:
+- LearningResource
+- Course
+name:
+  ja: 複言語主義・複文化主義：東アジアと世界におけるフランス語教育
+description:
+  ja: 複言語主義と複文化主義を主題に、東アジアと世界におけるフランス語教育を扱う講義である。京都大学の人間・環境学研究科で開講され、Jacques LEGENDREが担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Jacques LEGENDRE （Sénateur
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: France）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

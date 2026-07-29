@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0790
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/790/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2006年度 OCW国際会議
+description:
+  ja: 日本で初めて世界中の大学が集まって開かれたOCW国際会議の様子を、写真とビデオで示す教材である。会議の記録を通して、当日の雰囲気や場面を確認できる。
+quotedDescription:
+  text:
+    ja: '日本で初めて世界中の大学が集まり開催されたOCW国際会議の様子を、ビデオと写真で掲載しました。
+
+      下記リンクより是非ご覧ください。'
+  source: https://ocw.kyoto-u.ac.jp/course/790/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: Photo'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/04/2006-international_conference_on_ocw_photo.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/790/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

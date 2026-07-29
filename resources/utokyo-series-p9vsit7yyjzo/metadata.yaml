@@ -1,0 +1,58 @@
+slug: utokyo-series-p9vsit7yyjzo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=P9VsIT7YyJzo
+type:
+- LearningResource
+- Course
+name:
+  ja: 経営管理 I
+description:
+  ja: 本講義は、もの造りの基本ロジックを手がかりに、製品開発と生産を含むトータル・システムを競争力と結びつけて考える。広義の情報や行為の情報という概念を用い、生産活動を工程から製品への設計情報の転写として捉える視点を扱う。
+quotedDescription:
+  text:
+    ja: '本講義のメインテーマは、「もの造りの基本ロジック」の追求を通じた「競争力の維持・発展」である。製品開発や生産の諸活動が相互に連携しながら「競争 力」という一つの帰結に収斂する。そのための開発・生産の「トータル・システム」を競争力と結びつける糸として「広義の情報」と捉える。講義では一貫し
+      て、生産活動を「工程から製品への設計情報の転写」とみなす姿勢を貫いている。
+
+      本講義ではそのような「行為の情報」概念を接着剤として「トータル・システム」と「競争力」を関連付けることをねらいとしている。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=P9VsIT7YyJzo
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤本 隆宏
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 経済学部・経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

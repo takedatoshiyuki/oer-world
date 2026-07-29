@@ -1,0 +1,59 @@
+slug: hokudai-chinesefaculty05ia-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/chinesefaculty05ia-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: GCOE総合博物館市民セミナー 越境する中国のメディア（2011）
+description:
+  ja: 中国のメディアを対象に、インターネット、テレビ、新聞といった複数の媒体の動きを取り上げる。中国社会を映すメディアの現状を手がかりに、その最前線を紹介する講義である。
+quotedDescription:
+  text:
+    ja: '『中国のメディア』と聞くと、皆さんはどのようなイメージをもたれるでしょう？ 中国共産党の強い統制…、インターネットに横行する海賊版コンテンツ…、尖閣諸島の漁船衝突など外交問題が発生すると、蔓延する排外的な言論…
+      これらは確かに中国メディアの現状ではありますが、急速に拡大するインターネット上や、また、テレビや新聞などの伝統メディアでさえも、私たちの想像を超える新しい動きがあります。むしろ日本のメディアより、境界を越えようとするエネルギーに満ちあふれているようにも見えます。この講演では、中国社会を写すメディアの最前線をご紹介いたします。
+
+      ‡ これらの資料は制限資料です。'
+  source: https://ocw.hokudai.ac.jp/lecture/chinesefaculty05ia-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 渡辺 浩平
+  affiliation:
+    name: メディア・コミュニケーション研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 中国
+- メディア
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: GCOE総合博物館市民セミナー
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

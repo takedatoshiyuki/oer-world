@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0163
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/163/
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別シンポジウム「グローバル人材と日本語」－日本の国際化を担う人材が磨くべき言語能力とは－
+description:
+  ja: 日本の国際化を担う人材に求められる言語能力を、英語だけに限らず日本語や複言語能力の観点から考えるシンポジウムである。日本語で世界に発信し、複数の外国語を通じて情報を受け取る人材像と、その育成に対して言語教育が担う役割を扱う。
+quotedDescription:
+  text:
+    ja: '開催趣旨
+
+      日本の国際化を担う「グローバル人材」の育成は、国家的課題とまで言われているが、その具体像が未だ曖昧な中、ただ英語の運用能力を身につけた人材をグローバル人材とする風潮もある。しかし日本の人材育成においてまず重視すべきは母語である日本語の力であり、そして英語に限定されない、多様な外国語を学び、理解する複言語能力ではないだろうか。日本語を使って世界に日本を発信し、複言語能力を活かして世界の情報を吸収できる人材の育成に向けて、今、言語教育ができることとは何か。'
+  source: https://ocw.kyoto-u.ac.jp/course/163/
+  note: 京都大学OCW 「開催趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-01-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,80 @@
+slug: kyoto-u-course-0336
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/336/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2015年度 京都大学新任教員教育セミナー
+description:
+  ja: 京都大学の新任教員教育セミナーとして、大学教育の動向や京都大学の教育改革を扱う。あわせて、ICTを使った教育、MOOCやOCW、学生の学習アセスメント、教育・学習支援に関する話題を複数の講演で取り上げる。
+quotedDescription:
+  text:
+    ja: '1 「開会挨拶」
+
+      高等教育研究開発推進センター長／教授　飯吉 透
+
+      2 「現在の大学教育の動向と京都大学の教育改革」
+
+      教育担当理事　北野 正雄
+
+      3 「京大の教育的取組　ICTを使った教育－MOOCを中心に－」
+
+      高等教育研究開発推進センター長／教授　飯吉 透
+
+      4 「高校と大学のギャップを埋めるOCWプロジェクト」
+
+      国際高等教育院副教育院長／教授　三輪 哲二
+
+      5 「京大生の学習のアセスメント」
+
+      高等教育研究開発推進センター准教授　山田 剛史
+
+      6 「私の授業」
+
+      農学研究科教授　北島 薫
+
+      7 「京大の教育・学習支援」
+
+      高等教育研究開発推進センター教授　松下 佳代
+
+      8 「京大の教育・学習支援」
+
+      図書館機構准教授　北村 由美
+
+      9 「京大の教育・学習支援」
+
+      国際交流センター教授　河合 淳子'
+  source: https://ocw.kyoto-u.ac.jp/course/336/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

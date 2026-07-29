@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0330
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/330/
+type:
+- LearningResource
+- Course
+name:
+  ja: 振動・波動論
+description:
+  ja: 振動と波動の基礎を扱い、単振動から減衰振動・強制振動、2自由度の連成振動へと進む。さらに、一般の自由度における基準振動モードと基準座標、連続体の振動、波動方程式、フーリエ級数展開までを学ぶ。公開教材として、共鳴現象の例と応用である核磁気共鳴を扱う資料がある。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      力学的運動のみならず、電磁気現象など自然界のさまざまな分野に共通して登場する振動・波動の基礎について講義する。現象を数式を用いて表現し、数学的に解析して、各種物理量の関係を導出する手法、および得られた数式の物理的意味を分かり易く解説する。
+
+      授業の紹介
+
+      単振動より始めて、減衰振動および強制振動を扱い、自由度が２の場合の連成振動を考察する。次に、一般の自由度の基準振動モードと基準座標について学ぶ。さらに、連続体の振動とそれを記述する波動方程式を述べ、その解の性質や固有振動を取り扱う数学的方法としてのフーリエ級数展開を論じる。これらをもとに波の重ね合わせや
+      干渉・回折等の波の性質について考察する。'
+  source: https://ocw.kyoto-u.ac.jp/course/330/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 前川 覚
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-04-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 物理学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 共鳴現象の例と応用：核磁気共鳴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012shindouhadouron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/330/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

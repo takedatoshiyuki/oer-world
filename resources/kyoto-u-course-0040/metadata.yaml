@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0040
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/40/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第28回 京都大学品川セミナー「大人になっても神経細胞は増えているの？－その不思議な役割について」
+description:
+  ja: この講義では、成体になってからも脳で新しいニューロンが生まれる現象を取り上げ、その分布と働きを説明する。海馬・歯状回や側脳室周囲領域でのニューロン新生が、記憶や匂い情報の処理、さらに一部の行動にどう関わるかを、マウスの実験結果に基づいて紹介する。あわせて、子供の時期に生まれるニューロンの役割にも触れる。
+quotedDescription:
+  text:
+    ja: 脳にある神経細胞（ニューロン）は胎児期にのみ産生され、子供や大人になってから一度失われると二度と再生しないと考えられてきました。ところが、ヒトを含めた哺乳動物の脳の海馬・歯状回や側脳室周囲領域では、成体になっても新たなニューロンが生まれ続けること（成体脳ニューロン新生）が明らかになってきました（図１）。海馬・歯状回で生まれたニューロンは記憶や学習に重要な役割を担い、側脳室周囲領域で生まれたニューロンは匂い情報の処理に働きます。遺伝子操作によって、成体になってから新たなニューロンができないマウスを作ったところ、空間記憶（どこが安全か、どこにエサがあるかといった場所に関する記憶）に障害が見られました。しかし、匂いの識別や記憶に関しては、異常は見つかりませんでした。次に、天敵臭に対する反応をしらべたところ、正常マウスもニューロン新生を抑制したマウスもどちらも忌避反応を示しました。ところが、天敵臭と報酬（エサ）を同時に提示すると、正常マウスはやはり忌避反応を示すのに対して、ニューロン新生を抑制したマウスは天敵臭に近付きエサを食べるようになり、さらにエサ無しでも天敵臭に近付くよう条件付けもできました。また、ニューロン新生を抑制したオスはメスに対して明らかな性行動を示さなくなりました。一方、ニューロン新生を抑制したメスは妊娠率の低下や子育て放棄を示しました（図２）。このように、ニューロン新生が抑制されると、嗅覚に依存した応答（匂い応答）の中で先天的にプログラムされたものに異常が見られました。このような大人になってから生まれるニューロンの不思議な役割について、最近の研究成果を紹介します。また、子供の時期に新しいニューロンができないマウスを作ったところ、違った異常が見られることがわかりました。子供のときに生まれるニューロンの不思議な役割についても紹介します。
+  source: https://ocw.kyoto-u.ac.jp/course/40/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 影山 龍一郎）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-09-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: ウイルス・再生医科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

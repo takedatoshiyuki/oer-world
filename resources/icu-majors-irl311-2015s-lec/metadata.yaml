@@ -1,0 +1,142 @@
+slug: icu-majors-irl311-2015s-lec
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/irl311_2015s_lec
+type:
+- LearningResource
+- Course
+name:
+  ja: Global Environment and Sustainable Development 地球環境と持続可能な開発
+description:
+  ja: 地球環境と持続可能な開発のガバナンスを、学際的な観点から扱う講義である。気候変動や生物多様性、森林、淡水、海洋をめぐる国際関係を、国連人間環境会議、京都議定書、水俣条約、海洋酸性化などの事例を通して検討する。
+quotedDescription:
+  text:
+    ja: 'Examines the key conceptual frameworks and selected case studies in global environment and sustainable
+      development.
+
+      地球環境と持続可能な開発のガバナンスを学際的に検討する。気候変動、生物多様性保全、森林、淡水や海洋などをめぐる国際関係についての事例研究を行う。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Apr 10
+
+      ミレニアム開発目標から持続可能な開発目標へ
+
+      事例研究：国連人間環境会議
+
+      Apr 17
+
+      酸性雨とオゾン層をめぐる国際関係
+
+      事例研究：PM2.5
+
+      Apr 24
+
+      気候変動をめぐる国際関係
+
+      事例研究：京都議定書
+
+      May 01
+
+      生物多様性をめぐる国際関係
+
+      事例研究：名古屋会議
+
+      May 08
+
+      森林と砂漠化をめぐる国際環境
+
+      事例研究：被災地観光とサステナブル・ツーリズム ゲスト講師：島川崇・東洋大学国際地域学 部准教授
+
+      May 22
+
+      越境廃棄物と有害物質をめぐる国際関係
+
+      事例研究：水俣条約
+
+      May 29
+
+      淡水をめぐる国際関係
+
+      事例研究：仮想水
+
+      Jun
+
+      05
+
+      「グローバル倫理：原子力エネルギーの技術とリスク」国際シンポジウム
+
+      エネルギーをめぐる国際関係：再生可能エネルギー
+
+      ゲスト講演：飯田哲也（環境エネルギー政策研究所所長）
+
+      討論：山本良一（国際基督教大学客員教授）
+
+      事例研究：地震・津波・原子力災害への対応：市民社会の視点から
+
+      ゲスト講師：
+
+      マルカ・オールダー（カーネギー倫理国際関係協議会上級フェロー）
+
+      満田夏花（FoE Japan理事）
+
+      高田久代（グリーンピース・ジャパン 気候変動・エネルギー担当）
+
+      山岸尚之（世界自然保護基金ジャパン 気候変動・エネルギーグループリーダー）
+
+      Jun
+
+      12
+
+      海洋をめぐる国際関係/事例研究：海洋酸性化
+
+      マグロをめぐる海洋ガバナンス ゲスト講師：真田康弘・早稲田大学日米研究機構非常勤研究員'
+  source: https://ocw.info.icu.ac.jp/majors/irl311_2015s_lec
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 毛利勝彦
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'International Relations 国際関係学 '
+- 'IRL311 | Course Schedule: 5/F,6/F | Update: 2015.08.03'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

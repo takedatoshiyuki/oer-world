@@ -1,0 +1,68 @@
+slug: hokudai-healthscience-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/healthscience-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク ようこそ！ヘルスサイエンスの世界へ（2013）
+description:
+  ja: 保健科学研究院の公開講座として、3人の研究者がそれぞれの専門分野を紹介する。内容は、関節リウマチへの画像診断の活用、超音波による心臓と血流の観察、子どものうつ病と若者の自殺の実態と対策を扱う。サステナビリティ・ウィーク2013のテーマに沿って、保健科学の視点から解説する。
+quotedDescription:
+  text:
+    ja: "保健科学研究院の公開講座は「ようこそ！ヘルスサイエンスの世界へ」というテーマのもと、3名の研究者が専門分野の紹介をわかりやすく行います。\n第1限目：「リウマチ診療の進歩と画像診断」\n\
+      神島保教授（医用生体理工学分野）が進行性の関節破壊をきたす関節リウマチの診断・治療に画像診断がどのように役立つかを解説します。\n第2限目：「超音波でみる心臓の動きと血液の流れ」\n三神大世教授（病態解析学分野）が心臓の動きや血流の動画など人体内をリアルタイムで映像化する超音波の診断能力について解説します。\n\
+      第3限目：「子どものうつと自殺に傾く心理－その実態と対策について－」\n傳田健三教授（生活機能学分野）が、近年増加している子どものうつ病、若者の自殺について、わが国の実態を報告し、その対策について解説します。\n\
+      講演者はサスティナビリティ・ウィーク2013のテーマである「持続可能な社会の構築に向けた学び」をキーワードとして、保健科学の視点から詳しくかつ分かりやすく解説します。\nリンク\nようこそ！ヘルスサイエンスの世界へ\
+      \ \n(サステナビリティ・ウィーク2013オフィシャルサイト）"
+  source: https://ocw.hokudai.ac.jp/lecture/healthscience-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小林 清一
+  affiliation:
+    name: 北海道大学大学院保険科学研究院
+- type: Person
+  name: 伊達 広行
+  affiliation:
+    name: 北海道大学大学院保険科学研究院
+- type: Person
+  name: 小笠原 克彦
+  affiliation:
+    name: 北海道大学大学院保険科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- ヘルスサイエンス
+- 持続可能な社会の構築に向けた学び
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

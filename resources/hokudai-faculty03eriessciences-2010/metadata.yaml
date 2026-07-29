@@ -1,0 +1,83 @@
+slug: hokudai-faculty03eriessciences-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty03eriessciences-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク 市民フォーラム サステナビリティ水産学の理論と実践（2010）
+description:
+  ja: 水産資源を将来にわたって利用するための考え方を扱い、漁獲から食卓までの流れで生じる環境負荷に触れる。あわせて、フード・マイレージ、エコラベル、トレイサビリティ、養殖を取り上げ、海洋生態系の保全と水産食料の持続的確保の関係を考える。
+quotedDescription:
+  text:
+    ja: サケやイワシ、マグロといった水産資源を、世界の人々が未来ずっと食べていくには、どうしたらよいのか考えます。水産生物が漁獲されてから食卓にあがるまでの間に、どれくらい環境へ影響を与えたのかを示す、フード・マイレージ、エコラベル、食料トレイサビリティ，養殖などを話題にします。海洋生態系の保全と水産食料の持続的な確保が同時に可能となるよう、学問と実践の両方を進める必要があります。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty03eriessciences-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 嵯峨 直恆
+  affiliation:
+    name: 水産科学研究院
+- type: Person
+  name: 帰山 雅秀
+  affiliation:
+    name: 水産科学研究院
+- type: Person
+  name: Ussif Rashid Sumaila
+  affiliation:
+    name: The University of British Columbia
+- type: Person
+  name: 井田 徹治
+  affiliation:
+    name: 共同通信社
+- type: Person
+  name: 永田 光博
+  affiliation:
+    name: 北海道立総合研究機構
+- type: Person
+  name: 北田 修一
+  affiliation:
+    name: 東京海洋大学
+- type: Person
+  name: I Nyoman Radiarta
+  affiliation:
+    name: Hokkaido University
+- type: Person
+  name: 滝川 裕弘
+  affiliation:
+    name: アクセプターテクノ株式会社
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 水産学
+- 水産学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,80 @@
+slug: hokudai-healthofchildren-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/healthofchildren-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク みんなで考えよう－身近な環境と子供の健康－（2010）
+description:
+  ja: 北海道大学学術交流会館で開催された「みんなで考えよう －身近な環境と子供の健康－」の映像資料を収録している。身近な環境と子供の健康を扱う内容で、2010年にサステイナビリティ学教育研究センターで開講された教材である。
+quotedDescription:
+  text:
+    ja: 「北海道大学学術交流会館 」で開催された「みんなで考えよう －身近な環境と子供の健康－ 」の映像資料をご覧いただけます。
+  source: https://ocw.hokudai.ac.jp/lecture/healthofchildren-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 宮下 ちひろ
+  affiliation:
+    name: 環境健康科学研究教育センター
+- type: Person
+  name: 荒木 敦子
+  affiliation:
+    name: 環境健康科学研究教育センター
+- type: Person
+  name: 矢野 公一
+  affiliation:
+    name: 札幌市保健福祉局
+- type: Person
+  name: 水上 尚典
+  affiliation:
+    name: 医学研究科
+- type: Person
+  name: 岸 玲子
+  affiliation:
+    name: 北海道大学環境健康科学研究教育センター
+- type: Person
+  name: 川口 明人
+  affiliation:
+    name: 教育学研究院
+- type: Person
+  name: 齋藤 健
+  affiliation:
+    name: 保健科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- education
+keywords:
+- 医学／保健学
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

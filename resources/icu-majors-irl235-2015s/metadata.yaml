@@ -1,0 +1,88 @@
+slug: icu-majors-irl235-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/irl235_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: Politics and International Relations in Europe 欧州の政治と国際関係
+description:
+  ja: この講義は、EUの制度、域内の統合政策、対外関係を扱う。授業にはEU機関や加盟国に関わるゲスト・スピーカーの講演が含まれ、学生の研究報告が行われる場合もある。講義内容には、EUと日本の関係、ドイツとEU、地政学的混迷の時期のEUが含まれる。
+quotedDescription:
+  text:
+    ja: 'This course includes institutions of the EU, its integration policy as well as its external relations.
+      Guest speakers from EU Institutions and its member-states will be invited. Students may present
+      their research outcome.
+
+      EUの仕組みを概説し、EU域内の統合政策およびEUの対外関係を講述する。EU機関およびEU加盟国など、EUに直接関わっているゲスト・スピーカーによる講演も授業に組み込む。受講者数にもよるが、学生の研究報告も行う。
+
+      Contents of Lectures
+
+      3
+
+      Lectures / 3 Videos
+
+      May 21
+
+      EU-Japan Relations EUと日本の関係
+
+      Guest Speaker : Ambassador of EU to Japan 駐日EU大使 H.E. Mr.Isticioaia Budura
+
+      May
+
+      28
+
+      Germany and EU ドイツとEU
+
+      Guest Speaker :
+
+      University of Bonn ボン大学教授 Professor Dr.Ludger Kühnhardt
+
+      May 28
+
+      EU in Times of Geopolitical Turmoil 地政学的混迷の時期のEU
+
+      Guest Speaker : University of Bonn ボン大学教授 Professor Dr.Ludger Kühnhardt'
+  source: https://ocw.info.icu.ac.jp/majors/irl235_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 植田 隆子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'International Relations 国際関係学 '
+- 'IRL235 | Course Schedule: 2/TH,3/TH | Update: 2015.09.25'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

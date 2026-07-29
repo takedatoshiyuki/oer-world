@@ -1,0 +1,53 @@
+slug: sophia-20009003gse11600
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20009003gse11600/
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語と人間II
+description:
+  ja: 言語研究を中心に、隣接する諸分野との関係を広く扱う講義である。「言語と人間I」で学ぶ基礎を踏まえ、言語研究に直接・間接に関わる分野を見渡し、その動向を概観する。講義は各担当教員が2回ずつ担当する輪講形式で行う。
+quotedDescription:
+  text:
+    ja: "多様な広がりをみせる人間言語の研究は本来学際的なものであり，隣接する諸分野との関係が特に重要になります。このコースでは「言語と人間Ⅰ」で学んだ基礎的な考え方をもとに，言語の研究に直接・間接にかかわってくる諸分野を幅広く見渡し，その動向を概観します。講義は，各担当教員が２回ずつ行う輪講形式です。なお，本講義は公開学習センターの開講科目ともなっています。\n\
+      \ ＊「言語と人間Ⅰ」をあらかじめ受講していることが望ましい。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20009003gse11600/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: コ）西村 君代
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

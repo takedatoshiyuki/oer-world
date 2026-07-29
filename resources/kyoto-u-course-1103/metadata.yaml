@@ -1,0 +1,63 @@
+slug: kyoto-u-course-1103
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1103/
+type:
+- LearningResource
+- Course
+name:
+  ja: '2021ウェビナーシリーズ第2回「Worldwide Shadow Education Epidemic and World-Class Academic Success in East Asian
+    Nations: Theorizing Learning Fever Beyond Public Schooling」'
+description:
+  ja: 京都大学の教育学研究科が2021年に実施したウェビナーシリーズの第2回で、Young Chun Kimが担当する。東アジア諸国におけるシャドー・エデュケーションと学業達成を扱い、学校外学習をめぐる議論を主題にする。
+quotedDescription:
+  text:
+    ja: 'グローバル教育展開オフィス 2021ウェビナーシリーズ
+
+      越境する「日本型」の歴史的・多角的理解に向けて'
+  source: https://ocw.kyoto-u.ac.jp/course/1103/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Young Chun Kim（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: South Korea）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: South Korea）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-10-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

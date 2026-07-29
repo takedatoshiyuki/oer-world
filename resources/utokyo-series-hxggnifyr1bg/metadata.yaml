@@ -1,0 +1,86 @@
+slug: utokyo-series-hxggnifyr1bg
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=hXGgNiFyR1Bg
+type:
+- LearningResource
+- Course
+name:
+  ja: Global Leadership Program 公開セミナー
+description:
+  ja: 東京大学GLPとJIGHが共催した公開セミナーで、市民の力で社会を変える方法を扱う。英語話者向けに英語で行われ、複数の登壇者が参加している。
+quotedDescription:
+  text:
+    ja: "※英語音声は日本語訳が付きませんのでご了承ください。   \n    東京大学グローバル・リーダーシップ・プログラム（GLP）と一般社団法人ジェイ・アイ・ジー・エイチ（JIGH）は、市民の力で社会を変えて行く方法に関する公開セミナーを開催いたしました。2008年の米国大統領選挙でオバマ大統領の選挙参謀として、パブリック・ナラティブとコミュニティ・オルガナイジングの手法を用いて声なき声を拾い上げ、初の黒人大統領として勝…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=hXGgNiFyR1Bg
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: マーシャル・ガンツ氏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 湯浅誠
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 駒崎弘樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 我喜屋まり子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 坂之上洋子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渋谷健司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: ハンス・ロスリング
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+- social_sciences
+- ict
+keywords:
+- 政治・法律
+- 人口・社会問題
+- 経済・金融
+- Insights from Global Experts and International Leaders
+- リーダーシップ
+- 変革
+- 統計データ
+- 人口問題
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

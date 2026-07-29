@@ -1,0 +1,79 @@
+slug: utokyo-series-sfqnwwovq74l
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=sfqNwWOVq74l
+type:
+- LearningResource
+- Course
+name:
+  ja: ビッグデータ時代の人工知能学と情報社会のあり方(学術俯瞰講義)
+description:
+  ja: 人工知能を軸に、その研究史と全体像を概観し、ビッグデータの扱いやロボティクスなどの関連分野にも触れる講義である。あわせて、シンギュラリティを含むITの未来像を取り上げ、社会応用や法的問題まで扱う。
+quotedDescription:
+  text:
+    ja: "コーディネータ：　坂井修一\nナビゲータ：　　　中島秀之\n概要：　近年、人工知能が第三次ブームを迎えたと言われている。火付け役はシンギュラリティの議論（とその映画化）や、ディープラーニング(DL)の成功である。確かにアルファ碁がDLと強化学習を組み合わせた方式で囲碁の世界チャンピオンクラスに勝ったのは（コンピユータ囲碁の研究者にとっても）衝撃的であった。アルファ碁は豊富な棋譜から学んでいる。ビッグデータが容易に入手可能になった現在、DLはこれ以外にも様々な可能性を秘めている。\
+      \ \nしかし一方で、DLは人工知能研究(AI)のホンの一部に過ぎない。AIでは従来パターン認識とシンボル処理が二大テーマとなってきた。DLはパターン認識技術として期待されているが、それをより高次の知的活動につなげる必要がある。そこには状況依存性の処理の問題など未解決の問題が山積みになっている。そしてまた、AIは情報技術（IT)の一部（先鋒）に過ぎない。AIはITとして社会に定着する前の非定型な分野を担当している。定式化され、実用化されればITと呼ばれる。例えば、30年前には文字認識はAIの分野であったが、現在では普通に使われている技術である。自動運転も、今でこそAI的要素が強いが、やがてITの一分野になるであろう。ビッグデータの扱いにおいても、現状では理論的に定式化され、アルゴリズムとして形式的に処理できる部分(IT)と、そうではなく中身（データの意味）を扱わねばならない部分(AI)とが混在している。\n\
+      ITは社会の在り方を根本から大きく変える力を秘めているが、現在それが遍く認識されているわけではない。また、社会システムのデザインは技術だけでできるものではなく、善悪の議論も含めながら社会学や法学とともに歩むべきものである。人工知能・ビッグデータの本格活用時代を迎えて、このことの重要性は高まるばかりである。\n\
+      そのような訳で、AIブームの今日、未来を見通して社会のあり方までを広く俯瞰しておくことは重要である。本講座ではAIを軸としてITとその社会応用について概観する。AIの全体像を研究の歴史を含めて俯瞰することから始め、ビッグデータの扱いや、ロボティクスなどの関連分野にも触れる。さらにシンギュラリティの議論を含むITの未来像について語り、ITの社会応用や法的問題へと発展させる。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=sfqNwWOVq74l
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中島 秀之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 森川 博之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 須藤 修
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松尾 豊
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+- engineering
+keywords:
+- AI・情報
+- ロボット・技術
+- AI
+- ビッグデータ
+- 情報技術
+- デジタル化
+- Python
+- ディープラーニング
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

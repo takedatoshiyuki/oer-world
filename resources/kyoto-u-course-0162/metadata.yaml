@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0162
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/162/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「戦争と平和」の時代とキリスト教
+description:
+  ja: この講義は、キリスト教が戦争と平和の問題にどう向き合ってきたかを扱う。絶対平和主義と聖戦論という、キリスト教に見られる二つの立場を手がかりに、その関係をどう理解するかを考える。古代キリスト教、内村鑑三を含む明治期の日本キリスト教、現代キリスト教を対象にする。
+quotedDescription:
+  text:
+    ja: キリスト教は、その長い歴史のなかで、多くの戦争に関わってきました。「戦争と平和」の時代を生きてきたキリスト教について、本講義では、絶対平和主義と聖戦論という一見矛盾した二つの立場がキリスト教に同時に見出されることをどのように理解したらよいのか、という問題を取り上げます。特に、古代キリスト教（1世紀と4世紀）、明治時代の日本キリスト教（内村鑑三）、そして現代キリスト教に注目します。
+  source: https://ocw.kyoto-u.ac.jp/course/162/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 芦名 定道
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-04-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

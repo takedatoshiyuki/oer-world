@@ -1,0 +1,45 @@
+slug: kyoto-u-course-1081
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1081/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「マーケティングの過去・現在・未来」
+description:
+  ja: マーケティングの過去・現在・未来を扱う最終講義である。京都大学経営管理大学院で、若林靖永が2022年3月15日に後期開講分として担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 若林 靖永
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-03-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 経営学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 経営管理大学院
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

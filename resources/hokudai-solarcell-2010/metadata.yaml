@@ -1,0 +1,60 @@
+slug: hokudai-solarcell-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/solarcell-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学プロフェッサー・ビジット 見えない光、赤外線を利用する太陽電池(2010)
+description:
+  ja: 地表で観測される太陽光に含まれる赤外線に着目し、それを電気エネルギーへ変換する太陽電池の研究を扱う講義である。目に見えない赤外線を利用する新しい太陽電池について、その研究内容を解説する。
+quotedDescription:
+  text:
+    ja: '赤外線は、地表で観測される太陽光の中に40％以上も含まれていますが、エネルギーが低いため、効率よく電気エネルギーに変換することができませんでした。本講義では、目に見えない赤外線を有効にエネルギー変換できる新しい太陽電池の研究について平易に解説します。
+
+      関連情報
+
+      北海道大学プロフェッサー・ビジット(2009)
+
+      北海道大学プロフェッサー・ビジット(2008)'
+  source: https://ocw.hokudai.ac.jp/lecture/solarcell-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 三澤 弘明
+  affiliation:
+    name: 北海道大学電子科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

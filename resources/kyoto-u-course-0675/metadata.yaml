@@ -1,0 +1,117 @@
+slug: kyoto-u-course-0675
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/675/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報処理システム論
+description:
+  ja: 情報をデータとしてどう表すか、情報量をどう考えるかを扱う。加えて、OSIの7階層モデルを各レイヤーごとに追い、通信関連法律やインターネット、ルーティング、文字の扱いまでを資料で取り上げる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 中村 素典
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　データの表現と情報量'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/88e8b4b9a3004beddb0bc782d91cd9b1-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第2回　データの表現と情報量２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/90403d68a00f4aaa406cff64cef45adb-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第3回　OSIの７階層モデル：レイヤ１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/06fb134ce570cdd9c9d6d36cfffa4185-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第4回　OSIの７階層モデル：レイヤ２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/db290fe86bcdf4d96c277070c2502d0b-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第5回　OSIの７階層モデル：通信関連法律'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2aeeee7832be1b60abf5f565de3171e9-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第6回　OSIの７階層モデル：レイヤ３'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d21e6180b2011eca09b6b9a007551de4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第7回　OSIの７階層モデル：続レイヤ２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/208c60be1c728f0f6fb8f4a06c9fdc69.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第8回　インターネット'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/7f168a461c10baba19397f01e814c25f.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第9回　インターネットのルーティング'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/d5be004f6df58f7d3265462424a2590f.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第10回　OSIの７階層モデル：レイヤ３の新技術'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c21dab81e92d35dcde626e3055cd3219.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第11回　OSIの７階層モデル：レイヤ４〜７'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/aa34fad7ccb6dac904cc49e077b233b8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第12回　文字の扱い'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/24654dc2e33c2a3406c207ad2bff0ab5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第13回　文字の扱い２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/91bb1391b3968aa16cf8c80349a6a5a0.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第14回　符号化方式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/ea21bfb0469a82bb0f059c7c966d8a4e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第15回　2000年問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/021bad9160c3cf6cd994ba8cd256f51e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第16回　オープンネットワークの時代'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/489a9a2fbb9aa8d54979daab09f73744.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第17回　暗号技術'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/af9743dc4b14a03a144f3fdf7b32a57f.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第18回　暗号方式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/78624f99848d48b3a83f116bd138ca70.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第19回　ネットワークを用いたEC'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/cfe9eea5f3c65a3bad42c05339de19e7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第20回　電子マネー'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c13873007a7cbe46dc16e2b73ba1627b.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第21回　データ圧縮'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/4559b781c9dad256b808cd605986867a.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+- name: '講義資料: 第22回　データ圧縮２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/8ecf991bf02344e7aa45591fef6c7632.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/675/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

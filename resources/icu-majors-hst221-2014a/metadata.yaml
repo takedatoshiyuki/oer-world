@@ -1,0 +1,148 @@
+slug: icu-majors-hst221-2014a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/hst221_2014a
+type:
+- LearningResource
+- Course
+name:
+  ja: History of Contemporary Japan 日本現代史
+description:
+  ja: '本講義は、近年の日本史を、日本の太平洋戦争参戦を軸にたどる。植民地政策や日米関係、南京事件、真珠湾攻撃、原爆投下、占領、東京裁判、天皇制、戦後日本の位置づけまでを扱う。
+
+
+    講義ではさらに、帝国主義やナショナリズム、総力戦、国家神道、敗戦後のアイデンティティ、冷戦期の対米関係、経済復興とバブル崩壊後の社会変化、戦後宗教、オウム真理教、オタク文化も取り上げる。全17回の講義と1本の動画で構成される。'
+quotedDescription:
+  text:
+    ja: 'This course deals with events of recent Japanese history, roughly centering on Japan”s involvement
+      in the Pacific War. Each year the course will take an in-depth look at one or more of the following
+      sorts of topics: Japanese colonialism, Japanese-American relations in the 1930s, the Nanking Incident
+      and other wartime atrocities, the decision behind Pearl Harbor, the role of propaganda in the United
+      States and Japan, the decision to drop the Atomic Bombs, the occupation of Japan, the Tokyo War
+      Crimes Trial, the preservation of the emperor system, and the meaning of postwar Japan.
+
+      日本の太平洋戦争参戦を中心に近年の日本史上の出来事を扱う。次のトピックについて深い考察を行う：日本の植民地政策，日米関係，南京事件，真珠湾攻撃の決定，アメリカと日本のプロパガンダ，原子爆弾投下の決定，日本の占領，東京裁判，天皇制の保持,「戦後」日本の持つ意味など。
+
+      Contents of Lectures
+
+      17Lectures / 1 Video
+
+      September 10 / September 12
+
+      1.Introduction • Course introduction
+
+      • Imperialism, nationalism and the history of Japanese modernity
+
+      • Conflict in the 20th century: Liberalism, Communism and Fascism
+
+      September 17 /
+
+      September 19
+
+      2. Wartime identity • Mobilizing for total war
+
+      • State Shinto and religious support for the war
+
+      • Discussion/Reaction paper 2
+
+      September 24 / September 26
+
+      3.
+
+      Spiritualism vs. materialism
+
+      • World War II: embracing spiritualism
+
+      • The Occupation: embracing materialism
+
+      October 01 / October 03
+
+      4. Identities of defeat • Japan as victim of war
+
+      • Postcolonial identity in Japan
+
+      • Discussion/Reaction paper 3
+
+      October 08 /
+
+      October 10
+
+      5. The “Cold War” paradigm • Aligning with the West (the new “datsu-A”)
+
+      • Problems of security and ambivalence toward the U.S.
+
+      • Discussion/Reaction paper 4
+
+      October 15 / October 17
+
+      6. Economic recovery and identity • Economic recovery from war and social transformation
+
+      • The identity of economic dominance
+
+      • Discussion/Reaction paper 5
+
+      October 22 /
+
+      October 29
+
+      7. Collapse of the “bubble” economy • New economic realities
+
+      • Political realignment
+
+      • Discussion/Reaction paper 6
+
+      October 31 /
+
+      November 05
+
+      8. Contemporary religious identity • Traditional religions and new religions in postwar Japan
+
+      • Aum Shinrikyō
+
+      • Discussion/Reaction paper 7
+
+      November 07
+
+      9. Hypermaterialism • The “otaku” identity
+
+      • ”Soft power” “Superflat” and post-bubble identity'
+  source: https://ocw.info.icu.ac.jp/majors/hst221_2014a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'History 歴史学 | Course ID: HST22'
+- 'HST221 | Course Schedule: *4/W,*4/F | Update: 2016.03.28'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

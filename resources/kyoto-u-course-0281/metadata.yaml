@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0281
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/281/
+type:
+- LearningResource
+- Course
+name:
+  ja: プレ講義「理学への招待」
+description:
+  ja: 京都大学理学部が2020年に開講した、日本語の講義である。楠岡 誠一郎、葉廣 和夫、佐々 真一、佐々木 貴教、吉川 裕が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 楠岡 誠一郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 葉廣 和夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐々 真一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐々木 貴教
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 吉川 裕
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

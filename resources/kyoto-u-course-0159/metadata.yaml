@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0159
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/159/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「世界の食料需給と貿易自由化・環境問題」
+description:
+  ja: 京都大学の農学研究科で開講された講義で、世界の食料需給、貿易自由化、環境問題を扱う。担当は加賀爪優で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 加賀爪 優
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-04-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

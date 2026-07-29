@@ -1,0 +1,75 @@
+slug: hokudai-faculty12lishii-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty12lishii-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 英語II 英語音の特徴（2010）
+description:
+  ja: 日本語音との比較を通して、英語音の特徴に注目するレクチャーシリーズである。英語と日本語の違いを確認しながら、発音や聞き取りに関する基本的なヒントを扱う。
+quotedDescription:
+  text:
+    ja: 'このレクチャーシリーズでは、英語音の特徴を日本語音の特徴と比較しながら、両者の違いに「気づき」、理解することを目指します。英語の発音や聞き取りの力をつけるための基本的なヒントをたくさん紹介します。
+
+      作成は奥聡とPhilip Seaton、Thomas Jaquesです。'
+  source: https://ocw.hokudai.ac.jp/lecture/faculty12lishii-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 土永 孝
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 河合 剛
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 鈴木 志のぶ
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 奥 聡
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 英語
+- オンライン授業
+- TOEFL-ITP
+- WebTube
+- Glexa
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 外国語教育センター
+  targetAudience: 1年生～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

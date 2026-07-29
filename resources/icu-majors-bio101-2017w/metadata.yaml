@@ -1,0 +1,60 @@
+slug: icu-majors-bio101-2017w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/BIO101_2017W
+type:
+- LearningResource
+- Course
+name:
+  ja: BIO101 BIOLOGY 基礎生物学
+description:
+  ja: 微生物、植物、動物に関する生物学の基本概念を扱う講義である。チームティーチングで進められ、教科書の精読と課題作成を通して内容理解を進める。受講には高校生物に相当する知識を前提とする。
+quotedDescription:
+  text:
+    ja: 'Basic concepts in microbiology, plant biology and animal biology will be introduced as a team-taught
+      course. There will be strong emphasis on text book reading and assignment work. The course assumes
+      preliminary knowledge equivalent to high school biology.
+
+      微生物・植物・動物についての生物学的基本概念を教授する。教科書の精読による内容理解と、課題完成に力点を置いた指導を行う。高等学校での生物学履修程度の知識を前提とする。'
+  source: https://ocw.info.icu.ac.jp/majors/BIO101_2017W
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 小瀬博之
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- Biology 生物学
+- BIO101
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

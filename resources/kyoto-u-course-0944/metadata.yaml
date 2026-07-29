@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0944
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/944/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅣ「大震災後の『心のケア』を考える」 「災害と宗教と『心のケア』～東日本大震災　現場からの報告と討議」
+description:
+  ja: 東日本大震災をめぐり、災害、宗教、心のケアの関係を扱う講義である。現場からの報告と討議を通して、大震災後の心のケアを考える内容である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-07-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

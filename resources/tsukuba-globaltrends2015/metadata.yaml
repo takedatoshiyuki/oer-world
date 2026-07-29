@@ -1,0 +1,49 @@
+slug: tsukuba-globaltrends2015
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/international/globaltrends2015/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2015年度 特別講義「グローバルトレンズ・日本」
+description:
+  ja: 世界貿易センター東京理事長の三浦宏一が担当する特別講義である。パラダイムシフトと日本再生をテーマに講演する。
+quotedDescription:
+  text:
+    ja: '世界貿易センター東京 理事長である三浦宏一先生による特別講義。
+
+      「パラダイムシフト」「日本再生」をテーマに講演する。'
+  source: https://ocw.tsukuba.ac.jp/course/international/globaltrends2015/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 三浦 宏一
+  affiliation:
+    name: 一般社団法人世界貿易センター東京 前理事長
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2015-08-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係学
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,49 @@
+slug: hokudai-nucl-eng-open-ed-3
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nucl-eng-open-ed-3
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築
+description:
+  ja: 北海道大学が2021年度に開講した、大学院共通授業科目の講義である。原子力人材育成事業の一環として、機関連携強化による新たな原子力教育拠点の構築を扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-4.0
+creator:
+- type: Person
+  name: 三輪修一郎先生
+  affiliation:
+    name: 北海道大学大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院共通授業科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

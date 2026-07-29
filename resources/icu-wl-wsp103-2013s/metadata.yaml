@@ -1,0 +1,56 @@
+slug: icu-wl-wsp103-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/wl/wsp103_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: Spanish III スペイン語 III 2013S
+description:
+  ja: スペイン語 II の続きとして、文法学習を継続しながら、話す・聴く力に加えて読む・書く力を扱う。あわせて、スペイン文化に関する内容も含む。
+quotedDescription:
+  text:
+    ja: 'The following course of Spanish II. Continuing to study grammar, reading and writing abilities
+      will be acquired in addition to speaking and hearing abilities. Spanish culture will also be taught.
+
+      スペイン語 II に続く科目。引き続き文法を学習し、話し、聴く能力に加えて、書き、読む力を養う。スペイン文化に関する講義も含む。
+
+      2013, Spring'
+  source: https://ocw.info.icu.ac.jp/wl/wsp103_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 世界の言語
+- 'WSP103 | Course Schedule: 1/TU,2TU,3TU,1TH,2TH,3TH | Update: 2014.05.13'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,138 @@
+slug: icu-majors-mth332-2018a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+type:
+- LearningResource
+- Course
+name:
+  ja: Algebra II 代数学 II
+description:
+  ja: 現代代数学の基礎として、群論と環論を扱う講義である。講義1時限と演習2時限を毎週行う構成で、線形代数学の既修を前提とし、数学通論Iの履修が望ましいとされる。公開教材として講義資料が20件ある。
+quotedDescription:
+  text:
+    ja: 'Introduction to modern algebra. Includes group theory and ring theory. One period of lecture
+      and two periods of recitation weekly. Prerequisite: LINEAR ALGEBRA. Recommended to be taken after
+      BASIC CONCEPTS IN MATHEMATICS I.
+
+      現代代数学の基礎を学ぶ。群論，環論など。 毎週講義1時限，演習2時限。線形代数学を既修のこと。さらに数学通論 I の既修が望ましい。
+
+      Contents of Lectures
+
+      2
+
+      7
+
+      Lectures /
+
+      13
+
+      Videos'
+  source: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 鈴木寛
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 名誉教授
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Mathematics 数学 | Course ID: MT'
+- 'MTH332 | Course Schedule: 2/M, 2/W, 2/F | Update: 2019.01.17'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1KP6Q9fgqklH5leNx78ktgfrMaEFvHfW1/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/12Rm7qL89adl-wKQHTIPvXKxmLrqHhCXh/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1KJBR-QYCQ5xXlgG_Jwmj9xdtInIfxlPu/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1nL3PNnHHFTUa__2ehWicxni-bfLw7x7j/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1C25TGfVlUYanyDfwC76YidUccfFrJR8V/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1arxYNOzSfo_GbOiWdYWAGQFUcUZhU86A/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ne4Bn7I_UD2-HJwuS8XUu-sYU_yw6S3N/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Pdhn6IuMAePStLychL0GSorr3mJd1GFs/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10v8NMb3r65_fSbqGDmWH0Ygp2yKI9Ucs/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1L8heDg2OyWVr8Os-YFsDoxp3BN0xeTIK/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1AcXRTXAn7XWjkgQbNRr8Z3bW_YmmXvOE/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/14vvKJs1iUrmtpjRDqtRupeARENfS_Tk4/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/12-Y2jSKRXQ6O5yY0JecgMulIvJ-Dtfgm/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1HJ1BUme2kM-6dRnAxHv4fHAD20jZxQJf/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1w9Gt8ODhPor5yJ1HDBe_S8yM5KW4PONX/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/17qw3nigRgDKKYlMaySWCrBuWIPaNpljm/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/18_qrcvS7nJU_OGYR9c0OxbVxCSJrYkWK/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1DztpMjkARpZqJh_wfL1iA3dTgKbBVxy5/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1xUaFrGAwsSqAMXu85R54A2Adr0rY2sKh/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ITZgYZFhYKvTYJc7H1ZV51XP8-Lm_imV/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth332_2018a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

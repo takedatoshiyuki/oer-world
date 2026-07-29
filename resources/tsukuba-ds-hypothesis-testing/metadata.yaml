@@ -1,0 +1,42 @@
+slug: tsukuba-ds-hypothesis-testing
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/hypothesis_testing/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 仮説検定入門
+description:
+  ja: 仮説検定を扱うデータサイエンスの講義である。筑波大学が提供し、小池健一が担当する。使用言語は日本語で、開講日は2019-09-02である。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 小池 健一
+  affiliation:
+    name: 筑波大学 数理物質系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2019-09-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

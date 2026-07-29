@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0668
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/668/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「工業化と地球環境の持続性」
+description:
+  ja: 工業化と地球環境の持続性を題材にした最終講義である。京都大学の東南アジア地域研究研究所で開講され、杉原薫が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 杉原 薫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

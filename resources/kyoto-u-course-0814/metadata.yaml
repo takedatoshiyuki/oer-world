@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0814
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/814/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Business English IV: Introduction to Finance, 2012'
+description:
+  ja: 国際ビジネスで必要な基礎的な経済・金融の理論を、日本語と英語の両方で扱う。あわせて、英語圏の授業を理解するための読解力と聞き取り能力の習得を目標にしている。
+quotedDescription:
+  text:
+    ja: 国際ビジネスで必要な基礎的な経済、金融の理論を英語と日本語で学習する。英語圏に留学して授業を理解することができる高度の英語読解力、聞き取り能力を身につけることを目指している。
+  source: https://ocw.kyoto-u.ac.jp/course/814/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河合 美宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河合 江理子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 語学
+- コミュニケーション
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

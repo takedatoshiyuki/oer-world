@@ -1,0 +1,47 @@
+slug: tsukuba-leader
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/others/leader/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2015年度 特別講義「次世代のリーダー達に期待すること」
+description:
+  ja: 筑波大学で開講された2015年度の特別講義で、大竹美喜が担当する。大竹美喜はアフラック（アメリカンファミリー生命保険会社）の創業者・最高顧問であり、この講義はその人物による特別講義として構成される。
+quotedDescription:
+  text:
+    ja: アフラック（アメリカンファミリー生命保険会社）創業者・最高顧問である大竹美喜先生による特別講義。
+  source: https://ocw.tsukuba.ac.jp/course/others/leader/
+  note: TSUKUBA OCW 「時代先行く異能・異才を」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大竹 美喜
+  affiliation:
+    name: アメリカンファミリー生命保険会社 創業者・前最高顧問
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2015-08-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,121 @@
+slug: hokudai-environmental-radioactivity-2018
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/environmental-radioactivity-2018
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別プログラム オープン教材を活用して学ぶ放射線・放射能の科学（2018）
+description:
+  ja: この教材は、放射線・放射能の科学を学ぶ前提として視聴する予習動画である。原子と放射能、放射性核種と壊変、放射線の生体に及ぼす影響を順に扱い、放射線の基礎知識から被ばくの種類、影響の区分までを学ぶ構成になっている。
+quotedDescription:
+  text:
+    ja: '本教材は、「オープン教材を活用して学ぶ放射線・放射能の科学」を学ぶ方の予習動画です。
+
+      ※詳細は、概要下部にある資料「予習の仕方」をご覧ください。
+
+      講義はビデオ教材を視聴したことを前提として行われます。必ず予習動画を見て講義に参加してください。
+
+      =====
+
+      10/11までに Week02「原子と放射能」、Week03「放射性核種と壊変」各自視聴してください。
+
+      Week02「原子と放射能」藤吉 亮子
+
+      イントロダクション
+
+      １－１原子と原子核
+
+      ２－１放射線の基礎知識　放射線とは
+
+      ２－２放射線の基礎知識　放射線の種類と透過力
+
+      まとめ
+
+      Week03「放射性核種と壊変」藤吉 亮子
+
+      イントロダクション
+
+      １－１放射性核種
+
+      ２－１壊変と壊変則
+
+      まとめ
+
+      =====
+
+      10/18までに「放射線の生体に及ぼす影響」を各自視聴してください。
+
+      イントロ
+
+      1? ? 被ばくの種類と放射線障害
+
+      2? ? 放射線の単位
+
+      3-1 確定的影響と確率的影響
+
+      3-2 確定的影響
+
+      3-3 確率的影響―発がん
+
+      3-4 確率的影響―遺伝的影響
+
+      まとめ
+
+      =====
+
+      次々回からは予習サイト「北海道大学Academic Commons for Education」(通称ACE)を使用します。
+
+      ※履修者が確定次第、予習専用のサイトに登録して予習を行います。履修者確定までの措置として利用しています。
+
+      本事業では、放射線や放射能および原子力について正確な知識を習得し、原子力工学分野のみならず、環境科学、放射化学、保健物理学、獣医学、農学などの他分野の視点から環境放射能の諸課題を学び、さらに放射線計測の実習を通して環境放射能測定の技術を習得した、多様な環境放射能問題に対応可能な国際的人材を育成することを目的と致します。
+
+      リンク
+
+      国際原子力人材育成イニシアティブ事業'
+  source: https://ocw.hokudai.ac.jp/lecture/environmental-radioactivity-2018
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 藤吉 亮子
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 山盛 徹
+  affiliation:
+    name: 獣医学研究院放射線学教室
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 原子力工学
+- 放射線
+- 環境放射能
+- 工学／情報
+audience:
+- student
+extensions:
+  faculty: アイソトープ総合センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,93 @@
+slug: kyoto-u-course-0512
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/512/
+type:
+- LearningResource
+- Course
+name:
+  ja: 栽培技術論と実習Ⅰ（月曜コース）
+description:
+  ja: 京都大学農学部で2012年に通年開講された講義の講義ノートを収録する。栽培技術論と実習Ⅰ（月曜コース）の授業で用いられた講義資料を公開している。
+quotedDescription:
+  text:
+    ja: '北島 宣 教授（農学研究科）
+
+      中崎 鉄也 准教授（農学研究科）
+
+      片岡 圭子 助教（農学研究科）
+
+      桂 圭佑 助教（農学研究科）
+
+      齊藤 大樹 助教（農学研究科）
+
+      小枝 壮太 助教（農学研究科）
+
+      松本 大生 助教（農学研究科）'
+  source: https://ocw.kyoto-u.ac.jp/course/512/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北島 宣
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中崎 鉄也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 片岡 圭子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 桂 圭佑
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 齊藤 大樹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小枝 壮太
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松本 大生
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_saibaigijutsuron-jisshuu-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/512/
+extensions:
+  faculty: 農学部
+  term: 通年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0227
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/227/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第78回 京都大学丸の内セミナー「叛乱集団の形成－『水滸伝』梁山泊の世界」
+description:
+  ja: 中国通俗長篇小説『水滸伝』を取り上げ、梁山泊に集う集団がどのように生まれ、変化し、終わりを迎えるかを物語の流れに沿って考える講義である。『水滸伝』を「叛乱集団」の形成と変質の過程として読み進める内容である。
+quotedDescription:
+  text:
+    ja: 『三国志演義』とならぶ中国通俗長篇小説の代表作『水滸伝』は、「侠」の物語と呼ばれる。「弱きを助け、強きを挫く」英雄たちが縦横無尽に活躍し、やり口の汚い人間のどろどろした欲望を、文字通り血みどろになりながら、ことごとく打ち砕いていく。不条理な現実に対する彼らの怒りが、革命的様相を帯びることは言うまでもない。それゆえ、「天に替わって道を行う」ことを旗印として梁山泊に集結した彼らは、まさしく叛乱集団となった。この集団はどのように形成されたのか、どのように変質して、どのような結末を迎えたのか。物語の展開に沿って考えてみたい。
+  source: https://ocw.kyoto-u.ac.jp/course/227/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 井波陵一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-01-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文学
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人文科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

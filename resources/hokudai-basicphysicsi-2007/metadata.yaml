@@ -1,0 +1,112 @@
+slug: hokudai-basicphysicsi-2007
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 基礎物理学I（2007）
+description:
+  ja: 科学技術に支えられた現代社会を背景に、物理学を科学の基礎として扱う講義資料である。物理学の基本的知識と考え方の習得を目標にし、デモ実験や演習、小テスト、宿題を通して学習を進める。
+quotedDescription:
+  text:
+    ja: 私たちの生活している現代社会は科学技術の上に成り立っています。その科学を知ることは北大生として必要不可欠です。この授業では、科学の基礎としての物理学を概観します。物理学の基本的知識やその考え方の習得、それに基づいた自然に対する洞察力を涵養することが目標です。デモ実験や演習（小テスト）、宿題で理解を深めます。
+  source: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小野寺 彰
+  affiliation:
+    name: 北海道大学大学院理学研究科
+- type: Person
+  name: 細川　敏幸
+  affiliation:
+    name: 北海道大学高等教育推進機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 運動の表し方
+- 力
+- 運動の法則
+- 仕事
+- エネルギー
+- 保存則
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-12.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-13.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-14.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+- name: '講義資料: スライド（一括）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicPhysicsI-2007-Slide-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basicphysicsi-2007
+extensions:
+  faculty: 理学部
+  targetAudience: 1年生～ 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

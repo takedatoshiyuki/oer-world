@@ -1,0 +1,83 @@
+slug: kyoto-u-course-0678
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/678/
+type:
+- LearningResource
+- Course
+name:
+  ja: 食料・環境政策学（武部 隆）
+description:
+  ja: 農業政策上の諸問題を、海外の事例も参照しながら公共経済学と資源環境経済学の視点で扱う講義である。食料問題、環境ガバナンス、農地取得政策、農業法人政策、農業担い手政策、農業と環境政策などを通して、農業政策の体系を学ぶ。
+quotedDescription:
+  text:
+    ja: '授業の概要目的
+
+      農業政策上の諸問題を対象に、海外の事例にも言及しながら、公共経済学および資源環境経済学の立場から、諸問題解決のための諸方策に関して講義し、農業政策の体系について理解を深める。'
+  source: https://ocw.kyoto-u.ac.jp/course/678/
+  note: 京都大学OCW 「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 武部 隆
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 表紙・もくじ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+- name: '講義資料: 農業本質論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+- name: '講義資料: 食料不足と食料問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+- name: '講義資料: 環境ガバナンス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+- name: '講義資料: 農地取得政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+- name: '講義資料: 農業法人政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+- name: '講義資料: 農業担い手政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+- name: '講義資料: 農業と環境政策'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_syokuryou_kankyouseisakugaku_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/678/
+extensions:
+  faculty: 地球環境学堂・地球環境学舎
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

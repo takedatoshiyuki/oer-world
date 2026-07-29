@@ -1,0 +1,52 @@
+slug: mdsc-mdsc7
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc7
+type:
+- LearningResource
+- Course
+name:
+  ja: 海外在留邦人数調査統計_平成２９年_詳細版
+description:
+  ja: 平成28年10月時点の海外在留邦人数と進出日系企業数の統計を扱う教材である。DATA.GO.JPに掲載された外務省提供データから選定されたデータを用いる。
+quotedDescription:
+  text:
+    ja: 平成28年10月現在の海外在留邦人数及び進出日系企業数の統計。(DATA.GO.JPの外務省提供データより選定）
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc7
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc7
+  summary:
+    ja: クリエイティブ・コモンズ 表示（CC BY。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- generic
+keywords:
+- 分類不能の産業
+- 宿泊業・飲食サービス業
+- 複合サービス事業
+- 表形式
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

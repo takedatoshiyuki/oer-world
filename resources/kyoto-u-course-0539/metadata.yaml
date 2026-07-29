@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0539
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/539/
+type:
+- LearningResource
+- Course
+name:
+  ja: iCeMS Retreat
+description:
+  ja: 京都大学のiCeMS 物質－細胞統合システム拠点が担当する、英語で行われる講義である。2015-09-07に開講された。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-09-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

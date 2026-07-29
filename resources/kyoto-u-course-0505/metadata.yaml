@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0505
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/505/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「観光経営を京都で考える」
+description:
+  ja: 観光を観光経営学の視点から捉え、京都と日本の観光を考える講義である。観光産業が今後どのような役割を担い得るか、その可能性と実現のための方策を扱う。
+quotedDescription:
+  text:
+    ja: '講演内容
+
+      ひとくちに観光と言っても、さまざまな切り口があります。「観光△□学」の△□に入るものとしては、社会、歴史、地理、文化、環境、などなど。この講義ではずばり「観光経営学」の視点で、京都の、そして日本の観光を考えていきます。以前、製造業が日本の産業を支えた時期が確かにありました。果たして今後、観光産業がその座を担っていく可能性はあるのでしょうか？どのようにすればそれが可能になるのでしょうか？'
+  source: https://ocw.kyoto-u.ac.jp/course/505/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 前川 佳一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-04-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 経営学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経営管理大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

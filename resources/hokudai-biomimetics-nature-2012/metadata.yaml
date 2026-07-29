@@ -1,0 +1,57 @@
+slug: hokudai-biomimetics-nature-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/biomimetics-nature-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: バイオミメティクス市民セミナー ものつくりと暮らし方の新潮流を創る ネイチャー・テクノロジー（2012）
+description:
+  ja: この講義は、自然に見られる仕組みを手がかりに、暮らしに必要な技術を考えるネイチャー・テクノロジーを扱う。東日本大震災を契機に、豊かに暮らすことや地球環境問題、テクノロジーの役割を問い直しながら、バックキャスト思考に基づくライフスタイルと技術の関係を考察する。
+quotedDescription:
+  text:
+    ja: 2011年3月11日に発生した東日本大震災は、私たちにあらためて豊かに暮らすこととはどういうことなのか？地球環境問題とはなにか？そして、そのためにテクノロジーはどのように貢献できるのかを問うています。次の世代のためにも、今私たちはこの問いに答えを出さねばなりません。それは、何かと何かを置き換えるテクノロジーであったり、今までの延長である、物質的な豊かさを求めることではありません。自然のすごさを賢く活かし、ワクワクドキドキする心豊かな暮らしのかたちを創り上げることなのです。このセミナーでは、厳しい地球環境制約の中で、バックキャスト思考により創出されたライフスタイルに必要なテクノロジーを自然の中から見つけ出すネイチャー・テクノロジーについて考えてみたいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/biomimetics-nature-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石田 秀輝
+  affiliation:
+    name: 東北大学大学院環境科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- バイオミメティクス
+- 東日本大震災
+- 地球環境問題
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

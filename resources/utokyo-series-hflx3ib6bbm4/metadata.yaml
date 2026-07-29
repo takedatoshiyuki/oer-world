@@ -1,0 +1,87 @@
+slug: utokyo-series-hflx3ib6bbm4
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=hFLX3Ib6BBM4
+type:
+- LearningResource
+- Course
+name:
+  ja: 本学の業務知識を学ぶオンライン講座
+description:
+  ja: 本学で勤務する新任教職員を対象に、必要な基礎的知識を身につけるための講習を扱う。自己学習にも用いることを想定した動画であり、本学教職員限定で公開されている。
+quotedDescription:
+  text:
+    ja: '「新任教職員等基礎講習」は、新任の教職員が本学で勤務していく上で必要な基礎的知識を取得することを目的としており、自己学習用としても活用いただけます。
+
+      ※この動画は本学教職員限定での公開です。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=hFLX3Ib6BBM4
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Teruo Fujii
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佃 未音
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 垣内 千尋
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 稲場 肇
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福田 敦史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 玉造 潤史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 矢野ゆき
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+keywords:
+- 人口・社会問題
+- 教育
+- アクティブラーニング
+- 大学教育
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

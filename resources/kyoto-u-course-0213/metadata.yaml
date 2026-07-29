@@ -1,0 +1,87 @@
+slug: kyoto-u-course-0213
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/213/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2010年度 京都大学新任教員教育セミナー
+description:
+  ja: 京都大学の新任教員向けセミナーで、大学教育の動向と京都大学の方針を扱うほか、学内の教育支援資源を紹介する。さらに、全学共通教育や各部局の教育的取組を取り上げ、学内の教育体制を俯瞰できる構成になっている。
+quotedDescription:
+  text:
+    ja: '1 挨拶：西村 周三（教育・学生担当理事）
+
+      2 趣旨説明：田中 毎実（高等教育研究開発推進センター長）
+
+      セッション1：ミニ講義1：「現在の大学教育の動向と京都大学のポリシー」
+
+      3 西村 周三（教育・学生担当理事）
+
+      セッション2：ミニ講義2：「京都大学の教育サポート・リソース」
+
+      4 カウンセリングセンター センター長　青木健次
+
+      5 高等教育研究開発推進機構 共通教育推進課専門員　中澤和紀
+
+      6 図書館機構（附属図書館）参考調査掛長　北川昌子
+
+      7 情報環境機構（学術情報メディアセンター）教授　中村裕一
+
+      セッション3：ミニ講義3：「全学共通教育・各部局の教育的取組」
+
+      8 全学共通教育 少人数教育部会部会長　野田公夫
+
+      9 国際交流センター センター長　森純一
+
+      10 文学部 文学研究科教務補佐員　図師宣忠'
+  source: https://ocw.kyoto-u.ac.jp/course/213/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+materials:
+- name: '講義資料: 図書館機構（附属図書館）参考調査掛長　北川 昌子'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_2010年度京都大学新任教員教育セミナー_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/213/
+- name: '講義資料: 情報環境機構（学術情報メディアセンター）教授　中村 裕一'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_2010年度京都大学新任教員教育セミナー_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/213/
+- name: '講義資料: 全学共通教育 少人数教育部会部会長　野田 公夫'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_2010年度京都大学新任教員教育セミナー_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/213/
+- name: '講義資料: 国際交流センター センター長　森 純一'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_2010年度京都大学新任教員教育セミナー_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/213/
+- name: '講義資料: 文学部 文学研究科教務補佐員　図師 宣忠'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_2010年度京都大学新任教員教育セミナー_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/213/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

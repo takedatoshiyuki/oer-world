@@ -1,0 +1,61 @@
+slug: utokyo-series-e9c5vuo6kjzb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=e9c5VUO6KjZb
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育行財政学 II
+description:
+  ja: 近年の学校・教育改革と教育政策の展開との関係を踏まえながら、教育行政学の基本的事項を学ぶ講義である。学校経営や「開かれた学校」づくりの課題に加え、「教師の教育権」問題と教職員人事を、ミクロな経営的視点から扱う。
+quotedDescription:
+  text:
+    ja: '日本の教育は現在、歴史的な転換点に立っていると言われており、教育行財政もその例外ではなく、大きな改革のときを迎えている。
+
+      一方で、教育行財政システムは戦後の歴史的な流れの中できわめて独特な形態を形成、保持してきた。そしてそれは、政府の政策決定のみならず、現場での学校経営、教員人事等にも強く影響を与えてきたのである。
+
+      「教育行財政学Ⅱ」では、近年の学校・教育改革と教育政策の展開や関連を具体的に考えながら、教育行政学の基本的事柄を学習することをねらいとしている。 ミクロな経営的視点から、学校経営や「開かれた学校」づくりの課題、「教師の教育権」問題と教職員の人事について論じる。
+
+      なお、前段の「教育行財政学Ⅰ」では、政府や自治体の政策的な視点から改革等を論じている。ご興味のある方は、「教育行財政学Ⅰ」をご覧下さい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=e9c5VUO6KjZb
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 勝野 正章
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教育学部・教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

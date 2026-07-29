@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0360
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/360/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学大学院教育学研究科 E.FORUM 講演会「進路多様高校における、社会に開かれた教育を通したカリキュラム開発」
+description:
+  ja: 進路多様校で、中学校までの講義形式の授業に困難を感じた生徒が多く学ぶ状況を踏まえた教育活動を扱う。学校内の課題と地域の課題をつなぎ、社会に開かれた教育を通してカリキュラムを開発してきた経過と、その結果を報告する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      本校は、中学校までの講義形式の授業に困難を感じた生徒が多く入学する進路多様校です。自己肯定感や、勉学に対する意欲は低く、中途退学を選択する生徒も少なくありません。2015年に持続可能な教育(ESD)を体系的に推進する文科省教育課程研究指定校に採択されたことをきっかけに、学内の課題と地域の課題を「つなぐ」ことで、より質の高い教育と地域の活性化を得る教育活動が始まり、現在まで続けられています。学校と地域がチームとなって社会に開かれた教育を実践し、未来への広い視野を醸成するカリキュラム開発の、現在までの推移と結果を報告します。'
+  source: https://ocw.kyoto-u.ac.jp/course/360/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 望月 未希
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-12-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,50 @@
+slug: sophia-20130802ocamat
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20130802ocamat/
+type:
+- LearningResource
+- Course
+name:
+  ja: はじめてのイスパニア語
+description:
+  ja: 上智大学の外国語学部イスパニア語学科で2013年度に開講された、イスパニア語の入門講義である。担当はエデルミラ、アマートで、授業は日本語で行う。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: エデルミラ
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: アマート
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 外国語学部 イスパニア語学科
+  term: 2013年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

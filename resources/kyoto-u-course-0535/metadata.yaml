@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0535
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/535/
+type:
+- LearningResource
+- Course
+name:
+  ja: 応用動物科学演習Ⅱ
+description:
+  ja: 京都大学農学部で開講された通年科目で、日本語で実施される。公開教材には10件の講義資料があり、家畜やマウス、シロガチョウなどを対象に、遺伝学、生理、免疫、栄養に関する研究題目を扱う資料が含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 山田 雅保
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 舟場 正幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 熊谷 元
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 谷口 幸雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 杉本 実紀
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第3回 Estrogen Receptors Bind to and Activate the HOXC4/HoxC4 Promoter to Potentiate HoxC4-mediated
+    Activation-induc'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第4回 Using the realized relationship matrix to disentangle confounding factors for the estimation
+    of genetic varian'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第5回 Heavy Metals and Other Elements in Serum of Cattle from Organic and Conventional Farms'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第6回 Patterns of variation of the major histocompatibility complex classⅡB in Chinese goose　(Ancer
+    cygnoides)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第7回 Inhibition of Class IIb Histone Deacetylase Significantly Improves Cloning Efficiency
+    in Mice'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第11回 Integrating Autoimmune Risk Loci with Gene-Expression Data Identifies Specific Pathogenic
+    Immune Cell Subsets'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第12回 Uptake of zinc from zinc sulfate and zinc proteinate by ovine ruminal and omasal epithelia'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第13回 Accuracy of genomic selection in simulated populations mimicking the extent of linkage
+    disequilibrium in beef'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第14回 Impeding Xist Expression from the Active X Chromosome Improves Mouse Somatic Cell
+    Nuclear Transfer'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+- name: '講義資料: 第15回 Dietary supplementation with tocotrienols enhances immune function in C57BL/6 mice'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_ouyoudoubutsukagakuenshuu-2_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/535/
+extensions:
+  faculty: 農学部
+  term: 通年
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

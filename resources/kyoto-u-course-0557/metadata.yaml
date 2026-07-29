@@ -1,0 +1,45 @@
+slug: kyoto-u-course-0557
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/557/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「これからの人に伝えたい私の勉強法」
+description:
+  ja: 京都大学の情報学研究科で開講された熊本博光の最終講義で、日本語で行われる。講義名からは、これから学ぶ人に向けて自身の勉強法を伝える内容であることが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 熊本 博光
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-03-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- データサイエンス
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 情報学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

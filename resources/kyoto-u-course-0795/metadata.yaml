@@ -1,0 +1,80 @@
+slug: kyoto-u-course-0795
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/795/
+type:
+- LearningResource
+- Course
+name:
+  ja: 市民講座「物理と宇宙」第4回
+description:
+  ja: 京都大学の市民講座「物理と宇宙」の第4回に関する教材で、理学研究科の担当者による講義資料3件を公開する。扱うテーマは、脳の計算原理、重力波の直接検出、ニュートリノ振動による物質と反物質の対称性の破れである。市民向け講座として、物理学と宇宙物理学の研究成果を紹介する内容になっている。
+quotedDescription:
+  text:
+    ja: '詳細（「物理と宇宙」HP）→http://www.scphys.kyoto-u.ac.jp/news/public_lecture.html
+
+       
+
+      概要
+
+      京都大学では物理学と宇宙物理学についての市民講座「物理と宇宙」を開催します。京都大学の3人の研究者が最新の研究成果を発信し、その最先端を分かりやすく説明します。'
+  source: https://ocw.kyoto-u.ac.jp/course/795/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 佐々木 節
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 篠本 滋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 貴浩
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 市川 温子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-11-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 脳の計算原理を探る'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/f60b18218ea7f725bb0f6991e7b9a93e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/795/
+- name: '講義資料: 重力波直接検出の意味'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/98d0b651e0c63f77a6ad3a743ec785af.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/795/
+- name: '講義資料: ニュートリノ振動で探る物質と反物質の対称性の破れ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2c28e8017a99173a0cc46efd11e81851.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/795/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

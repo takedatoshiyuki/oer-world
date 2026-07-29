@@ -1,0 +1,89 @@
+slug: utokyo-series-qgqiqj5c4i5u
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=QgQiqJ5c4i5U
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「想像力」
+description:
+  ja: この講座は、想像力を現在の知覚や過去の記憶、仮想世界との関係から考える。さらに、想像力を現実に根ざしてあるべき姿を探る働きとしても捉え、多面的に扱う。
+quotedDescription:
+  text:
+    ja: 「想像力こそは諸能力の女王」と言ったのは、19世紀フランスの詩人・批評家ボードレールです。 想像力は、現在の知覚や過去の記憶を糧としながらそれらの限界を押し広げ、仮想世界へと人間を解き放ちます。しかしそれはまた、空想や幻想とは違い、あくまでも現実的所与に立脚しながらあるべき様態を探る、真理探究の能力でもあります。
+      本公開講座では、この諸能力の女王の仕事ぶりを多面的に探ります。
+  source: https://ch.u-tokyo.ac.jp/series/?id=QgQiqJ5c4i5U
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中地 義和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 宮崎 徹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 平石 貴樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 河野 孝太郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松木 則夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福島 智
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 江川 雅子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+- social_sciences
+keywords:
+- 文化・芸術・文芸
+- 宇宙・物理
+- 人口・社会問題
+- 想像力
+- 文学
+- 宇宙
+- 銀河
+- 障害
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

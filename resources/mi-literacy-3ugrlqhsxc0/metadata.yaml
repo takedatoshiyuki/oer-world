@@ -1,0 +1,51 @@
+slug: mi-literacy-3ugrlqhsxc0
+mode: referenced
+externalUrl: https://youtu.be/3ugrLQHSXC0
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンスの役割 (1)（滋賀大学・数理DS-AI教育 リテラシーレベル）
+description:
+  ja: データサイエンスの役割を扱う講義で、滋賀大学が担当するリテラシーレベルの教材である。対象は「社会で起きている変化」で、2020年度に開講された日本語教材として提供される。
+inLanguage:
+- ja
+usageTerms:
+  url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning.html
+  summary:
+    ja: クリエイティブ・コモンズ 表示-非営利-継承（CC BY-NC-SA。コンソーシアムページの表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 滋賀大学
+publisher:
+- type: Organization
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+sourceCollection:
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+  url: https://www.mi.u-tokyo.ac.jp/consortium/
+datePublished: '2020'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- slide
+about:
+- ict
+keywords:
+- データサイエンス
+- リテラシーレベル
+- 1-1. 社会で起きている変化
+audience:
+- student
+- teacher
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 1-1. 社会で起きている変化
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。数理・データサイエンス・AI教育強化拠点コンソーシアムのモデルカリキュラム対応教材リストに基づく。datePublished
+    は動画は YouTube 公開年、スライドはファイル名または PDF 内部の作成年。description は gpt-5.4-mini が生成。
+  confidence: low

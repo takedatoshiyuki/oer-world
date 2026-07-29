@@ -1,0 +1,63 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-loss-of-coolant-accident
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-loss-of-coolant-accident
+type:
+- LearningResource
+- Course
+name:
+  ja: '原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「冷却材喪失事故（LOCA: Loss of Coolant Accident）」'
+description:
+  ja: 本教材は、軽水炉の基礎から冷却材喪失事故（LOCA）の概要までを扱う。さらに、PWRとBWRの冷却系、PWRの大破断・小破断LOCA、関連する代表的実験やROSA/LSTFの実験条件にも触れる。
+quotedDescription:
+  text:
+    ja: "冷却材喪失事故（LOCA: Loss of Coolant Accident）\n \n「冷却材喪失事故（LOCA: Loss of Coolant Accident）」の教材は全てCC\
+      \ BY-NCのライセンスで公開しています。\n \n本教材の内容は以下の通りです。\n \n・加圧水型軽水炉、沸騰水型軽水炉の紹介\n \n・原子炉の安全\n \n・深層防護\n \n・設計基準事故\n\
+      \ \n・冷却材喪失事故LOCA（Loss of Coolant Accident）とは？\n \n・崩壊熱\n \n・PWR、BWRの冷却系\n \n・PWRの大破断LOCA\n \n・大破断LOCAに関する代表的実験\n\
+      \ \n・PWRの小破断LOCA\n \n・OECD/NEA/CSNI ISP-26 ROSA/LSTF SB-CL-18実験\n \n・ROSA/LSTF Large Scale Test\
+      \ Facility\n \n・ROSA/LSTF SB-CL-18実験条件\n \n・ISP－26\n \n・まとめ"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-loss-of-coolant-accident
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 石垣 将宏
+  affiliation:
+    name: 福井大学 学術研究院 工学系部門 原子力安全工学講座
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2026'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 過酷事故
+- シビアアクシデント
+- 冷却材喪失事故
+- LOCA
+audience:
+- student
+materials:
+- name: '講義資料: 冷却材喪失事故（LOCA: Loss of Coolant Accident）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2026/06/Nuclear-Regulatory-Human-Resource-Development-Project_Loss-of-Coolant-Accident.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-loss-of-coolant-accident
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

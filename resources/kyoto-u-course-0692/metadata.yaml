@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0692
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/692/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報と社会
+description:
+  ja: この教材は、情報技術と社会の接点を主題にした講義資料である。情報コンテンツの共有、ネットワークによる組織形成、情報メディアが社会変革に与える影響という3段階で、扱う範囲を広げていく。公開資料には、技術史、コミュニケーション、教育の変革を扱う回と課題が含まれる。
+quotedDescription:
+  text:
+    ja: '美濃教授 担当分のみ
+
+      授業の特色
+
+      「情報と社会」は、高等学校の教職免許「情報」を得るために必要な科目である。本講義では、情報技術と社会接点について解説する。講義は3部に分かれている。第１部では情報コンテンツ（データ、ＷＥＢ情報、映像など）の社会的共有を、第２部では情報ネットワークのコミュニケーションが可能とする電子的な組織（チーム、マーケット、コミュニティ）の形成を講義する。第３部では第１部、第２部を踏まえて、情報メディアが今後の社会変革に与える影響を解説する。'
+  source: https://ocw.kyoto-u.ac.jp/course/692/
+  note: 京都大学OCW 「授業の特色」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 美濃 導彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　情報メディアの技術史（美濃 導彦 教授）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/7860d07eb84057ff5bbfedeb97bc4985.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/692/
+- name: '講義資料: 第2回　情報メディアとコミュニケーション（美濃 導彦 教授）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c0cc6cd3f0562053feec2589c832fb32.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/692/
+- name: '講義資料: 第3回　情報メディアによる教育の変革（美濃 導彦 教授）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3e7af233a2814b05f16b469e883a471c.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/692/
+- name: '講義資料: 課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/81e144c8f042360102355573e583cc17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/692/
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

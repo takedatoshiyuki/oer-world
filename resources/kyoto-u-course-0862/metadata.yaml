@@ -1,0 +1,68 @@
+slug: kyoto-u-course-0862
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/862/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際共同シンポジウム 「教育研究の新たな展開」
+description:
+  ja: グローバル化や情報化、産業構造の変化を背景に、教育をめぐる社会状況の変容と教育研究の役割を扱うシンポジウムである。UCL教育研究所と北京師範大学教育学部の専門家、京都大学教育学研究科の教員が講演し、最後に研究科の今後の展望が示される。
+quotedDescription:
+  text:
+    ja: '概要
+
+      近年、グローバル化の進展や高度情報化社会への移行、産業構造の変化などにより、教育をとりまく社会状況は大きく変化しており、それに伴って教育そのものが変容するとともに、そのあり方が問い直されています。
+
+      こうした情勢のもと、教育研究はその重要性をますます高め、教育機関や行政機関のみならず社会各界から様々な要請が寄せられると同時に、教育のあるべき姿について考えたり将来の方向性を示したりするための新たな視座が求められています。一方、脳科学や認知科学をはじめとする諸科学からは教育への新たなアプローチが提案されるようになっています。
+
+      本シンポジウムでは、このような現状認識をふまえて、「教育研究の新たな展開」について議論を深めたいと思います。本学の教育学研究科がこれまで国際共同研究や大学院生交換プログラムを進めてきた英国のUCL教育研究所と中国の北京師範大学教育学部から専門家をお招きし、同研究科の教員とともにそれぞれ講演いただきます。また、高見茂
+      教育学研究科長より、今後の同研究科の展望と将来像を提示します。'
+  source: https://ocw.kyoto-u.ac.jp/course/862/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 朱 旭東
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Paul Standish
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 齋藤 直子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高見 茂
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-12-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

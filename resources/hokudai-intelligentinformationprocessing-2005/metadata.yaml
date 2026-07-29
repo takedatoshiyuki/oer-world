@@ -1,0 +1,109 @@
+slug: hokudai-intelligentinformationprocessing-2005
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 知能情報処理（2005）
+description:
+  ja: 人工知能技術に基づく知的ソフトウェアの構成要素を扱い、記号化された概念を対象にした推論、学習、不確実性の数理的処理を学ぶ講義である。あわせて、人間の知能だけでなく感覚や運動の特性も踏まえたヒューマンインタフェース設計の基礎を扱う。
+quotedDescription:
+  text:
+    ja: '人工知能技術に基づく知的ソフトウェアの構成要素を学ぶ．この分野の技術は多岐にわたっているが，本講義では概念が記号化された以降の高次レベルでの推 論や学習および不確実性の数理的な扱いを中心に学ぶ．（それに対して，信号として与えられる低次レベルのパターンを知的に扱う技術は別の講義でなされている．）
+
+      さらに，人間の知能に加えて感覚や運動の特性まで考慮したヒューマンインタフェースのデザインの基礎を学ぶ．'
+  source: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 栗原 正仁
+  affiliation:
+    name: 情報科学研究科
+- type: Person
+  name: 野中　秀俊
+  affiliation:
+    name: 情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 人工知能プログラミング，探索，制約充足，不確実性，学習，ヒューマンインタフェース
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Note-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 2005年度'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Examination.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 2004年度'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2004-Examination.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 2003年度'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2003-Examination.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+- name: '講義資料: 2005年度'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/IntelligentInformationProcessing-2005-Report.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/intelligentinformationprocessing-2005
+extensions:
+  faculty: 工学部
+  targetAudience: 3年生 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: utokyo-series-cvyr9rmnumak
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=CVyR9rmNuMAK
+type:
+- LearningResource
+- Course
+name:
+  ja: 東洋文化研究所公開講座 第18回 アジアの教
+description:
+  ja: 前近代の東アジアで普遍的・包括的なものとして語られた「おしえ」を扱い、それが哲学・宗教・文学・歴史などの境界を越えて共有されてきたことを示す。あわせて、十九世紀後半以降に近代的な知識分類によってそのあり方が再編される過程に触れる。
+quotedDescription:
+  text:
+    ja: "前近代の東アジアで「おしえ」は普遍的で包括的なものとして語られ実践されていました。 「おしえ」は、哲学でもあり、宗教でもあり、文学でもあり、歴史でもあって、またいろいろな境界線を越えていろいろな人々に共有されていました。\
+      \  \n  しかし、前近代の教えは十九世紀後半から近代的な知識分類によって再編されることになりました。 \n  この講義では、東アジアで共有されてきた普遍的概念「おしえ」が近世近代日本において…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=CVyR9rmNuMAK
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鍾 以江
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藏本 龍介
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

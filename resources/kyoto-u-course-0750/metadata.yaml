@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0750
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/750/
+type:
+- LearningResource
+- Course
+name:
+  ja: Curve Counting, Geometric Representation Theory, and Quantum Integrable Systems
+description:
+  ja: Grassmannian の余接束を例に、有理曲線の数え上げが代数多様体の理論とどう結び付くかを扱う講義である。さらに、量子群による可積分スピン鎖の解析や、Nakajima 多様体を通じた量子群の幾何学的実現にも触れる。時間があれば、理論全体の見通しも述べる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      My goal in these lectures will be to explain, focusing on the simplest example of cotangent bundles
+      of Grassmannian, how counting rational curves is certain algebraic varieties is related to several
+      branches of mathematics pioneered and developed here in Kyoto, especially to the quantum group analysis
+      of integrable spin chains and to the geometric realization of quantum groups provided by the Nakajima
+      varieties.
+
+      This connection was discovered by Nekrasov and Shatashvili and the example of the Grassmannians
+      is really the most basic example in which the theory can be fully explained. If time permits, I
+      will try to describe the general contours of the theory, as we see them today.'
+  source: https://ocw.kyoto-u.ac.jp/course/750/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-11-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

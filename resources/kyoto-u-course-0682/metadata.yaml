@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0682
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/682/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「劣モジュラ構造と離散最適化」
+description:
+  ja: 劣モジュラ構造と離散最適化を扱う最終講義である。京都大学数理解析研究所で藤重悟が担当し、日本語で開講された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤重 悟
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 数理解析研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

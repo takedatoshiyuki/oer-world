@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0947
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/947/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズVII 「大地震･津波を考える－その1」－東日本大震災に関する防災研究所緊急調査報告会－
+description:
+  ja: 京都大学の防災研究所が担当する、東日本大震災に関する緊急調査報告会を扱う講義である。京都大学シンポジウムシリーズ「大震災後を考える」の一回として位置づけられ、大地震と津波をテーマにしている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-07-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

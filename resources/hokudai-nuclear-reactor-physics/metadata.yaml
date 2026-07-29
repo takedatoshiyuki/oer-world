@@ -1,0 +1,56 @@
+slug: hokudai-nuclear-reactor-physics
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-reactor-physics
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「原子炉物理学」
+description:
+  ja: 原子炉物理学の基礎から応用までを全13回で扱う教材である。中性子束や断面積、核反応、核分裂、拡散方程式、臨界、四因子公式、減速、動特性、反応度、燃焼へと進み、最後に原子炉物理の応用を扱う。
+quotedDescription:
+  text:
+    ja: "原子炉物理学\n \n「原子炉物理学」の教材は全て制限資料のライセンスで公開しています。\n \n第1回　導入と基礎知識\n \n第2回　中性子束と断面積\n \n第3回　核反応概論、輸送断面積\n\
+      \ \n第4回　核分裂反応\n \n第5回　拡散方程式の導入\n \n第6回　拡散方程式の解\n \n第7回　原子炉の臨界\n \n第8回　四因子公式\n \n第9回　中性子の減速\n \n\
+      第10回　原子炉の動特性\n \n第11回　原子炉の反応度\n \n第12回　燃焼\n \n第13回　原子炉物理の応用"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-reactor-physics
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤本 望
+  affiliation:
+    name: 九州大学大学院 工学研究院 エネルギー量子工学部門
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 原子炉物理学
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

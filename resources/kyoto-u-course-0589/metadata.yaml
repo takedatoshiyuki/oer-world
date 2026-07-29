@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0589
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/589/
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開講演会・公開講座「心が活きる教育を進めるもの、阻むもの」
+description:
+  ja: 京都大学教育学研究科が2010年11月24日に開講した公開講演会・公開講座である。松沢哲郎、佐藤卓己、ルプレヒト・マッティクが担当し、日本語で実施される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松沢 哲郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐藤 卓己
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ルプレヒト・マッティク
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-11-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

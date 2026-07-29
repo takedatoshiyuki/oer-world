@@ -1,0 +1,68 @@
+slug: kyoto-u-course-0088
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/88/
+type:
+- LearningResource
+- Course
+name:
+  ja: 日本古典文学入門
+description:
+  ja: 奈良時代から江戸時代にかけての代表的作品を精読し、日本古典文学に見られる理念や規範、価値観を取り上げる教材である。あわせて、それらが日本文学史の中でどのように形成され、維持され、変容してきたかを考察する。公開教材として講義資料2件が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      日本古代から近世までの代表的な作品を通じて、繰り返し現れる日本古来の、さまざまな文学的理念、規範、価値等について考察すると共に、それらの文学的理念等が、どのように形成され、またどのような変遷を経て、現代にまで継承されてきたかについて考察を試みる。
+
+      授業の紹介
+
+      種々の作品を残した日本古典文学の作者達は、一体どのような出来事、事柄、性質によって刺激を受け、触発され、そして、その刺激に対し、いかに文学的に答えようとしたのだろうか。どのようなものを好み、どのようなものを敬遠したのだろうか。また、さまざまな文学的理念、規範や価値の中で、現代にまで継承されてきた概念には、どのようなものが見られるのだろうか。一方、変容されたものは、どのようにその変貌を遂げたのだろうか。
+
+      本授業では、奈良時代から江戸時代にかけての代表的な作品の精読を通じ、上記のような問題について考察する。日本の古典には、「もののあはれ」、「をかし」、「いろごのみ」、「無常」、「幽玄」、「花」、「風雅・風流」、「わび」、「さび」、「勧善懲悪」等々といった、幾つか重要なテーマを見出すことができる。同時に、「妻問ひ」、「隠遁」、「ますらを（振り）・たをやめ（振り）」、「判官贔屓」、「粋・いき・通」、「義理人情」等々、さまざまな社会的慣習、生き方、価値観等の類も見られる。これらの文学的理念、規範、価値等が、日本文学歴史上どのように形成、維持され、あるいは衰退していったかについて検討すると共に、現代において、どのように受け入れられ、あるいはどんなふうに変容されたかについて考察する。'
+  source: https://ocw.kyoto-u.ac.jp/course/88/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 河上 志貴子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-11-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 文学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: Outline and Working Bibliography'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/日本古典文学入門01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/88/
+- name: '講義資料: Guidelines for Term Paper'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/日本古典文学入門02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/88/
+extensions:
+  faculty: 全学共通科目
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

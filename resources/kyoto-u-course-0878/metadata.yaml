@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0878
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/878/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第7回国際シンポジウム “Let’s Work Together toward Achieving Sustainable Development Goals”
+description:
+  ja: 京都大学総合生存学館（思修館）が主催する国際シンポジウムで、学生と研究者の研究成果や知見を集め、SDGsの達成に向けた地球規模課題を取り上げる。気候変動や資源枯渇、生物多様性の喪失、貧困、不平等、食料安全保障、感染症の拡大など、複数の社会課題が説明文で挙げられている。
+quotedDescription:
+  text:
+    ja: 'Short Summary
+
+      7th International Symposium organized by the Graduate School of Advanced Integrated Studies in Human
+      Survivability at Kyoto University aims at bringing together students and scholars in their latest
+      academic research and knowledge to facilitate wider public discussion on solving global issues toward
+      achieving Sustainable Development Goals.
+
+      About the Organizers
+
+      The Graduate School of Advanced Integrated Studies in Human Survivability (GSAIS/Shishukan) runs
+      a 5-year PhD program aiming to raise young future leaders who can find novel solutions to complex
+      social issues such as climate change, resource depletion, biodiversity loss, poverty, and inequality,
+      food security, population pressure, the spread of infectious diseases, etc. Human Survivability
+      Studies is an integrated academic field that aims to integrate knowledge or wisdom from individual
+      disciplines related to the survival of mankind and global society. Our final goal is to contribute
+      to the creation of a sustainable future for humanity.
+
+      To learn more, please visit the web site of GSAIS
+
+      (in English) http://www.gsais.kyoto-u.ac.jp/en-top/
+
+      (in Japanese) http://www.gsais.kyoto-u.ac.jp/'
+  source: https://ocw.kyoto-u.ac.jp/course/878/
+  note: 京都大学OCW 「Short Summary」・「About the Organizers」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-12-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

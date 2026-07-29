@@ -1,0 +1,64 @@
+slug: hokudai-philosopherslikeparadox-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/philosopherslikeparadox-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文学カフェ 哲学者はパラドクスがお好き －ようこそ思考のワンダーランドへ－（2011）
+description:
+  ja: 哲学者が扱うパラドクスや懐疑論を通して、思考の行き詰まりや逆説的な議論を考える講義資料である。哲学者とは何をする人かという問いを手がかりに、古代ギリシャから続く問題の見方に触れる。
+quotedDescription:
+  text:
+    ja: '科学者の仕事は想像がつくけれど、哲学者とはいったい何をする人なのだろう--そう思ったことはありませんか？世界の真理を究明し、よき人生を巡る深遠な問題を沈思黙考している人--なるほど。または自分たちには解きがたい難解な問題に答えられる賢い人、そんな風に考えている人もいるかもしれません。
+
+      でも実際はちょっと違うようです。哲学者って「わからないことが大好きな人」たちなのです。はるか古代ギリシャの昔から今に至るまで、多くの哲学者が、パラドクス〔考え方の道筋はあっているようだが出てくる結論には到底納得できないというような議論〕や、懐疑論〔われわれの常識からすれば絶対否定したいが、なかなか理屈ではうまく反論できない議論〕の分析に延々と取り組んできました。パラドクスや懐疑論の世界をのぞいてみると、われわれの脳を揺さぶり、めまいを覚えさせるような、奇妙で刺激的な「わからなさ」が満載です。
+
+      今回の話し手、山田友幸さんは、このようなパラドクスや懐疑論の世界へみなさまをいざないます。出てくる問題はみな考えるほど不可解だけど魅惑的なものばかり。ではみなさま、めくるめく思考のワンダーランドを一緒に探検いたしましょう。
+
+      紀伊國屋書店札幌本店 2011年5月29日'
+  source: https://ocw.hokudai.ac.jp/lecture/philosopherslikeparadox-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山田 友幸
+  affiliation:
+    name: 文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 哲学者はパラドクスがお好き'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PhilosophersLikeParadox-2011-Slide1.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/philosopherslikeparadox-2011
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

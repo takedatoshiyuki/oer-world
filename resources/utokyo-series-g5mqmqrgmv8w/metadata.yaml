@@ -1,0 +1,56 @@
+slug: utokyo-series-g5mqmqrgmv8w
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=G5mqmqrGMv8w
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部 テクノサイエンスカフェ 第19回 エネルギーと資源のフロンティア
+description:
+  ja: 東京大学工学系研究科・工学部が、小中高生とその保護者向けに開く「東大テクノサイエンスカフェ」の第19回である。エネルギーと資源を主題に、講演・実験・ワークショップを通して、エネルギーの変遷やCO2排出、CCSを扱う。
+quotedDescription:
+  text:
+    ja: "東京大学大学院工学系研究科・工学部では、工学の魅力を伝える活動の一環として、小中高生とその保護者に向けた「東大テクノサイエンスカフェ」を開催しています。第19回目を迎えた今回は「エネルギーと資源のフロンティア\
+      \     」をテーマに講演・実験・ワークショップを開催しました。   \n \n  00:34 三大エネルギー革命と環境    12:07 世界のCO2排出量    15:06 CCS（Carbon\
+      \ Capture and Storage）    25:51 日本でCCSは不要…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=G5mqmqrGMv8w
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐藤 光三
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 泰浩
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

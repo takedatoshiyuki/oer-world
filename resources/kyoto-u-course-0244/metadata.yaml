@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0244
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/244/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回「京大おもろトーク：アートな京大を目指して」〜ちょっとぐらい ええやないか
+description:
+  ja: この教材は、京都とアートの関係を手がかりに、京都大学がアートの発想を取り入れて変わろうとする試みを扱う。講義では「ちょっとぐらい ええやないか」というテーマを軸に、社会の風通しをよくするための考え方を論じる。
+quotedDescription:
+  text:
+    ja: '長い歴史と文化を持つ京都は、同時に常に最先端の動きを取り入れてきた町でもあります。アートはその伝統とモダンをつなぎ、新しい動きを創る力を持っています。いま京都大学はアートの発想を取り入れて、新しく生まれ変わろうとしています。京大おもろトークに参加して、その試みを目撃してみませんか？
+      第4回目のテーマは、「ちょっとぐらい ええやないか」です。
+
+      今は、人と人とのつながりや社会生活において、ルールが先にあるような時代です。はみ出たことをすると、攻撃をするようなちょっと窮屈なところがあります。しかし、「ちょっとぐらい ええやないか」という気持ちを持っているはずです。
+
+      「ちょっとぐらい ええやないか」という言葉をアートで、私たちの時代の風通しを良くして住みやすい場所にするための方法を考えてみます。'
+  source: https://ocw.kyoto-u.ac.jp/course/244/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂口 恭平
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 泉 拓良
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 那須 耕介
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 東田 大志
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 土佐 尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-03-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: ディスカッション書き起こし'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2016/03/2015_omorotalk4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/244/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

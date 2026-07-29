@@ -1,0 +1,68 @@
+slug: sophia-20120809lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120809lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: アフリカの都市化と新たなグローバル課題
+description:
+  ja: アフリカの都市の将来をめぐる議論を軸に、持続可能性の枠組みや都市スラムにおける貧困と開発を取り上げる講演会・シンポジウムである。あわせて、アフリカの都市問題に対するJICAの経験と今後の支援の方向性、都市化とグローバリゼーションの関係も扱う。
+quotedDescription:
+  text:
+    ja: "「Engaging Africa’s Urban Future 」 \n （エドガー・ピーターズ） \n 「Sustainability Principles & Frameworks\
+      \ 」 \n （ゲイリー・ケンドール）\n「アフリカの都市スラムにおける貧困と開発－人間の安全保障への挑戦」 \n （ 高橋 基樹）\n 「アフリカの都市問題－ JICA の経験と今後の支援の方向性－\
+      \ 」 \n （加藤 隆一）\n 「都市化とグローバリゼーション－メディアがつなぐ「周縁」」 \n （ 阿部 るり）"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120809lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: エドガー
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: ピーターズ （ 南アフリカ
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: ケープタウン大学アフリカ都市研究センター 教授
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: センター長）ほか
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 120809lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/120809lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20120809lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2012/08/09
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

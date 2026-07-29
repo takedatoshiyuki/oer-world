@@ -1,0 +1,119 @@
+slug: kyoto-u-course-0200
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/200/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第5回 市民講座「宇宙と物質の神秘に迫る～物理科学最前線～」特集テーマ「物理科学のこれから」
+description:
+  ja: 物性物理、宇宙物理、素粒子物理の将来をテーマにした市民講座の第5回で、京都大学理学研究科が提供する。公開教材には、各講義の講演ファイルやレジメ、略歴、映像内引用著作物、ポスターPDFが含まれる。
+quotedDescription:
+  text:
+    ja: '主催：京大21世紀COE「物理学の多様性と普遍性の探求拠点」
+
+      後援：京都新聞社、物理教育学会、天文教育普及研究会、京都市教育委員会、京都府教育委員会
+
+       
+
+      概要
+
+      本市民講座は京都大学21世紀COE「物理学の多様性と普遍性の探求拠点」の開始とともに 2003年に始まり、今年で5年目をむかえました。
+
+      本市民講座は来年以降も続けたいと思っていますが、今回は COE（5年計画）の最終年度ということで一区切りをつけ、物理学・宇宙物理学の未来を担う新進気鋭の先生方に「物理科学のこれから」－物性物理、宇宙物理、素粒子物理の将来－を語っていただく予定です。どんなわくわくする学問の未来が語られるか、ご期待ください。
+
+       
+
+      詳細（物理学の多様性と普遍性の探求拠点HP）→http://physics.coe21.kyoto-u.ac.jp/public.html'
+  source: https://ocw.kyoto-u.ac.jp/course/200/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 柴田 一成
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小山 勝二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 耕一郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 長田 哲也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 國廣 悌二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007-09-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 「光で物質をあやつる」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「光で物質をあやつる」配布資料（略歴）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「光で物質をあやつる」配布資料（レジメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「光で物質をあやつる」講演ファイル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「赤外線で見通す銀河系－木も森もみたい－」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「赤外線で見通す銀河系－木も森もみたい－」配布資料（略歴）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「赤外線で見通す銀河系－木も森もみたい－」配布資料（レジメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「赤外線で見通す銀河系－木も森もみたい－」講演ファイル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「素粒子の『溶ける』話－超高温・高密度の世界の探求－」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「素粒子の『溶ける』話－超高温・高密度の世界の探求－」配布資料（略歴）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: 「素粒子の『溶ける』話－超高温・高密度の世界の探求－」配布資料（レジメ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+- name: '講義資料: ポスターPDF'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_第5回市民講座_ポスター.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/200/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

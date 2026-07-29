@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0449
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/449/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第45回人環国際交流セミナー「親日国トルコ共和国における 日本文学・日本文化研究および教育の過去と現在」アリ・ヴォルカン・エルデミール（Ali Volkan Erdemir）准教授
+description:
+  ja: トルコ共和国における日本文学・日本文化研究および教育の過去と現在を扱う講義である。京都大学の人間・環境学研究科で開講され、アリ・ヴォルカン・エルデミールが担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: アリ・ヴォルカン・エルデミール
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-10-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

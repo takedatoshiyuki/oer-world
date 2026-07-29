@@ -1,0 +1,57 @@
+slug: icu-ge-gen013-2016s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/GEN013_2016S
+type:
+- LearningResource
+- Course
+name:
+  ja: 'GEN013 2016S N1: The Chemical Basis of Nature Ｎ１：自然の化学的基礎」のコピー'
+description:
+  ja: 国際基督教大学が提供する、2016年開講の日本語講義である。担当は小林潤司、峰島知芳、久保謙哉で、講義名には自然の化学的基礎を扱うことが示されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 小林 潤司
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 峰島 知芳
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 久保謙哉
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 一般教育科目
+- 'GEN013 | Course Schedule:'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,51 @@
+slug: utokyo-series-p8ssrhj5fsw7
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=P8sSrhj5FSW7
+type:
+- LearningResource
+- Course
+name:
+  ja: 映像で見るアクティブラーニング
+description:
+  ja: この教材は、ジグソーメソッドを扱い、グループで異なる課題に取り組んで学びを深め、教え合いながら統合する流れを映像で示す。東京大学駒場アクティブラーニングスタジオでの授業風景とCGアニメーションを組み合わせ、実際の場面を通して学習の進め方を示す。
+quotedDescription:
+  text:
+    ja: "ジグソーメソッドとは、グループごとに与えられた異なる課題を学習して知識を深め、教え合い、統合する活動を通じた学びの方法です。この映像では、東京大学駒場アクティブラーニングスタジオ （KALS）での授業風景とCGアニメーションで、ジグソーメソッドを体感的に学ぶことがで\
+      \ きます。 \n \n  映像提供：     東京大学教養教育高度化機構（KOMEX） アクティブラーニング部門"
+  source: https://ch.u-tokyo.ac.jp/series/?id=P8sSrhj5FSW7
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: KOMEX
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

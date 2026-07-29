@@ -1,0 +1,110 @@
+slug: utokyo-series-vwasg6lphnf0
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=VWAsg6LpHNF0
+type:
+- LearningResource
+- Course
+name:
+  ja: 震災後、魂と風景の再生へ（朝日講座「知の冒険—もっともっと考えたい、世界は謎に満ちている」2011年度講義）
+description:
+  ja: 東日本大震災をめぐり、被災した人々や亡くなった人々、災害を見守った人々に向けて何を語りうるかを考える講義である。文学・思想・歴史・人間に関する人文知と、別の方法で「永遠」に触れてきた諸科学を手がかりに、教員と参加者が共に考える場として位置づけられている。
+quotedDescription:
+  text:
+    ja: 'コーディネータ：加藤陽子、阿部公彦
+
+      東日本大震災の被災地で生きる人々、亡くなられた人々、
+
+      未曾有の災害に対して固唾をのんで見守った人々。
+
+      このようなすべての人々、あるいはその魂に向け、
+
+      魂と風景の再生に捧げる「言葉の花束」を共に想像（創造）することをめざす。
+
+      今年度は、文学と思想、歴史、人間についての知である人文知を一つの核とし、
+
+      今一つには、人文知とは別個の方法で「永遠」といったものに触れてきた
+
+      諸科学が、現在もなお進行中の、この壮絶な悲惨さのなかで何を語りうるのか、
+
+      何を遺しうるのか、教員と参加者とが共に考える場としたい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=VWAsg6LpHNF0
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 加藤 陽子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉見 俊哉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 阿部 公彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 淳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 一ノ瀬 正樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: マイク・モラスキー
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浅見 泰司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 若宮 啓文
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- engineering
+- arts_humanities
+keywords:
+- 教育
+- 災害・防災
+- 文化・芸術・文芸
+- 歴史
+- 言語・思想
+- 東京大学
+- 災害
+- 国防
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

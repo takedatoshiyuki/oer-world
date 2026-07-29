@@ -1,0 +1,54 @@
+slug: hokudai-faculty09cationinfinland-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty09cationinfinland-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 ワークショップ フィンランドの教えない教育「博物館で個性が活かせる授業を創ろう！」 (2010)
+description:
+  ja: フィンランドの『教えない教育』を手がかりに、博物館の展示を題材として授業を組み立てる方法を扱う。子どもたちの個性を活かす授業を創ることを目的にしたワークショップである。
+quotedDescription:
+  text:
+    ja: フィンランドの『教えない教育』を参考にして、博物館の展示を題材にしながら、子どもたちの個性を活かすことのできる個性的な授業を創ることを目的としたワークショップを開催しています。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty09cationinfinland-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 池田 文人
+  affiliation:
+    name: 北海道大学文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0892
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/892/
+type:
+- LearningResource
+- Course
+name:
+  ja: COCOLO域・E.FORUM 教育研究セミナー「高校生と大学生の探究成果ポスター発表会」
+description:
+  ja: 高校生と大学生が探究の成果をポスター形式で発表するセミナーである。京都大学の教育学研究科が提供し、複数の担当者が関わる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 高見 茂
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 地域連携教育研究推進ユニット長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大杉 住子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 塩澤 幸雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北野 正雄）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 桑原 知子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-08-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

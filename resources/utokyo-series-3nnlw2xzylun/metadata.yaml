@@ -1,0 +1,83 @@
+slug: utokyo-series-3nnlw2xzylun
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=3nNLW2XzYlUn
+type:
+- LearningResource
+- Course
+name:
+  ja: シンポジウム「うな丼の未来」
+description:
+  ja: ウナギの資源減少をめぐり、現在の状況とその背景、回復の方法、今後の付き合い方を扱うシンポジウムである。ニホンウナギの絶滅危惧種指定やシラスウナギの不漁にも触れ、資源と食文化の行方を考える内容になっている。
+quotedDescription:
+  text:
+    ja: "ウナギは今、未曾有の危機に直面している。2013年2月、環境省はニホンウナギを絶滅危惧種に指定した。また、4年連続のシラスウナギ（養殖ウナギの種苗）大不漁も問題となっている。 \n  これからウナギはどうなるのか？なぜ資源はこんなにも減ってしまったのか？どうすれば資源を回復させることができるのか？これからウナギとどのようにつきあっていくのが良いか？問題は山積している。日本人がこよなく愛すウナギの食文化を絶や…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=3nNLW2XzYlUn
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鷲谷 いづみ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塚本 勝巳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 勝川 俊雄
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 栄次
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 海部 健三
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 櫻井 一宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 渡邊 俊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 秀樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 「問い」から始めるSDGs
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

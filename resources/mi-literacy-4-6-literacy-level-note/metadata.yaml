@@ -1,0 +1,50 @@
+slug: mi-literacy-4-6-literacy-level-note
+mode: referenced
+externalUrl: https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-6_literacy_level_note.pdf
+type:
+- LearningResource
+- Course
+name:
+  ja: 画像解析（東京大学・数理DS-AI教育 リテラシーレベル）
+description:
+  ja: 東京大学が担当する、画像解析を扱う講義である。対象は画像認識で、2020年に日本語で開講された。
+inLanguage:
+- ja
+usageTerms:
+  url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning.html
+  summary:
+    ja: 提供大学ごとに利用条件が定められている（コンソーシアムページの「利用条件」の各大学のリンク先を参照）。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 東京大学
+publisher:
+- type: Organization
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+sourceCollection:
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+  url: https://www.mi.u-tokyo.ac.jp/consortium/
+datePublished: '2020'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- slide
+about:
+- ict
+keywords:
+- データサイエンス
+- リテラシーレベル
+- 4-6. 画像認識
+audience:
+- student
+- teacher
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 4-6. 画像認識
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。数理・データサイエンス・AI教育強化拠点コンソーシアムのモデルカリキュラム対応教材リストに基づく。datePublished
+    は動画は YouTube 公開年、スライドはファイル名または PDF 内部の作成年。description は gpt-5.4-mini が生成。
+  confidence: high

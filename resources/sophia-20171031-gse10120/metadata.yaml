@@ -1,0 +1,61 @@
+slug: sophia-20171031-gse10120
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20171031-gse10120/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智大学（ソフィア）のルーツとアイデンティティ／HUMANISM OF SOPHIA UNIVERSITY
+description:
+  ja: 上智大学の歴史を創立の源流までさかのぼって扱い、教育理念とアイデンティティを多面的に考察する講義である。各分野の専門講師が輪講形式で担当し、大学の成り立ちと自己理解に関わる論点を取り上げる。
+quotedDescription:
+  text:
+    ja: 上智大学は、2013年に創立100周年を迎えた。本講では、上智大学の歴史をその源泉に遡って振り返り、本学の教育理念およびアイデンティティを様々な角度から考察・探求する。授業は、それぞれの分野を専門とする講師の輪講形式で行われる。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20171031-gse10120/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: コ） 片山 はるひ
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 原 敬子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20171031GSE10120-7.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20171031GSE10120-7.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20171031-gse10120/
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

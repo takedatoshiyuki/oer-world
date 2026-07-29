@@ -1,0 +1,86 @@
+slug: kyoto-u-course-0740
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/740/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報技術演習
+description:
+  ja: 情報収集のリテラシーから始まり、情報の構造化や形式化、プログラミングの基礎、情報抽出と自然言語処理へと進む内容を扱う。さらに、情報流通、情報の統合と共有、情報基盤、グループウェア、情報の可視化、インタラクション技術までを講義資料で追う構成である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久保田 秀和
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+- ict
+keywords:
+- 文学
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　情報収集のリテラシー'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第2回　情報の構造化と形式化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第3回　プログラミングの基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第4回　情報抽出と自然言語処理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第5回　情報流通（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第6回　情報流通（２）＋中間報告会'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第7回　情報の統合と共有'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第8回　情報基盤'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第9回　グループウェア'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第10回　情報の可視化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+- name: '講義資料: 第12回　インタラクション技術'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2006_jouhougijutsuenshuu_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/740/
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,63 @@
+slug: hokudai-openlecture-01-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/openlecture-01-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 ２０３０年へのシナリオ グローバリゼーションと教育の変容 （2013）
+description:
+  ja: 経済・社会のグローバリゼーションが進む中で、教育がどのように変化しているかを扱う講座である。国境をこえた学習者の移動や教育成果の国際的評価を踏まえ、従来の国民教育の枠組みを見直す視点を示す。あわせて、トランスナショナルな教育システムの構築という課題を論じる。
+quotedDescription:
+  text:
+    ja: '経済・社会のグローバリゼーションの動きが強まる中で、教育のあり方は大きく変容しつつあります。国の枠をこえて、義務教育段階から高等教育まで多くの外国人が学び、外国で学ぶ日本人も増大しています。それにともなって、世界的な規模で教育の成果が評価される傾向も現れています。これらの動きの中で、従来の国民教育のあり方が問い直され、トランスナショナルな教育システムの構築が課題となりつつあることについて論じます。
+
+      教員紹介
+
+      小内 透
+
+      1955年群馬県生まれ。1984年北海道大学大学院教育学研究科博士後期課程単位取得退学。北海道教育大学旭川分校助手、助教授、北海道大学教育学部助教授を経て、2002年大学院教育学研究科(現研究院)教授。博士(教育学)。専門は教育社会学。主な著書に『教育と不平等の社会理論』(東信堂、2005年)、『トランスナショナルな移動と定住・全3巻』(編著、御茶の水書房、2009年、第4回地域社会学会賞)など。'
+  source: https://ocw.hokudai.ac.jp/lecture/openlecture-01-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小内 透
+  affiliation:
+    name: 北海道大学大学院教育学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- education
+keywords:
+- 少子高齢化
+- 財政危機
+- グローバリゼーション
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

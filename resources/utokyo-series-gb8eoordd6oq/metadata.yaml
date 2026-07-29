@@ -1,0 +1,89 @@
+slug: utokyo-series-gb8eoordd6oq
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Gb8EOorDd6oQ
+type:
+- LearningResource
+- Course
+name:
+  ja: GraSPP Research Seminar
+description:
+  ja: '東京大学が2019年に提供する、英語話者向けの研究セミナーである。デイビッド・レーニー教授を招き、著書『Empire of Hope: The Sentimental Politics of
+    Japanese Decline』を手がかりに、感情と政治の関係に関する研究を扱う。'
+quotedDescription:
+  text:
+    ja: '日本政治の研究者、デイビッド・レーニー教授をゲストに招いたセミナーです。著書「Empire of Hope：The Sentimental Politics of Japanese Decline（希望の帝国：日本の衰退に関する感傷的政治学）」を中心に、感情と政治のつながりに関する研究についてお話します。
+
+      ※この講演は英語です。
+
+      ★GraSPP Research Seminar については こちら
+
+      ★SSUセミナーについては こちら
+
+      主催：東京大学公共政策大学院、東京大学未来…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Gb8EOorDd6oQ
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: David Leheny
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤原 帰一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Atul Khare
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩井 文男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Jerald Schiff
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西沢 利郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 隆敏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Alessio Patalano
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

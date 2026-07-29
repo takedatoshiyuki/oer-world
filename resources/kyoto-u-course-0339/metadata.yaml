@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0339
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/339/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2018年度 京都大学新任教員教育セミナー
+description:
+  ja: 京都大学の新任教員教育セミナーで、大学教育の動向と京都大学の教育改革を扱う講演を含む。あわせて、研究公正教育を授業に組み込む考え方と、本学教員による授業実践の紹介を行う。
+quotedDescription:
+  text:
+    ja: '1 オープニングレクチャー：
+
+      「現在の大学教育の動向と京都大学の教育改革」
+
+      理事・副学長（教育・情報・評価担当）北野 正雄
+
+      2 ミニ講義：「埋め込み型研究公正教育のすすめ」
+
+      文学研究科准教授　伊勢田 哲治
+
+      3 本学教員による授業実践紹介
+
+      私の授業　理学研究科教授　沼田 英治'
+  source: https://ocw.kyoto-u.ac.jp/course/339/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

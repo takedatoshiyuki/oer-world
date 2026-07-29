@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0841
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/841/
+type:
+- LearningResource
+- Course
+name:
+  ja: 移民の言語教育と教師の役割－フランス語、日本語教育の現場からの発信－
+description:
+  ja: 移民が受け入れ社会で生活する際の言語教育を取り上げ、第二言語教育の現場で誰が何を教えるのかという論点を扱う。教師の役割を軸に、フランス語教育と日本語教育の現状から考察する。
+quotedDescription:
+  text:
+    ja: 外国からの移民が受け入れ社会で生活するために言語能力が重要な鍵になると言われますが、移民のための第二言語教育の現場では、誰が何を教えるのか試行錯誤が続いています。今回の研究会では、言語教育における「教師の役割」について、フランス語教育と日本語教育の現状から考えます。
+  source: https://ocw.kyoto-u.ac.jp/course/841/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松岡 洋子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ETHIER Suzanne
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 春原 憲一郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ヴェロニク・カステロッティ
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 足立 祐子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-06-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- education
+keywords:
+- 語学
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,53 @@
+slug: utokyo-series-gq1pdv9s64nf
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=gQ1PdV9S64nF
+type:
+- LearningResource
+- Course
+name:
+  ja: ル・クレジオ氏講演会
+description:
+  ja: ル・クレジオを招いた対談形式の講演会で、翻訳者の中地義和教授とともに、作品例を手がかりに文学における「青春」と「老年」の意味を取り上げる。少年時代の思い出や家族の記憶にも触れながら、作家本人の語りを通して作品と背景を結びつけていく内容である。
+quotedDescription:
+  text:
+    ja: "2008年ノーベル文学賞受賞者であるフランスの作家ル・クレジオ氏を迎えた講演会です。 ル・クレジオ氏著作の翻訳者でもある中地義和教授との対談形式で行われます。 \n  ル・クレジオ氏の文学における「青春」および「老年」の意味をめぐって、さまざまな作品の実例に触れつつ、興味ぶかい話題が次々に展開されます。少年時代の思い出、父母や兄、祖母や叔母たちの記憶にまで及ぶ、作家の素顔に間近に接するような対談を、ぜひお…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=gQ1PdV9S64nF
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: J. M. G. Le Clézio
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 'The Pinnacle of Intellect: Masterclasses by Nobel Laureates'
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,66 @@
+slug: sophia-20111018comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111018comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Prostitution, Emigration and Nation-Building 1870-1930.
+description:
+  ja: この教材は、1870年から1930年にかけての日本人女性の性産業、海外移動、国家形成の関係を扱う。明治期の官僚的知識の再編や、日本政府が海外移動をめぐって促進と統制の両面をどう進めたかを論じる。あわせて、日本領事の役割が貿易・定住情報の収集から海外在住日本人の管理へ変化する流れを示す。
+quotedDescription:
+  text:
+    ja: The focus of this presentation is on how the systematic restructuring of bureaucratic knowledge
+      was instrumental in transforming Meiji sensibilities regarding the sex life of the poor. Sex and
+      bureaucracy are considered opposite forces, but bureaucrats redefined peasant women finding work
+      abroad, who had been understood as filial daughters, making them into ‘unsightly women abroad.’
+      The spread of Japanese women engaging in sex work overseas intensified the discord the Japanese
+      government faced over how to promote and facilitate and, at the same time, control and limit, the
+      movement of Japanese subjects abroad. My talk will show how, over time, the Japanese consuls’ role
+      of obtaining information relating to trade and settlement transformed into one concerned with the
+      administration and control of Japanese living overseas.
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111018comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Dong-A University
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Busan. )
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 111018comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111018comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111018comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2011/10/18
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

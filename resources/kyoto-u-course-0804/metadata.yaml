@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0804
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/804/
+type:
+- LearningResource
+- Course
+name:
+  ja: オバマ政権のITヘルスケアプラン
+description:
+  ja: オバマ政権の医療IT政策に関する講義資料を公開する教材である。John Halamka MDが担当し、英語で提供される。公開ファイルは「The Obama Healthcare IT Plan
+    -- An Insider’s View」という講義資料1件である。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: John Halamka MD（CIO
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Harvard Medical School）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: The Obama Healthcare IT Plan -- An Insider’s View'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/08/2009_the-obama-healthcare-it-plan-an-insiders-view.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/804/
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

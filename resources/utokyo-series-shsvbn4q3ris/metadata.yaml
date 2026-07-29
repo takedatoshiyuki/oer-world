@@ -1,0 +1,95 @@
+slug: utokyo-series-shsvbn4q3ris
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=shsVbN4q3RiS
+type:
+- LearningResource
+- Course
+name:
+  ja: ネットとリアルのあいだ－知のデジタル･シフトとインターネット社会の未来（学術俯瞰講義）
+description:
+  ja: この講義は、インターネットを軸に、コンピュータ科学やアーカイブ学、社会情報学などの視点を横断して、ネット空間の仕組みと広がりを扱う。検索、可視化、ブログ、映像配信、言語処理、VRといった技術が社会に入り込み、知や経験のあり方を変える様子も取り上げる。さらに、それらの変化が行動パターンや法秩序、言語や歴史認識に及ぶ影響を考察する。
+quotedDescription:
+  text:
+    ja: '今日、私たちにもっともなじみ深いメディアはインターネットである。若者たちの日常では、インターネットはすでに支配的な地位を確立しており、あらゆる情報がネット経由でやりとりされている。インターネットは、次のような諸点で既存メディアとは異なる顕著な特徴を有している。まず、ウェブ空間に出現するさまざまなコミュニケーション形式は、検索や可視化技術であれブログや映像配信システムであれ、高度に洗練されたソフトウェア技術に裏打ちされている。また、インターネットでやりとりされる情報は、娯楽コンテンツのみならず百科事典や専門的なアーカイブ、知識人のブログといった、大学の図書館や教室でやりとりされてきたような知的コンンテンツを相当量含んでいる。さらにインターネットは容易に国境を越える。新聞やテレビが基本的にはナショナルなメディアであったのに対し、ネット情報は地球規模で越境的なコミュニケーションを活性化する。
+
+      以上の特徴と私たちにとっての身近さから、学術俯瞰講義「情報｣は、インターネットに焦点を当て、コンピュータ科学からからアーカイブ学、社会情報学等までの多様なアプローチの俯瞰を試みたい。題して、｢ネットとリアルのあいだ｣。一方では、インターネットやウェブ空間が、どのような言語処理やＶＲの技術に支えられ、これらの技術はネットの内と外をいかに越境して私たちの社会に浸透しているのかを俯瞰する。他方では、そのような技術が創り出す新しい知と経験の世界が、私たちの既存の行動パターンや法秩序をどのように変容させつつあるのかを俯瞰する。全体を通じ、今日の高度な情報技術が21世紀の言語と経験、歴史認識や人間行動をいかに変化させているのかを考えたい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=shsVbN4q3RiS
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 美馬 秀樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西垣 通
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 辻井 潤一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 廣瀬 通孝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 横山 伊徳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 青柳 正規
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 根本 彰
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 橋元 良明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- ict
+- arts_humanities
+keywords:
+- 教育
+- AI・情報
+- 言語・思想
+- ロボット・技術
+- 歴史
+- 文化・芸術・文芸
+- 人口・社会問題
+- 心理・認知
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

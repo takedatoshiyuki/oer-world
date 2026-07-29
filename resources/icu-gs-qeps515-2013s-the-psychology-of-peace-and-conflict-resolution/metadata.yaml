@@ -1,0 +1,70 @@
+slug: icu-gs-qeps515-2013s-the-psychology-of-peace-and-conflict-resolution
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/gs/qeps515-2013s-the-psychology-of-peace-and-conflict-resolution
+type:
+- LearningResource
+- Course
+name:
+  ja: QEPS515 2013S The Psychology of Peace and Conflict Resolution
+description:
+  ja: 人間を取り巻く物理的・社会的環境と、平和・安全・紛争との関係を心理学の観点から扱う科目である。偏見や差別、集団力学、紛争と暴力の影響を取り上げ、紛争の回避や対応、平和のための教育方法まで考察する。公開動画は授業の一部を収録したものだ。
+quotedDescription:
+  text:
+    ja: 'This course represents an offering in general on the mutual interactions between human beings
+      and their environments, physical and social(including economic, political and religious contexts),
+      natural and built. As this course is also designated as a core component of the Rotary World Peace
+      programme offered, the course focuses in particular on how the environmental contexts in which people
+      live relate to basic issues of peace, security and conviviality(kyosei). Environmental determinants
+      of attitudes and behaviour which relate to issues of peace, security, and conflict are the major
+      focus. Issues of group dynamics as they relate to prejudice, discrimination, racism, and conflict
+      are explored. The psychological and physiological impacts of conflict and violence are examined.
+      Strategies for avoiding or managing conflict are considered and ways of educating for a more peaceful
+      world are evaluated from various psychological perspectives.
+
+      この科目は、人間と物理的・社会的環境（経済的、政治的、宗教的観念を含む）、自然と建築物との間の相互作用に焦点をあてる。同時に「ロータリー世界平和プログラム」のコアカリキュラムの一つであり、人々の平和や安全、共生という基本的問題と環境との関わりにも焦点をおいている。平和、安全、紛争問題に関わる態度と行動の環境的規定因をとりあげる。また、偏見、差別、人種差別、紛争に関係する集団力学の問題を探究する。紛争と暴力の心理学的および生理学的影響についても検討する。紛争の回避とその対応戦略を考察し、より平和な世界を目指した教育方法について、様々な心理学的知見から検証する。
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/gs/qeps515-2013s-the-psychology-of-peace-and-conflict-resolution
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 笹尾 敏明
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 大学院科目
+- QEPS515
+audience:
+- student
+educationalLevel:
+- master
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

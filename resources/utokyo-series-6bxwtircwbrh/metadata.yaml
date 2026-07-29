@@ -1,0 +1,96 @@
+slug: utokyo-series-6bxwtircwbrh
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=6BxWtircwBRh
+type:
+- LearningResource
+- Course
+name:
+  ja: 正義を問い直す（学術俯瞰講義）
+description:
+  ja: '正義論をめぐる諸問題を、古典思想と現代の理論文献、追加文献を手がかりに再検討する講義である。サンデル教授の講義で扱われた論点を土台にしつつ、東京大学教員による検討と本人との対話を組み合わせて進める。主教材には
+    Michael Sandel 編『Justice: A Reader』を用いる。'
+quotedDescription:
+  text:
+    ja: 'この俯瞰講義では、昨年8月に東大安田講堂で行ったサンデル教授の講義が扱った諸問題について、学生諸君の理解をさらに深め、討議をさらに発展させるために、（１）本ゼミナール担当者でもある本学教員が、サンデル教授自身の立場を表明している著書だけでなく、彼のハーヴァード講義の教材をなす古典（アリストテレス、カント、ロックなど）および現代の文献（ロールズ、ノージック、ドゥオーキンなど）、さらに関連する追加文献を素材にして、正義論の諸問題を異なった視角から再検討するとともに、（２）サンデル教授を東大に招待して受講学生と対話する場を一度設定する。さらに、この講義とは別だが連携したプロジェクトとして、（３）この講義およびその先行演習である2011年度夏学期全学自由研究ゼミナール（「サンデル正義講義を問い直す」）を受講した者を中心とする東大生有志と、サンデル教授の講義の受講者から選ばれたハーヴァード大学の学生有志との間で、ポリコムによるビデオ・リンクの討議も行う予定である。
+
+      主教材は、Michael Sandel (ed.), Justice: A Reader, Oxford University Press, 2007：（（Chaps.**）はこの教材内のChapter番号を指す。）'
+  source: https://ch.u-tokyo.ac.jp/series/?id=6BxWtircwBRh
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 井上 達夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 児玉 聡
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 山本 芳久
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 森 政稔
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 井上 彰
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 浦山 聖子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川本 隆史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: マイケル・サンデル
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- business_law
+- social_sciences
+keywords:
+- 言語・思想
+- 政治・法律
+- 人口・社会問題
+- 国際関係
+- Insights from Global Experts and International Leaders
+- 哲学
+- 正義論
+- 倫理
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

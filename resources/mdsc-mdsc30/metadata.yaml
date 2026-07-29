@@ -1,0 +1,46 @@
+slug: mdsc-mdsc30
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc30
+type:
+- LearningResource
+- Course
+name:
+  ja: Webサイト行動履歴データ
+description:
+  ja: Webサイトの行動履歴データを扱う講義である。北海道大学 数理・データサイエンス教育研究センターが提供し、株式会社SIGNATEが担当する。
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc30
+  summary:
+    ja: クリエイティブ・コモンズ 表示-継承（CC BY-SA。CKAN 上の表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 株式会社SIGNATE
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2021-10-08'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- ict
+keywords:
+- サービス業_他に分類されないもの
+- 情報通信業
+- ZIP
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: low

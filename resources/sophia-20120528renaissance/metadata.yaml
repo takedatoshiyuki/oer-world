@@ -1,0 +1,52 @@
+slug: sophia-20120528renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120528renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第19回
+description:
+  ja: 上智大学の「ソフィアルネッサンス連続講演会」第19回の講義資料で、2012年5月28日に公開された。担当は玄葉光一郎で、資料ファイルとしてPDFが公開されている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 玄葉 光一郎(民主党衆議院議員
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 外務大臣)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20120528renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20120528renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20120528renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2012/05/28
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

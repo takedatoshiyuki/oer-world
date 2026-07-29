@@ -1,0 +1,58 @@
+slug: tsukuba-scientists
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/envr/scientists/
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開セミナー「原発事故直後の科学者の活動」
+description:
+  ja: 原発事故直後に科学者がどのような活動を行ったかをテーマにした公開セミナーで、筑波大学で2016年11月16日に開催された。教材としては講義ノートが公開されている。
+quotedDescription:
+  text:
+    ja: '開催日時 ： 2016年11月16日（水）15：00-16：30
+
+      場所 ： 筑波大学総合研究棟A107
+
+      参加費 ： 無料
+
+      講師 ： 山内正敏氏（スウェーデン国立スペース物理研究所研究員）
+
+      テーマ ： 「原発事故直後の科学者の活動」'
+  source: https://ocw.tsukuba.ac.jp/course/envr/scientists/
+  note: TSUKUBA OCW 「招待講師によるセミナー」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Organization
+  name: 筑波大学
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2017-01-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境科学
+audience:
+- student
+materials:
+- name: '講義資料: 講義ノート （2.37 MB）'
+  contentUrl: https://ocw.tsukuba.ac.jp/wp/wp-content/uploads/2017/01/37cda1a724d67b465abd4a81b27491f9.pdf
+  page: https://ocw.tsukuba.ac.jp/course/envr/scientists/
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

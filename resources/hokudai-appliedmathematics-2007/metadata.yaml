@@ -1,0 +1,66 @@
+slug: hokudai-appliedmathematics-2007
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/appliedmathematics-2007
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 応用数理学（2007）
+description:
+  ja: 自然現象を数式で表すための考え方を扱い、常微分方程式、フーリエ変換、ラプラス変換を用いた予測や計算に触れる。あわせて、偏微分の概念と、数値近似での誤差や最小自乗法の活用を学ぶ内容である。
+quotedDescription:
+  text:
+    ja: '1.自然現象を理解しこれを数式表現する能力を身につける。
+
+      2.常微分方程式，フーリエ変換，ラプラス変換などを活用して現象の予測や計算ができる能力を身につける。
+
+      3.偏微分の概念を理解し，ある現象を数値近似する場合の（誤差）最小自乗法などの活用法を理解する。'
+  source: https://ocw.hokudai.ac.jp/lecture/appliedmathematics-2007
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 芳村 康男
+  affiliation:
+    name: 北海道大学大学院水産学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- ニュートン力学，常微分方程式，フーリエ変換，ラプラス変換，偏微分，最小自乗法
+- 水産学
+- 水産学部
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: PDFテキスト'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/AppliedMathematics-2007-Text-All.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/appliedmathematics-2007
+extensions:
+  faculty: 水産学部
+  targetAudience: 2年生 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

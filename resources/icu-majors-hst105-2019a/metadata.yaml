@@ -1,0 +1,105 @@
+slug: icu-majors-hst105-2019a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/hst105_2019a
+type:
+- LearningResource
+- Course
+name:
+  ja: History of Japan (Early Modern) II 日本史（近世）II
+description:
+  ja: この講義は、近世日本の形成過程とその主たる要因を扱う。内容は江戸の生活環境や庶民の暮らしに焦点を当て、トイレ、銭湯、自然観、性と愛、老いと養生などの話題を通して江戸社会を考察する。
+quotedDescription:
+  text:
+    ja: 'I: Examination of the main factors in the development of ancient and medieval Japan. II: Examination
+      of the main factors in the development of early modern Japan. III: Examination of the main factors
+      in the development of modern Japan since the Meiji Restoration.
+
+      I:古代・中世形成過程とその主たる諸要因を考察する。II:近世形成過程とその主たる諸要因を考察する。III:明治維新以後の近代日本形成とその主たる諸要因を考察する。
+
+      Contents of Lectures
+
+      7
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Introduction はじめに:
+
+      Edo from the Modern period? 近代から見た江戸?
+
+      Part I: Lives and people of Edo I 江戸の生活環境と庶民の生態
+
+      -The toilets and Edo history 江戸のトイレを覗けば歴史が見える
+
+      -The Edo bathhouse 江戸の銭湯を覗くと?『浮世風呂』の光景?
+
+      -The nature and humans of Edo 江戸の思想家に学ぶ?自然と人間?
+
+      -Love and sex of Edo 江戸の性と愛?心中・密通・三行半?
+
+      2019.10.29
+
+      Special Lecture
+
+      「松浦武四郎はなぜ一畳敷を作ったか」
+
+      Guest :竹上真人(松阪市長) / 山本 命(松浦武四郎記念館 主任学芸員)
+
+      Moderator: Professor KOJIMA, Yasunori (History)
+
+      This lecture is History of Japan (Early Modern) II 2019A (Instructor: KOJIMA, Yasunori) Special
+      Lecture in the class.
+
+      この講義は 日本史（近世）II 2019A (Instructor: 小島康敬 ）授業内のSpecial Lectureです。
+
+      2019.11.12
+
+      -Aging in Edo
+
+      江戸の老いと「養生」'
+  source: https://ocw.info.icu.ac.jp/majors/hst105_2019a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: Yasunori KOJIMA
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'History 歴史学 | Course ID: HST10'
+- 'HST105 | Course Schedule: 2/M, 2/W, 2/F | Update: 2020.01.16 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: hokudai-nuclear-regulatory-human-resource-development-project-introduction-deterioration-of-nuclear-
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-introduction-deterioration-of-nuclear-power-plant-facility-and-durability-assessment-for-construction-materials
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「導入：原子力施設の経年劣化と建設材料の耐久性評価」
+description:
+  ja: 原子力施設の経年劣化と建設材料の耐久性評価を導入として扱い、社会基盤施設に用いるコンクリートと鋼材の建設、セメントコンクリートの材料特性の基礎を取り上げる。さらに、鉄筋コンクリート構造物について設計・施工・維持管理の観点を含めて整理する。
+quotedDescription:
+  text:
+    ja: "導入：原子力施設の経年劣化と建設材料の耐久性評価\n「導入：原子力施設の経年劣化と建設材料の耐久性評価」の教材は全てCC BY-NCのライセンスで公開しています。\n本教材の内容は以下の通りです。\n\
+      1-1　社会基盤施設と建設材料\n インフラ構造物の建設：コンクリートと鋼材\n1-2　セメントコンクリートの基礎\n セメントとコンクリートの材料特性に関する基礎知識\n \n1-3　鉄筋コンクリートの基礎\n\
+       鉄筋コンクリート構造物の設計・施工・維持管理\n \n \n「解説：原子力施設の経年劣化と建設材料の耐久性評価」の教材はこちらから視聴可能です。"
+  source: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-introduction-deterioration-of-nuclear-power-plant-facility-and-durability-assessment-for-construction-materials
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 橋本 勝文
+  affiliation:
+    name: 北海道大学 大学院工学研究院 環境機能マテリアル工学研究室
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 外部ハザードとその対応
+- コンクリート
+- 建設材料
+- 基礎
+audience:
+- student
+materials:
+- name: '講義資料: 導入：原子力施設の経年劣化と建設材料の耐久性評価'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2025/09/Nuclear-Regulatory-Human-Resource-Development-Project_Introduction_Deterioration-of-Nuclear-Power-Plant-Facility-and-Durability-Assessment-for-Construction-Materials.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/nuclear-regulatory-human-resource-development-project-introduction-deterioration-of-nuclear-power-plant-facility-and-durability-assessment-for-construction-materials
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

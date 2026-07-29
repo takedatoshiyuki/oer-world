@@ -1,0 +1,61 @@
+slug: hokudai-careerdesign-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/careerdesign-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 キャリアデザインI（2009） ※学内限定
+description:
+  ja: 北海道大学の教育学部で2009年に開講された「全学教育 キャリアデザインI」を扱う。1年次以上を対象とし、担当教員は亀野淳、三上直之、酒井洋輔である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 亀野　淳
+  affiliation:
+    name: 北海道大学高等教育推進機構
+- type: Person
+  name: 三上 直之
+  affiliation:
+    name: 北海道大学高等教育推進機構 環境健康科学研究教育センター
+- type: Person
+  name: 酒井 洋輔
+  affiliation:
+    name: 北海道大学情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- education
+keywords:
+- キャリア
+- 職業
+- 学習意欲
+- 教育／学習
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教育学部
+  targetAudience: 1年次～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

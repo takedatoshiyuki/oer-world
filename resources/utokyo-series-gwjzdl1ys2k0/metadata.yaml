@@ -1,0 +1,97 @@
+slug: utokyo-series-gwjzdl1ys2k0
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=GwjZdL1yS2K0
+type:
+- LearningResource
+- Course
+name:
+  ja: 地球と社会の未来を拓く(学術俯瞰講義)
+description:
+  ja: 持続可能な開発目標（SDGs）と、その達成に向けた地球と地域の持続可能性を扱う講義である。世界、アジア、日本を視野に入れ、社会・文化、教育、エネルギー、地域経済、健康などのテーマをサステイナビリティ学の観点から考える。
+quotedDescription:
+  text:
+    ja: 'コーディネータ：武内 和彦
+
+      ナビゲータ：松田 浩敬
+
+      2015年に国際連合が採択した持続可能な開発目標(SDGs)を2030年までに達成することは、国際社会に課せられた包括的で重要な課題である。人間活動が地球の限界を超えようとしているいま、いかに地球の許容範囲内で豊かな人間社会を築きあげていくのかが問われている。この学術俯瞰講義では、次世代を担う学生諸君と一緒に、世界、アジア、日本に注目しながら、社会・文化、教育、エネルギー、地域経済、健康などに焦点をあて、サステイナビリティ学の視点から、地球と地域の持続可能な未来を切り拓く長期的な道筋を考えていきたい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=GwjZdL1yS2K0
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 武内 和彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福士 謙介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大岡 龍三
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 北村 友人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古田 元夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 味埜 俊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 櫛屋 勝巳
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松田 浩敬
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- education
+- social_sciences
+keywords:
+- 環境
+- 教育
+- 経済・金融
+- エネルギー・資源
+- 食料・農業・水産業
+- 生命・医療
+- 環境問題
+- サステナビリティ
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0730
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/730/
+type:
+- LearningResource
+- Course
+name:
+  ja: 線型代数学Ａ
+description:
+  ja: 連立一次方程式を中心に、方程式を解くための内容とその理論的背景を扱う講義である。授業では随時レポート課題を出し、復習を促す。1回分の講義内容は準備ノート4ページ程度を目安に進め、質問も随時受け付ける。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      連立一次方程式を中心に講述します。方程式が解けるようになることが目標ですが、理論的背景もおろそかにしません。 随時、レポート課題を出し、講義の復習を促します。
+
+       
+
+      授業の紹介
+
+      1回分の講義内容は、私の準備ノートで4ページを目安に進めます。昨年度は少し詰め込みすぎたことを反省して、余裕を持って講義するつもりです。質問は随時受け付けます。(質問には丁寧に答えるつもりです。)
+      間違いの訂正も歓迎します。(双方、勘違いのこともありますが、あまり気にしないようにしましょう。) 講義を5〜10分早く終了し、間違い探しをしますので、真面目に聞いてください。(でも、気に入ったところだけ聞いていただいても、かまいません。)'
+  source: https://ocw.kyoto-u.ac.jp/course/730/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 若野 功
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

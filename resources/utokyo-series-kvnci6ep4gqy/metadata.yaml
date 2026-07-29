@@ -1,0 +1,62 @@
+slug: utokyo-series-kvnci6ep4gqy
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=KVNcI6Ep4gQY
+type:
+- LearningResource
+- Course
+name:
+  ja: 世界モデル実習/人間の安全保障実験実習
+description:
+  ja: マルチエージェント・シミュレーションとネットワーク・ゲームを通じて、多数の主体が相互作用する過程を扱う講義である。2005年度は、JAVA版マルチエージェントシミュレータ（kk-MAS）の使い方を学び、簡単なルールから相互作用するエージェントモデルを作成する。国際関係論への適用を念頭に置きつつ、社会・自然現象を対象にしたモデルも扱う。
+quotedDescription:
+  text:
+    ja: '本講義は、マルチエージェント・シミュレーションとネットワーク・ゲームを大きな柱に、国際関係論における新たな方法論の普及と確立を目指した授業であ る。ある行動ルールに従い、多数の主体が相互作用した場合、一体何が起きるだろうか。いかに単純なルールに基づく相互作用であっても、その結果は必ずしも
+      自明ではない。マルチエージェント・シミュレーションは、このロジックの交錯が行きつく先を、コンピューターによる数値計算を通して、近似的に確認するこ とができる。一方、ネットワーク・ゲームは、LANを介してつながった複数の人間が、同時進行的にゲームをプレイすることにより、認知的要因や種々の駆け
+      引き等が、多主体間の相互作用に及ぼす影響を実験的に探ることができる。いずれも国際関係論への適用を念頭においているが、授業ではそれにとどまらず、広 範な社会・自然現象を相手にしたユニークなモデルが取り扱われている。
+
+      本年度（2005年度）の授業では、去年まで使用していたWindows版に代わって登場したばかりの(株)構造計画研究所「JAVA版　マルチエージェ ントシミュレータ」（JAVA版　kk-MAS）の使用方法を学部および大学院の学生の皆さんに学んでもらう。簡単なルールを記述することで、コンピュー
+      タの中に、相互作用する多数のエージェントで構成されるモデルを作ることを試みる。
+
+      ＊ この講義で用いたJava版KK-MASは、2006年3月に「artisoc」へと名称が変更 されました。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=KVNcI6Ep4gQY
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 山影 進
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

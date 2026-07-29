@@ -1,0 +1,58 @@
+slug: hokudai-microorganism-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/microorganism-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学プロフェッサー・ビジット 地球生物圏を３５億年ささえる微生物と生命進化（2009）
+description:
+  ja: この講義は、地球上に最初の生命が生まれたとされる極限環境と、そこで生きる微生物のはたらきに注目する。微生物と地球環境の関わりを取り上げ、生命進化との接点を扱う。
+quotedDescription:
+  text:
+    ja: '地球上に最初の生命が生まれたのはおよそ３５億年前の極限環境下と推定されています。以来、地球環境は比較的穏やかに保たれていますがその陰には過酷な環境に生きる微生物たちのすばらしいはたらきがあります。本講義では、ミクロ生命と地球環境の関わりについて紹介します。
+
+      場所： 函館中部高等学校
+
+      日時： 2009年11月18日'
+  source: https://ocw.hokudai.ac.jp/lecture/microorganism-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 森川 正章
+  affiliation:
+    name: 北海道大学大学院地球環境科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

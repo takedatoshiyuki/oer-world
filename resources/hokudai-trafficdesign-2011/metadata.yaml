@@ -1,0 +1,58 @@
+slug: hokudai-trafficdesign-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/trafficdesign-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学大学院経済学研究科・経済学部セミナー 札幌市の交通デザイン （2011）
+description:
+  ja: 札幌市の交通政策を題材に、学識経験者や実務家を招いて工学的側面と政策的側面の両方から論点を掘り下げるセミナーである。札幌市の交通事情にある問題点を整理し、将来の交通戦略をどう構築するかを扱う。
+quotedDescription:
+  text:
+    ja: 本セミナーでは札幌市の交通政策に深く係わられている、学識経験者・実務に携われている方などをお招きして工学的側面、政策的側面など、多角的見地からテーマを深く掘り下げていきます。少子高齢化の急速な進展、経済活力の低下、低炭素型都市の実現など、様々な課題を抱える札幌市交通事情。その問題点を把握し、将来的に札幌の交通戦略をいかに構築していくかを探ります。
+  source: https://ocw.hokudai.ac.jp/lecture/trafficdesign-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松本 公洋
+  affiliation:
+    name: NPO法人交通まちづくりコンソーシアムゆうらん
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 札幌市
+- 交通デザイン
+- 低炭素型都市
+- ビジネス／経済
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 公共政策大学院／公共政策学教育部／公共政策学連携研究部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,58 @@
+slug: hokudai-higherbraindysfunction-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/higherbraindysfunction-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 高次脳機能障害とリハビリテーション （2014）
+description:
+  ja: 本講義は、高次脳機能障害について、症状や原因、日常生活・社会生活への影響を扱う。あわせて、早期診断、リハビリテーション、支援が社会復帰にどう関わるかを取り上げる。
+quotedDescription:
+  text:
+    ja: 最近の映画「抱きしめたい －真実の物語－」でも話題になった高次脳機能障害ですが、この障害では日常生活や社会生活がスムーズにできなくなり、社会復帰が妨げられます。記憶障害、注意障害、遂行機能障害、社会的行動障害などの症状があり、脳の外傷や病気が原因で起こります。自分ではその障害に気づかないことが多く、また、他人からも普通に見えるため、「見えない障害」とも言われます。早期に診断を受けてリハビリテーションを行い、適切な支援を受けることが社会復帰には重要です。講演ではこの高次脳機能障害とリハビリテーションについて、できるだけわかりやすく解説をしたいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/higherbraindysfunction-2014
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 生駒 一憲
+  affiliation:
+    name: 北海道大学病院リハビリテーション科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 高次脳機能障害
+- リハビリテーション
+- 抱きしめたい－真実の物語－
+- 見えない障害
+- 医学／保健学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

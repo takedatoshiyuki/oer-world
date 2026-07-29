@@ -1,0 +1,80 @@
+slug: hokudai-earthandplanets-2005
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/earthandplanets-2005
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 地球惑星状態物理学1（2005）
+description:
+  ja: 固体地球の層構造、運動、熱的状態を物理学的に扱い、地球の形と重力、静水圧平衡、アイソスタシー、磁場、潮汐、回転、重力場の測定方法までを取り上げる。さらに、宇宙測地技術やプレート境界で起こる現象、月惑星の重力場や回転の変動も扱う。月惑星との比較を通じて、地球の性質を考える内容である。
+quotedDescription:
+  text:
+    ja: '固体地球の物質的および物性的な層構造、運動、熱的状態等を物理学的に理解し、かつそれらの観測手段について概観する。また月惑星との比較を通じてそれらの理解を深める。
+
+      1. 地球の形と重力、静水圧平衡
+
+      2. 層構造、アイソスタシー、リソスフェアとその剛性、マントルの粘性
+
+      3. 地球の双極子磁場とその歴史
+
+      4. 地球潮汐とその計測、地球ー月系とその力学進化
+
+      5. 地球の回転とその変動
+
+      6. 衛星で測る地球重力場、地上で測る重力場
+
+      7. リソスフェアの動きとその計測
+
+      8. 宇宙測地技術の原理
+
+      9. プレートの発散境界と収束境界における諸現象
+
+      10. 月惑星の重力場とその異常、回転とその変動'
+  source: https://ocw.hokudai.ac.jp/lecture/earthandplanets-2005
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 日置 幸介
+  affiliation:
+    name: 北海道大学大学院理学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 全講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/EarthAndPlanets-2005-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/earthandplanets-2005
+extensions:
+  faculty: 理学部
+  targetAudience: 3年生 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

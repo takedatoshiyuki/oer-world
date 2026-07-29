@@ -1,0 +1,54 @@
+slug: utokyo-series-sob6e1cre53c
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=soB6E1Cre53C
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和元年度 会計業務勉強会
+description:
+  ja: 会計業務を、予算・経理・契約・決算・資産の分野に分けて学ぶ勉強会である。会計業務の円滑な処理に必要な基礎知識を扱い、会計担当職員の基礎力向上を目的としている。
+quotedDescription:
+  text:
+    ja: '会計業務の円滑な処理に必要な基礎知識について、分野（予算・経理・契約・決算・資産）毎に学ぶ勉強会です。会計担当職員の基礎力向上を図ることを目的としています。
+
+      （参考）便利帳掲載先：東大ポータル＞便利帳＞財務部＞財務課＞会計業務勉強会（学内ネットワークからのみアクセス可）'
+  source: https://ch.u-tokyo.ac.jp/series/?id=soB6E1Cre53C
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 財務部職員
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

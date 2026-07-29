@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0255
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/255/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第10回 MACSコロキウム「有機固体中の電子励起状態ダイナミクス」
+description:
+  ja: π電子系をもつ有機分子の光応答を背景に、電子励起状態で起こる超高速過程を扱う。特に、有機固体で見られる一重項励起子分裂などの現象を取り上げ、極短パルスレーザー光を用いた時間分解分光による研究を紹介する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      π電子系を持つ有機分子は，光と相互作用することでさまざまな機能を発現するため、その電子励起状態における超高速ダイナミクスは古くからの研究対象とされてきました。多彩な超高速過程を理解する上で，分子の原子核の振動運動と電子励起状態の結合を解明することは重要です。講演では，有機固体で発現する一重項励起子分裂などの超高速現象をとりあげ，極短パルスレーザー光を用いた時間分解分光による研究について紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/255/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 渡邊 一也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-11-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

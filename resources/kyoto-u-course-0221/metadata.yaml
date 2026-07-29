@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0221
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/221/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第22回フィールド科学教育研究センター公開講座「森を伐る」
+description:
+  ja: 京都大学フィールド科学教育研究センターが主催する公開講座で、「森を伐る」を題名にしている。開講部局はフィールド科学教育研究センターで、2012-07-27に実施された。
+quotedDescription:
+  text:
+    ja: '主催：京都大学フィールド科学教育研究センター
+
+      協賛：全日本空輸株式会社, 特定非営利活動法人 エコロジー・カフェ
+
+      詳細HP（フィールド科学教育研究センター）http://fserc.kyoto-u.ac.jp/wp/blog/archives/7997'
+  source: https://ocw.kyoto-u.ac.jp/course/221/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-07-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

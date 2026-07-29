@@ -1,0 +1,73 @@
+slug: kyoto-u-course-1050
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1050/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学自律的英語ユーザーへのインタビュー：森 和俊教授（理学研究科）
+description:
+  ja: 理学研究科の森和俊教授へのインタビューを通して、進路選択から海外での経験、学会発表や招待講演に至るまでの歩みを扱う動画教材である。字幕付き動画として公開されており、日本語または英語の字幕で視聴できる。
+quotedDescription:
+  text:
+    ja: 'この「京都大学自律的な英語ユーザーへのインタビュー」は、国際高等教育院・附属国際学術言語教育センター・英語教育部門が、さまざまな学部・学科で英語を日常的に使用している研究者や学生の生の声を集めているものです。英語の学習や使用に関する意識を高めたいと考えている学生さんに有用だと考えています。また、英語教育関係者の方々にもご覧いただき、English
+      for Academic Purposes (EAP)への理解を深めていただきたいと思っています。インタビューは、日本語または英語で行ない、その後、英語教育部門メンバーがもう一方の言語に翻訳しました。OCWで公開しているインタビューは動画撮影したものですが、その他多くのインタビューは日本語と英語で文字起こしをして以下のサイト公開しております。こちらもぜひ御覧ください。
+
+      日本語版：https://www.i-arrc.k.kyoto-u.ac.jp/english/interviews_jp
+
+      英語版：https://www.i-arrc.k.kyoto-u.ac.jp/english/interviews
+
+      京都大学自律的英語ユーザーへのインタビュー
+
+      「アカデミアの世界に行くと、ポジションを取るときには、最後はプレゼン勝負になります」
+
+      森 和俊 理学研究科 教授
+
+      インタビュアー 柳瀬 陽介 国際高等教育院 教授 （i-ARRC英語教育部門）
+
+      2021年9月14日
+
+      ノーベル医学・生理学賞の候補者としても有名な理学研究科の森和俊教授は、「分子生物学を学びたい」という思いから工学部から薬学部に転部し、一度は得た職もなげうってアメリカに渡ります。その後、ある国際会議でポスター発表の優秀評価を3回連続で得たのちに、招待講演を受けるようになり、世界的な活躍を始めます。このインタビューでは、字幕付き動画で森教授の語りを直接に聞くことができます。字幕（英語もしくは日本語）付きで見るためには、動画を再生後、下部に表示される字幕ボタンを使用してください。'
+  source: https://ocw.kyoto-u.ac.jp/course/1050/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森 和俊
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 柳瀬 陽介
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-09-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際高等教育院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

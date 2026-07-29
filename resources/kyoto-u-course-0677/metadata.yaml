@@ -1,0 +1,110 @@
+slug: kyoto-u-course-0677
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/677/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農業機械学実験Ⅰ
+description:
+  ja: '植物、農産物、土壌などを対象に、工学的な計測手法を実習を通して学ぶ講義である。実験手法の講述に加え、実験計画、測定、データ処理、レポート作成までの手順を扱う。
+
+
+    さらに、課題研究の実験装置製作に必要な工作機械の加工技術の基礎も実習する。'
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      植物，農産物，土壌といった複雑な対象物に対して，工学的な各種の手法を用いて計測を行うことにより，農業，生物，土壌等と機械・計測との接点についてその基礎を実習を通して学び，農業生産を支える工学技術の基本について体験することができる．
+
+      授業の紹介
+
+      農業機械学が取り扱う対象物に関して実験手法を講述し，基礎的な実験を通して実験計画，測定，データ処理及びレポート作成などの一連の実験手順を習得する．
+
+      また課題研究の実験装置製作に必要となる工作機械を用いた加工技術の基礎についても実習を行う．'
+  source: https://ocw.kyoto-u.ac.jp/course/677/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 飯田 訓久
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中嶋 洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小川 雄一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 宮坂 寿郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大土井 克明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 村主 勝彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 増田 良平
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第8回 音響振動法による果実の硬度評価'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nougyoukikaigakujikken-1_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/677/
+- name: '講義資料: 第9回 テラメカニックス基礎実験（コーン貫入試験）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nougyoukikaigakujikken-1_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/677/
+- name: '講義資料: 第11回 旋光度を利用した糖度計測'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nougyoukikaigakujikken-1_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/677/
+- name: '講義資料: 第13回 ヘルムホルツ共鳴による青果物の体積計測'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nougyoukikaigakujikken-1_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/677/
+- name: '講義資料: 第14回 電子回路の組み立てと動作実験(1)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nougyoukikaigakujikken-1_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/677/
+- name: '講義資料: 第15回 電子回路の組み立てと動作実験(2)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nougyoukikaigakujikken-1_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/677/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

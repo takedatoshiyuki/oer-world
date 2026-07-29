@@ -1,0 +1,55 @@
+slug: kyoto-u-course-1014
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1014/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第5回 「『学びの共同体』の拡大：韓国と日本における東アジア式教育の新たな方向性」
+description:
+  ja: 本講義は、韓国と日本における東アジア式教育の新しい方向性をテーマに、両国における「学びの共同体」の広がりを扱う。2020年11月20日にZoomで行われ、講演は日本語と英語で提供された。
+quotedDescription:
+  text:
+    ja: '概要
+
+      グローバル教育展開オフィス主催　2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』の第5回講演会を、11月20日（金）にZoom開催しました。今回は、慶熙大学校教育学部大学院教授　Youl-Kwan
+      Sung　氏が〈「学びの共同体」の拡大：韓国と日本における東アジア式教育の新たな方向性〉と題した講演を行い、司会進行は高山敬太教授が務めました。日本語の同時通訳を導入し、学内外および国内外からも多くの参加がありました。講演会では活発な質疑応答も行われ、盛況のうち閉会しました。'
+  source: https://ocw.kyoto-u.ac.jp/course/1014/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Youl-Kwan Sung教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

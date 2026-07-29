@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0662
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/662/
+type:
+- LearningResource
+- Course
+name:
+  ja: Culture, Sustainability and Disaster Recovery :A Sociological, Architectural and Cultural Approach
+description:
+  ja: 自然災害と人為災害を題材に、災害対応を支える文化的・社会学的・心理的要因を検討する。家族、ジェンダー、障害、芸術表現、建築、援助、持続可能な再生、政策までを扱い、複数の事例を比較しながら考察する。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      The contemporary world is beset with a range of natural and manmade disasters (or a mixture of the
+      two). Although many approaches to disaster management are technical – focusing on such issues as
+      water supply, food, engineering solutions, etc. underlying these are cultural and sociological factors,
+      and psychological ones too. The course will explore such an approach by looking at issues such as
+      family, gender, age and handicap and issues of family disruption; reviewing cultural responses to
+      disaster through theatre, art, poetry and literature; analyzing appropriate architecture for post-disaster
+      situations; exploring the role of aid and humanitarian assistance; looking at models of economic,
+      ecological and social regeneration that are sustainable in the long term; discussing the interesting
+      theoretical questions that arise when social and ecological breakdown occurs and will review the
+      policy implications of a more sociological and cultural approach to disaster management than has
+      previously been the case. The course will be comparative and interdisciplinary in nature and will
+      examine a number of case studies of both natural disasters and post conflict situations that have
+      much in common with them.'
+  source: https://ocw.kyoto-u.ac.jp/course/662/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: John Robert Clammer（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: O.P. Jindal Global University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: India）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目, 防災研究所
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

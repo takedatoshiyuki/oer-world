@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0173
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/173/
+type:
+- LearningResource
+- Course
+name:
+  ja: ノーベル物理学賞受賞者 アンソニー・レゲット教授 京大特別講義
+description:
+  ja: アンソニー・レゲット教授による京都大学での特別講義を収録した教材で、英語で提供される。公開されている資料は2件あり、超流動ヘリウム3と時間の矢を扱う。
+quotedDescription:
+  text:
+    ja: 主催：京都大学低温物質科学研究センターおよび文部科学省新学術領域研究「対応性の破れた凝縮系におけるトポロジカル量子現象」
+  source: https://ocw.kyoto-u.ac.jp/course/173/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Urbana-Champaign）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-05-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 超流動ヘリウム3：パズルは如何に解き明かされたか？'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_ノーベル物理学賞受賞者_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/173/
+- name: '講義資料: 時間の矢'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2013_ノーベル物理学賞受賞者_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/173/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

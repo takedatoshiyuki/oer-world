@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0762
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/762/
+type:
+- LearningResource
+- Course
+name:
+  ja: '[ポケット・ゼミ] Physical Computing 入門, 2012'
+description:
+  ja: Arduinoに各種センサーやアクチュエータを接続し、プログラムで動作させる方法を扱う。あわせて、アイデアを考えて実際に形にする過程を通して、Physical Computing の基本を体験する。
+quotedDescription:
+  text:
+    ja: '授業の概要目的
+
+      小型の組み込み用マイクロプロセッサとその開発環境が安価になり，これにセンサーやアクチュエータなどを接続して能動的に動作するものについてのアイデアを形にすることが Physical Computing
+      として注目されている．本授業では実際にArduinoと呼ばれる小型のマイクロプロセッサボードにさまざまなセンサやアクチュエータを接続し，プログラムで動作させることを学習するとともに，自らアイデアを出し，これを実現させることを通して
+      Physical Computing について体験的に学ぶ．'
+  source: https://ocw.kyoto-u.ac.jp/course/762/
+  note: 京都大学OCW 「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多 一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

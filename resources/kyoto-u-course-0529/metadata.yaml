@@ -1,0 +1,96 @@
+slug: kyoto-u-course-0529
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/529/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学士課程における科学教育の未来
+description:
+  ja: 21世紀に必要な科学教育を、すべての学生にどう提供するかを扱う講義である。カール・E・ワイマンの講演と、複数の物理学者によるパネルディスカッションを通して、科学教育の未来を論じる。公開教材には、科学教育、文系学生への授業経験、大学での実験教育、指定討論の資料が含まれる。
+quotedDescription:
+  text:
+    ja: 'カール・E・ワイマン講演：「21世紀の科学教育–科学のツールを用いて科学を教える–」
+
+      パネルディスカッション：カール・E・ワイマン、坂東昌子、笹尾登
+
+      21世紀に向けて必要な科学教育をすべての学生に提供するためには何が必要なのか。2001年ノーベル物理学賞受賞者で、世界の科学教育のリーダーでもあ るカール・ワイマンと、教育に情熱を注ぐ日本の第一線の物理学者とが、自らの実践をふまえながら、科学教育の未来について語りあう。'
+  source: https://ocw.kyoto-u.ac.jp/course/529/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松本 紘
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: カール・Ｅ・ワイマン
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 坂東 昌子（元日本物理学会会長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: NPO知的人材ネットワークあいんしゅたいん理事長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 愛知大学名誉教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 笹尾 登
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松下 佳代
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 耕一郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-09-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: 「21世紀の科学教育 －科学のツールを用いて科学を教える－」講演資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/09/2009_gakushikateiniokerukagakukyouikunomirai_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/529/
+- name: '講義資料: 「文系学生への授業経験」講演資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/09/2009_gakushikateiniokerukagakukyouikunomirai_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/529/
+- name: '講義資料: 「大学における実験教育－物理教育の経験からみた課題－」講演資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/09/2009_gakushikateiniokerukagakukyouikunomirai_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/529/
+- name: '講義資料: 〈指定討論〉資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2009/09/2009_gakushikateiniokerukagakukyouikunomirai_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/529/
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

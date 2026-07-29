@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0380
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/380/
+type:
+- LearningResource
+- Course
+name:
+  ja: 世界に舞う－日本人プリマバレリーナ飛翔の軌跡－
+description:
+  ja: 日本人プリマバレリーナの歩みを軸に、バレエを始めたきっかけやロザンヌ国際コンクール、海外での経験を取り上げる。あわせて、移籍や日本との違い、舞台に向けた準備、評価への対応、日本のバレエ環境や今後の展望、東日本大震災後のチャリティ公演までを扱う。
+quotedDescription:
+  text:
+    ja: '経営管理大学院
+
+      建設マネジメント勉強会
+
+       
+
+      【各シーンとキーワード】
+
+      1 紹介
+
+      2 バレエ、きっかけ、ロザンヌ国際コンクール、海外
+
+      3 出会い、移籍、日本との違い、モチベーション、失敗
+
+      4 芸術、パフォーマンス、心構え、取り組み、準備
+
+      5 日本のバレエ環境、今後、グローバル化、若者、メッセージ
+
+      6 評価、批評、対応、パートナー、変化
+
+      7 東日本大震災、チャリティ公演、経緯、今後'
+  source: https://ocw.kyoto-u.ac.jp/course/380/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉田 都
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 湯山 茂徳
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経営管理大学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

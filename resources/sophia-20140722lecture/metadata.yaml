@@ -1,0 +1,44 @@
+slug: sophia-20140722lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140722lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 下村博文文部科学大臣講演会
+description:
+  ja: 上智大学が2014年7月22日に主催した講演会で、下村博文文部科学大臣が担当する。講演会・シンポジウムとして開講され、日本語で行われる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 下村 博文(文部科学大臣)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2014/07/22
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

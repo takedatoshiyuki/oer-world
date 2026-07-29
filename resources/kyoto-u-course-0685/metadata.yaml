@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0685
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/685/
+type:
+- LearningResource
+- Course
+name:
+  ja: 中国文字文化論
+description:
+  ja: 人間の歴史を文字との関係から見直し、中国を主な舞台に文字による記録の移り変わりをたどる。あわせて、文化と学問の歩みや、電子機器による漢字表記が一般的な時代における手書き文化の様相も扱う。
+quotedDescription:
+  text:
+    ja: これまでの人間の歴史を文字との関連においてとらえる。文字による記録が歴史的にどのようにうつり変わってきたか、主として中国を舞台とする観察を通じて、文化と学問の歩みを考える。電子機器での漢字表記が当たり前の時代において、かつての手書き文化の様相を考察することはまことに重要であると考える。
+  source: https://ocw.kyoto-u.ac.jp/course/685/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 阿辻 哲次
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 文学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

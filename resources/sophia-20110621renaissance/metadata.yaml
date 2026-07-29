@@ -1,0 +1,60 @@
+slug: sophia-20110621renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110621renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第13回
+description:
+  ja: 本教材は、グローバル化する社会の中での個人のあり方を扱う講演資料である。内容は、国際協力やジェンダー主流化を起点に、地域活動や次世代育成までを視野に入れている。
+quotedDescription:
+  text:
+    ja: 'グローバル化する社会を生きる『わたし』
+
+      国際協力･ジェンダー主流化から地域活動、そして次世代育成まで'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110621renaissance/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大崎 麻子(開発政策
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: ジェンダー専門家)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 110621renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110621renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110621renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2011/06/21
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

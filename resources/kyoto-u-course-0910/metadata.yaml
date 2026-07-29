@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0910
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/910/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成27年度（第19回） 京大病院臨床懇話会
+description:
+  ja: 京都大学の医学部附属病院が開講した、平成27年度（第19回）の京大病院臨床懇話会である。妹尾 浩、福島 光夫、齋藤 成達、荒川 芳輝、杉田 尚子が担当する。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 妹尾 浩
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 福島 光夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 齋藤 成達
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 荒川 芳輝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 杉田 尚子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-02-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部附属病院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

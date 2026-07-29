@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0391
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/391/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「国際単位系(SI)の2018年改訂と電磁気学の見直し」
+description:
+  ja: 国際単位系（SI）の2018年改訂を題材にし、電磁気学の見直しを扱う最終講義である。京都大学工学研究科で、北野正雄が2017年に担当した日本語の講義として公開されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北野 正雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,90 @@
+slug: icu-majors-mus102-2014w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mus102_2014w
+type:
+- LearningResource
+- Course
+name:
+  ja: History of Asian Music II アジア音楽史 II
+description:
+  ja: 日本の音楽伝統を、楽譜や録音を手がかりに文化的側面から考察する講義である。雅楽、能、歌舞伎、尺八、沖縄音楽、箏・三味線合奏から、近代のポップス、クラシック、ジャズまでを扱う。第1部の履修は必要ない。
+quotedDescription:
+  text:
+    ja: 'This course examines the musical traditions of Japan. Representative works will be examined through
+      notations and contemporary recordings, and these works will be considered from a cultural perspective.
+      Students do not need to have taken part I of the course.
+
+      日本の伝統音楽の代表的な作品を、楽譜や録音等の記録を用いて文化的側面から検討する。I の既習は必要ない。
+
+      Contents of Lectures
+
+      1
+
+      0
+
+      Lectures /
+
+      1
+
+      Video
+
+      Week 1: Japanese music, music in Japan, music of Japan.
+
+      Week 2: Gagaku.
+
+      Week 3: Music and religion.
+
+      Week 4: Biwa.
+
+      Week 5: Music of the Noh theater.
+
+      Week 6: Music of the Kabuki theater.
+
+      Week 7: Shakuhachi.
+
+      Week 8: Okinawan music
+
+      Week 9: Chamber music for koto and Shamisen.
+
+      Week 10: Modern Japanese music. Pop, classical, jazz.'
+  source: https://ocw.info.icu.ac.jp/majors/mus102_2014w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'Music 音楽 | Course ID: MUS102 |'
+- 'MUS102 | Course Schedule: 4*/M, 4*/TH | Update: 2016.12.06 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

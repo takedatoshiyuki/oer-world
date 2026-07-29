@@ -1,0 +1,86 @@
+slug: hokudai-atomic-energy-academic-2014
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/atomic-energy-academic-2014
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別プログラム オープン教材の作成・活用による実践的原子力バックエンド教育 「専門教育コース・講義」 （2014）
+description:
+  ja: 原子力バックエンド分野の人材育成事業の一環として、専門教育コースの講義を扱う。講義に加えて、実験やフィールド実習をオープン教材として共有することを目指す構成が示されている。
+quotedDescription:
+  text:
+    ja: '国際原子力人材育成イニシアティブ事業
+
+      機関横断的な人材育成事業
+
+      本事業では、原子力バックエンド分野において、基礎教育、実践的な専門教育、国際教育の３つを行うことで、原子力バックエンド分野の研究開発を国際的にリードする人材を教育・育成を図ることを目的といたします。
+
+      専門教育コースは、国内の専門家による１～２単位に相当する体系?てた専門教育・講義と、得られた知?の実践を目的とした実験、フィールド実習の受講および?学会の参加ができるコースです。?これらのうち講義、実験、フィールド実習は、基礎教育と同様に可能な限りオープン教材化して後々まで共有できる専門教育システムを構築します。
+
+      国際原子力人材育成イニシアティブ事業'
+  source: https://ocw.hokudai.ac.jp/lecture/atomic-energy-academic-2014
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 大江 俊昭
+  affiliation:
+    name: 東海大学工学部原子力工学科
+- type: Person
+  name: 田上 恵子
+  affiliation:
+    name: 放射線医学総合研究所
+- type: Person
+  name: 柳原 敏
+  affiliation:
+    name: 福井大学附属国際原子力工学研究所
+- type: Person
+  name: 井口 幸弘
+  affiliation:
+    name: 日本原子力研究開発機構
+- type: Person
+  name: 鈴木 覚
+  affiliation:
+    name: 原子力発電環境整備機構
+- type: Person
+  name: 千葉 豪
+  affiliation:
+    name: 北海道大学大学院工学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 大学院横断型プログラム
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

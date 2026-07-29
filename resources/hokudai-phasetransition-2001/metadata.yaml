@@ -1,0 +1,70 @@
+slug: hokudai-phasetransition-2001
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/phasetransition-2001
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 相転移物性物理学 群論と格子振動（2001）
+description:
+  ja: 構造相転移のダイナミックスを調べるための散乱・分光・中性子散乱を手がかりに、結晶の空間群の既約表現を学ぶ講義である。点群、群の表現、基準振動、空間群、SrTiO3を順に扱い、測定データの解析と解釈に必要な内容へ進む。
+quotedDescription:
+  text:
+    ja: '構造相転移（対象性の異なる結晶相間の相転移）のダイナミックスを解明するための実験技術として、ブリルアン散乱、ラマン散乱、赤外・遠赤外スペクトル、中性子非弾性散乱などが重要視されている。これらの実験技術により得られるデータを解析、解釈する際に必要となる“結晶の空間群の既約表現”について学ぶ。
+
+      【スケジュール】
+
+      1. 点群
+
+      2. 群の表現
+
+      3. 基準振動
+
+      4. 空間群
+
+      5. SrTiO3'
+  source: https://ocw.hokudai.ac.jp/lecture/phasetransition-2001
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 辻見 裕史
+  affiliation:
+    name: 北海道大学電子科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2001'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 全講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/PhaseTransition-2001-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/phasetransition-2001
+extensions:
+  faculty: 理学部
+  targetAudience: 修士1-2年 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

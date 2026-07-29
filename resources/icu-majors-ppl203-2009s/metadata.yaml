@@ -1,0 +1,57 @@
+slug: icu-majors-ppl203-2009s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/ppl203_2009s
+type:
+- LearningResource
+- Course
+name:
+  ja: Policy Process and Political Institutions 政策過程と政治システム
+description:
+  ja: 政策過程と政治システムを扱う講義資料で、国際基督教大学の大森佐和が2009年に担当した講義に対応する。公開教材は2件あり、いずれもGoogle Drive上の講義資料として提供されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 大森佐和
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- Course Readings
+- 'PPL203 | Course Schedule: 4*/W, 4*/F | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1JMUIzlITH4nGW3tpn2Yh_clrkoOa7H1w/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/ppl203_2009s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1p6CHR94yRJEycHy5IHtXa1lntJR9X22G/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/ppl203_2009s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

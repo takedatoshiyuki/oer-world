@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0145
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/145/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部オープンセミナー「ひと・社会・工学－工学のいまを知る－」, 2014
+description:
+  ja: 京都大学工学部によるオープンセミナーで、ことばと知識を扱うコンピュータ研究、自然に学ぶナノテクノロジー、リチウムイオン蓄電池の反応解析という3つの話題を取り上げる。工学の異なる分野について、研究の現状や応用例、課題への取組みを順に紹介する構成になっている。
+quotedDescription:
+  text:
+    ja: '1 「ことばと知識とコンピュータ」
+
+      黒橋 禎夫（情報学研究科教授）
+
+      音声で質問に答え、クイズ番組で人間に勝利し、大学の入試問題にチャレンジするコンピュータが現れています。ことばを理解し、知識を学びはじめたコンピュータの最前線を紹介します。
+
+      2 「自然に学ぶナノテクノロジー」
+
+      平尾 一之（工学研究科教授）
+
+      ナノテクノロジーの産業化に向けて各国が熾烈な競争を繰り広げていますが、自然界にもナノテクノロジーにより創生された多様な生物が存在します。本講義では自然から学び、工業化に成功したナノテクノロジー製品の例について紹介します。
+
+      3 「リチウムイオン蓄電池反応解析の最前線」
+
+      松原 英一郎（工学研究科教授）
+
+      次世代自動車のエネルギーの高効率化を担うリチウムイオン蓄電池の耐久性、安全性などの課題克服に向けた取組みの一端を紹介し、解説します。'
+  source: https://ocw.kyoto-u.ac.jp/course/145/
+  note: 京都大学OCW 「1 「ことばと知識とコンピュータ」」・「黒橋 禎夫（情報学研究科教授）」・「2 「自然に学ぶナノテクノロジー」」・「平尾 一之（工学研究科教授）」・「松原 英一郎（工学研究科教授）」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 黒橋 禎夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 平尾 一之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松原 英一郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-07-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

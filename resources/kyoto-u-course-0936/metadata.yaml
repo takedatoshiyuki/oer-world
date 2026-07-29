@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0936
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/936/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際シンポジウム「大学教育の国際化とは何か」
+description:
+  ja: 京都大学の人間・環境学研究科が提供する国際シンポジウムで、西山教行と大木充が担当する。大学教育の国際化を主題とし、日本語で公開されている。
+quotedDescription:
+  text:
+    ja: 詳細→https://www.h.kyoto-u.ac.jp/topics/（京都大学 大学院人間・環境学研究科ホームページ）
+  source: https://ocw.kyoto-u.ac.jp/course/936/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大木 充
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-11-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

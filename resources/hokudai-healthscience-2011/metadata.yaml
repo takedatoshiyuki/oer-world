@@ -1,0 +1,77 @@
+slug: hokudai-healthscience-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/healthscience-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク ようこそ！ヘルスサイエンスの世界へ あの日からの復興-保健科学の視点から- （2011）
+description:
+  ja: '保健科学研究院の公開講座として、震災からの復興を保健科学の視点から扱う。放射線の人体への影響、被災地域の人々の健康を支えるケア、遠隔健康相談の3つを通して、各分野の話題を取り上げる。
+
+    北海道大学の2011年度講義で、3名の講師が専門分野を紹介する構成である。'
+quotedDescription:
+  text:
+    ja: '保健科学研究院の公開講座は「ようこそ！ ヘルスサイエンスの世界へ」というテーマのもと、３名の講師陣が専門分野の紹介をします。今回は震災からの復興を保健科学の立場から考えることとし、「あの日からの復興－保健科学の視点から－」というサブタイトルをつけました。
+
+      第１限目は「放射線の人体への影響－被ばくとリスクの考え方－」と題して、伊達広行教授が原発事故によってクローズアップされた放射線の問題を解説します。第２限目は「被災地域の人々の健康を支えるケア－人々の絆と健康－」と題して、河原田まり子教授が被災地の人々の心身両面にわたるケアをどのようにするべきかを解説します。第３限目は「被災地と北大を結んだ遠隔健康相談」と題して、小笠原克彦教授が最近話題となっている遠隔地と北大をテレビ電話でつなぐ高度遠隔健康相談システムを用いて、被災地と北大を結んで行った健康相談について解説します。
+
+      講演者はサステナビリティ・ウィーク2011のテーマの一つである「健やかに人間らしく生きる」ことと震災からの復興をキーワードとして、保健科学の視点から詳しくかつ分かりやすく解説します。ご期待ください。
+
+      ＜関連講義＞
+
+      ・サステナビリティ・ウィーク　ようこそ！ヘルスサイエンスの世界へ（2012）
+
+      ・サステナビリティ・ウィーク　ようこそ！ヘルスサイエンスの世界へ（2013）'
+  source: https://ocw.hokudai.ac.jp/lecture/healthscience-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小林 清一
+  affiliation:
+    name: 北海道大学大学院保険科学研究院
+- type: Person
+  name: 伊達 広行
+  affiliation:
+    name: 北海道大学大学院保険科学研究院
+- type: Person
+  name: 小笠原 克彦
+  affiliation:
+    name: 北海道大学大学院保険科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- サステイナブル・ウィーク
+- ヘルスサイエンス
+- 震災からの復興
+- 保健科学
+- 複合分野／学際
+audience:
+- student
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,84 @@
+slug: kyoto-u-course-0536
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/536/
+type:
+- LearningResource
+- Course
+name:
+  ja: ネットワーク時代の大学教育改善－学びと教えの相互進化を持続させる－
+description:
+  ja: 京都大学高等教育研究開発推進センターが、相互研修型FD拠点形成の5年間の取り組みを背景に開催したシンポジウムである。学内・地域・全国・国際の4層で進めたFDネットワークの成果を振り返り、今後の大学教育の研究・開発・実践の方向性を論じる。海外から招いた研究者・実践者も加わり、教育イノベーション、student
+    engagement、協調学習をめぐる議論を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      高等教育研究開発推進センターでは、文部科学省特別経費「大学教員教育研修のための相互研修型FD拠点形成」を受けて、2008年度から5年にわたり、相互研修型FDの理念のもと、学内・地域・全国・国際の4つのレベルでFDネットワークの形成を進めてきました。その最終年度にあたり、この5年間の特別経費プロジェクトの成果を総括するとともに、これからの大学教育の研究・開発・実践の方向性について議論するためのシンポジウムを開催することになりました。海外からは、教育イノベーション、学生の学びへの主体的関わり（student
+      engagement）、協調学習において著名なお二人の研究者・実践者をお招きしました。
+
+      本シンポジウムが、現在大学に課せられているさまざまな教育課題を切りひらいていくための糸口となれば幸いです。'
+  source: https://ocw.kyoto-u.ac.jp/course/536/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 江﨑 信芳）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松坂 浩史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大塚 雄作
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ランディ・バース
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 飯吉 透
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: エリザベス・バークレー
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田口 真奈
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 酒井 博之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

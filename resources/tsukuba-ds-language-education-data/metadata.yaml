@@ -1,0 +1,47 @@
+slug: tsukuba-ds-language-education-data
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/language_education_data/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 言語教育にデータはどのように活用されるのか
+description:
+  ja: 言語教育、とくに外国語としての英語教育で扱うデータの種類と、その教授・学習・評価への利用を概観する講義である。さらに、語彙データベースや母語話者データ、学習者データの基本的な使い方を示し、英文評価や学習支援ツール、英文理解プロセスの解明への応用例まで扱う。
+quotedDescription:
+  text:
+    ja: 本講義では，言語教育（主として外国語としての英語教育）におけるデータの活用について概説する。まず，言語教育に関わりのあるデータについて説明し，それが教授や学習，評価おいてどのように活用されるかを概観する。その後，データの実例として語彙データベース，母語話者データ，学習者データを取り上げ，その簡単な使用法を実演する。最後に，データの応用的な活用事例として，英文評価，学習支援ツール，英文理解プロセスの解明について説明する。
+  source: https://ocw.tsukuba.ac.jp/data-science/language_education_data/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 名畑目 真吾
+  affiliation:
+    name: 筑波大学 人間系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2021-09-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

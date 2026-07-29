@@ -1,0 +1,58 @@
+slug: sophia-20111103veritas
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111103veritas/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智大学でまなぶ”国際問題（グローバル・イシュー）の最前線”
+description:
+  ja: アフリカへの見方を手がかりに、日本とアフリカの関係や、アフリカから学べることを考える内容である。説明文では、NGOとしてアフリカで医療に携わる経験にも触れながら、アフリカの文化やそこで生きる人々の姿を扱う。
+quotedDescription:
+  text:
+    ja: "上智大学でまなぶ ”国際問題（グローバル・イシュー）の最前線”\nアフリカに対するイメージは、野生動物、そして内戦、貧困、飢え、エイズ、少年兵などだけでしょうか。\nまた、日本はアフリカの資源を必要としているだけで、アフリカから学ぶことは何もないのでしょうか？\n\
+      \ 経済的な豊かさの中で私たち日本人が失ってきたものは「原始力」、 厳しい環境の中ででも生きてゆくことができる力です。\n 私は、長年にわたりNGO メンバーとしてアフリカで医療を続けています。\n\
+      アフリカには、豊かな文化、貧しい中で強くたくましく生きている人々がいます。 \n 遠いアフリカから学ぶことはたくさんあると思います。 \n   \n 当日のチラシは こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111103veritas/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 徳永 瑞子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20111103veritas.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20111103veritas.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111103veritas/
+extensions:
+  faculty: 上智高校生講座Veritas
+  term: 2011年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

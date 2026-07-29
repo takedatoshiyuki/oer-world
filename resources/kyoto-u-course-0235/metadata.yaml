@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0235
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/235/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第90回 京都大学丸の内セミナー「サハリン・樺太から見る東アジアの150年：国境と国民の時代の境界地域」
+description:
+  ja: サハリン島／樺太を通して、国境や国民という近代的な枠組みが東アジアでどのように働いてきたかを考える講義である。日露間で境界が変動した地域としてのサハリンを取り上げ、引揚げ、移住、残留といった住民の経験を軸に東アジア近現代150年を見直す。ほか地域との比較も交えながら、境界地域から歴史を読み直す内容である。
+quotedDescription:
+  text:
+    ja: 'ヨーロッパで17世紀以降発達した「国境」や「国民」の概念と秩序は、その後世界各地へ浸透し、ポスト・モダンやグローバル化という言葉になんの新鮮味もなくなった現代においてもなお、国際秩序や国内制度の枠組みとして厳然と機能し続けています。
+
+      　近現代において国境などの近代的「境界」に接していたり、あるいはその変動を何度も経験した「境界地域」は当然のことながら東アジアにも存在しています。北海道の北にある南北に細長い島、サハリン島は南半分がかつては日本領「樺太」であり、日露間で5度も境界が変動した境界地域です。そして、境界変動が起きるたびに「引揚げ」や「移住」、「残留」が繰り返されてきました。
+
+      　今回のセミナーでは、サハリン島に暮らした住民の経験を中心に、ほか地域との比較もふまえながら、東京視線ではなかなか見えてこない東アジア近現代150年の歴史のもう一つの側面を眺め直してみたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/235/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中山 大将
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-01-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

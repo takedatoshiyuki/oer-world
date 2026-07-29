@@ -1,0 +1,66 @@
+slug: utokyo-series-2esmhppwxsjl
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=2EsmhpPWxsJl
+type:
+- LearningResource
+- Course
+name:
+  ja: 五月祭公開講座 2016
+description:
+  ja: バイオマスを生物資源として捉え、日本における素材やエネルギーの確保とどう結びつくかを扱う講座である。あわせて、欧米で進むバイオエコノミーの中でのバイオマス研究・実用化にも触れる。
+quotedDescription:
+  text:
+    ja: バイオマスとは、生物資源（bio）の量（mass）を表す概念で、太陽エネルギーがある限り持続的に再生可能な資源です。化石資源をほとんど持たない日本、世界有数の原発保有国である日本が、今後マテリアルやエネルギーをどのように工面していくのか、その鍵はバイオマス利用にかかっています。欧米では、上位概念である「バイオエコノミー」の一翼としてバイオマスの研究・実用化を加速している中で、日本ではむしろブームが終わっ…
+  source: https://ch.u-tokyo.ac.jp/series/?id=2EsmhpPWxsJl
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 五十嵐 圭日子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 三代木 伸二
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- natural_sciences_math
+keywords:
+- 生命・医療
+- 環境
+- 宇宙・物理
+- バイオマス
+- エネルギー
+- 重力波
+- 宇宙
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

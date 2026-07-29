@@ -1,0 +1,79 @@
+slug: utokyo-series-zphxhcuo5i0n
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=zPhxHCUo5I0n
+type:
+- LearningResource
+- Course
+name:
+  ja: インタラクティブ・ティーチング フォーラム「あらためて、シラバス」
+description:
+  ja: 学習者の学びを促すシラバスをどう作成するかを、グループワークを交えながら検討し共有するイベントである。東京大学が提供し、2017年開講の日本語教材として公開されている。オンライン講座「インタラクティブ・ティーチング」の動画とワークシートも東大FDサイト内で公開されている。
+quotedDescription:
+  text:
+    ja: "学習者の学びを促すシラバスを作成する方法についてグループワークを交えながら検討・共有するという本イベントの趣旨を確認します。 \n \n  オンライン講座「インタラクティブ・ティーチング」の動画とワークシートは\
+      \     東大FDサイト内    で公開されています。 \n  イベント詳細は     こちら    。 \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。  \n  お気に入りの講義・講演があればSNSなどでシェアをお…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=zPhxHCUo5I0n
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 中村 長史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 浩章
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 栗田 佳代子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉田 塁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 関戸 大
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伴野 崇生
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 仲本 早紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高井 靖雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

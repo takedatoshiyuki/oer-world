@@ -1,0 +1,73 @@
+slug: kyoto-u-course-1074
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1074/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学 数学・数理科学5研究拠点合同市民講演会「故きを温ねて新しきを知る」
+description:
+  ja: 数学・数理科学の5研究機関で行われている共同利用・共同研究事業をもとに、社会と数学の関係とその重要性を扱う市民向けの合同講演会である。オンラインと会場のハイブリッド形式で開催され、数学・数理科学の最先端研究の一端を京都から紹介する。
+quotedDescription:
+  text:
+    ja: '数学・数理科学の５研究機関において、それぞれで行われている共同利用・共同研究事業の内容を基に、社会と数学との係わり合い及びその重要性について市民向けの合同講演会を企画いたしました。 昨年は福岡（九州大学）でオンラインにより開催してまいりましたが、今回は新型コロナウイルスの感染拡大防止のため、「オンライン」と「会場」とのハイブリット形式で「故きを温ねて新しきを知る」をテーマに数学・数理科学の最先端の研究の一端を京都からご紹介したいと思っております。
+
+      詳細 https://cscenter.co.jp/kyoten2021/'
+  source: https://ocw.kyoto-u.ac.jp/course/1074/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 間野 修平
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小磯 深幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 河内 明夫（大阪市立大学数学研究所 特任教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 名誉所長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 並河 良典（京都大学数理解析研究所 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 副所長）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 数理解析研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

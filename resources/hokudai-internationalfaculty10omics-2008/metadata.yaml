@@ -1,0 +1,72 @@
+slug: hokudai-internationalfaculty10omics-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 国際経済学（2008）
+description:
+  ja: 北海道大学の大学院向け講義で、国際経済学を扱う。公開教材には全講義ノートのほか、グローバリゼーション、国民経済と世界市場、国際貿易、国際資本移動、国際政府なき国際公共財供給問題に関する資料が含まれる。参考文献と目次のPDFも公開されている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐々木 隆生
+  affiliation:
+    name: 北海道大学大学院経済学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+keywords:
+- ビジネス／経済
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: PDF 全講義ノート'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/InternationalEconomics-2008-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+- name: '講義資料: PDF 目次、参考文献'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/InternationalEconomics-2008-Note-00.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+- name: '講義資料: PDF グローバリゼーションと国際経済学'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/InternationalEconomics-2008-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+- name: '講義資料: PDF 国民経済と世界市場'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/InternationalEconomics-2008-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+- name: '講義資料: PDF 国際貿易'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/InternationalEconomics-2008-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+- name: '講義資料: PDF 国際資本移動'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/InternationalEconomics-2008-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+- name: '講義資料: PDF 国際政府なき国際公共財供給問題'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/InternationalEconomics-2008-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/internationalfaculty10omics-2008
+extensions:
+  faculty: 公共政策大学院／公共政策学教育部／公共政策学連携研究部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

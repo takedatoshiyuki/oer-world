@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0067
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/67/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎数学からの展開A
+description:
+  ja: 群の表現論をテーマに、有限群の表現の基本と一般線形群における最高ウェイト表現を扱う。表現論がどのような内容かをつかむことを目指す講義である。
+quotedDescription:
+  text:
+    ja: 群の表現論は数学だけでなく，物理などでも使われる。この授業では，有限群の表現の基本と一般線形群の場合の最高ウェイト表現について解説し，表現論がどのようなものであるかについての感覚を得ることを目標とする。
+  source: https://ocw.kyoto-u.ac.jp/course/67/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 雪江 明彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 理学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

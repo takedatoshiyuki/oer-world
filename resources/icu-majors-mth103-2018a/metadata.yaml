@@ -1,0 +1,117 @@
+slug: icu-majors-mth103-2018a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+type:
+- LearningResource
+- Course
+name:
+  ja: Linear Algebra I 線形代数学 I
+description:
+  ja: 国際基督教大学による線形代数学Iの講義教材で、鈴木寛・名誉教授が担当する。2018年開講で、使用言語は英語と日本語である。公開されている教材として講義資料が複数件含まれる。
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 鈴木寛
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 名誉教授
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Mathematics 数学 | Course ID: MT'
+- 'MTH103 | Course Schedule: 1/TU,2/TU | Update: 2019.01.28'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/17uevCTxogx72ZP_EhsQfug1gdThXlLeu/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Lz5xn6IWNQwO3ebPyNOGPtVaDYYtj17q/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1BGEfFcrRXHyHGfHaXkP8ilWJ8IognmNG/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/13H5-xTrM-VWVRsH_strhlm7x10rIs8yF/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Hh1HwX-BPTLPif1yO30LNAP5D_rOJtyH/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1w6CJLVn4FDT0G1ewQOK7PQA5Oxg7pAxg/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1TV9buV4gPYor3M7vOgAZipV27R8iIkjy/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1MU-jkk5SdVUQNcXV6R6qFYMh12pLE7bb/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Ag4ouwA2dlI98vMHti25C0gEF-1mTWzj/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1guN7JkkqAmTiS4uJ4mSb6IxfhHn1XxFx/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1eQ90qzfXXcIhTaG9jO13mgtAQSErHZaw/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1xJOQHTAcZNCKqdKzDn_A_9oJUNdRkExm/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1WsnCPwv9j0kSqeHbYKnZ1wXZXAoF7Jxv/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1nUPvEtn8G1f4hhXVUuoytHx1rKH-dAhj/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1mxize1pkZJBtPNgYQU_KIF6Y3EcsrNvO/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1jczGsYzRFQF4UM9SQ9FCWo-B8HgIS8Bw/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1A-xNnwnAdR_09qYCFkoGCxrQI6SJ40Fj/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1VIYGelwYA19DC9etMk7BfareK4Z7IXAK/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1xz1Aj8ZKkPvMNIrdniecZA8fOorPYh3t/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1MS-KW5Gdm6XRVENc0zknaIJOM5OXltiz/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth103_2018a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

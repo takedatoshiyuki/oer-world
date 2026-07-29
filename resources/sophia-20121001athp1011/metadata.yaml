@@ -1,0 +1,56 @@
+slug: sophia-20121001athp1011
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20121001athp1011/
+type:
+- LearningResource
+- Course
+name:
+  ja: THINKING PROCESSES
+description:
+  ja: 思考スキルを伸ばし、考え同士を論理的につなぐための方法を扱う講義である。さらに、アイデンティティに関わる社会的・文化的な問題を踏まえつつ、批判的な議論を行う。読解、執筆、発表、反論、意見交換の学術的な作法も継続的に扱う。
+quotedDescription:
+  text:
+    ja: This course will focus on the development of thinking skills and strategies for creating logical
+      relationships between thoughts. Critical arguments will be required and developed, and this will
+      be done with consideration to social and cultural issues surrounding identity. Assessment is based
+      on written assignments, discussions, and presentations; the class will serve as an ongoing workshop
+      on academic protocols in reading, writing, presenting, challenging, and exchanging ideas.
+  source: https://ocw.cc.sophia.ac.jp/lecture/20121001athp1011/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: MCKINLEY James
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 国際教養学部
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0946
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/946/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅥ「地球環境学から大震災後を考える」 第10回 京都大学地球環境フォーラム～地球環境学と東日本大震災の復興～
+description:
+  ja: 京都大学が提供する、地球環境学堂・地球環境学舎による講義である。講義名から、地球環境学の観点から大震災後の復興を考える内容を扱うことが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-07-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 地球環境学堂・地球環境学舎
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0918
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/918/
+type:
+- LearningResource
+- Course
+name:
+  ja: 総合博物館 2009年秋季企画展 「学術映像博2009」特集 トークイベント 文化・無意識・コンピュータ映像の創造力
+description:
+  ja: カルチュラルコンピューティングをめぐって、コンピュータによる山水禅や、空気をよむコンピュータ、インターネット上の文字から俳句を作る事例を取り上げる。さらに、宗教と伝統文化の専門家を交えて、そこから生まれるものについて議論する。
+quotedDescription:
+  text:
+    ja: 'イベント概要
+
+      カルチュラルコンピューティングで、いったい何が生まれてくるのかということを、コンピュータによる山水禅「ZENeticComputer」、空気をよむコンピュータ「i.plot」、インターネットから文字を取って俳句を作る「Hitch
+      Haiku」などの事例を紹介し、宗教、伝統文化の専門家と共に、未来に生まれてくるものをディスカッションする。'
+  source: https://ocw.kyoto-u.ac.jp/course/918/
+  note: 京都大学OCW 「イベント概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-10-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

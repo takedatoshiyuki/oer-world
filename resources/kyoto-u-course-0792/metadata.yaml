@@ -1,0 +1,92 @@
+slug: kyoto-u-course-0792
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/792/
+type:
+- LearningResource
+- Course
+name:
+  ja: 有機分子たちを考えて日常生活を理解しよう
+description:
+  ja: 有機化学の基本的な見方を使って、水と油、洗剤、石鹸、酒や酢、糖や繊維、髪の毛の処理などの日常の題材を扱う講義である。最初に考え方を示したうえで、発展的な問いでは受講者が自分の考えを述べ、互いに議論する構成になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      最小限の有機化学の基礎知識で日常生活の有機化学を理解できることを示す。例えば、炭素―水素結合と酸素―水素結合の違いを認識できれば、油と水の違いが理解できる。この手法により、知識の使いこなし方を身につけられることが、本セミナーの特色である。
+
+       
+
+      授業の紹介
+
+      有機化学の基本（共有結合の本質は2つの原子核による2つの電子の共有である。炭素や酸素の電子の最外殻の軌道は2sと2pであり、これらの軌道は形が異なり、混成することができる。ヘリウムやネオンと同等の電子構造になると（共有している電子を含む）、その原子は安定である。）のみを用いて、日常生活の（有機）化学を理解できるよう、ゼミに参加する学生にその考え方を身につけてもらう。身近な題材（授業計画に示す）を用い、最初はこちらから考え方を提示するが、その後、発展問題については学生自らが自分の考え方を述べ、さらに学生相互での議論を行えることを期待する。'
+  source: https://ocw.kyoto-u.ac.jp/course/792/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 年光 昭夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第1回\t4月17日\t水と油"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第2回\t4月24日\t分子の形とガソリンや洗剤の機能"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第3回\t5月1日\t石鹸の水の中での挙動―長鎖カルボン酸をモデルとしてー"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第5回\t5月15日\tお酒と酢"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第6回\t5月22日\t吟醸酒"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第7回\t5月29日\tデンプンとセルロース"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第8回\t6月5日\tエステルとアミド（セルロースとデンプン、復習）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第10回\t6月26日\tオリゴ糖とダイエット"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第11回\t7月3日\tキシリトールと乳糖　繊維と糸、織物"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+- name: "講義資料: 第12回\t7月10日\t髪の毛とウェーブ（「パーマをかける」って何をしているの？）」"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_yuukibunshi_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/792/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

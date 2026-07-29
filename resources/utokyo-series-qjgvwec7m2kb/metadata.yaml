@@ -1,0 +1,65 @@
+slug: utokyo-series-qjgvwec7m2kb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=qjGvWEC7M2kb
+type:
+- LearningResource
+- Course
+name:
+  ja: コミュニケーション・システム（2002年度講義）
+description:
+  ja: コンピュータと映像・音響技術を結び付けたメディア技術を背景に、人とコンピュータの関係の変化を扱う講義である。感性情報処理や複合現実感、空間を対象とした情報処理・アート・デザイン・インタフェースなどを取り上げ、現代技術の方向性と社会への影響を考える。あわせて、将来の人間中心のヒューマンコミュニケーションメディアへの展望を示す。
+quotedDescription:
+  text:
+    ja: 'コンピュータと映像・音響技術を結び付けたメディア技術が広く普及し、人とコンピュータの関係は大きく変わりつつある。これに伴い、感性情報の処理、現実 世界と仮想世界の境界に挑む複合現実感技術、空間を対象とした情報処理・アート・デザイン・インタフェース、人に優しいメディア環境などの話題が注目され
+      るようになってきた。
+
+      この講義では、メディアも含めた現代技術の目指す方向、それらの２１世紀社会に与える光と影の問題を論ずるとともに、将来の人間中心の「ヒューマンコミュニケーションメディア」へ至る道を展望してみたいと考えています。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=qjGvWEC7M2kb
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 原島 博
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2002'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+- natural_sciences_math
+- arts_humanities
+keywords:
+- AI・情報
+- 環境
+- 言語・思想
+- 文化・芸術・文芸
+- 教育
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 学際情報学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

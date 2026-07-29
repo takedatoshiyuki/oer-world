@@ -1,0 +1,51 @@
+slug: hokudai-cellularbehavioralintelligence-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/cellularbehavioralintelligence-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義 上田哲男教授 細胞インテリジェンスの自己組織化（2011）
+description:
+  ja: 北海道大学電子科学研究所で2011年に開講された、上田哲男による最終講義である。講義名からは、細胞インテリジェンスの自己組織化を扱う内容であることが読み取れる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上田 哲男
+  affiliation:
+    name: 電子科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 細胞インテリジェンス
+- 自己組織化
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 電子科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

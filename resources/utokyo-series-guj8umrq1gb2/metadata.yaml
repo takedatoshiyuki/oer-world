@@ -1,0 +1,65 @@
+slug: utokyo-series-guj8umrq1gb2
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=gUJ8UMRq1Gb2
+type:
+- LearningResource
+- Course
+name:
+  ja: 知の構造化論
+description:
+  ja: 実社会の問題や課題を対象に、分野や時勢を越えて知を抽出・分析する方法を扱う。実データを用いた処理を踏まえたうえで、共通講義の後にテーマ別のゼミ形式で議論を進める構成である。テーマとして、人文知の構造化と医療情報の構造化を扱う。
+quotedDescription:
+  text:
+    ja: "本講義では、実社会で生じる様々な問題や課題に対して、分野や時勢を越えて知を抽出、分析する手法を学び、実データに対する処理を体現しながら議論を進めることを目的とする。本年度はまず以下のテーマについて開講する。受講生は、共通的な内容の講義の後、いずれかのテーマを選択し、それぞれのテーマに対する議論をゼミ形式で進める。\n\
+      \tλ\t人文知の構造化：岩波「思想」を題材に\n岩波書店が1921年に創刊した日本を代表する思想・哲学ジャーナル 「思想」90年分のデジタル化とその知の構造化を実践する。20世紀の日本哲学の歴史的を分析し、議論を進めることで、人文学と情報学との融合を体現する。\n\
+      \tλ\t医療情報の構造化\n医療情報分野では、新しい治療法や患者状態など大量の情報を緻密に扱う必要があり、かつ、経営、法律、倫理、患者のQOLなど多くの実際的要素を考慮しなくてならない。実践的な場への情報技術の実装と、価値の創出を試みる。\n\
+      （本講義は、講義形式の4回分を公開し、残りの演習形式の回は非公開とします。）"
+  source: https://ch.u-tokyo.ac.jp/series/?id=gUJ8UMRq1Gb2
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 美馬 秀樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- ict
+- arts_humanities
+keywords:
+- 教育
+- AI・情報
+- 言語・思想
+- 情報科学
+- 知識
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 学際情報学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

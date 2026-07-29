@@ -1,0 +1,89 @@
+slug: utokyo-series-1iwvteiuufv8
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=1IWvtEIUufV8
+type:
+- LearningResource
+- Course
+name:
+  ja: 死すべきものとしての人間－生と死の思想（学術俯瞰講義）
+description:
+  ja: 哲学・宗教・文芸における「生と死の思想」の展開を、主として西洋を素材に考察する講義である。死をめぐる現代の議論の背景をたどりつつ、日本文化を背景とする立場から死生観を見直す手がかりも示す。
+quotedDescription:
+  text:
+    ja: 人間は死すべきものである。ふつう私たちはそのことを強く意識せずに生きている。そうはいかないさしせまった状況に置かれるまでは考えたくないという思いも理解できる。しかし、それは生きていることの「真実」からの逃避ではないだろうか。多くの文化は死に向き合って生きるような装置をもっていた。成熟するとは、「生と死の文化」を身につけ、自覚を深めていくことでもあった。ところが、近代の実利主義的な文化や学問は「生と死の文化」を遠ざけてきた。死にゆく人のケアの現場においてさえそうである。だが、問題は医学だけに限られない。２１世紀を迎えた現在、死すべきものとしての人間のあり方が、諸科学において改めて問い直される状況が生じている。学術を身につけようとするものにとって、「生と死の思想」に親しむことは不可欠な学びの一部ではないだろうか。この講義では、哲学・宗教・文芸等において「生と死の思想」がどのように展開してきたか、主として西洋を素材として考察する。それは、死をめぐる現代の論議の背景を照らし出すことにもなる。そこからさらに、日本文化を背景とする者として、自らの死生観を省み、育てていくための手がかりを得ていただくことを願っている。
+  source: https://ch.u-tokyo.ac.jp/series/?id=1IWvtEIUufV8
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 島薗 進
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村松 眞理子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 清水 哲郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 逸身 喜一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 沼野 充義
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 熊野 純彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 金森 修
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- health_welfare
+- social_sciences
+keywords:
+- 文化・芸術・文芸
+- 言語・思想
+- 歴史
+- 生命・医療
+- 心理・認知
+- 政治・法律
+- 宗教
+- 死生学
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

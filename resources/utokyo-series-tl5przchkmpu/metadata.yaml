@@ -1,0 +1,51 @@
+slug: utokyo-series-tl5przchkmpu
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=TL5PrZCHkmpu
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部 テクノサイエンスカフェ 第28回 ひとりでに組み上がる分子たち
+description:
+  ja: 東京大学工学系研究科・工学部が小中高生とその保護者向けに開くテクノサイエンスカフェの一回で、講演・実験・ワークショップを組み合わせて実施する。前半では、模型作りや分子を使った実験を通して、自己集合する分子を扱う。
+quotedDescription:
+  text:
+    ja: "東京大学大学院工学系研究科・工学部では、工学の魅力を伝える活動の一環として、小中高生とその保護者に向けた「東大テクノサイエンスカフェ」を開催しています。第28回目を迎えた今回は「ひとりでに組み上がる分子たち」をテーマに、講演・実験・ワークショップを開催しました。\
+      \ \n  前半では、模型作りや分子を使った実験を通して自己集合する分子について学びます！ \n  ★東大テクノサイエンスカフェ \n    http://www.t.u-to…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=TL5PrZCHkmpu
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 澤田 知久
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

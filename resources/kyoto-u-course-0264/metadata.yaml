@@ -1,0 +1,77 @@
+slug: kyoto-u-course-0264
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/264/
+type:
+- LearningResource
+- Course
+name:
+  ja: 市民講座「物理と宇宙」第7回
+description:
+  ja: 京都大学が開く物理学・宇宙物理学の市民講座の第7回である。3人の研究者が最新の研究成果を取り上げ、その内容を紹介する。
+quotedDescription:
+  text:
+    ja: '主催：京都大学理学研究科物理学・宇宙物理学専攻、京都大学基礎物理学研究所
+
+      共催：日本物理学会京都支部
+
+      後援：京都新聞、京都市教育委員会、京都府教育委員会、滋賀県教育委員会
+
+       
+
+      概要
+
+      京都大学では物理学と宇宙物理学についての市民講座「物理と宇宙」を開催します。
+
+      本講座は 21世紀COEプログラム「物理学の多様性と普遍性の探究拠点」（2003年～2007年度）と グローバルCOEプログラム「普遍性と創発性から紡ぐ次世代物理学」（2008年～2012年度）の主催で10回にわたり開催してきた市民講座の後を引き継ぐものです。
+
+      本学の3人の研究者が最新の研究成果を発信し、その最先端を分かりやすく説明します。'
+  source: https://ocw.kyoto-u.ac.jp/course/264/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 前野 悦輝（理学研究科 物理学・宇宙物理学専攻長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田島 治
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 森前 智行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-10-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

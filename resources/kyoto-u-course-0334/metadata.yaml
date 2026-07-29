@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0334
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/334/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2016年度 京都大学新任教員教育セミナー
+description:
+  ja: 京都大学の新任教員向け教育セミナーを収録する教材で、大学教育の動向や京都大学の教育改革を扱う。あわせて、ICTを活用した教育の展望や、文系・理系それぞれの授業実践紹介を含む。
+quotedDescription:
+  text:
+    ja: '1 開会式・趣旨説明
+
+      高等教育研究開発推進センター教授　松下 佳代
+
+      2 オープニングレクチャー
+
+      「現在の大学教育の動向と京都大学の教育改革」
+
+      理事・副学長（教育・情報・評価担当）北野 正雄
+
+      3 ミニ講義
+
+      「京大の教育的取組－ICTを活用した教育の展望－」
+
+      FD研究検討委員会委員長，高等教育研究開発推進センター長・教授　飯吉 透
+
+      4 教員による授業実践紹介
+
+      「私の授業1（文系）」
+
+      人間・環境学研究科共生人間学専攻思想文化論講座教授　安部 浩
+
+      5 教員による授業実践紹介
+
+      「私の授業2（理系）」
+
+      農学研究科応用生命科学専攻長・教授　松浦 健二'
+  source: https://ocw.kyoto-u.ac.jp/course/334/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

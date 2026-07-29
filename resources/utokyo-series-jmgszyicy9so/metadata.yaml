@@ -1,0 +1,80 @@
+slug: utokyo-series-jmgszyicy9so
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=jmGsZyIcy9SO
+type:
+- LearningResource
+- Course
+name:
+  ja: 世界の中の日本、日本の中の世界：「国内で実施する国際研修」の挑戦
+description:
+  ja: 本講義は、学部生を海外に派遣する従来型の短期国際研修と、日本国内に海外大学の学部生を招いて本学の学部生と共に学ばせる短期国際研修を扱う。国内で行う国際研修の取り組みを主題とし、北海道大学と韓国・西江大学校の担当者を交えたシンポジウムとして構成される。
+quotedDescription:
+  text:
+    ja: 近年、本学教養学部では、従来から行ってきた「本学の学部生を海外に送りだす短期国際研修」に加えて、「海外の大学の学部生を日本国内に呼び、本学の学部生とともに日本で学ばせる短期国際研修」という新しい試みをはじめました。そしてこのような試みは、他のアジアの大学でも広がっています。このシンポジウムでは、日本から北海道大学、韓国から西江大学校の担当者を招き、「自国内で行う国際研修」に関するこれまでの成果を…
+  source: https://ch.u-tokyo.ac.jp/series/?id=jmGsZyIcy9SO
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 太田 邦史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 杉村 美紀
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 矢口 祐人
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 亮司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: トム・ガリー
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 瀬名波 栄潤
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Kim Dong-Taek
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 たかね
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

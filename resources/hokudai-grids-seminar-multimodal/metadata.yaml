@@ -1,0 +1,59 @@
+slug: hokudai-grids-seminar-multimodal
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/grids-seminar-multimodal
+type:
+- LearningResource
+- Course
+name:
+  ja: グリッズセミナー「マルチモーダルな学習活動と学習評価を取り入れた制作型授業の可能性」
+description:
+  ja: 高等教育におけるマルチモーダルな学習活動と学習評価を取り上げ、国内外の事例と北海道大学グリッズの実践を紹介する。あわせて、Adobe Expressを用いたデジタルリテラシー教育の実践や、マルチモーダル型授業学習支援モジュールの概要も扱う。
+quotedDescription:
+  text:
+    ja: "北海道大学「Digital Creative Grids（グリッズ） 」は、北海道大学附属図書館・北図書館内に設置された、Adobeクリエイティブツールを活用してデジタルリテラシーを学ぶためのスペースです。\n\
+      本セミナーでは、はじめに高等教育におけるマルチモーダルな学習活動と学習評価について国内外の事例を紹介するとともに、本学グリッズの取り組みを取り上げながら、マルチモーダルな（＝多様なメディア様式を用いた）学習活動の可能性について情報提供をいたしました。\n\
+      \ \n【開催概要】\n開催日時：2026年2月19日（木） 15:00 ～ 16:30\n対面会場：北海道大学 北図書館内「Digital Creative Grids （グリッズ）」\n\
+      オンライン会場：Zoomウェビナー\n主催：北海道大学大学院教育推進機構オープンエデュケーションセンター\n共催：北海道大学大学院教育推進機構高等教育研修センター\n協力：アドビ\nセミナー開催報告\n\
+      \ \n【プログラム】\n開会案内・趣旨説明\n講演１「マルチモーダルな学習活動と学習評価を取り入れた制作型授業の可能性」\n（重田 勝介・北海道大学 オープンエデュケーションセンター 副センター長）\n\
+      \ \n講演２「Adobe Expressを使ったデジタルリテラシー教育の実践」\n（藤岡 千也・北海道大学 オープンエデュケーションセンター准教授）\n \nマルチモーダル型授業学習支援モジュールのご紹介\n\
+      （小材 彩季・アドビ教育事業本部）"
+  source: https://ocw.hokudai.ac.jp/lecture/grids-seminar-multimodal
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: アドビ
+  affiliation:
+    name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- オンライン教育
+- オープンエデュケーション
+- ラーニングコモンズ
+- マルチモーダル
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

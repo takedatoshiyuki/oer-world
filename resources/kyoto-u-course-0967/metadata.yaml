@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0967
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/967/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国立大学附置研究所・センター会議　第3部会（人文・社会科学系）シンポジウム 「データからみる地域研究」
+description:
+  ja: 本教材は、地域研究におけるデータサイエンスの導入を扱うシンポジウムである。従来のフィールド調査とは異なる方法を取り上げ、複数の学問領域でのデータサイエンスを通して人文社会科学のあり方を考える。
+quotedDescription:
+  text:
+    ja: 近年のデータサイエンスの進歩はめざましく、「ビッグデータ」や「AI」という言葉がよく聞かれるように、その影響はよい意味でも悪い意味でもわれわれの日常生活でも感じられるほどである。このシンポジウムでは、従来のフィールド調査とは異なる、様々な学問領域でのデータサイエンスを取り入れた地域研究に焦点を当てて、人文社会科学の新しい姿を探ってみたい。
+  source: https://ocw.kyoto-u.ac.jp/course/967/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉村 有司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 内田 由紀子
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岡本 正明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 広井 良典
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-10-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+- social_sciences
+keywords:
+- データサイエンス
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: こころの未来研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

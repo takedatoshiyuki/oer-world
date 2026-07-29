@@ -1,0 +1,71 @@
+slug: hokudai-structuredynamics-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/structuredynamics-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 構造ダイナミクス特論（2012）
+description:
+  ja: 機械システムの設計で重要な運動と動的特性の把握を主題とし、変分法、ハミルトンの原理、ラグランジュ方程式などの力学の諸原理を学ぶ。あわせて、連続体の振動やモード解析、非線形振動、ロボットの構造解析と運動方程式・状態方程式の導出まで扱う。
+quotedDescription:
+  text:
+    ja: '機械システムの設計において、その系の運動状況と動的特性を力学系に把握することは極めて大切です。この講義では、変分法、ハミルトンの原理、ラグランジュ方程式など力学の諸原理の理解に重点を置き、これに基づいて連続体の振動、モード解析、非線形振動、さらにロボットの構造解析、運動方程式および状態方程式の導出についても学びます。
+
+      本編撮影年度：平成24年度前期（第1～15回）
+
+      第2回以降の講義はこちら
+
+      ガイダンス以降の本編は、工学系教育研究センター（CEED）の配信システムで公開しています。
+
+      CEEDの配信システムでは細かなチャプターの設定、自動的な言語翻訳、講師が発言した内容のテキスト表示等、視聴者を支援する機能が備わっています。
+
+      原則として北海道大学の学生向けに公開していますが、自己研鑽で学びを希望される方は科目等履修生や社会人大学院生等で学籍を取得し、正規の学生以外でも視聴可能となる手順がありますので、詳しくはCEEDのホームページを参照いただき、手順についてお問い合わせください。'
+  source: https://ocw.hokudai.ac.jp/lecture/structuredynamics-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小林 幸徳
+  affiliation:
+    name: 北海道大学大学院工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- engineering
+keywords:
+- 機械力学
+- 解析力学
+- ハミルトンの定理
+- 構造解析
+- モード解析
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院でさがす
+  targetAudience: MC1~DC3
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

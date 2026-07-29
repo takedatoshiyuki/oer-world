@@ -1,0 +1,98 @@
+slug: kyoto-u-course-0110
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/110/
+type:
+- LearningResource
+- Course
+name:
+  ja: 物性・デバイス基礎論
+description:
+  ja: この教材は、固体中で電子が関わる性質や現象の基礎を、量子力学・熱力学・量子統計力学の観点から扱う。あわせて、化学結合や結晶構造を踏まえたうえで、電子の輸送現象や電子放出、固体内および真空中での電子の挙動を概述する。
+quotedDescription:
+  text:
+    ja: 電子が関与する固体の各種性質，現象の基礎を学習する．電子のエネルギー状態を量子力学的観点から理解し，平衡状態における粒子のエネルギー分布を熱力学や量子統計力学の観点から理解する．さらに，固体を構成する化学結合や結晶構造を学んだ後，電子の輸送現象や電子放出を理解することを目指す．固体内や真空中における電子の挙動を概述する．
+  source: https://ocw.kyoto-u.ac.jp/course/110/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 木本 恒暢
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 須田 淳
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 電子工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 2011年4月12日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第2回 2011年4月19日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第3回 2011年4月26日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第4回 2011年5月10日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第5回 2011年5月17日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第6回 2011年6月7日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第7回 2011年6月14日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第8回 2011年6月21日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第9回 2011年6月28日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第10回 2011年7月5日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第11回 2011年7月12日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+- name: '講義資料: 第12回 2011年7月19日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_busseidevicekisoron_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/110/
+extensions:
+  faculty: 工学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,153 @@
+slug: icu-majors-phr114-2017w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/phr114_2017w
+type:
+- LearningResource
+- Course
+name:
+  ja: History of Western Philosophy III 西洋哲学史 III
+description:
+  ja: 近代から現代にかけての西洋哲学の主要な流れを扱い、カントからニーチェまでの思想家を順にたどる講義である。指定テキストの該当箇所を各回で読み進めながら、理論の展開を確認する構成になっている。いくつかのテーマでは課題の提出も含まれる。
+quotedDescription:
+  text:
+    ja: 'Critical and comprehensive study of the main trends of modern and contemporary Western philosophical
+      thought.
+
+      西洋の近現代哲学思想の主な流れを批判的かつ総合的に研究する。
+
+      Contents of Lectures
+
+      2
+
+      1
+
+      Lectures /
+
+      3
+
+      Videos
+
+      December 6
+
+      We will read together pp. 3-7 of the “Introduction”
+
+      December 8
+
+      Kant, pp. 14-27
+
+      December 11
+
+      Kant, pp. 27-34
+
+      December 13
+
+      Kant, pp. 8-10; 35-42
+
+      December 15
+
+      Kant, pp. 10-12; 43-50
+
+      December 18
+
+      Kant, pp. 50-57
+
+      December 20
+
+      Fichte, pp. 58-68
+
+      December 22
+
+      Fichte, pp. 69-80; Paper #1 – Kant’s Epistemology, or Morals, or Aesthetics
+
+      January 10
+
+      Fichte, pp. 81-95
+
+      January 15
+
+      Fichte, pp. 96-108
+
+      January 17
+
+      Schelling, pp. 109-117
+
+      January 19
+
+      Schelling, pp. 120-132
+
+      January 22
+
+      Schelling, pp. 133-137
+
+      January 24
+
+      Schelling, pp. 138-143
+
+      February 12
+
+      Hegel, pp. 184-189; Paper #3 ? Hegel
+
+      February 14
+
+      Marx, pp. 233-239
+
+      February 16
+
+      Marx, pp. 240-251
+
+      February 19
+
+      Kierkegaard, pp. 282-290
+
+      February 21
+
+      Kierkegaard, pp. 293-307
+
+      February 23
+
+      Nietzsche, pp. 315-322
+
+      February 26
+
+      Nietzsche, pp. 323-335; Paper #4 – Marx, Nietzsche, or Kierkegaard'
+  source: https://ocw.info.icu.ac.jp/majors/phr114_2017w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- Philosophy and Religion 哲学・宗教学
+- 'PHR114 | Course Schedule: 2/M, 2/W, 2/F | Update: 2020.02.12 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

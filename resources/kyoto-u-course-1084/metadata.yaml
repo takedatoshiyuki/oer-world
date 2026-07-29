@@ -1,0 +1,71 @@
+slug: kyoto-u-course-1084
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1084/
+type:
+- LearningResource
+- Course
+name:
+  ja: 公開講演会「芦生の森を未来につなぐために」
+description:
+  ja: 京都大学芦生研究林における原生的な森林と希少植物の生育状況を扱い、近年のシカ害やナラ枯れによる植生の変化にも触れる。あわせて、絵画・写真展や講演会を通じて、芦生の森を守るための活動事例を多様な立場から紹介する。
+quotedDescription:
+  text:
+    ja: 京都丹波高原国定公園の核心地域である京都大学芦生研究林には、原生的な森林が保全されており、希少な植物の一大生育地となっています。しかし、20年以上にわたってシカ害やナラ枯れの影響を受けたことで、豊かだった植生は衰退し、樹木の更新も滞ってきています。絵画・写真展や講演会を通じて、芦生の天然林の希少性を伝えるとともに、芦生の森を守るための活動事例を多様な立場から紹介し、植物及び環境の保全意識の醸成を図る契機としていきたいと思います。
+  source: https://ocw.kyoto-u.ac.jp/course/1084/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 戸部 博
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 石原 正恵
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小田嶋 成徳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 平田 有加
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 朝倉 彰
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-08-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 芸術・文化
+- 生物学・生命科学
+- 環境学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

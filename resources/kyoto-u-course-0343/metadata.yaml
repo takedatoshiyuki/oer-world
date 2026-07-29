@@ -1,0 +1,52 @@
+slug: kyoto-u-course-0343
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/343/
+type:
+- LearningResource
+- Course
+name:
+  ja: フランス語ＩＡ
+description:
+  ja: 初めてフランス語を学ぶ人向けに、初級文法を段階的に扱う。文法学習を通じて、フランス語の仕組みを総合的に身につけることを目指す。
+quotedDescription:
+  text:
+    ja: 初めてフランス語を学ぶ人を対象として、初級レベルの文法の段階的学習を通じて、フランス語の仕組みを総合的に習得することを目的とする。
+  source: https://ocw.kyoto-u.ac.jp/course/343/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

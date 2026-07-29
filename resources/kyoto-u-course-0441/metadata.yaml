@@ -1,0 +1,82 @@
+slug: kyoto-u-course-0441
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/441/
+type:
+- LearningResource
+- Course
+name:
+  ja: 資源生物科学基礎実験
+description:
+  ja: 資源生物科学の基礎実験に向けた準備を扱う教材で、実験に取り組む前の心得やレポート作成、測定、顕微鏡観察、分離操作、無菌操作を章ごとに学ぶ。さらに、附属施設・関連施設についても取り上げ、関連する学習環境の情報も含める。
+quotedDescription:
+  text:
+    ja: 'この科目は、３回生対象科目｛資源生物科学実験及び実験法Ⅰ・Ⅱ｝の予備知識として履修すること。
+
+      ※ オフィスアワー実施の有無は、KULASISで確認して下さい'
+  source: https://ocw.kyoto-u.ac.jp/course/441/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 農学研究科資源生物学科教員
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+- natural_sciences_math
+keywords:
+- 農学
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第１章　資源生物科学基礎実験を行うにあたって'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakukisojikken_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/441/
+- name: '講義資料: 第２章　レポートの書き方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakukisojikken_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/441/
+- name: '講義資料: 第３章　測る'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakukisojikken_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/441/
+- name: '講義資料: 第４章　拡大して観察する（顕微鏡の使い方）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakukisojikken_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/441/
+- name: '講義資料: 第５章　分離操作'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakukisojikken_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/441/
+- name: '講義資料: 第６章　無菌操作の理論と実際'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakukisojikken_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/441/
+- name: '講義資料: 第７章　附属施設・関連施設について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakukisojikken_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/441/
+extensions:
+  faculty: 農学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

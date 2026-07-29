@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0477
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/477/
+type:
+- LearningResource
+- Course
+name:
+  ja: 市民講座「物理と宇宙」第5回
+description:
+  ja: 京都大学の市民講座「物理と宇宙」の第5回講演映像で、物理学と宇宙物理学を扱う。京都大学の3人の研究者が最新の研究成果を取り上げ、その内容を紹介する。
+quotedDescription:
+  text:
+    ja: '理学研究科 物理学・宇宙物理学専攻
+
+      基礎物理学研究所
+
+       
+
+       
+
+      講演映像
+
+      京都大学では物理学と宇宙物理学についての市民講座「物理と宇宙」を開催します。京都大学の3人の研究者が最新の研究成果を発信し、その最先端を分かりやすく説明します。
+
+      本講座は 21世紀COEプログラム「物理学の多様性と普遍性の探究拠点」（2003-2007年度）とグローバルCOEプログラム「普遍性と創発性から紡ぐ次世代物理学」（2008-2012年度）の主催で10回にわたり開催してきた市民講座の後を引き継ぐものです。'
+  source: https://ocw.kyoto-u.ac.jp/course/477/
+  note: 京都大学OCW 「講演映像」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山本 潤（理学研究科 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 物理学・宇宙物理学専攻長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川畑 貴
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐々木 貴教
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-10-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

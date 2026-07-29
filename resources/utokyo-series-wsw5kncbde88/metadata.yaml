@@ -1,0 +1,84 @@
+slug: utokyo-series-wsw5kncbde88
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=WSW5kNCBDE88
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「成熟」
+description:
+  ja: 人間の生涯にある誕生・成長・成熟・衰退・死の循環を手がかりに、自然現象や社会にも見られる変化のあり方を考える講義である。説明文では、そのサイクルを理解することの意味を、人間・自然・社会を考える観点から扱うことが示されている。
+quotedDescription:
+  text:
+    ja: "誕生―成長―成熟―衰退・死。このサイクルは人間にあてはまるだけでなく、自然に関わるさまざまな現象に、あるいは社会そのものにもあてはまります。そのサイクルを理解することは、人間や自然、社会を考えるうえで重要なことは言うまでもありません。\
+      \ \n  そのサイクルの中で、もっとも我々の注目をひいてきたのは誕生と成長でしょう。人の誕生はもっとも劇的で、成長は希望に満ちています。あるいは社会や経済の成長は人に希望を…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=WSW5kNCBDE88
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小宮山 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 金子 元久
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 苅谷 剛彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩本 康志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 森 裕司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 林 香里
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 開 一夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 井原 泰雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 社会学
+- 自立
+- 歌舞伎
+- 演技
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

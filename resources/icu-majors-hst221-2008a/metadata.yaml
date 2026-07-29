@@ -1,0 +1,68 @@
+slug: icu-majors-hst221-2008a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/hst221_2008a
+type:
+- LearningResource
+- Course
+name:
+  ja: History of Contemporary Japan 日本現代史
+description:
+  ja: 戦時下の日本の出来事と経験が、戦後60年以上のあいだにどのように記憶され、使われ、再び使われてきたかを扱う講義である。そこから、そうした記憶が国内政治、国際関係、国民的アイデンティティの形成にどう関わるかを追う。秋学期に全18回、ディスカッション回とフィールドトリップを含む形で行う。
+quotedDescription:
+  text:
+    ja: 'According to Benedetto Croce, “all history is contemporary history.” This year, 2008, marks the
+      63th anniversary of the end of the Pacific War. This course will show how events of the past are
+      very much alive in the present. The war is constantly in the news. This course will explore the
+      ways in which the events and experiences of wartime Japan have been remembered and used and re-used
+      over the past 60-plus years in shaping domestic politics, international relations, and national
+      identity.
+
+      Course Structure
+
+      This course is taught on the ICU campus during the Fall term. There are 18 sessions, each 105 minutes
+      long, held over a period of 10 weeks. There is one required “field trip” and 7 discussion sessions.
+
+      Contents of Lectures
+
+      18
+
+      Lectures'
+  source: https://ocw.info.icu.ac.jp/majors/hst221_2008a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'History 歴史学 | Course ID: HST22'
+- 'HST221 | Course Schedule: 4*/W, 4*/F | Update: 2014.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

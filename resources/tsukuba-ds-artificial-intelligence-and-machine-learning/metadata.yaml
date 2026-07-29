@@ -1,0 +1,47 @@
+slug: tsukuba-ds-artificial-intelligence-and-machine-learning
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/artificial-intelligence-and-machine-learning/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 高度なデータの管理と活用：人工知能と機械学習
+description:
+  ja: 人工知能と機械学習の基礎を扱い、人工知能に何ができるかと、その活用場面を取り上げる。あわせて、大量のデータからルールを学習する機械学習の仕組みを紹介する。
+quotedDescription:
+  text:
+    ja: 本講義では人工知能と機械学習の基礎について解説する。いまの人工知能に何ができてどういう場面で活用されているのかを紹介する。また、大量のデータからルールを学習する技術である機械学習について、その仕組みを紹介する。
+  source: https://ocw.tsukuba.ac.jp/data-science/artificial-intelligence-and-machine-learning/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 馬場 雪乃
+  affiliation:
+    name: 東京大学大学院総合文化研究科広域科学専攻
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2023-09-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

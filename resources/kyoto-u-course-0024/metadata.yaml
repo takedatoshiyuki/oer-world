@@ -1,0 +1,156 @@
+slug: kyoto-u-course-0024
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/24/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報学Ⅰ/Ⅱ
+description:
+  ja: 教育学部向けに開講された「情報学Ⅰ/Ⅱ」の講義と実習の教材で、コンピュータの基本操作や電子メールを用いた通信、WWWによる情報検索を扱う。あわせて、情報の収集・加工・提示・発信と、情報社会の基礎知識を学ぶ内容である。
+quotedDescription:
+  text:
+    ja: 講義および実習を通して、教育学部の実習などで必要とされるコンピュータの基本操作、電子メール等によるネットワークコミュニケーション、情報の収集・加工・提示・発信の方法、情報社会の基礎知識を習得する。
+  source: https://ocw.kyoto-u.ac.jp/course/24/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中村 素典
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 八木 啓介
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- education
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: キーボード操作について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2-0_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: マウス操作について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2-0_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ローマ字・かな対応表'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2-0_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ウィンドウ操作について'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2-0_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: 概要説明'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: パソコン利用のための基礎知識'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: パソコン利用のための基礎知識２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: 電子メールについて'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ファイルの添付'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: パソコン利用のための基礎知識３'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: WWWの基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: WWWを用いた情報検索'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: HTMLの基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ワードによる文書の作成'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ワードによる文書の作成2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ワードによる文書の作成３'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: 表計算入門'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_13-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: 表計算入門（グラフ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_13-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: エクセルに計算させる'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_14-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: エクセルに計算させる（グラフ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_14-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: グラフの作成'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_15-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: グラフの作成（グラフ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_15-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: グラフの作成（エクセル）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_15.xls
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ソート・相関'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_17-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ソート・相関（グラフ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_17-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: クロス集計'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_18-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: クロス集計（グラフ）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_18-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: クロス集計（エクセル）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_18.xls
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: ワードによる文書の作成'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: PowerPointの使い方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: PowerPointの使い方（パワーポイント）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_21.ppt
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: PowerPointの使い方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: PowerPointを用いたプレゼンテーション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_jouhougaku-1-2_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+- name: '講義資料: PowerPoint資料の提出方法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_jouhougaku-1-2_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/24/
+extensions:
+  faculty: 教育学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

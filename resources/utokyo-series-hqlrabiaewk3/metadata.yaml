@@ -1,0 +1,110 @@
+slug: utokyo-series-hqlrabiaewk3
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=hQlRAbIaeWk3
+type:
+- LearningResource
+- Course
+name:
+  ja: ビジョンとミッション－海事・海洋、エネルギー・環境、構造基準－（湯原哲夫最終講義）
+description:
+  ja: 構造健全性と安全評価学を軸に、環境・エネルギーの技術開発と政策、次世代の造船・海洋産業の構想、技術経営学を扱う。東京大学工学部・工学系研究科で2006年に開講され、日本語で提供される。
+quotedDescription:
+  text:
+    ja: '【研究概要】
+
+      構造健全性、安全評価学
+
+      環境・エネルギーの技術開発と政策
+
+      次世代造船・海洋産業の構想研究
+
+      技術経営学（研究開発のマネージメント）
+
+      【教授略歴】
+
+      1944年　生まれ
+
+      1970年　東京大学大学院　工学系研究科　修了
+
+      1971年　三菱重工株式会社　技術本部（技術管理部）
+
+      1971年　同上　長崎研究所　強度研究室　研究員
+
+      1975年　動燃事業団　高速増殖炉開発本部
+
+      原型炉準備室プロジェクトエンジニア
+
+      1980年　三菱重工 技術本部 長崎研究所 主任
+
+      1982年　工学博士取得（東京大学）
+
+      1986年　同 長崎研究所 主務
+
+      1991年　スタンフォード大学 経営大学院　エグゼクティブ・プログラム 留学
+
+      1992年　三菱重工 技術本部 長崎研究所 強度研究室 室長
+
+      1995年　同 長崎研究所 次長・船舶海洋部門長
+
+      1997年　同 横浜研究所 所長
+
+      2000年　長菱エンジニアリング 参与　三菱重工 技術本部顧問
+
+      2002年　東京大学大学院　工学系研究科　教授
+
+      2007年　定年退官
+
+      東京大学サステイナビリティ学連携研究機構 特任研究員
+
+      2008年　大学院工学系研究科特任教授就任
+
+      海洋技術フォーラム代表幹事
+
+      日本機械学会発電用設備規格委員会委員長
+
+      （NPO）日中環境エネルギーシステム促進機構 代表
+
+      米国機械学会規格基準理事会理事（Board of Director）など'
+  source: https://ch.u-tokyo.ac.jp/series/?id=hQlRAbIaeWk3
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 湯原 哲夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- エネルギー・資源
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

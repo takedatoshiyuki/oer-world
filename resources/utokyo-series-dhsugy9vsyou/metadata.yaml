@@ -1,0 +1,68 @@
+slug: utokyo-series-dhsugy9vsyou
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=dHsuGY9VSyou
+type:
+- LearningResource
+- Course
+name:
+  ja: 東大院生によるミニレクチャプログラム 第11回
+description:
+  ja: 本講義は、文法や歴史的観点など複数の切り口から、ことばのゆれを考える内容を扱う。東京大学が実施する図書館でのアクティブラーニングの一環として行われ、中高生向けに日本語で提供される。
+quotedDescription:
+  text:
+    ja: "「東大院生によるミニレクチャプログラム」は、新図書館計画 Academic Commons Supporter の発案により、図書館でのアクティブラーニング実践の一環として実施しています。「アクティブラーニング」という教育手法を学んだ大学院生・若手教員によるレクチャをお楽しみください。\
+      \ \n  このレクチャでは、文法や歴史的観点など、様々な観点からことばのゆれについて考えてます。 \n  主催：東京大学     新図書館計画推進室    ・  …"
+  source: https://ch.u-tokyo.ac.jp/series/?id=dHsuGY9VSyou
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田中 弥生
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 嘉惟
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 三羽 恵梨子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西岡 大輔
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

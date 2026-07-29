@@ -1,0 +1,67 @@
+slug: kyoto-u-course-1113
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1113/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第18回 MACSコロキウム
+description:
+  ja: ガリレオの言葉を手がかりに、新しい知見が新しい数理と結びついて生まれることを扱う。あわせて、赤外線天文学の成立から1960年代以降の進展までをたどる。
+quotedDescription:
+  text:
+    ja: '1609年に望遠鏡で初の重要な天文観測を行なったガリレオが「最も偉大な書物、
+
+      宇宙は数学という言語で書かれていて、その修得なしに宇宙を理解することはで
+
+      きない」と書いたように、新しい知見はしばしば新しい数理とともに得られてき
+
+      た。赤外線天文学はハーシェルの1800年の赤外線発見にさかのぼるものの、1960
+
+      年代になってついに目覚ましい成果を生み始めた。私たちはそれを目撃し楽しめ
+
+      る幸せな時代にいる！'
+  source: https://ocw.kyoto-u.ac.jp/course/1113/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 長田 哲也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-02-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+- engineering
+keywords:
+- 歴史
+- 数学
+- 物理学
+- 工学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

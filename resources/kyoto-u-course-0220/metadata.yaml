@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0220
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/220/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'KU Academic Hip Hop: Introduction to Psychology'
+description:
+  ja: '京都大学提供の「KU Academic Hip Hop: Introduction to Psychology」は、人間・環境学研究科で開講された英語の講義である。公開教材として、2012-2013年の昼休みセミナーに関する講義資料が1件ある。'
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Tom McFadden（Graduate Student
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of Otago）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Kyoto University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-07-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 音楽
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: Academic Hip Hop: Introduction to Psychology Lunchtime Seminar: 2012-2013'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_KU_Academic_Hip_Hop_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/220/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

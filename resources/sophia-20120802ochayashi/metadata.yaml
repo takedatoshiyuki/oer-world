@@ -1,0 +1,46 @@
+slug: sophia-20120802ochayashi
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120802ochayashi/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生命という名の化学的連鎖反応：細胞
+description:
+  ja: 上智大学理工学部物質生命理工学科で2012年度に開講された講義で、担当は林謙介である。講義名から、細胞を対象に生命を化学的な連鎖反応として捉える内容であることが分かる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 林 謙介
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 理工学部 物質生命理工学科
+  term: 2012年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

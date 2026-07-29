@@ -1,0 +1,97 @@
+slug: icu-ge-gen012-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen012_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: Foundations and Concepts of Physics (B) N1：物理学の基礎と概念（Ｂ）'
+description:
+  ja: この講義は、物理学の基礎と原理を歴史的な観点から扱い、あわせて科学の最新知識の概観も含む。さらに、物理的な世界の捉え方が哲学的な見方に及ぼす影響についても検討する。講義内容には、力学から流体、熱、電磁気、光、現代物理までの広い話題が並ぶ。
+quotedDescription:
+  text:
+    ja: 'This course is designed to examine the foundation and principles of physics from a historical
+      perspective. Providing an overview of the cutting-edge knowledge of science, this course also examines
+      how one”s perception of the physical-material universe may affect one”s philosophical viewpoint.
+
+      物理学の基礎や原理を歴史的な視点から考察し、また、最先端の科学的知識を概観するとともに、哲学的なものの見方にたいする自然観の影響について検討する。
+
+      Contents of Lectures
+
+      The Laws of Motion
+
+      Mechanical Objects
+
+      Feb 10
+
+      Fluids
+
+      Feb 1
+
+      2
+
+      Fluids and Motion
+
+      Feb 1
+
+      4
+
+      Fluids and Motion
+
+      Heat and Phase Transitions
+
+      Thermodynamics
+
+      Resonance and Mechanical Waves
+
+      Electricity
+
+      Magnetism and Electrodynamics
+
+      Electromagnetic Waves
+
+      Light
+
+      Optics and Electronics
+
+      Modern Physics*  (* Extent depends on time available.)'
+  source: https://ocw.info.icu.ac.jp/ge/gen012_2013w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 一般教育科目
+- 'GEN012 | Course Schedule: 3/M, 3/W, 3/F | Update: 2014.12.11'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

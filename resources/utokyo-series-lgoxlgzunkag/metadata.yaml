@@ -1,0 +1,59 @@
+slug: utokyo-series-lgoxlgzunkag
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=lgoxLgzuNKAg
+type:
+- LearningResource
+- Course
+name:
+  ja: スペイン語の地理
+description:
+  ja: 各地で異なるスペイン語のバリエーションを扱い、発音や語形、意味の差に触れる12回シリーズである。前半では地域ごとの様子を概観し、続いてバリエーション研究の考え方を説明し、最後に世界のスペイン語を見渡す共通の概念を扱う。研究グループの調査結果の一部も取り上げる。
+quotedDescription:
+  text:
+    ja: '12回のシリーズで各地のスペイン語のバリエーションについてお話します。スペイン語は世界20カ国で3億5000万人によって話される大言語ですが，そ の地域的な変異は他の諸言語に比べて少ないと言えます。それでも，発音の仕方や単語の形や意味が微妙に異なります。このシリーズではあまり細かい点には立
+      ち入らず，各地の特徴のなかでとくに重要だと思われる点だけを説明します。
+
+      シリーズの構成は，1旅先，2言葉を求めて，3言葉の広がり，の3本立てです。1で各地のスペイン語の様子を簡単に紹介し，２でスペイン語のバリエーショ ン研究について説明し，3で共通のコンセプトについて，世界中のスペイン語を見渡すことにしましょう。私たちの研究グループの調査結果の一部をピックアッ
+      プします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=lgoxLgzuNKAg
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上田 博人
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

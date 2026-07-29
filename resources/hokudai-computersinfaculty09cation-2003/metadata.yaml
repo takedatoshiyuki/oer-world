@@ -1,0 +1,71 @@
+slug: hokudai-computersinfaculty09cation-2003
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/computersinfaculty09cation-2003
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 教職総合演習 現代社会における数値計算の役割（2003）
+description:
+  ja: Unixコンピュータ上で数値計算のためのプログラムを作成し、問題解決を体験する教材である。あわせて、アルゴリズムの構築、計算結果のグラフ化、Webpageへの表示、TeXを用いた資料作成まで扱う。
+quotedDescription:
+  text:
+    ja: '現代社会においてはコンピュータの利用は必要不可欠になっている。これは単なる娯楽のためというだけでなく、高齢化社会において少ない労働力で高い作業効率を得ることが、我国の社会における課題となっているためでもある。
+
+      このことは教育現場にも当てはまり、日本全体で教材を共同で利用するなど、コンピュータやネットワークを使った教育の効率化の可能性はたいへん大きい。
+
+      このような作業効率・教育効率の向上の上では、様々な機能を提供するサーバーコンピュータ (多くは Unix ワークステーション) を使いこなせること、サーバー上でのプログラムを作成する技術、そして
+      Webpage やプリントでの表現等の重要性が今後増していくものと考えられる。
+
+      この授業では、サーバーとして用いられている Unix コンピュータ上で実際にプログラムを組み、数値計算による問題解決を体験することを通じて、必要なコンピュータの利用法、プログラムのアルゴリズムの構築方法、計算結果の可視化
+      (グラフ化)、Webpage へのグラフの表示、TeX などを利用した数式・図を含むプリント作成方法等について修得することを目的とする。'
+  source: https://ocw.hokudai.ac.jp/lecture/computersinfaculty09cation-2003
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 大西 明
+  affiliation:
+    name: 理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: PDF'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ComputersInEducation-2003-Note-all.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/computersinfaculty09cation-2003
+- name: '講義資料: ZIP'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/03/CompPhys_html-HUOCW1.zip
+  page: https://ocw.hokudai.ac.jp/lecture/computersinfaculty09cation-2003
+extensions:
+  faculty: 理学部
+  targetAudience: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

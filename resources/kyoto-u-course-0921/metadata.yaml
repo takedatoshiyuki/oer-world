@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0921
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/921/
+type:
+- LearningResource
+- Course
+name:
+  ja: 半導体工学, 2010
+description:
+  ja: 京都大学工学部で開講された「半導体工学」の講義で、須田淳が担当する。開講年度は2010-10-05で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 須田 淳
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-10-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- engineering
+keywords:
+- 工学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

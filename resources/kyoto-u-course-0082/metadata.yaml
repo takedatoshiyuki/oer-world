@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0082
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/82/
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバルリーダー育成カップ
+description:
+  ja: 全国の大学生を対象に、世界に革新をもたらす新型ビジネスプランを構想するコンテストである。書類選考を通過した参加者は京都市内で3泊4日の合宿を行い、京都大学時計台百周年記念ホールで最終コンテストに臨む。
+quotedDescription:
+  text:
+    ja: グローバルリーダー育成カップ2010は、全国の大学生から募集を募り「Global Future Innovation」をテーマに世界に革新をもたらす新型ビジネスプランを立案するコンテストです。今回、全国から1,002名ものエントリーがあり、
+      国内からは京都、東京、早稲田、慶応など全国の大学から、また海外からもアメリカ、中国、韓国、イランなど幅広い国籍の学生の応募がありました。応募の中 から書類選考を通過した48名が京都市内に集まり、3泊4日の合宿を経て、京都大学時計台百周年記念ホールでの最終コンテストに臨みました。
+  source: https://ocw.kyoto-u.ac.jp/course/82/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-08-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- business_law
+keywords:
+- 経営学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,119 @@
+slug: kyushu-faculty-06-1
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+type:
+- LearningResource
+- Course
+name:
+  ja: 臨床医学基本実習
+description:
+  ja: 基本的臨床技能を扱い、講義、ロールプレイ、OSCE、患者実習、検査実習の各段階で学ぶ構成になっている。臨床技能の理解から練習、実地練習、基本的臨床検査の練習までを含む教材である。
+quotedDescription:
+  text:
+    ja: 'Ⅰ．講義 －基本的臨床技能を知る－
+
+      Ⅱ．ロールプレイ－基本的臨床技能の練習－
+
+      Ⅲ．客観的臨床能力試験（Objective Structured Clinical Examination; OSCE
+
+      Ⅳ．患者実習 －基本的臨床技能の実地練習－
+
+      Ⅴ．検査実習 －基本的臨床検査の練習－'
+  source: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+  note: 九州大学OCW (QOCW) 「授業の概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 吉田 素文
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 学部・大学院講義
+audience:
+- student
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 3.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/3.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 4.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/4.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 5.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/5.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 6.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/6.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 7.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/7.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 8.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/8.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 9.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/9.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 10.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/10.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 11.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/11.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 12.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/12.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 13.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/13.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 14.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/14.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 15.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/15.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 16.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/16.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 17.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/17.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 18.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/18.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+- name: '講義資料: 19.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1/19.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/06/1.html
+extensions:
+  faculty: 医学部・医学系学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

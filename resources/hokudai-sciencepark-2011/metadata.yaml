@@ -1,0 +1,70 @@
+slug: hokudai-sciencepark-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sciencepark-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンスパーク in 北海道大学総合博物館 ノーベル化学賞鈴木章先生と 見て、触れて、楽しみ、学ぼう！ （2011）
+description:
+  ja: 北海道大学総合博物館で行われた体験・交流型イベントを扱う。ノーベル化学賞受賞者の鈴木章と国際科学オリンピックで活躍した高校生を招き、子どもたちに科学技術への関心を促す内容である。
+quotedDescription:
+  text:
+    ja: "ノーベル化学賞を受賞した鈴木章北海道大学名誉教授と国際科学オリンピックで活躍したスーパー高校生をお招きし、北海道の未来を担う子どもたちに、生活の利便性の向上や社会経済の発展に大きく貢献する科学技術への関心を高めてもらうため、「見て、触れて、楽しみ、学ぶ」ことができる体験・交流型のイベント「サイエンスパークin北海道大学総合博物館」を開催しました。\n\
+      ＜関連情報＞\n北海道科学技術振興課 \n北海道大学総合博物館"
+  source: https://ocw.hokudai.ac.jp/lecture/sciencepark-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 はるみ
+  affiliation:
+    name: 北海道知事
+- type: Person
+  name: 山口 佳三（北海道大学理事
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: 副学長）
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: 鈴木 章
+  affiliation:
+    name: 北海道大学名誉教授
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- サイエンスパーク
+- 有機合成
+- 鈴木カップリング
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サイエンスパーク in 北海道大学総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

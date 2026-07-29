@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0930
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/930/
+type:
+- LearningResource
+- Course
+name:
+  ja: UNESCO International Scientific Symposium
+description:
+  ja: 国際的な科学シンポジウムに関する講義資料を収録する。開会挨拶や歓迎挨拶に加え、2015年以後のSDGsを見据えた水質モニタリングの科学的・技術的・政策的な革新を扱う資料が公開されている。
+quotedDescription:
+  text:
+    ja: 'Website: http://www.unescokyotosympo2015.org/'
+  source: https://ocw.kyoto-u.ac.jp/course/930/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: Opening Speech'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_UNESCO_International_Scientific_Symposium_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/930/
+- name: '講義資料: Opening Speech'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_UNESCO_International_Scientific_Symposium_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/930/
+- name: '講義資料: Welcome address'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_UNESCO_International_Scientific_Symposium_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/930/
+- name: '講義資料: Opening Speech'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/07/2015_UNESCO_International_Scientific_Symposium_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/930/
+- name: '講義資料: Scientific, Technological and Policy Innovations for Improved Water Quality Monitoring
+    in the Post-2015 SDGs Frame'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2015_UNESCO_International_Scientific_Symposium_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/930/
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

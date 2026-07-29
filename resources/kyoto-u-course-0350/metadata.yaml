@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0350
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/350/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農業機械学専門外書講義
+description:
+  ja: 『Agricultural Robots』をテキストに、担当箇所の内容を英語で発表し、討議する形式の講義である。PowerPoint作成や英語論文の書き方、英語での発表用資料の作成方法も扱う。国立台湾大学とのジョイントクラスとして、遠隔講義室から台湾大学の学生・教員とリアルタイムで議論する。
+quotedDescription:
+  text:
+    ja: '英語の専門用語力，発表能力，論文作成能力を高めるため，”Agricultural Robots”をテキストとして使用し，自分の担当部分に関してパワーポイントの作成と英語でのプレゼンテーション，討議を行う。これにより，英語でのプレゼン能力だけでなく，議論する能力，コミュニケーション能力を養う。さらに，英語論文の書き方および英語での発表用資料の作成方法を身につける。
+
+      本授業は国立台湾大学とのジョイントクラスとし，遠隔講義室でビデオ会議システムを用いてリアルタイムの英語による議論を台湾大学の学生，教員とも行う。'
+  source: https://ocw.kyoto-u.ac.jp/course/350/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 近藤　直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Garry Piller
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Suming Chen
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Ping-Lang Yen
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

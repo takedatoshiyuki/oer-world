@@ -1,0 +1,57 @@
+slug: hokudai-nobellecture-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/nobellecture-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: Venki Ramakrishnan 博士 ノーベル賞講演会 The Ribosome（2010）
+description:
+  ja: リボソームの働きと、それを阻害する抗生物質の作用を扱う講演である。学生と一般市民を対象に、北海道大学の学術交流会館で行われた。
+quotedDescription:
+  text:
+    ja: 英国MRC研究所のVenki Ramakrishnan 博士は、細胞のタンパク質合成装置リボソームの立体構造を決定し、その機能を個々の原子配置に基づいて解明した功績により、2009年度ノーベル化学賞を受賞しました。この度、北大の学術交流会館にて、学生・一般市民対象の講演をお願いしました。今回の講演では、リボソームの働きと、それを阻害するさまざまな抗生物質の働きについて、わかりやすく説明していただきます。
+  source: https://ocw.hokudai.ac.jp/lecture/nobellecture-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Venki Ramakrishnan
+  affiliation:
+    name: 英国MRC研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- ノーベル賞
+- 細胞
+- タンパク質合成
+- リボソーム
+- 抗生物質
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

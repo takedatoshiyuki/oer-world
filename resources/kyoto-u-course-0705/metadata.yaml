@@ -1,0 +1,88 @@
+slug: kyoto-u-course-0705
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/705/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農村社会学
+description:
+  ja: 農村を社会学の視点から扱う京都大学農学部の講義で、2011年前期に開講された。公開教材には、農村の捉え方や社会的構築、移住や農業の動き、ジェンダー、家やむらの理論、山村、消費倫理、GMOまでの題目が並ぶ。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 秋津 元輝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　農村の学び方'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第2回　農村の社会的構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第3回　Ｉターン農業とＩターン移住'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第4回　先進国の農村社会論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第5回　農村ジェンダー研究：農村女性起業を中心に'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第6回　家（いえ）の理論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第7回　むらの理論'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第8回　むらと領域：保全との接続'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第9回　山村の「発明」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第10回　生き物消費の倫理学'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第11回　ＧＭＯの社会学１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+- name: '講義資料: 第12回　ＧＭＯの社会学２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/2011_nousonshakaigaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/705/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

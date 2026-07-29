@@ -1,0 +1,56 @@
+slug: utokyo-series-9ztcm9dwylul
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=9ZTCM9DwyLuL
+type:
+- LearningResource
+- Course
+name:
+  ja: 現代日本経済史 I
+description:
+  ja: 日露戦争前から第一次世界大戦を経て、第二次世界大戦前までの日本経済史を扱う。日本の近現代史を経済の視点から見直し、経済活動と社会情勢、社会制度、政治の関係をたどる。
+quotedDescription:
+  text:
+    ja: 日本の近現代史を「経済」という視点から描きなおす。現代日本経済史Ⅰでは、日露戦争前から始まり、第一次大戦を経て、第二次大戦前までの歴史を扱 う。一国の経済活動とその状態は、そのときどきの社会情勢を大きく動かし、社会制度や政治をも変化させる大きな要因となる。日本の近現代史における、経済
+      活動と社会・政治のダイナミズムの関係を振り返ってみよう。
+  source: https://ch.u-tokyo.ac.jp/series/?id=9ZTCM9DwyLuL
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 武田 晴人
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 経済学部・経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

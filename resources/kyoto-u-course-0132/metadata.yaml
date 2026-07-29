@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0132
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/132/
+type:
+- LearningResource
+- Course
+name:
+  ja: 熱帯農業生態学特論
+description:
+  ja: 東南アジアを中心に、熱帯地域の環境条件の特徴を取り上げる講義である。さらに、近年の営農体系の動きと、作物生産をめぐる諸問題まで扱う。
+quotedDescription:
+  text:
+    ja: 東南アジアを中心に、熱帯地域の環境条件の特徴について解説した後、近年の営農体系の動態及び作物生産に関する諸問題を論ずる。
+  source: https://ocw.kyoto-u.ac.jp/course/132/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 縄田 栄治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 農学研究科
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

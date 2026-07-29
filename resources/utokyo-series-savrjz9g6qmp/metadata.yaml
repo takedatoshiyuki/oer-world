@@ -1,0 +1,68 @@
+slug: utokyo-series-savrjz9g6qmp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=SAVrJz9G6QMp
+type:
+- LearningResource
+- Course
+name:
+  ja: The University of Tokyo School of Public Health Forum 2011 "The Great East Japan Earthquake and
+    its Aftermath; Overcoming Public Health Challenges" (English)
+description:
+  ja: 東日本大震災による健康被害と、その後に生じた公衆衛生上の課題を扱うフォーラムである。地震・津波の被害に加え、福島第一原子力発電所事故の影響にも触れながら、これらにどう向き合うかを中長期的な視点で考える。
+quotedDescription:
+  text:
+    ja: 東京大学大学院医学系研究科公共健康医学専攻（ＳＰＨ）は4月20日、「東日本大震災の健康被害－－公衆衛生に何ができるか」をテーマに、フォーラムを開催いたしました。地震と津波による大きな被害、その後の福島第一原子力発電所の事故の影響は、これまでに私たちが経験したことのない深刻な事態となっています。本学ＳＰＨとして、さまざまな課題にどう対処していくべきか、中長期的な視点でとらえようというものです。
+      学生ら…
+  source: https://ch.u-tokyo.ac.jp/series/?id=SAVrJz9G6QMp
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Akira Akabayashi
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Yasuki Kobayashi
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Yasuo Ohashi
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Satoshi Sasaki
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: Akito Shimazu
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

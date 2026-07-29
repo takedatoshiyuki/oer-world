@@ -1,0 +1,85 @@
+slug: kyushu-faculty-20-4
+mode: referenced
+externalUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+type:
+- LearningResource
+- Course
+name:
+  ja: 安全学
+description:
+  ja: 安全を客観的・合理的にとらえるための基本的な考え方を扱う講義である。危険の未然防止に向けたリスクアセスメントやリスクマネジメント、関連する安全規格を取り上げるほか、職業人倫理と安全の関係や事故・災害のケーススタディも扱う。
+quotedDescription:
+  text:
+    ja: '安全を客観的、合理的にとらえて理解するための基本的な考え方を理解することが、目的です。
+
+      安全確保のためには「危険」を未然に防ぐことが最も重要ですが、
+
+      その手法としてリスクアセスメント、リスクマネジメント等を紹介し、それに関する世界的な安全規格などを解説します。
+
+      また、現代のような高度科学技術社会においては、組織と個人が複雑に関わっています。そのなかで「職業人倫理」が安全に直接につながる事象も起きており、このことについても考察します。
+
+      実際に起こった事故、災害などを取り上げ、ケーススタデイも行い、この講義を通して「安全は設備、制度と教育で確保する必要があること」を理解します。'
+  source: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+  note: 九州大学OCW (QOCW) 「授業の目的」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: http://ocw.kyushu-u.ac.jp/
+  summary:
+    ja: サイトのライセンス表記が確認できない（規約類を含むヘッダ・ナビの PHP が壊れて非表示）。トップページの説明文は「自由にご利用いただける」と述べるが条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 工藤 和彦 特任
+  affiliation:
+    name: 九州大学
+publisher:
+- type: Organization
+  name: 九州大学
+sourceCollection:
+  name: 九州大学OCW (QOCW)
+  url: http://ocw.kyushu-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- script
+about:
+- education
+keywords:
+- 基幹教育・全学教育
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 1.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4/1.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+- name: '講義資料: 2.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4/2.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+- name: '講義資料: 3.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4/3.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+- name: '講義資料: 4.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4/4.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+- name: '講義資料: 5.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4/5.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+- name: '講義資料: 6.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4/6.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+- name: '講義資料: 7.pdf'
+  contentUrl: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4/7.pdf
+  page: http://ocw.kyushu-u.ac.jp/menu/faculty/20/4.html
+extensions:
+  faculty: 基幹教育・全学教育
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。datePublished は講義資料
+    PDF 内部の作成日 (CreationDate) 由来（サイトに日付情報が無いため）。description は gpt-5.4-mini が生成。
+  confidence: high

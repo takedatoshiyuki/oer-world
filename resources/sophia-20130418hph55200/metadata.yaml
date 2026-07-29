@@ -1,0 +1,53 @@
+slug: sophia-20130418hph55200
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20130418hph55200/
+type:
+- LearningResource
+- Course
+name:
+  ja: 論理学／LOGIC
+description:
+  ja: 哲学における論理を、古典哲学から現代哲学までの流れに沿って扱う講義である。ゼノン、プラトン、アリストテレス、カント、ヘーゲル、フレーゲ、ヴィットゲンシュタインを取り上げ、それぞれの時代の論理の考え方を追う。
+quotedDescription:
+  text:
+    ja: 哲学の論理を主題とします。内容は，古典哲学の論理：ゼノンとプラトンの弁証法・アリストテレスの範疇論・命題論・分析論・弁証論， 中世哲学の論理：存在と超越の論理 近代哲学の論理：カントの超越論的論理・ヘーゲルの弁証法的論理
+      現代哲学の論理：記号論理学の展開―フレーゲからヴィットゲンシュタインまで|（この授業は、上智大学のビデオにて撮影されます）
+  source: https://ocw.cc.sophia.ac.jp/lecture/20130418hph55200/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 田中 裕
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 文学部 哲学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

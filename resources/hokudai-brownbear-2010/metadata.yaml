@@ -1,0 +1,89 @@
+slug: hokudai-brownbear-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/brownbear-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 北大総合博物館で学ぼう、ヒグマ学入門（2010）
+description:
+  ja: ヒグマに関連する各専門家の研究成果を取り上げ、ヒグマを手がかりに自然と社会の関係を考える講義である。内容には、旧石器時代から人類とクマが関わってきたことや、アイヌをはじめとする極東諸民族との関係も含まれる。
+quotedDescription:
+  text:
+    ja: クマは食物連鎖の頂部にあって、古く旧石器時代から人類と緊張のある関わりをもってきました。とくにアイヌをはじめ極東諸民族はクマにたいして深い畏敬と敬愛の念をいだき、独特の付き合いをしてきたことが知られています。日本列島最大の陸上哺乳動物であるヒグマに関連するする各専門家の最新の研究成果を学んで、ヒグマを通して自然と社会の関係を考えましょう。
+  source: https://ocw.hokudai.ac.jp/lecture/brownbear-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 天野 哲也
+  affiliation:
+    name: 総合博物館
+- type: Person
+  name: 増田 隆一
+  affiliation:
+    name: 理学研究院
+- type: Person
+  name: 高橋 英樹
+  affiliation:
+    name: 総合博物館
+- type: Person
+  name: 大原 昌宏
+  affiliation:
+    name: 総合博物館
+- type: Person
+  name: 小野 裕子
+  affiliation:
+    name: 藤女子大学
+- type: Person
+  name: 大舘 智志
+  affiliation:
+    name: 低温科学研究所
+- type: Person
+  name: 前田 菜穂子
+  affiliation:
+    name: のぼりべつクマ牧場
+- type: Person
+  name: 関口 明
+  affiliation:
+    name: 札幌国際大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- natural_sciences_math
+keywords:
+- ヒグマ
+- 自然環境
+- 生態系
+- アイヌ民族
+- クマ送り
+- 地域社会
+- 理学／自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 低温科学研究所
+  targetAudience: 1年次～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

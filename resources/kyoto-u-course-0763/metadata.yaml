@@ -1,0 +1,81 @@
+slug: kyoto-u-course-0763
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/763/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成30年度 京都大学図書館機構講演会「オープンサイエンス時代の大学図書館ーこれから求められる人材とはー」
+description:
+  ja: オープンサイエンスをめぐる政策動向を踏まえ、大学図書館に求められる機能と職員像を扱う講演会である。研究データの管理や公開、研究者の取り組み、大学図書館における支援事例を通して、オープンサイエンス時代の図書館の役割を考える内容である。
+quotedDescription:
+  text:
+    ja: '主催：国立大学図書館協会近畿地区協会（主担当：京都大学図書館機構）
+
+      協賛：大学図書館近畿イニシアティブ
+
+      ウェブページ　https://www.kulib.kyoto-u.ac.jp/bulletin/1379938
+
+       
+
+      概要
+
+      平成30年6月15日に閣議決定された「統合イノベーション戦略」では、オープンサイエンスのためのデータ基盤の整備の目標として、研究データの管理・利活用の方針・計画の策定、機関リポジトリを活用した公開、人材の育成等を掲げている。文部科学省や内閣府の審議会等やＧ７科学大臣会合等の世界動向においても、「オープンサイエンス」は必須のキーワードとなっており、大学図書館を取り巻く学術世界は、今まさにオープンサイエンス時代に入ろうとしている。
+
+      この時代状況において、大学図書館には、従来の機関リポジトリに新たな機能を付加し、その機能を十全に実現する研究支援能力をもつ職員を育成することが強く期待されている。こうした期待に応えるものとして、国立大学図書館協会では「ビジョン2020」において、職員の資質向上により、学術情報流通環境の変化の中で国立大学図書館に期待される新たな機能を実現することを目標としている。このため、オープンサイエンス時代を切り開いていく大学図書館の機能と人材像を明確にすることを目指して講演会を開催する。
+
+      本講演会では、①オープンサイエンスを巡る政策動向と求められる大学図書館機能への展望、②研究データのオープン化に向けた研究者の取り組みと図書館職員への期待、③大学図書館におけるオープンサイエンスの支援事例に関する講演を柱として、情報共有と意見交換を行うこととしたい。'
+  source: https://ocw.kyoto-u.ac.jp/course/763/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 竹内 比呂也（千葉大学附属図書館長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: アカデミック・リンク・センター長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 梶田 将司（京都大学情報環境機構教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: アカデミックデータ・イノベーション ユニット長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山中 節子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-02-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

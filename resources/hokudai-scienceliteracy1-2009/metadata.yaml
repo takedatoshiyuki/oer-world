@@ -1,0 +1,108 @@
+slug: hokudai-scienceliteracy1-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 ゼロからはじめる「科学力」養成講座1(2009)
+description:
+  ja: 自然科学の基本的な考え方から、力・エネルギー・熱・電気磁気・光・原子・量子・化学結合までを順に扱う講義資料を公開する。物理と化学を中心に、自然科学全体を見渡しながら科学リテラシーの基礎を身につける構成である。
+quotedDescription:
+  text:
+    ja: '理系や文系に関係なく、科学リテラシー確立のためのコースであり、科学者になるためのコースではありません。このコースでは、主に物理と化学を学び、力と物質について理解しましょう。
+
+      また社会問題などにあらわれる地球温暖化や放射性廃棄物の問題は、人間の決めた分野で言うと、物理、化学、生物、地球物理にまたがっています。このため、これらの問題を議論するときには総合的な科学的知識が必要となります。そうした総合的な知識を得るためには、統合的なサイエンスのコースが最も適しています。このコースでは自然科学１および自然科学２で自然科学のすべてを概観できるようになっています。またこれにより自然界の構造的理解が明確にできるようになるでしょう。予備とする基本的な知識も必要ありませんので文系でも安心して受講できます。また、理系学生でもサイエンス全般にわたっての理解や、サイエンスとは何かを知っておくことは重要です。このコースでは、サイエンスに対しての知識と、大局的な理解を目指します。
+
+      この授業は、アメリカでその重要性が認識され、現在広く行われている統合的科学授業に基づいています。日本では、このコースが最初の試みとなりますが、世界標準の内容に基づきますので安心して受講してください。
+
+      科学・技術の世界 ゼロからはじめる「科学力」養成講座2（2009年度）'
+  source: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 鈴木 久男
+  affiliation:
+    name: 北海道大学理学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- サイエンス
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 自然科学とは何か？'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 自然界の秩序'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: ニュートンの法則'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: エネルギー'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 熱と熱力学の法則'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 磁気と電気の力'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 電気と磁気の融合そして電磁波'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 光と相対性理論'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 原子とボーアの原子モデル'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 量子論の世界と周期表'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 化学と化学結合'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 炭素の化学と化学反応'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-12.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 物質の性質と現代的素材'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-13.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 原子力'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/10/ScienceLiteracy1-2009-Text-14_revised20231006.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+- name: '講義資料: 力と物質の基本法則'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ScienceLiteracy1-2009-Text-15.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/scienceliteracy1-2009
+extensions:
+  targetAudience: 1年生～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

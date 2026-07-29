@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0047
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/47/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第37回 京都大学品川セミナー「木のミクロな仕組みから分かること、見えること。」
+description:
+  ja: この講義は、木材標本室（Xylarium）とその役割を手がかりに、木のミクロな仕組みから何が読み取れるかを扱う。京都大学の材鑑調査室にある木材標本や古材、ならびにその収集・整理・公開・共同利用のあり方が紹介される。
+quotedDescription:
+  text:
+    ja: 'ハーバリウムHerbariumとは、ラテン語（herba草＋ariumに関する場所）に由来し、植物標本室のことであることは一般に知られるところでしょう。植物学者が分類の仕事に従事し、新種を発見したり、標本の整理をするところです。ザイレムxylem（木部の意）と併せて、Xylarium、つまり木材標本室が存在することをご存知でしょうか。実は、イギリスのロンドン南西部にあるキュー王立植物園が中心となって、世界中のXylariumのディレクトリーを作製しており、インターネットで検索することができます。Xylariumは、木材の標本を採集し、整理・管理し、また世界中の同様の施設と材の交換を行います。この作業によって資料が分散管理されることになり、貴重な学術資料として、また生物多様性に関わる生物標本として維持管理されています。木材解剖学、樹木生理学、年輪学、保存学などの研究の中心となっている場合が少なくありません。
+
+      京都大学のXylariumは材鑑調査室という名前で呼ばれています。他の施設に比べて特徴のある木材標本は、図１に示すような歴史的建築物由来の古材です。これら材鑑調査室のコレクションの一部は、大学のオープンキャンパス、講習会、講演会の際に一般公開しています。また、生存圏研究所の全国共同利用・共同研究の資質としても利活用されています。'
+  source: https://ocw.kyoto-u.ac.jp/course/47/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 杉山 淳司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-06-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生存圏研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

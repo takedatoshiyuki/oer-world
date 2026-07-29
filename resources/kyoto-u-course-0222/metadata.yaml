@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0222
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/222/
+type:
+- LearningResource
+- Course
+name:
+  ja: 祇園祭とくらしの関係って？
+description:
+  ja: 祇園祭と人々のくらしとの関係を扱う講義である。京都大学フィールド科学教育研究センターが提供し、柴田昌三と浅利美鈴が担当する。
+quotedDescription:
+  text:
+    ja: 詳細（京都大学フィールド科学教育研究センター）http://fserc.kyoto-u.ac.jp/wp/blog/archives/8207
+  source: https://ocw.kyoto-u.ac.jp/course/222/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 柴田 昌三
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 浅利 美鈴
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-07-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

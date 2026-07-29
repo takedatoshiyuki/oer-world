@@ -1,0 +1,197 @@
+slug: icu-ge-ges051-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges051_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: Media and Cultural Signs S２：メディアと記号'
+description:
+  ja: メディアを通して社会的に構築される意味を、文化記号論の立場から考える講義である。記号論の理論を踏まえつつ、メディアスポーツを題材にジェンダー、人種、国民、企業、スターなどの観点から記号を読む実践を扱う。後半には受講者の研究発表や、ジェンダーと身体イメージ、メディアと記号をめぐる討議も含まれる。
+quotedDescription:
+  text:
+    ja: '様々なメディアを通して構築される私たちの周りの世界の意味を読み解いていく。文化記号論的な考え方に基づき、日常の「当たり前」を見直すために、多様な記号のクリティカルな意味解釈を試みる。
+
+      The course examines how meaning is socially constructed through media. Semiotic analysis allows
+      us to reveal the meanings of various signs which we may overlook in everyday life and to open up
+      the possibility of different interpretation
+
+      Contents of Lectures
+
+      17
+
+      Lectures / 2 Videos
+
+      Sep 09: Lecture 1
+
+      ガイダンス
+
+      Sep 12: Lecture 2
+
+      メディア・記号を読み解く理論(1)
+
+      「言語、この恣意的なもの」
+
+      Sep 16: Lecture 3
+
+      メディア・記号を読み解く理論(2)
+
+      「記号とイデオロギー」
+
+      Sep 19: Lecture 4
+
+      メディア・記号を読み解く理論(3)
+
+      「作品／テクスト／密猟」
+
+      Sep 26: Lecture 5
+
+      メディア・記号を読み解く理論(4)
+
+      「桐島君と盗まれた手紙」
+
+      Sep 30: Lecture 6
+
+      メディアを読み解く実践(1)
+
+      「メディアスポーツ論・ジェンダー」
+
+      Oct 03: Lecture 7
+
+      メディアを読み解く実践(2)
+
+      「メディアスポーツ論・人種」
+
+      Oct 07: Lecture 8
+
+      メディアを読み解く実践(3)
+
+      「メディアスポーツ論・国民」
+
+      Oct
+
+      10
+
+      : Lecture
+
+      9
+
+      メディアを読み解く実践(4)
+
+      「メディアスポーツ論・企業」
+
+      Oct 14: Lecture 10
+
+      メディアを読み解く実践(5)
+
+      「メディアスポーツ論・スター」
+
+      Oct 1
+
+      7
+
+      : Lecture
+
+      11
+
+      みんなの研究発表(1)
+
+      Oct 21: Lecture
+
+      12
+
+      みんなの研究発表(2)
+
+      Oct
+
+      24
+
+      : Lecture
+
+      13
+
+      みんなの研究発表(3)
+
+      Oct
+
+      28
+
+      : Lecture
+
+      14
+
+      みんなの研究発表(4)
+
+      Oct
+
+      31
+
+      : Lecture
+
+      15
+
+      みんなの研究発表(5)
+
+      Nov
+
+      07
+
+      : Lecture
+
+      16
+
+      ＜講義＞「ジェンダーと身体イメージ」
+
+      Nov
+
+      1
+
+      1
+
+      : Lecture
+
+      17
+
+      グループ・ディスカッション（題目：メディアと記号について）'
+  source: https://ocw.info.icu.ac.jp/ge/ges051_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 有元健
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES051 | Course Schedule: 4*/M, 4*/TH | Update: 2013.11.27'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

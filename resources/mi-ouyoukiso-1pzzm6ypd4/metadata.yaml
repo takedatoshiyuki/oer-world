@@ -1,0 +1,51 @@
+slug: mi-ouyoukiso-1pzzm6ypd4
+mode: referenced
+externalUrl: https://youtu.be/-1pzZM6yPD4
+type:
+- LearningResource
+- Course
+name:
+  ja: 過学習と交差検証法（滋賀大学・数理DS-AI教育 応用基礎レベル）
+description:
+  ja: 過学習と交差検証法を扱う講義で、滋賀大学が担当し、数理・データサイエンス・AI教育強化拠点コンソーシアムから提供される。2021年開講で、機械学習の基礎と展望に関する項目に位置づけられている。
+inLanguage:
+- ja
+usageTerms:
+  url: https://www.mi.u-tokyo.ac.jp/consortium/e-learning_ouyoukiso.html
+  summary:
+    ja: クリエイティブ・コモンズ 表示-非営利-継承（CC BY-NC-SA。コンソーシアムページの表記で、版の明示なし）に従って利用可。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 滋賀大学
+publisher:
+- type: Organization
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+sourceCollection:
+  name: 数理・データサイエンス・AI教育強化拠点コンソーシアム
+  url: https://www.mi.u-tokyo.ac.jp/consortium/
+datePublished: '2021'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- slide
+about:
+- ict
+keywords:
+- データサイエンス
+- 応用基礎レベル
+- 3-3. 機械学習の基礎と展望（☆）
+audience:
+- student
+- teacher
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 3-3. 機械学習の基礎と展望（☆）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。数理・データサイエンス・AI教育強化拠点コンソーシアムのモデルカリキュラム対応教材リストに基づく。datePublished
+    は動画は YouTube 公開年、スライドはファイル名または PDF 内部の作成年。description は gpt-5.4-mini が生成。
+  confidence: high

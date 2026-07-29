@@ -1,0 +1,60 @@
+slug: sophia-20110416lastlecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110416lastlecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'リンダ・グローブ 教授 最終講義 Reading China from the Villages: Studying Grassroots Change in 20th Century North
+    China'
+description:
+  ja: 20世紀北中国を対象に、村落から中国を読み解く視点で草の根の変化を扱う講義の教材である。2011年4月16日に行われた最終講義に関する資料が公開されており、英語版と日本語版らしきファイルを含む。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: リンダ
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: グローブ
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 最終講義
+audience:
+- general_public
+materials:
+- name: '講義資料: 20110416lastlecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110416lastlecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110416lastlecture/
+- name: '講義資料: 20110416lastlecture_e.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110416lastlecture_e.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110416lastlecture/
+- name: '講義資料: 110416lastlecture_j.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/110416lastlecture_j.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110416lastlecture/
+extensions:
+  faculty: 国際教養学部 国際教養学科
+  term: 2011/04/16
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

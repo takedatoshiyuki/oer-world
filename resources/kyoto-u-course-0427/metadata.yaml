@@ -1,0 +1,117 @@
+slug: kyoto-u-course-0427
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/427/
+type:
+- LearningResource
+- Course
+name:
+  ja: 補助教材「ベクトルから行列へー線形性とは何かー」
+description:
+  ja: ベクトルから行列へと進みながら、線形性という考え方を軸に線形変換やその行列表現を学ぶ教材である。行列の積、逆行列、正則行列と特異行列までを含み、各テーマごとの講義資料と解答集が公開されている。
+quotedDescription:
+  text:
+    ja: 'ILAS 自習用補助教材
+
+      ベクトルから行列へ — 線形性とは何だろうか?
+
+      「大学で初めて行列を学ぶ学生諸君へ」
+
+      ILAS(Institute for Liberal Arts and Sciences, 国際高等教育院)の数学教室では,表題の自 習用テキストと,その内容を 10 本のビデオにしたものを用意しました.旧課程で行列を学習し
+      た諸君にも,大学の数学への入り口として役に立つはずです.
+
+      高校で学んだベクトルから大学で初めて学ぶ行列へと,動画とナレーションを通して学んで いく中で,線形性という,数学の「ものの見方」になじんでいってください.
+
+      テキストの中には問も与えられています.このテキストを脳みそを使って読み込み,さらに 手を動かして問を解いてみることで,行列と線形性を自分のものにしていきましょう.問題を 解くときの手助けとして,ビデオ画面のテキストファイルを利用してください.
+
+      皆さんが考える邪魔をしないように,今は解答を載せていませんが,5月の中旬頃には順 に解答をこのサイトに載せていく予定です.'
+  source: https://ocw.kyoto-u.ac.jp/course/427/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 加藤 信一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 鈴木 咲衣
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 俊二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 三輪 哲二
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山木 壱
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 協力：水野良祐
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- その他
+audience:
+- general_public
+materials:
+- name: '講義資料: 教材全体の教科書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 線形結合を作ろう'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: ベクトルの回転を求める'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 線形変換とはなんだろうか'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 線形変換を行列で表す'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 線形変換の合成と行列の積'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 一般行列の積'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 行列演算を使いこなす'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 逆行列を計算しよう'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 2次の正則行列と特異行列'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+- name: '講義資料: 解答集'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/02/2014_vector_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/427/
+extensions:
+  faculty: 国際高等教育院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

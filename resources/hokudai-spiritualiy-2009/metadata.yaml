@@ -1,0 +1,60 @@
+slug: hokudai-spiritualiy-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/spiritualiy-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 三省堂サイエンスカフェin札幌 第5回 スピリチュアリティブームを通して科学と社会を考える(2009)
+description:
+  ja: スピリチュアル・ビジネスや占い、ヒーリングを題材に、科学的な言葉づかいが人の受け止め方にどう作用するかを考える講義である。あわせて、そうした言説を信じる心理やリスクの捉え方、科学をうたう商品・商法を通した科学理解を取り上げる。
+quotedDescription:
+  text:
+    ja: '「あなたの前世を占います」「疲れた心を癒します」。こうした誘い文句で、法外な対価を受取り、占いやヒーリング（癒し）をするとされる団体があります。なかには、人生の悩みについて相談にのり、「守護霊が悪さしている」などと恐怖心をあおり「除霊グッズ」を買わせる場合も。こうした「スピリチュアル・ビジネス」は現代社会に静かな「ブーム」をみせています。一方で、その被害を訴えるケースが報道されることもあります。
+
+      「癒し」の効果を宣伝するために使われる「宇宙エネルギー」や「クオンタム・タッチ」といった「科学的」な装いの言葉は、人々にどのような影響を与えるのでしょうか。そうしたことを信じる人々はどういう心理なのでしょうか。人々はそのリスクをどう認知するのでしょうか。このような話題についても語り合います。また、「ナチュラル・イオンで超美肌」など、「科学的であること」を宣伝するビジネスのありようを通して、人々の科学理解についてもとりあげます。
+
+      第5回三省堂サイエンスカフェin札幌
+
+      日時　2009年10月10日
+
+      場所　三省堂書店札幌本店内UCCカフェ'
+  source: https://ocw.hokudai.ac.jp/lecture/spiritualiy-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 櫻井 義秀
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+keywords:
+- 心理／社会学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

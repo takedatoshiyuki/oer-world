@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0357
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/357/
+type:
+- LearningResource
+- Course
+name:
+  ja: SGU Introductory Lecture “Knots and Braids”
+description:
+  ja: この講義は、数理的な結び目と組みひもを題材に、それらを日常の例の簡略モデルとして捉える考え方を扱う。結び目を3次元空間内の閉曲線として定義し、組みひもとの違いとして群構造の有無に触れる。さらに、組みひもから結び目を作る幾何学的操作を通して、組みひもの構造を結び目の研究に利用する流れを示す。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Mathematical knots are a simplified model of everyday knots in the same way that the straight lines
+      of geometry are a mathematical model for an everyday idea. So a knot in mathspeak becomes an infinitely
+      differentiable closed curve in ordinary three dimensional space. Their study began in earnest in
+      the late 19th century and continues today.
+
+      Mathematical braids are also a simplified model of everyday braids such as those one ties in one’s
+      hair, in a belt or to make rope. We will discuss both these concepts and show how the braids admit
+      a group structure while knots do not. A simple geometrical operation allows one to obtain knots
+      from braids and thereby take advantage of the group structure to study knots.'
+  source: https://ocw.kyoto-u.ac.jp/course/357/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Vanderbilt University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-07-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

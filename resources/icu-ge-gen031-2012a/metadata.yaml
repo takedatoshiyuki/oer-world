@@ -1,0 +1,138 @@
+slug: icu-ge-gen031-2012a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen031_2012a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N2: Experimental Approach to Natural Science Ｎ２：実験付き自然科学入門'
+description:
+  ja: 物理・化学・生物に関する実験を通して、自然を理解するための科学的方法を扱う講義である。講義、発表・討論、実験を組み合わせ、ピペットマンの操作やDNA抽出、PCR、電気泳動、結果発表までを含む。
+quotedDescription:
+  text:
+    ja: 'To understand nature and learn scientific methods through experiments in the fields of physics,
+      chemistry and biology. Lecture (explanation, presentation and discussion) and laboratory.
+
+      自然科学の３分野（物理、科学、生物）に関係する実験テーマに取り組むことによって自然を理解するための科学的方法を体験的に学ぶ。講義（説明、発表／討論）と実験からなる。
+
+      Contents of Lectures
+
+      6
+
+      Lectures  /
+
+      6
+
+      Videos
+
+      Oct 23: Lecture 1
+
+      Introduction オリエンテーション
+
+      Lecture Notes
+
+      Oct 25: Lecture 2
+
+      (1) ピペットマンの使い方を練習しよう
+
+      (2) 毛髪サンプル採集・DNA抽出反応開始
+
+      Lecture Notes
+
+      Oct 30: Lecture 3
+
+      講義・各班テーマの発表
+
+      Nov 1: Lecture 4
+
+      (3) PCR反応
+
+      (4) タマネギからDNAを抽出〜DNAを見てみよう！
+
+      ※Videos are condensed version of course.
+
+      ※この動画は授業内容をまとめたダイジェスト版を公開しています。
+
+      実験の説明
+
+      Lecture Notes
+
+      PCR反応
+
+      DNA反応
+
+      アガロースゲルの作製
+
+      Nov 6: Lecture 5
+
+      (5) 電気泳動
+
+      ※Videos are condensed version of course.
+
+      ※この動画は授業内容をまとめたダイジェスト版を公開しています。
+
+      実験の説明
+
+      Lecture Notes
+
+      アガロースゲルの電気泳動
+
+      Nov 8: Lecture 6
+
+      結果発表とプレゼン 各班1０分程度＋質疑応答'
+  source: https://ocw.info.icu.ac.jp/ge/gen031_2012a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 小瀬博之
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GEN031 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1w1Ru4uFAvLXfcIhEwniZ8rxbHWygnjrD/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen031_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/14isI-hkBeP2-gKAd-_TC2HLRg2ETGBJ2/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen031_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10upNmVS49ZPQLg6Lp3sIzWZZX6tVrkYY/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen031_2012a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1kksSCo_IYV9uBKlPS4D7N_DE_TC-L9Lv/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen031_2012a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

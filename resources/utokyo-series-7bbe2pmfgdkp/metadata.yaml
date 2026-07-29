@@ -1,0 +1,71 @@
+slug: utokyo-series-7bbe2pmfgdkp
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=7bBe2pMFGDkP
+type:
+- LearningResource
+- Course
+name:
+  ja: トマ・ピケティ教授東大講義「21世紀の資本」
+description:
+  ja: 東京大学が2014年に提供した、英語話者向けの講義である。トマ・ピケティを招き、貧富の差や所得分配に関する研究の軌跡と、格差というテーマを扱う。
+quotedDescription:
+  text:
+    ja: "2014年の英訳版の出版以降、世界的に注目を浴びている書籍『21世紀の資本』。著者である経済学者のトマ・ピケティ教授をお招きし、東大生をおもな対象に特別講義を開催しました。 貧富の差や所得の分配について膨大なデータを分析した研究の軌跡や、格差というテーマそのものについて、皆様の考えを深める一助になれば幸いです。\
+      \ \n \n  トマ・ピケティ東大講義「21世紀の資本」 \n  主催：東京大学     附属図書館    、  …"
+  source: https://ch.u-tokyo.ac.jp/series/?id=7bBe2pMFGDkP
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: トマ・ピケティ
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉見 俊哉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石田 英敬
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- business_law
+- ict
+keywords:
+- 経済・金融
+- 政治・法律
+- Insights from Global Experts and International Leaders
+- 格差
+- 経済学
+- 経済格差
+- 資本主義
+- ビッグデータ
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

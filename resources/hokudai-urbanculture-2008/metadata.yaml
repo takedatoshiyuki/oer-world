@@ -1,0 +1,59 @@
+slug: hokudai-urbanculture-2008
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/urbanculture-2008
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学院教育 現代都市文化論演習（2008）
+description:
+  ja: この演習は、都市や地域の活性化をめぐる「まちづくり」の課題を検討し、それを超える取り組みとしての「まちそだて」を理論的に整理する。北海道の事例を手がかりに、可能性と改良点を考えながら「北海道型まちそだて」モデルの構築をめざす。
+quotedDescription:
+  text:
+    ja: '本演習は、「まちそだて」と呼ばれるべき営為について、その根拠を理念レベルにまで遡って理論的に明確化した上で、有効なモデルを構築することを目的とする。
+
+      「まちづくり」の必要性が叫ばれてすでに久しいが、一旦「まちづくり」に成功した「まち」が、数年後に再び活気を失ってしまうという現象も頻繁に見受けられる。「まちづくり」の成功と失敗の悪循環が随所で観察されるのである。この悪循環は克服できないのであろうか。
+
+      本演習では、「まちづくり」の問題点の検証をふまえて、悪循環を超克する取り組みとしての「まちそだて」を提唱し、その事例を北海道に求め、事例がもつ可能性と改良点の考察に基づく「北海道型まちそだて」モデルの創出を追求する。近代化の独特な歴史を備えているがゆえに、北海道には、日本の他地域の発想を超えた「まちそだて」の可能性があるのではなかろうか。事例が内包するユニークさから斬新なモデルが生まれはしまいか。'
+  source: https://ocw.hokudai.ac.jp/lecture/urbanculture-2008
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 筑和 正格
+  affiliation:
+    name: 北海道大学大学院メディア・コミュニケーション研究院/国際広報メディア観光学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 心理／社会学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 国際広報メディア･観光学院／メディア･コミュニケーション研究院
+  targetAudience: 観光創造専攻修士課程 国際広報メディア・観光学院
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

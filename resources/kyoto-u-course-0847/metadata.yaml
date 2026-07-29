@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0847
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/847/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際研究集会「CEFRの理念と現実」
+description:
+  ja: この教材は、CEFRが言語教育に与えてきた影響と、日本での受容や運用をめぐる論点を扱う。教育学的な側面だけでなく社会学的な観点からも検討し、CEFRの理念と現実の差異、適用の根拠、位置づけを考える。あわせて、CEFRの特長と限界を批判的に整理し、包括的な理解をめざす内容である。
+quotedDescription:
+  text:
+    ja: '開催趣旨
+
+      CEFRは公開されて17年が経過し、言語教育界の「標準モデル」として世界各国の言語教育に圧倒的な影響を与えている。2018年にはCEFR補足版が刊行され、CEFRは言語コミュニケーションに関わる能力を網羅的に測定しうる装置へと進化しつつある。
+      日本においてCEFRはほぼ無批判的に受容され、英語教育のカリキュラムである CEFR-Jや、日本語教育のカリキュラムであるJapan スタンダードといった個別言語のカリキュラムがCEFRを参照の上で作成され、
+      CEFRに準拠した外国語教育のカリキ ュラムを作成し、さらに個別のCAN-DOを制作している学校もある。さらには2020年からの大学入試にCEFRの共通参照レベルを導入することが検討され、CEFR
+      は日本の外国語教育の中核へと位置づけられつつある。
+
+      しかし、CEFRとはヨーロッパ統合の流れにおいて作成された教育資材であり、ヨーロッパ統合と無関係の日本で導入することにどのような根拠があるのか。CEFR は言語能力の測定装置としては利用されているが、はたして複数言語の学習や教育の価値は推進されているのだろうか。CEFRの訴える外国語教育の理念は日本の教育現場においてどれほど意識されているのだろうか。また、多文化共生社会の実現には貢献しているのだろうか。
+
+      国際研究集会「CEFRの理念と現実」では、CEFRの理念を教育学的観点だけではなく、社会学的次元においても検証し、実際の運用を批判的に討議し、CEFRの特長と限界を明らかにし、 CEFRの包括的な理解をめざす。'
+  source: https://ocw.kyoto-u.ac.jp/course/847/
+  note: 京都大学OCW 「開催趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-03-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

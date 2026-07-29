@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0717
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/717/
+type:
+- LearningResource
+- Course
+name:
+  ja: '“MOFs, microfluidics and micro-organisms”: A crash course in complex variable techniques for Stokes
+    flow modelling'
+description:
+  ja: この講義は、複素解析の手法を用いて Stokes flow のモデル化を行うための内容を扱う。低 Reynolds 数の流体力学に現れる問題を題材に、MOFs や superhydrophobic
+    surfaces、微生物の運動などへの適用例を示す。あわせて、Stokes 方程式や複素関数を用いた表現、conformal mapping、境界積分法などの基礎的な手法を導入する。
+quotedDescription:
+  text:
+    ja: 'This lecture course will introduce how to use the mathematics of complex analysis to study a
+      variety of technologically important problems of slow viscous flows (“Stokes flows”). Such complex
+      variable techniques are rarely used in the study of low-Reynolds-number hydrodynamics even though
+      the methods are versatile and powerful and, moreover, are increasingly relevant in a variety of
+      new technological applications in nano- and micro-fluidics, colloid science and biomechanics.
+
+      The lectures will be of interest to students wishing to acquire a novel armoury of skills to tackle
+      real problems in applications, and to those seeking simply to learn new techniques in complex variable
+      methods. As examples, we will show how the techniques can be applied to: • the fabrication of microstructured
+      optical fibres (“MOFs”) • superhydrophobic surfaces • the locomotion of microorganisms and low-Reynolds-number
+      swimmers.
+
+      Principal topics: Stokes equations; reversibility and the “scallop theorem”; fundamental singularities
+      of Stokes flows (stokeslets, stresslets, rotlets); the Lorentz reciprocal theorem; Goursat representation
+      of biharmonic fields in terms of analytic functions; conformal mapping; free boundary problems;
+      mixed boundary value problems; transform techniques; boundary integral methods.'
+  source: https://ocw.kyoto-u.ac.jp/course/717/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Darren Crowdy（Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Imperial College London
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-10-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

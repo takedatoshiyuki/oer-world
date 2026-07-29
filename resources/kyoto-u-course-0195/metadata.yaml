@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0195
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/195/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第73回 京都大学丸の内セミナー「ホウ素中性子捕捉療法による難治性ガンに対する取り組み」
+description:
+  ja: ホウ素中性子捕捉療法（BNCT）の治療原理を中心に、これまでの臨床成績と今後の展望を扱う講義である。放射線治療の一つとしての位置づけに加え、再発ガンや浸潤性のガン、多発性のガンへの適応が取り上げられている。加速器を用いたBNCTの治験開始にも触れる。
+quotedDescription:
+  text:
+    ja: 'ホウ素中性子捕捉療法(Boron Neutron Capture Therapy: BNCT)は、放射線治療の1つである。近年、放射線治療は、高精度放射線治療と称される照射技術のめざましい進歩、我が国が世界をリードする粒子線治療である陽子線治療、重粒子線治療の施設数の増加により､ガン治療の3本柱の1つとして、より大きな役割を果たすようになっている。
+
+      　京都大学原子炉実験所で取り組んでいるBNCTが、上記の他の放射線治療と大きく異なる特徴は、「ガン細胞選択的重粒子線治療」という言葉で表現される。後半の「重粒子線治療」は、BNCTが、炭素イオン線を使用する重粒子線治療施設から、成果が報告されているように、通常のX線を使用する放射線治療に抵抗性のガンに対しても良好な治療効果が期待される特長を有していることを示している。前半の「ガン細胞選択的」は、BNCTの非常にユニークな特長を示している。BNCTは、本講演で解説する治療原理により、ガン細胞に対して､すぐ横に並んでいる正常細胞より、大きな放射線量を照射することが可能である。この特長を利用することにより、BNCTは、通常は2回目の放射線治療が不可能な、放射線治療後の部位に再発したガンや、周囲の正常組織に染みこむように拡がるガン、放射線に弱い臓器である肝臓や肺に拡がる多発性のガンに対して適応が可能である。
+
+      　BNCTは体の奥深くにあるガンに対しては、適応することが難しいなどの欠点もあるが、他の放射線治療との組み合わせなどにより、難治性ガンに苦しむ患者さんに、新しい治療法を提示できる可能性がある。また、現在、加速器から発生させた中性子を使用するBNCTの治験も開始されている。本講演では、BNCTの原理、これまでの臨床成績、今後の展望について紹介したい。'
+  source: https://ocw.kyoto-u.ac.jp/course/195/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 鈴木 実
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-08-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 複合原子力科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

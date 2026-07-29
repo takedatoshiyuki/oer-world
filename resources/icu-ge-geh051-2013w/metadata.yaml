@@ -1,0 +1,78 @@
+slug: icu-ge-geh051-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/geh051_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'H2: Behavioral Sciences and Humanistic Sciences (A) Ｈ２：行動の科学・人間性の科学（Ａ）'
+description:
+  ja: 行動科学と人間性科学の知見を手がかりに、人間の行動の意味や社会生活、人間性を考察する講義である。あわせて、知覚、動機づけ、ストレスなど、人間行動を支える要素についても検討する。
+quotedDescription:
+  text:
+    ja: 'Students are expected to gain a deeper understanding of the meaning of human behavior and various
+      cues so as to consider the human nature and social life as revealed by recent development in the
+      behavioral and humanistic science. This course aims to examine various issues such as perception,
+      motivation and stress that underline human behavior.
+
+      現代の行動科学と人間性科学の諸知見に照らして、人間の行動が持つ意味を深く理解し、社会生活や人間性についての考察を行うと同時に、人間行動を基礎づけている環境の知覚や動機づけ、ストレスなどの問題についても検討する。
+
+      ※Video is partial recording of Course.(Recording on Febrary 20.)
+
+      ※この動画はコースの一部を公開しています。(2月20日収録）
+
+      ※Videos are condensed version of course.
+
+      ※この動画は授業内容をまとめたダイジェスト版を公開しています。
+
+      2013, Winter'
+  source: https://ocw.info.icu.ac.jp/ge/geh051_2013w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 磯崎三喜年
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 森島 泰則
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 西村馨
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014-02-20'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GEH051 | Course Schedule: 4*/M, 4*/TH | Update: 2015.01.21'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

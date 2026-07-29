@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0472
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/472/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第4回 iCeMSラーニングラウンジ：小島 洋児
+description:
+  ja: ヒトのライフサイクルを題材に、受精卵から体の各組織ができる過程と、生殖細胞がどのように発生・分化するかを扱う。iPS細胞を用いた研究の試みを通して、生殖細胞の異常が関わる先天性疾患の発生機序にどう迫るかを述べる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      小島 洋児 さん
+
+      「ヒトのライフサイクルの謎を解読する」
+
+      人の一生は両親の精子と卵子からできた一個の細胞、受精卵から始まります。この一個から体の全組織が形成されますが、一部は生殖細胞となり、それにより私たちの子供が生まれます。このヒトのライフサイクルはどのようにして維持されるのでしょう。生殖細胞の発生や分化の神秘を、iPS細胞を用いて解読する試みについてお話しします。
+
+      斎藤グループではマウスのES細胞から始原生殖細胞を作成する技術を開発してきました。この技術をヒトiPS細胞に応用すれば、これまで固く閉ざされていたブラックボックス「ヒトの生殖細胞の異常による先天性疾患の発生機序」の中をのぞくことができるかもしれません。私は一つでも先天性疾患の分子機序を解明したいと思っています。もしかしたら、予防や治療につながる知見が得られるかもしれません。'
+  source: https://ocw.kyoto-u.ac.jp/course/472/
+  note: 京都大学OCW 「概要」・「小島 洋児 さん」・「「ヒトのライフサイクルの謎を解読する」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 小島 洋児 さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-11-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

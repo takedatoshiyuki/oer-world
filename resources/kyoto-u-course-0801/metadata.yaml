@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0801
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/801/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回 京都大学 − 稲盛財団合同京都賞シンポジウム (KUIP Symposium)
+description:
+  ja: バイオテクノロジーおよびメディカルテクノロジー、数理科学、美術の3分野を、共通テーマのもとで扱うシンポジウムである。2日間にわたり、各分野の専門家が最先端の話題やテーマについて講演する。一般市民、学生、研究者などが参加する場として構成されている。
+quotedDescription:
+  text:
+    ja: 'ウェブページ http://kuip.hq.kyoto-u.ac.jp/ja/archives/2016/about
+
+      概要
+
+      第3回目となる2016年は、2年後の京都賞授賞対象分野である「バイオテクノロジーおよびメディカルテクノロジー」、「数理科学」、「美術」の3分野を取りあげ、「未来への窓 －バイオ・メディカルテクノロジー、数学、美術の眼を通して－」の統一テーマのもと、2日間にわたって開催しました。シンポジウムでは、世界の最先端で活躍中の11名の専門家（うち美術分野の1名はビデオ講演による参加）が一堂に会し、一般市民、学生、研究者などの参加者に対し、学術界と社会の双方から注目されている最先端の話題や興味深いテーマについて熱く語りました。'
+  source: https://ocw.kyoto-u.ac.jp/course/801/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-07-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 芸術・文化
+- 生物学・生命科学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

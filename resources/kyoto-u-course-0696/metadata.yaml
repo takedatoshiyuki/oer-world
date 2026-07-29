@@ -1,0 +1,103 @@
+slug: kyoto-u-course-0696
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/696/
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語科学基礎論 I
+description:
+  ja: 現代の認知科学の中で、言語をどのような心的能力・生物学的認知機構として研究するかを扱う入門講義である。言語の起源や進化にも触れつつ、生物学としての言語学、自然科学としての言語学の考え方を考察する。講義資料では、生成文法から移動、束縛、語彙・機能範疇、項構造までを扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      現代の認知科学における言語の科学的研究に関する入門的講義である。
+
+       
+
+      授業の紹介
+
+      言語は人間という生物種を特徴づける心的能力・生物学的認知機構の一つであり、これを研究・解明することで、人間とはどういう生き物であるのかを理解しようとするのが現代の言語学である。特に近年、学際的研究が推進されている言語の起源と進化の問題にも言及しながら、生物学としての言語学、自然科学としての言語学のあり方を考察する。'
+  source: https://ocw.kyoto-u.ac.jp/course/696/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 藤田耕司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 語学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: "講義資料: 第１回\t科学の方法と自然科学としての言語学"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第２回\t脳内文法の解明に迫る生成文法"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第３回\t普遍文法と言語の発達および進化"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第４回\t経験を超える言語知識の個体発生"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第５回\t構造依存性・合成性と句構造規則"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第６回\tＸバー理論とwh移動"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第７回\t数量詞の作用域"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第８回\t束縛変数としての代名詞・再帰代名詞"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第９回\t語彙範疇、機能範疇と素性分解"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第１０回\t基本語順のバリエーションと主要部媒介変数"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第１１回\t主要部移動と移動の極小性・局所性"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第１２回\t項構造と動詞分類"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+- name: "講義資料: 第１３回\t素句構造理論と今後の課題"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_gengokagakukisoron_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/696/
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

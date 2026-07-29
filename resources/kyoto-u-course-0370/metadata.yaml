@@ -1,0 +1,48 @@
+slug: kyoto-u-course-0370
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/370/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学術情報メディアセンターセミナー “Visual Processing and Understanding of Human Faces and Bodies”
+description:
+  ja: 京都大学の学術情報メディアセンターが開講したセミナーで、金出武雄が担当する。人の顔と身体の視覚処理と理解を扱う内容で、日本語で実施される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 金出 武雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-05-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- ict
+keywords:
+- 工学
+- コンピュータサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

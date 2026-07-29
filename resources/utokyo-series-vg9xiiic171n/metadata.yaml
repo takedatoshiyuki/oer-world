@@ -1,0 +1,84 @@
+slug: utokyo-series-vg9xiiic171n
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Vg9XiiiC171n
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会の形成－人間はいかに共生してきたか（学術俯瞰講義）
+description:
+  ja: 政治、経済、社会、歴史を対象とする社会科学を手がかりに、現代社会の諸課題と社会現象の見方を整理する講義である。各学問領域の知見が現実の社会をどう理解するかに加え、社会における人間の捉え方や社会形成の理念まで扱う。人類がどのように社会を築き、共生してきたかを俯瞰する内容である。
+quotedDescription:
+  text:
+    ja: '現代社会は、国際化、情報化、少子高齢化など複雑な課題に直面しています。今後平和で豊かな社会を形成していくためには、こうした課題に取り組み解決していかなくてはなりません。
+
+      政治、経済、社会、歴史などを対象とする社会科学は、複雑な社会現象を解明し、課題を解決するための知識を蓄積してきました。そして、今日の先端的研究 は、社会における人間の行動や心理のメカニズムに関する多くの理論を生み出してきました。しかし、他方で、学問領域が細分化し、私たちが直面している現象
+      をトータルに理解することが難しくなっていることは否めません。
+
+      各学問領域の研究が、現実の社会現象を理解し、課題を解決する上でどのように役立つのか。そもそもそれぞれの学問が社会現象をどのように捉え、解明しよう としているのか。またこれまで社会における人間がどのように捉えられ、どのような理念に基づいて社会が形成されてきたのか。
+
+      こうした各学問領域の最先端の知識と現実の社会との結びつきを、これから多様な学問領域においてより高度な知識を学ぼうとしている学生諸君に対し、人類がいかに社会を形成し共生してきたかに焦点を当てて、わかりやすく解説するのがこの講義の目的です。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Vg9XiiiC171n
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐々木 毅
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 原 洋之介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田中 明彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 森田 朗
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+- arts_humanities
+- social_sciences
+keywords:
+- 政治・法律
+- 言語・思想
+- 歴史
+- 経済・金融
+- 国際関係
+- 人口・社会問題
+- 政治
+- 思想
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,71 @@
+slug: utokyo-series-52dndquy1oet
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=52dndqUy1oeT
+type:
+- LearningResource
+- Course
+name:
+  ja: 火災発生時の対応について
+description:
+  ja: 学内で火災が起きた場合の対応を扱い、警備員がすぐに来られない場合を含めて、通報や初期消火などの行動を整理する教材である。火災発生時に行うべきことを事前に確認する内容で、英語で提供される学内向けの研修・ガイダンスとして作られている。
+quotedDescription:
+  text:
+    ja: '学内で火災が発生した場合、キャンパスに常駐する警備員が急行することになっています。
+
+      しかし、構内全ての建物に警備員が常駐しているわけではありません。
+
+      遠方の待機場所から駆けつけるまでに時間がかかる場合もあり、その場合は通報や初期消火を自分たちで行う必要が生じます。この動画では、火災が発生した場合に私たちが行うべき行動をまとめています。
+
+      いざというときに慌てないよう、事前に対応を確認しておきましょう。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=52dndqUy1oeT
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 家田 芳之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 古瀬 武彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 林 恵利子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 災害・防災
+- 火災
+- 避難
+- 防災
+- 安全管理
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

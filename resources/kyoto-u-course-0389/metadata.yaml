@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0389
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/389/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第17回総合防災セミナー “A Puzzle About Intensity IX (Modified Mercalli) Ground Motions”
+description:
+  ja: 本教材は、Modified MercalliのIntensity IXをめぐる一つの問題を扱う講義資料である。米国内の複数地点で地震ハザード解析が示す発生頻度と実測の整合に関する課題を取り上げ、その科学的な論点と解決に向けた考えを述べる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      This lecture was given by Prof. John Anderson in the 17th Sogo Bosai Seminar on June 1, 2018, who
+      stayed at Disaster Prevention Research Institute as a visiting professor from University of Nevada.
+      He talked about one large challenge of Intensity IX. The problem is that according to many seismic
+      hazard analyses, it is predicted to happen too often at several locations in the United States where
+      it can be tested. He talked about the scientific challenges this introduces, and some thoughts that
+      he hoped will be useful contributions towards a resolution.'
+  source: https://ocw.kyoto-u.ac.jp/course/389/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: John Anderson（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: University of Nevada）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-06-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: A Puzzle About Intensity IX (Modified Mercalli) Ground Motions'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2018_17th_Sogo_Bosai_Seminar.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/389/
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

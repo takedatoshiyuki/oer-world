@@ -1,0 +1,82 @@
+slug: utokyo-series-23qk1xk4hrhv
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=23qK1XK4hRHv
+type:
+- LearningResource
+- Course
+name:
+  ja: 革新的学びの創造学寄付講座シンポジウム 第1回「学びを支える先端研究」
+description:
+  ja: 東京大学と株式会社ナガセが設立した基金を背景にしたシンポジウムで、寄付講座の設立趣旨を説明する内容を含む。あわせて、学びを支える東京大学の先端研究の一部を紹介する。
+quotedDescription:
+  text:
+    ja: '東京大学と（株）ナガセは、教育を通じたインクルーシブ社会の構築に資するために 「ナガセ東京大学『革新的学びの創造学』未来社会協創基金」を創設しました。 第1回シンポジウムでは、革新的学びの創造学寄付講座の設立趣旨のご説明と
+      学びを支える東京大学の先端研究の一端をご紹介します。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェアをお願いします。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=23qK1XK4hRHv
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 出口 敦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 永瀬 昭幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 野崎 大地
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福留 東土
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 針生 悦子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 廣瀬 通孝
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 蜂須賀 知理
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- ロボット・技術
+- VR
+- 認知
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

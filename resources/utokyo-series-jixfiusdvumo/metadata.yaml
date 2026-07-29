@@ -1,0 +1,51 @@
+slug: utokyo-series-jixfiusdvumo
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=jIxFIusdVuMo
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部 テクノサイエンスカフェ 第31回 知って得する表面の科学～化粧品からエレクトロニクスまで～
+description:
+  ja: 東京大学工学部が小中高生とその保護者向けに開く「東大テクノサイエンスカフェ」の第31回で、表面の科学をテーマに講演・実験・ワークショップを行う。講義名にある通り、化粧品からエレクトロニクスまで、表面に関わる話題を扱う。
+quotedDescription:
+  text:
+    ja: "東京大学大学院工学系研究科・工学部では、工学の魅力を伝える活動の一環として、小中高生とその保護者に向けた「東大テクノサイエンスカフェ」を開催しています。第31回目を迎えた今回は「知って得する表面の科学」をテーマに、講演・実験・ワークショップを開催しました。\n\
+      ★東大テクノサイエンスカフェ\n http://www.t.u-tokyo.ac.jp/foe/admission/t_lab.html \n★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=jIxFIusdVuMo
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 荒井 俊人
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

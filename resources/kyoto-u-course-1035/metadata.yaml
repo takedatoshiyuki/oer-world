@@ -1,0 +1,67 @@
+slug: kyoto-u-course-1035
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1035/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第13回MACSコロキウム
+description:
+  ja: この講義は、脳の神経ネットワークが生む情報処理を分子・細胞レベルで扱い、そこに数理的な視点を加えて論じる。あわせて、細胞内の高濃度な生体分子環境で起こる分子の動きや相互作用を、計算機シミュレーションで調べる内容も含む。
+quotedDescription:
+  text:
+    ja: '「神経系のやわらかい情報処理」
+
+      川口 真也 博士（京都大学理学研究科 生物物理学教室 高次情報形成学講座 教授）
+
+      動物の脳では、膨大な数の神経細胞がつくるネットワークで情報がやり取りされることで、モノを見聞きし、考え、学習するなど神秘的な機能が実現します。脳が記憶をつくる仕組みなど分子や細胞レベルで研究が進み、その理解は流行りの人工知能（AI）の進化にも役立ってきました。
+
+      この講演では、やわらかい計算機としての脳を実現する、分子・細胞のダイナミックな仕組みについて、数理的な視点も取り入れてお話したいと思います。
+
+      「計算機シュミレーションで細胞の中を観る」
+
+      杉田 有治 博士（理化学研究所 開拓研究本部 杉田理論分子科学研究室 主任研究員）
+
+      細胞の中には多くのタンパク質などの生体分子が高濃度で存在します。このような混雑環境で、それぞれの生体分子が固有の機能を発現する分子機構はまだまだよく理解されていません。生体分子の立体構造はX線結晶構造解析などで決定できますが、分子混雑環境における分子ダイナミクスや分子間相互作用を同じように実験的に解析することは困難だからです。私たちは計算機シミュレーションを用いて、この問題に挑んでいます。また、そのために開発しているプログラムや分子モデルについても紹介したいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/1035/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 川口 真也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 杉田 有治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

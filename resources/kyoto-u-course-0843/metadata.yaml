@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0843
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/843/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第11回エネルギー理工学研究所国際シンポジウム “Research Activities on Zero-Emission Energy during the COVID-19 Peril”
+description:
+  ja: 京都大学エネルギー理工学研究所が開催する第11回国際シンポジウムである。研究所と共同利用・共同研究拠点「ゼロエミッションエネルギー研究拠点」が合同で実施し、2020年9月15日から16日に行われる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      2020年9月15日(火)－16日(水)の2日間に、 第11回エネルギー理工学研究所国際シンポジウムを開催する運びとなりました。本シンポジウムは、当研究所と共同利用・共同研究拠点「ゼロエミッションエネルギー研究拠点」とが合同で開催するシンポジウムです。'
+  source: https://ocw.kyoto-u.ac.jp/course/843/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-09-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 自然科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: エネルギー理工学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

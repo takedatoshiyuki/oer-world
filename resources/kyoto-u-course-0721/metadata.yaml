@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0721
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/721/
+type:
+- LearningResource
+- Course
+name:
+  ja: 社会学特殊講義
+description:
+  ja: 京都大学文学研究科で2012年後期に開講された社会学の講義で、太郎丸 博が担当する。使用言語は日本語である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 太郎丸 博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- 社会科学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 文学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

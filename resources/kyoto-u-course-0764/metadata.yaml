@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0764
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/764/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第96回 京都大学丸の内セミナー「ライブ観察で解く脳皮質形成のメカニズム」
+description:
+  ja: 脳神経回路の形成と、その過程で起こる細胞の移動や突起の伸長、配線の仕組みを扱う講義である。脳皮質を形作る際に見られる独特の戦略を取り上げ、その生理的・病理的意義まで考察する。
+quotedDescription:
+  text:
+    ja: '高齢化社会で深刻化しつつあるアルツハイマー病などの神経変性疾患の原因解明と治療法開発に向けて、2013年、米国が国家事業としてBrain Initiativeを開始したのを皮切りに、脳神経回路の全容を解明する大規模プロジェクトが欧州、日本、中国などで次々と立ち上がっています。昨今の光学顕微鏡技術の革新により、これまで捉えることができなかった現象が見えるようになり、複雑な脳神経回路の作動原理が少しずつ明らかにされています。
+
+      　脳という小さな空間で膨大な情報処理を行う神経回路を形成するためには、一千億個近くあるニューロン各々が秩序正しく配列し、緻密な神経突起を正確に配線して正しい相手の突起と効率よく結合する必要があります。脳の発生過程では、各種細胞の誕生、細胞群の大規模な移動、配線する突起の伸長などが同時進行で行われますが、混乱を回避するための細胞の社会的とも言える振る舞いが観察されます
+
+      　本講演では脳皮質を形作る過程に見られる独特の戦略をご紹介し、その生理的、病理的意義について考察します。'
+  source: https://ocw.kyoto-u.ac.jp/course/764/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 見学 美根子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-07-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

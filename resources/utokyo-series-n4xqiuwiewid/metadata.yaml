@@ -1,0 +1,63 @@
+slug: utokyo-series-n4xqiuwiewid
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=N4XqiuWIeWid
+type:
+- LearningResource
+- Course
+name:
+  ja: ホームカミングデイ文学部企画 2012
+description:
+  ja: 東京大学のホームカミングデイにおける文学部企画を収録する。第1部では古井由吉が翻訳と創作を題材に講演し、第2部では安藤宏、中地義和、大宮勘一郎を交えて文学部をめぐるシンポジウムが行われる。
+quotedDescription:
+  text:
+    ja: 第11回ホームカミングデイの文学部企画。第1部は芥川賞・谷崎潤一郎賞等多数の文学賞を受賞した、日本を代表する作家である古井由吉氏（本学文学部ドイツ文学科卒）を招いて、「翻訳と創作と」と題した講演が行われた。第2部では安藤宏教授、中地義和教授、大宮勘一郎教授が加わり、「文学部というところ」というテーマでシンポジウムが開かれた。
+  source: https://ch.u-tokyo.ac.jp/series/?id=N4XqiuWIeWid
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 古井 由吉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 安藤 宏
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中地義和
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大宮 勘一郎
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文化・芸術・文芸
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

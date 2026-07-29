@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0058
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/58/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第51回 京都大学品川セミナー「核変換のための化学分離を探る（原子力問題への化学的取組）」「生命に備わる放射線傷害を修復する仕組」
+description:
+  ja: 本講義は、核変換に向けた化学分離研究と、粒子加速器の原子力分野への応用を扱う2本立てのセミナーである。前半ではADSとアクチノイドの化学分離に関する研究、後半では原子力への応用を中心に粒子加速器研究の現状と将来を取り上げる。
+quotedDescription:
+  text:
+    ja: "「核変換のための化学分離を探る（原子力問題への化学的取組）」山名　元（原子炉実験所・教授) \n福島第一原発事故以来、原子力利用の在り方は、国民レベルでの重大問題になった。中でも、使用済燃料の管理や高レベル放射性廃棄物の最終処分の問題は、社会的に大きな問題となっている。原子炉実験所では、原子力バックエンドの本質問題に向けたソリューションの一つとして、核変換に繋がる、加速器駆動未臨界システム（ADS）の研究を進めている。ADSは、物理的な原理と高度な加速器工学を駆使するシステムであるが、そのためには、アクチノイド等の長半減期の放射性核種の化学分離が必須であることは、あまり知られていない。本講演では、分離核変換に必須である放射性核種の化学分離に関わる研究の最優先課題としてのアクチノイドの化学研究に関して、原子炉実験所で進められている放射化学研究について報告する。\n\
+      「粒子加速器と原子力」森　義治（原子炉実験所・教授) \n粒子加速器はヒッグス粒子の発見に代表されるように、これまで宇宙・物質の根源を探る素粒子物理学の実験的手段としてなくてはならぬものとして発展してきた。一方、粒子加速器の応用として放射光・がん治療等様々な分野で利用されている。なかでも加速器駆動システムによる超長寿命核廃棄物の処理（ADS)等、近年原子力分野への応用が注目されている。本セミナーでは、原子力分野への応用を中心として、粒子加速器開発研究の現状と将来についてご紹介する。"
+  source: https://ocw.kyoto-u.ac.jp/course/58/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山名 元
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 森 義治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-08-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 複合原子力科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

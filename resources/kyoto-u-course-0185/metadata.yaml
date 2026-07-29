@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0185
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/185/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第1回 iCulture 研究会
+description:
+  ja: 京都大学が提供・担当する、2016年開講の「第1回 iCulture 研究会」である。開講部局は「その他」で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

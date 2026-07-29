@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0361
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/361/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第5回 京都大学 − 稲盛財団合同京都賞シンポジウム (KUIP Symposium)「生命の神秘とバランス」
+description:
+  ja: 京都賞受賞者の業績を軸に、社会的関心の高いテーマを扱うシンポジウムである。2018年以降は受賞者1名を招き、その業績に焦点を当てながら、計4名の構成で異分野間の対話を行う場として組まれている。京都大学の教員も企画・運営と講演に関わり、研究成果を一般に共有することを目指す。
+quotedDescription:
+  text:
+    ja: 'ウェブページ http://kuip.hq.kyoto-u.ac.jp/ja/
+
+       
+
+      シンポジウム開催の背景及び趣旨
+
+      稲盛財団のもと、京都賞が創設されてから30年目を迎えた2014年に「京都大学－稲盛財団合同京都賞シンポジウム」は生まれました。
+
+      京都賞は、その理念の素晴らしさと対象分野の広さから、正に我が国が世界に誇る国際賞です。京都賞が、世界のもっと多くの方々に知られ、その受賞者に注目が集まることは、学術分野の進歩とその内容についての理解を促すものです。そして、この京都賞のシンポジウムを企画・運営することは、本学の基本理念である「地球社会の調和ある共存に貢献する」ことに通じるものと考えます。
+
+      京都大学では、2014年～2017年の4年間に、京都賞の3部門12分野を対象とする国際シンポジウム「京都大学－稲盛財団合同京都賞シンポジウム」を本学時計台記念館において開催してきました。毎年のシンポジウムには、当該分野の専門家はもちろんのこと、研究者の卵である大学院生や一般の方にも多数参加いただきました。
+
+      2018年からは開催地を東京に移し、以下のコンセプトのもとで開催します。本シンポジウムの開催により、京都賞が更に注目され、世界中の研究者や芸術家の意欲を掻き立てることを期待しています。
+
+       
+
+      シンポジウムのコンセプト
+
+      招へいする京都賞受賞者の業績を中心に、社会的に関心の高いテーマを設定し、一般の方々が最先端の学術研究の知に触れる機会を提供します。
+
+      2018年からは、これまでに京都賞を受賞された方を1名招へいし、その業績に焦点をあてて開催します。
+
+      京都賞受賞者を核として、多様な異分野間の対話を促す精神を尊重し、多角的な視点からアプローチできるよう、計4名でシンポジウムを構成します。
+
+      京都大学の教員がシンポジウムの企画・運営に携わるほか、講演者として参加し、大学で培ってきた研究成果を、広く一般の方と共有する場とします。
+
+      毎年同じ時期に東京で開催することで、幅広い層の方の知的好奇心を喚起する場としてシンポジウムを定着させます。'
+  source: https://ocw.kyoto-u.ac.jp/course/361/
+  note: 京都大学OCW 「シンポジウム開催の背景及び趣旨」・「シンポジウムのコンセプト」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-07-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

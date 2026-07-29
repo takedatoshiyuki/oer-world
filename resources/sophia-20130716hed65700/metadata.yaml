@@ -1,0 +1,57 @@
+slug: sophia-20130716hed65700
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20130716hed65700/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生涯学習とスポーツ／LIFELONG EDUCATION & SPORTS
+description:
+  ja: この教材は、生涯学習の題材としてスポーツを取り上げ、その諸相と課題を事例とともに扱う。スポーツを通じて生涯学習を考えるための講義資料である。
+quotedDescription:
+  text:
+    ja: 人類の基本的能力であり、生きる力の源でもある「考える」「作る」「遊ぶ」の中で、遊ぶ力は人類の文化を生み出してきた原動力である。人類の偉大な遊び文化であるスポーツは、生涯楽しむことができ、身体的にも、精神的にも、社会的にも豊かで良好な人生を築く強力な機能をもっている。スポーツは、生涯学習に欠くことのできないカリキュラムであり、古代から人と人を結びつけ、コミュニティーを形成していくコミュニケーション・ツールでもある。この授業では、生涯学習題材としてのスポーツの諸相と課題を実際の事例を紹介しながら明らかにしていく。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20130716hed65700/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 師岡 文男
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20130716HED65700.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20130716HED65700.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130716hed65700/
+extensions:
+  faculty: 総合人間科学部 教育学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

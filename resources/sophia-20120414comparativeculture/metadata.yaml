@@ -1,0 +1,61 @@
+slug: sophia-20120414comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20120414comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Networks in Early Modern Japan4
+description:
+  ja: Network Studies research unitが主催する第4回ワークショップとして行われた講義で、2012年4月14日に比較文化研究所で開講された。公開教材として講義資料が2件あり、使用言語は日本語である。
+quotedDescription:
+  text:
+    ja: This is the fourth workshop organized by the Network Studies research unit.
+  source: https://ocw.cc.sophia.ac.jp/lecture/20120414comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Gaye Rowley (Waseda University
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Tokyo)ほか
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 120414comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/120414comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20120414comparativeculture/
+- name: '講義資料: 20120414comparativeculturek.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20120414comparativeculturek.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20120414comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2012/04/14
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

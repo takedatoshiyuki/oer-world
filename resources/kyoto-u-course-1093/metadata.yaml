@@ -1,0 +1,49 @@
+slug: kyoto-u-course-1093
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1093/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済史
+description:
+  ja: 京都大学で開講される「経済史」の講義で、法学部と経済学部を対象として前期に実施される。担当は坂出健で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-04-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 歴史
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 法学部, 経済学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

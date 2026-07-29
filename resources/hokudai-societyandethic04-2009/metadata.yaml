@@ -1,0 +1,54 @@
+slug: hokudai-societyandethic04-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/societyandethic04-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 現代社会と倫理 「企業不正と倫理」（2009）
+description:
+  ja: 企業不正や不祥事の事例を取り上げ、その倫理的側面を会計・監査の観点から扱う講義である。企業や経営者に求められる倫理観だけでなく、企業を監査する会計専門職の倫理観にも触れる。
+quotedDescription:
+  text:
+    ja: 景気が悪くなると、好景気の時には見えなかった経済のひずみが現れる。企業不正、不祥事はその典型である。その多くは、企業やその経営者の倫理観が保持されていれば防げたはずのことであった。一方で、企業を監査する会計専門職にも、高い倫理観が求められている。ここでは、いくつかの企業不正の例を取り上げながらその倫理的側面について、会計・監査の立場から検討していく。
+  source: https://ocw.hokudai.ac.jp/lecture/societyandethic04-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 吉見 宏
+  affiliation:
+    name: 北海道大学大学院経済学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+keywords:
+- ビジネス／経済
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

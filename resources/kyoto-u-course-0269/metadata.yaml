@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0269
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/269/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部オープンセミナー「ひと・社会・工学 －工学のいまを知る－」, 2019
+description:
+  ja: 工学に関する3つの講演をまとめたオープンセミナーで、エネルギーと機械の歴史的な流れ、人工知能の画像認識研究、そして失われた塔の復元を扱う。各回では、技術の背景や具体例を通して、工学の現在の話題を取り上げる。
+quotedDescription:
+  text:
+    ja: '1 「エネルギーと機械 －ワットから250年、アポロ11号から50年などの歴史もふまえて－」
+
+      吉田英生 工学研究科教授（工学部物理工学科）
+
+      2019年は、産業革命を導いたワットの大発明から250年、またアポロ11号の月着陸から50年にあたります。そこでエネルギーと機械が築いてきた歴史をふりかえるとともに、最新のトピックスについてもお話したいと思います。
+
+      2 「AIで視る」
+
+      西野 恒 情報学研究科教授（工学部電気電子工学科）
+
+      計算機に視覚を持たせることを目的とするコンピュータビジョンの研究は、顔認識から自動運転やロボットの視覚に至るまで、我々の生活になくてはならない基盤技術として人工知能研究を牽引してきました。本講演では、材質認識、雑踏における人物行動解析、水の見えのモデル化などを例に、人間が暗黙の内に見ているもの、あるいは見えていないものをコンピュータで見る方法について論じます。
+
+      3 「まぼろしの巨塔を復元する －法勝寺八角九重塔はどのような姿だったのか－」
+
+      冨島 義幸 工学研究科教授（工学部建築学科）
+
+      日本に残る、もっとも高い木造の塔は東寺五重塔で約56ｍ。かつて京都には、これをはるかにうわまわる法勝寺の九重塔が立っていました。しかも、形はふつうの四角ではなく八角形。今ではまぼろしとなったこの巨塔の復元を、建築学や歴史学の視点から考えます。'
+  source: https://ocw.kyoto-u.ac.jp/course/269/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉田 英生
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西野 恒
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 冨島 義幸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-07-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

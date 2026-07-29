@@ -1,0 +1,83 @@
+slug: kyoto-u-course-0527
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/527/
+type:
+- LearningResource
+- Course
+name:
+  ja: MOOCは大学教育をどのように進化させるのか
+description:
+  ja: MOOCの普及が大学教育にもたらす変化を主題に、京都大学のedX参加やKyotoUxとしてのMOOC配信を取り上げる。あわせて、MOOCをめぐる世界の動向と、京都大学での取組、データ分析、実践事例、今後の展望を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「MOOC元年」といわれた2012年から3年。MOOC（大規模オープンオンライン講義）の利用者は世界中に広がり、大学教育のあり方に見直しを迫っています。京都大学は、2013年5月に、日本の大学としては初めて、ハーバード大学とMITを中心とする国際的なMOOCコンソーシアム「edX」に参加し、MOOCの配信を行ってきました。今年度は、本年10月から開始された山極壽一総長による“Evolution
+      of the Human Sociality”（「人類進化論」）をはじめ、KyotoUxとして数本の MOOCの配信が進められています。
+
+      本シンポジウムでは、edXの教育サービス部門のVice Presidentであるキャシー・プー（Kathy Pugh）氏を基調講演者にお迎えし、MOOCを巡る世界の最新の動向や試みについてお話しいただきます。さらに、京都大学におけるMOOCの取組の概要、データ分析、実践事例の紹介、今後への展望と期待等に関する報告と意見交換をおこないます。'
+  source: https://ocw.kyoto-u.ac.jp/course/527/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 飯吉 透
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Kathy Pugh
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 酒井 博之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山田 亮
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山田 亮
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 伊藤 哲史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山内 裕
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-12-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

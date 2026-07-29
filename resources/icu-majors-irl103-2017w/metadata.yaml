@@ -1,0 +1,174 @@
+slug: icu-majors-irl103-2017w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/irl103_2017w
+type:
+- LearningResource
+- Course
+name:
+  ja: Japan’s International Relations 日本の国際関係
+description:
+  ja: 現代日本の国際関係の展開を、冷戦期と冷戦後期を中心に追う講義である。日本の外交政策の歴史的変遷に加え、国内外の制約、安保・貿易・開発の各政策分野、さらに米国、中国、韓国、ASEAN、オーストラリア、EUとの二国間関係を扱う。
+quotedDescription:
+  text:
+    ja: 'Aims to trace the development of contemporary Japan”s international relations, especially in
+      the Cold War and post-Cold War periods.
+
+      Contents of Lectures
+
+      18
+
+      Lectures / 6 Videos
+
+      Dec 5
+
+      Introduction
+
+      I. Historical Development of Japanese Foreign Policy
+
+      Dec 7
+
+      History of Japan’s Foreign Relations 1867-1945
+
+      Dec 7
+
+      History of Japan’s Foreign Relations 1945-1990 (I)
+
+      Dec 12
+
+      Special Guest Lecture: Dr. Christopher Hobson
+
+      Dec 14
+
+      History of Japan’s Foreign Relations 1945-1990 (II)
+
+      Dec 14
+
+      Special Guest Lecture: Dr. Timur Dadabaev
+
+      Dec 19
+
+      History of Japan’s Foreign Relations 1990-2017
+
+      II. Constraints of Japanese Foreign Policy
+
+      Jan 9
+
+      Domestic Constraints of Japanese Foreign Policy
+
+      Jan 11
+
+      International Constraints of Japanese Foreign Policy
+
+      Jan 11
+
+      Discussion about Japan’s FP Constraints
+
+      III. Foreign Policy Fields
+
+      Jan 16
+
+      Security Policy (1)
+
+      Jan 18
+
+      Security Policy (2)
+
+      Jan 18
+
+      International Trade Policy (1)
+
+      Jan 23 International Trade Policy (2)
+
+      Jan 25
+
+      International Development Policy (1)
+
+      Jan 25
+
+      International Development Policy (2)
+
+      Jan 30 Mid-term exam
+
+      IV. Japan’s Bilateral Relations
+
+      Feb 1
+
+      US-Japan Relations I
+
+      Feb 1
+
+      US-Japan Relations II
+
+      Feb 6
+
+      China-Japan Relations
+
+      IV. Japan’s Bilateral Relations
+
+      Feb 8
+
+      Korea-Japan Relations
+
+      Feb 8
+
+      ASEAN-Japan Relations
+
+      Feb 13
+
+      Australia-Japan Relations
+
+      Feb 15
+
+      EU-Japan Relations
+
+      Feb 15
+
+      Bilateral Relations: Discussion Session
+
+      Feb 20 Where is Japan going from here?
+
+      Feb 22
+
+      Discussion of Research Essays
+
+      Final Exam'
+  source: https://ocw.info.icu.ac.jp/majors/irl103_2017w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'International Relations 国際関係学 '
+- 'IRL103 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2019.10.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

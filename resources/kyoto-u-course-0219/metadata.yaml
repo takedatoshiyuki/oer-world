@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0219
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/219/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2014年度 京都大学新任教員教育セミナー
+description:
+  ja: 京都大学の新任教員を対象とした教育セミナーで、プレワークショップと複数のミニ講義、開会挨拶で構成される。大学教育の動向や京都大学の教育改善、学生の学習実態、教養・共通教育、困難を抱えた学生への対応、教育支援資源を扱う。
+quotedDescription:
+  text:
+    ja: '1 プレワークショップ
+
+      「学生に届く声－授業におけるコミュニケーションスキルのためのワークショップ－」
+
+      大阪大学コミュニケーションデザイン・センター特任講師　蓮行
+
+      2 開会挨拶
+
+      京都大学教育担当理事　淡路 敏之
+
+      セッション１　ミニ講義１：｢現在の大学教育の動向と京都大学の教育改善｣
+
+      3 FD研究検討委員会委員長・高等教育研究開発推進センター長　飯吉 透
+
+      セッション２　ミニ講義２：「京大生の学習の実態」
+
+      4 高等教育開発推進センター教授　溝上 慎一
+
+      ミニ講義３：「京大の教育的取組」
+
+      5 「教養・共通教育」
+
+      国際高等教育院副教育院長　喜多 一
+
+      6 「困難を抱えた学生と向き合うには」
+
+      健康科学センター助教　上床 輝久
+
+      7 「京都大学の教育サポート・リソース」
+
+      高等教育研究開発推進センター助教　田中 一孝'
+  source: https://ocw.kyoto-u.ac.jp/course/219/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

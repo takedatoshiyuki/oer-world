@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0049
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/49/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第40回 京都大学品川セミナー「ジュゴン、ウミガメ、オオナマズを追いかける～希少水圏生物の保護と共存」
+description:
+  ja: 東南アジアの希少な水圏生物を対象にした研究を扱い、ジュゴン、ウミガメ、メコンオオナマズの生態解明に向けてタイで行った調査を紹介する。あわせて、発信機や記録計を用いて生物の行動を明らかにするバイオテレメトリー／バイオロギングの手法に触れる。
+quotedDescription:
+  text:
+    ja: '私たちの研究室では、東南アジアをフィールドに絶滅のおそれがある希少な水圏生物を追いかけて来ました。水圏生物の行動は肉眼で観察することは大変むつかしいことです。しかし、近年、電子情報通信技術の発展にともなって、超小型の発信機は記録計を生物に装着することで、こうした水圏に住んでいる生き物の行動を明らかにすることが可能となってきました。こうした研究手法をバイオテレメトリー（生物遠隔測定）と読んでいますが、最近では新しい学術用語としてバイオロギング（バイオ（生物）　＋　ロギング（記録））が定着しています。
+
+      本セミナーでは、ジュゴン、ウミガメ、メコンオオナマズの生態を解明するために、私たちがタイのフィールドで取り組んできた研究の紹介とバイオロギングの可能性を語ります。
+
+      映像内引用資料:国立極地研究所「極」No.9 2013夏号 (http://www.nipr.ac.jp/publication/PDF/Kyoku-no09.pdf）'
+  source: https://ocw.kyoto-u.ac.jp/course/49/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 荒井 修亮
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-09-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

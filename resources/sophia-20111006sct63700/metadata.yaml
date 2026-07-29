@@ -1,0 +1,98 @@
+slug: sophia-20111006sct63700
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+type:
+- LearningResource
+- Course
+name:
+  ja: データベース
+description:
+  ja: データベースの基礎理論として、種類、3層スキーマ、概念データモデル、論理データモデル、ERモデル、RDBと正規化、SQL、データベース管理を扱う。あわせて、SQLを用いたスキーマ設計、データベース操作、ビュー設計の実習を行う。さらに、データベース技術の動向も取り上げる。
+quotedDescription:
+  text:
+    ja: "仮想店舗の商品・顧客管理，新幹線やフライトの予約管理，学校の成績管理など，企業や団体における業務に関わるデータを扱うのが基幹業務システムである．この中核技術がデータベースである．本授業ではこのデータベースに関する基礎的な知識や操作スキルを学ぶ．これにより基幹業務システムを実際に設計・構築する基礎を身につける．|具体的に，情報システムの基盤となるデータベースについて，以下の項目を紹介する．実際にSQLを用いて演習も行う。\n\
+      (1)データベースの基礎理論（データベースの種類，3層スキーマ，概念データモデル，論理データモデル，ERモデル，RDBと正規化，SQL,データベース管理）\n(2)基礎的なデータベース操作実習（SQLによるスキーマ設計，データベース操作，ビュー設計）\n\
+      (3)データベース技術動向 \n ※授業中の課題とするため、資料は穴埋め形式にしております。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 高岡 詠子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20111006SCT63700-1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-3.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-3.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-4.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-4.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-5.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-5.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-6.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-6.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-7.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-7.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-8.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-8.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-9.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-9.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-10.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-10.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-11.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-11.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-12.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-12.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-13.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-13.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+- name: '講義資料: 20111006SCT63700-14.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20111006SCT63700-14.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111006sct63700/
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

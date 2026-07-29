@@ -1,0 +1,64 @@
+slug: hokudai-openknowledge-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/openknowledge-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学情報基盤センター共同研究講演会 知識のオープン化と教育の未来（2013）
+description:
+  ja: ウィキペディアやクリエイティブ・コモンズを手がかりに、知識のオープン化をめぐる論点を扱う講義資料である。オープン化が起こる理由、進展の是非、定義の問題までを取り上げ、情報社会と教育の関係を考える。
+quotedDescription:
+  text:
+    ja: 近年、情報社会の未来と知識のオープン化への関心がますます高まっています。本講演では、ウィキペディアやクリエイティブ・コモンズなど、情報の「オープン化」に深く関与してきた渡辺智暁氏を講師に迎え、なぜオープン化がおきているのか、オープン化の進展は望ましいことなのか、そもそもオープン化をどう定義するのか、といった根本的な問題について考えます。
+  source: https://ocw.hokudai.ac.jp/lecture/openknowledge-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 渡辺 智暁
+  affiliation:
+    name: 国際大学GLOCOM
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- education
+keywords:
+- オープンエデュケーション
+- ウィキペディア
+- クリエイティブ・コモンズ
+- GLOCOM
+- OKFJ
+- オープン化
+- 教育／学習
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/OpenKnowledge.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/openknowledge-2013
+extensions:
+  faculty: 情報基盤センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

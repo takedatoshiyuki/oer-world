@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0992
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/992/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】“立ち止まって、考える” – 連続講義（1）哲学「自己とは何か：「われわれとしての自己」とは」
+description:
+  ja: 本講義は、「自己とは何か」という哲学のテーマを出発点に、講師が提唱する「われわれとしての自己」という見方を取り上げる。東アジアの伝統的自己観との関係を示しながら、その考え方から導かれる帰結や意義を考察する。あわせて、アフターコロナの社会を見据えた視点も含めて論じる。
+quotedDescription:
+  text:
+    ja: '「⾃⼰とは何か」は、古今東⻄、数多くの哲学者が様々な仕⽅で挑戦してきた、哲学の⼤問題である。「⾃⼰」はまた芸術の永遠のテーマであり、我々の社会観や倫理観の基礎であるとともに、現代哲学のみならず、認知科学・⽂化⼈類学・社会学など様々な分野で論じられているホットなトピックでもある。本講義では、講師が、東アジアの伝統的⾃⼰観に根ざしつつ提唱している、「われわれとしての⾃⼰」という⾃⼰観を紹介した上で、その様々な帰結や意義を、アフターコロナの社会をも⾒据えながら⼀緒に考えていきたい。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/1669/'
+  source: https://ocw.kyoto-u.ac.jp/course/992/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 出口 康夫（人社未来形発信ユニット長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 文学研究科教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

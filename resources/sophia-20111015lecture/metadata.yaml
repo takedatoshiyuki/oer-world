@@ -1,0 +1,67 @@
+slug: sophia-20111015lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: パリという首都風景の誕生 ～フランス大革命から世界大恐慌まで～
+description:
+  ja: フランス大革命から世界大恐慌までを対象に、パリが首都として形づくられていく過程を扱う講義である。公開教材には、講義資料のPDFが複数含まれている。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 澤田 肇(上智大学教授)ほか
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 111015lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111015lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+- name: '講義資料: 111015lecture_sawada_kaikai_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111015lecture_sawada_kaikai_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+- name: '講義資料: 111015lecture_kitayama_si_Compressed2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111015lecture_kitayama_si_Compressed2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+- name: '講義資料: 111015lecture_minami_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111015lecture_minami_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+- name: '講義資料: 111015lecture_doi_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111015lecture_doi_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+- name: '講義資料: 111015lecture_kurita_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111015lecture_kurita_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+- name: '講義資料: 111015lecture_sawada_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/111015lecture_sawada_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20111015lecture/
+extensions:
+  faculty: 文学部
+  term: 2011/10/15
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

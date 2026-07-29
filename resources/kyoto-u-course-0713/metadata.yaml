@@ -1,0 +1,101 @@
+slug: kyoto-u-course-0713
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/713/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物有機化学Ⅰ
+description:
+  ja: 農薬の歴史、種類、作用性、安全性、毒性を概説し、作物生産における農薬の役割を扱う。さらに、代表的な殺虫剤・殺菌剤・除草剤について、化学構造と作用機構を学ぶ構成である。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      大多数の人が農薬は“悪玉”と考えている．実際，過去に使われた農薬の中には，安全性に問題があったものもあるが，現在使用されている農薬の安全性はきわめて高いことが科学的に示されている．この授業では，作物生産にとって農薬が果たす役割を正しく理解し，農薬の化学構造とその作用性を知ることによって安心と安全の区別ができる人材を育てる．
+
+      授業の紹介
+
+      農薬の歴史，種類，作用性について概説する．農薬の安全性と毒性について学び，代表的な殺虫剤，殺菌剤，除草剤の化学構造と作用機構について学習する．'
+  source: https://ocw.kyoto-u.ac.jp/course/713/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 宮川 恒
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中川 好秋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+- agriculture
+keywords:
+- 化学
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　農薬の役割'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第2回　殺虫剤1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第5回　殺虫剤4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第7回　殺菌剤1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第8回　殺菌剤2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第9回　殺菌剤3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第10回　除草剤1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第11回　除草剤2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第12回　除草剤3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 第13回　農薬の生体内および環境中での運命'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seibutsuyuukikagaku-1_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+- name: '講義資料: 2004年度 生物有機化学Ⅰ試験'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2011/04/ecce2ef2d8ae36f96acc4124efcebdad.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/713/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

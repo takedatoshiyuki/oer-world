@@ -1,0 +1,70 @@
+slug: kyoto-u-course-0261
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/261/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第9回 MACSコロキウム「科学のフロンティアー世界トップ研究者の共演」
+description:
+  ja: この講義は、2つの話題から成るコロキウムで、前半では分子の自己集合と配位結合による組み上がりを通して、分子パーツから機能する集合体を作る考え方を扱う。後半では、細胞内でタンパク質が正しい立体構造を獲得し、それを保つための仕組みを扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ひとりでに組み上がる分子」
+
+      藤田 誠 氏（東京大学大学院 工学系研究科 教授）
+
+      分子でできたパーツを自在に組み立てて極限的 に小さいコンピュータやマイクロマシンをつくり上げることは、人類が掲げてきた夢の技術のひとつです。今から30年ぐらい前に、私たちは、ばらばらの分子のパーツに金属イオンを作用させると、配位結合と呼ばれる「分子と金属イオンを引きつける弱い力」が作用し、狙いとする働きをもった分子の集合体がひとりでにくみあがる現象を発見しました。本コロキウムでは、このような「分子の自己集合」の原理にもとづいた、究極的な省エネ・省資源のものづくりをお話します。
+
+       
+
+      「タンパク質の品質管理」
+
+      森 和俊 氏（理学研究科 教授）
+
+      生き物の基本単位は細胞です。細胞の中に存在する最重要物質は、DNAとタンパク質です。DNAが遺伝物質（子が親に似るのはDNAを受け継ぐからです）であるのに対して、タンパク質は生命活動の担い手であります。
+      生命活動の基本はDNAに書き込まれた暗号を解読してタンパク質を正しく作りつづけることと言っても過言ではありません。タンパク質が最適な立体構造を獲得し、それが維持されるための実に巧妙な仕組みをお話しいたします。'
+  source: https://ocw.kyoto-u.ac.jp/course/261/
+  note: 京都大学OCW 「概要」・「「ひとりでに組み上がる分子」」・「「タンパク質の品質管理」」・「森 和俊 氏（理学研究科 教授）」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤田 誠
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 森 和俊
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-07-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

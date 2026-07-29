@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0348
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/348/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物圏情報学Ⅱ
+description:
+  ja: 生物圏における情報の収集・分析方法やシステムを扱い、水圏生物に関する研究を通してその内容を説明する。さらに、水圏生物の調査手法であるバイオロギングを取り上げ、具体的な研究事例を示す。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      この講義では、生物圏における様々な情報を収集・分析する方法やシステムについて、水圏生物に関する研究を紹介して解説する。
+
+      授業の紹介
+
+      近年、発展が著しい水圏生物の調査手法であるバイオロギングを解説するとともに、具体的な研究事例を紹介する。'
+  source: https://ocw.kyoto-u.ac.jp/course/348/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 荒井 修亮
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,171 @@
+slug: kyoto-u-course-0435
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/435/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「電波星・地球、そして宇宙太陽発電所」
+description:
+  ja: 電波の発生や伝搬、地球・木星・オーロラ由来の電波観測、衛星搭載のVLF計測に関する文献と補足事項を集めた講義資料である。あわせて、宇宙太陽発電所に関する項目も含み、関連する研究史や参照文献をたどれる内容になっている。
+quotedDescription:
+  text:
+    ja: '出典および補足事項
+
+      ７．加藤編、初級アマチュア無線技士国家試験問題解答集、電子工学社、1960.
+
+      ８．http://www.geocities.jp/mizuttt/painakami.htm　パイマッチ回路
+
+      １１．講義で4ヶ月と話したのは誤り。スライド通り4週間が正しい。
+
+      １４．CQ ham radio 500（昭和63年2月号付録）
+
+      １５．真空容器は内径10㎝、全長135㎝である。
+
+      １６．前田研究室は小川研究室、加藤研究室と合同で諸行事を行っていた。
+
+      １８．前田、木村、電磁波動論、オーム社、1970
+
+      １９．http://ja.wikipedia.org/wiki/ファイル:IBM_card_punch_029.JPG
+
+      ２０．Matsumoto, H., K. Hashimoto, and I. Kimura, Two types of phase bunching in the whistler mode
+      wave-particle interaction, J. Geomag. Geoelectr. 26, 365-383, © 1974 日本地球電気磁気学会（SGEPSSの前身）.
+
+      ２４．Hashimoto, K., I. kimura, and H. Kumagai, Estimation of electron temperature by VLF waves propagating
+      in directions near the resonance cone, Planet. Space Science, 25, 871-877, © 1977 Pergamon Press.
+
+      ２５．Hashimoto, K., and I. Kimura, A generation mechanism of narrow band hiss emissions above one
+      half the electron cyclotron frequency in the outer magnetosphere, J. Geophys. Res., 86, 11148-11152,
+      © 1981 American Geophysical Union.
+
+      ３１．木村 磐根、橋本 弘藏、EXOS-B搭載ダクトモニターと電子温度測定、宇宙科学研究所報告 10, 587-593, 1974.
+
+      https://www.icom.co.jp/beacon/backnumber/technical/ama_dig/007.html
+
+      S. Pasupathy, Minimum Shift Keying: A Spectrally Efficient Modulation, IEEE Communications Magazine,
+      17, 14-22, © IEEE 1979.
+
+      ３２．橋本 弘藏、木村 磐根、科学衛星 JIKIKEN(EXOS-B)VLFドップラー観測（ＤＰＬ）、宇宙科学研究所報告 15, 711-724, 1979.
+
+      ３３．Kimura, I., H. Matsumoto, T. Mukai, K. Hashimoto, T. F. Bell, U. S. Inan, R. A. Helliwell, and
+      J. P. Katsufrakis, EXOS-B/Siple station VLF wave-particle interaction experiments: 1. General description
+      and wave-particle correlations, J. Geophys. Res., 88, 282-294, © 1983 American Geophysical Union.
+      およびBell, T. F., U. S. Inan, I. Kimura, H. Matsumoto, T. Mukai, and K. Hashimoto, EXOS-B/Siple station
+      VLF wave-particle interaction experiments: 2. Transmitter signals and associated emissions, J. Geophys.
+      Res., 88, 295-309, © 1983 American Geophysical Union.　図のキャプションでは、送信電波と受信電波が逆に示されている。
+
+      ３５．Hashimoto, K., Y. Itoh, K. Komiyama, K. Takao, and I. Kimura, Experiments by an adaptive antenna
+      with a low frequency model, Trans. IECE Japan, E64, 246-251, 1981および日経コミュニケーション1999.9.6号
+
+      ３８．前田、木村、現代電磁波動論、オーム社、1984 および Jones, R.M. and J.J. Stephenson, A versatile three-dimensionaal ray
+      tracing computer program for radio waves in the ionosphere, OT Rep. 75-76, Office of Telecommun.,
+      U.S. Dep. Of Commerce, Washington D.C., 1975.
+
+      ３９．Hashimoto, K., and M. L. Goldstein, A theory of the Io phase asymmetry of the Jovian decametric
+      radiation, J. Geophys. Res., 88, 2010-2020, © 1983 American Geophysical Union.
+
+      ４０．D.A. Gurnett, The Earth as a Radio Source: Terrestrial Kilometric Radiation, J. Geophys. Res.,
+      79, 4227-4238, © 1974 American Geophysical Union.
+
+      ４２．J. Green, D.A. Gurnett, and S.D. SHawhan, The angular distribution of auroral kilometric radiation,
+      J. Geophys. Res., 82, 1825-1838, © 1977 American Geophysical Union.
+
+      ４３．H. Oya and A. Morioka, Observational evidence of Z and L-O mode waves as the origin of auroral
+      kilometric radiation from the Jikiken (EXOS-B) satellite, J, Geophys. Res., 88, 6189-6203, © 1983
+      American Geophysical Union.
+
+      ４４．W. Calvert, The auroral plasma cavity, Geophys. Res. Lett., 8, 919-921, © 1981 American Geophysical
+      Union.
+
+      ４５．Hashimoto, K, A reconciliation of propagation modes of auroral kilometric radiation, J. Geophys.
+      Res., 89, 7459-7466, © 1984 American Geophysical Union.
+
+      ４６．M.M. Mellott, W. Calvert, R.L. Huff, D.A. Gurnett, and S.D. Shawhan, DE-1 observations of ordinary
+      mode and extraordinary mode auroral kilometric radiation, Geophys. Res. Lett., 11, 1188-1191, ©
+      1984 American Geophysical Union.
+
+      ４９．Calvert w., and K. Hashimoto, The magnetoionic modes and propagation properties of auroral radio
+      emissions, J. Geophys. Res., 95, 3943-3957, © 1990 American Geophysical Union. ５０．Hashimoto, K.,
+      and W. Calvert, Observation of the Z mode with DE 1 and its analysis by three-dimensional ray tracing,
+      J. Geophys. Res., 95, 3933-3942, © 1990 American Geophysical Union.
+
+      ５２．D.R. Nicholson (著)、小笠原、加藤(訳)、プラズマ物理の基礎、丸善、1986.
+
+      ５３．Matsumoto, H., T. Okada, K. Hashimoto, I. Nagano, S. Yagitani, M. Tsutsui, Y. Kasaba, K. Tsuruda,
+      H. Hayakawa, A. Matsuoka, S. Watanabe, H. Ueda, Y. Kasahara, Y. Omura, K. Ishisaka, T. Imachi, and
+      Y. Tateno, Low frequency plasma wave Analyzer (LFA) onboard the PLANET-B spacecraft, Earth Planets
+      Space, 50, 223-228, © 1998 SGEPSS.
+
+      ５７．Welsh関数はWalsh関数の誤り。
+
+      ５８．講演時にはDHCPを度忘れしていて、思い出せなかった。
+
+      ６２．Hashimoto K., I. Nagano, M. Yamamoto, T. Okada, I. Kimura, H. Matsumoto and H. Oki, EXOS-D (AKEBONO)
+      Very Low Frequency Plasma Wave Instruments (VLF), IEEE Transactions on Geoscience and Remote Sensing,
+      35, 278-286, © 1997 IEEE.
+
+      ６４．Matsumoto, H., T. Okada, K. Hashimoto, I. Nagano, S. Yagitani, M. Tsutsui, Y. Kasaba, K. Tsuruda,
+      H. Hayakawa, A. Matsuoka, S. Watanabe, H. Ueda, Y. Kasahara, Y. Omura, K. Ishisaka, T. Imachi, and
+      Y. Tateno, Low frequency plasma wave Analyzer (LFA) onboard the PLANET-B spacecraft, Earth Planets
+      Space, 50, 223-228, © 1998 SGEPSS.
+
+      ６５．R Baines, The DSP Bottleneck, IEEE Communications Magazine, 33, 46-54, © 1995 IEEE.
+
+      ６７．Hashimoto, K., H. Iwai, Y. Ueda, H. Kojima, and H. Matsumoto, Software wave receiver for the
+      SS-520-2 rocket experiment, IEEE Trans. On Geoscience andRemotesensing, 41, 2638-2647, © 2003 IEEE.
+
+      ７０．Hashimoto, K., W. Calvert and H. Matsumoto, Kilometric continuum detected by Geotail, J. Geophys.
+      Res., 104, 28645-28656, © 1999 American Geophysical Union.
+
+      ７２．©NASA、©ESA
+
+      ７３．Yoshiya Kasahara, Yoshitaka Goto, Kozo Hashimoto, Tomohiko Imachi, Atsushi Kumamoto, Takayuki
+      Ono, and Hiroshi Matsumoto, Plasma wave observation using waveform capture in the Lunar Radar Sounder
+      on board the SELENE spacecraft, Earth Planets Space, 60, No. 4, 341–351, © 2008 SGEPSS.
+
+      ７８．穴の開いたロール紙による自動演奏ピアノを応用した。
+
+      ８１．講義で寿命との関係と言っているのは誤り。SPSでは24時間太陽が照射しているのに対し、地上では昼夜や天候に左右され、利用効率が１桁程度下がる。
+
+      ８５．J. McSpadden, and J. C. Mankins, IEEE Microwave Magazine, 3, 46-57, © 2002 IEEE
+
+      ８６．©JAXA
+
+      １００．H. Matsumoto and K. Hashimoto (eds.), Report of the URSI Inter-Commission Working Group on SPS,
+      URSI, 2007, available at http://www.ursi.org.'
+  source: https://ocw.kyoto-u.ac.jp/course/435/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 橋本 弘藏
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-03-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 生存圏研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

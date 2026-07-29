@@ -1,0 +1,68 @@
+slug: hokudai-backend-nuclear-fuel-cycle-engineering
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/backend-nuclear-fuel-cycle-engineering
+type:
+- LearningResource
+- Course
+name:
+  ja: '原子力人材育成事業（*） #07「核燃料サイクル工学」'
+description:
+  ja: 核燃料サイクルの全体像を、総論、ウラン濃縮、使用済燃料の再処理などの3回構成で扱う講義である。北海道大学が2015年に大学院共通授業科目として開講し、小崎 完、星野 剛、山田 立哉が担当する。
+quotedDescription:
+  text:
+    ja: '#07「核燃料サイクル工学」
+
+      講義１：核燃料サイクル概論１ 総論（小崎 完先生・北海道大学大学院工学研究院）
+
+      講義２：核燃料サイクル概論２ ウラン濃縮（星野 剛先生・日本原燃）
+
+      講義３：核燃料サイクル概論３ 使用済燃料の再処理など（山田 立哉先生・日本原燃）'
+  source: https://ocw.hokudai.ac.jp/lecture/backend-nuclear-fuel-cycle-engineering
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小崎 完
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 星野 剛
+  affiliation:
+    name: 日本原燃
+- type: Person
+  name: 山田 立哉
+  affiliation:
+    name: 日本原燃
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 大学院共通授業科目
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

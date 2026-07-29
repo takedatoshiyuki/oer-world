@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0226
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/226/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学フィールド科学教育研究センター10周年記念プレシンポジウム「流域研究と森里海連環学」
+description:
+  ja: 森・里・海のつながりを扱う「森里海連環学」と、各地で進む流域研究を取り上げ、その違いや関係を考える集会である。流域研究の事例紹介に加え、「木文化プロジェクト」による研究事例も示し、最後に自然科学と人文社会科学の両面から今後の研究の方向を議論する。
+quotedDescription:
+  text:
+    ja: '開催趣旨
+
+      森・里・海のつながりを解明し、人々の自然とのつきあい方を考える統合的な学問領域として、2003年に発足した京都大学フィールド科学教育研究センターが「森里海連環学」を提唱して早くも10年になろうとしています。この間、私たちは大学教育において「森里海連環学」の講義や実習を数多く実施すると共に、2冊の書籍『森里海連環学』と『森と海をむすぶ川』を世に問うてきました。その間も全国各地の河川では「流域研究」が進められていますが、これらの流域研究と森里海連環学との間にどんな違いがあるのでしょうか。
+
+      本集会では、まず、流域研究の第一線で活躍されている3名の研究者にその研究内容を紹介していただき、その後、フィールド研の「木文化プロジェクト」から森里海連環学による研究事例を紹介します。パネルディスカッションでは、自然科学、人文社会科学の両面から、今後進むべき研究の方向について議論します。流域環境に対する住民の意識は重要な要素です。本集会では、研究者だけではなく、多くの一般市民、住民の方にも議論に参加いただきたいと願っています。'
+  source: https://ocw.kyoto-u.ac.jp/course/226/
+  note: 京都大学OCW 「開催趣旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-12-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

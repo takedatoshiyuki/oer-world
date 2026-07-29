@@ -1,0 +1,60 @@
+slug: hokudai-apollo-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/apollo-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文学カフェ 明治十五年の《アポロ讃歌》 －プラトンがつないだ古代ギリシアと日本（2012）
+description:
+  ja: 明治15年に東京で演奏された《アポロ讃歌》を手がかりに、古代ギリシアの音楽が明治期の日本で雅楽として演奏された経緯をたどる講義である。あわせて、その背景にあるプラトン『国家』の思想との関わりを扱い、古代ギリシアと日本を結ぶ思想史の問題に踏み込む。再現映像として雅楽版《アポロ讃歌》も紹介する。
+quotedDescription:
+  text:
+    ja: '明治15年（1882年）1月31日。この日東京で、満員の聴衆を前に、紀元二世紀の古代ギリシアの音楽を雅楽として蘇らせた一曲《アポロ讃歌》が演奏されました。なぜ、二千年も前のギリシアの音楽が明治期の日本で、しかも和楽器で演奏されたのでしょうか？今回の話し手の近藤智彦さんによれば、この古代ギリシアの音楽と雅楽の不思議な出会いには、同じく古代ギリシアの哲学者プラトンの主著『国家』の思想がかかわっているそうなのですが――
+
+      謎が謎を呼ぶ、広く深い思想史の森。それは自分自身を知る森でもあります。みなさん、近藤さんとこの森を散歩してみませんか。当日は雅楽版《アポロ讃歌》の再現映像も紹介します。（演奏：伶楽舎、講演映像には含まれておりません）
+
+      北大人文学カフェ　アーカイブ
+
+      http://www.let.hokudai.ac.jp/archive/cafe/'
+  source: https://ocw.hokudai.ac.jp/lecture/apollo-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 近藤 智彦
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

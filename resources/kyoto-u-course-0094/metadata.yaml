@@ -1,0 +1,107 @@
+slug: kyoto-u-course-0094
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/94/
+type:
+- LearningResource
+- Course
+name:
+  ja: 病理学総論
+description:
+  ja: 病気の原因と結果のつながりを軸に、病理学の一般原理を扱う講義である。血行動態の異常、腫瘍、免疫異常、感染、遺伝、代謝栄養、環境因子などの病因を整理し、特徴的な病気の例や図表、写真を通して説明する。臨床症状、診断法、治療法やロビンス第7版の図表にも触れ、病気を総合的に理解する内容になっている。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      看護学、検査技術科学、理学療法学、作業療法学などの医療系分野の専門家をめざす学生を対象に、病気の理屈—病気とは何か、その原因、転帰—を教えます。病気についての知識、理解を深め、さらに興味を持てるようにしたいと考えています。
+
+      授業の紹介
+
+      病気には、原因とそれによる結果（表現形）があります。一つの結果（表現形）が原因となり次の結果をもたらすこともあります。病因、結果が多数存在することがあり、病態を複雑にします。全体の因果関係を総合的に理解することが、病気を理解することであり、病理学を学ぶ主要な目的です。病因は、血行動態の異常、腫瘍、免疫系の異常、感染、遺伝、代謝栄養、環境因子、その他の８つにまとめられます。授業では、こういった病気に共通する一般原理をとりあげます。一般原理が理解しやすい特徴的な病気の例をあげ、図表、写真を用いて説明します。病院で実際に遭遇する患者さんの臨床的な症状、診断法、治療法や、社会や身の回りで起きた事象をとりあげ、病気を身近なものに感じられるようにします。さらに細かい内容を知りたい学生が自習し易いように、該当する教科書の図表（ロビンス第７版）を取り上げ概説します。私は、多くの学生が病気に対する知識や理解を深め、興味をもちつつ自分の専門分野を進んで行けることを、期待しています。'
+  source: https://ocw.kyoto-u.ac.jp/course/94/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 高桑 徹也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- health_welfare
+keywords:
+- 医学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第2回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第3回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第4回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第5回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第6回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第7回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第8回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第9回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第10回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第11回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第12回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第13回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 第14回'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+- name: '講義資料: 補講'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_byourigakusouron_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/94/
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

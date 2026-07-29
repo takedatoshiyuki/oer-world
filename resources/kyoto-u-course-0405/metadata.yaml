@@ -1,0 +1,82 @@
+slug: kyoto-u-course-0405
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/405/
+type:
+- LearningResource
+- Course
+name:
+  ja: 箱庭の木を作る
+description:
+  ja: 箱庭療法で用いる木の作り方を扱い、実際に作成する内容である。作成の過程や、作ったミニチュアを棚に並べる場面で生じる感情にも触れる。2005年秋に学内研究会で行った研修の資料を収録する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      箱庭療法用の木の作り方を学び、実際に作ってみる。作成の過程で木に関する自身のイメージを精査する体験をもつこと、自作のミニチュアをその後棚に並べることで生じるさまざまな感情を経験することで、箱庭療法の道具的本質に触れ、豊かにする一助とする。
+
+      授業の紹介
+
+      箱庭療法の木は緑好きの日本人にとって重要なアイテムである。しかしながら、各人の持つ木に対するイメージが多彩なためなかなか市販のアイテムのみでは満足しにくい用具のひとつである。そのため、治療者によっていろいろな形で手作りされる。ここに一つの方法を示し、実際に作ってみたい。それにより自身の木のイメージを精査する体験をもち、治療者としての感性を豊かにすることが可能となるだろう。また、イメージを精査して自作したアイテムを用具棚に並べると、使用状況に応じて治療者側にさまざまな思いが生じる。その経験も箱庭療法を行う上で貴重なものとなる。また、オンリーワンの木から、数を重ねてより普遍的な木を作ることが、イメージとの適切な距離感を醸成するものとなる。
+
+      初心者がはじめて作ると、1本につき6～7時間かかるが、熟練によって時間は短くなる。木を組み上げていく段階ではある程度集中して取り組める時間数が必要となる。また、基本形から花や実などを付加したりサイズを変えるなどの応用を施していくのも面白い。
+
+      2005年秋に学内研究会で行った研修の資料等を収録したものである。'
+  source: https://ocw.kyoto-u.ac.jp/course/405/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 青木 健次
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中川 純子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005-10-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 講義資料（低解像度軽量版）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/21c90d02b234bdfe5ac96ab3e6448f65.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/405/
+- name: '講義資料: 講義資料（高解像度版）Part 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/77b29b58e345289e7c5aebd904405082.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/405/
+- name: '講義資料: 講義資料（高解像度版）Part 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a6312224367c03b7ecb0704a08fb5bed.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/405/
+- name: '講義資料: 講義資料（高解像度版）Part 3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/7f7543b92e4de603545263116c1e1bf4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/405/
+- name: '講義資料: 講義資料（ppsx版）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/10/2015_hakoniwanokiwotukuru.ppsx.zip
+  page: https://ocw.kyoto-u.ac.jp/course/405/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

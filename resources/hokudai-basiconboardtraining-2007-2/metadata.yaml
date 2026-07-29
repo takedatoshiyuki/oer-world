@@ -1,0 +1,57 @@
+slug: hokudai-basiconboardtraining-2007-2
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/basiconboardtraining-2007-2
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 基礎乗船実習（2007）
+description:
+  ja: 北海道大学水産学部で2007年に開講された「基礎乗船実習」の講義資料を公開する。対象は水産学部の1年生以上で、公開資料はPDF形式の講義テキスト1件である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 芳村 康男
+  affiliation:
+    name: 北海道大学大学院水産学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 乗船実習，海洋フィールド，海洋生物調査，海洋環境調査，生物採取，鮮度調査
+- 水産学
+- 水産学部
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: PDFテキスト'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/BasicOnboardTraining-2007-Text.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/basiconboardtraining-2007-2
+extensions:
+  faculty: 水産学部
+  targetAudience: 1年生～ 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

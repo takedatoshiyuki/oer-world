@@ -1,0 +1,55 @@
+slug: hokudai-cellularinformatics-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/cellularinformatics-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サイエンス・カフェ札幌から Pick up! 知性が生まれるとき ～粘菌の不思議に学ぶ～（2010）
+description:
+  ja: 粘菌を題材に、迷路解決や輸送効率の高いネットワーク形成などのふるまいを取り上げる。そうした現象を手がかりに、知性とは何か、また自己組織化とは何かを考える内容である。実物の粘菌を見たり触ったりしながら学ぶ。
+quotedDescription:
+  text:
+    ja: '粘菌といえば、何を思い浮かべますか？ 年配の方は南方熊楠（みなかたくまぐす）や、那須の御用邸で採集していた昭和天皇を思い浮かべることでしょう。また漫画『風の谷のナウシカ』では、腐海の世界に生きる心を持つ重要な生き物として、粘菌は登場します。粘菌は、朽ちた木の下や鉢植えなどの湿った場所を好み、意外と身近に存在するアメーバ状の単細胞生物です。この粘菌が迷路を解いたり、鉄道網のような輸送効率に優れたネットワークを作ったりといった「知性」を持つという研究が、最近脚光を浴びています。いったい知性とは何なのでしょうか？
+      粘菌のような原始的な生物でも、本能的に秩序だった行動をとることで生き残ろうとします。このような現象は、「自己組織化」と呼ばれ、雪の結晶の成長や、気象衛星からみた雲の模様、化学反応など自然界にも多く存在しています。あたかも「知性」を持つかのように振る舞う粘菌の謎を解くキーワードが「自己組織化」なのです。
+
+      今回のカフェでは上田哲男先生と一緒に、実際の粘菌を見て、触ってもらいながら、粘菌の不思議な魅力と、そこに潜む「知性」とは何かを考えます。粘菌と知恵比べして遊ぼう！'
+  source: https://ocw.hokudai.ac.jp/lecture/cellularinformatics-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上田 哲男
+  affiliation:
+    name: 北海道大学電子科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

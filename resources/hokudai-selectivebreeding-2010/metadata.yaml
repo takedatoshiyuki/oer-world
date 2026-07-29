@@ -1,0 +1,90 @@
+slug: hokudai-selectivebreeding-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/selectivebreeding-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: ひらめき☆ときめきサイエンス 北大農場でベリーの品種改良に挑戦しよう！（2010）
+description:
+  ja: ベリー類を材料に、品種改良のための交配や植物の受精のしくみを扱う。農場での収穫や味見、圃場での交配実験、顕微鏡を使った花粉の観察、果実の糖度・pHの測定までを含む。
+quotedDescription:
+  text:
+    ja: '近年、栽培が広がっているベリー類を材料に、品種改良のための最新の研究紹介と実際の作物を味わい、触れて、さらに花粉を交雑させて品種改良に挑戦します。受講生の体験を重視し、農場に出て実物に触れる時間を多く取り、現場で測定等の実験を行います。
+
+      講義では、品種改良の研究を進める上で重要な植物の受精の仕組みについて一緒に考えます。実験では、最新の顕微鏡設備を使って花粉が伸びる様子を観察し、生命現象の神秘とそれを追究する研究について体験します。
+
+      受講生が実際に交配させた果実は、完熟後に送付し、自宅で栽培してもらいます。質問等はブログ形式のホームページで随時公開してフォローアップを行います。
+
+      【スケジュール】
+
+      2010年7月31日
+
+      9:30-10:00　　受付（北方生物圏フィールド科学センター生物生産研究農場に集合）
+
+      10:00-10:10　 開講式（あいさつ、オリエンテーション、自己紹介）
+
+      10:10-10:20　 科研費と本事業の説明
+
+      10:20-10:50　【体験】大学農場でベリーに親しもう！（ベリーの収穫と味見・栽培現場を歩きながら作物に触れる）
+
+      10:50-11:00　（木陰で休憩・水分補給）
+
+      11:00-12:00　【実験・実習】圃場でベリーの交配実験に挑戦！ （圃場での質疑・応答）
+
+      12:00-13:00　 昼食 （大学院生を交えて）
+
+      13:00-13:30　【講義】ベリーの育種最前線 （講師：星野洋一郎）
+
+      13:30-15:00　【実験1】生きた花粉が伸びる様子をとらえよう。 （質疑・応答）（途中休憩） 【実験2】果実の糖度、pHを調べてみよう。
+
+      15:00-15:30　 クッキータイム、フリートーク・アンケート記入
+
+      15:30-15:45　 修了式、｢未来博士号｣授与
+
+      15:45　　　　　解散'
+  source: https://ocw.hokudai.ac.jp/lecture/selectivebreeding-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 星野 洋一郎
+  affiliation:
+    name: 北方生物圏フィールドセンター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- ベリー
+- 品種改良
+- 受精
+- 花粉
+- 農学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 北方生物圏フィールド科学センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

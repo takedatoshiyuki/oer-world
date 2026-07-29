@@ -1,0 +1,62 @@
+slug: sophia-20121130lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20121130lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: POST CONFLICT COUNTRIES:FROM CONFLICT TO PEACE AND PROSPERITY‒THE CASE OF TIMOR‒ LESTE
+description:
+  ja: ポスト・コンフリクト国家を取り上げ、東ティモールを事例に、紛争から平和と繁栄へ至る過程を扱う講演会資料である。ジョゼ・ラモス＝ホルタによる2012年11月30日の講演に対応する講義資料PDFが公開されている。
+quotedDescription:
+  text:
+    ja: 'POST CONFLICT COUNTRIES:
+
+      FROM CONFLICT TO PEACE AND PROSPERITY
+
+      ‒THE CASE OF TIMOR‒ LESTE'
+  source: https://ocw.cc.sophia.ac.jp/lecture/20121130lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: ジョゼ
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: ラモス＝ホルタ(東ティモール前大統領)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20121130lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20121130lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20121130lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2012/11/30
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

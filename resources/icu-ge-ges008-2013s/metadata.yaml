@@ -1,0 +1,93 @@
+slug: icu-ge-ges008-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges008_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Religion and Global Politics Ｓ１：宗教と国際政治'
+description:
+  ja: 宗教が国際政治に与える影響をテーマに、アイデンティティや信念、普遍的価値、人権との関係を検討する。さらに、異なる信念間の対立や『文明の衝突』『War on Terror』をめぐる事例を通して、国際関係への影響を考える。ポスト世俗的な国際関係にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course examines the influence of religion on global politics.
+
+      国際政治に対する宗教の影響について考察する。
+
+      Contents of Lectures
+
+      1
+
+      0
+
+      Lectures /
+
+      2
+
+      Videos
+
+      1.Overview
+
+      2.Who do we think “we” are?
+
+      3.What do “we” believe in?
+
+      4.Are there “universal” values?
+
+      5.Case Study: Human Rights
+
+      6.How do our beliefs affect international relations?
+
+      May 27
+
+      7.Is conflict between different beliefs inevitable?
+
+      June 03
+
+      7.Is conflict between different beliefs inevitable?
+
+      8. Case Study: The Clash of Civilizations and “War on Terror”
+
+      9. A Post-secular International Relations?
+
+      10.Feedback'
+  source: https://ocw.info.icu.ac.jp/ge/ges008_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES008 | Course Schedule: 4*/M, 4*/TH | Update: 2013.03.25'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

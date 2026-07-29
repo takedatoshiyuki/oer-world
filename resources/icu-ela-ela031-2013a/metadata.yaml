@@ -1,0 +1,104 @@
+slug: icu-ela-ela031-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ela/ela031_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: Reading and Content Analysis 精読と英文構成法
+description:
+  ja: 学術英文を精読し、読解の技法や方略を扱う講義資料である。あわせて、テキストのジャンル、構成、論調、社会文化的文脈を分析し、言い換えや要約の練習も取り上げる。公開されている教材は講義資料2件で、授業の一部が記録された動画とスライドが含まれる。
+quotedDescription:
+  text:
+    ja: 'Along with Academic Reading and Writing 3, RCA3 is a core course in the ELA Program. Through
+      intensive reading, this course helps students to develop reading skills and strategies to become
+      independent readers of academic texts. By incorporating the experience of teachers as learners of
+      English as a foreign language, the course is designed to assist students to comprehend academic
+      texts, and to take a further step in analyzing their genre, structure, tone and socio-cultural context.
+      Writing, such as paraphrasing and summarizing, is introduced to increase accuracy in comprehension.
+      The course is taught over three terms which must be taken in sequence.
+
+      「読解と論文作法」と共に、リベラルアーツ英語プログラム(Stream 3)の中核となる科目である。精読のための技法の習得を通して、学術文章を自律的に読みこなす読解力の向上を図る。英語を外国語として学んだ経験を持つ教員が担当することにより、テキストのジャンル、構成、論調、社会文化的文脈を分析しながら、より深い読解を目指すための読み方へ学生を導くように工夫されている。さらに、理解力を高めるために言い換えや要約等のライティングの演習を行う。1、2、3学期の順に履修すること。
+
+      Contents of Lectures
+
+      2
+
+      Lectures /
+
+      2
+
+      Videos
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      Oct
+
+      21
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。
+
+      Slide
+
+      Oct
+
+      23
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。
+
+      Slide'
+  source: https://ocw.info.icu.ac.jp/ela/ela031_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 福田哲哉
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 英語教育プログラム
+- 'ELA031 | Stream3 | Update: 2014.02.10'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1kBEOC_Zg4ZMTLemnPK8C9C303J4fkpjx/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ela/ela031_2013a
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/14TPxELy6gpioAllkNnnj1CeurKzdcX0w/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ela/ela031_2013a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

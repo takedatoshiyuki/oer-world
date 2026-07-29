@@ -1,0 +1,67 @@
+slug: hokudai-radiation-shielding-engineering
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/radiation-shielding-engineering
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「放射線遮蔽工学」
+description:
+  ja: 放射線遮蔽工学の基礎として、遮蔽計算に関わる用語、放射線源、線量体系を扱う。さらに、光子と遮蔽材の相互作用、離散座標Sn輸送計算法による決定論的手法、原子炉施設の遮蔽設計へと進み、軽水炉や使用済燃料乾式貯蔵施設を対象にする。
+quotedDescription:
+  text:
+    ja: "放射線遮蔽工学\n \n1-1. 遮蔽計算の基礎（1）放射線遮蔽工学に関わる用語、放射線源、線量体系（吉田 昌弘・公益財団法人原子力安全技術センター特別顧問 フルエンス解析インステテュート\
+      \ 代表）制限資料\n \n1-2. 遮蔽計算の基礎（2）放射線遮蔽工学に関わる用語、放射線源、線量体系（吉田 昌弘・公益財団法人原子力安全技術センター特別顧問 フルエンス解析インステテュート\
+      \ 代表）制限資料\n \n2. 光子と遮蔽材との相互作用（吉田 昌弘・公益財団法人原子力安全技術センター特別顧問 フルエンス解析インステテュート 代表）制限資料\n \n★3. ～ 5. 準備中\n\
+      \ \n6. 決定論的手法 －離散座標Sn輸送計算法－（上松 幹夫・東芝テクニカルサービスインターナショナル株式会社）制限資料\n \n★7. ～ 9. 準備中\n \n10-1. 原子炉施設の遮蔽設計（その1）-\
+      \ 軽水炉（BWR、PWR）-（月山 俊尚・株式会社アトックス エンジニアリングサービスセンター）制限資料\n \n10-2. 原子炉施設の遮蔽設計（その1）- 軽水炉（BWR、PWR）-（月山\
+      \ 俊尚・株式会社アトックス エンジニアリングサービスセンター）制限資料\n \n10-3. 原子炉施設の遮蔽設計（その2）- 使用済燃料乾式貯蔵施設 -（月山 俊尚・株式会社アトックス エンジニアリングサービスセンター）"
+  source: https://ocw.hokudai.ac.jp/lecture/radiation-shielding-engineering
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 吉田 昌弘
+  affiliation:
+    name: 公益財団法人原子力安全技術センター特別顧問 フルエンス解析インステテュート 代表
+- type: Person
+  name: 上松 幹夫
+  affiliation:
+    name: 東芝テクニカルサービスインターナショナル株式会社
+- type: Person
+  name: 月山 俊尚
+  affiliation:
+    name: 株式会社アトックス エンジニアリングサービスセンター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 専門教育
+- 放射線遮蔽
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

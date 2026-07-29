@@ -1,0 +1,92 @@
+slug: kyoto-u-course-0669
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/669/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物機械計測学
+description:
+  ja: 自然界の色や植物・農産物の計測を手がかりに、マシンビジョンと各種センサの原理を学ぶ講義である。公開教材では、色の表現、照明、電磁波画像、分光反射特性、画像処理ソフトによる色・寸法・形状・欠陥の計測、さらに目の比較やセンサの方式までを扱う。
+quotedDescription:
+  text:
+    ja: '現代は，規格化された工業製品だけでなく，自然界の植物，動物をも計測したり，制御・生産する時代である．本授業では，複雑で多様な自然現象および植物の挙動等に内在する法則，現象を理解すると同時に，不定形で多様な対象物を計測する装置およびその原理，構成，仕組みなどを学ぶ。これにより，自然界における工学的計測に関わる用語，知識を幅広く身に着けること，植物の成長，挙動に関連する特性およびルールが理解できること，計測装置を備えた生物機械システムの原理が理解容易となることを到達目標とする。
+
+      具体的には，太陽と自然界の色のしくみ（夕焼けはなぜ赤いか？葉はなぜ緑色か？虹のできる理由など），マシンビジョンシステムとその計測（果実の色，形状，寸法，欠陥計測），各種センシングシステム，計測装置，ならびに信号処理に関して解説すると共に画像処理演習を行う。'
+  source: https://ocw.kyoto-u.ac.jp/course/669/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 近藤 直
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回・第2回 種々の色の表現方法（HSI，L*a*b*，色度等）を学ぶ，自然界の色の不思議を知り，その理由を考える'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_01-02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第3回 マシンビジョンシステムの構成要素とエネルギの流れを学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第4回 照明の種類と特徴を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第5回～第7回 種々の電磁波による農産物の画像の特徴を知る，植物の分光反射特性を学ぶ， 土壌，食肉，昆虫の分光反射特性を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_05-07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第8回 画像処理ソフトを用いて，農産物の色の計測方法を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第9回 画像処理ソフトを用いて，農産物の寸法の計測方法を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第10回 画像処理ソフトを用いて，農産物の形状の計測方法を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第11回 画像処理ソフトを用いて，農産物の欠陥の計測方法を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第12回 果菜類の葉序の規則性ならびに自然界におけるフラクタルの形状を有する対象について考察する'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第13回 人間の目，昆虫の目，機械の目を比較し，その特徴を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+- name: '講義資料: 第14回・第15回 機械式センサの原理，構成を学ぶ，第15回 流体式，光電変換方式センサの原理，構成を学ぶ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_seibutsukikaikeisokugaku_14-15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/669/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

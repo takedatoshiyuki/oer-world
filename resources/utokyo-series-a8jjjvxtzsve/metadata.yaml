@@ -1,0 +1,62 @@
+slug: utokyo-series-a8jjjvxtzsve
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=A8jjjVXtzSve
+type:
+- LearningResource
+- Course
+name:
+  ja: 計算数理Ⅰ・計算数理
+description:
+  ja: この講義は、数値解析への入門として、微分積分学や線形代数学に現れる問題をコンピュータで数値的に解くための方法を扱う。連立一次方程式、非線形方程式、定積分、常微分方程式、最適化について、その計算法と背景の理論を学ぶ。
+quotedDescription:
+  text:
+    ja: 線形代数学では、正則な行列を係数行列とする連立一次方程式は、一意な解を持ち、それはクラメールの公式を用いて表現できることを学んだ。しかし、もし、クラメールの公式をそのまま用いて、未知数が30個の連立一次方程式を解こうとすれば、現在利用できる最も速いスーパーコンピュータを用いても、100億年以上かかる見積もりになってしまい、現実的でない。一方、それをガウスの消去法で求めれば、手頃なラップトップ型パーソナルコンピュータを用いても、
+      1/100秒もかからない。このように、数学的に解が表現できる、あるいは解が存在するということと、実際に数値を得ることの間には、大きな溝があるのである。数学的な概念や方法を通じて、現実問題を研究する際には、当然、数値的な答えが要求される。そのような問題に対処するために、様々な数学的な概念を、具体的に数値を計算するという立場から研究する分野を数値解析と言う。本講義は、数値解析への入門を目的とし、1年および2年次に学んだ微分積分学や線形代数学に現れる諸問題、例えば、連立一次方程式、非線形方程式、定積分、常微分方程式、最適化（関数の最小化）などを、コンピュータを用いて数値的に解くための方法とその背景にある数学理論の解説を行う。
+  source: https://ch.u-tokyo.ac.jp/series/?id=A8jjjVXtzSve
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 齊藤 宣一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+- ict
+- social_sciences
+keywords:
+- 数理
+- AI・情報
+- 人口・社会問題
+- 数学
+- 情報技術
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 理学部・理学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

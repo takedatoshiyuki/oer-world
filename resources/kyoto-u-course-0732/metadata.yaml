@@ -1,0 +1,100 @@
+slug: kyoto-u-course-0732
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/732/
+type:
+- LearningResource
+- Course
+name:
+  ja: 低温科学B
+description:
+  ja: 低温で現れる磁性や超伝導を中心に、物質の観点から低温科学の基礎を扱う講義である。吉村担当の7回分では、液体窒素の扱い方の説明や高温超伝導の磁気浮上実験を通じて、低温研究の基本的な内容を学ぶ。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      低温研究の発展にともなって，低温科学の領域は，理学はもとより広く工学・医学・薬学・農学などの分野に応用され，多くの最先端技術の基礎となっている．この講義は，低温科学についての高校教育と大学の専門教育の間のギャップを埋め，学生諸君に低温研究に対する理解を深めてもらうための入門的基礎講義である。
+
+       
+
+      授業の紹介
+
+      物質の観点から見た超伝導や磁性といった低温特有の基礎的な物性や低温での特異現象である磁性や超伝導の応用などについて，その分野を専門としている教員が具体的なテーマをあげて，場合によってはビデオや簡単な実験によるデモンストレーションも行いながらリレー形式の講義を行い，研究に関する歴史的な話題
+      から研究の現状・最新の成果に至るまで平易に解説する．
+
+      1. 物質の磁性と超伝導（局在電子系〜遍歴電子系・新しい超伝導物質まで）：7回 吉村
+
+      2. 超伝導応用I（超伝導磁石：超高分解能核磁気共鳴MRIへの応用）：2回 竹腰，清水
+
+      3. 超伝導応用II（超伝導量子磁束計の地球物理学への応用）：2回 福田
+
+      4. 超伝導応用III（エネルギー貯蔵，電力輸送，超伝導発電などへの応用）：2回 白井
+
+      本OCWではこれらのうち，吉村担当の7回分について紹介する．講義の中で，液体窒素の扱い方のデモ・説明や，デモ実験として高温超伝導の磁気浮上実験を行う。'
+  source: https://ocw.kyoto-u.ac.jp/course/732/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 吉村 一良
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 化学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第1回\t低温科学b-1"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+- name: "講義資料: 第2回\t低温科学b-2"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+- name: "講義資料: 第3回\t低温科学b-3"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+- name: "講義資料: 第4回\t低温科学b-4"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+- name: "講義資料: 第5回\t低温科学b-5"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+- name: "講義資料: 第6回\t低温科学b-6"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+- name: "講義資料: 第7回\t低温科学b-7"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+- name: '講義資料: 課題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/04/2008_teionkagakuB_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/732/
+extensions:
+  faculty: 全学共通科目
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

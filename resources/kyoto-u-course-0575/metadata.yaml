@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0575
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/575/
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語科学基礎論Ⅰ
+description:
+  ja: 言語科学を現代の認知科学の中でどう位置付けるかを扱い、あわせて近年の研究動向を概観する教材である。生物言語学、進化言語学、理論言語学（生成文法）の進展を例に、言語科学の研究領域とその展開を示す。
+quotedDescription:
+  text:
+    ja: 言語科学とはどういう学問であるかを、現代の認知科学の中での位置付けを中心にして理解するとともに、今、最先端ではどのような研究が行われているかを、近年の生物言語学、進化言語学、理論言語学（生成文法）の進展を例にとって概観する。
+  source: https://ocw.kyoto-u.ac.jp/course/575/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 藤田 耕司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+keywords:
+- 語学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: イントロダクション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/6d36764b87faa413594bb2c9dd5eb7b3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/575/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,64 @@
+slug: utokyo-series-1ijdwexghpdx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=1IJDWEXghpDX
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回⾚⾨オンライン⾒学会
+description:
+  ja: 東京大学旧加賀屋敷御守殿門（東大赤門）を対象に、閉門後に行われている保存・安全確保・活用のための調査を扱う。屋根瓦の実測や小屋裏での微小な揺れの計測をオンラインで見学し、工学部建築学科の教員による解説を視聴する構成である。
+quotedDescription:
+  text:
+    ja: '東京大学旧加賀屋敷御守殿門（通称　東大赤門）は、構造調査のため昨年から閉門しており、皆様に大変ご心配とご不便をかけております。
+
+      現在、保存・安全確保・活用のための様々な調査を実施しております。
+
+      昨年に引き続き、この機会を利用して、屋根瓦の実測や小屋裏で微小な揺れを計測するところをオンラインで見学して頂きつつ、本学工学部建築学科の教員が解説をするビデオを作成しました。
+
+      映像提供：施設部保全課建築保全…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=1IJDWEXghpDX
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤田 香織
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 海野 聡
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 角田 真弓
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

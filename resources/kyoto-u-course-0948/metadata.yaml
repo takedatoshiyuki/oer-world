@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0948
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/948/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅧ「原発事故の教訓とこれからのエネルギーシナリオを考える」
+description:
+  ja: 京都大学のシンポジウムシリーズ「大震災後を考える」の一回で、原発事故から得られる教訓と今後のエネルギーのあり方を扱う。京都大学のエネルギー科学研究科が担当し、2011年7月29日に開講された。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-07-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

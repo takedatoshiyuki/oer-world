@@ -1,0 +1,61 @@
+slug: utokyo-series-upnzim3v5rql
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=UpnZIM3V5rQL
+type:
+- LearningResource
+- Course
+name:
+  ja: 農学部公開セミナー 第46回「私たちのくらしと微生物」
+description:
+  ja: 身の回りにいる微生物のうち、食の安全に関わるものを取り上げ、食中毒の種類や原因食品、防止策を扱う。あわせて、講演者の研究対象である豚レンサ球菌について最新の研究成果を紹介する。症例写真や菌類の図版も含む。
+quotedDescription:
+  text:
+    ja: "本講座では、身の回りに存在する様々な微生物の中から、食の安全を脅かす微生物に着目します。近年発生している食中毒の種類や原因となった食品から防止策をお伝えするとともに、講演者が研究対象としている豚レンサ球菌について最新の研究成果も紹介します。\
+      \ \n  ※症例写真や菌類の図版を含みます。予めご了承の上ご覧ください。 \n \n  01:15 食中毒患者の年次変化  \n  03:46 カンピロバクター  \n  06:55 サルモネラ\
+      \  \n  09:21 …"
+  source: https://ch.u-tokyo.ac.jp/series/?id=UpnZIM3V5rQL
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 関崎 勉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 松永 茂樹
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 農学部・農学生命科学研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,79 @@
+slug: utokyo-series-y6dakn6p2qw6
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Y6dakn6P2QW6
+type:
+- LearningResource
+- Course
+name:
+  ja: 放射能の農畜水産物等への影響についての研究報告会 第12回報告会
+description:
+  ja: 東京大学による第12回の研究報告会で、土壌における放射性物質の動態を中心に扱う。6名の研究者が講演し、放射能が農畜水産物等に及ぼす影響に関する研究報告を行う。
+quotedDescription:
+  text:
+    ja: "第12回目となる研究報告会は、土壌における放射性物質の動態を中心に、6名の研究者     が講演をおこないます。   \n  農学生命科学研究科の復興支援プロジェクト HP \n   \
+      \ http://www.a.u-tokyo.ac.jp/rpjt/index.html   \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。  \n  お気に入りの講義・講演があればSNSなどでシェアをお願いします。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=Y6dakn6P2QW6
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 丹下 健
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中西 友子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小暮 敏博
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 嘉夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 濱本 昌一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西村 拓
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 二瓶 直登
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塩沢昌
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

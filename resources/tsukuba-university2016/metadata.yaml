@@ -1,0 +1,47 @@
+slug: tsukuba-university2016
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/others/university2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2016年度 特別講義「大学と学問」
+description:
+  ja: 科学と技術の進歩がもたらした社会課題を手がかりに、大学の役割を考える講義である。エネルギー・資源、産業・経済、食料、人口構成、格差社会などを取り上げ、地球規模での認識と解決の必要性に触れる。基礎科学から創薬までの研究経験を踏まえ、大学における学問のあり方を考察する。
+quotedDescription:
+  text:
+    ja: 科学と技術の進歩は、人類社会に大きな発展をもたらした。しかし、一方ではエネルギー・資源に関する問題、産業・経済に関わる問題、食料、人口構成、格差社会の問題などを生んだ。いずれの問題についても地球規模での認識と解決が必要である。基礎科学から創薬にまで繋がる研究に携わってきた経験と実感を交えて、これからの大学の役割と大学における学問について考える。
+  source: https://ocw.tsukuba.ac.jp/course/others/university2016/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 永田 恭介
+  affiliation:
+    name: 筑波大学 学長
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2016-06-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

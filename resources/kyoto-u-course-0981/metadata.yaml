@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0981
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/981/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生物センシング工学演習 II, 2014
+description:
+  ja: 学生の研究プロジェクトを題材に、英語での発表と議論を行う演習科目である。自分の研究内容を発表できるようになることに加え、他の学生の研究内容についても細部まで議論することを目指す。
+quotedDescription:
+  text:
+    ja: 'Outline and object of course
+
+      Purposes of this course are to enhance presentation skill and to improve English communication skill
+      through students’ research projects. All classes are held in English. A goal of this course is to
+      reach the level to be able to present on students’ own research projects and to discuss on details
+      not only in students’ own researches but also in other students’ researches (including Ph.D. students).
+      Although it is possible for non-members of Bio-Sensing Engineering Laboratory to take this course,
+      they need to be consulted with their supervisors because they have to also take their own seminars
+      held at laboratories.'
+  source: https://ocw.kyoto-u.ac.jp/course/981/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Naoshi KONDO
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Yuichi OGAWA
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Tetsuhito SUZUKI
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-06-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

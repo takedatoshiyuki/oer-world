@@ -1,0 +1,88 @@
+slug: kyoto-u-course-0466
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/466/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第10回 iCeMSラーニングラウンジ：Junjun Li + 藤田 祥彦
+description:
+  ja: 若手研究者2名が、それぞれの研究内容を英語で紹介する講義である。テーマはiPS細胞に関わる研究で、1つは異常な細胞を検出・除去するためのマイクロチップ、もう1つは遺伝子スイッチを用いて細胞を選別する方法を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      Junjun Li（ジュンジュン・リ）さん
+
+      “Catch Me If You Can”
+
+      Do you care about just “1 error” out of “100,000” normal outcomes? Can you ignore it? NO! You should
+      care! That error will have a huge impact on your health. For safer cell therapy using iPS cells,
+      we need to find every single error; all of the undesired iPS cells from implanted cells or tissues.
+      I will introduce our micro-chip to catch such rare iPS cells.
+
+      研究者コメント
+
+      The abilities of iPS cells’ infinite proliferation and pluripotency have opened a gate towards regenerative
+      medicine. However, undifferentiated iPS cells might turn into tumours if directly transplanted into
+      a patient. In this talk I introduce a microfluidic chip to efficiently find and eliminate undifferentiated
+      iPS cells from differentiated tissue cells. In near future, I wish this microfluidic chip would
+      provide safer iPS cells for a patient.
+
+       
+
+      藤田 祥彦（ふじた・よしひこ）さん
+
+      「スイッチを組み込んで細胞に問いかける」
+
+      iPS細胞はいろいろな細胞に分化することができす。しかし、移植の前には必ず目的にあった細胞だけ選別しなければなりません。今回、細胞に「遺伝子スイッチ」と呼ばれる分子でできたスイッチを組み込むことで、細胞の種類によって色が変わるように改変し、移植に必要な細胞だけを集めてくる取り組みについてご紹介します。
+
+      研究者コメント
+
+      今回紹介させていただいたRNAスイッチは、移植に使いたい細胞を選択的に取得するための合成生物学という分野からのアプローチです。将来的には、複雑な回路を組むことでコンピュータの論理演算のように複数の条件に一致した細胞を選択し、好きな遺伝子を発現させることができるようになると考えています。細胞の中に人工回路を構築して自在に操作することは、科学的な挑戦という側面と、iPS細胞から作成した細胞を安全に移植できるよう調整するための研究開発という側面を持った面白いテーマだと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/466/
+  note: 京都大学OCW 「概要」・「藤田 祥彦（ふじた・よしひこ）さん」・「「スイッチを組み込んで細胞に問いかける」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Junjun Li さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 藤田 祥彦 さん
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-11-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: tsukuba-ds-clinical-and-social-medicine
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/clinical_and_social_medicine/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 臨床医学・社会医学とデータサイエンス ーヘルスサービスリサーチの視点から
+description:
+  ja: 医学の3領域に対するデータサイエンスの応用のうち、社会医学における医療介護サービスの質に焦点を当てる講義である。ヘルスサービスリサーチを中心に、患者の受診から介護までの経過や、地域の医療機関・介護サービスの機能と質をデータで捉える視点を扱う。あわせて、疫学・統計や日本の医療介護ビッグデータの現状にも触れる。
+quotedDescription:
+  text:
+    ja: データサイエンスは医学3領域（基礎・臨床・社会）のそれぞれに応用しうる。医学の基礎研究である基礎医学ではゲノム解析など、一人ひとりの患者さんの診療を主とする臨床医学では画像診断のAI活用など多々あるが、本講義では、社会医学、中でも医療介護サービスの質に焦点をあてたヘルスサービスリサーチを中心とする。質の高いサービスの実現には、一人の患者さんが受診し、診療を受け、その後、介護も含めてどう経過していくかーという時間的な視点、そして、地域における各医療機関や介護サービスがどう機能しているか、質はどうかという空間的に広い視点の両者が必要である。それにはデータが必要である。社会医学の基本である疫学・統計についても触れ、わが国における医療介護ビッグデータの現状含め、今後のデータサイエンスに必要な考え方を解説する。
+  source: https://ocw.tsukuba.ac.jp/data-science/clinical_and_social_medicine/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 田宮 菜奈子
+  affiliation:
+    name: 筑波大学 医学医療系ヘルスサービスリサーチ分野
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2019-09-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

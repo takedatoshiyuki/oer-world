@@ -1,0 +1,140 @@
+slug: icu-ge-ges012-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges012_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Political Science (B) Ｓ１：政治学（B）'
+description:
+  ja: 政治学の基本概念を手がかりに、政治とは何かを多面的に考える講義である。思想史、政治理論、比較政治制度の各アプローチを参照しながら、権力や妥協、社会統合、倫理、ポピュリズムなどの論点を扱う。
+quotedDescription:
+  text:
+    ja: 'Aimed at deepening understanding of a variety of fundamental political concepts and examining
+      the complexity and importance of politics in reality.
+
+      政治学の中心的な諸概念の理解を深め、現実政治の複雑さと重要さについて考察する。思想史的方法、政治理論的方法、比較政治制度のアプローチを検討する。
+
+      Contents of Lectures
+
+      18
+
+      Lectures /
+
+      1
+
+      Video
+
+      Dec 06: Lecture 1
+
+      【イントロダクション】GEの目的：政治学とは何か
+
+      Dec 10: Lecture 2
+
+      政治学とは何か？
+
+      Dec 13: Lecture 3
+
+      政治学とは何か？(1) 自然と作為
+
+      Dec 17: Lecture 4
+
+      政治学とは何か？(2) 権力
+
+      Dec 20: Lecture 5
+
+      政治学とは何か？(3) 妥協
+
+      Jan 07: Lecture 6
+
+      政治学とは何か？(4) 社会統合 【学生発表（１）】
+
+      Jan 10: Lecture 7
+
+      政治学とは何か？(5) 倫理 【学生発表（１）】
+
+      Jan 17: Lecture 8
+
+      「可能なるものの技」と権力
+
+      Jan 21: Lecture 9
+
+      【中間テスト】
+
+      Jan 24: Lecture 10
+
+      政党、カリスマ、ポピュリズム
+
+      Jan 28: Lecture 11
+
+      生活の崩壊と政治的急進化 【学生発表（2）】
+
+      Jan 31: Lecture 12
+
+      平和と革新の相克 【学生発表（3）】
+
+      Feb 04: Lecture 13
+
+      格差社会とポピュリズム 【学生発表（4）】
+
+      Feb 07: Lecture 14
+
+      ポピュリズムと外国人問題 【学生発表（5）】
+
+      Feb 11: Lecture 15
+
+      公害をめぐる政治経済と民衆の抵抗 【学生発表（6）】
+
+      Feb 14: Lecture 16
+
+      原発事故と人間のdisplacement
+
+      Feb 18: Lecture 17
+
+      政治的判断力
+
+      Feb 21: Lecture 18
+
+      まとめ'
+  source: https://ocw.info.icu.ac.jp/ge/ges012_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 木部尚志
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES012 | Course Schedule: 4*/M, 4*/TH | Update: 2014.10.23'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

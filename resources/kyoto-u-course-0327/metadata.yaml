@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0327
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/327/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生命科学研究科修士課程（2020年度入学）入学試験説明会
+description:
+  ja: 生命科学研究科の各分野で行う研究内容を紹介する説明会である。2020年度入学を対象とした修士課程の入学試験説明会として位置づけられている。
+quotedDescription:
+  text:
+    ja: '生命科学研究科ウェブサイト https://www.lif.kyoto-u.ac.jp/j/
+
+      概要
+
+      各分野の研究内容を紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/327/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-04-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

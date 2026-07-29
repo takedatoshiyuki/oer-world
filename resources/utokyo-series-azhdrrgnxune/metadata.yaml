@@ -1,0 +1,64 @@
+slug: utokyo-series-azhdrrgnxune
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=AzHDRRgnXUne
+type:
+- LearningResource
+- Course
+name:
+  ja: 放射能の農畜水産物等への影響についての研究報告会 第14回報告会
+description:
+  ja: 東日本大震災以降に継続してきた被災地支援研究の一環として開かれた第14回の報告会である。森林域を中心に、土壌や河川における放射能汚染について、約6年の調査から得られた知見を扱う。
+quotedDescription:
+  text:
+    ja: "東日本大震災の発生以来、数ヶ月ごとに開催してきた本学農学生命科学研究科での被災地支援研究も、今回で14回目を数えました。 \n  今回は、森林域を中心に、土壌や河川の放射能汚染について、約6年の調査から判ってきたことを報告します。\
+      \ \n  農学生命科学研究科の復興支援プロジェクト HP \n    http://www.a.u-tokyo.ac.jp/rpjt/index.html   \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。\
+      \  \n  お気に入…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=AzHDRRgnXUne
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 丹下 健
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中西 友子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 塩沢昌
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 西村 拓
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

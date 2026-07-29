@@ -1,0 +1,62 @@
+slug: sophia-20110511lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110511lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: Special Seminar:”Effect of Fukushima Nuclear Power Plant Accident, Explanation and Q&A session”
+description:
+  ja: 東日本大震災による福島第一原子力発電所事故を題材に、事故の影響について説明し、その後に質疑応答を行う講演会の記録である。公開資料として講義資料が2件付属しており、事故に関する説明と参加者からの質問への応答を含む内容になっている。
+quotedDescription:
+  text:
+    ja: "Special Seminar: “Effect of Fukushima Nuclear Power Plant Accident, Explanation and Q&A session”\
+      \ \n The Fukushima nuclear power plant accident caused by the east Japan Earthquake is causing anxieties,\
+      \ not only for Japan but also all over the world. The Faculty of Liberal Arts and Faculty of Science\
+      \ and Technology have invited Dr. Matsumoto, who is a leading authority in this field to speak.\
+      \ The presentation is open for all Sophia members interested in receiving correct information, asking\
+      \ questions and understanding what is really happening and how we should react to it."
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110511lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 松本 義久
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 110511lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110511lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110511lecture/
+- name: '講義資料: 110511lecture_si.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110511lecture_si.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110511lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2011/05/11
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,56 @@
+slug: sophia-20140614igc
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20140614igc/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「国際家族農業年と人びとの食料主権国連食糧農業機関(FAO)のパラダイム転換を学ぶ」
+description:
+  ja: 国際機関が大規模企業的農業中心の政策転換を求める背景を取り上げ、2014年の「国際家族農業年」と結びつけて考える講義である。あわせて、日本の農業政策や南の地域の自立に向けた活動の方向性も扱う。
+quotedDescription:
+  text:
+    ja: "2014年は、国連によって定められた「国際家族農業年」です。\n国連食糧農業機関（FAO）や国連貿易開発会議（UNCTAD）などの国際機関は、現在、世界を苦しめている気候変動や飢餓を解決するために、これまで各国政府が奨励してきた大規模企業的農業中心の政策を、早急に家族単位の小規模震業を支持する政策に転換する必要があると強く主張しています。しかし、日本の農業政策をみると、輸出向け農業、農業への企業参入、アフリ力での大規模農業開発の推進など、国連の警鐘を理解しているとは言い難い現実が引き起こされています。\
+      \ \n 世界の潮流に大きな変化をもたらした経緯を学ぶことから、日本の農業政策、南の地域の自立に向けた活動の進むべき方向を共に探ります。\n当日のチラシは こちら をご覧ください。 \n 主催：\n\
+      \ 上智大学グローバル・コンサーン研究所 \n 協力：\nAPLA: Alternative People’s Linkage in Asia人びとが創るもうひとつのアジア \nATJ: Alter\
+      \ Trade Japanオルター・トレード・ジャパン"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20140614igc/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 関根佳恵 (愛知学院大学経済学部教員
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 農業経済学)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+extensions:
+  faculty: グローバル・コンサーン研究所
+  term: 2014/06/14
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

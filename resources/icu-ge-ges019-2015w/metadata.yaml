@@ -1,0 +1,142 @@
+slug: icu-ge-ges019-2015w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges019_2015w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Japanese Constitutional Law S1：日本国憲法'
+description:
+  ja: 日本国憲法の基本原理と成立の背景を軸に、立憲主義の歴史や大日本帝国憲法との関係をたどる。さらに、戦争放棄や基本的人権、国民主権、権力分立、地方自治、象徴天皇制など、憲法の主要な仕組みとその運用を扱う。あわせて、日本と世界の民主主義の現状と将来についても考える。
+quotedDescription:
+  text:
+    ja: 'This class aims to deepen your understanding of the fundamental principles and the historical
+      background of the Constitution. We will also consider the current situation and the future of democracy
+      in Japan and the world
+
+      日本国憲法の基本原理とその歴史的背景への理解を深め、日本と世界における民主主義の現状と将来について考える。
+
+      Contents of Lectures
+
+      6
+
+      Lectures / 4 Videos
+
+      Ⅰ
+
+      現代社会と立憲主義
+
+      1 現代のリバイアサン
+
+      2 立憲主義のあゆみ
+
+      3 よりよき立憲主義のために
+
+      Ⅱ
+
+      日本の立憲主義のはじまり―大日本帝国憲法（明治憲法）
+
+      1 明治憲法の誕生
+
+      2 明治憲法はどんな特色をもっていたか
+
+      3 明治憲法はどのように運用されたか
+
+      Ⅲ
+
+      日本国憲法の制定
+
+      1 日本国憲法の誕生
+
+      2 日本国憲法の制定はどのような意義をもっているか
+
+      Ⅳ
+
+      日本国憲法のしくみ
+
+      1 戦争の放棄
+
+      2 基本的人権の尊重
+
+      3 国民主権と議会制民主主義
+
+      4 権力の分立
+
+      5 地方自治の保障
+
+      6 象徴天皇制について
+
+      Jan 21
+
+      Period 2
+
+      Period 3
+
+      Jan 2
+
+      6
+
+      Jan 2
+
+      8
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      Ⅴ
+
+      日本国憲法はどのように運用されてきたか
+
+      1 解釈改憲の政治
+
+      2 明文改憲を求める政治
+
+      3「二頭だての馬車」の要因
+
+      Ⅵ
+
+      日本国憲法を国民の手に―主権者・国民の出番'
+  source: https://ocw.info.icu.ac.jp/ge/ges019_2015w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 稲正樹
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- business_law
+keywords:
+- 一般教育科目
+- 'Law 法学 | Course ID: GES019 | C'
+- 'GES019 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2019.05.08'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

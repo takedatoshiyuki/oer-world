@@ -1,0 +1,150 @@
+slug: icu-majors-edu117-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/edu117_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: Development and Education 開発と教育
+description:
+  ja: 開発と教育の関係を入門的に扱い、開発課題の中で教育がどのように位置づけられてきたかを考える。あわせて、データやケースを用いて、地域・国・社会ごとの違いや共通点を比較する。講義では、理論とアプローチに加え、ジェンダー、教育の分権化、参加型学校運営、平和構築と教育などの事例を扱う。
+quotedDescription:
+  text:
+    ja: 'This course is an introduction to development and education. The course discusses issues of development
+      and how education has been perceived to play a role in “development.” The course also looks at empirical
+      evidence and discusses similarities and differences across regions, countries, and societies.
+
+      開発と教育に関する入門コース。国際的な開発課題とそれに対する教育の役割がどのように認識されてきたか、その変遷と課題を概説する。また、具体的なデータやケースを用いて地域、国、社会による課題の類似点や相違点についても議論する。
+
+      Contents of Lectures
+
+      1
+
+      8
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Apr 13: Lecture 1
+
+      1. イントロダクション
+
+      第１部：開発と教育をめぐる理論とアプローチ
+
+      Apr15: Lecture 2
+
+      / Apr20: Lecture 3
+
+      2. 開発とは何か？
+
+      April 22: Lecture 4
+
+      3. 開発の手段としての教育 <学生による発表>
+
+      April 27: Lecture 5
+
+      3. 開発の手段としての教育
+
+      April 29: Lecture 6
+
+      4. 開発の目的としての教育 <学生による発表>
+
+      4. 開発の目的としての教育 <学生発表> （4/29）
+
+      May 11: Lecture 7
+
+      4. 開発の目的としての教育
+
+      4. 開発の目的としての教育 （5/11）
+
+      May 13: Lecture 8
+
+      5. 「開発」の枠組みに挑戦する教育 <学生による発表>
+
+      May 18: Lecture 9
+
+      5. 「開発」の枠組みに挑戦する教育
+
+      第2部：開発と教育をめぐる課題事例研究
+
+      May 20: Lecture 10
+
+      6．教育開発とジェンダー <学生による発表>
+
+      May 25: Lecture 11
+
+      6．教育開発とジェンダー
+
+      May 27: Lecture 12
+
+      7．教育の分権化と参加型学校運営 <学生による発表>
+
+      June 01: Lecture 13
+
+      7．教育の分権化と参加型学校運営
+
+      June 03: Lecture 14
+
+      8. 平和構築と教育 <学生による発表>
+
+      June 08: Lecture 15
+
+      8. 平和構築と教育
+
+      June 10: Lecture 16
+
+      9. 学生によるグループ発表
+
+      June 15: Lecture 17
+
+      9. 学生によるグループ発表
+
+      June 17: Lecture 18
+
+      9. 学生によるグループ発表･まとめ'
+  source: https://ocw.info.icu.ac.jp/majors/edu117_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 西村幹子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'Education 教育学 | Course ID: EDU'
+- 'EDU117 | Course Schedule: 3/M, 3/W | Update: 2016.07.04 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

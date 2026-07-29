@@ -1,0 +1,124 @@
+slug: icu-ge-ges057-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges057_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: Education Projects for Global and Social Change Ｓ２：グローバル・社会変革のための教育プロジェ'
+description:
+  ja: 教育を通じてグローバル社会に関わる役割を考えながら、教育プロジェクトの企画と実施を進める講義である。欧米やアジアの高等教育の展開、発展途上国の大学事例、高等教育と経済・政治発展の関係を扱い、学外セミナーとグループでのプロジェクト発表につなげる。
+quotedDescription:
+  text:
+    ja: 'This course will challenge students to think about their present and future role as global citizens
+      in shaping global society through education and facilitate education project planning and implementation.
+      Off-campus seminars will be organized at institutions such as UNICEF, JICA, and local NGOs to provide
+      students with an opportunity to learn about other examples of education projects. Students will
+      work in groups to plan and implement an education project to effect global/social change.
+
+      教育プロジェクトの計画や実施を通して、地球市民としてグローバル社会の構築にどのような役割を果せるかを考察する。ＵＮＩＣＥＦ、ＪＩＣＡ、草の根ＮＧＯなどで学外セミナーを実施し、様々な教育プロジェクトの事例から学ぶ。受講者はグループでグローバル・社会変革に影響するようなプロジェクトを計画し、実施する。
+
+      Contents of Lectures
+
+      8
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Lecture 1
+
+      Early Foundations of Higher Education in the West
+
+      Lecture 2
+
+      The American University and Liberal Arts Education
+
+      Lecture 3
+
+      Globalization of Higher Education
+
+      Jan
+
+      2
+
+      4
+
+      Lecture 4
+
+      Development of Asian Higher Education: Intellectuals and Institutions in China and Japan
+
+      Slide
+
+      Lecture 5
+
+      Exam Cultures, Students, and the Asian University
+
+      Lecture 6
+
+      Universities in Developing Countries: A Cambodian Case Study
+
+      Lecture 7
+
+      Higher Education’s Role for Economic and Political Development
+
+      Feb
+
+      1
+
+      8
+
+      Lecture 8
+
+      Students Presentations of Education Projects
+
+      ※Videos are condensed version of course.
+
+      ※この動画は授業内容をまとめたダイジェスト版を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/ges057_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES057 | Course Schedule: 4*/M, 4*/TH | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1bEwwFmrLumBY7PZgp-sov5kfBkGF6aI5/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges057_2012w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

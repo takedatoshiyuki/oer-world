@@ -1,0 +1,49 @@
+slug: kyoto-u-course-1065
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1065/
+type:
+- LearningResource
+- Course
+name:
+  ja: 防災研究所 第47回総合防災セミナー“Mobilizing a Collaborative Community for Probabilistic Hazard Information”
+description:
+  ja: 京都大学防災研究所が提供・担当する第47回総合防災セミナーである。講義名から、確率的なハザード情報を題材にした協働的なコミュニティの形成を扱うセミナーであることが分かる。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-08-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- health_welfare
+- ict
+keywords:
+- エネルギー・地球科学
+- 安全・衛生
+- データサイエンス
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

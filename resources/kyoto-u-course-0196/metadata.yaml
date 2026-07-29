@@ -1,0 +1,106 @@
+slug: kyoto-u-course-0196
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/196/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回 市民講座「宇宙と物質の謎に迫る」
+description:
+  ja: 京都大学理学研究科が開講した市民講座で、2009年10月31日に実施されている。公開教材として、超伝導、ブラックホール、宇宙暗黒物質と未知の素粒子を扱う講義資料が計9件含まれる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      京都大学グローバルCOEプログラム「普遍性と創発性から紡ぐ次世代物理学－フロンティア開拓のための自立的人材養成－」が昨年度よりスタートしました。今年度も、物理学における最先端の成果を広く一般市民の方々に知って頂くため、市民講座「宇宙と物質の謎に迫る」を開催します。
+
+       
+
+      詳細（普遍性と創発性から紡ぐ次世代物理学HP）http://www.scphys.kyoto-u.ac.jp/gcoe/Announcements/Public_Lecture/past_shimin.html'
+  source: https://ocw.kyoto-u.ac.jp/course/196/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 柴田 一成
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川合 光（グローバルCOEリーダー
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学理学部物理学第二教室 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川上 則雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 嶺重 慎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 今井 憲一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-10-31'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 「超伝導のふしぎ～マクロな量子現象～」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: 「超伝導のふしぎ～マクロな量子現象～」配布資料・略歴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: 「ブラックホールと宇宙の進化」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: 「ブラックホールと宇宙の進化」配布資料・略歴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: 「ブラックホールと宇宙の進化」スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: 「宇宙暗黒物質の謎と未知の素粒子」映像内引用著作物'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: 「宇宙暗黒物質の謎と未知の素粒子」配布資料・略歴'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: 「宇宙暗黒物質の謎と未知の素粒子」スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+- name: '講義資料: ポスターPDF'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2009_第2回市民講座_ポスター.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/196/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

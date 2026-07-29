@@ -1,0 +1,52 @@
+slug: hokudai-hokkaidoandjapaninasia4-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/hokkaidoandjapaninasia4-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 アジアのなかの日本・北海道 第4回 環境汚染問題から見たアジアの中の日本－幾つかの事例から学ぶ－（2011）
+description:
+  ja: アジアで起こる環境汚染を複数の事例から取り上げ、その違いを通して各国の特徴を見ていく。そこから、環境汚染問題の観点で日本をアジアの中に位置づけて考える内容である。
+quotedDescription:
+  text:
+    ja: アジアには先進国もあれば、発展途上国、極貧と呼ばれる国も存在します。また中国やインドのように巨大な人口を抱える国もあれば、モンゴルのように広大な国土にわずかな人口しか持たない国もあります。アジアは多様な国の集合だと言えるでしょう。そこで起こっている環境汚染も様々であり、汚染を調べることでその国の特徴が見えることがあります。幾つかの例を示しながら、環境汚染問題からみたアジアの中の日本について考えましょう。
+  source: https://ocw.hokudai.ac.jp/lecture/hokkaidoandjapaninasia4-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田中 俊逸
+  affiliation:
+    name: 地球環境科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

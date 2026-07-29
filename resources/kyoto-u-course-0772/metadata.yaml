@@ -1,0 +1,76 @@
+slug: kyoto-u-course-0772
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/772/
+type:
+- LearningResource
+- Course
+name:
+  ja: Arakelov geometry over an adelic curve
+description:
+  ja: この講義は、adelic curve 上の Arakelov 幾何という新しい枠組みを扱い、そこから数体・関数体上の Arakelov 幾何や算術幾何の諸理論を見渡す。最初に初等的な geometry
+    of numbers と数体・関数体上の Arakelov 幾何を導入し、その後、算術的対象や不変量、adelic vector bundles の幾何を説明する。最後に、関連する今後の研究課題や未解決問題にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      In a series of lectures I will present a new framework of Arakelov geometry proposed by Atsushi
+      Moriwaki and myself, namely Arakelov geometry over an adelic curve.
+
+      In our setting, an adelic curve refers to a field equipped with a family of absolute values (with
+      possible repetitions) parametrised by a measure space. I will begin with an introduction on elementary
+      geometry of numbers and Arakelov geometry of number fields and function fields and then explain
+      why the setting of adelic curves is natural and permits to unify several frameworks in the literature
+      which could be apparently transversal: Arakelov geometry over number fields and function fields,
+      arithmetic geometry over a finitely generated field (Moriwaki), height theory of M-fields (Gubler),
+      R-filtration method (Chen), Siegel fields (Gaudron and Rémond). The construction of arithmetic objects
+      and arithmetic invariants will be discussed, with an emphasis on the geometry of adelic vector bundles
+      and its relationship with the classic geometry of numbers and Arakelov theory.
+
+      The lectures will be concluded by a view of further research topics and open problems.'
+  source: https://ocw.kyoto-u.ac.jp/course/772/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Université Paris Diderot）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-10-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

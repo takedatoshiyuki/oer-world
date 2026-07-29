@@ -1,0 +1,78 @@
+slug: hokudai-admissioncenter-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/admissioncenter-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: オープンキャンパス アドミッションセンター 総合入試特別プログラム（2010）
+description:
+  ja: 北海道大学のオープンキャンパス当日の様子を映像で記録した教材である。講演と、2010年に導入される新入試制度「総合入試」の説明を中心に、入試や学生生活に関する個別相談会の内容も収める。
+quotedDescription:
+  text:
+    ja: '北海道大学で行っているオープンキャンパスの模様を映像でご紹介しています。 当日お越しになれなかったみなさまも北海道大学の雰囲気を感じることができます。 どうぞご覧ください。
+
+      ・2010年8月1日
+
+      10:00　講演「学問のおもしろさとは」
+
+      10:40　北大の新入試制度「総合入試」に関する説明
+
+      ※北大の入試制度が新たに大きく変わります。受験生・保護者等にわかりやすく解説します。
+
+      11:10　個別相談会（入試、学部所属前の初年次教育、授業料の免除制度、各種の奨学金制度、学生寮、学生生活、就職等）
+
+      ※本学教職員及び在学生が北大に対する質問にお答えします。大学案内誌等の各種パンフレットもご用意しています。
+
+      13:00　北大の新入試制度「総合入試」に関する説明
+
+      ※北大の入試制度が新たに大きく変わります。受験生・保護者等にわかりやすく解説します。
+
+      13:40　講演「学問のおもしろさとは」
+
+      14:10　個別相談会（入試、学部所属前の初年次教育、授業料の免除制度、各種の奨学金制度、学生寮、学生生活、就職等）
+
+      ※本学教職員及び在学生が北大に対する質問にお答えします。大学案内誌等の各種パンフレットもご用意しています。'
+  source: https://ocw.hokudai.ac.jp/lecture/admissioncenter-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 喜多村 昇
+  affiliation:
+    name: 理学研究院
+- type: Person
+  name: 小内 透
+  affiliation:
+    name: 教育学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 複合分野／学際
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

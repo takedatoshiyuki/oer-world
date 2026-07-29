@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0002
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/2/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部公開講座「ひと・社会・工学 －工学のいまを知る－」, 2019
+description:
+  ja: 京都大学工学部が一般市民向けに開く公開講座で、3名の教員が各自の専門分野における最近の研究事例を紹介し、解説する。講座後には参加者の質問に答える時間も設けられている。
+quotedDescription:
+  text:
+    ja: 学部では、「ひと・社会・工学 －工学のいまを知る－」をメインテーマとして、広く一般市民の方々を対象に「工学部公開講座」を開催します。 工学部の教員3名が、それぞれの専門分野に関する最近の研究事例を紹介・解説し、参加者の皆さまからの質問にお答えします。
+  source: https://ocw.kyoto-u.ac.jp/course/2/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉田 英生
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西野 恒
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 冨島 義幸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-07-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- ict
+keywords:
+- 電子工学
+- コンピュータサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

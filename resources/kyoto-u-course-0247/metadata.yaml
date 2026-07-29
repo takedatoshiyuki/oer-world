@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0247
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/247/
+type:
+- LearningResource
+- Course
+name:
+  ja: 森林科学科フォーラムNo. 5「人と共存する木材　過去から未来へ」
+description:
+  ja: 農学部森林科学科（マテリアル系）で木材を研究する教員の研究内容を紹介し、木材が感性に与える効果や木造建築の強度シミュレーションなどを扱う。研究の話題を通して、木材研究の現在とその応用の一端を示す。
+quotedDescription:
+  text:
+    ja: '概要
+
+      農学部森林科学科（マテリアル系）で木材の研究をおこなっている3人の先生方に、研究内容を紹介していただきます。木材が感性に与える効果についての研究や、木造建築の強度シュミレーションを行う最新技術の研究など、様々なお話が伺えます。
+
+      （「森林科学科フォーラム」とは：コロナ禍の状況下でも、森林科学科の学生さんがいろいろな情報を交換できる機会を作ることを目的に、2020年6月からウェブ上で開催しています。その中の一部をOCWで公開します。）'
+  source: https://ocw.kyoto-u.ac.jp/course/247/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 今井 友也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 仲村 匡司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中川 貴文
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田鶴 寿弥子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-31'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 農学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: mdsc-mnist
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mnist
+type:
+- LearningResource
+- Course
+name:
+  ja: MNIST
+description:
+  ja: 0から9までの手書き数字を写した画像データを扱う。28×28ピクセルのグレースケール画像で構成され、学習用とテスト用に分かれたデータセットとして提供される。
+quotedDescription:
+  text:
+    ja: 0から9までの手書きで書かれた数字の画像データ。28×28ピクセルのグレースケールの画像で、60000枚のトレーニング画像と10000枚のテスト用画像。
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mnist
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mnist
+  summary:
+    ja: オープンライセンス（詳細はデータセットページの表示に従う）。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- ict
+keywords:
+- サービス業
+- 学術研究・専門・技術サービス
+- 情報通信業
+- 教育・学習支援業
+- 複合サービス事業
+- 画像
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

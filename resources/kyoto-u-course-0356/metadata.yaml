@@ -1,0 +1,75 @@
+slug: kyoto-u-course-0356
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/356/
+type:
+- LearningResource
+- Course
+name:
+  ja: Super Global Course Basic Lectures
+description:
+  ja: 量子可積分系のハミルトニアンの固有値を考える際に現れるベーテ方程式を手がかりに、KdV類似の系について近年の結果を扱う講義である。新しい見方として、インスタントン多様体の幾何に基づく考え方を用いる。表現論の予備知識は必要としない。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Bethe equations appear when you try to find eigenvalues of Hamiltonians from quantum integrable
+      systems. There are many very different constructions of integrable systems but Bethe machinery seems
+      to be universal, and it is rather unclear why. Maybe because of lack of understanding – we just
+      do not know the better tools.
+
+      In my lectures I will try to explain some recent results about KdV-like systems. People suspected
+      that Bethe equations have to be involved when you study eigenvalues but the situation was very unclear.
+      Now we have some progress. New ideas ideologically not far from so-called AGT-conjecture. It means
+      that the new approach uses the ideas from geometry of instanton manifolds.
+
+      No particular knowledge on representation theory is required.'
+  source: https://ocw.kyoto-u.ac.jp/course/356/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Leading Researcher
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Higher School of Economics）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-07-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,85 @@
+slug: hokudai-sustainablecampuses-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sustainablecampuses-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク サステイナブルキャンパス 国際シンポジウム（2012）
+description:
+  ja: 北海道大学が開講する、サステイナブルキャンパスをテーマにした国際シンポジウムである。欧州3大学の事例をもとに、行動計画、地域連携、PDCAのための評価項目と評価手法を取り上げ、日欧の違いを議論する。
+quotedDescription:
+  text:
+    ja: '昨年行われた国際シンポジウムでは、日米におけるサステイナブルキャンパスに関するトップランナーの大学と、これまでの取組(Achievements)やこれからの課題(Challenges)について紹介いただき、サステイナブルキャンパス構築に向けた今後の方向性を検討しました。
+
+      今回のシンポジウムでは、本学とサステイナブルキャンパスに関する国際交流プロジェクトを協働している欧州3大学からサステイナブルキャンパス構築のための行動計画や地域と連携した計画、そしてPDCAサイクルを回すための評価項目及びその評価手法について紹介いただき、日欧における計画やその評価項目・手法の違いについて議論し、今後のサステイナブルキャンパス構築に向けた知見を得ることを目的とします。'
+  source: https://ocw.hokudai.ac.jp/lecture/sustainablecampuses-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 三上 隆
+  affiliation:
+    name: 北海道大学理事・副学長
+- type: Person
+  name: 阿部 英樹
+  affiliation:
+    name: 文部科学省大臣官房企画部計画課整備計画室
+- type: Person
+  name: 小篠 隆生
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: Patrizia Lombardi
+  affiliation:
+    name: Polytechnic of Turin
+- type: Person
+  name: Silvia Giordano
+  affiliation:
+    name: Polytechnic of Turin
+- type: Person
+  name: Dimitra Dantsiou
+  affiliation:
+    name: University of Cambridge
+- type: Person
+  name: Joao Romao
+  affiliation:
+    name: VU University Amstedam
+- type: Person
+  name: Eveline Leeuwen
+  affiliation:
+    name: VU University Amstedam
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- サステイナブルキャンパス
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

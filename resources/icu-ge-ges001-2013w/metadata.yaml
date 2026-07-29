@@ -1,0 +1,73 @@
+slug: icu-ge-ges001-2013w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S1: Economy and Economics Ｓ１：経済と経済学'
+description:
+  ja: 経済と経済学を扱う講義資料を公開している教材である。国際基督教大学で2013年に開講され、英語と日本語の両方で利用できる。公開ファイルは7件あり、すべて講義資料として提供されている。
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 八代 尚宏
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 一般教育科目
+- 'GES001 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2014.04.30'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Qb96vYKU8sq1nya7kSQGhS2bZRa1F6mH/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1JwC09306H1wpRqIUDXh8HPDf0y2RYcFn/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/11aBHjlEAxdo_eMuDri8A1Y5JPZ4Qw_KH/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ooiEuE3opNPUVz5AEb6_aseBWdN4Okwi/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1wAUGcCQe1IIczUbnlwz__TB4IdBob_YX/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1TvoeGfdUFnIBMCnRlrudvZTKpue7qjsP/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Df6BWUHDlPko03b8XBnS6SUMX5YoDSQB/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/ges001_2013w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

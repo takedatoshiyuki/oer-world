@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0313
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/313/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「平成の災害に学ぶ災害への備え」
+description:
+  ja: 平成の災害を振り返りながら、防災心理学の立場で災害への備えを考える講義である。阪神・淡路大震災の教訓を教材化した「クロスロード」、東日本大震災をもとにした津波避難訓練支援アプリ「逃げトレ」、西日本豪雨を踏まえた「避難スイッチ／セカンドベスト避難術」を取り上げる。
+quotedDescription:
+  text:
+    ja: '講演内容
+
+      平成の世におきた災害を振り返り、防災心理学の立場から、災害への備えについて考えます。具体的には、阪神・淡路大震災（平成7年）の教訓を教材化した「クロスロード」、東日本大震災（平成23年）の経験をもとに制作した「津波避難訓練支援アプリ“逃げトレ”」、西日本豪雨（平成30年）を踏まえて提起した「避難スイッチ／セカンドベスト避難術」についてお話します。
+
+      春秋講義は、京都大学における学術研究活動の中で培われてきた知的資源について、広く学内外の人々と共有を図るため、1988（昭和63）年秋から開講している公開講座です。年に2回、春と秋にテーマをもうけ講義を行います。
+
+      平成31年度春季講義は、「平成を振り返って－日本を取り巻く世界の変化」をテーマに開催します。'
+  source: https://ocw.kyoto-u.ac.jp/course/313/
+  note: 京都大学OCW 「講演内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 矢守 克也
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-09-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+keywords:
+- 安全・衛生
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

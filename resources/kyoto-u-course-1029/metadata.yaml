@@ -1,0 +1,63 @@
+slug: kyoto-u-course-1029
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1029/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部公開講座・オープンセミナー「ひと・社会・工学 －工学のいまを知る－」, 2021
+description:
+  ja: 本講座は、工学が医療や社会の測定技術にどう関わるかを二つの話題から扱う。前半では、医学・工学・臨床医が連携する先端医工学の一端を紹介し、後半では測量の歴史と衛星・航空機を用いた最新の測量技術、そこに共通する原理を取り上げる。
+quotedDescription:
+  text:
+    ja: '「工学から医療への貢献」 工業化学科 教授 近藤 輝幸
+
+      京都大学において、医学と工学、さらには臨床医が一体となり進めている先端医工学の一端を紹介します。また、様々な学問に興味を持つことで皆さんの将来にどんな“知的世界”が拡がっているかをお伝えします。
+
+      「地球をはかる ―衛星や航空機を使った最新の測量―」 地球工学科 教授　須﨑 純一
+
+      古くから国内外で、土地の高さや面積を精確に測る測量技術は重要であり、精度を高める工夫がなされてきました。測量の歴史を振り返り、衛星や航空機を使った最新の測量技術を紹介し、機器が発達しても変わらない原理に焦点を当てます。'
+  source: https://ocw.kyoto-u.ac.jp/course/1029/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 近藤 輝幸
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 須﨑 純一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-07-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- health_welfare
+keywords:
+- 工学
+- 医学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

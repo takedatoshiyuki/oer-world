@@ -1,0 +1,81 @@
+slug: hokudai-workingwoman-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/workingwoman-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 働く女性のONとOFF ～プロフェッショナルが語る「働き方」と「生き方」～（2011）
+description:
+  ja: 2012年2月23日に開催された「働く女性のONとOFF」の資料をまとめた教材である。内容は、ゲルを用いた先端医療材料の話題と、「働き方」と「生き方」をめぐる話題の2部で構成される。
+quotedDescription:
+  text:
+    ja: '2012年2月23日 オステリア シスタービート デュオにて開催された、「働く女性のONとOFF」の資料をご覧いただけます。
+
+      主催 北海道大学創成研究機構
+
+      1. 癒し系の素材”ゲル”が作り出す先端医療材料
+
+      佐藤 のりゆき（北海道大学）、龔 剣萍（グン チェンピン）（北海道大学）
+
+      2. プロフェッショナルが語る「働き方」と「生き方」
+
+      佐藤 のりゆき（北海道大学）、龔 剣萍（グン チェンピン）（北海道大学）、平野たまみ（株式会社あるた出版）'
+  source: https://ocw.hokudai.ac.jp/lecture/workingwoman-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐藤 のりゆき
+  affiliation:
+    name: 創成研究機構
+- type: Person
+  name: 龔 剣萍
+  affiliation:
+    name: 先端生命科学研究院
+- type: Person
+  name: 平野たまみ
+  affiliation:
+    name: タウン情報誌「O.tone」編集長
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- health_welfare
+- education
+- generic
+keywords:
+- 女性
+- 働き方
+- 生き方
+- ゲル
+- 先端医療材料
+- 医学／保健学
+- 教育／学習
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

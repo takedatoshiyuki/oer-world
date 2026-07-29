@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0666
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/666/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「地域をよむ情報学の眼」
+description:
+  ja: 京都大学東南アジア地域研究研究所で行われた柴山守の最終講義である。講義名から、地域を情報学の視点で読み解くテーマを扱う内容であることが分かる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 柴山 守
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- social_sciences
+keywords:
+- 環境学
+- 社会科学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 東南アジア地域研究研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

@@ -1,0 +1,62 @@
+slug: icu-majors-lit215-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/lit215_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: Readings in Greek I ギリシア語講読 I
+description:
+  ja: プラトンの対話篇やホメロスの叙事詩を選んで講読する授業で、例として『ソクラテスの弁明』『クリトン』『パイドン』『饗宴』が挙げられている。プラトンとホメロスは年度ごとに交互に扱い、公開動画はコースの一部を収録したものとなっている。
+quotedDescription:
+  text:
+    ja: 'ソクラテスの弁明，クリトン，パイドン，饗宴などプラトンの作品ないしホメロスの叙事詩から選んで講読する。（毎年交互）
+
+      The text is selected from Plato”s works, such as Apology of Socrates or Crito, and/or Homer (I and
+      II given alternately).
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/lit215_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 佐野好則
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'Literature 文学 | Course ID: LIT'
+- 'LIT215 | Course Schedule: 5/W, 6/W | Update: 2016.02.25'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

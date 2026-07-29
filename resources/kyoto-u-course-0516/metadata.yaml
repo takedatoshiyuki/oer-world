@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0516
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/516/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成26年度 京都大学図書館機構講演会「大学図書館における自学自修施設の整備と今後の活用〜ラーニングコモンズの評価と活用の方策〜」
+description:
+  ja: 大学図書館におけるラーニングコモンズの整備と活用を取り上げ、京都大学での設置事例を手がかりに、その運用をどう分析・評価するかを扱う講演会である。あわせて、学修への貢献度の捉え方や、大学図書館の学修支援機能を強化する方策を考える内容となっている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      近年、大学において学生が学問を学び、身につけるという意味での「学修」を主体的に行えるための環境整備が強く求められており、大学図書館におけるラーニングコモンズの整備はその一環として注目を集めています。京都大学では、教育に関する基本理念として掲げる「対話を根幹とした自学自習」を実現する「場」として今春、ラーニングコモンズを設置し、学生どうしでの学びに留まらず学生が教員と共に学びあうなどアクティブな活動に利用され、活況を呈しています。このようなラーニングコモンズを核とした取り組みが多くの大学で展開され、その効果に期待が高まっていますが、その活動をどのように評価するのか、「学修」への貢献度をどのようにはかるのか、その評価基準は未確立です。
+
+      本講演会では、利用する者が得られる効果を重視したサービスデザイン、およびイノベーション・事業企画などの様々な研究分野の教員を学内からお招きし、ラーニングコモンズの整備と活用に関して、どのように分析・評価し有効性等を見出していくのか論じていただきます。そのうえで、大学の教育効果を一層高めるために、大学図書館の学修支援機能をより強化するための方策の検討を進める機会となればと考えております。
+
+      このテーマに関心をお持ちの、多くのみなさまにご参加いただければ幸いです。
+
+      主催：京都大学図書館機構
+
+      共催：国立大学図書館協会近畿地区協会
+
+      協賛：大学図書館近畿イニシアティブ'
+  source: https://ocw.kyoto-u.ac.jp/course/516/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 元木 環（京都大学情報環境機構 助教
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 学術情報メディアセンター コンテンツ作成室 室長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 赤澤 久弥
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山内 裕
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-12-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

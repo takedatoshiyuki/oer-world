@@ -1,0 +1,56 @@
+slug: hokudai-globalwarming-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/globalwarming-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 民主党政権の温暖化対策(2010)
+description:
+  ja: 民主党政権の温暖化対策を題材に、温室効果ガス削減目標とその実現可能性をめぐる国内の論点を扱う。あわせて、ポスト京都の枠組みをめぐる国際的な対立と、市民が生活のあり方を見直す視点から温暖化防止に何を考えるかを扱う。
+quotedDescription:
+  text:
+    ja: 昨年9月に発足した新政権は2020年までに90年比で温室効果ガスを25％削減することを公約するなど、非常に積極的。国内的には高い削減目標の実現可能性に対する疑念、国際的にはポスト京都の枠組みづくりにつき先進国と途上国の対立が続き、目標実現には様々な努力が必要。市民としては政府の
+      政策対応や国際的な動きにのみ注目するだけではなく、生活のあり方を見直す観点から、温暖化防止に何をなしうるかを考えなければならない。
+  source: https://ocw.hokudai.ac.jp/lecture/globalwarming-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 石井 寛
+  affiliation:
+    name: 北海道大学名誉教授
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 総合博物館
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

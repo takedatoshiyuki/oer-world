@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0388
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/388/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「情報学と戯れる」
+description:
+  ja: 京都大学の学術情報メディアセンターで開講された、美濃導彦による最終講義である。題名からは情報学を主題にした講義であることが分かるが、公開情報は講義名、担当者、開講日、使用言語に限られる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 美濃 導彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

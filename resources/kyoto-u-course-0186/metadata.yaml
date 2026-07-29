@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0186
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/186/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第64回 京都大学品川セミナー「チンパンジーの社会的知性」
+description:
+  ja: チンパンジーの社会的知性を手がかりに、霊長類の社会の中で働く知性を考える講義である。協力が必要な実験課題を通して、相手に合わせる行動や協力を促す行動、さらにだましあいや社会的学習まで扱う。ヒトとチンパンジーに見られる社会性のつながりを取り上げる。
+quotedDescription:
+  text:
+    ja: '社会的知性とは、仲間との暮らし、仲間とのかかわりあいの中で発揮される知性のことだ。「社会的知性仮説」と呼よばれる仮説がある。ヒトの高度な知性は、社会的な場面で発揮される知性が原動力となって進化した。そう主張する仮説である。ヒトを含めた霊長類の多くは、複数の仲間が集団を作って暮らしている。その中で生きるためには、社会の中で相手に合わせて複雑な社会交渉をする必要がある。そのためには高度な知性が必要となる。社会的知性仮説の描くシナリオはこのようなものである。
+
+      　そうした学説を持ち出すまでもなく、ヒトが社会の中で生きていることは誰にとっても明らかなことだろう。特に人間社会は、お互いの協力、助け合いで成り立っているのが特徴的である。それでは、ヒトだけが協力する生き物なのだろうか。ヒトに最も近い生き物であるチンパンジーはどうなのだろうか。チンパンジーは、仲間たちとどんなかかわりをもって生きているのだろうか。
+
+      　チンパンジーを相手に、他者と協力が必要な場面を作って研究してみた。研究場面は２つある。ひとつめは、重たい石をふたりで協力して動かすと食べ物が手に入るという設定である。もうひとつは、1本の長い紐の両端をふたりで同時に引っ張ると食べ物が手に入るという設定である。この２つの場面で、チンパンジーは最初うまくいかずに失敗することも多かったが、回を重ねるごとに相手とタイミングを合わせたり、相手を協力に誘い掛けたりするようになった。協力行動に必要な能力の萌芽を、チンパンジーも備えている。
+
+      　協力するだけでなく、また別の状況ではだましあうこともある。あるいは、道具を使う行動の学習の場面で、他者を見て学ぶ社会的学習もおこなう。ヒトに見られるのと同様の多様な社会的知性の側面をチンパンジーも見せてくれる。社会の中で生きているのは人間だけではなく、こうした社会的知性は進化の過程で連続性をもって生まれてきたものだと言える。チンパンジーの社会性から、人間の社会の原点について学ぶべきことが多くあるだろう。'
+  source: https://ocw.kyoto-u.ac.jp/course/186/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 平田 聡
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-09-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 野生動物研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

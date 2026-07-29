@@ -1,0 +1,134 @@
+slug: kyoto-u-course-0798
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/798/
+type:
+- LearningResource
+- Course
+name:
+  ja: What is Life? The Next 100 Years of Yukawa’s Dream
+description:
+  ja: 京都大学基礎物理学研究所が提供・担当する、英語による講義である。公開資料には「What is Life?」のほか、Masatoshi Murase、Nobuhiro Minaka、Alex Mogilner、Toshio
+    Yanagida、Luciano Floridi、Raphael Pinaud、Seunghwan Kim、Kuniaki Otsuka などの講義資料が含まれる。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007-10-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: What is Life?'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What-is-life_top.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Masatoshi Murase'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Nobuhiro Minaka'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Alex Mogilner'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Toshio Yanagida'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Luciano Floridi'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Raphael Pinaud'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Seunghwan Kim'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Kuniaki Otsuka 1/5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Kuniaki Otsuka 2/5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Kuniaki Otsuka 3/5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Kuniaki Otsuka 4/5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Kuniaki Otsuka 5/5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_08-05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Kunihiko Kaneko'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Hiroyuki Takeda'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: John Evans'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Mitsuhiko Shionoya'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Rudy Rucker'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Susumu Goto'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Kiyoshi Miyagawa'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Franz Halberg'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Aage R. Moller'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: David Deamer'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Robert Arking'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Musashi Tachikawa'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Junji Takabayashi'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Nicholas Humphrey'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Donald W. Pfaff'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Masami Ishido'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+- name: '講義資料: Leif G. Solford'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2007/10/2007_What_is_life_25.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/798/
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0001
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成29年度 京都大学大学院エネルギー科学研究科公開講座『エネルギー科学の今』〜リスク制御とものづくり〜
+description:
+  ja: この講義では、エネルギー技術やICTにみられる技術システムの両面性を手がかりに、リスクを生み出す仕組みとそれを制御する条件を扱う。監視と監査を取り上げ、情報システムを例として、システムの「相補的観察」という理論モデルから説明する。
+quotedDescription:
+  text:
+    ja: '「技術システムのリスク制御としての監視／監査」
+
+      吉田 純（人間・環境学研究科 教授）
+
+      エネルギー技術やICT（情報科学技術）に典型的にみられるように、現代の技術システムは、それ自体が新たなリスクを産出すると同時に、リスク制御の可能性の条件をも産出するという両面性をもっています。リスク産出の拡大とリスク制御の可能性の拡大というこの両面性は、科学技術に依存する現代社会がもつ本質的な二律背反でもあります。そのような現代社会に固有の活動として、この講演では、監視／監査という2種類の活動にとくに注目します。これらの活動がリスク産出に対処しつつ、リスク制御の可能性を具体化していることを、情報システムを具体例として、システムの「相補的観察」という理論モデルを用いて説明します。'
+  source: https://ocw.kyoto-u.ac.jp/course/1/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉田 純
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-10-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー科学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

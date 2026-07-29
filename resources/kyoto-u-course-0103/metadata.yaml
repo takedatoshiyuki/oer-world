@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0103
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/103/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第46回人環国際交流セミナー「科学、社会における蛍光の意義」ピーター・ドーレンボス (Pieter Dorenbos) 教授
+description:
+  ja: 京都大学の人間・環境学研究科が開講した、第46回人環国際交流セミナーの講義である。ピーター・ドーレンボス教授が担当し、科学と社会における蛍光の意義を扱う。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: ピーター・ドーレンボス
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-10-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

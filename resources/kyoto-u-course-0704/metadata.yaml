@@ -1,0 +1,82 @@
+slug: kyoto-u-course-0704
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/704/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電気電子基盤技術の展望–電気電子基盤技術の研究教育拠点形成–
+description:
+  ja: 電気・電子基盤技術の概要を扱い、電子材料・デバイス、回路・システム設計、通信システム・電力システムに関する話題を含む。公開資料には、半導体、イオンビーム技術、量子コンピューティング、ネットワーキング、SoC、超伝導応用などの講義資料がある。
+quotedDescription:
+  text:
+    ja: '授業の紹介
+
+      21世紀における人類の持続的繁栄にとって、地球環境に十分配慮した超高度通信技術および電力供給技術が不可欠である。このような未来社会からの要請を満足する技術を確立するためには、電子材料・デバイス、回路・システム設計、および通信システム・電力システムに関する研究の革新的進展が必須となる。本講座においては、体系的なカリキュラムのもと、電気・電子基盤技術の概要について講述する。'
+  source: https://ocw.kyoto-u.ac.jp/course/704/
+  note: 京都大学OCW 「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: COE関係教官
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- ict
+keywords:
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: "講義資料: 第2回\tワイドギャップ半導体"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+- name: "講義資料: 第5回\t最近のイオンビーム技術とその将来展望"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+- name: "講義資料: 第6回\t量子コンピューティング"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+- name: "講義資料: 第8回\tネットワーキング技術"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+- name: "講義資料: 第9回\tアルゴリズムのハード化"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+- name: "講義資料: 第10回\tシステムオンチップ（SoC）技術"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+- name: "講義資料: 第12回\t高温超伝導体のイントリンシック・ジョセフソン接合とその応用"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+- name: "講義資料: 第13回\t超伝導応用"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_denkidenshikiban_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/704/
+extensions:
+  faculty: 情報学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

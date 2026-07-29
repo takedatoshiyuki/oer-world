@@ -1,0 +1,55 @@
+slug: utokyo-series-142l1mbj0xnv
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=142l1mbJ0XNV
+type:
+- LearningResource
+- Course
+name:
+  ja: 東大出版会×新図書館ブックトーク
+description:
+  ja: 東京大学附属図書館の新図書館計画の一環として行われたトークイベントで、東京大学出版会との共催によるブックトークを扱う。学術書を出版することをめぐり、書き手だけでなく作り手の話も含めて、学術情報の発信の実際に触れる内容である。
+quotedDescription:
+  text:
+    ja: "東京大学附属図書館では、現在進行中の新図書館計画の一事業としてトークイベントを開催しています。今回は、東京⼤学出版会との共催により、阿部公彦准教授(⽂学部・⼤学院⼈⽂社会系研究科 英語英⽶⽂学研究室)をお迎えして、ブックトークを開催いたしました。\
+      \   \n  学術書を出版することについて、「本を書く人」のお話を聞くだけでなく、 「本を作る人」にお話いただき、 学術情報の発信の実際をより深くお聞きする、 新たな…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=142l1mbJ0XNV
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 阿部 公彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小暮 明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

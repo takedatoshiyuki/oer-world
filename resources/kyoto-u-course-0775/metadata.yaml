@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0775
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/775/
+type:
+- LearningResource
+- Course
+name:
+  ja: Top Global Course Special Lectures “Integral equations, the spectral theorem and an introduction
+    to noncommutative geometry”
+description:
+  ja: ヒルベルトの積分方程式論と、そこから発展した非可換幾何学のつながりを扱う講義である。コンヌの構成の一つを軸に、積分方程式をWeylの漸近法則やAtiyah-Singer指数定理へ結びつけて考える。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Hilbert’s theory of integral equations, now over one hundred years old, is a famously successful
+      marriage of matrix algebra and analysis. One way to view Alain Connes’ much newer noncommutative
+      geometry is to see it as an evolution of the theory of integral equations that incorporates geometric
+      ideas into Hilbert’s work. I shall try to develop this perspective in my lecture. I will focus on
+      one construction of Connes, which relates integral equations to Weyl’s asymptotic law, the Atiyah-Singer
+      index theorem, and more.'
+  source: https://ocw.kyoto-u.ac.jp/course/775/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Nigel Higson（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Pennsylvania State University）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-06-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

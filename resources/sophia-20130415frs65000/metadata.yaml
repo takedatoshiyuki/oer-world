@@ -1,0 +1,87 @@
+slug: sophia-20130415frs65000
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+type:
+- LearningResource
+- Course
+name:
+  ja: ロシア政治・外交Ａ－１／RUSSIAN POLITICS A-1
+description:
+  ja: 近現代の日露関係史を、国境画定問題を軸に扱う講義である。国際条約や共同宣言、外交資料、国会議事録、日記などの史資料を取り上げ、それらの読み取りを通じて日露関係を事例とする外交史・国際関係史研究の基礎を学ぶ。
+quotedDescription:
+  text:
+    ja: 近現代日露関係史を国境画定問題を中心に、知られざる日露関係のエピソードもまじえて概説します。講義では、国際条約、共同宣言、外交資料、国会議事録、日記などの史資料を取り上げ、それらについて解説しながら、日露関係を事例とする外交史・国際関係史研究の基礎を学びます。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 上野 俊彦
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20130415FRS65000_1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130415FRS65000_1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 220130415FRS65000_2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/220130415FRS65000_2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 220130415FRS65000_3.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/220130415FRS65000_3.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 220130415FRS65000_4.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/220130415FRS65000_4.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 220130415FRS65000_5.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/220130415FRS65000_5.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 20130415FRS65000_6.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130415FRS65000_6.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 20130415FRS65000_7.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130415FRS65000_7.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 20130415FRS65000_8.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130415FRS65000_8.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 20130415FRS65000_9.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130415FRS65000_9.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 20130415FRS65000_10.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130415FRS65000_10.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+- name: '講義資料: 20130415FRS65000_11.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/20130415FRS65000_11.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20130415frs65000/
+extensions:
+  faculty: 外国語学部 ロシア語学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

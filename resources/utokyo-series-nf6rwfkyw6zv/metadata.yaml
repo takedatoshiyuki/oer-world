@@ -1,0 +1,55 @@
+slug: utokyo-series-nf6rwfkyw6zv
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=nf6RWFKyw6Zv
+type:
+- LearningResource
+- Course
+name:
+  ja: 行政学（2003年度）
+description:
+  ja: 行政現象を行政学の観点からどのように捉え、論じるかを扱う講義である。あわせて、地方分権改革の「三位一体の改革」や公務員制度改革、災害を含む危機管理の事例を取り上げて解説する。
+quotedDescription:
+  text:
+    ja: 行政学では、現実の行政現象はどのようなものか？、ある事象を行政学の観点から述べるとどのように論じることができるか？ということを主に学んでいきます。加えて、講義においては、最近の地方分権改革における「三位一体の改革」や公務員制度改革、災害を含む危機管理の例を取り上げて解説していきます。
+  source: https://ch.u-tokyo.ac.jp/series/?id=nf6RWFKyw6Zv
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 森田 朗
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- business_law
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 法学部・法学政治学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

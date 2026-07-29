@@ -1,0 +1,79 @@
+slug: kyoto-u-course-1069
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1069/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学大学院生命科学研究科2023年度修士課程入学試験向け第1回入試説明会(オンライン開催)
+description:
+  ja: 2022年2月5日にオンラインで開催された、京都大学大学院生命科学研究科の2023年度修士課程入学試験向け第1回入試説明会の一部である。研究科紹介のパートとして、実際に同研究科で活動する学生と研究員が登壇し、研究科の特徴や魅力を扱う。
+quotedDescription:
+  text:
+    ja: 2022年2月5日（土）にオンラインで開催した、京都大学大学院生命科学研究科2023年度修士課程入学試験向け第1回入試説明会のうち、「研究科紹介」パートの動画です。実際に生命科学研究科で活躍する2名の学生、研究員が登壇し、研究科の特徴や魅力を紹介しています。
+  source: https://ocw.kyoto-u.ac.jp/course/1069/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 福澤 秀哉
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 片山 高嶺（生命科学研究科 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 教務委員長）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 今吉 格
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中野 雄司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 近藤 武史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 梶原 智明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 渡邉 佳織
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-02-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,46 @@
+slug: kyoto-u-course-0378
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/378/
+type:
+- LearningResource
+- Course
+name:
+  ja: 法学部オープンキャンパス「アメリカ大統領って強いリーダーなの？－比較の中から考える」
+description:
+  ja: 京都大学法学部のオープンキャンパスで開講された講義で、担当は待鳥聡史である。アメリカ大統領を「強いリーダー」とみなせるかどうかを、比較の観点から考える内容である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 待鳥 聡史
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-08-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- business_law
+keywords:
+- 法学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 法学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

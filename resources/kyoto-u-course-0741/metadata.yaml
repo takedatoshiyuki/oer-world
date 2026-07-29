@@ -1,0 +1,92 @@
+slug: kyoto-u-course-0741
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/741/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報技術演習
+description:
+  ja: 文書作成の基礎から、コマンド操作による処理の自動化、プログラミング、プレゼンテーション、インターネット、データベース、情報セキュリティまでを扱う講義資料を公開する。複数回分の資料から、情報技術の各分野を順に取り上げる構成になっている。
+quotedDescription:
+  text:
+    ja: プロジェクト演習の形をとりながら、文系学生にとっての実戦的な「情報の処理法」を学ぶ。
+  source: https://ocw.kyoto-u.ac.jp/course/741/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 井寄 幸平
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 林 晋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+- ict
+keywords:
+- 文学
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回　文書の作成：演習の概要'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第2回　文書の作成：文書の構造と意味'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第3回　MS-DOSコマンドと処理の自動化'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第4回　関数とプログラミングの基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第5回　プレゼンテーションとPowerPoint'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第7回　インターネットとプロトコル'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第8回　インターネット･アプリケーション'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第9回　データベースとMicrosoft Access'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第10回　データベースとSQL'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+- name: '講義資料: 第12回　情報セキュリティ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2005_jouhougijutsuenshuu_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/741/
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

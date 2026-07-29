@@ -1,0 +1,68 @@
+slug: sophia-20121008comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20121008comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: China’s Development Prospect beyond the Middle-Income Level
+description:
+  ja: 中国が上位中所得国に位置づけられたことを踏まえ、その発展段階における課題を扱う講義資料である。社会経済構造の転換や中所得国の罠に関わる論点を取り上げ、国際比較の視点から中国の対応可能性を検討する。
+quotedDescription:
+  text:
+    ja: Earlier this year, China was officially upgraded by the World Bank to the rank of the “upper middle-income
+      countries”. This is a milestone of the country’s remarkable achievements over thirty years of rapid
+      and persistent economic growth. Nevertheless, China now faces a series of challenges in a profound
+      transition of its social-economic structure. Whether China is able to meet these challenges will
+      determine its chance to avoid the so-called “middle income trap” in the coming decades. This seminar
+      will discuss these challenges and assess China’s ability to meet the challenges in an internationally
+      comparative perspective.
+  source: https://ocw.cc.sophia.ac.jp/lecture/20121008comparativeculture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: Ding LU (Economics professor
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Senior associate
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: Canada)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20121008comparativeculture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/20121008comparativeculture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20121008comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2012/10/08
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

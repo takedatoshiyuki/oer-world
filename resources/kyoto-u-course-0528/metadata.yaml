@@ -1,0 +1,86 @@
+slug: kyoto-u-course-0528
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/528/
+type:
+- LearningResource
+- Course
+name:
+  ja: ブレンディッドな次世代高等教育を展望する ―アジアのトップ大学のICT活用教育最前線―
+description:
+  ja: 本講義は、MOOCやSPOC、オープンコースウェアなどを用いた反転学習やブレンディッド・ラーニングを取り上げ、オンライン教育を基盤とする新しい学習環境を扱う。あわせて、MOOCやオンライン教育を活用した単位・学位・専門資格の制度づくりや、ICTによる多様な学生の学びの支援事例を概観する。アジアのトップ大学の関係者を交え、次世代の高等教育のあり方を考えるシンポジウム形式の内容である。
+quotedDescription:
+  text:
+    ja: '概要
+
+      MOOC が世界的に普及し始めてから５年ほどが経ち、世界に溢れるMOOCの数は既に１万を超え、その数はさらに増え続けています。その一方で、MOOC・SPOC・オープンコースウェアやその他のオンライン教材・学習環境を利用した反転学習や
+      Blended Learning も国内外で進み、さらに MOOC やオンライン教育を利用した新たな単位・学位・専門資格の取得システム・制度づくりの動きも活発になっています。
+
+      我が国でも、産業分野や労働市場の急激な変化に伴う「社会人の学び直し」や「リカレント教育」の推進が喫緊の重要課題とされていますが、現在の国内の経済状況を鑑みても、就業している人たちが、一時的に職を離れてフルタイムの学生として大学や大学院に戻るということは現実的に容易ではありません。また、若年層の少子化によって多くの大学で定員割れが問題となっている中、社会の活力となる多様な人材を育て続けていくために、ICT
+      を利用した新しい教育方法をどのように戦略的に活用すべきかは、大学関係者は勿論のこと、産学官のステークホルダーにとって喫緊かつ重要な課題と言えます。
+
+      本シンポジウムでは、アジアのトップ大学から先端的取り組みを先導しているリーダーやアドミニストレーターを基調講演者・特別講演者に迎え、国内の産学関係者と共に、多様な学生の多様な学びを、ICT や新たな教育方法・環境を利用し、いかに効果的・効率的に支援できるかを事例紹介等を通じて概観し、ブレンディッドな次世代高等教育の可能性を展望します。'
+  source: https://ocw.kyoto-u.ac.jp/course/528/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 喜多 一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 酒井 博之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田口 真奈
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 飯吉 透
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Peking University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Director
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Cheolil Lim（Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Department of Education
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-03-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 高等教育研究開発推進センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

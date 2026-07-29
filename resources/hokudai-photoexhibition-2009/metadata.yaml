@@ -1,0 +1,57 @@
+slug: hokudai-photoexhibition-2009
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/photoexhibition-2009
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学教育GP「博物館を舞台とした体験型全人教育の推進」 知られざる北海道写真の展覧会をつくる （2009）
+description:
+  ja: 北海道大学函館キャンパスの水産科学館に残る疋田豊治氏撮影のガラス乾板資料を扱う。院生・学生がその写真資料を調べ、展覧会を準備する過程を紹介する。
+quotedDescription:
+  text:
+    ja: 北大函館キャンパス内にある水産科学館には、明治末から昭和初期まで水産学部で教鞭をとった疋田豊治氏の撮影による約6,000点にも及ぶガラス乾板が残されています。疋田氏は、シシャモの学名の命名者で、カレイの研究者として知られています。「疋田写真」は「北海道開拓写真」と並ぶ北大の所蔵する貴重な歴史資料ですが、これまでほとんど紹介されてきませんでした。この「疋田写真」を研究し、展覧会を準備する院生・学生の活動について報告します。
+  source: https://ocw.hokudai.ac.jp/lecture/photoexhibition-2009
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 谷古宇 尚
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2009'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- agriculture
+keywords:
+- 文学／思想／言語
+- 歴史／民俗
+- 水産学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,51 @@
+slug: sophia-20110724ocyamazaki
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110724ocyamazaki/
+type:
+- LearningResource
+- Course
+name:
+  ja: 曖昧な家族員と共に生きる人々への看護
+description:
+  ja: 上智大学総合人間科学部看護学科で2011年度に開講された講義の教材である。公開されている資料は1件の講義資料PDFで、担当は山崎あけみである。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 山崎 あけみ
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- health_welfare
+keywords:
+- オープンキャンパス
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20110724ocyamazaki.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20110724ocyamazaki.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110724ocyamazaki/
+extensions:
+  faculty: 総合人間科学部 看護学科
+  term: 2011年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,110 @@
+slug: icu-ge-gen064-2018s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen064_2018s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N2: Foundation of Global Informatics Ｎ２：グローバル情報学基礎'
+description:
+  ja: 情報リテラシ、情報セキュリティ、情報倫理の基礎を扱い、図書館資料とWebを用いた情報検索や、データを統計的に扱うための基本技能を学ぶ。講義内容には、インターネット、ネットワーク・セキュリティ、著作権、データ分析、GIS、デジタルアースなどが含まれ、実習も行う。
+quotedDescription:
+  text:
+    ja: 'Students aim to acquire minimum body of knowledge and skills for information literacy, information
+      security measure, and information ethics. They are required to learn basic skills to retrieve global
+      information from combined library and Web resources and to handle data for humanity,social and natural
+      sciences in a statistically proper way.
+
+      情報リテラシ、情報セキュリティ対策、情報倫理の最低限の知識とスキルの獲得を目指す。図書館資料とWeb情報からグローバルな情報および人文・社会・自然科学のデータを統計的に正しく取り扱う基礎的な技能を習得する。実習を含む。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      3
+
+      Videos
+
+      1. Overview of ‘Information Literacy’ 情報リテラシのあらまし
+
+      Apr 19
+
+      2. Internet and World Wide Web インターネットとWeb(WWW)
+
+      Lecture Notes
+
+      Apr
+
+      26
+
+      3. Network security ネットワーク・セキュリティ
+
+      Period5
+
+      Period6
+
+      Lecture Notes
+
+      4. Internet-based electronic commerce and social media ネット上の商取引とソーシャルメディア
+
+      5. Copyright of things and its infringement 著作権とその侵害
+
+      6. Data/Information handling and processing (Data Science) データあるいは情報の取り扱い(Data Science)
+
+      7. Data analysis データ分析
+
+      8. Geographical Information System 地理情報システム
+
+      9. Digital earth デジタルアース'
+  source: https://ocw.info.icu.ac.jp/ge/gen064_2018s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 尾崎 敬二
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- ict
+keywords:
+- 一般教育科目
+- 'GEN064 | Course Schedule: 5/TH,(6/TH,7/TH) | Update: 2019.01.30'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1JPC7Qz5C2dYyJQhz57wixu9BZEXzGuBY/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen064_2018s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1pQF-90zA3Mi5JcTbAQaJA177ELg4VEN1/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen064_2018s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

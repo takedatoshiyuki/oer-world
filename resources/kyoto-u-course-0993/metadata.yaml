@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0993
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/993/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 2020レクチャーシリーズ第4回「〈連動史〉として見たブラジルにおける日本的教育文化の展開」
+description:
+  ja: ブラジルの日系移民社会を対象に、日本的教育とブラジル公教育がどのように並行して展開したかを扱う講義である。1930年代後半の日系小学校教育を取り上げ、スポーツや銃後運動、修学旅行を通じた教育実践を追う。さらに、日本とブラジルの近代化の連動という観点から、その歴史的意味と課題を考察する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      グローバル教育展開オフィス主催　2020年度レクチャーシリーズ『越境する「日本型教育」の歴史的・多目的理解に向けて』の第4回講演会を、10月31日（土）にZoom開催しました。今回は、国際日本文化研究センター
+      プロジェクト研究員 根川 幸男 氏が「〈連動史〉として見たブラジルにおける日本的教育文化の展開」と題した講演を行い、司会進行は安藤幸講師が務めました。日本語と英語の同時通訳を導入し、学内外および国内外からも多くの参加がありました。講演会では活発な質疑応答も行われ、盛況のうち閉会しました。
+
+      要旨
+
+      太平洋戦争前のブラジル日系社会は、帝国の飛び地、国民国家ブラジルを形成する一つの移民コミュニティという二重の性格を帯びていました。したがって、ブラジルの日系移民子弟教育においても、日本的教育とブラジル公教育が並行して発展しました。
+
+      本講義では、1930年代後半に全盛期を迎えたブラジル日系小学校教育を概観し、そこで行われた日本的教育の実践を紹介します。特に、ブラジルのナショナリゼーション政策が進められた当時、日系小学校において、スポーツや銃後運動、修学旅行を通じて、日本的教育が展開していく様子を確認します。そして、日本とブラジルの二つの近代化の連動を見たとき、日本的教育文化がどのような歴史的意味を有し、どのような問題を喚起するのかについて、考えてみたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/993/
+  note: 京都大学OCW 「概要」・「要旨」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 根川幸男
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-10-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

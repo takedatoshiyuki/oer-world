@@ -1,0 +1,47 @@
+slug: tsukuba-ds-chemistry-and-data-science
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/chemistry-and-data-science/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 化学とデータサイエンス －化学はデータ科学でどのように変わるか？－
+description:
+  ja: 化学研究にデータサイエンスの手法を取り入れる動きを扱う講義である。データサイエンスを化学研究にどう活用できるかを、具体例を用いて説明する。
+quotedDescription:
+  text:
+    ja: 化学の研究にデータサイエンスの手法を取り入れる試みは、近年極めて活発に行われている。本講義では、データサイエンスをどのように化学の研究に活用できるかを、具体例を交えて解説する。
+  source: https://ocw.tsukuba.ac.jp/data-science/chemistry-and-data-science/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 田中 大輔
+  affiliation:
+    name: 関西学院大学理学部化学科
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2023-09-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

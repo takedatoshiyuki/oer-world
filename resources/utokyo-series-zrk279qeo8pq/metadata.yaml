@@ -1,0 +1,80 @@
+slug: utokyo-series-zrk279qeo8pq
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Zrk279Qeo8PQ
+type:
+- LearningResource
+- Course
+name:
+  ja: 物質の科学 ‐その起源から応用まで（学術俯瞰講義）
+description:
+  ja: 物質を手がかりに、その起源を探る学問、性質を解明する学問、工学的に利用する学問を横断して扱う講義である。物質の科学に関わる学術の流れを通して、現代の物質の科学の全体像を示す内容になっている。
+quotedDescription:
+  text:
+    ja: '現代の科学・技術は、素粒子から生命体に至るまで、あるいは個人から社会全体に至るまで、さまざまな階層における基礎的な現象、応用に関わる事柄を対象にしている。そして、対象とすべき現象・事柄は、科学・技術の発展にともなって増加の一途をたどっている。
+
+      この講義では、われわれの身の回りの全ての現象・事柄の根源にある「物質」をキーワードとして、物質の起源を探る学問分野、物質の性質を明らかにする学問 分野、物質を工学的に利用する学問分野を繋いで、「物質の科学」を貫く学術の流れを解説する。この講義によって、学生が現代の「物質の科学」の全体像を掴
+      み、さらには、前期課程で学んでいる授業科目の重要性や位置付けを再考し、将来の勉学に向けて展望を得ることができればよいと考えている。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Zrk279Qeo8PQ
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小柴 昌俊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 勝彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 家 泰弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 小宮山 宏
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- engineering
+- ict
+keywords:
+- 宇宙・物理
+- ロボット・技術
+- エネルギー・資源
+- 宇宙
+- ビッグバン
+- 素粒子
+- 物理学
+- 量子論
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

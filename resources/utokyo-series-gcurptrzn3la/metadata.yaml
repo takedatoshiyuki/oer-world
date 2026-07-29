@@ -1,0 +1,80 @@
+slug: utokyo-series-gcurptrzn3la
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=GCURptRZN3la
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和6年度 研究倫理セミナー
+description:
+  ja: 本講義は、責任ある研究とイノベーション（RRI）と、倫理的・法的・社会的観点（ELSI）を扱う研究倫理セミナーである。複数分野の視点を交えながら、これらの論点を議論し、学内での3年間の取組の総括や各部局の取り組みも紹介する。
+quotedDescription:
+  text:
+    ja: 2024年度研究倫理セミナーでは、「責任ある研究とイノベーションの浸透と実践」をテーマに、RRI(Responsible Research and Innovation：責任ある研究とイノベーション)やELSI
+      (Ethical, Legal and Social Issues：倫理的・法的・社会的観点)に関する講演を行います。 また、RRIやELSIについて、様々な学問分野からの視点を共有、議論します。
+      学内での3年間の取組の総括と、各部局における良い取り組みについても紹介します。
+  source: https://ch.u-tokyo.ac.jp/series/?id=GCURptRZN3la
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤垣 裕子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 須谷 尚史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩田 覚
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 川口 大司
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 香坂 玲
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- health_welfare
+- business_law
+- ict
+keywords:
+- 生命・医療
+- 政治・法律
+- AI・情報
+- 経済・金融
+- 環境
+- 国際関係
+- 倫理
+- 研究
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0223
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/223/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学経済研究所創立50周年記念事業　50周年記念講演会「日本とアジアの経済力」
+description:
+  ja: 京都大学経済研究所による50周年記念講演会で、日本とアジアの経済力を扱う。担当は有賀健、藤田昌久、李栄薫、矢野誠で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 有賀 健
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 藤田 昌久
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 李 栄 薫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 矢野 誠
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-11-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 経済研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

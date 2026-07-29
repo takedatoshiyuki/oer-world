@@ -1,0 +1,77 @@
+slug: utokyo-series-bplcuf2bh1hh
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=bplcuF2Bh1hh
+type:
+- LearningResource
+- Course
+name:
+  ja: 進化生態情報学（2003年度講義）
+description:
+  ja: 生命システムにおける進化の基本概念を導入し、適応や選択淘汰、自己複製を扱う講義である。さらに、文化や都市、知識体系のような非生命システムに現れる進化現象も取り上げ、生命と非生命の違いを考える。あわせて、人間の生物学的側面と文化的側面の関係を、遺伝子とミームの対立という観点から検討する。
+quotedDescription:
+  text:
+    ja: '生命という情報システムの振る舞いは、他のシステムを調べるときにいろいろな点で参考になることが多い。とくに、環境に適応するメカニズムとプロセス（＝進化）は、生命以外のシステムにも共通する点が多く、複雑系を理解するための基本概念である。
+
+      この講義では、まず、生命システムの進化について、適応、選択淘汰、自己複製などの基本概念を解説する。次に、人間の文化や都市システム、知識システム、 ミッキーマウス、フォークなど、生命以外のシステムにみられる進化現象について考察する。さて、こうなると、生命体と非生命体は、どこがどうちがうのだろ
+      うか？
+
+      また、人間そのものの進化過程をまとめながら、人間の生物としての側面と文化的な側面の関係について、両者の葛藤（遺伝子とミームの対立？）という視点か ら論じる。これはたとえば、「新興宗教の教義に殉じて自殺した人間は幸せなのか？」といった問題に、進化論的な立場から回答を試みるということである。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=bplcuF2Bh1hh
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 佐倉 統
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 瀬名 秀明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 前田 邦宏
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2003'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+- health_welfare
+- social_sciences
+keywords:
+- 教育
+- 生命・医療
+- 心理・認知
+- 文化・芸術・文芸
+- 言語・思想
+- AI・情報
+- 宇宙・物理
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 学際情報学府
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

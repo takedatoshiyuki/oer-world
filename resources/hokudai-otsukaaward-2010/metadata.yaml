@@ -1,0 +1,72 @@
+slug: hokudai-otsukaaward-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/otsukaaward-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学大塚賞受賞者講演会（2010）
+description:
+  ja: 北海道大学大塚賞受賞者講演会の記録で、北海道大学人材育成本部女性研究者支援室が主催し、ファカルティハウス エンレイソウで2012年3月13日に行われた。担当者としてJoanna Schug、鍛冶
+    怜奈、平田 恵理、大塚 沙織が記載されている。
+quotedDescription:
+  text:
+    ja: '北海道大学大塚賞受賞者講演会
+
+      主催　北海道大学人材育成本部女性研究者支援室
+
+      場所　ファカルティハウス エンレイソウ
+
+      日時　2012年3月13日'
+  source: https://ocw.hokudai.ac.jp/lecture/otsukaaward-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Joanna Schug
+  affiliation:
+    name: 文学研究科
+- type: Person
+  name: 鍛冶 怜奈
+  affiliation:
+    name: 工学研究科
+- type: Person
+  name: 平田 恵理
+  affiliation:
+    name: 歯学研究科
+- type: Person
+  name: 大塚 沙織
+  affiliation:
+    name: 獣医学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- generic
+keywords:
+- 大塚賞
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

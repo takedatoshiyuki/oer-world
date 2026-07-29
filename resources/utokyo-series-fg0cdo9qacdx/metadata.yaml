@@ -1,0 +1,67 @@
+slug: utokyo-series-fg0cdo9qacdx
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=FG0Cdo9QacDX
+type:
+- LearningResource
+- Course
+name:
+  ja: GXのための対話集会
+description:
+  ja: 東京大学のGreen Transformation（GX）をテーマに、大学の取り組みを対話形式で扱う。UTokyo CompassにおけるGXの位置づけにも触れ、取り組みを進めるための機会として構成されている。映像には当日の登壇者と参加者の意見交換は含まれていない。
+quotedDescription:
+  text:
+    ja: '東京大学は、2021年9月30日に公表した東京大学の行動指針「UTokyo Compass」において、国際的なGXの先導を含む「Green Transformation（GX）」を行動計画の柱の一つに位置づけています。東京大学のGXについてみなさまと対話を通じ、具体的な取組みを加速していくための機会となれば幸いです。
+
+      ※対話集会当日に行った登壇者と参加者の意見交換は本映像に収録されていません。
+
+      英語（同時通訳付き）の動画はこちら'
+  source: https://ch.u-tokyo.ac.jp/series/?id=FG0Cdo9QacDX
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤井 輝夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大久保 達也
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 菊池 康紀
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- engineering
+keywords:
+- 環境
+- エネルギー・資源
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け・学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

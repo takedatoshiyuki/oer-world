@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0474
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/474/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第2回 iCeMSラーニングラウンジ：GP Namasivayam + Marcel Hörning
+description:
+  ja: 若手研究者2名が英語で自身の研究を紹介し、それぞれのテーマを社会背景と結びつけて話す講義である。GP Namasivayamは自然にならう治療法の開発を、Marcel Hörningは心臓発作のしくみとAED、埋込型ペースメーカーの働きを扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      GP Namasivayam（ジーピー・ナマシヴァヤム）助教
+
+      「実現間近？－自然にならえば不治の病の治療法が見えてくる」
+
+      ニュースでは日々、科学界での新しい発見が伝えられ、治療不可能だと思われていた病気の治療に一歩近づいたと報じられます。「近づいた」とは言いますが、一体どれくらい近づいたのでしょうか？複雑な病気の安定的な治療法により早くたどりつくために必要な、自然の摂理にならった治療法の開発についてお話しします。
+
+       
+
+      Marcel Hörning（マルセル・ホールニング）助教
+
+      「心臓発作ってなんだろう？」
+
+      知っていますか？心臓病は世界で最も高い死因の一つですが、ほとんどの人が心臓病とは何か、どのように治療されるのかを知りません。心臓発作の時、私たちの心臓に何が起こるのか、AEDや埋込型ペースメーカーはどうやって我々の命を救うのかについてお話しします。'
+  source: https://ocw.kyoto-u.ac.jp/course/474/
+  note: 京都大学OCW 「概要」・「「心臓発作ってなんだろう？」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: GP Namasivayam 助教）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Marcel Hörning 助教）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-08-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,127 @@
+slug: icu-majors-mth232-2017s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+type:
+- LearningResource
+- Course
+name:
+  ja: Basic Concepts in Mathematics I (Sets and Algebraic Structures) 数学通論 I（集合と代
+description:
+  ja: 集合と写像、同値関係と同値類、濃度、代数系を扱い、現代数学の基礎となる概念を学ぶ講義である。毎週の講義1時限と演習2時限で構成され、講義資料が公開されている。
+quotedDescription:
+  text:
+    ja: 'Foundation of sets and algebraic structures basic to modern mathematics. Includes sets and mappings,
+      equivalence relations and equivalence classes, cardinal, and algebraic structures. One period of
+      lecture and two periods of recitation weekly.
+
+      現代数学の基本概念のなかから，集合および代数系の基礎を学ぶ。集合と写像，同値関係と同値類，濃度 および代数系。毎週講義1時限，演習2時限。
+
+      Contents of Lectures
+
+      9
+
+      Lectures /
+
+      8
+
+      Videos'
+  source: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 鈴木寛
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 名誉教授
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Mathematics 数学 | Course ID: MT'
+- 'MTH232 | Course Schedule: 5/W,(6/W,7/W) | Update: 2019.05.13'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1kX_b6ct0PGjNh4KLeUvBhcFaS7vuGs2t/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ASO8duTyWjIsMDkUP0ilekNccUjtb09T/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1fHPsVoAyOPIwcHXr1hWUjK36RTGYnk7J/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/11mYKcAgYMCGOrWgKS2yLtUfroUhgf_hg/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Lq7-UlCl7tKldPIJgWxs0PwlP6Q8eQF-/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/10fQsg41mDJSNQyuoMz5ZuhjPKXJW4ND7/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1kxGyh7Z8ViUSVJWCPlCedqGnhxAJn-9_/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1VroNz8QDrlinD33cILzql-1nUrflF_DI/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1em5lQHWGvJsFD98wCZZjMCwqvfbA7VS5/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/15vFKAgvkdgjIoV_mqtuCWFqsffADqpLO/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1FvairUIzVXgpy_0NVytE6Wspw8QdSB45/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1IbVjP_ZUjOdMYy8bugfzxE_Pdnu0b0IJ/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1UO3Qe3RXS6ksaY5oA5wyr7YFrPTbPSR3/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1Hh7AMsLBu-Dolk28Mj5xA70O-ovcUqed/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1t5EoYqPCGQbCHcuEFePeuh6uAtAzDh37/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1j0VD7hK-CT9yj7xanx0F14DUTmY2qThq/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1GoK7JIU5nexah17q_BYqk36i9jC8vqbY/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/mth232_2017s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

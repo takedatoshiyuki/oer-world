@@ -1,0 +1,132 @@
+slug: hokudai-sustainable-society-and-energy
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「中学校理科・モデル授業 持続可能な社会とエネルギー」
+description:
+  ja: 中学校理科の授業として、日本のエネルギー事情から発電方法の比較、北海道の電源構成やブラックアウトまでを順に扱う教材である。後半では、将来の電源構成、発電に伴う廃棄物、NIMBY問題を取り上げ、複数の視点からエネルギーの課題を考える構成になっている。
+quotedDescription:
+  text:
+    ja: '中学校理科・モデル授業　持続可能な社会とエネルギー
+
+      ー科学的根拠に基づいて、正解のない問題に対峙する資質・能力を育成するー
+
+      ■授業内容
+
+      ｢中学校理科・モデル授業　持続可能な社会とエネルギー」の教材は全て制限資料のライセンスで公開しています。
+
+      イントロダクション
+
+      第1時 日本のエネルギー事情を知る
+
+      第2時 エネルギー基本計画、１日の必要な発電量
+
+      第3時 発電方法の長所と短所
+
+      第4時 東日本大震災前後での北海道電力の電源構成
+
+      第5時 ブラックアウトが起きた理由
+
+      第6時 北海道でつくることができる電力
+
+      第7時 未来の電源構成を考える?
+
+      第8時 未来の電源構成を考える?
+
+      第9時 日本政府の電源構成案（2030年）
+
+      第10時 電気をつくってできる廃棄物
+
+      第11時 NIMBY問題をどうするか
+
+      ※第11時の授業で紹介している動画は、以下のURLより視聴してください。
+
+      「反対する人の理解どう得るか」福島県学生が寿都町長と意見交換 高レベル放射性廃棄物処分場選定に向けて (21/11/06 18:50), 北海道ニュースUHB
+
+      https://youtu.be/gX1mWuC5-aY?si=9_FMmzSoqRLF5arO
+
+      「地元だったら…」寿都町高校生が考える「核のごみ」復興途中の福島県訪れ向き合う"核の今と町の未来" (22/09/04 08:00), 北海道ニュースUHB
+
+      https://youtu.be/ufyn4keZHnA?si=x5dTYqBQ_s6VFGuD'
+  source: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 森山 正樹
+  affiliation:
+    name: 札幌市立あやめ野中学校
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2022'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 中学教育
+- エネルギー環境問題
+audience:
+- student
+materials:
+- name: '講義資料: 中学校３年理科「未来の電源構成を考えよう」札幌市立あやめ野中学校 2022年度の実践'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/Junior-High-School-Science-Sustainable-Society-and-Energy.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第1時 日本のエネルギー事情を知る'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-1.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第2時 エネルギー基本計画、１日の必要な発電量'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-2.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第3時 発電方法の長所と短所'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-3.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第4時 東日本大震災前後での北海道電力の電源構成'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-4.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第5時 ブラックアウトが起きた理由'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-5.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第6時 北海道でつくることができる電力'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-6.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第7時 未来の電源構成を考える?'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-7.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第8時 未来の電源構成を考える?'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-8.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第9時 日本政府の電源構成案（2030年）'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-9.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第10時 電気をつくってできる廃棄物'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+- name: '講義資料: 第11時 NIMBY問題をどうするか'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2023/12/sustainable-society-and-energy-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/sustainable-society-and-energy
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,50 @@
+slug: kyoto-u-course-1086
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1086/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学大学院生命科学研究科2023年度修士課程入学試験向け第2回入試説明会
+description:
+  ja: 京都大学大学院生命科学研究科の修士課程入学試験に向けた第2回の入試説明会を扱う。担当は永田理奈と山野隆志で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 永田 理奈
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 山野 隆志
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2022-04-02'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 生命科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

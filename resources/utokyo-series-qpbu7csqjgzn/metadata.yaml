@@ -1,0 +1,95 @@
+slug: utokyo-series-qpbu7csqjgzn
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Qpbu7cSqJgzN
+type:
+- LearningResource
+- Course
+name:
+  ja: ジェロントロジー2：高齢社会の社会システムと生活環境
+description:
+  ja: 東京大学の2008年度開講講義で、高齢者や高齢社会の問題を学際的に扱うジェロントロジーをテーマにする。社会システムや生活環境に関わる高齢社会の課題を視野に入れた内容として提示されている。
+quotedDescription:
+  text:
+    ja: '「ジェロントロジー」とは、高齢者や高齢社会の諸問題を解決するために生まれた学際的学問です。医学、看護学、理学、工学、法学、経済学、社会学、心理学、倫理学、教育学などの幅広い領域を包含します。２０１５年には４人に１人が６５歳以上という超高齢社会を迎える日本では、専門分化した学問だけでは対応が難しい複雑な問題が生じてきています。ジェロントロジーを学ぶことは、将来どの専門領域に進む上でも非常に有用です。
+
+      総長室直轄の総括プロジェクト機構ジェロントロジー寄付研究部門では、ジェロントロジーに関する学際的教育基盤構築の一環として、２００８年度より学際横断型教育プログラム「ジェロントロジー」を国内で初めて設置し、高齢者や高齢社会の諸問題に関する学際的な知識を有する学生の育成を開始します。あらゆる分野を目指す学生の参加を歓迎します。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=Qpbu7cSqJgzN
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 秋山 弘子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 白波瀬 佐和子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 濱口 桂一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岩本 康志
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武川 正吾
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 甲斐 一郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大原 一興
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 樋口 範雄
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+- health_welfare
+- engineering
+keywords:
+- 人口・社会問題
+- 生命・医療
+- 経済・金融
+- 都市・建築
+- 政治・法律
+- ロボット・技術
+- 居場所のデザイン
+- 社会問題
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

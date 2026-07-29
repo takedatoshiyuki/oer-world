@@ -1,0 +1,89 @@
+slug: kyoto-u-course-0241
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/241/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回「京大おもろトーク：アートな京大を目指して」〜アート、ゼロの領域
+description:
+  ja: 京都大学が開催した「京大おもろトーク」の第3回で、テーマは「アート、ゼロの領域」とされている。公開教材には、京大生による展覧会「アートがアートである為に」の記録写真とディスカッションの書き起こしが含まれ、展覧会の記録と議論の内容をたどれる。
+quotedDescription:
+  text:
+    ja: 長い歴史と文化を持つ京都は、同時に常に最先端の動きを取り入れてきた町でもあります。アートはその伝統とモダンをつなぎ、新しい動きを創る力を持っています。京都大学は「おもろいこと」を第3回「京大おもろトーク：アートな京大を目指して」として開催します。第3回目のテーマは、「アート、ゼロの領域」です。京大おもろトークに参加して、その試みを目撃してみませんか？
+  source: https://ocw.kyoto-u.ac.jp/course/241/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 蔡 國強
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 磯部 洋明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 伊勢 武史
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高木 遊
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-11-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 京大生による展覧会「アートがアートである為に」（記録写真）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omoro3_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+- name: '講義資料: 京大生による展覧会「アートがアートである為に」（記録写真）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omoro3_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+- name: '講義資料: 京大生による展覧会「アートがアートである為に」（記録写真）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omoro3_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+- name: '講義資料: 京大生による展覧会「アートがアートである為に」（記録写真）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omoro3_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+- name: '講義資料: 京大生による展覧会「アートがアートである為に」（記録写真）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omoro3_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+- name: '講義資料: 京大生による展覧会「アートがアートである為に」（記録写真）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omoro3_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+- name: '講義資料: 京大生による展覧会「アートがアートである為に」（記録写真）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omoro3_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+- name: '講義資料: ディスカッション書き起こし'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2015/11/2015_omorotalk3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/241/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

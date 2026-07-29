@@ -1,0 +1,62 @@
+slug: hokudai-faculty10omicsseminar-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty10omicsseminar-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済学研究科・経済学部セミナー 「原発は是か非か!? －エネルギー政策と北海道経済－」 （2012）
+description:
+  ja: 福島の原発事故後の議論を背景に、原子力発電の継続か廃止かという論点を扱うセミナーである。工学的側面と政策的側面を手がかりに、エネルギー政策が北海道経済に与える影響まで考察する。
+quotedDescription:
+  text:
+    ja: 本セミナーでは、福島の原発事故後精力的にそれぞれの研究分野から発信を続けておられます学識経験者をお招きし、工学的側面・政策的側面など、多角的見地からテーマを深く掘り下げていきます。北海道電力泊原発3号機の停止以降、国内の原発はすべて停止の状態です。今ここで改めて、原子力発電は継続すべきなのか、廃止すべきなのか。エネルギー政策の観点から、北海道経済への影響も絡めて、この論議を進めていきたいと考えます。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty10omicsseminar-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 奈良林 直
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 近久 武美
+  affiliation:
+    name: 北海道大学大学院工学研究院
+- type: Person
+  name: 鈴木 一人
+  affiliation:
+    name: 北海道大学大学院法学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- social_sciences
+keywords:
+- ビジネス／経済
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0211
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/211/
+type:
+- LearningResource
+- Course
+name:
+  ja: '防災研究所特別講演会「気候変動への挑戦－Tackling Climate Change: A System of Systems Engineering Perspective」'
+description:
+  ja: この講義は、気候変動への対応をSystems of Systems Engineeringの枠組みから捉え、統合的・適応型のアプローチを扱う。参加型の方法を通じて、ステークホルダーの価値観を反映しながら持続可能性や公平性を目指す考え方を示す。後半では、講演者自身の研究者・教育者としての姿勢についても述べる。
+quotedDescription:
+  text:
+    ja: '講演概要
+
+      気候変動に取り組む責任ある統制に向けた、Systems of Systems Engineering の枠組みをベースとした統合的・適応型アプローチを提唱します。System of Systems
+      Engineering の枠組みは、参加型アプローチを用いて様々なステークホルダーの価値観を反映しつつ、持続可能性や公平性といった目標を達成することが可能です。セミナー後半には、講演者が研究者・教育者として心がけていることについてお話しいただきます。'
+  source: https://ocw.kyoto-u.ac.jp/course/211/
+  note: 京都大学OCW 「講演概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Keith W. Hipel
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,63 @@
+slug: kyoto-u-course-0456
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/456/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第64回国際交流セミナー The Challenge and Responsibility of Young Scientist in China 「中国若手科学者の挑戦と責任」
+description:
+  ja: 中国が直面する環境汚染と環境破壊の現状を取り上げ、そのうえで若手科学者が行う科学的・工学的な取り組みを扱う。中国の環境問題と、それに対して科学者が担う役割に焦点を当てた講義である。
+quotedDescription:
+  text:
+    ja: '概要
+
+      現在、中国は深刻な環境汚染に直面しており、社会的な問題となっています。本講演では、中国における環境破壊の現状と、若手科学者たちの科学的・工学的取り組みについてお話しいただきました。（ご講演は英語で行われました）'
+  source: https://ocw.kyoto-u.ac.jp/course/456/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Zhou
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Ying（人間・環境学研究科 客員教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中国・西南石油大学 教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-07-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- natural_sciences_math
+keywords:
+- 工学
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

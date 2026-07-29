@@ -1,0 +1,57 @@
+slug: hokudai-religious-cultures-of-east-asia
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/religious-cultures-of-east-asia
+type:
+- LearningResource
+- Course
+name:
+  ja: 東アジアの宗教文化
+description:
+  ja: 北海道大学文学部で2021年度に開講された、櫻井義秀担当の日本語講義である。出典サイトでは、文学院の修士以上向け必修講義「複合環境文化論」の一部として公開されている講義であることが示されている。
+quotedDescription:
+  text:
+    ja: 文学院で修士以上の学生に実施されている必修講義「複合環境文化論」の一部講義を公開しています。
+  source: https://ocw.hokudai.ac.jp/lecture/religious-cultures-of-east-asia
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 櫻井義秀
+  affiliation:
+    name: 北海道大学大学院文学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- arts_humanities
+keywords:
+- 文学
+- 思想
+- 言語
+- 宗教
+- 東アジア
+- 文学／思想／言語
+audience:
+- student
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

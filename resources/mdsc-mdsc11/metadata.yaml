@@ -1,0 +1,57 @@
+slug: mdsc-mdsc11
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc11
+type:
+- LearningResource
+- Course
+name:
+  ja: livedoor ニュースコーパス(無料)
+description:
+  ja: 日本語のニュース記事を9カテゴリに整理したコーパスで、CCライセンスの記事を抽出して本文のみの形に整えている。テキストデータに加えて、Apache Solr向けのデータも提供する。
+quotedDescription:
+  text:
+    ja: "9 カテゴリのニュース記事，CC BY-ND\r\n日本語の雑多なニュースからCCライセンスの記事のみを取り出し、HTMLタグなどを自動的に取り除いて文章のみとしたもの。テキストの他、Apache\
+      \ Solr向けのデータも提供されている。Apache"
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc11
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc11
+  summary:
+    ja: オープンライセンス（詳細はデータセットページの表示に従う）。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- ict
+keywords:
+- サービス業
+- 卸売業・小売業
+- 学術研究・専門・技術サービス
+- 情報通信業
+- 教育・学習支援業
+- 生活関連サービス業・娯楽業
+- 製造業
+- 複合サービス事業
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

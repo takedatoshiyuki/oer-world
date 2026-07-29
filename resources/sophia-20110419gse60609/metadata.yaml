@@ -1,0 +1,91 @@
+slug: sophia-20110419gse60609
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報フルエンシー（情報科学と人間）
+description:
+  ja: 情報社会の功罪を見極めつつ、携帯電話、メール、SNS、BBSなどを題材に、情報の発信と受信が過多な社会でのコミュニケーションを扱う。技術面だけでなく、コンピュータを通信機器として使う際の人間的な自覚についても学ぶ内容である。
+quotedDescription:
+  text:
+    ja: "人間の可能性は限りがない。インターネットとコンピュータによる闇の部分が強調される昨今であるが、嘆いてばかりでも仕方がない。この授業では、情報社会の功罪をしっかり見極める。また、人間の発信する情報、受信する情報が過多になっているこの社会で人間らしい社会的コミュニケーションを身につけるために我々のすべきことを、情報科学を通して学んでいく。技術的な面を強調するのではなく、携帯電話、メール、ＳＮＳやＢＢＳなどを取り上げ、コンピュータを通信機器として使う際の人間的な自覚を磨くための内容を扱う。\
+      \ \n※この科目では、毎回情報倫理に関するビデオを見るため、その部分はカットしております。したがって、通常の講義時間に比べ、毎回の収録時間が短くなっております。\nご了承ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 高岡 詠子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20110419GSE60609-1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-3.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-3.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-4.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-4.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-5_Comp.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-5_Comp.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-6.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-6.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-7.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-7.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-8.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-8.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-9.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-9.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-10.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-10.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-11.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-11.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+- name: '講義資料: 20110419GSE60609-12.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/05/20110419GSE60609-12.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110419gse60609/
+extensions:
+  faculty: 大学
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

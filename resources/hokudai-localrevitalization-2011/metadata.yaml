@@ -1,0 +1,60 @@
+slug: hokudai-localrevitalization-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/localrevitalization-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学情報基盤センター共同研究公開講演会 参加型地域活性化におけるウェブコンテンツ構築の研究 （2011）
+description:
+  ja: 本教材は、参加型地域活性化を支えるウェブコンテンツの構築をテーマにする。日本と韓国の事例を比較し、韓国の「地域まるごとミュージアム」を参照しながら、日本での可能性とWeb情報としてのコンテンツ提供のありかたを検討する。スライド資料として公開されている。
+quotedDescription:
+  text:
+    ja: 日本では、広い意味でのアートにおける参加型地域活性化の成功事例が十分であるとは言えず、Ｗｅｂ情報として参加型地域活性化を支えるデジタルコンテンツの作成も蓄積が少ない。その問題解決の手掛かりを探ることが本研究の目的である。研究方法は、韓国における「地域まるごとミュージアム」の事例研究を参照軸として、日本や韓国で展開されている事例を比較し、日本における参加型地域活性化に関する可能性を検討した。そしてＷｅｂ情報としてそれを支えるコンテンツ提供のありかたを検証した。
+  source: https://ocw.hokudai.ac.jp/lecture/localrevitalization-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Lee Hyunbae
+  affiliation:
+    name: 全北鎮安郡白雲面の初期村調査団
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- engineering
+keywords:
+- 地域まるごとミュージアム
+- 地域活性化
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: スライド資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/LocalRevitalization.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/localrevitalization-2011
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

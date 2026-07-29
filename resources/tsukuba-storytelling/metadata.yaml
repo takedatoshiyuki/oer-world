@@ -1,0 +1,49 @@
+slug: tsukuba-storytelling
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/knowledge/storytelling/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「読み聞かせ方が幼児の読書能力に及ぼす影響」
+description:
+  ja: 幼児の読書能力に対して、どのような読み聞かせ方が影響するのかを検討する研究発表である。絵本の読み聞かせを扱い、その方法の違いと読書能力との関係を主題にする。
+quotedDescription:
+  text:
+    ja: '村野亜子さん（筑波大学 大学院 図書館情報メディア研究科 博士前期課程）による「読み聞かせ方が幼児の読書能力に及ぼす影響」についての研究発表。
+
+      子供の読書には、様々な効果があると言われており、「読み聞かせ」という経験が重要だと考えられている。しかし、絵本の読み聞かせ方は行う人や家庭によってバラバラである。どのような読み聞かせ方が幼児の読書能力に影響を与えるのかを検討することを目的として研究を行っている。'
+  source: https://ocw.tsukuba.ac.jp/course/knowledge/storytelling/
+  note: TSUKUBA OCW 「どのような絵本の読み聞かせ方が、幼児の読書能力に影響を与える」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 村野 亜子
+  affiliation:
+    name: 筑波大学 大学院 図書館情報メディア研究科 博士前期課程（公開当時）
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 知識情報システム
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

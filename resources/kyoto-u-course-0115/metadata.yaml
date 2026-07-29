@@ -1,0 +1,116 @@
+slug: kyoto-u-course-0115
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/115/
+type:
+- LearningResource
+- Course
+name:
+  ja: アルゴリズムとデータ構造入門
+description:
+  ja: この教材は、Scheme を用いてアルゴリズムとデータ構造の基礎を扱う講義の資料群である。手続きによる抽象化やデータによる抽象化、記号データ、複数の表現法、汎用演算システムなど、抽象データの扱い方に関する回が含まれる。あわせて
+    TUT Scheme の利用資料や理解度テスト、講義内で課される演習・レポートに関する要素も公開されている。
+quotedDescription:
+  text:
+    ja: '・TUT Scheme （湯淺先生小宮先生開発）を使用して講義を進める。
+
+      ・当該年度の授業回数などに応じて一部省略、追加がありうる。
+
+      ・2〜3回のプログラム演習・レポートを課す。中間テストを行う場合もある。
+
+      ・習熟度の早い学生に対しては、参考書を使ってより高度な随意課題を課す等の配慮を行う。
+
+      ・古典力学に興味のある学生Gerald Jay Sussmanらの著書"Structure and Interpretation of Classical Mechanics" (MIT Press,
+      2001) を本講義の続きとして独習することを勧める。
+
+      ・オンライン版フルテキスト (MIT Press 提供)'
+  source: https://ocw.kyoto-u.ac.jp/course/115/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 奥乃 博
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+- ict
+keywords:
+- 工学
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第2回 手続きによる抽象の構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第3回 TUT Scheme の 利用'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_02-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第3回 TUT Scheme の 利用　理解度テスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_02-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第4回 手続きによる抽象の構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第5回 手続きによる抽象の構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第6回 データによる抽象の構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第7回 データによる抽象の構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第8回 データによる抽象の構築'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第9回 図形言語'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第10回 記号データ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第11回 抽象データの複数の表現法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第12回 汎用演算システム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 第14回 整列・ハッシュ法'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 2004年度試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou-exam_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+- name: '講義資料: 2005年度試験問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2005_algorithm-to-data-kouzou-exam_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/115/
+extensions:
+  faculty: 工学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0275
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/275/
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和元年度 京都大学大学院エネルギー科学研究科公開講座「エネルギー科学の今　～バイオエネルギーと熱制御～」
+description:
+  ja: 熱エネルギーの利用例と、固体を加熱・冷却する際の熱の移動を扱う講義である。とくに、金属材料の製造で必要になる高温材料の水による急冷と、その後の冷却制御を取り上げ、水の沸騰現象と関連づけてかさのある材料の冷却の難しさを説明する。
+quotedDescription:
+  text:
+    ja: '藤本 仁（エネルギー科学研究科 教授）
+
+      講演題目 「熱のコントロール：金属を水で冷やすことの難しさ」 資源エネルギーが毎年発行しているエネルギー白書によると、日本で消費されるエネルギーの多くは、最終的に熱エネルギーという形で利用されています。日常生活では、厨房（加熱調理や食材の冷凍・冷蔵保存）、給湯、冷暖房などで熱を利用し、製造業では、様々なプロセスで精密な温度のコントロールが必要とされています。熱のコントロールでは、モノ（固体）の「加熱」や「冷却」が必要になります。「加熱」では、モノの表面に熱いガスを吹き付けたり、電磁波や電気を利用して内部を直接あたためることができます。しかし「冷却」では、モノの内部を直接さます方法がなく、モノの表面から熱を取り除くしかありません。金属材料の製造プロセスでは、高温材料を水で急冷し、ある温度まで下がると、その後はゆっくり冷やすということが必要な場合があります。かさのある材料ではこれが案外難しいことを水の沸騰現象とからめて説明します。'
+  source: https://ocw.kyoto-u.ac.jp/course/275/
+  note: 京都大学OCW 「藤本 仁（エネルギー科学研究科 教授）」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤本 仁
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-11-09'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー科学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

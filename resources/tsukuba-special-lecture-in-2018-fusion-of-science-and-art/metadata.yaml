@@ -1,0 +1,47 @@
+slug: tsukuba-special-lecture-in-2018-fusion-of-science-and-art
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/others/special-lecture-in-2018-fusion-of-science-and-art/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2018年度 特別講義「科学と芸術の融合 ”光のコスモロジー 生命発生から宇宙へ”」
+description:
+  ja: 宇宙ステーションJAXA JEM KIBOで2008年から行われた芸術実験を取り上げる講義である。あわせて、無重力環境や地球外からの視点が世界観に与える影響を、宇宙飛行士の体験やピラミッドなどの巨大遺構の検証を通して考察する。さらに、航空機を用いた学生の無重力フライト実験も扱う。
+quotedDescription:
+  text:
+    ja: 「なぜ、人は宇宙を目指すのか」この問いに挑戦すべく、2008年から実施された宇宙ステーションJAXA JEM KIBOに於ける芸術実験について報告する。そして、無重力環境と地球外からの視点が新たな世界観を生むことを宇宙飛行士の体験やピラミッドなどの巨大な遺構の検証に基づいて考察する。また、航空機による学生無重力フライト実験についても紹介する。
+  source: https://ocw.tsukuba.ac.jp/course/others/special-lecture-in-2018-fusion-of-science-and-art/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 逢坂 卓郎
+  affiliation:
+    name: 筑波大学 特命教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2018-08-03'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

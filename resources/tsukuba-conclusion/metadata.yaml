@@ -1,0 +1,47 @@
+slug: tsukuba-conclusion
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/knowledge/conclusion/
+type:
+- LearningResource
+- Course
+name:
+  ja: 「データ分析に基づく考察とまとめ」
+description:
+  ja: 調査や実験の結果を評価する「考察」をテーマにし、その際に重要となるポイントを扱う。4つの発表における分析例を振り返りながら、考察の進め方を確認する内容である。
+quotedDescription:
+  text:
+    ja: 筑波大学 大学院・図書館情報メディア研究科 鈴木佳苗先生による「データ分析に基づく考察とまとめ」の講義。「考察」とは、実施した調査や実験の評価を行うことである。考察を行うにあたってはどのようなポイントが重要になるのか。4つの発表での分析例を振り返りながら、考察していく。
+  source: https://ocw.tsukuba.ac.jp/course/knowledge/conclusion/
+  note: TSUKUBA OCW 「実施した調査や実験の評価を行う際のポイント」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 鈴木 佳苗
+  affiliation:
+    name: 筑波大学 図書館情報メディア系 准教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2014-01-27'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- 知識情報システム
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

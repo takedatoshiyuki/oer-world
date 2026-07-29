@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0203
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/203/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回 市民講座「宇宙と物質の神秘に迫る～物理科学最前線～」特集テーマ「極限状態を見る」
+description:
+  ja: 宇宙の果てから素粒子の世界まで、直接見ることが難しい対象をさまざまな手法でとらえる話題を扱う市民講座である。公開資料には、ガンマ線観測、ニュートリノ、MRI顕微鏡に関する講演スライドとパンフレットが含まれる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      現代科学の発展により、宇宙の果てから素粒子の世界に至るまで普段我々が直接目にすることのできないものを、様々な角度からとらえることが可能になってきています。本市民講座では、様々な「目」で自然をとらえ続ける3名の京大の研究者に、我々を魅力あふれる極限の世界へと導いていただきます。
+
+      詳細（物理学の多様性と普遍性の探求拠点HP）：http://physics.coe21.kyoto-u.ac.jp/public.html
+
+      映像内引用著作物
+
+      西川 公一郎（京都大学理学研究科物理学第二教室 教授）「ニュートリノ：極微の粒子がなぜ面白い？」
+
+      J-PARC画像：
+
+      http://j-parc.jp/index.html
+
+      http://toybox.qe.eng.hokudai.ac.jp/about.html
+
+      水崎 隆雄（京都大学理学研究科物理学第ー教室 教授）「スピンの目で見るミクロの世界ーＭＲＩ顕微鏡の開発と磁気構造ー」
+
+      ファンデルワールとカマリン・オンネス画像：http://th.physik.uni-frankfurt.de/~jr/gif/phys/waalsonnes.jpg
+
+      Paul C. Lauterbur 画像：http://www.nobelprize.org/nobel_prizes/medicine/laureates/2003/lauterbur-bio.html
+
+      Sir Peter Mansfield 画像 http://www.nobelprize.org/nobel_prizes/medicine/laureates/2003/mansfield-bio.html
+
+      MRI 画像：http://www.nobelprize.org/nobel_prizes/medicine/laureates/2003/illpres/index.html'
+  source: https://ocw.kyoto-u.ac.jp/course/203/
+  note: 京都大学OCW 「概要」・「映像内引用著作物」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 谷森 達
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 西川 公一郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 水崎 隆雄
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 國友 浩
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小山勝二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2005-11-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 講演スライド「見えない世界をガンマ線で見る：ブラックホールからガン細胞まで」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/11/2005shimin_tanimori.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/203/
+- name: '講義資料: 講演スライド「ニュートリノ：極微の粒子がなぜ面白い？」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/11/2005shimin_nishikawa.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/203/
+- name: '講義資料: 講演スライド「スピンの目で見るミクロの世界－ＭＲＩ顕微鏡の開発と磁気構造－」'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/11/2005shimin_mizusaki.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/203/
+- name: '講義資料: パンフレットPDF'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2005/11/2005_3rdshimin_-pamphlet.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/203/
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,55 @@
+slug: utokyo-series-ch1cl7qhio8k
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Ch1Cl7QhiO8k
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部 テクノサイエンスカフェ 第20回 一分子イメージング最前線
+description:
+  ja: 東京大学の工学系研究科・工学部が、小中高生とその保護者に向けて開くテクノサイエンスカフェの第20回である。講演に加えて実験やワークショップを行い、一分子イメージングをテーマに扱う。
+quotedDescription:
+  text:
+    ja: "東京大学大学院工学系研究科・工学部では、工学の魅力を伝える活動の一環として、小中高生とその保護者に向けた「東大テクノサイエンスカフェ」を開催しています。第20回目を迎えた今回は「一分子イメージング最前線」をテーマに、講演・実験・ワークショップを開催しました。\
+      \ \n \n  02:30　一分子とは？    04:34　くるくる回るタンパク質？超解像顕微鏡？    08:33　細胞を観察してみようー超解像顕微鏡の説明ー    17:19　一…"
+  source: https://ch.u-tokyo.ac.jp/series/?id=Ch1Cl7QhiO8k
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田端 和仁
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 徳永 和明
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

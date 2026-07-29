@@ -1,0 +1,47 @@
+slug: icu-for-high-oc2016-kikuchi
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/for_high/oc2016_kikuchi
+type:
+- LearningResource
+- Course
+name:
+  ja: 東アジアの文化をつなぐ・中国西南の少数民族と日本の意外な共通点
+description:
+  ja: 中国西南の少数民族と日本の共通点を扱う講義である。東アジアの文化をつなぐという観点から、両者の関係を考える内容である。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 菊池秀明
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016-07-16'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- オープンキャンパス講義
+audience:
+- student
+educationalLevel:
+- upper_secondary
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

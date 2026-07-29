@@ -1,0 +1,62 @@
+slug: kyoto-u-course-0780
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/780/
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道の森林
+description:
+  ja: 北海道研究林を中心に、北海道の森林と湿原の生態系を扱う教材である。森林調査や森林作業などの野外体験を通して、人と自然の関わりについて理解を深める内容になっている。
+quotedDescription:
+  text:
+    ja: '授業の概要目的
+
+      フィールド科学教育研究センターの北海道研究林（川上郡標茶町および白糠郡白糠町）を中心に、北海道の森林・湿原の生態系や人と自然の関わりについて森林調査や森林作業などの野外体験を通して理解を深める。'
+  source: https://ocw.kyoto-u.ac.jp/course/780/
+  note: 京都大学OCW 「授業の概要目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 舘野 隆之輔
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: ポケゼミ「北海道の森林」テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_hokkaidonoshinrin.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/780/
+extensions:
+  faculty: 全学共通科目
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

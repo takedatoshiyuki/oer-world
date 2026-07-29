@@ -1,0 +1,54 @@
+slug: mdsc-mdsc17
+mode: referenced
+externalUrl: https://data.mdsc.hokudai.ac.jp/dataset/mdsc17
+type:
+- LearningResource
+- Course
+name:
+  ja: CIFAR-10
+description:
+  ja: 32×32ピクセルのカラー画像を10種類のカテゴリに分けたデータセットである。内訳はカテゴリごとに6000枚、合計60000枚で、トレーニング用50000枚とテスト用10000枚からなる。
+quotedDescription:
+  text:
+    ja: 飛行機，車，鳥，猫，鹿，犬，蛙，馬，船，トラックの10種類のカテゴリに分類された32×32ピクセルのカラー画像データ。カテゴリごとに6000枚，合計60000枚（トレーニング用に50000枚，テスト用に10000枚）。
+  source: https://data.mdsc.hokudai.ac.jp/dataset/mdsc17
+  note: 教育用データ提供システム (北大MDSC) 「データセットの説明」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://data.mdsc.hokudai.ac.jp/dataset/mdsc17
+  summary:
+    ja: オープンライセンス（詳細はデータセットページの表示に従う）。
+  reuse: allowed_with_conditions
+creator:
+- type: Organization
+  name: 教育用データベース分科会
+publisher:
+- type: Organization
+  name: 北海道大学 数理・データサイエンス教育研究センター
+sourceCollection:
+  name: 教育用データ提供システム (北大MDSC)
+  url: https://data.mdsc.hokudai.ac.jp/
+datePublished: '2019-06-07'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- data
+about:
+- ict
+keywords:
+- 学術研究・専門・技術サービス
+- 情報通信業
+- 漁業
+- 農業・林業
+- 運輸業・郵便業
+- 画像
+audience:
+- student
+- teacher
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。CKAN API のメタデータに基づく。datePublished
+    は CKAN 登録日。description は gpt-5.4-mini が生成。
+  confidence: high

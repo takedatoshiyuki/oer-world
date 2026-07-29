@@ -1,0 +1,55 @@
+slug: utokyo-series-dmhvje0awytb
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=dMhvjE0Awytb
+type:
+- LearningResource
+- Course
+name:
+  ja: 論理回路基礎
+description:
+  ja: この講義は、ディジタル論理回路の初学者向けに、2進数や論理演算から組合せ回路・順序回路の設計、さらにメモリや論理回路の実現までを順に扱う。あわせて、クワイン・マクラスキー法にも触れ、ディジタル回路からコンピュータへつながる構成を示す。演習問題とその解答も提示する。
+quotedDescription:
+  text:
+    ja: この講義は、はじめてディジタル論理回路を学ぶ人を対象とし、回路の理解と設計の基本を学ぶことを目的とする。具体的な流れは、２進数の算法、論理演算、組合せ回路の設計法と代表的な組合せ回路、フリップフロップ、順序回路の設計法と代表的な順序回路、論理回路の実現、メモリ、ディジタル回路からコンピュータへ、という具合である。この授業の特徴は、(1)回路設計などのわかりやすい実例を多数示すことで受講者の理解を容易にした点、(2)クワイン・マクラスキー法などを入れて一般性を高めた点、(3)適切なレベルの演習問題を出し、全問題の解答を示す点、(4)例示した回路を組み合わせることによってコンピュータの基本をボトムアップ的にわかるようにした点、などである。
+  source: https://ch.u-tokyo.ac.jp/series/?id=dMhvjE0Awytb
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 坂井 修一
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

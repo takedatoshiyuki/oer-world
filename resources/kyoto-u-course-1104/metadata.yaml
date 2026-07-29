@@ -1,0 +1,67 @@
+slug: kyoto-u-course-1104
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1104/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第10回国際シンポジウム「“幸せを支えるイノベーション”を考える」
+description:
+  ja: 本講義は、ウェルビーイングを支えるイノベーションを主題にした国際シンポジウムである。工学研究科、学際融合教育研究推進センター、総合生存学館のスピーカーが参加し、関連する論点をクロストーク形式で扱う。
+quotedDescription:
+  text:
+    ja: 第６期科学技術・イノベーション基本計画において、人文・社会科学系分野に対する必要性への明示的な言及は、科学技術とイノベーションとの関係性における学際融合研究への期待の高まりを示していると言えます。
+      その背景には、人類が、エネルギー、気候変動、貧困といったグローバル課題を解決し、持続的に共存しうる社会を構築する責任を負っていることがあり、したがって、イノベーションへのアプローチも大きく変わる必要があります。
+      ウェルビーイングはそのような持続的共存のために不可欠な要素であり、より多くの人々がウェルビーイングを推進しうるテクノロジーを追求することは人類の挑戦でもあります。 このシンポジウムでは、京都大学工学研究科と学際融合教育研究推進センターから代表的なスピーカーを招待し、総合生存学館からのスピーカーとともにウェルビーイングを支えるイノベーションについてクロストークを行います。
+  source: https://ocw.kyoto-u.ac.jp/course/1104/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 積山 薫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 椹木 哲夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ほか
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-11-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+- natural_sciences_math
+- arts_humanities
+- social_sciences
+keywords:
+- 工学
+- 建築
+- 環境学
+- 人文科学
+- 社会科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 総合生存学館（思修館）
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

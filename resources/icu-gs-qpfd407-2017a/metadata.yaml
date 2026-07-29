@@ -1,0 +1,132 @@
+slug: icu-gs-qpfd407-2017a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/gs/qpfd407_2017a
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際関係とグローバル秩序 International Relations and Global Order
+description:
+  ja: 国際関係とグローバル秩序を対象に、国際的な秩序とガバナンスを理論面と事例面の両方から扱う。リアリズム、リベラリズム、構成主義、イングリッシュ・スクールなどの理論的視点に加え、歴史的展開やSDGs、アフガニスタンをめぐるケーススタディを取り上げる。講義にはゲストスピーカーやフィールドスタディも含まれる。
+quotedDescription:
+  text:
+    ja: 'This is an advanced foundation course on international relations and global order studies. It
+      provides students with a better understanding of global order and governance in the rapidly changing
+      today”s international relations. It examines critically various theoretical approaches and empirical
+      issues in the field.
+
+      このコースは国際関係とグローバル秩序研究の専門基礎科目である。急速に変化する今日の国際関係における国際的な秩序及びガバナンスについて理解を深め、当該分野における様々な理論的アプローチや実証的課題を批判的に考察する。
+
+      Contents of Lectures
+
+      Lectures  /
+
+      Videos
+
+      Sep 11
+
+      Introduction
+
+      Sep 18
+
+      Theoretical Perspective
+
+      A. Realism,Liberalism and Global Order
+
+      B. Constructivism,English School and Global Order
+
+      Sep 25
+
+      Historical Perspective
+
+      A. International Order, World Order, and Global Order: A Perspective of Historical Constructivism
+
+      B. The League of Nations and The United Nations: Continuity and Discontinuity
+
+      Oct 02
+
+      Case Study: SDGs (Pre-registration required on September 11)
+
+      Field Study: Asahi World Forum 2017 Special Talk by Amina J. Mohammed and Hiroko Kuniya
+
+      Meet at 16:00, Main Building, Imperial Hotel 2F Reception
+
+      -16:10 Registration @ Imperial Hotel Tokyo Sponsored by the Asahi Shimbun
+
+      16:20-16:35 Yoshimoto SDGs Ogiri
+
+      16:45-17:45 Special Talk Sustainable Development Goals to Transform the World by Amina J. Mohammed
+      and Hiroko Kuniya
+
+      Oct 09
+
+      A. Case Study: Afghanistan
+
+      B: Guest speaker will be Tadamichi Yamamoto, Special Representative of the Secretary-General of
+      the UN in Afghanistan
+
+      Oct 16
+
+      Case Study
+
+      Oct 23
+
+      Case Study
+
+      Oct 30
+
+      A: Discussion on the Draft Outline of the Paper
+
+      B: Case Study
+
+      Nov 6
+
+      Case Study
+
+      Nov 13
+
+      A: Case Study
+
+      B: Discussion and Conclusion'
+  source: https://ocw.info.icu.ac.jp/gs/qpfd407_2017a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 吉川元偉
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 大学院科目
+- 'QPFD407 | Course Schedule: 5/M,6/M | Update: 2018.10.10   Category: Graduate Schools'
+audience:
+- student
+educationalLevel:
+- master
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

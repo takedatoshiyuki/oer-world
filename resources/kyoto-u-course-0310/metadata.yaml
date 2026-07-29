@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0310
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/310/
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和元年度 卒業者・学位授与者への総長祝辞
+description:
+  ja: 1949年の新制京都大学設置以降における博士号授与者数の累計と、その内訳の扱いを示す。旧制期を含めた総計にも触れ、数値の集計範囲を確認できる。
+quotedDescription:
+  text:
+    ja: '※博士号の授与者数 35,976名（累計）については、1949年新制京都大学設置以降（新制）の授与者数です。
+
+      1948年以前（旧制）の授与者数を加えた場合、総計45,627名となります。'
+  source: https://ocw.kyoto-u.ac.jp/course/310/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山極壽一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-03-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

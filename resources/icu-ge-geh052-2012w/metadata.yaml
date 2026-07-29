@@ -1,0 +1,148 @@
+slug: icu-ge-geh052-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/geh052_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: 'H2: Behavioral Sciences and Humanistic Sciences (B) Ｈ２：行動の科学・人間性の科学（Ｂ）'
+description:
+  ja: 心理学の知識と方法論を学び、それを教育、平和、環境などの領域での企画・実行・評価にどう適用するかを扱う講義である。内容には、幸福の説明と測定、ウェルビーイングの相互関係、多文化的文脈での強みや文化的多様性、社会正義、希望をめぐるテーマが含まれる。
+quotedDescription:
+  text:
+    ja: 'Students are expected to acquire psychological knowledge and approaches in this course. This
+      course encourages them to examine how these knowledge and approaches are applied to the categories
+      of plan, action and assessment in various fields such as education, peace and environment.
+
+      心理学の知識と方法論を学び、それが教育、平和、環境その他の諸領域におけるプログラムの企画、実行、評価にいかに適用されるかを検討する。
+
+      Contents of Lectures
+
+      10
+
+      Lectures  / 3 Videos
+
+      Module #1
+
+      Introduction & Overview
+
+      Module #
+
+      2
+
+      Explaining & Measuring Happiness (1)
+
+      Module #3
+
+      Module #
+
+      4
+
+      Boosting Happiness?
+
+      Module #
+
+      5
+
+      Webs of Well-Being and Happiness: Interdependence of Personal,Rela: onal, Organiza: onal, and Community
+      Well-Being
+
+      Jan 24
+
+      Module #
+
+      6
+
+      Developing Strengths and Living Well in a Multicultural Context (1)
+
+      Sense of Community and Well-Being : Does It Really Matter?
+
+      ※Videos are condensed version of course.
+
+      ※この動画は複数の授業内容をまとめたダイジェスト版を公開しています。
+
+      Slide
+
+      Jan 29
+
+      Module #7
+
+      Developing Strengths and Living Well in a Multicultural Context (2)
+
+      Complexities and Challenges of Cultural & Human Diversity in Promoting Well-Being and Happiness
+
+      ※Videos are condensed version of course.
+
+      ※この動画は複数の授業内容をまとめたダイジェスト版を公開しています。
+
+      Slide
+
+      Module #8
+
+      Interventions for Enhancing Well-Being: Issues of Cultural Diversity and Social Justice
+
+      Module #
+
+      9
+
+      Seeing our Futures Through Hope: Another View on Happiness and Well-Being
+
+      Feb 21
+
+      Module #10
+
+      Students Presentations of Group Projects
+
+      ※Video is partial recording of lecture.
+
+      ※この動画は授業の一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/ge/geh052_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 笹尾敏明
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GEH052 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2013.12.10'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1n2YYRcAdIJah6LptGzZjJzJG4P_CIB77/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/geh052_2012w
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1oLscLN9VCcFhyQTrDX7tpB6BjXAMhbSv/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/geh052_2012w
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

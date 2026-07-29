@@ -1,0 +1,67 @@
+slug: kyoto-u-course-0346
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/346/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農学の新戦略
+description:
+  ja: この講義は、魚類生産を題材に、増養殖、栽培漁業、染色体操作、遺伝子組換え技術を取り上げる。あわせて、天然の遺伝資源への影響や、生物多様性との関係にも触れる。染色体操作で可能になる3倍体・4倍体・性の統御・クローン系統の作出や、遺伝子組換え技術の実例と課題も扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      農産物や畜産動物は交配により優良品種が作り出されてきたが，魚類については今なお天然資源依存性が高い．この授業では，近年発達してきた「増養殖」・「染色体操作」などすでに実用レベルにある魚類生産技術に加え，「遺伝子組換え技術」について解説する．
+
+       
+
+      授業の紹介
+
+      近年，特にわが国において区切られた一定水域において魚類を畜養する「養殖」技術が発達し，現在ではマダイやブリなどではその生産量の多くをこの養殖に頼っている．さらに，天然では産卵後の短期間に多くの仔稚魚が死滅するため，人工環境下である程度まで飼育した後に天然に放流する「栽培漁業」とよばれる方法も魚類生産の向上を目指して開発されている．しかし近年では，このような放流授業が天然の遺伝子資源に与える影響も考慮するべきであるとの見解もあり，生物多様性の維持と人工的魚類生産との間には解決すべき問題も多い．染色体操作は水圧負荷や熱ショックにより染色体をセットごと操作する方法で，この方法を用いることにより3倍体，4倍体，性の統御，クローン系統の作出が可能となる，この技術はすでに実用レベルにあり，サケ科魚類などに適用されている．遺伝子組換え技術は特定の有用形質を規定する遺伝子を導入することにより，短期間に有用形質を付与しようというものである．成長ホルモン導入による大型化などすでに実験室レベルでは成功例があるが，遺伝子組換え生物に対する社会的受容の問題など，この方法は今後，解決すべき多くの課題を抱えている．'
+  source: https://ocw.kyoto-u.ac.jp/course/346/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 豊原 治彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 魚類生産とバイオテクノロジー'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_nougakunoshinsenryaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/346/
+extensions:
+  faculty: 農学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,60 @@
+slug: hokudai-moomin-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/moomin-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 ムーミンの国へようこそ！（2010）
+description:
+  ja: ムーミン物語を手がかりに、フィンランド人の自然観・人間観・人生観を学ぶ講義である。北欧の伝承との関連にも触れつつ、日本の将来や自分の生き方を考える。
+quotedDescription:
+  text:
+    ja: 'ムーミンはカバではありません！ムーミンたちはすべて、トーベ・ヤンソンが作り出した「いきもの」です。北欧に古くから伝わるサーガ（物語）に登場する妖精との類似が指摘されています。こうした北欧色が色濃く漂うムーミン物語を題材として、フィンランド人の自然観や人間観、人生観を学びます。これにより、自らがよりよく生きていくための指針を考えることが本授業の目標です。
+
+      しかし、なぜ今フィンランドなのでしょう？それは、とても小さく寒い国なのに、とても「熱い」国だからです。経済協力開発機構（OECD）が実施する15歳時の学力調査（PISA）で世界一を維持し続け、世界経済フォーラム（WEF）による国際競争力調査でも世界トップクラス。一方の日本はいずれも下降の一途。フィンランドと日本の明暗を分けているものはなんでしょうか？ムーミン物語を通じて日本の将来と自分の生き方について考えていきましょう。'
+  source: https://ocw.hokudai.ac.jp/lecture/moomin-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 池田 文人
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- social_sciences
+keywords:
+- ムーミン
+- トーベ・ヤンソン
+- フィンランド
+- 教育，文化，質問学
+- 心理／社会学
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  targetAudience: 1年生～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

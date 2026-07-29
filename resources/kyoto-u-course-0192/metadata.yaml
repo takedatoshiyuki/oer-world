@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0192
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/192/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第43回人環国際交流セミナー Prof. Olimpia Niglio
+description:
+  ja: 19世紀の美術評論家ジョン・ラスキンが『建築の七燈』で述べた「修復」の定義を手がかりに、建築における修復概念を扱うセミナーである。ほかの理論との比較を通じて、この概念の位置づけを議論する。
+quotedDescription:
+  text:
+    ja: '授業概要・目的
+
+      19世紀の美術評論家ジョン・ラスキン（1819-1900）は、その著書『建築の七燈』（1849）の中で「修復」という言葉を、「一般の大衆によっても、また公共の記念建造物を管理するものによっても、修復ということばの本当の意味は理解されていない。修復とは、建築があたうかぎりの徹底的な破壊、そのむかしの面影がまったく想像できないほどの破壊を受けることを意味する。そしてその破壊には、破壊されたものについての偽りの描写がつきものなのだ」と定義しています。セミナーではここで述べられている「修復」という概念を、ほかの理論と比較しながら議論して頂きました。'
+  source: https://ocw.kyoto-u.ac.jp/course/192/
+  note: 京都大学OCW 「授業概要・目的」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Olimpia Niglio
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-05-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

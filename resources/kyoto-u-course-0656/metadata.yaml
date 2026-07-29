@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0656
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/656/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「清末経済思想初探」
+description:
+  ja: 京都大学人文科学研究所で行われた、森時彦による最終講義である。題名からは、清末の経済思想を初歩的に検討する内容を扱う講義であることが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 森 時彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 人文科学
+- 最終講義
+audience:
+- general_public
+extensions:
+  faculty: 人文科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

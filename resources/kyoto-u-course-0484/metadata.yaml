@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0484
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/484/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成30年度 京都大学図書館機構講演会「オープン・サイテーションと機関リポジトリの展開」, 2019
+description:
+  ja: この講演会は、学術出版物の引用データをオープンアクセス化する「オープン・サイテーション」を扱い、その考え方を機関リポジトリへどう広げるかをテーマにする。I4OC共同設立者を含む登壇者から設立経緯や取り組みを学び、オープン・サイテーションの位置づけを確認する構成である。
+quotedDescription:
+  text:
+    ja: '概要
+
+      京都大学図書館機構は、京都大学重点戦略アクションプラン「オープンアクセス推進事業」の活動の一環として、 「オープン・サイテーションと機関リポジトリの展開」を開催します。
+
+      オープン・サイテーションとは、論文等の学術出版物に記載された引用データ（参考文献リスト）をオープンアクセス化することです。
+
+      引用データは、研究評価、研究プロセスの理解、図書館の蔵書形成など様々な場面で活用される重要な要素ですが、従来は複雑なライセンスにより保護され自由なアクセスが難しい状況でした。この状況を打開するために、2017年4月に、学術機関と出版社によって、I4OC（Initiative
+      for Open Citations：引用データのオープン化を推進するイニシアティブ）が設立され、短期間で目覚しい成果をあげています。
+
+      本講演会は、I4OCの共同設立者から設立経緯や現在の取り組みを学ぶことにより、オープン・サイテーションの重要性について理解を深め、その機関リポジトリへの展開を考えることを目的とします。機関リポジトリでのオープン・サイテーションの実現は、収録コンテンツとその引用文献へのアクセスを向上させ、学術的検証を促進する効果をもたらし、特に人文社会科学系紀要等の学術情報流通によい影響を与えることが期待されるため、これからの大学図書館の共通課題として認識を共有する機会としたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/484/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西岡 千文
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: シルビオ・ペローニ（I4OC 共同設立者
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: ボローニャ大学古典文献学・イタリア研究学部 講師）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐藤 翔
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-05-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

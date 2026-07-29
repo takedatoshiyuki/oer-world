@@ -1,0 +1,96 @@
+slug: kyoto-u-course-0111
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/111/
+type:
+- LearningResource
+- Course
+name:
+  ja: 半導体工学, 2011
+description:
+  ja: 半導体工学に関する講義で、京都大学工学部の2011年度後期に開講された内容を収録する。第2回から第13回までの板書資料が公開されており、授業の進行に沿って講義内容を追える。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 木本 恒暢
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 須田 淳
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 電子工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第2回 2011年10月11日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第3回 2011年10月18日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第4回 2011年10月25日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第5回 2011年11月1日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第6回 2011年11月8日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第7回 2011年11月15日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第8回 2011年11月22日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第9回 2011年11月29日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第10回 2011年12月6日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第11回 2011年12月13日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第12回 2011年12月20日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第13回 2012年1月10日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+- name: '講義資料: 第14回 2012年1月17日の板書'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2011_handoutaikougaku_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/111/
+extensions:
+  faculty: 工学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

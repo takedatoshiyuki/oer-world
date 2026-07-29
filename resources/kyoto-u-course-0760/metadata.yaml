@@ -1,0 +1,92 @@
+slug: kyoto-u-course-0760
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/760/
+type:
+- LearningResource
+- Course
+name:
+  ja: 資源生物科学概論Ⅱ
+description:
+  ja: 動物生産科学を構成する複数の分野を取り上げ、その体系と戦略、社会的・経済的意義を扱う講義である。あわせて、基礎科学の成果を動物生産にどう応用するかを、自然環境や資源循環、情報システムの観点から概説する。公開教材では、繁殖、栄養、生体機能、情報処理、日本と世界の畜産に関する回の資料を確認できる。
+quotedDescription:
+  text:
+    ja: 動物遺伝学、増殖学、飼養学、生理機能学、資源利用学、畜産情報システム学など、動物生産科学の学問体系と戦略を理解するとともに、その社会的・経済的意義について講述する。特に、基礎科学の成果の動物生産への応用、自然環境、資源循環や情報システムなどの幅広い視点から、現在および近未来の動物生産について概説する。
+  source: https://ocw.kyoto-u.ac.jp/course/760/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 久米 新一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 今井 裕
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 松井 徹
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 廣岡 博之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 祝前 博明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 守屋 和幸
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第3回　動物の繁殖と増殖－生命科学技術を用いた動物生産'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-2_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/760/
+- name: '講義資料: 第4回 動物の生体と機能－動物と環境にやさしい科学をめざして'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-2_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/760/
+- name: '講義資料: 第5回 動物の栄養と機能'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-2_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/760/
+- name: '講義資料: 第6回 畜産分野での情報処理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-2_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/760/
+- name: '講義資料: 第7回 日本の畜産、世界の畜産'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2012_shigenseibutsukagakugairon-2_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/760/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

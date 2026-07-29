@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0158
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/158/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第49回人環国際交流セミナー「ノルマンディー：大学における歴史的事実と教育制度」ジェラール・コクレル (Gérard Coquerel) 先生
+description:
+  ja: ノルマンディーの歴史と文化を起点に、ルーアン大学の歴史とフランスの教育制度の変遷を扱う講義である。大学の歴史的事実と教育制度の変化を、地域史の話題とあわせて取り上げる。
+quotedDescription:
+  text:
+    ja: '概要
+
+      コクレル先生の故郷ノルマンディーの歴史と文化、そして母校ルーアン大学の歴史とフランスの教育制度の変遷についてお話し頂きました。'
+  source: https://ocw.kyoto-u.ac.jp/course/158/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: ジェラール・コクレル
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-07-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- education
+keywords:
+- 歴史
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

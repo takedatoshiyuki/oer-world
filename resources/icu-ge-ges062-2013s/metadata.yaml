@@ -1,0 +1,133 @@
+slug: icu-ge-ges062-2013s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/ges062_2013s
+type:
+- LearningResource
+- Course
+name:
+  ja: 'S2: Issues in Peace S2：平和の諸問題'
+description:
+  ja: この講義は、平和、暴力、世界秩序をめぐる諸問題を扱い、個別の争点を通して平和の課題を検討する。内容には、憲法9条、植民地支配と戦後補償、北東アジアの非核化、領土紛争、沖縄問題、平和的生存権、非暴力的市民的不服従などが含まれる。学生プレゼンやゲストレクチャーも組み込まれている。
+quotedDescription:
+  text:
+    ja: 'This course expects students to deepen their understanding of a variety of issues concerning
+      peace, violence and world order. Discussing the issues extensively as well as individually, this
+      course will examine interdisciplinary and experimental approaches to peace.
+
+      平和・暴力・世界秩序の諸問題に対する理解を深める。平和に関する個別的諸問題を縦横に論じ、平和への学際的アプローチを試行的に行う。
+
+      Contents of Lectures
+
+      1
+
+      0
+
+      Lectures /
+
+      3
+
+      Videos
+
+      【はじめに】
+
+      安倍内閣による憲法9条解釈変更の試みをめぐる
+
+      憲法学的考察と改憲問題の現在
+
+      1．過去の克服
+
+      ・日本の植民地支配の特徴
+
+      ・戦後補償裁判における「平和憲法史観」の検討
+
+      2．北東アジア地域非核兵器地帯条約の締結に向けて
+
+      ・非核兵器地帯条約とは何か
+
+      ・DPRK（北朝鮮）の核兵器問題にどのように対処するか
+
+      3．近隣諸国との領土紛争に向けた課題
+
+      ―紛争の海から平和の海への転換
+
+      ・北方領土
+
+      ・尖閣諸島
+
+      ・竹島・獨島
+
+      ・尖閣問題
+
+      4．安保体制からの脱却と沖縄問題
+
+      ・安保体制至上主義の見直し
+
+      ・沖縄問題の根本的解決のために
+
+      June
+
+      04
+
+      5．平和的生存権の憲法上の権利と裁判所の権利
+
+      ・「人間の安全保障」論との共通性と相違性
+
+      June 0
+
+      6
+
+      学生プレゼン
+
+      June
+
+      11
+
+      ゲストレクチャー
+
+      6. Non violent Civil Disobedience 再考
+
+      7. まとめ
+
+      ・北東アジアにおける平和な地域秩序の形成の展望'
+  source: https://ocw.info.icu.ac.jp/ge/ges062_2013s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 稲正樹
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GES062 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2013.12.12'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

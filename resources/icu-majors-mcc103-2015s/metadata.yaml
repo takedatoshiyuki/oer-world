@@ -1,0 +1,79 @@
+slug: icu-majors-mcc103-2015s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/mcc103_2015s
+type:
+- LearningResource
+- Course
+name:
+  ja: Introduction to Cultural Studies カルチュラル・スタディーズ入門
+description:
+  ja: この講義は、英国で文化批判の理論として発展してきたカルチュラル・スタディーズの歴史と基本的な概念を扱う。あわせて、文化と権力の関係や、日常の事象を批判的に考察する視点を学ぶ。講義内容としては「文化と階級」を含む。
+quotedDescription:
+  text:
+    ja: 'This course examines history and development of cultural studies in different social contexts.
+
+      カルチュラル・スタディーズは、しばしば「文化の政治学」として訳される。それは、文化に向けられる批判的な視線がいやおうなく文化と権力の問題にいきつくからだ。文化は、日々の交渉や抗争が起きる＜場＞でもあり、さまざまな社会的矛盾が露呈する空間でもある。このクラスでは、文化批判の理論として英国において登場し発展してきたカルチュラル・スタディーズの歴史や基本的な概念を学び、私たちの身の回りで日々起きている事象を批判的に考察する方法を学ぶ。
+
+      Contents of Lectures
+
+      2
+
+      Lectures /
+
+      3
+
+      Videos
+
+      Apr
+
+      23
+
+      Culture and class 文化と階級
+
+      Apr
+
+      28
+
+      Culture and class 文化と階級'
+  source: https://ocw.info.icu.ac.jp/majors/mcc103_2015s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 有元健
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- Media‚ Communication and Cultu
+- 'MCC103 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2015.11.26'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

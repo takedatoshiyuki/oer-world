@@ -1,0 +1,59 @@
+slug: kyoto-u-course-0151
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/151/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第50回人環国際交流セミナー「フランスとヨーロッパにおける移⺠について　多元的社会と多元的アイデンティティをめぐって」ジャン＝クロード・ベアコ（Jean-Claude BEACCO）教授
+description:
+  ja: フランスとヨーロッパの移民問題を取り上げ、特に成人移民労働者に対する言語政策に触れる講演である。移民増加がもたらす社会的な論点を、グローバリゼーションとの関係の中で考える内容になっている。講演はフランス語で行われ、日本語通訳が付く。
+quotedDescription:
+  text:
+    ja: '講演者プロフィール
+
+      ジャン=クロード・ベアコ先生はソルボンヌ・ヌーヴェル・パリ第三大学言語学･ 言語文化教育学名誉教授であり、欧州評議会言語政策部門顧問。言語学博士及び文法教授資格を有し、4年間B.E.L.C.（フランス語教育機関）の研究員として活躍。イタリアにて言語学研究指導に従事した後、11年間メーヌ大学の教授を務める。現在もフランス語教育の専門家として幅広く活躍している。
+
+      講演内容
+
+      今回の講演では、現在ヨーロッパの社会において議論の的となっている移民問題、特に成人移民労働者に対する言語政策について言及する。移民増加の現象はますます複雑化し、しばしば排斥運動も引き起こしているが、その反面、経済や人口学的観点から見ても必要不可欠な存在である。他者との関わり合いの中で形成される社会において、我々は今後この社会的問題とどう向き合うべきか。ベアコ氏のグローバルな活動や経験を元に、グローバリゼーションによって刻々と変化する今日の移民問題の様相に迫る。（講演はフランス語で行われ、日本語通訳が付きます。）'
+  source: https://ocw.kyoto-u.ac.jp/course/151/
+  note: 京都大学OCW 「講演者プロフィール」・「講演内容」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Jean-Claude BEACCO
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- education
+keywords:
+- 語学
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

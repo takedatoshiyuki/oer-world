@@ -1,0 +1,130 @@
+slug: icu-majors-irl101-2018a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/irl101_2018a
+type:
+- LearningResource
+- Course
+name:
+  ja: International History 国際関係史
+description:
+  ja: 1648年から1948年までのヨーロッパを中心とする国際関係史を扱う講義で、近代国際社会の成立から冷戦初期までを射程に入れる。講義では、ウエストファリア体制、第一次世界大戦、パリ講和条約、第二次世界大戦に至る過程などをたどる。履修者数によっては学生の口頭報告も組み込む。
+quotedDescription:
+  text:
+    ja: 'International history in Europe from 1648 to 1948.
+
+      近代国際社会の成立から冷戦初期にいたる間のヨーロッパを中心とする国際関係の歴史を講述する。履修者数により学生の口頭報告も組み込む。
+
+      Contents of Lectures
+
+      10
+
+      Lectures /
+
+      3
+
+      Videos
+
+      WK1
+
+      6 SEPTEMBER
+
+      INTRODUCTION: “WHAT IS HISTORT AND IS IT BORING?”
+
+      WK2
+
+      11 & 13 SEPTEMBER
+
+      HOW ‘INTERNATIONAL’ IS INTERNATIONAL HISTORY?
+
+      WK3
+
+      18 & 20 SEPTEMBER
+
+      WESTPHALIA AND THE ‘PRE-INTERNATIONAL’ SYSTEM
+
+      WK4
+
+      25 & 27 SEPTEMBER
+
+      GREAT POWER RIVALRY AND THE FIRST WORLD WAR, 1900-17
+
+      WK5
+
+      9 & 11 OCTOBER
+
+      THE PARIS PEACE TREATY AND THE SEARCH FOR EUROPEAN STABILITY, 1917-29
+
+      WK6
+
+      16 & 18 OCTOBER
+
+      EAST ASIA AND THE ORIGINS OF THE PACIFIC WAR, 1900-41
+
+      WK7
+
+      23 & 25 OCTOBER
+
+      COLONIALISM, IMPERIALISM, AND WORLD WAR, 1900-45
+
+      WK8
+
+      30 OCTOBER & 1 NOVEMBER
+
+      THE PATH TO THE SECOND WORLD WAR, 1930-39
+
+      WK9
+
+      6 NOVEMBER
+
+      THE SECOND WORLD WAR (1)
+
+      THE SECOND WORLD WAR (2)
+
+      THE SECOND WORLD WAR (3)
+
+      WK10
+
+      13 & 15 NOVEMBER
+
+      A ‘NEW’ INTERNATIONAL SYSTEM, 1945-2018'
+  source: https://ocw.info.icu.ac.jp/majors/irl101_2018a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 専攻科目
+- 'International Relations 国際関係学 '
+- 'IRL101 | Course Schedule: 3/TU, 2/TH, 3/TH | Update: 2020.02.18 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

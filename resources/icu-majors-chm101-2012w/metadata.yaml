@@ -1,0 +1,66 @@
+slug: icu-majors-chm101-2012w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/chm101_2012w
+type:
+- LearningResource
+- Course
+name:
+  ja: Concepts in Chemistry 化学概論
+description:
+  ja: 元素の起源と分布、原子構造と周期表を扱い、そこから物質の構造や化学結合へと話を進める。さらに、無機・有機物質の構造、物性、化学反応を原子論的な立場から考察する。
+quotedDescription:
+  text:
+    ja: 'Origin and occurrence of the chemical elements, atomic structure and the periodic table. Atomic
+      approach to the structure of materials and fundamental properties of inorganic and organic compounds.
+
+      化学における物質観，元素の起源と分布，原子構造と周期律，物質の構造と化学結合，基本的な無機・有機物質の構造・物性・化学反応などについて，主として原子論的立場から考察する。
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/chm101_2012w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 田旺帝
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 堀内晶子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Chemistry 化学 | Course ID: CHM1'
+- 'CHM101 | Course Schedule: 3/TU,3/TH | Update: 2013.04.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,65 @@
+slug: utokyo-series-tn2g15zriebs
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=Tn2g15ZRiEBS
+type:
+- LearningResource
+- Course
+name:
+  ja: 13th SCERU Public Seminar/ GraSPP Research Seminar
+description:
+  ja: EUが対外的な情報操作・干渉（FIMI）にどう対応してきたかを扱い、その中で整えられた新しいツールボックスの内容に踏み込む講義である。さらに、そのツールボックスが実際にどのように使われるかを、変化の速い安全保障環境を背景に考える。
+quotedDescription:
+  text:
+    ja: In past years, the European Union has developed its approach to foreign information manipulation
+      and interference (FIMI) as an emerging area of foreign policy. New instruments and tools were created,
+      including a new “toolbox” to address instances of FIMI. The lecture will focus on the development
+      of the toolbox and its practical uses, against the background of the rapidly changing security situat…
+  source: https://ch.u-tokyo.ac.jp/series/?id=Tn2g15ZRiEBS
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: Lutz Guellner
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 青井 千由紀
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- business_law
+keywords:
+- 国際関係
+- 政治・法律
+- 情報操作
+- 民主主義
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: 公共政策大学院
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

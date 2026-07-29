@@ -1,0 +1,59 @@
+slug: hokudai-seismic-safety-of-nuclear-power-plants-and-its-assessment
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/seismic-safety-of-nuclear-power-plants-and-its-assessment
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力規制人材育成事業（*）オープン教材を活用した原子力規制人材育成プログラムの拡充「原子力発電所の地震に対する安全性とその評価」
+description:
+  ja: 原子力発電所の地震に対する安全性を軸に、耐震安全性の考え方からリスクの捉え方、地震リスク評価の枠組みまでを扱う講義資料である。さらに、地震ハザード評価に含まれる不確実さの扱いと、評価結果をどのように活用するかを取り上げる。
+quotedDescription:
+  text:
+    ja: "原子力発電所の地震に対する安全性とその評価\n「原子力発電所の地震に対する安全性とその評価」の教材は全てCC BY-NCのライセンスで公開しています。\n \n本教材の内容は以下の通りです。\n\
+      \ \n・原子力発電所の耐震安全性\n \n・リスクとは？\n \n・地震リスク評価の枠組み\n \n・地震ハザード評価における不確実さの評価\n \n・地震リスク評価結果をどのように活用するか？\n\
+      \ \n・まとめ"
+  source: https://ocw.hokudai.ac.jp/lecture/seismic-safety-of-nuclear-power-plants-and-its-assessment
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 糸井 達哉
+  affiliation:
+    name: 東京大学 大学院工学系研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+keywords:
+- 原子力規制人材育成事業
+- 極端気象ハザード
+- 気象
+audience:
+- student
+materials:
+- name: '講義資料: 原子力発電所の地震に対する安全性とその評価'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2025/01/Nuclear-Regulatory-Human-Resource-Development-Project_Seismic-safety-of-nuclear-power-plants-and-its-assessment.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/seismic-safety-of-nuclear-power-plants-and-its-assessment
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

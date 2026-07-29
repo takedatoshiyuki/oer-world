@@ -1,0 +1,103 @@
+slug: icu-ge-geh041-2013a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/geh041_2013a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'H2: Language Education H2：言語教育'
+description:
+  ja: 言語の教え方と学び方を主題に、世界各国の言語教育を検討する講義である。第一言語と第二言語の定義や第二言語習得の理論に加え、言語喪失、教授法、バイリンガル教育、言語帝国主義などの論点を取り上げる。
+quotedDescription:
+  text:
+    ja: 'This course focuses on the teaching and learning of languages with discussions of the methods
+      of teaching languages, learning strategies and language education around the world.
+
+      言語教育・言語学習の視点から、各国における教授法・学習ストラテジー・言語教育等について検討・考察する。
+
+      Contents of Lectures
+
+      1
+
+      1
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Difficulty of defining ‘first language’
+
+      Definition of ‘second language’
+
+      Second language acquisition vs first language acquisition
+
+      Theories of second language acquisition
+
+      Language attrition
+
+      Variables affecting second language acquisition
+
+      Foreign language methodology
+
+      Bilingual education
+
+      Nov 06
+
+      Linguistic imperialism
+
+      Lecture Note
+
+      Nov 08
+
+      Liberal arts education and language education
+
+      Other issues presented by guest lecturers'
+  source: https://ocw.info.icu.ac.jp/ge/geh041_2013a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 富山真知子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 一般教育科目
+- 'GEH041 | Course Schedule: 3/M, 3/W, 3/F | Update: 2014.05.29'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/13Tzohx-mPvPo1ZkGIyH1OflBEkKfe6p2/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/geh041_2013a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

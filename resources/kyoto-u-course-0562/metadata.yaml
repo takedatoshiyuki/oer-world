@@ -1,0 +1,49 @@
+slug: kyoto-u-course-0562
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/562/
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義「モノづくりにおける革新と調和」
+description:
+  ja: 京都大学工学研究科で行われた吉村允孝の最終講義に関する教材で、公開資料として講義資料が1件付属する。講義名から、モノづくりにおける革新と調和をテーマにした内容を扱うことがわかる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 吉村 允孝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-03-30'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- engineering
+keywords:
+- 工学
+- 最終講義
+audience:
+- general_public
+materials:
+- name: '講義資料: 講義資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2008/03/2008_finallecture_yoshimura01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/562/
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

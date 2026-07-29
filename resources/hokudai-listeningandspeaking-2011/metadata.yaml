@@ -1,0 +1,65 @@
+slug: hokudai-listeningandspeaking-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/listeningandspeaking-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 聞く力・話す力のトレーニング（2011）
+description:
+  ja: 大学生活で必要となる聞くこと、話すこと、討論することを中心に、口頭コミュニケーションの技術を段階的に扱う講義である。講義や演習、打ち合わせ、会議などの場面を背景に、言葉と身体を使って他者と関わる力を育てる内容になっている。
+quotedDescription:
+  text:
+    ja: '教室での講義や演習、課外活動の打ち合わせ、アルバイト先での会議……大学生活は聞いたり話したりの連続です。話を聞いたり、人前で話したり、グループで討論したりといった口頭でのコミュニケーションが効果的にできるかどうかが、大学生活の充実度を左右すると言っても過言ではありません。
+
+      あなたは人の話を本当にきちんと聞けていますか。あなたの話は相手にうまく伝わっているでしょうか。
+
+      この授業では、大学生にふさわしい口頭コミュニケーションの技術を、いくつかの要素に分けて順を追ってトレーニングします。それによって、自信を持って聞いたり話したりできる力を身につけ、言葉と身体を駆使して他者と積極的にかかわる能力を高めます。'
+  source: https://ocw.hokudai.ac.jp/lecture/listeningandspeaking-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 三上 直之
+  affiliation:
+    name: 高等教育推進機構　准教授
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- education
+keywords:
+- コミュニケーション
+- 聞く力
+- 話す力
+- 傾聴
+- インタビュー
+- スピーチ
+- 教育／学習
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 教育学部
+  targetAudience: 1年次～ 基礎1－52組
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,71 @@
+slug: kyoto-u-course-0663
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/663/
+type:
+- LearningResource
+- Course
+name:
+  ja: 経済学のための数学
+description:
+  ja: 経済学修士課程のコアコースに必要な数学を対象に、多変数関数の微分、線形代数、凸解析、動学的最適化、確率過程の最適制御問題、リアルオプションを扱う。前半と後半に分かれており、前半終了後と後半終了後にそれぞれ試験が行われる。公開教材として講義資料が1件ある。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      経済学修士課程のコアコース（ミクロ経済学・マクロ経済学・計量経済学）に必要な数学をカバーすることを目的とする．数学の内容のみならず，数学がいかに経済学にされるかをも学びとってほしい。
+
+      授業の紹介
+
+      本講義の目的は，経済学に必要な数学の基礎を学びとり，経済学への応用に十分となる水準まで理解を深めることにある．特に証明などを精確にたどり，命題を厳密に検証できることも大事だが，学んだ手法を経済分析に活用できるようになることも同様に重要である．前半部では，原が，非線形最適化問題に必要な多変数関数の微分，線形代数，凸解析を講義する．後半部分では，小佐野が，動学的最適化問題，確率過程の最適制御問題，リアルオプションを講義する．講義で触れられる個々のトピックは比較的平易であるが，カバーするトピックが多いため，講義全体としては難しい．また，毎週宿題が課される．試験は2回，原が担当する前半部終了後と，小佐野が担当する後半部終了後に行われる。'
+  source: https://ocw.kyoto-u.ac.jp/course/663/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小佐野広
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 原千秋
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- social_sciences
+- natural_sciences_math
+keywords:
+- 経済学・金融
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+materials:
+- name: '講義資料: 授業資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2010_keizaigakunotamenosuugaku.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/663/
+extensions:
+  faculty: 経済学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,48 @@
+slug: tsukuba-ds-art-and-data-science
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/art_and_data_science/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 「芸術とデータサイエンス」ーみえないものをみるー
+description:
+  ja: 芸術専門学群の学生を念頭に、芸術とデータサイエンスの接点や考え方を扱う講義である。コンピューターを使った分析に対する距離感を前提に、データサイエンスが芸術分野とどう関わるかを説明する。
+quotedDescription:
+  text:
+    ja: "芸術専門学群の皆さんにとって、データサイエンスというのは縁遠い、または、できれば避けて通りたかった分野かもしれません。コンピューターを使った分析と聞いただけで距離を取ってしまう事も。\n\
+      \ しかし、皆さんは鉛筆と同じくらいスマートフォンを片手に持って、毎日のように小さなコンピューターを使って生活しています。身近な道具のはずですよね。そこで本講義では、芸術専門学群の皆さんにとってのデータサイエンスについて、その接点や考え方について説明します。"
+  source: https://ocw.tsukuba.ac.jp/data-science/art_and_data_science/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 山田 博之
+  affiliation:
+    name: 芸術系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2021-09-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

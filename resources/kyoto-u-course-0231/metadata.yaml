@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0231
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/231/
+type:
+- LearningResource
+- Course
+name:
+  ja: エネルギー理工学研究所特別講演会（ZEセミナー）「エネルギーと生活満足度（アセアン非電化地区での調査から）」
+description:
+  ja: 東南アジアの非電化地区で行った調査をもとに、エネルギーが生活満足度にどう関わるかを扱う講演である。太陽光を含む電化システムについての調査結果を取り上げ、エネルギー利用と暮らしの満足度の関係を考える。
+quotedDescription:
+  text:
+    ja: '概要
+
+      エネルギーは人類の発展、とりわけ経済の発展とは密接な関係にありますが、 世界の人口の37%（UN：2018）ではクリーンで現代的なエネルギーを利用できない 状況です。ZE拠点ではその活動を通じてクリーンエネルギーの開発を行ってきています。
+
+      一方で、エネルギーが人々の生活満足度にどれほど影響を与えるのか？という問いに対して、私たちは東南アジアの非電化地区の住民に対して調査を行ってきています。今回、太陽光を含む電化システムの生活満足度に関して学んだことをお話ししたいと思います。'
+  source: https://ocw.kyoto-u.ac.jp/course/231/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 大垣 英明
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-11-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- エネルギー・地球科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: エネルギー理工学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

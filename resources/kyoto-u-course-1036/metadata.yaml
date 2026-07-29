@@ -1,0 +1,53 @@
+slug: kyoto-u-course-1036
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1036/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第12回MACSコロキウム
+description:
+  ja: 京都大学理学研究科で開講された第12回MACSコロキウムである。平岡裕章と田中求が担当し、田中求はハイデルベルク大学物理化学研究所の教授である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 平岡 裕章
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 田中 求（ハイデルベルク大学 物理化学研究所 教授
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-07-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+- ict
+keywords:
+- 生物学・生命科学
+- コンピュータサイエンス
+- データサイエンス
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

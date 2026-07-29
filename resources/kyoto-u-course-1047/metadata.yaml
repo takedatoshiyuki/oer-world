@@ -1,0 +1,44 @@
+slug: kyoto-u-course-1047
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1047/
+type:
+- LearningResource
+- Course
+name:
+  ja: 防災研究所 令和2年度研究発表講演会
+description:
+  ja: 京都大学の防災研究所が担当する、令和2年度の研究発表講演会を収録した教材である。防災研究所に関する研究発表の場を扱う内容で、日本語で提供される。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-22'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 防災研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

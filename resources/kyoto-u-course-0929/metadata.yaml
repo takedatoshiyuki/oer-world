@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0929
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/929/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際研究集会 2016「異文化間教育の文脈化をめぐって」
+description:
+  ja: 京都大学人間・環境学研究科西山教行研究室が主催した国際研究集会で、日本学術振興会科学研究費補助金基盤研究Bの研究課題と関連している。異文化間能力の養成に向けた教材と評価基準の開発およびその有効性の検証に関わる文脈で開催された教材である。
+quotedDescription:
+  text:
+    ja: '主催：京都大学人間・環境学研究科西山教行研究室，
+
+      日本学術振興会科学研究費補助金基盤研究 B「異文化間能力養成のための教材と評価基準の開発およびその有効性の検証」（代表：大木 充）'
+  source: https://ocw.kyoto-u.ac.jp/course/929/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西山 教行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大木 充
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-03-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

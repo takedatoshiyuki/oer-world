@@ -1,0 +1,72 @@
+slug: utokyo-series-velfzmqk7rzh
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=VELFzmQk7RzH
+type:
+- LearningResource
+- Course
+name:
+  ja: 研究倫理セミナー：研究不正が起きる背景とは？〜社会的・心理的観点を踏まえ、不正事例から学ぶ〜
+description:
+  ja: 研究不正に至る背景や状況を、社会的・心理学的な観点から過去の事例とともに扱う。基調講演で不正に至る要因を共有し、続くパネルディスカッションで各研究分野の視点から健全な研究活動のための風土づくりを議論する。
+quotedDescription:
+  text:
+    ja: '2020年度研究倫理セミナーでは、基調講演のスピーカーが、研究不正に至る背景や状況について、社会的・心理学的な観点から、 過去の事例を挙げながら、共有、議論します。続くパネルディスカッションでは、
+      研究者らがそれぞれの研究分野の視点から、 健全な研究活動のための風土を醸成する方法について議論します。
+
+      ★ 開催報告はこちら'
+  source: https://ch.u-tokyo.ac.jp/series/?id=VELFzmQk7RzH
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 有信 睦弘
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 桜田 一洋
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 平地 健吾
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 岡部 繁男
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 佐藤 整尚
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 学内限定
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

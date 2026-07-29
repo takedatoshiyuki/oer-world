@@ -1,0 +1,55 @@
+slug: sophia-20101119lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101119lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 上智の座シリーズ 第2回
+description:
+  ja: ニューマンの『大学の理念』を手がかりに、カトリックの立場から大学をどう捉えるかを扱う講義資料である。19世紀中頃の知的世界を背景にした議論を、現代の大学との距離を意識しながら読み直し、その意義を考える。
+quotedDescription:
+  text:
+    ja: "ニューマンの『大学の理念』と我々の大学 \n ニューマンの『大学の理念』は、カトリックの立場からする大学論として存在はよく知られているけれども、実際に読まれ、理解されることの少ない本と言っていいだろう。それもそ\n\
+      \ のはず、19世紀中頃の知的世界を背景として語られた彼の理念は、前提からして現代の大学の現実から遠く隔たっている。その距離を認めた上で、この本が今の我々に対してもっている意味を考えてみたい。（2010\
+      \ 年9月ニューマンはカトリック教会において列福されました。）\n当日の講演会のチラシは こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101119lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 舟川 一彦(本学文学部英文学科教授)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20101119lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101119lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101119lecture/
+extensions:
+  faculty: 上智の座シリーズ
+  term: 2010/11/19
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0580
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/580/
+type:
+- LearningResource
+- Course
+name:
+  ja: 海産無脊椎動物－分類群と形の多様性
+description:
+  ja: 海産無脊椎動物を対象に、分類群と形の多様性を扱う講義である。公開教材には、実習説明資料と講義ノートが含まれる。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 宮崎 勝己
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 実習説明資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3294ac40a8e0f3867f6b26d45d777a6e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/580/
+- name: '講義資料: 講義ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/8ff4a30e130c393711eb61538e831ecd.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/580/
+extensions:
+  faculty: 全学共通科目
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

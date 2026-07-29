@@ -1,0 +1,65 @@
+slug: kyoto-u-course-0846
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/846/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学メディアセンターシンポジウム「教育の情報化」シンポジウム 2012
+description:
+  ja: 京都大学学術情報メディアセンターが主催する「教育の情報化」シンポジウム2012の講義資料を収録する。公開教材は基調講演1「Sakai, Openness, and the New Reality
+    in Education」で、使用言語は日本語と英語である。
+quotedDescription:
+  text:
+    ja: '主催：
+
+      京都大学 学術情報メディアセンター
+
+      後援：
+
+      大学ICT推進協議会
+
+      京都大学 情報学研究科附属情報教育推進センター
+
+      京都大学 高等教育研究開発推進センター
+
+      京都大学 高等教育研究開発推進機構'
+  source: https://ocw.kyoto-u.ac.jp/course/846/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-03-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: 基調講演1 "Sakai, Openness, and the New Reality in Education"'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/03/2012_kyouikunozyouhouka.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/846/
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

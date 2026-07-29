@@ -1,0 +1,97 @@
+slug: utokyo-series-svxothamzg2p
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=SvXothAMzG2p
+type:
+- LearningResource
+- Course
+name:
+  ja: 〈偶然〉という回路（朝日講座「知の調和―世界をみつめる 未来を創る」2017年度講義）
+description:
+  ja: この講義は、偶然という主題を手がかりに、知の営みと現実の関係を考える。縁、運、宿命、たまたまの遭遇といった人間に身近な事柄を学問的に扱い、そこから見えてくるものを各分野の講師が論じる。
+quotedDescription:
+  text:
+    ja: '私たちは、偶然に取り囲まれ、偶然に振り回されて生きている――少なくともたいがいはそう思って生きています。一方、研究に求められる知性は、偶然性を排し、偶然に見える事柄の奥に隠された必然を見いだすことに求められる、としばしば言われます。では、偶然と知性は、まったく相容れないものなのでしょうか。
+
+      私たちが偶然と名づけているものが、予測不可能に見えるこの世の現実の手触りだとすれば、偶然とはどういうものかと目をこらすことは、知の営みを現実へと新たにつなぎ合わせることになりはしないでしょうか。たとえば、縁や運や宿命、あるいはたまたまの遭遇がもたらす喜怒哀楽といった、いかにも人間くさい事柄に学問的にアプローチしたらどうなるか、などということです。なにかと孤立して見える偶然を、むしろ現実のリアリティへと接近する回路にしたいという思いなのです。
+
+      　本年度の朝日講座では、それぞれの学問分野や実業界を担う先生方から、「偶然とは何か、そこから何か見えてくるか」という観点にもとづいた講義を行っていただきます。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=SvXothAMzG2p
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 渡部 泰明
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 三浦 俊彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 菅 豊
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 北野 隆一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 加藤 陽子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鈴木 泉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 酒井 邦嘉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 楯岡 求美
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- education
+- natural_sciences_math
+keywords:
+- 文化・芸術・文芸
+- 教育
+- 数理
+- 言語・思想
+- 政治・法律
+- 歴史
+- 文学
+- アクティブラーニング
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,74 @@
+slug: hokudai-faculty12lishii-presentations-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/faculty12lishii-presentations-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 全学教育 英語II Presentations（2010）
+description:
+  ja: Philip Seatonによる「Presentations」シリーズの教材で、Presentations (1) から (2) へ進む構成になっている。出典サイトでは、まず (1) を学習してから
+    (2) に進むよう案内している。
+quotedDescription:
+  text:
+    ja: Philip Seatonによる"Presentations" seriesです。Presentations (1)を学習してからPresentations (2)に進んでください。
+  source: https://ocw.hokudai.ac.jp/lecture/faculty12lishii-presentations-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 土永 孝
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 河合 剛
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 鈴木 志のぶ
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+- type: Person
+  name: 奥 聡
+  affiliation:
+    name: メディア・コミュニケーション研究院／外国語教育センター
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 英語
+- オンライン授業
+- TOEFL-ITP
+- WebTube
+- Glexa
+- 文学／思想／言語
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 外国語教育センター
+  targetAudience: 1年生～
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

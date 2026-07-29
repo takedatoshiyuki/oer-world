@@ -1,0 +1,54 @@
+slug: hokudai-archaeology-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/archaeology-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 定年退職記念講演 考古学は何を語れるか？ （2011）
+description:
+  ja: 考古学が物的資料にもとづいて人間の活動を復原し、歴史を理解する学問であることを扱う講義である。北大キャンパス、札幌の街、石狩低地帯を取り上げ、北海道の歴史を考古学的に考える。
+quotedDescription:
+  text:
+    ja: 人文科学は結局のところ、人間とはなにかを追求する学問であり、自然科学は、人間の存在基盤・条件を解明する学問だと考えられます。考古学は、人間活動の結果残された物的資料によって、その活動を復原・推定し、人間の歴史を理解する学問です。わたしたちの暮らす北大キャンパス－札幌の街－石狩低地帯から考古学的に北海道の歴史を考えてみましょう。
+  source: https://ocw.hokudai.ac.jp/lecture/archaeology-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 天野 哲也
+  affiliation:
+    name: 総合博物館/理学院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0499
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/499/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報探索入門：図書館とインターネット情報の活用, 2007
+description:
+  ja: 図書館情報学と情報探索の基礎を扱い、図書館の機能、分類、目録情報、参考資料、インターネット情報やデータベースの活用までを資料として示す。あわせて、論文・レポートや卒業論文のための文献調査に必要な情報活用技術を演習を通じて扱う。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      情報探索に必要な基礎を、図書館機構長ほか専門分野の異なる教員によるリレー方式の講義と演習で身につける。演習には図書館司書が協力する。
+
+      授業の紹介
+
+      論文・レポートを書くための文献・情報収集、卒業論文作成のための文献調査等に必要な情報活用技術を演習によって習得しながら、図書館情報学、情報探索の概要を学ぶ。'
+  source: https://ocw.kyoto-u.ac.jp/course/499/
+  note: 京都大学OCW 「授業の特色」・「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 大西 有三（図書館機構長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 工学研究科 教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川崎 良孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 佐藤 卓己
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: カール・ベッカー
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金子 周司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 黒橋 禎夫
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 図書館情報、および図書館の種類とその機能　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2a49482e57fc0956e2cadf1e86ab0503.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/499/
+- name: '講義資料: 学問・研究・文献・情報　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/b71752e4bdf3bfc1f860444c6051f949.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/499/
+- name: '講義資料: 分類の一般概念と分類理論　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3c53da79410270ae6302cb95c2cc0f6e.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/499/
+- name: '講義資料: 目録情報とその利用法　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/8af21d2944dd39cea9dfd27cd5d7ad05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/499/
+- name: '講義資料: 参考資料の種々とその利用　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/526c4b39a950c7b11f444ce6e03e80f4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/499/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2178b1363c1d0ed633b4b3f6a0d7257b.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/499/
+extensions:
+  faculty: 全学共通科目, 図書館機構
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

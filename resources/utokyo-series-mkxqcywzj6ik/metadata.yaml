@@ -1,0 +1,83 @@
+slug: utokyo-series-mkxqcywzj6ik
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=mKXQcyWZj6Ik
+type:
+- LearningResource
+- Course
+name:
+  ja: 「青い鳥」はいるか－経済学で考える（学術俯瞰講義）
+description:
+  ja: 青い鳥を探す物語を導入に、停滞社会の中で「青い鳥」と呼べるものは何かを経済学の視点から考える講義である。社会の状況を踏まえて、何を目指し、どのように探すのかを問い直す内容を扱う。経済学を、情熱と冷静さを両立させるための思考の道具として位置づけている。
+quotedDescription:
+  text:
+    ja: 'チルチルとミチルはクリスマスイブに妖女と出会い、幸せをもたらしてくれるという青い鳥を探しに出かける。青い鳥を見つけられないまま、夢から醒めると、自分の家に青い鳥がいたことに気づく――。
+
+      貧しくても夢や希望があった高度成長期が終焉を迎え、今は停滞社会に向かいつつあると言われる。そのような社会の中で青い鳥とは何なのか。どこにいるのか。青い鳥を見つけることができるのか。そのために私たちがやるべきことは何なのか。
+
+      かつて、経済学の巨星マーシャルは「熱き心と冷静な頭脳(cool heads but warm hearts)」を兼ね備えた人々を世に送り出すことこそ経済学の役割だと語った。社会の不正に憤って叫んでも問題は解決しない。かと言って、熱き心を失えば目的そのものも見失う。あなたの情熱がアクセルでありエンジンなら、経済学はブレーキでありハンドルである。両者を駆使して、あなた自身の青い鳥を探してほしい。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=mKXQcyWZj6Ik
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松井 彰彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 福田 慎一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 吉川 洋
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 澤田 康幸
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 伊藤 元重
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 経済・金融
+- 人口・社会問題
+- 経済学
+- 数学
+- ゲーム理論
+- 経済
+- 社会問題
+- 貧困
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

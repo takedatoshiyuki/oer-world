@@ -1,0 +1,64 @@
+slug: sophia-20110420lecture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110420lecture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 災害時のこころのケア （日本語版）
+description:
+  ja: 災害後に起こりうる心身への影響と、その対応を心理教育として扱う講義である。あわせて、リラクゼーションの実践も含み、被災者と支援者の双方が参加できる内容になっている。
+quotedDescription:
+  text:
+    ja: "「災害時のこころのケア」 \n 災害後に起こりうる影響とその対応についての心理教育、リラクゼーションの実践。被災者の方、被災者をサポートされる方、どちらの方でも参加いただけるプログラムです。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110420lecture/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 齋藤 梓（上智大学心理学科特別研究員
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 臨床心理士）
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 110420lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110420lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110420lecture/
+- name: '講義資料: 110420lecture_si1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110420lecture_si1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110420lecture/
+- name: '講義資料: 110420lecture_si2.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/110420lecture_si2.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20110420lecture/
+extensions:
+  faculty: 本学主催 講演会・シンポジウム
+  term: 2011/04/20
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

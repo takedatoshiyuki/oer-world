@@ -1,0 +1,94 @@
+slug: kyoto-u-course-0585
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/585/
+type:
+- LearningResource
+- Course
+name:
+  ja: 国際教育研究フロンティアC, 2015
+description:
+  ja: 政治的感情を中心に、理性との対比だけでは捉えにくい感情の位置づけを考える講義である。民主主義を制度としてだけでなく生き方として捉え、感情の育成や教育をどのように考えるかを扱う。あわせて、フェミニズムや批判的人種理論、動物と人間の関係に関わる文献を参照する。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      This is an intensive course “The cultivation of political emotions,” jointly organized by the Graduate
+      School of Education, Kyoto University and UCL Institute of Education.
+
+      Extreme violence may be the result or cause of powerful political emotions. Yet, by contrast with
+      such episodes, political emotions may be sustained aspects of a person’s outlook, embedded in beliefs
+      and attitudes they hold most dear. Their object may be restricted to political principles or leaders,
+      to the memory of a people’s shared past or expectations for the future. Or it may be more diffuse,
+      part of the fabric of daily life with others. Much theorising addresses the nature and conditions
+      of consent, and the attitudinal demands that consensus makes on individual lives and sensibilities.
+      Against this background Nussbaum’s Political Emotions (2013) draws attention to failure to acknowledge
+      the existential and emotional aspects of human transformation. Yet scant space is given to the value
+      of addressing more negative emotions, characterised by and sometimes expressed in dissent. In this
+      course, the practical power of pragmatist philosophy, articulated in relation to feminism, questions
+      the dichotomizations of emotion and reason and serves to provide a different approach to political
+      emotions. This entails questioning the relation between reason and imagination and between the human
+      and the animal. Acknowledgement, attention, and care in relation to such emotions, even when they
+      are discordant, enables democracy not just as a mechanism but as a way of life. It raises the question
+      of their cultivation and education as a valid collective aim and indicator of the good society:
+      they are components in the conversation of justice.
+
+       
+
+      Texts
+
+      Coetzee, John Maxwell. 1997. “The Lives of Animals” (The Tanner Lectures on Human Values, Delivered
+      at Princeton University, October 15 and 16).
+
+      Lloyd, Genevieve. 1979. “The Man of Reason.” Metaphilosophy, Vol. 10, No. 1: pp. 18-37.
+
+      Ladson-Billings, Gloria. 1998. “Just what is critical race theory and what’s it doing in a nice
+      field like education?” International Journal of Qualitative Studies in Education, Vol. 11, No. 1:
+      pp. 7-24.
+
+      Nussbaum, Martha. 2013. Political Emotions (Cambridge, Massachusetts: The Belknap Press of Harvard
+      University Press).
+
+      Standish, Paul. 2009. “Food for Thought: Resourcing Moral Education.” Ethics and Education, Vol.
+      4, No. 1: pp. 31-42.'
+  source: https://ocw.kyoto-u.ac.jp/course/585/
+  note: 京都大学OCW 「Course Description」・「Texts」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Prof. Paul Standish
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Prof. Marianna Papastephanou
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-12-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- education
+keywords:
+- 教育学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

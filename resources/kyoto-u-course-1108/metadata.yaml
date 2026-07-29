@@ -1,0 +1,52 @@
+slug: kyoto-u-course-1108
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1108/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2021年度 サイエンス倶楽部デイ
+description:
+  ja: 京都大学理学研究科が2021年に開講した講義で、北川 宏と高橋 淑子が担当する。使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 北川 宏
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高橋 淑子
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 化学
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

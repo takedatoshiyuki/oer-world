@@ -1,0 +1,107 @@
+slug: kyoto-u-course-0120
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/120/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎情報処理
+description:
+  ja: この講義は、コンピュータの仕組みや動作原理を基礎から扱い、特定の機器やソフトウェアに依存しない情報技術の考え方を学ぶ内容である。あわせて、実験データの処理・解析や物理現象の計算機シミュレーション、物理工学分野での情報技術の活用例を取り上げる。教材には、論理回路、プログラム基礎、UML、コンピュータネットワーク、情報倫理などの回が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      コンピュータの仕組みや動作原理を学び、実験結果の処理・解析手法や物理現象の計算機シミュレーション手法など今後の研究手段としてコンピュータを活用できるようにする。
+
+      授業の紹介
+
+      本講義では、コンピュータの特定のハードウェアやソフトウェアに依存しない情報技術の基礎について理解させる。２回生以降の学びの動機付けとなるよう物理工学科と関連のある分野で情報技術がどのように活用されているかについての紹介も合わせて行う。例えば、簡単な自動販売機を設計させたり、簡単な機器の性能評価を行わせたりすることにより論理回路や数値解析手法を体験的に理解させる。'
+  source: https://ocw.kyoto-u.ac.jp/course/120/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 小山田 耕二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+- ict
+keywords:
+- 工学
+- コンピュータサイエンス
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第1回 コンピュータとは何か？'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第2回 デジタル情報の世界'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第3回 論理回路からコンピューターまで１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第4回 論理回路からコンピューターまで２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第5回 プログラム基礎１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第6回 プログラム基礎２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第7回 UML1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第8回 UML2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第9回 コンピュータネットワーク'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第10回 情報倫理'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第11回 さまざまな情報処理　1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_11-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第11回 さまざまな情報処理　2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_11-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第11回 さまざまな情報処理　小テスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_11-3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+- name: '講義資料: 第12回 コンピュータ科学の諸問題'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2004_kisojouhoushori_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/120/
+extensions:
+  faculty: 工学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

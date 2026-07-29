@@ -1,0 +1,81 @@
+slug: sophia-20100712sct107e1
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+type:
+- LearningResource
+- Course
+name:
+  ja: 基礎物理学
+description:
+  ja: 力学、電磁気学、熱力学を軸に、基礎概念の確認と復習を行う講義である。冒頭では微分やベクトル解析の基本事項を扱い、その後、運動方程式と保存則、さらに電荷・電流・電圧や静電場・静磁場の法則へと進む。熱力学では、熱・温度・圧力に関する基本法則を取り上げる。
+quotedDescription:
+  text:
+    ja: この講義では力学、電磁気学、及び熱力学などの内容を復習し、基礎概念を理解する。始めに微分、ベクトル解析の基本的な事項について講義する。次に運動方程式から出発して、種々の保存則について説明する。電磁気学では、電荷、電流、電圧に関する基本概念と静電場，静磁場の基本法則について講義する。熱力学では、巨視的なスケールでの現象の記述における、熱、温度、圧力などに関する基本的法則について解説する。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 大槻 東巳
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 20100712SCT107E1_chukan.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_chukan.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_kimatsu.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_kimatsu.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_01.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_01.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_03.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_03.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_04.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_04.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_08.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_08.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_10.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_10.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_11.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_11.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+- name: '講義資料: 20100712SCT107E1_12.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100712SCT107E1_12.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100712sct107e1/
+extensions:
+  faculty: 大学
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

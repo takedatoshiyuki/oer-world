@@ -1,0 +1,57 @@
+slug: kyoto-u-course-0966
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/966/
+type:
+- LearningResource
+- Course
+name:
+  ja: 人間・環境学研究科 公開講座 「オンライン授業を覗いてみよう：専門を他者に語る～私たちの教育実践」
+description:
+  ja: 京都大学人間・環境学研究科の公開講座として、研究活動ではなく教育活動を紹介する内容である。2020年度後期に同研究科教員が担当する全学共通科目と総合人間学部科目の授業をオンラインで取り上げる。
+quotedDescription:
+  text:
+    ja: 本研究科は毎年公開講座を開催し、日々の研究活動の成果の一端を市民の皆様にご紹介しております。ただ、本年（令和二年）は新型コロナウイルスの感染拡大防止のため、公開講座の開催を見送ることとし、代わりにオンライン上で、研究活動と並ぶ大学のもう1つの柱である、教育活動をご紹介することにいたしました。今回ご覧頂きますのは、本研究科教員が担当する、本年度後期の全学共通科目および総合人間学部科目の授業です。
+  source: https://ocw.kyoto-u.ac.jp/course/966/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 松江 崇
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 廣戸 聡
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- natural_sciences_math
+keywords:
+- 歴史
+- 化学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,76 @@
+slug: utokyo-series-yfn7ttqcfqia
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=YFn7tTqcfQIa
+type:
+- LearningResource
+- Course
+name:
+  ja: 革新的学びの創造学寄付講座 シンポジウム 第9回 「学びの中の多様性」
+description:
+  ja: 学びの場における多様性をテーマに、多文化、エクイティ、教育資源、バリアを切り口として事例と研究を紹介するシンポジウムである。東京大学とナガセによる基金に関連する企画として公開されている。
+quotedDescription:
+  text:
+    ja: '東京大学と（株）ナガセは、教育を通じたインクルーシブ社会の構築に資するために「ナガセ東京大学『革新的学びの創造学』未来社会協創基金」を創設しました。第9回シンポジウムでは学びの中の様々な多様性について、多文化、エクイティ（公平性）、教育資源、バリアに焦点を当てた事例および研究をご紹介します。
+
+      ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。
+
+      お気に入りの講義・講演があればSNSなどでシェ…'
+  source: https://ch.u-tokyo.ac.jp/series/?id=YFn7tTqcfQIa
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 金田 智
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 石田 千晃
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 星加 良司
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+- social_sciences
+keywords:
+- 教育
+- 人口・社会問題
+- 居場所のデザイン
+- 多文化
+- 異文化理解
+- オンライン学習
+- MOOC
+- 多様性
+- 東大TV
+audience:
+- student
+educationalLevel:
+- upper_secondary
+extensions:
+  faculty: 新領域創成科学研究科
+  targetAudience: 中高生向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

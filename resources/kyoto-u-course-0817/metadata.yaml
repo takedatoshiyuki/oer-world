@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0817
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/817/
+type:
+- LearningResource
+- Course
+name:
+  ja: What is Creativity? – Emergent Phenomena in Complex Adaptive Systems
+description:
+  ja: 複雑適応系における創造性と創発現象を扱う講義である。京都大学の基礎物理学研究所が2008-10-20に開講し、日本語で提供されている。公開教材として、複数名の講義資料とワークショッププログラムが含まれる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008-10-20'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: Masatoshi Murase'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: Harald Atmanspacher'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: Yasuko Takezawa'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: Trevisan Cynthia'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: Krishan Kapilanjan'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: West Jevin'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: Shigeru Miyagawa'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: Shunichi Noma'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: Tsuyoshi Hondou'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+- name: '講義資料: ワークショップ プログラム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2008_What_is_Creativity_program.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/817/
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

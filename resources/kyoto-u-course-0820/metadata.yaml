@@ -1,0 +1,86 @@
+slug: kyoto-u-course-0820
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/820/
+type:
+- LearningResource
+- Course
+name:
+  ja: What is Evolution?　京都大学公開講座「進化とは何か?」
+description:
+  ja: 京都大学基礎物理学研究所が開講した公開講座で、進化を主題にしたワークショップの資料を公開している。ワークショッププログラムに加え、進化の写像、知能の統合的研究への進化論的アプローチ、がんの進化過程、tRNA分子の起源、古細菌RNAとRNA結合タンパク質の系などを扱う講義資料が収録されている。
+quotedDescription:
+  text:
+    ja: '主催：京都大学総合博物館、京都大学基礎物理学研究所、京都大学経済研究所
+
+      ワークショップ詳細HP'
+  source: https://ocw.kyoto-u.ac.jp/course/820/
+  note: 京都大学OCW 「ワークショップ詳細HP」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2009-10-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 国際会議
+audience:
+- professional
+materials:
+- name: '講義資料: ワークショッププログラム'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution_program-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "Opening Address" Kazuo Nishimura (Institute of Economic Research, Kyoto University)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution01Nishimura.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "Evolution Through Maps" Ichiro Tsuda (Hokkaido University & International Institute for
+    Advanced Studies)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution03Tsuda.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "Evolution-theoretic Approach to Synthetic Study of Intelligence" Hideyuki Nakashima (Future
+    University Hakodate)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution07Nakashima.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "Cancer as a mini-evolutionary process" Yoh Iwasa (Department of Biology, Kyushu University)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution11IWASA.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "A method for constructing databases of global dynamics of multi-parameter systems" Hiroshi
+    Kokubu (Department of '
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution13Kokubu.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "The origin of the tRNA molecule" Massimo Di Giulio (Laboratory for Molecular Evolution,
+    Institute of Genetics and'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution15DiGiulio.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "System Biology of Archaeal RNAs and RNA-Binding Proteins" Akio Kanai (Institute for Advanced
+    Biosciences, Keio Un'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution16kanai.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: "Closing Address" Masatoshi Murase (Yukawa Institute for Theoretical Physics, Kyoto University)'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution27Closing.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+- name: '講義資料: 「Imaginary Cube とその展開」 立木 秀樹（京都大学大学院人間・環境学研究科 准教授）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2009what_is-evolution32Tachiki.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/820/
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

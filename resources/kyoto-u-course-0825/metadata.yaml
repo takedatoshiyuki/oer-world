@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0825
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/825/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第1回文化とコンピューティング国際会議
+description:
+  ja: 京都大学が提供し、学術情報メディアセンターが担当する「第1回文化とコンピューティング国際会議」の教材である。2010-02-23に開講され、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-02-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

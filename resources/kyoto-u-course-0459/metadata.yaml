@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0459
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/459/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成29年度 京都大学若手人材海外派遣事業 ジョン万プログラム 海外研修参加職員による帰国報告会
+description:
+  ja: 京都大学の国際交流センターが担当し、日本語で行われる帰国報告会である。平成29年度の「ジョン万プログラム」による海外研修に参加した職員が、その研修後の報告を行う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-09-14'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 国際交流センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

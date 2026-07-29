@@ -1,0 +1,56 @@
+slug: sophia-20110511fes67700
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20110511fes67700/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第２言語習得研究１
+description:
+  ja: 第2言語習得研究の理論と実証研究を概観し、成人の第二言語習得を中心に扱う授業である。自然な環境での習得と指導を受ける習得の両方を取り上げ、関連する範囲で子どもの第二言語習得や第一言語習得にも触れる。
+quotedDescription:
+  text:
+    ja: This is a survey course in second language acquisition (SLA) in which we will consider important
+      SLA theories and empirical research findings. In this course, we will focus on adult second language
+      acquisition, including both naturalistic and instructed SLA. We will also cover various issues and
+      important research findings pertaining to child SLA and child first language acquisition throughout
+      the semester whenever they are deemed relevant.
+  source: https://ocw.cc.sophia.ac.jp/lecture/20110511fes67700/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 和泉 伸一
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 外国語学部 英語学科
+  term: 春学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

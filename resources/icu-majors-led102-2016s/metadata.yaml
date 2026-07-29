@@ -1,0 +1,97 @@
+slug: icu-majors-led102-2016s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/led102_2016s
+type:
+- LearningResource
+- Course
+name:
+  ja: Principles of Language Learning and Teaching 言語教授法原論
+description:
+  ja: 第二言語習得論を基盤に、言語学習の理論と教授法の関係を扱う講義資料である。前半では第一言語習得理論や第二言語習得理論、社会文化理論、個人差などを取り上げ、後半では中間言語や第二言語・外国語教授に関する考え方、各教授法への理論の反映を扱う。
+quotedDescription:
+  text:
+    ja: 'This foundation course will present the underlying principles of foreign language teaching and
+      provide a historical overview of teaching methods. It will also examine the designs and techniques
+      associated with each method to consider the approaches suitable for various teaching situations.
+      Language of instruction differs by year.
+
+      The first half of the course will deal with the theoretical underpinnings of language learning drawing
+      heavily on the studies of second language acquisition. In the latter part of the course, various
+      positions towards second/foreign language teaching will be introduced to examine how the theories
+      are reflected on each method.
+
+      言語教育における言語一般に共通した教授理論・学習理論を紹介し、さまざまな教授法をそのデザインや技術的側面を比較しながら歴史的に概観する。開講年度によって、開講言語が異なる。
+
+      コース前半においては、第二言語習得論を基盤に、言語教育の理論を扱う。後半では、言語教授に関する様々な考え方を紹介し、教授理論が教授法にいかに反映されているかを考察する。
+
+      Contents of Lectures
+
+      6
+
+      Lectures /1 Video
+
+      第一言語習得理論
+
+      第二言語習得理論（社会文化理論、各理論のまとめ）、第二言語習得における個人差（個人内要因）
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。
+
+      Lecture Notes
+
+      第二言語習得における個人差（研究手法の難しさ、知性、適性）
+
+      中間言語
+
+      第二言語／外国語教授に関する様々な考え方
+
+      言語教育理論を反映した各教授法'
+  source: https://ocw.info.icu.ac.jp/majors/led102_2016s
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 富山真知子
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- education
+keywords:
+- 専攻科目
+- Language Education 言語教育 | Cour
+- 'LED102 | Course Schedule: 3/M, 3/W, 3/F | Update: 2017.01.17 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1ot6dcXtba6O8oKUKkzsMZE_HIOVj3kcH/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/majors/led102_2016s
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

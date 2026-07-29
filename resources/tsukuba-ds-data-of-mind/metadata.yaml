@@ -1,0 +1,47 @@
+slug: tsukuba-ds-data-of-mind
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/data_of_mind/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 「心」のデータ：行動デザインの視点から
+description:
+  ja: 応用行動分析学を基礎に、対人相互作用を記述・予測・制御するための行動デザイン研究を扱う講義である。自閉スペクトラム症のある子どもを対象とした研究を主な例に、行動計測技術とデータを用いて心的現象を明らかにする方法を解説する。
+quotedDescription:
+  text:
+    ja: 筑波大学行動デザイン研究室では，応用行動分析学を基礎とし，対人相互作用の記述・予測・制御に向けて，最新の行動計測技術を活用した行動デザイン研究を推進しています。本講義では，社会性の障害によって特徴づけられる，自閉スペクトラム症のある子どもを対象とした研究を主な例として，いかに，科学的・客観的なデータを通じて心的現象を明らかにしていくか，解説します。
+  source: https://ocw.tsukuba.ac.jp/data-science/data_of_mind/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 松田 壮一郎
+  affiliation:
+    name: 人間系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2021-09-13'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: sophia-20100515veritas
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20100515veritas/
+type:
+- LearningResource
+- Course
+name:
+  ja: より身近に感じられる科学 「地球の果て」
+description:
+  ja: 大地を平らなものとみなしていた考えから、地球が球体であるという見方に至るまでの変化を扱う講義資料である。航海の広がりやコロンブスの航路、さらにコペルニクスやガリレイによる地動説の成立にも触れている。
+quotedDescription:
+  text:
+    ja: "より身近に感じられる科学 「地球の果て」\n 大地が球になっているということに気がつくまで、我々の大地は四角い板のようなものだと考えて来た。この端に行くと海の水はジャージャーと落下していくから、船乗り達も端に行かないようにした。高い山に登って遠くを見ても余り遠くは見えないから、どうも大地は丸いのではないかと気がつき、気がついてみれば空には月をはじめとした天体が数多く浮いており、初めて我々の大地も球ではないかと考え始めたのである。それまでは喜望峰までしか行かなかった船乗り達が一斉にインド洋に乗り出し、インドあたりにまで行くようになった。スペインに居たコロンブスは逆にスペインから西に行けばインドに行けるだろうと言ってアメリカを発見した。最初のうちはインドに行って来たのだと勘違いしていた。1492年、今から約500年前のことである。コペルニクス次いでガリレイといった天文学者が活躍し、地動説が次第に正当視されるようになった。\n\
+      プログラムの詳細は こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20100515veritas/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 西澤 潤一
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20100515veritas.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20100515veritas.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20100515veritas/
+extensions:
+  faculty: 上智高校生講座Veritas
+  term: 2010年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

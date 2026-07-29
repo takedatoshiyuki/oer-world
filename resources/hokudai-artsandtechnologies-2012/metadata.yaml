@@ -1,0 +1,62 @@
+slug: hokudai-artsandtechnologies-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/artsandtechnologies-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: オープンコースウェア･セミナー アート＆テクノロジーが導く未来（2012）
+description:
+  ja: 2012年に制作・上映された作品を取り上げ、LEDスクリーン向けの映像作品や、京都の禅と神道を題材にした作品、「音の生け花」を紹介する。あわせて、アートとテクノロジーの関係から未来について考える。
+quotedDescription:
+  text:
+    ja: '2012年韓国の麗水海洋万博委員会から依頼されて250m×30mのLEDスクリーンに上映した作品、京都の禅と神道を題材にした「日本的霊性」、芸術と自然科学が融合された作品「音の生け花」を紹介して頂くとともに、アート＆テクノロジーが導く未来について考えます。
+
+      講師紹介：土佐尚子教授
+
+      カルチュラルコンピューティングという概念を生み出し、日本の伝統、文化を元にデジタル技術を活用した作品を制作しておられます。作品はニューヨーク近代美術館、国立国際美術館などにおいて収蔵、展示されています。'
+  source: https://ocw.hokudai.ac.jp/lecture/artsandtechnologies-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 土佐 尚子
+  affiliation:
+    name: 京都大学情報環境機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- engineering
+- arts_humanities
+keywords:
+- アート
+- テクノロジー
+- 工学／情報
+- 美術
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

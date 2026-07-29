@@ -1,0 +1,55 @@
+slug: utokyo-series-wtsfm6nhv8q5
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=wtsfM6NHV8q5
+type:
+- LearningResource
+- Course
+name:
+  ja: 分子コンピューティング
+description:
+  ja: 分子コンピューティングを、計算機科学と化学・生物学の接点にある分野として扱う講義である。DNAを中心とした生体分子の化学反応による情報処理と、情報技術を用いた生体分子の設計・反応制御を取り上げる。あわせて、関連分野を通じて計算機科学の化学・生物学への展開を概観する。
+quotedDescription:
+  text:
+    ja: 分子コンピューティングは、計算機科学と化学・生物学の境界領域として勃興しつつある研究分野である。DNAを中心とした生体分子の化学反応により情報処理機構を実現するとともに、情報技術を駆使して生体分子の設計やその化学反応の制御を行うことを目標としている。本講義は、分子コンピューティングとその関連分野について解説することにより、計算機科学の化学・生物学への展開について眺望する。
+  source: https://ch.u-tokyo.ac.jp/series/?id=wtsfM6NHV8q5
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 萩谷 昌己
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 理学部・理学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

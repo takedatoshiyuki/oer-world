@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0051
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/51/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第42回 京都大学品川セミナー「世界の野生動物をフィールドワークする：ヒマラヤから海中まで、氷河から熱帯雨林まで」
+description:
+  ja: 本講義は、京都大学野生動物研究センターの研究と活動を、担当者自身の研究の歩みと重ねて紹介する。ヒマラヤの氷河での昆虫の発見を起点に、ボルネオ、アマゾン、インドでの野生動物研究へとつながる話題を扱う。
+quotedDescription:
+  text:
+    ja: '京都大学野生動物研究センターは、絶滅が危惧されている大型動物の保全研究を主な目的として２００８年に設立されました。設立６年目の新しい研究センターですが、現在、既に３０名以上の大学院生や若手研究者が在籍し、アジアやアフリカ、南米など世界各地で、ゾウやバク、イルカ、アザラシなど様々な野生動物を研究しています。
+
+      また、多くの動物園や水族館と連携して、飼育されている貴重な野生動物に関する共同研究も進めています。
+
+      ヒトと野生動物との共存にとって最も必要なことは、それぞれの動物のことをよく理解することです。ゴリラのことを理解しないで彼らと共存することなどできません。
+
+      またゴリラとイルカでは全く生き方や都合が異なります。個々の生きもののことを理解することこそが「保全生物学」です。今の社会では、動物の研究をしても苦労することこそあれ、お金や安定した職につくことは困難です。
+
+      にもかかわらず、動物のことを知りたい、守りたい、という高い志をもって、困難な海外での野生動物研究にチャレンジする若者がまだ多くいることが日本の財産であり、彼らが日本独自の国際貢献を可能にしてくれると信じています。
+
+      ヒマラヤの氷河に住む昆虫の発見から始まり、ボルネオやアマゾン、インドでの野生動物研究にかかわることになった、私の研究遍歴のお話を交えながら、野生動物研究センターの様々な研究や活動をご紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/51/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 幸島 司郎
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-11-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 野生動物研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

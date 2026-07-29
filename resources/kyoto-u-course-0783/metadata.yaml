@@ -1,0 +1,60 @@
+slug: kyoto-u-course-0783
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/783/
+type:
+- LearningResource
+- Course
+name:
+  ja: CiRA一般の方対象シンポジウム 2010年「iPS細胞研究の最前線」
+description:
+  ja: 京都大学iPS細胞研究所（CiRA）が主催する一般向けシンポジウムで、2010年の「iPS細胞研究の最前線」を扱う。山中伸弥、高橋淳、長船健二が担当し、内閣府や複数の省庁、東京都の後援を受けている。
+quotedDescription:
+  text:
+    ja: '主催：京都大学iPS細胞研究所（CiRA）
+
+      後援：内閣府、文部科学省、厚生労働省、経済産業省、東京都'
+  source: https://ocw.kyoto-u.ac.jp/course/783/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山中 伸弥
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高橋 淳
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 長船 健二
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iPS細胞研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

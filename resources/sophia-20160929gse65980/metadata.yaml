@@ -1,0 +1,47 @@
+slug: sophia-20160929gse65980
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20160929gse65980/
+type:
+- LearningResource
+- Course
+name:
+  ja: 立場の心理学：マジョリティの特権を考える／PSYCHOLOGY OF THE PRIVILEGED
+description:
+  ja: 上智大学が2016年秋学期に開講した講義で、出口真紀子が担当する。講義名から、マジョリティの特権という観点から立場の心理を扱う内容であることが読み取れる。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 出口 真紀子
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2016'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 大学
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

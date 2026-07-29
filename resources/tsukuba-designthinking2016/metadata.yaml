@@ -1,0 +1,47 @@
+slug: tsukuba-designthinking2016
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/design/designthinking2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2016年度 特別講義「明日の社会をデザインする」
+description:
+  ja: 日本社会が成長期から成熟期へ移る転換を背景に、次世代に求められる構想力を扱う講義である。デザイン思考を手がかりに、これからの社会に向けたビジョンや行動規範、知のあり方を考察する。
+quotedDescription:
+  text:
+    ja: 日本社会は、成長期から成熟期へと大きな転換期を迎えており、 次世代の担い手には、新たな夢を描き出す構想力が求められる。デザイン思考(Design Thinking)に立ち、これか らの社会に向けてのビジョンや行動規範、知のあり方等について考えてみる。
+  source: https://ocw.tsukuba.ac.jp/course/design/designthinking2016/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 蓮見 孝
+  affiliation:
+    name: 札幌市立大学理事長・学長、筑波大学名誉教授
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2016-06-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- デザイン
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

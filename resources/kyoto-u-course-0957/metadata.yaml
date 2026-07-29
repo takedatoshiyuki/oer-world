@@ -1,0 +1,43 @@
+slug: kyoto-u-course-0957
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/957/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学シンポジウムシリーズ「大震災後を考える」－安全・安心な輝ける国づくりを目指して－シリーズⅩⅥ「巨大地震と津波」玉城嘉十郎教授記念公開学術講演会（第50回）
+description:
+  ja: 京都大学が提供・担当する公開学術講演会で、シンポジウムシリーズ「大震災後を考える」の一環として行われる。題目からは巨大地震と津波を扱う講義であることが分かり、玉城嘉十郎教授記念として第50回に位置づけられている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2011-10-26'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

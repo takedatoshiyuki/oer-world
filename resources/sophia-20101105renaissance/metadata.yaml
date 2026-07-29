@@ -1,0 +1,62 @@
+slug: sophia-20101105renaissance
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101105renaissance/
+type:
+- LearningResource
+- Course
+name:
+  ja: ソフィアルネッサンス連続講演会 第11回
+description:
+  ja: 小さなパン屋が「パンの缶詰」を通じて世界の飢餓に取り組む事例を扱う講演資料である。あわせて、小企業が継続的に社会貢献事業を行うあり方について触れている。
+quotedDescription:
+  text:
+    ja: "小さなパン屋の挑戦！「パンの缶詰」で世界の飢餓を救いたい。\n －小企業でもできる継続的社会貢献事業－\n当日のチラシは こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101105renaissance/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 秋元 義彦(株式会社パン
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: アキモト代表取締役社長
+  affiliation:
+    name: 上智大学
+- type: Person
+  name: 救缶鳥プロジェクト本部長)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 20101105renaissance.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101105renaissance.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101105renaissance/
+extensions:
+  faculty: ソフィア・ルネッサンス連続講演会
+  term: 2010/11/05
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

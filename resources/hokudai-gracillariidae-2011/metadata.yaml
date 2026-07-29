@@ -1,0 +1,54 @@
+slug: hokudai-gracillariidae-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/gracillariidae-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 葉に潜る昆虫ーホソガ科（2011）
+description:
+  ja: ホソガ科を中心に、葉の中を食べて成長するガの仲間の特徴を扱う。幼虫が成長に伴って食べ方や形態を変える例と、それらの形態変化が分類とどう関わるかを取り上げる。あわせて、担当者自身の研究の道筋も織り込んで解説する。
+quotedDescription:
+  text:
+    ja: 鱗翅目（チョウ目）は顕花植物と共に進化してきた昆虫です。その幼虫の大部分は顕花植物を食べて成長し、成虫は花の蜜を吸うものが多く、顕花植物とは切っても切れない関係にあります。したがって、あの薄い葉の中の組織だけを食べて成長するガの仲間がいてもなんら不思議は無いのですが、ハモグリガ類の話をすると信じられないと思う人が多いのも事実です。今回、お話するホソガ科も、その殆どの種類の幼虫が葉の中の組織だけを食べて成長を完了するハモグリガ類の仲間です。したがって、成虫（ガ）になっても非常に小さく、世界最小のガの一種も、このホソガ科にみられます。しかも、幼虫は成長に伴って葉の中の食べる部分を変え、形態や摂食方法を変える種類もいます。鱗翅目（チョウ目）の中で、このように形態変化（可変態）をしながら成長することが知られているのは、ホソガ科を含めてわずかのグループに限られています。この講座では、ホソガ科の様々な形態変化と分類の関係を中心に、私がたどってきた研究の道筋を織り交ぜながらホソガ科の話をしたいと思います。
+  source: https://ocw.hokudai.ac.jp/lecture/gracillariidae-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 久万田 敏夫
+  affiliation:
+    name: 元農学部
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

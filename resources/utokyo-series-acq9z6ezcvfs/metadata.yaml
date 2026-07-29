@@ -1,0 +1,54 @@
+slug: utokyo-series-acq9z6ezcvfs
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=aCq9Z6EzcvfS
+type:
+- LearningResource
+- Course
+name:
+  ja: GraSPP Online Research Seminar
+description:
+  ja: グローバリズムの進展や格差拡大、デジタライゼーション、MMTやリブラ構想、ウィルス禍を背景に、国家・企業・通貨が直面する変化を扱う。あわせて、経済への影響、財政と中央銀行の関係、個人情報管理と自由の関係などの論点を取り上げる。
+quotedDescription:
+  text:
+    ja: グローバリズムが進む一方、世界的な格差拡大やデジタライゼーション、あるいはＭＭＴやリブラ構想の登場などの中で国家と企業そして通貨は新たな変化に直面している。そして、今回のウィルス禍は、経済への打撃がどこまで広がるか、あるいは財政と中央銀行の関係がどうなるか、個人情報管理と自由との相克はあるか、などにつき、さまざまな問題を私たちに突きつけている。これらの問題と考え方について、国家と企業そして通貨の…
+  source: https://ch.u-tokyo.ac.jp/series/?id=aCq9Z6EzcvfS
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 岩村 充
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 湯山 智教
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2020'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

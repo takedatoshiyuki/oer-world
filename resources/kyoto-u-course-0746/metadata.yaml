@@ -1,0 +1,94 @@
+slug: kyoto-u-course-0746
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/746/
+type:
+- LearningResource
+- Course
+name:
+  ja: 近代日本最初の独創的哲学：京都学派を築いた 西田幾多郎先生のオープンコースウェア
+description:
+  ja: 京都大学文学部で2008年に開講された藤田正勝担当のオープンコースウェアで、西田幾多郎と京都学派を扱う。公開教材には、岩波新書『日本文化の問題』の手書き原稿に基づく講義資料が序から8、付録まで含まれる。さらに、『百花香』や『一日不作一日不食　寸心』に関する書資料も公開されている。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤田 正勝
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 哲学
+- 文学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 序'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_jyo.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 3'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 5'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 6'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 7'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 8'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 岩波新書「日本文化の問題」（手書き原稿） 付録'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_furoku.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 書「百花香」は禅の公案集『無門関』で使われている表現。杜甫の詩の一節「長えに憶う 江南三月の裏　鷓鴣啼く処百花香し」からとられたもの。'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_syo.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 書「一日不作一日不食　寸心 (一日作さざれば　一日食らわず）」 中国の禅僧・百丈懐海の言葉。金沢時代に西田は この言葉を京都妙心寺の虎関禅師に揮毫してもらった。 また自らも好んでこの語を揮毫した。'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_ichinichinasazareba.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 断章ノート'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_note.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 務台理作宛書簡/1938,7,4'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_syokan.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+- name: '講義資料: 西田幾多郎の思索：「日本文化の問題」をめぐって  1. 京都大学月曜講義「日本文化の問題」2. 世界文化の創造 3. 文化の歴史的基盤 4.「外」からの眼'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2014/03/prof_nishida_kitaro_prof_fujita.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/746/
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

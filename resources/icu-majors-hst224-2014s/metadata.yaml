@@ -1,0 +1,49 @@
+slug: icu-majors-hst224-2014s
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/hst224_2014s
+type:
+- LearningResource
+- Course
+name:
+  ja: Modern Japan and ICU 近代日本とICU
+description:
+  ja: 国際基督教大学が提供・担当する、2014年開講の講義である。使用言語は英語と日本語で、講義名に「近代日本」と「ICU」が含まれる。
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'History 歴史学 | Course ID: HST22'
+- 'HST224 | Course Schedule: 4*/M, 4*/TH | Update: 2016.04.18  Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

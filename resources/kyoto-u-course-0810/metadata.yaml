@@ -1,0 +1,235 @@
+slug: kyoto-u-course-0810
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/810/
+type:
+- LearningResource
+- Course
+name:
+  ja: 生命とは何か
+description:
+  ja: この教材は、「生命とは何か」を主題にした京都大学の講義資料である。第1回から第7回までのノートや参考資料が公開されており、生命をめぐる問いから、がん、生成文法、認識、進化、構成的認識の理論と実践へと
+    विषय題が展開する。
+quotedDescription:
+  text:
+    ja: '授業の紹介
+
+      京都大学基礎物理学研究所は、日本人としてはじめてノーベル賞を受賞された湯川秀樹博士を初代所長に迎え、我が国初の全国共同利用研究所として1953年に設立された。半世紀以上の歴史をもつ本研究所で、京都大学１回生向けの全学共通少人数セミナーが開講されるのははじめての試みである。その最初の年の受講生は、理学部、農学部、工学部、総合人間学部、文学部、法学部の学生から構成されている。その総勢は、１１名（内、女子学生２名）を数え、ほぼコンスタントにセミナーへ参加している。また、６月１９日からは、ハーバード大学からの女子留学生が新たに参加することとなり、英語での講義に切り替えることになった。トップページの写真は、その際の集合写真とセミナー風景のスナップである。
+
+      1990年代に、我が国を嵐のように駆け巡った教養部廃止に端を発した、要素還元論的、専門分化型学問への偏重への危惧から、私はあえて人類の永遠のテーマである「生命とは何か？」をセミナーの科目名として選ぶことにした。その意図は、自然科学と人文科学の統合、西洋科学と東洋哲学の融合にある。そして、このセミナーを文字通りの体験学習の場として、活用することを目指した。ほとんどの学生は毎回出席し、かつ非常に快活に議論に参加しているのが現状である。
+
+      この度、京都大学オープンコースウエアにて、本セミナーの講義ノートを公開させていただくことになり、みなさまからのご意見を多数お寄せいただければ幸いである。2007年10月には、湯川博士生誕１００年を記念して、「生命とは何か？」をテーマとした国際会議を主催する。ご参考までに、本国際会議のポスターとプログラムも付録として掲載している。本セミナーの参加学生の何名かは、はやくも参加登録を済ませており、世界最先端の学際研究討論の現場を目の当たりにすることになる。こうした機会を新入生に提供できることこそ、本学に付置されている全国共同利用研究所ならではと思う。異常とも思える効率性・生産性重視の風潮にあって、あえて「生命とは何か？」という根本問題に立ち返る勇気とゆとりを失いたくないものである。'
+  source: https://ocw.kyoto-u.ac.jp/course/810/
+  note: 京都大学OCW 「授業の紹介」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 村瀬 雅俊
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: "講義資料: 第1回\tはじめに（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第1回\tはじめに（参考資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第2回\tなぜ、いま「生命とは何か？」と問うのか（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第2回\tなぜ、いま「生命とは何か？」と問うのか（参考資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第3回\tがんとは何か（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第3回\tがんとは何か（参考資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第4回\t生成文法の意義（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第4回\t生成文法の意義（参考資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第5回\t認識の環境依存性（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第5回\t認識の環境依存性（参考資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第6回\t進化とは何か（参考資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第7回\t構成的認識の理論と実践（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第8回\t科学の方法（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第9回\tわかるとはどういうことか？（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第10回\t曼荼羅の思想（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_15.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第11回\t老化とは何か？（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_16.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第11回\t老化とは何か？（参考資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_17.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第11回\t老化とは何か？（参考資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_18.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第12回\tこころの老化（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_19.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（講義ノート１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_20.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（講義ノート２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_21.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（講義ノート３）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_22.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（講義ノート４）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_23.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（講義ノート５）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_24.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（講義ノート６）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_25.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（講義ノート７）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_26.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（参考資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_27.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（参考資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_28.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（参考資料３）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_29.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（参考資料４）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_30.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（参考資料５）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_31.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第13回\t環境因子の生体への影響（参考資料６）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_32.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第14回\t非線形生命物理学(1-3)（講義ノート１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_33.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第14回\t非線形生命物理学(1-3)（講義ノート２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_34.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第14回\t非線形生命物理学(1-3)（講義ノート３）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_35.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第14回\t非線形生命物理学(1-3)（講義ノート４）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_36.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第14回\t非線形生命物理学(1-3)（参考資料１）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_37.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第14回\t非線形生命物理学(1-3)（参考資料２）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_38.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第14回\t非線形生命物理学(1-3)（参考資料３）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_39.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第15回\t創発現象としての生命とその病気（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_40.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第16回\t生命の起源(Origin of Life, in English)（講義ノート）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_41.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: "講義資料: 第16回\t生命の起源(Origin of Life, in English)（参考資料）"
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_42.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　講義を終えて'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_43.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　これまでの講義の感想'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_44.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　高校講座感想（2003年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_45.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　高校講座感想（2004年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_46.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　高校講座感想（2005年-1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_47.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　高校講座感想（2005年-2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_48.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　高校講座感想（2006年-1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_49.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　高校講座感想（2006年-2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_50.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　高校講座感想（2007年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_51.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　立命館大学2002講義感想'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_52.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　講義写真'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_53.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　国際会議 What is Life'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_54.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　著書、論文、解説'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_55.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　自己点検、評価報告（2003年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_56.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+- name: '講義資料: 付録　自己点検、評価報告（2005年）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2010/04/2010_seimeitohananika_57.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/810/
+extensions:
+  faculty: 全学共通科目
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

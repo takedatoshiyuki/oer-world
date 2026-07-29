@@ -1,0 +1,54 @@
+slug: kyoto-u-course-0215
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/215/
+type:
+- LearningResource
+- Course
+name:
+  ja: シンポジウム「森と海の未来力（ちから）～子どもたちに手渡すべきこと～」
+description:
+  ja: 森と海のつながりをテーマにしたシンポジウムである。タイトルにある通り、子どもたちに手渡すべきことを扱う内容で、京都大学フィールド科学教育研究センターが関わっている。
+quotedDescription:
+  text:
+    ja: '詳細HP（フィールド科学教育研究センター）→ http://fserc.kyoto-u.ac.jp/wp/blog/archives/9002
+
+      主催：NPO法人森は海の恋人、京都大学フィールド科学教育研究センター、フィールドソサイエティー
+
+      後援：三井物産株式会社、京都市教育委員会、京都モデルフォレスト協会'
+  source: https://ocw.kyoto-u.ac.jp/course/215/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-10-11'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 環境学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

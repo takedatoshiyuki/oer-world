@@ -1,0 +1,58 @@
+slug: utokyo-series-ee5f5qabcfo4
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ee5f5QABcfo4
+type:
+- LearningResource
+- Course
+name:
+  ja: 人間環境システム学
+description:
+  ja: 自然災害と環境問題を、人間社会と地球環境の接点にある現象として扱う講義である。災害を生む自然現象の規模・頻度・地域差を見たうえで、環境問題の実態と、人間社会がそれらとどう向きあうかを地理学的視点から考察する。あわせて、世界各地でのフィールドワークの実態も紹介する。
+quotedDescription:
+  text:
+    ja: 自然災害や環境問題は、人間社会と地球環境の接点領域において生じる主要現象である.巨大化する自然災害は、人類社会の持続的発展にとって大きな脅威となりつつある.自然災害を生起させる様々な自然現象を対象として、それらの発生規模-頻度分布特性や地域性を解明するとともに、人間社会の変化とともに深刻化する環境問題の実態を理解することを目標とする.本講義では、世界各地でのフィールドワークの実態を紹介する。人間社会を自然環境システムの一部に位置付けることを通じて、人間社会は自然災害や環境問題といかに向きあっていくべきか、地理学的視点から論考する。
+  source: https://ch.u-tokyo.ac.jp/series/?id=ee5f5QABcfo4
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 穴澤 活郎
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2021'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- natural_sciences_math
+- engineering
+keywords:
+- 環境
+- 災害・防災
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 理学部・理学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

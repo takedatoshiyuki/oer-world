@@ -1,0 +1,104 @@
+slug: kyoto-u-course-0676
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/676/
+type:
+- LearningResource
+- Course
+name:
+  ja: 農業機械学実験Ⅱ
+description:
+  ja: 植物、農産物、土壌を対象に、工学的な計測手法を実習を通して学ぶ講義である。実験手法の説明に加え、実験計画、測定、データ処理、レポート作成までの一連の手順を扱う。公開教材には、乾燥や脱ぷ、光合成の実験、AVRマイコンによる制御、マシンビジョン、レーザー距離計による非接触計測の資料が含まれる。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      植物，農産物，土壌といった複雑な対象物に対して，工学的な各種の手法を用いて計測を行うことにより，農業，生物，土壌等と機械・計測との接点についてその基礎を実習を通して学び，農業生産を支える工学技術の基本について体験することができる．
+
+      授業の紹介
+
+      農業機械学が取り扱う対象物に関して実験手法を講述し，基礎的な実験を通して実験計画，測定，データ処理及びレポート作成などの一連の実験手順を習得する．'
+  source: https://ocw.kyoto-u.ac.jp/course/676/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 飯田訓久
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中嶋洋
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小川雄一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 宮坂寿郎
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大土井克明
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 村主勝彦
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 増田良平
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- agriculture
+keywords:
+- 農学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第2回 乾燥プロセス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken-2_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/676/
+- name: '講義資料: 第3回 脱ぷプロセス'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken-2_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/676/
+- name: '講義資料: 第10回 光合成に関する基礎的実験'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken-2_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/676/
+- name: '講義資料: 第11回 AVRマイコンを用いたハード制御（1）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken-2_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/676/
+- name: '講義資料: 第12回 AVRマイコンを用いたハード制御（2）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken-2_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/676/
+- name: '講義資料: 第13回 野菜・果実選別用マシンビジョン'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken-2_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/676/
+- name: '講義資料: 第14回 レーザー距離計による非接触計測'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken-2_14.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/676/
+extensions:
+  faculty: 農学部
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,58 @@
+slug: utokyo-series-ixkj8fgm8w4p
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=ixKJ8FGM8w4p
+type:
+- LearningResource
+- Course
+name:
+  ja: 量子力学 第2
+description:
+  ja: 量子力学における対称性の考え方として、軌道角運動量やスピン角運動量、2粒子の交換を扱う。さらに、3次元球対称ポテンシャルの具体例や角運動量の合成、スピン軌道相互作用を踏まえ、摂動論、遷移確率、変分法まで学ぶ。量子力学第Iの続編として位置づけられ、量子力学第IIIへつながる。
+quotedDescription:
+  text:
+    ja: '量子力学における対称性と摂動論を学ぶ。軌道角運動量、スピン角運動量、2粒子の交換などは量子力学において特徴的な対称性の概念であり、摂動論は一般的 な状態に関する理論であり、計算のための具体的な手続きを与える。この講義は量子力学第I（量子力学の基礎、1次元の量子力学）に続くものである。
+
+      まず軌道角運動量について学んだ後、3次元球対称ポテンシャル（3次元井戸型ポテンシャル、水素様原子、3次元調和振動子など）の具体的な問題を考える。 スピン角運動量、スピン軌道相互作用、角運動量の合成についても学ぶ。そのあと、摂動論（時間に依存しない摂動、時間に依存する摂動）、遷移確率、
+      および変分法等を学び，具体的に様々な問題を解くための手法を身に付ける。具体的な問題を自身で解いて量子力学を使えることを目標とする。量子力学第 III（散乱、多電子問題、電磁場と電子の相互作用）につながる。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=ixKJ8FGM8w4p
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 藤原毅夫
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2005'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- engineering
+keywords:
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 工学部・工学系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

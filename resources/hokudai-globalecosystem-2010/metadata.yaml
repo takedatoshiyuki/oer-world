@@ -1,0 +1,54 @@
+slug: hokudai-globalecosystem-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/globalecosystem-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: サステナビリティ・ウィーク 崩壊する地球生態系を救えるのか？（2010）
+description:
+  ja: 北海道大学学術交流会館で開催された講義の映像資料を収録する。題名は「崩壊する地球生態系を救えるのか？」で、地球生態系の崩壊を主題とする内容を扱う。
+quotedDescription:
+  text:
+    ja: 北海道大学学術交流会館 で開催された「崩壊する地球生態系を救えるのか？」の映像資料をご覧いただけます。
+  source: https://ocw.hokudai.ac.jp/lecture/globalecosystem-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Organization
+  name: 北海道大学
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- agriculture
+keywords:
+- 農学
+- 農学部
+- 農学院／農学研究院
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: サステイナビリティ学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

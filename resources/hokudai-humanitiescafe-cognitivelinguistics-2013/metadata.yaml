@@ -1,0 +1,54 @@
+slug: hokudai-humanitiescafe-cognitivelinguistics-2013
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/humanitiescafe-cognitivelinguistics-2013
+type:
+- LearningResource
+- Course
+name:
+  ja: 人文学カフェ 「机の上のペン」と「ペンの下の机」 言葉のしくみを科学する認知言語学（2013）
+description:
+  ja: 認知言語学を手がかりに、同じものを表す複数の言い方をどう使い分けるかを考える。金星の呼び方や位置関係の表現など、身近な例を通して、言葉のしくみと認知の関係を扱う。
+quotedDescription:
+  text:
+    ja: 'わたしたちは「金星」のことを「明けの明星」とも呼び、前後の文脈や状況に応じて使い分けます。位置関係の表現に「体育館の横の自転車」と言いますが、「自転車の横の体育館」という使い方はほとんどしません。同じモノやコトを表す言葉が複数ある場合、なぜ適切に使い分けることができるのでしょうか。それは、ヒトに認知能力があるからです。言葉と言葉を使う時の頭の働き（認知能力）に注目して、言葉のしくみを解き明かそうとする学問、それが認知言語学です。
+
+      認知言語学と聞くと難しそうな気がしますが、ご心配無用。高橋さんが身近な実例を取り上げ、皆さんの素朴な疑問や思い込みについてわかりやすく解説いたします。普段何気なく使い分けている言葉のしくみがわかると、言葉の不思議やおもしろさが見えてきます。皆さんも高橋さんと一緒に、言葉と頭の親密な関係を体験しませんか。'
+  source: https://ocw.hokudai.ac.jp/lecture/humanitiescafe-cognitivelinguistics-2013
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 高橋 英光
+  affiliation:
+    name: 北海道大学大学院文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文学／思想／言語
+audience:
+- general_public
+extensions:
+  faculty: 文学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

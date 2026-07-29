@@ -1,0 +1,74 @@
+slug: utokyo-series-uq1zrhvdbvu9
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=uQ1zRHvDBVu9
+type:
+- LearningResource
+- Course
+name:
+  ja: '#WeChange 女性幹部養成プログラム ネットワーキングイベント'
+description:
+  ja: 東京大学の女性リーダー育成施策「UTokyo 男女+協働改革#WeChange」の一環として行われた、女性教員向けのネットワーキングイベントを扱う。イベント冒頭の座談会では、理事・副学長や部局長経験者が参加し、幹部候補の女性教員を対象にした交流の場が設けられている。
+quotedDescription:
+  text:
+    ja: '東京大学では、2022年度に始動した女性リーダー育成に向けた施策「UTokyo 男女+協働改革#WeChange」の一環として、昨年度より、女性研究者キャリアアップ支援を目的として「女性教員幹部養成コース」を試行実施しています。昨年度に引き続き、今年度も幹部候補の女性教員を対象とした、ネットワークイベントを開催しました。
+      イベントの冒頭では、林香里理事・副学長と、部局長経験者である物性研究所 森初果教授、史料編纂所 本郷恵子教授が、田野井慶太朗 ジェンダー・エクイティ推進オフィス長のモデレートのもと、座談会を行いました。
+
+      制作：東京大学 多様性包摂共創センター　ジェンダー・エクイティ推進オフィス'
+  source: https://ch.u-tokyo.ac.jp/series/?id=uQ1zRHvDBVu9
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 田野井 慶太朗
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 林 香里
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 森 初果
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 本郷 恵子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+- education
+keywords:
+- 人口・社会問題
+- 教育
+- ジェンダー
+- 多様性
+- 対談・座談会・インタビュー
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,48 @@
+slug: tsukuba-ds-environmental-radioactivity-database
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/data-science/environmental_radioactivity_database/
+type:
+- LearningResource
+- Course
+name:
+  ja: データサイエンス講義 セシウム137全球データベースおよび環境放射能データの検索と公開サイト
+description:
+  ja: この講義は、海洋・大気・土壌における人工放射性核種のデータ収集とデータベース化を扱う。あわせて、セシウム137の全球的な降下量推定や空間分布、国際機関へのデータ提供、福島事故関連データの公開と横断検索サイトの構成を取り上げる。
+quotedDescription:
+  text:
+    ja: "過去に報告されている海洋、大気、土壌の人工放射性核種のデータを国内外から収集し、データベースを構築した。北半球に降下したセシウム137総量は765+-79 PBqとなり過去の国連科学委員会報告の545\
+      \ PBqより40％多かった。セシウム137の降下量の空間分布も明らかになった。\n 構築したデータベースの中で海洋の部分は、国際原子力機関の海水中放射能データベースに提供し、他のソースと合わせて全球規模の海水中放射能データベースの構築に寄与した。筑波大学アイソトープ環境動態研究センターは、福島事故関連の環境放射能データをDOIを付けて公開するとともに、外部で既に公開されているデータも合わせて串刺し検索が可能なデータベースサイトを提供している。"
+  source: https://ocw.tsukuba.ac.jp/data-science/environmental_radioactivity_database/
+  note: TSUKUBA OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 青山 道夫
+  affiliation:
+    name: 生命環境系
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2020-09-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- ict
+keywords:
+- データサイエンス
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

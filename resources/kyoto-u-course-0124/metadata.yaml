@@ -1,0 +1,102 @@
+slug: kyoto-u-course-0124
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/124/
+type:
+- LearningResource
+- Course
+name:
+  ja: 電気電子工学のための量子論
+description:
+  ja: 量子論の理論的枠組みを、ヒルベルト空間や演算子、ブラケット表示を通して扱う講義である。離散状態と連続状態を同じ枠組みで記述する考え方を示し、簡単な系を例に量子の振舞いを整理する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      量子論の理論的枠組みについて初歩的なレベルから丁寧に学ぶ。線形空間と複素振幅（フェーザ）の特徴を合わせもった、ヒルベルト空間とその上の演算子について理解する。ブラケットを用いた量子力学の記述を習得することにより、離散状態、連続状態を統一的に扱うことができるようになる。
+
+      授業内容
+
+      量子力学の枠組みをできるだけ単純な形で示し、多様な量子の振舞いを捉える視点の確立を目指す。簡単な系を例に、数学的手法と物理的イメージを与える。'
+  source: https://ocw.kyoto-u.ac.jp/course/124/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 北野 正雄
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2007'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- natural_sciences_math
+- engineering
+keywords:
+- 物理学
+- 工学
+- 電子工学
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 量子力学の基礎'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_00.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第1回 量子の発見'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第2回 量子の振舞'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第3回 ヒルベルト空間'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第4回 演算子'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第5回 演算子のスペクトル分解'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第6回 時間発展'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_06.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第7回 物理量と測定'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第8回 パウリ行列と2状態系'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_08.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第9回 連続スペクトルと波動関数'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第10回 シュレディンガーの波動方程式'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+- name: '講義資料: 第11回 量子古典対応-波束, 群速度'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2007_denkidenshikougakunotamenoryoushiron_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/124/
+extensions:
+  faculty: 工学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

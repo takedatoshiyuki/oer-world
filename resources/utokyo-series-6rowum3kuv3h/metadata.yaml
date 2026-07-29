@@ -1,0 +1,81 @@
+slug: utokyo-series-6rowum3kuv3h
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=6ROwUM3kuv3H
+type:
+- LearningResource
+- Course
+name:
+  ja: Cedepシンポジウム：豊かな人生を紡ぐ保育 ~Society5.0 保育から社会を変える~
+description:
+  ja: 東京大学のCedepが開催したシンポジウムで、保育を軸にしたテーマを扱う。スティーブン・バーネット教授と田熊美保氏を含む登壇者が参加している。対象は英語話者向けで、使用言語は英語である。
+quotedDescription:
+  text:
+    ja: "東京大学大学院教育学研究科附属・発達保育実践政策学センター（Cedep）では、全米幼児教育研究センター所長のスティーブン・バーネット教授、OECD教育スキル局シニア政策アナリストの田熊美保氏を迎えたシンポジウムを開催しました。\
+      \ \n  開催報告は     こちら   \n  ★あなたのシェアが、ほかの誰かの学びに繋がるかもしれません。  \n  お気に入りの講義・講演があればSNSなどでシェアをお願いします。"
+  source: https://ch.u-tokyo.ac.jp/series/?id=6ROwUM3kuv3H
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 小松 親次郎
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: スティーブン・バーネット
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 田熊 美保
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 村上 祐介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長谷部 健
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 秋田 喜代美
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 遠藤 利彦
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 高橋 翠
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  targetAudience: 英語話者向け
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

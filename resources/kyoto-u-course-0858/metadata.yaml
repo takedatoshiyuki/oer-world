@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0858
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/858/
+type:
+- LearningResource
+- Course
+name:
+  ja: ミャンマー連邦共和国アウン・サン・スー・チー国家最高顧問 「名誉博士称号贈呈式」および「学生との対話」
+description:
+  ja: 京都大学が提供・担当する、2016-11-06開講の英語教材である。名誉博士称号の贈呈式と、学生との対話を扱う。
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-11-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

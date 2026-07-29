@@ -1,0 +1,58 @@
+slug: kyoto-u-course-0234
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/234/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第85回 京都大学丸の内セミナー「最新宇宙論の３大謎に迫る！～ダークエネルギー・ダークマター・インフレーション～」
+description:
+  ja: 宇宙背景輻射の観測や銀河の回転速度、初期宇宙の急激な膨張を手がかりに、宇宙論で未解明とされる三つのテーマを扱う講義である。ダークエネルギー、ダークマター、インフレーションの各々について、何が問題になっているかを取り上げる。
+quotedDescription:
+  text:
+    ja: '宇宙背景輻射の観測は、現在の宇宙の加速膨張と負の圧力を持ったエネルギーの存在を強く示唆しており、また銀河の回転速度を説明するには、遠心力を引き止めるのに必要な重力を生み出す物質が必要と考えられています。
+
+      　これらの未知のエネルギーと物質は、ダークエネルギー、ダークマターと呼ばれ、宇宙の大部分を占めていると考えられています。
+
+      　さらに、初期宇宙における急激な膨張、イン フレーションを起こした源のエネルギーが何によるものなのか、それも未だに分かっていません。
+
+      　本セミナーでは、豊富な精密観測データを誇る宇宙論の前に立ちはだかる、ダークエネルギー・ダークマター・インフレーションという、3つ の大きな謎に迫ります。'
+  source: https://ocw.kyoto-u.ac.jp/course/234/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 向山 信治
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-08-04'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0027
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/27/
+type:
+- LearningResource
+- Course
+name:
+  ja: '経済史２（国際政治経済学 : 理論・歴史・政策）'
+description:
+  ja: 近現代の欧米と日本を中心に、資本主義の成立と変化を軸として国際関係の歴史的推移を経済の視点から考察する資料である。グローバル化の進展、各国での資本主義の展開に伴う不均等発展や経済摩擦、さらに世界大恐慌や世界大戦をめぐる問題までを扱い、それらを調整する仕組みの形成を追う。
+quotedDescription:
+  text:
+    ja: '※第13回で配布された資料は下記一覧のリンクよりダウンロード可能です。
+
+      近現代（資本主義の成立とその後の変化～第二次大戦後に至るまで）の欧米及び日本を中心とする世界史を対象とし、経済の視点から国際関係の歴史的変化について考察する。
+
+      基本的な分析視角は、「グローバル化」と「資本主義の変容」である。近年、世界経済は著しくグローバル化（資本・労働、貿易・直接投資・間接投資など国境を越えた経済活動の促進）しているが、それは近代以降、漸進的に進展していたといえる。イギリスで誕生した資本主義的経済システムは、ヨーロッパ、そして地球上の各地域に波及した。各国における資本主義の成立・発展過程では経済成長が実現されたが、その一方で各国間の不均等発展や経済摩擦が発生する。それは、世界大恐慌や2つの世界大戦を引き起こす要因ともなった。こうした諸問題を解決・調整する仕組みが、歴史的にどのように形成されたのか、この講義を通じて考察する。'
+  source: https://ocw.kyoto-u.ac.jp/course/27/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 第13回 配布資料'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2022/05/20180122_keizaishi2_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/27/
+extensions:
+  faculty: 法学部, 経済学部
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

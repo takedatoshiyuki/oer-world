@@ -1,0 +1,48 @@
+slug: tsukuba-globaltrends2016
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/international/globaltrends2016/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2016年度 特別講義「グローバルトレンズ・日本」
+description:
+  ja: 21世紀のグローバル化をめぐる状況を手がかりに、情報化や対立、南北格差といった論点を扱う講義である。あわせて、国際化から世界化、地球化へ向かう視点を取り上げ、人間・社会・世界・歴史の中で文明を検討する。さらに、思想・理論・実践と学問の関係を考える内容を含む。
+quotedDescription:
+  text:
+    ja: 21世紀、グローバルの光と影の交錯の中、未来論と危機感が混在している。情報化は世界の相互理解を深めたが、局地紛争や民族・宗教等による対立や南北格差は拡大しつつある。 その解決には人類の英知を結集した適切な対応が迫られている。国際化から世界化、更に地球化に向けての新たな地平が問われなければならない。トータルとしての文明を人間、社会、世界と歴史の中での検討と、思想・理論・
+      実践と学問の関係の理解、改革を目指す。
+  source: https://ocw.tsukuba.ac.jp/course/international/globaltrends2016/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 三浦 宏一
+  affiliation:
+    name: 一般社団法人世界貿易センター東京 前理事長
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2016-06-24'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- 国際関係学
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

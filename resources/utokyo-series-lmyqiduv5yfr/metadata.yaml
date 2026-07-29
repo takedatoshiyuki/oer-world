@@ -1,0 +1,96 @@
+slug: utokyo-series-lmyqiduv5yfr
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=LMYqIDuV5YFR
+type:
+- LearningResource
+- Course
+name:
+  ja: 文化資源、文化遺産、世界遺産 (学術俯瞰講義)
+description:
+  ja: 文化資源、文化遺産、世界遺産という概念が、社会の中でどのように広がっていったかをたどる講義である。あわせて、これらの概念に導かれて人々がどのような活動を行い、何を目指しているのかを、多分野の視点から考える。
+quotedDescription:
+  text:
+    ja: 'コーディネータ：中村雄祐
+
+      ナビゲータ：松田 陽
+
+      我々が世界で何かに出会って驚くとき、我々はその対象に驚くのと同時に、実は、自分のものの見方が変わったことにも驚いている。こうしてあらわれてくるものを、我々は文化資源と呼ぶことにする。このような文化資源が何らかのきっかけで周知され、そこに相当数の人々が共感や郷愁やエキゾチシズムをおぼえた時、それは文化遺産となる。こうして生まれた文化遺産を、人々はさまざまなかたちで使おうとする。この過程で特殊な条件が揃い、かつ政治的に大きな判断がなされたとき、それは世界遺産となる。
+
+      　以上に示したプロセスを定式化することはできない。だが視点を変えて、文化資源、文化遺産、世界遺産を通して人々がいったい何をしているのかについては、我々は明らかにすることができる。ここから現代社会が過去とどう付き合っているかが少しは見えてくるだろう。
+
+      文化資源、文化遺産、世界遺産は、いずれも我々が現在頻繁に見聞きする言葉であるが、それらが社会で広く使われるようになったのは最近のことである。本講義では、文化資源、文化遺産、世界遺産という考え方がどのようにして社会に受け容れられていったのかを明らかにし、今日、これらの考え方に導かれながら、我々がどのような活動を行い、何を達成しようとしているのかを、多分野横断的に検討する。'
+  source: https://ch.u-tokyo.ac.jp/series/?id=LMYqIDuV5YFR
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 松田 陽
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 木下 直之
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 中村 雄祐
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 大石 岳史
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 藤井 恵介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 堀内 秀樹
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 鶴見 英成
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2017'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+- ict
+keywords:
+- 歴史
+- 言語・思想
+- 文化・芸術・文芸
+- 文化財
+- 文化資源
+- 読み書き
+- 情報技術
+- デジタル化
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 教養学部・総合文化研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

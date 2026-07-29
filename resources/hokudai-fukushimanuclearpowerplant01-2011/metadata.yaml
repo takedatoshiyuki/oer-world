@@ -1,0 +1,94 @@
+slug: hokudai-fukushimanuclearpowerplant01-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/fukushimanuclearpowerplant01-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: 特別プログラム 第1回 福島第一原子力発電所における事故の影響に関する説明会 （2011）
+description:
+  ja: 福島第一原子力発電所の事故に関連して、原子炉や放射線、チェルノブイリ事故との違い、環境中の放射性物質の測定データ、東日本沖の海洋循環を扱う。公開資料には開会挨拶を含む5件の講義資料があり、事故の影響を複数の観点から整理する構成になっている。
+quotedDescription:
+  text:
+    ja: 福島第一原子力発電所における事故の発生以降，英語による情報提供が不足しており，留学生をはじめとする在留外国人にとって不安要素となっているところであり，正しい知識を獲得できるようにし，情報不足による不安を軽減するため，本学等の専門家から現在の状況に関する情報を提供します。
+  source: https://ocw.hokudai.ac.jp/lecture/fukushimanuclearpowerplant01-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 本堂 武夫
+  affiliation:
+    name: 北海道大学副学長
+- type: Person
+  name: 島津 洋一郎
+  affiliation:
+    name: 福井大学附属国際原子力工学研究所
+- type: Person
+  name: 杉山 憲一郎
+  affiliation:
+    name: 北海道大学大学院工学研究科
+- type: Person
+  name: 藤吉 亮子
+  affiliation:
+    name: 北海道大学大学院工学研究科
+- type: Person
+  name: 三寺 史夫
+  affiliation:
+    name: 北海道大学低温科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- script
+about:
+- engineering
+- natural_sciences_math
+- generic
+keywords:
+- 福島第一原子力発電所
+- 東日本大震災
+- 健康
+- 放射線
+- 工学／情報
+- 理学／自然科学
+- 複合分野／学際
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 開会挨拶'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/03/FukushimaNuclearPowerPlant-2011-Slide-00.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/fukushimanuclearpowerplant01-2011
+- name: '講義資料: 原子炉と放射線について'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/03/FukushimaNuclearPowerPlant-2011-Slide-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/fukushimanuclearpowerplant01-2011
+- name: '講義資料: チェルノブイリとの違いについて'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/03/FukushimaNuclearPowerPlant-2011-Slide-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/fukushimanuclearpowerplant01-2011
+- name: '講義資料: 環境放射性物質について：工学部における測定データ'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/03/FukushimaNuclearPowerPlant-2011-Slide-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/fukushimanuclearpowerplant01-2011
+- name: '講義資料: 東日本沖の海洋循環について'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/03/FukushimaNuclearPowerPlant-2011-Slide-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/fukushimanuclearpowerplant01-2011
+extensions:
+  faculty: 低温科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,106 @@
+slug: kyoto-u-course-0522
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/522/
+type:
+- LearningResource
+- Course
+name:
+  ja: 学術情報リテラシー入門, 2013
+description:
+  ja: 大学図書館の機能、分類理論、目録情報、インターネット情報やデータベース、参考資料、研究・学習のための情報源を扱う。論文・レポートや卒業論文の作成に必要な文献・情報収集の技術を、演習を通じて学びながら、図書館情報学と情報探索の概要を学ぶ。
+quotedDescription:
+  text:
+    ja: '[授業の概要・目的]
+
+      論文・レポートを書くための文献・情報収集、卒業論文作成のための文献調査等に必要な情報活 用技術を演習によって習得しながら、図書館情報学、情報探索の概要を学ぶ。'
+  source: https://ocw.kyoto-u.ac.jp/course/522/
+  note: 京都大学OCW 「[授業の概要・目的]」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 引原隆士
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 黒橋禎夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 川崎良孝
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金子周司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北村由美
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-10-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 大学図書館の機能と研究活動　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 大学図書館の機能と研究活動　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 分類の一般概念と分類理論　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 分類の一般概念と分類理論　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_4.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 目録情報とその利用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_5.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 目録情報とその利用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_6.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: インターネット情報およびデータベースとその活用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_8.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 参考資料の種々とその利用　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_9.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 参考資料の種々とその利用　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+- name: '講義資料: 大学での研究・学習と情報源'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2013/10/2013_gakuzyutuzyouhoriterasi_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/522/
+extensions:
+  faculty: 全学共通科目, 図書館機構
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,59 @@
+slug: kyoto-u-course-1098
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1098/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 E.FORUM 矢野智司教授講演会
+description:
+  ja: 人の交流の原理としての贈与・交換・売買を手がかりに、教育の始まりを人類史の中で考える講演会である。『教えること』『伝えること』を行った最初の先生像をたどりながら、教育を別の視点からとらえ直す。あわせて、『教える』『学ぶ』とは何かを根底から考える内容である。
+quotedDescription:
+  text:
+    ja: 贈与と交換と売買という人の交流の形の根本的な原理をもとに、想像力と思考力によって、人類史のなかで「教育」の始まりの瞬間をとらえてみたいと思います。そして、「教えること」「伝えること」という贈与を行った「最初の先生」とは、どのような人物なのかを明らかにします。最後に、この「最初の先生」を手がかりに、これまで見慣れた「教育」の姿を、これまでにない視点からとらえ直してみることになります。「教える」「学ぶ」とはどのようなことなのかを根底から一緒に考えてみましょう。
+  source: https://ocw.kyoto-u.ac.jp/course/1098/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 矢野 智司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-03-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+- education
+- social_sciences
+keywords:
+- 哲学
+- 芸術・文化
+- 文学
+- 歴史
+- 教育学
+- 人文科学
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

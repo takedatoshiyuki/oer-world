@@ -1,0 +1,61 @@
+slug: kyoto-u-course-0154
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/154/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第48回人環国際交流セミナー「三人の日本のランボー：石川啄木・宮沢賢治・中原中也」イブ-マリ・アリュー (Yves-Marie Allioux) 先生
+description:
+  ja: 石川啄木・宮沢賢治・中原中也の3人を、フランスの詩人アルチュール・ランボーと結びつけて考察する講義である。出典文では、3人の詩人をランボーと比較しながら論じる視点を示しつつ、想像力を一つの側面に限定する意図ではないとしている。
+quotedDescription:
+  text:
+    ja: '概要
+
+      石川啄木・宮沢賢治・中原中也、この３人の日本の大詩人は、しばしば、日本でもフランスでもランボーと比較されている。しかしながら、３人も日本にランボーがいて、さすがに少し度が過ぎるのではなかろうか。いずれにしても、私がこの日本の３人の詩人とフランスの詩人アルチュール・ランボーを結びつけて考察しようと思ったのは、決してそれらの想像力を一つの側面に限定しようとする意図からでもなければ、ヨーロッパ中心の解釈を押しつけようとするものでもない。'
+  source: https://ocw.kyoto-u.ac.jp/course/154/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Yves-Marie Allioux（元ストラスブール大学
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: トゥールーズ大学 講師
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学人間・環境学研究科 客員准教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2014-04-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 文学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

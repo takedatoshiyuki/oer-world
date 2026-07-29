@@ -1,0 +1,70 @@
+slug: icu-majors-astronomy-2015
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/astronomy天文学-2015
+type:
+- LearningResource
+- Course
+name:
+  ja: Astronomy 天文学 2015
+description:
+  ja: 最新の観測と理論的予測をもとに、宇宙の基本原理を学ぶ講義である。様々な天体を取り上げながら、宇宙の構造と進化を扱う。公開動画はコースの一部である。
+quotedDescription:
+  text:
+    ja: 'Is
+
+      the universe where we live? This course will introduce students to basic principles of astronomy
+      based on the latest
+
+      observations
+
+      and theoretical predictions.
+
+      私達の住む宇宙はどのような姿をしているのか。最新の観測や理論的研究を交えて様々な天体を紹介しながら、宇宙の構造とその進化について解説する。
+
+      この講義を通じて、私達がなぜ宇宙に存在するのかを考え、宇宙を身近な存在としてとらえることを目指す。
+
+      ※Video is partial recording of Course.
+
+      ※この動画はコースの一部を公開しています。'
+  source: https://ocw.info.icu.ac.jp/majors/astronomy天文学-2015
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 石丸友里
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 専攻科目
+- 'Physics 物理学 | Course ID: PHY25'
+- 'PHY251 | Course Schedule:'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

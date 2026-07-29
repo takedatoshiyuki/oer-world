@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0358
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/358/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第3回安寧の都市ユニットシンポジウム「安心して生きる、安心して死ねる社会」
+description:
+  ja: 京都大学工学研究科で開かれた第3回安寧の都市ユニットシンポジウムで、谷口栄一が担当する。テーマは「安心して生きる、安心して死ねる社会」で、2012-07-21に日本語で行われた。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 谷口栄一（安寧の都市ユニット長
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 京都大学工学研究科教授）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012-07-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

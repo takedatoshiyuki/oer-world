@@ -1,0 +1,83 @@
+slug: icu-ge-gen041-2014a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/gen041_2014a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'N1: Senior Integrating Seminar in Natural Sciences N1: 自然科学総合演習'
+description:
+  ja: 自然科学と数学の各分野の特徴や相互関係、さらに他分野との関係を扱う。少人数での書籍講読、特別講義、討論を通して学ぶ構成で、第4年次向け科目として開講されている。公開教材には「人間世におけるエコロジカルな文明の展望」に関する講義資料が含まれる。
+quotedDescription:
+  text:
+    ja: 'A study of the characteristics and interrelationships of the different branches of the natural
+      sciences and mathematics, and their relation to other disciplines. Small group study of important
+      books on these topics, special lectures and general discussion. Course for senior students who have
+      already taken more than two foundation courses of the natural science majors.
+
+      自然科学や数学の種々の分野の特徴，相互関係，他の学問等との関係について，主要な著書の少人数グループによる講読，特別講義，履修学生全員参加の討論などを通して学ぶ。自然科学系基礎科目を2科目以上履修済みの第4年次向け科目。
+
+      Contents of Lectures
+
+      7
+
+      Lectures  /
+
+      4
+
+      Videos
+
+      Sep 12
+
+      人間世におけるエコロジカルな文明の展望'
+  source: https://ocw.info.icu.ac.jp/ge/gen041_2014a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Person
+  name: 山本 良一
+  affiliation:
+    name: 国際基督教大学
+- type: Person
+  name: 環境経営学
+  affiliation:
+    name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GEN041 | Course Schedule: 4/F, 5/F, 6/F | Update: 2016.02.01'
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: 講義資料 (Google Drive)
+  contentUrl: https://drive.google.com/file/d/1MkK4CtPPV8BU30gojFGOV5M2qJdPeIMJ/view?usp=sharing
+  page: https://ocw.info.icu.ac.jp/ge/gen041_2014a
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

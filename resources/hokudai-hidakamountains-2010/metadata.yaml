@@ -1,0 +1,54 @@
+slug: hokudai-hidakamountains-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/hidakamountains-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 土曜市民セミナー 北海道の背骨の生い立ちを探る(2010)
+description:
+  ja: 日高山脈を例に、地殻変動と山脈形成の過程を取り上げる講義である。あわせて、山脈が形成された後に生じる影響についても扱う。
+quotedDescription:
+  text:
+    ja: 「動かざること山の如し」という言葉がありますが、一方では「桑田変じて滄海となる」という言葉もあります。地球の年齢（46億年）の時間スケールで見ますと、地球表層部（深部も）は常に千変万化しており、山が海になるどころか大陸が移動し、互いに衝突もします。北海道の背骨といわれる日高山脈では、地球の内部や地表で起こるいろいろな出来事（地殻変動）がよく観察できます。また、隆起した山脈は「出る杭は打たれる」の喩えのように、風雨により侵食されます。講演では、日高山脈を例に山脈の生い立ちの一例を紹介するともに、山脈ができたことによる影響についてもお話しします。
+  source: https://ocw.hokudai.ac.jp/lecture/hidakamountains-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 在田 一則
+  affiliation:
+    name: 総合博物館
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

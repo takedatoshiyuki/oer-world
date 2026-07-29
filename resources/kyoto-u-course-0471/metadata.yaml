@@ -1,0 +1,78 @@
+slug: kyoto-u-course-0471
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/471/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第5回 iCeMSラーニングラウンジ：中辻 博貴 + 大本 育実
+description:
+  ja: 若手研究者2名が英語で自身の研究を紹介するラーニングラウンジである。中辻博貴は、光に反応するナノ材料を使ってTRPV1を光で制御する研究を扱う。大本育実は、脳内のRNA活動を可視化して学習や記憶に関わる変化を観察する技術を紹介する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      中辻 博貴 さん
+
+      「体の中で働く小さな医者：光で操るナノロボット」
+
+      医療の発展とともに薬も大きく進化してきました。薬草から始まり、化学で合成された薬、そして最近では遺伝子を使った新しい薬も開発されています。でもまだまだ進化していないこともあります。例えば、薬を飲んだ後は私たちにできることはなく、薬に任せて休むだけです。でも、もし飲んだ後に遠隔で操作できる薬が作れればもっと効果的に働いて、今までの薬に出来なかったことができるかもしれません。今回は、光を使った新しい薬を目指す研究について紹介します。
+
+      私たちのグループでは、太陽電池などに使われるような、光に反応して機能するナノ材料を生物に応用する研究を行っています。私たちの神経細胞には「TRPV1」という、熱・酸・唐辛子に含まれるカプサイシンなどの刺激に反応して痛みや熱さを感知する、「痛み受信機」があります。今回紹介するのは、光を吸収して熱を発する材料を利用し、熱に反応するTRPV1を光で制御する研究です。今回のトークはまだ、人工的に培養した細胞での実験結果に基づくものですが、将来的には、生体において痛みのコントロールなどへの応用が可能になるかもしれません。
+
+       
+
+      大本 育実 さん
+
+      「百聞は一見に如かず－脳の中のできごと」
+
+      何かをひらめいたとき、学んだとき、脳の中ではいったいどのようなことが起きているのでしょうか？わからないときは見て確かめるのが一番。本来見えない細胞内の変化を可視化する技術を開発して、学習時に起きている脳の中のできごとに迫ります。
+
+      王丹グループでは、個体の脳内でRNAの活動を可視化して生きたまま観察するシステムを開発し、それを用いて学習や記憶のメカニズムを理解しようとしています。今回私が紹介するイメージング（可視化）技術は、目立たせたいシグナルを明るくするのではなく、周りのノイズを減らすことで目的のシグナルをより見やすくするという、逆転の発想から生まれたものです。まだまだクリアするべき課題は多いですが、今日は何が見えるだろう、とワクワクしながら記憶の謎解きに取り組んでいます。'
+  source: https://ocw.kyoto-u.ac.jp/course/471/
+  note: 京都大学OCW 「概要」・「中辻 博貴 さん」・「大本 育実 さん」・「「百聞は一見に如かず－脳の中のできごと」」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 中辻 博貴 さん）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 大本 育実 さん）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2016-02-25'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

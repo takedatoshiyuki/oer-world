@@ -1,0 +1,41 @@
+slug: kyoto-u-course-0291
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/291/
+type:
+- LearningResource
+- Course
+name:
+  ja: 平成21年度 卒業式・大学院学位授与式 総長式辞
+description:
+  ja: 京都大学が提供し、京都大学が担当する平成21年度の卒業式・大学院学位授与式における総長式辞を扱う。開講日は2010-03-23で、使用言語は日本語である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010-03-23'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

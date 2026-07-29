@@ -1,0 +1,72 @@
+slug: kyoto-u-course-0752
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/752/
+type:
+- LearningResource
+- Course
+name:
+  ja: Globalization of supercuspidal representations over function fields and applications
+description:
+  ja: グローバル関数体上の連結既約群に対し、指定した超尖点的局所成分をもつ尖点的自動表現をどのように構成するかを扱う。Poincaré series を使ったグローバル化の結果を土台に、分岐条件の制御や
+    Langlands-Shahidi theory への応用を結びつける。さらに、function fields における global Langlands correspondence や classical
+    groups の local Langlands correspondence との関係にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      I will describe how one can use Poincare series to construct cuspidal automorphic representations
+      of connected reductive group over a global function field with a given supercuspidal local component
+      and prescribed behavior (such as ramification) at all other places. This globalization result can
+      be used to complete the Langlands-Shahidi theory over function fields (a recent result of Luis Lomeli).
+      Combining this with the recent construction by Vincent Lafforgue of the global Langlands correspondence
+      over function fields, one can prove stability of arbitrary Langland-Shahidi gamma factors and obtain
+      the local Langlands correspondence for classical groups. I will discuss some of these applications
+      and if time permits (for me to understand it), I will give a sketch of the Lafforgue’s construction.
+
+      Principal topics: Stokes equations; reversibility and the “scallop theorem”; fundamental singularities
+      of Stokes flows (stokeslets, stresslets, rotlets); the Lorentz reciprocal theorem; Goursat representation
+      of biharmonic fields in terms of analytic functions; conformal mapping; free boundary problems;
+      mixed boundary value problems; transform techniques; boundary integral methods.'
+  source: https://ocw.kyoto-u.ac.jp/course/752/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-12-08'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 後期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

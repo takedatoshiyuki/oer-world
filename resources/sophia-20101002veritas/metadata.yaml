@@ -1,0 +1,57 @@
+slug: sophia-20101002veritas
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20101002veritas/
+type:
+- LearningResource
+- Course
+name:
+  ja: より身近に感じられる科学 「物を切ってゆくと」
+description:
+  ja: 物を細かく切り分けていくと何が残るのかという問いを手がかりに、物質の分け方とその限界を考える講義資料である。説明では、その考えが原子や元素という見方につながることを扱っている。
+quotedDescription:
+  text:
+    ja: "より身近に感じられる科学 「物を切ってゆくと」\n 物を細かく切ってゆくと最後まで切れるか、最小単位があってそれ以上切れなくなるか、ということに人間は困惑するようになった。或る物質がとんでもない物をいくつか合わせるときに出来ることから、そのいくつかの物が出来た物の中に収まっていることから、分けてゆくときに最後にはその中に残っている筈で、これ等を分けることが出来、その後には異なった物が残される筈であることに気がついた。その物が今日の原子であり、その種類毎に元素という表示を貰うことになる。\n\
+      当日のプログラムの詳細は こちら をご覧ください。"
+  source: https://ocw.cc.sophia.ac.jp/lecture/20101002veritas/
+  note: 上智大学OpenCourseWare 「テーマ」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 西澤 潤一
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- 高校生向け
+audience:
+- student
+educationalLevel:
+- upper_secondary
+materials:
+- name: '講義資料: 20101002veritas.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/20101002veritas.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20101002veritas/
+extensions:
+  faculty: 上智高校生講座Veritas
+  term: 2010年度
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

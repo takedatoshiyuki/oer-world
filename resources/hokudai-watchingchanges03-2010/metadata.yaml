@@ -1,0 +1,54 @@
+slug: hokudai-watchingchanges03-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/watchingchanges03-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学公開講座 「変化」を見つめる－私たちや地域の未来のために－ 第3回環境変化と越境的取り組み(2010)
+description:
+  ja: オホーツク海と親潮域の高い海洋生産性を支える要因として、アムール川由来の鉄に注目し、その供給源と減少要因を扱う。さらに、上流域の農地開発と日本の漁業資源との関係を踏まえ、国境を越えた協同の取り組みを紹介する。
+quotedDescription:
+  text:
+    ja: オホーツク海と親潮域は、世界的にも突出して生産性の高い海洋です。近年、この理由としてアムール川がこれらの海洋にもたらす豊かな鉄の存在が明らかとなりました。鉄はアムール川流域の湿原を主たる起源としますが、急速に進む土地利用変化がこの鉄を減少させています。鉄の減少に関わる上流域の農地開発と漁業資源を享受する日本がいかに協同してこの問題に取り組むのか、国境を越えた取り組みを紹介します。
+  source: https://ocw.hokudai.ac.jp/lecture/watchingchanges03-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 白岩 孝行
+  affiliation:
+    name: 北海道大学低温科学研究所
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- natural_sciences_math
+keywords:
+- 理学／自然科学
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 低温科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

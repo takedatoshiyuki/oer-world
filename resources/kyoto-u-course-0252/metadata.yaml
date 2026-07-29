@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0252
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/252/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第11回 MACSコロキウム「弦の場の理論とその数理」
+description:
+  ja: 弦理論の記述法の一つである弦の場の理論を取り上げ、弦場を力学変数とする定式化として扱う。あわせて、弦理論と弦の場の理論の入門的な内容に触れつつ、その数理と課題を紹介する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ひも」がこの世の最も基本的な構成要素であるとする弦理論の一つの記述法として「弦の場の理論」がある。これはひもの形と位置をあらわす弦座標の汎関数である弦場を力学変数とする定式化であり、弦理論的なゲージ対称性を持った
+      ゲージ理論である。ここでは、弦理論、そして、弦の場の理論についての素人向けの（しかし、それなりに数学的な）お話をする。特に、物理屋的な”適当な数学”に基づいた弦の場の理論の数理とその課題を紹介したい。'
+  source: https://ocw.kyoto-u.ac.jp/course/252/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 畑 浩之
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2020-02-19'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

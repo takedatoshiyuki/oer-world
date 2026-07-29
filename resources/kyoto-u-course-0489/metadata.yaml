@@ -1,0 +1,96 @@
+slug: kyoto-u-course-0489
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/489/
+type:
+- LearningResource
+- Course
+name:
+  ja: 大学図書館の活用と情報探索, 2019
+description:
+  ja: 大学図書館の役割や魅力、資料調査の進め方、情報の組織化と検索の考え方を扱う。あわせて、インターネット検索の注意点とデータベースの活用、総合演習までの講義資料を公開している。
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.kyoto-u.ac.jp/guideline/
+  summary:
+    ja: 非営利かつ教育的な目的に限り、適切なクレジット表記をおこなうことで共有・転載・改変などの二次利用可 (公開講座等の一部コンテンツは個別の CC ライセンス表記が優先)。
+  reuse: allowed_with_conditions
+creator:
+- type: Person
+  name: 松井啓之
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 須田千里
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 黒橋禎夫
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 金子周司
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 北村由美
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- generic
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 大学図書館の魅力と研究活動　資料1'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2019/04/2019_library_1_1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: 大学図書館の魅力と研究活動　資料2'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2019/04/2019_library_1_2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: 資料調査の入り口　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/924238562af06c45f0ab9558b288dbf2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: 資料調査の入り口　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c09dd0f21bdb506216d53c3496d3a5c7.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: 情報の組織化と検索：理論と実際　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/3d5512f6cda59f9c9367d981120d2e1d.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: 情報の組織化と検索：理論と実際　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/c206affe6ff1e9ad41cffef362c14161.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: インターネット検索の落とし穴と データベースの活用法　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/a30213f27d9dd883885555d7936cf9e3.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: インターネット検索の落とし穴と データベースの活用法　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/beb5c6250a1fd56bd20c31f16fe82c71.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: 総合演習　資料１'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2f2e39be652537cfbbfd9ed3eadfb984.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+- name: '講義資料: 総合演習　資料２'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/796acb2692f7319e440c8c030f4a0036.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/489/
+extensions:
+  faculty: 全学共通科目, 図書館機構
+  term: 前期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

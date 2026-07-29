@@ -1,0 +1,44 @@
+slug: kyoto-u-course-0409
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/409/
+type:
+- LearningResource
+- Course
+name:
+  ja: 花園中学鑑賞教室　土佐 尚子 教授 講演会
+description:
+  ja: 京都大学の学術情報メディアセンターが担当する、日本語の講演会である。講義名から、花園中学鑑賞教室に関連する土佐尚子教授の講演を扱うことが分かる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-03-21'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 芸術・文化
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 学術情報メディアセンター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

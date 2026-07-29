@@ -1,0 +1,104 @@
+slug: hokudai-scienceforum-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/scienceforum-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 第10回創成シンポジウム 北大から世界へ がん研究最前線 （2012）
+description:
+  ja: がん治療の最前線として、陽子線治療装置の開発と進行中の研究を取り上げる。あわせて、病理学や新たながん治療法の研究、がん研究者への対談を通して、がん研究の複数の話題を扱う。
+quotedDescription:
+  text:
+    ja: '【FIRST ～がん治療の最前線～】
+
+      世界をリードする陽子線治療装置の開発に挑む白土教授が、現在建設中の装置の全容を紹介し、進行中の研究内容について語ります。
+
+      基調講演
+
+      ・「医学と理工学の融合で患者を救う～陽子線治療装置の開発～」
+
+      白土 博樹（北海道大学大学院医学研究科）
+
+      ※この研究は内閣府・最先端研究開発支援プログラム（FIRST）の支援を受けています。
+
+      【NEXT ～未来のがん治療～　のりさんと科学を語ろう！「がん研究者の素顔に迫る」】
+
+      新たな治療法実現に向けた最先端研究をいくつか紹介いたします。
+
+      藤田 恭之（北海道大学遺伝子病制御研究所）、田中 伸哉（北海道大学大学院医学研究科）、佐藤 のりゆき（北海道大学創成研究機構）
+
+      ・「がん」に挑む病理学」
+
+      ・「正常細胞ががん細胞を駆逐する ―新規がん治療法の確立を目指して― 」
+
+      ・「がん研究者の素顔に迫る」
+
+      関連情報
+
+      ・のりさんと科学を語ろう!!　第1回「宇宙」
+
+      ・のりさんと科学を語ろう!!　第2回「北海道の農業ビジネス最前線!」'
+  source: https://ocw.hokudai.ac.jp/lecture/scienceforum-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上田 一郎
+  affiliation:
+    name: 北海道大学
+- type: Person
+  name: 白土 博樹
+  affiliation:
+    name: 北海道大学大学院医学研究科
+- type: Person
+  name: 藤田 恭之
+  affiliation:
+    name: 北海道大学遺伝子病制御研究所
+- type: Person
+  name: 田中 伸哉
+  affiliation:
+    name: 北海道大学大学院医学研究科
+- type: Person
+  name: 佐藤 のりゆき
+  affiliation:
+    name: 北海道大学創成研究機構
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- health_welfare
+- engineering
+- generic
+keywords:
+- 創成シンポジウム
+- がん治療
+- がん研究者の素顔
+- 医学／保健学
+- 工学／情報
+- 複合分野／学際
+audience:
+- student
+extensions:
+  faculty: 医学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

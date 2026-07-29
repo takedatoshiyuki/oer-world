@@ -1,0 +1,105 @@
+slug: kyoto-u-course-0065
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/65/
+type:
+- LearningResource
+- Course
+name:
+  ja: 西洋経済史B
+description:
+  ja: 19世紀から20世紀にかけてのアメリカ経済史を、綿工業から鉄道・鉄鋼・石油、さらに自動車などの新産業へと続く基幹産業の展開に沿って検討する講義である。自由競争段階から独占段階への移行や、第二次産業革命の過程を通じて、アメリカ資本主義の構造変化を考察する。
+quotedDescription:
+  text:
+    ja: '授業の特色
+
+      本講義では、20世紀アメリカ資本主義の特質を明らかにするために、19世紀から20世紀にかけての資本主義内部の構造変化について、19世紀後半から20世紀前半にかけてのアメリカ経済史の基本トピックを考察しつつ「自由競争段階から独占段階への移行」、われわれが直面する現代資本主義がどのように形成されたのかについて考察する。
+
+      授業の紹介
+
+      本講義は、リーディング・インダストリ（基幹産業）の展開に沿って、19世紀から20世紀にかけてのアメリカ経済史を検討します。西ヨーロッパの産業革命においては、綿工業を中心とする繊維産業がリーディング・インダストリとして、各国の経済成長の試金石になりました。本講義では、まず後発資本主義国として出発したアメリカが、綿工業において西ヨーロッパに追いつき、19世紀後半から20世紀初頭において鉄道・鉄鋼・石油の生産を通じて西ヨーロッパを凌駕していったプロセスと要因を探ります。次に、20世紀前半の自動車・化学・電機・航空機を中心とする「第二次産業革命」において、アメリカ産業がヨーロッパとの産業競争のなかでどのように競争優位を獲得していったか、各産業分野の検討を通じて考察します。リーディング・インダストリ、ビッグビジネス、金融資本、第二次産業革命などの諸カテゴリーの検討を行い、欧日の朝鮮を受けつつ、次々と新たな成長産業分野を切り開いていくアメリカ資本主義のダイナミズムに接近します。'
+  source: https://ocw.kyoto-u.ac.jp/course/65/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 坂出 健
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- arts_humanities
+- social_sciences
+keywords:
+- 歴史
+- 経済学・金融
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: #1 20世紀アメリカ資本主義を考える視点 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_01.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #2 綿花・綿業と南北戦争 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_02.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #3 ハミルトン体制 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_03.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #4 鉄鋼産業における独占の形成 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_04.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #5 金融部門における独占の形成 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_05.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #6 石油トラストの成立と解体 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_06-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #6 石油トラストの成立と解体 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_06-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #7 石油トラストの成立と解体 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_07.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #8 石油トラストの成立と解体 スライド'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_08-1.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #8 石油トラストの成立と解体 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_08-2.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #9 石油トラストの成立と解体 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_09.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #10 自動車産業－フォード・デュラント・スローン－ビッグスリーとウォール街 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_10.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #11 金融資本分析とアメリカ経済史 テキスト'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_11.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #12 講義のまとめ（１）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_12.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+- name: '講義資料: #13 講義のまとめ（２）'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/03/2010_seiyoukeizaishi-b_13.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/65/
+extensions:
+  faculty: 経済学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

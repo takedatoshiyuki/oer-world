@@ -1,0 +1,98 @@
+slug: hokudai-science-and-models
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/science-and-models
+type:
+- LearningResource
+- Course
+name:
+  ja: '科学とモデル：科学的表象を理解する／Science and Models: Understanding Scientific Representation【 日英字幕あり／English and
+    Japanese subtitles available 】'
+description:
+  ja: この講義は、科学で使われるモデルを取り上げ、とくに対象システムを表す表象モデルに焦点を当てる。表象とは何かを考えるためにDEKI説を導入し、その基本要素と、科学モデルに適用する際に必要になる追加の要素を説明する。最後に、DEKI説に関する7つの未解決の問いを取り上げる。
+quotedDescription:
+  text:
+    ja: 'モデルは重要だ。科学者はモデルを組み立て、検証し、修正することに多くの時間を費やす。そして、多くの論文の重要な部分はそれらの特徴を調べることに関わる。我々の議論は3つの種類のモデル（表象モデル、理論のモデル、データモデル）を区別することからはじまる。本講義の焦点は表象モデルである。これらのモデルは世界のある選択された部分や側面、つまりターゲットシステムを表す。このことは「モデルがターゲットシステムを表象するとは何を意味するのか」という問いを引き起こす。この問いに答えるために、我々は表象のDEKI説を導入する。グッドマンとエルギンによる「as表象」という概念にDEKIの起源を求めることからはじめ、その中心要素（指示、例示、Z表象とZの表象との違い）を詳しく説明する。そして、科学モデルに目を転じ、モデルが表象する仕方を説明するために必要なさらなる要素（解釈、解釈のもとでの例示、キーを通じた転嫁）を導入する。これは表象のDEKI説へ導くが、それは中心要素（指示、例示、キー・アップ、転嫁）にちなんで名付けられている。そして、将来の研究の焦点になりうるDEKI説の7つのオープンクエスチョンを議論する。
+
+      Models matter．Scientists spend substantial amounts of time building，testing and revising models，and
+      significant parts of many journal articles are concerned with exploring their features．We begin
+      our discussion by distinguishing between three different kinds of models: representational models，models
+      of theory，and data models．The focus of this lecture are representational models．These models stand
+      for a selected part or aspect of the world，their target system．This raises the question what it
+      means for a model to represent a target system．We introduce the DEKI account of representation to
+      answer this question．We begin by tracing the origins of the DEKI account in the notion of “representation
+      as” due to Goodman and Elgin，and we spell out its core elements: denotation，exemplification，and
+      the difference between a Z-representation and representation of a Z．We then turn to scientific models
+      and introduce the additional elements that are needed to explain how models represent: interpretation，exemplification
+      under an interpretation，and imputation via a key．This leads to the DEKI account of representation，which
+      is named after its core elements: denotation，exemplification，keying-up，and imputation．We then discuss
+      seven open questions for DEKI that can be the focus of future research.
+
+      ‘Understanding Scientific Representation’，keynote lecture of the conference ‘Science and Model’，Hokkaido
+      University，February 2023．
+
+      ---
+
+      科学哲学シンポジウム「科学とモデル」
+
+      キーノートレクチャー
+
+      開催：2023年2月22日（水）
+
+      場所：北海道大学
+
+      主催：科研費研究(基盤研究 B)「統計学的観点を加味した科学哲学による「科学的推論」教育プログラムの構築」(課題番号:20H01736)
+
+      ‘Understanding Scientific Representation’，
+
+      keynote lecture of the conference ‘Science and Models’，
+
+      Hokkaido University，February 2023．'
+  source: https://ocw.hokudai.ac.jp/lecture/science-and-models
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: unspecified
+creator:
+- type: Person
+  name: ローマン・フリッグ
+  affiliation:
+    name: ロンドン・スクール・オブ・エコノミクス
+- type: Person
+  name: Roman Frigg
+  affiliation:
+    name: London School of Economics and Political Science
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2023'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 表象
+- 指示
+- 例示
+- モデル
+- 解釈
+- 'DEKI
+
+
+  Representation'
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

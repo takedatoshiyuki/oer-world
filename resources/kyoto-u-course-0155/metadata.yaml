@@ -1,0 +1,66 @@
+slug: kyoto-u-course-0155
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/155/
+type:
+- LearningResource
+- Course
+name:
+  ja: 言語学講演会
+description:
+  ja: 人間言語がどのように生じたかを、進化の問題として考える講演である。哺乳類・鳥類・人間のコミュニケーションとの関係から Integration Hypothesis を取り上げ、統語移動、語形成、音韻重複のデータを使ってその根拠を示す。あわせて、動物のコミュニケーションと人間言語を分ける
+    Merge 操作の問題にも触れる。
+quotedDescription:
+  text:
+    ja: '（講演は日本語で行われます）
+
+      講演要旨：
+
+      How human language arose is one of the great mysteries in the evolution of Homo sapiens. While it
+      is extremely challenging to directly confirm hypotheses of the actual process that led to the emergence
+      of language, it is possible to formulate a theory that is broadly compatible with what we find in
+      contemporary systems of communication among mammals, birds, and humans. Miyagawa, Berwick, & Okanoya
+      (Frontiers of Psychology 2013) put forward such a hypothesis, which I will call the Integration
+      Hypothesis of human language evolution.
+
+      In this talk, I will provide empirical evidence for the Integration Hypothesis by drawing data from
+      syntactic movement, word formation, and phonological reduplication. I will also show how the Integration
+      Hypothesis overcomes a well-known gap between systems of animal communication and human language
+      having to do with the Merge operation found in language.'
+  source: https://ocw.kyoto-u.ac.jp/course/155/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 藤田 耕司
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-12-18'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 語学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人間・環境学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

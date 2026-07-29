@@ -1,0 +1,78 @@
+slug: utokyo-series-mhdpalrevbte
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=mHdPAlreVBTe
+type:
+- LearningResource
+- Course
+name:
+  ja: 東京大学公開講座「心」
+description:
+  ja: 心の病とからだの病を分けて考える見方を問い直し、精神疾患と身体疾患の関係を扱う。あわせて、心身の健康に暮らしや環境がどう関わるかを取り上げ、心・からだ・暮らしの結びつきを主題とする。
+quotedDescription:
+  text:
+    ja: 精神疾患は心の病、身体疾患はからだの病、という分類は現実を正しく捉えているでしょうか。実際には、精神疾患がからだの変調を起こし、身体疾患が心の病を招きます。精神的健康は寿命にも影響するようです。また、心身の健康に環境（暮らし）が大きく影響することは論を待ちません。心とからだと暮らしが不即不離の関係にあることは当たり前のようでいて、医療界では独立したものとして捉えられがちです。この講義では、3者の織…
+  source: https://ch.u-tokyo.ac.jp/series/?id=mHdPAlreVBTe
+  note: UTokyo Channel (旧 UTokyo OCW) 「コンテンツ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 近藤 伸介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 樋口 亮介
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 武内 ゆかり
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 長谷川 寿一
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 國吉 康夫
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 酒井 邦嘉
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 針生 悦子
+  affiliation:
+    name: 東京大学
+- type: Person
+  name: 下山 晴彦
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2015'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

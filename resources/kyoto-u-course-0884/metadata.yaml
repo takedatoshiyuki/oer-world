@@ -1,0 +1,68 @@
+slug: kyoto-u-course-0884
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/884/
+type:
+- LearningResource
+- Course
+name:
+  ja: グローバル時代における「日本型」教育文化のあらたな可能性
+description:
+  ja: 京都大学教育学研究科の「グローバル教育展開オフィス」開設を記念して開かれたシンポジウムで、「グローバル時代における『日本型』教育文化のあらたな可能性」をテーマにする。基調講演とパネルディスカッションを通して、『「日本型」教育文化・知の継承』プロジェクトに関わる論点を扱う。
+quotedDescription:
+  text:
+    ja: '「グローバル教育展開オフィス」開設記念シンポジウム
+
+       
+
+      概要
+
+      12月1日（土）に、本研究科「グローバル教育展開オフィス」の開設を記念して、『グローバル時代における「日本型」教育文化のあらたな可能性』をテーマにシンポジウムを開催しました。
+
+      当日は、稲垣恭子研究科長の開会挨拶に続き、ジェルミー・ラプリー准教授がシンポジウムの概要説明を行いました。その後、オックスフォード大学ロジャー・グッドマン教授、ジョージア大学（アメリカ）ジョセフ・トービン教授、ニューイングランド大学（オーストラリア）高山敬太准教授による基調講演が行われました。続いて行われたパネルディスカッションでは、ラプリー准教授をディスカッサントに、基調講演者がパネリストとして登壇し、参加者からの質問をもとに議論を深めました。最後に、鈴木晶子教授によるシンポジウムの総括および挨拶とともに、閉幕しました。
+
+      本シンポジウムは、今年度からグローバル教育展開オフィスが中心となり推し進めている『「日本型」教育文化・知の継承』プロジェクトの骨子を明らかにし、日本の教育に関する研究の進め方を考える機会となりました。参加者からは、「なんとなくの感覚で理解していたことに説明がついた。」、「さまざまな面からの日本の教育についての分析が興味深かった。」「京都大学のグローバル教育展開オフィスについて初めて知りましたが、とても面白い取り組みだと思います。陰ながら応援させていただきます。」など、感想や期待が寄せられました。'
+  source: https://ocw.kyoto-u.ac.jp/course/884/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Roger Goodman 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Joseph Tobin 教授
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 高山 敬太 准教授
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-12-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,47 @@
+slug: kyoto-u-course-1068
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1068/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第14回MACSコロキウム「数値シミュレーションで地震現象の謎に迫る」
+description:
+  ja: 京都大学理学研究科で開講された第14回MACSコロキウムで、金子善宏が担当する。数値シミュレーションを用いて地震現象を扱う内容で、講義名から地震現象の解明をテーマにしていることが読み取れる。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 金子 善宏
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-17'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 理学研究科
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

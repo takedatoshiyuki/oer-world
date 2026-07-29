@@ -1,0 +1,57 @@
+slug: hokudai-essential-for-future-engineers-generative-ai-workshop
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/essential-for-future-engineers-generative-ai-workshop
+type:
+- LearningResource
+- Course
+name:
+  ja: 原子力人材育成事業（*） 機関連携強化による未来社会に向けた新たな原子力教育拠点の構築「未来の技術者必修！生成AI活用とプログラム開発の基礎を1.5日で完全習得 生成AI利活用ワークショップ（開催場所：九州大学）」
+description:
+  ja: 生成AIの基礎的な使い方から、プロンプト・エンジニアリング、AI駆動開発の導入と環境構築までを扱う教材である。さらに、AI駆動アプリ開発と振り返りまで含み、生成AIの利活用とプログラム開発の流れを1つのワークショップとして構成している。
+quotedDescription:
+  text:
+    ja: "未来の技術者必修！生成AI活用とプログラム開発の基礎を1.5日で完全習得\n生成AI利活用ワークショップ（開催場所：九州大学）\n \n■講義内容\n \n「未来の技術者必修！ 生成AI活用とプログラム開発の基礎を1.5日で完全習得\
+      \ 生成AI利活用ワークショップ（開催場所：九州大学）」の教材は全て制限資料のライセンスで公開しています。\n \nイントロダクション\n \n1. 生成AIの衝撃\n \n2. プロンプト・エンジニアリング\n\
+      \ \n3. AI駆動開発イントロ＆環境構築\n \n4. 前回の振り返り\n \n5. AI駆動アプリ開発\n \n6. まとめ・ふりかえり"
+  source: https://ocw.hokudai.ac.jp/lecture/essential-for-future-engineers-generative-ai-workshop
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 巽 雅洋
+  affiliation:
+    name: 株式会社 原子力エンジニアリング 解析サービス本部 解析技術グループ
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2024'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+about:
+- generic
+keywords:
+- 国際原子力人材育成イニシアティブ事業
+- 原子力バックエンド教育
+- オープン教材
+- 生成AI
+- 機械学習
+- アプリ開発
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

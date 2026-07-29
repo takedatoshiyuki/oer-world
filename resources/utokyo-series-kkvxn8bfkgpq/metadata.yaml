@@ -1,0 +1,53 @@
+slug: utokyo-series-kkvxn8bfkgpq
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=kKVxn8BfKgPq
+type:
+- LearningResource
+- Course
+name:
+  ja: 令和7年度教職員安全衛生講習会
+description:
+  ja: 東京大学が教職員向けに実施する安全衛生教育を扱う講習会である。研究室や事務室などでの事故等を未然に防ぐことを目的に、労働安全衛生法第59条第1項に基づく内容を扱う。英語で行われ、学内向けの研修・ガイダンスとして提供される。
+quotedDescription:
+  text:
+    ja: 本学では、労働安全衛生法第５９条第１項により、教職員を対象に研究室・事務室等における事故等の発生を未然に防止するための安全衛生教育を実施しています。
+  source: https://ch.u-tokyo.ac.jp/series/?id=kKVxn8BfKgPq
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- en
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 黒田 玲子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2025'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- generic
+keywords:
+- 東大TV
+audience:
+- general_public
+extensions:
+  faculty: その他（他大学の講義など）
+  targetAudience: 英語話者向け・学内限定・学内向け研修・ガイダンス
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

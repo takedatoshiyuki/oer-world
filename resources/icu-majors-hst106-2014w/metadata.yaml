@@ -1,0 +1,147 @@
+slug: icu-majors-hst106-2014w
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/majors/hst106_2014w
+type:
+- LearningResource
+- Course
+name:
+  ja: History of Japan (Modern) III 日本史（近代）III
+description:
+  ja: 明治維新を起点に、近代日本の形成をたどる講義である。維新前後の社会変化から、政治変革、憲法政治、対外戦争、植民地帝国、経済・社会の変化、戦時体制と占領までを扱う。各回の講義に加えて、定期的な
+    review session / midterm が設けられている。
+quotedDescription:
+  text:
+    ja: 'I: Examination of the main factors in the development of ancient and medieval Japan. II: Examination
+      of the main factors in the development of early modern Japan. III: Examination of the main factors
+      in the development of modern Japan since the Meiji Restoration.
+
+      I:古代・中世形成過程とその主たる諸要因を考察する。 II:近世形成過程とその主たる諸要因を考察する。 III:明治維新以後の近代日本形成とその主たる諸要因を考察する。
+
+      Contents of Lectures
+
+      18
+
+      Lectures /1 Video
+
+      Introduction: The early modern context of Japan’s modern history
+
+      Dec 05
+
+      #1 Course introduction East Asia, Europe and the Tokugawa regime in Japan
+
+      Japan before the Meiji Restoration
+
+      Dec 10
+
+      #2 Changes in early 19th-century Japanese society
+
+      Dec 12
+
+      #3 Japan encounters the “barbarians”
+
+      Dec 17
+
+      #4 The beginning of the unequal treaties in Japan
+
+      Dec 19
+
+      #5 Review session 1/midterm 1
+
+      Japan’s modern transformation
+
+      Jan 07
+
+      #6 Political revolution
+
+      Jan 09
+
+      #7 The transformations of the Meiji period
+
+      Jan 14
+
+      #8 Political opposition and constitutional politics
+
+      Jan 16
+
+      #9 Review session 2/midterm 2
+
+      Japan’s imperial empire
+
+      Jan 21
+
+      #10 War with China and Russia
+
+      Jan 23
+
+      #11 The Japanese colonial empire
+
+      Jan 28
+
+      #12 Economic development and social change
+
+      Jan 30
+
+      #13 Democracy, protest and social control
+
+      Feb 04
+
+      #14 Review session 3/midterm 3
+
+      War and peace
+
+      Feb 11
+
+      #15 Problems of modernity and political instability
+
+      Feb 13
+
+      #16 War with China and the West
+
+      Feb 18
+
+      #17 The end of the war and the Occupation
+
+      Feb 20
+
+      #18 Review session 4/midterm 4'
+  source: https://ocw.info.icu.ac.jp/majors/hst106_2014w
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2014'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- arts_humanities
+keywords:
+- 専攻科目
+- 'History 歴史学 | Course ID: HST10'
+- 'HST106 | Course Schedule: | Update: 2017.01.19 Category: Major Courses'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

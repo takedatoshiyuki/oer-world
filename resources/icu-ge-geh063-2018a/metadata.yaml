@@ -1,0 +1,160 @@
+slug: icu-ge-geh063-2018a
+mode: referenced
+externalUrl: https://ocw.info.icu.ac.jp/ge/geh063_2018a
+type:
+- LearningResource
+- Course
+name:
+  ja: 'H1: Introduction to Film Studies Ｈ１：映画研究への招き'
+description:
+  ja: 19世紀から21世紀にかけての映画研究を、歴史的・テーマ的な観点から扱う講義である。映画理論の複数のトピックに加え、具体的な作品を題材にしたケーススタディやグループ討議を通して、映画と他のメディアとの関係も取り上げる。
+quotedDescription:
+  text:
+    ja: 'This course aims to introduce students to Film Studies in a historical and a thematic perspective
+      (from the 19th to the 21st C.). It also intends to explore the relationship between Film and other
+      media (be it painting, photography and/or social media).
+
+      19世紀から21世紀にかけての歴史的・テーマ的な観点から、映画研究を学生に紹介することを目的とする。 また、映画と他のメディア（絵画、写真、ソーシャルメディアなど）との関係を探求する。
+
+      Contents of Lectures
+
+      19
+
+      Lectures /
+
+      2
+
+      Videos
+
+      Sep 06
+
+      Students self-introduction + Introduction to the class topic.
+
+      Sep 11
+
+      Chap. 1 “Auteur Theory” + Chap. 2 “Adaptation” from RUTH DAUGHTY AND CHRISTINE ETHERINGTON-WRIGHT,
+      UNDERSTANDING FILM THEORY, LONDON, PALGRAVE, 2018.
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Sep 13
+
+      Chap. 3 “Genre Theory” from UNDERSTANDING FILM THEORY.
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Sep 18
+
+      Case Study: Rear Window (Alfred Hitchcock, 1954).
+
+      Sep 20
+
+      Group discussion on the Case Study.
+
+      Sep 25
+
+      Quiz 1 + Chap. 4 “Formalism” + Chap. 5 “Structuralism and Post-Structuralism” from UNDERSTANDING
+      FILM THEORY.
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Sep 27
+
+      Chap. 6 “Marxism” from UNDERSTANDING FILM THEORY.
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Oct 02
+
+      Case Study: The 400 Blows (François Truffaut, 1959).
+
+      Oct 04
+
+      Group discussion on the Case Study.
+
+      Oct 09
+
+      Quiz 2 + Chap. 7 “Realism” + Chap. 8 “Postmodernism” + from UNDERSTANDING FILM THEORY.
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Oct 11
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Oct 16
+
+      Quiz 3 + Chap. 10 “Feminism” + Chap. 12 “Queer Theory” from UNDERSTANDING FILM THEORY.
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Oct 18
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Oct 23
+
+      Case Study: Some Like It Hot (Billy Wilder, 1959).
+
+      Oct 25
+
+      Quiz 4 + Group discussion on the Case Study
+
+      Oct 30
+
+      Quiz 5 + Chap. 13 “Race and Ethnicity” + Chap. 14 “Postcolonial and Transnational Cinema” from UNDERSTANDING
+      FILM THEORY.
+
+      Group discussion on the “Reflect and Respond” questions.
+
+      Nov 01
+
+      Group Paper Work.
+
+      Nov 06
+
+      Group Paper Work.
+
+      Nov 08
+
+      Group Paper Work.'
+  source: https://ocw.info.icu.ac.jp/ge/geh063_2018a
+  note: ICU OpenCourseWare 「Course Description」より（著作権法32条の引用）
+inLanguage:
+- en
+- ja
+usageTerms:
+  url: https://ocw.info.icu.ac.jp/index/icu-ocw
+  summary:
+    ja: 新サイト (Google Sites) にはライセンス表記が無い（フッタは All Rights Reserved と CC トップページへの一般リンクのみ）。OCW としての公開理念は明記されているが再利用条件は不明。
+  reuse: unspecified
+creator:
+- type: Organization
+  name: 国際基督教大学
+publisher:
+- type: Organization
+  name: 国際基督教大学
+sourceCollection:
+  name: ICU OpenCourseWare
+  url: https://ocw.info.icu.ac.jp/
+datePublished: '2018'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- 一般教育科目
+- 'GEH063 | Course Schedule: 1/TU, 2/TU, 1/TH | Update: 2019.10.07'
+audience:
+- student
+educationalLevel:
+- bachelor
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

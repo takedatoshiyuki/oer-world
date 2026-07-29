@@ -1,0 +1,62 @@
+slug: kyoto-u-course-1002
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1002/
+type:
+- LearningResource
+- Course
+name:
+  ja: 講演会「稽古・修養・養生―日本のself-cultivationの原風景」
+description:
+  ja: 日本における self-cultivation のあり方を、稽古・修養・養生という観点から扱う講演会の配布資料である。教材として公開されているのは、講演会に対応するレジュメ1件である。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 西平直
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 小野文生
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 徳島祐彌
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-05-15'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- arts_humanities
+- education
+keywords:
+- 哲学
+- 教育学
+- 人文科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+materials:
+- name: '講義資料: 「稽古・修養・養生－日本の self-cultivation の原風景」配布レジュメ'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/11/20210515_nishihira_resume.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/1002/
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

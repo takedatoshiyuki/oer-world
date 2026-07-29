@@ -1,0 +1,73 @@
+slug: kyoto-u-course-0576
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/576/
+type:
+- LearningResource
+- Course
+name:
+  ja: 情報通信政策論
+description:
+  ja: 情報通信政策の全体像を、通信を軸にして扱う講義である。情報の流通、通信・放送・電波、知財や文化活動までを含む広い領域を対象とし、最新の政策動向や東日本大震災の影響にも触れる。
+quotedDescription:
+  text:
+    ja: 情報通信政策は非常に幅広い内容を含んでおり、情報発信から情報の伝送、情報の受け止め方までを対象とすることから、情報そのものの取り扱いから、通信、放送、電波、さらには知財、文化活動までをも包含する。その中でも、近年の携帯電話、インターネットなどの通信の発達の影響が非常に大きいことから、通信をキーワードとして、情報通信政策の概要を取り扱う。なお、最新の政策動向及びトピックス（東日本大震災の影響を含む。）についても、出来る限り、反映することとしたい。
+      従って、情報通信入門としての位置づけともなるが、政策論として取り扱うことから、特に将来的に情報通信関係で働こうとする方々にとって、政策的な基礎知識や産業界の諸課題なども理解できるので有益であろう。
+  source: https://ocw.kyoto-u.ac.jp/course/576/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 渡辺 克也
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 中越 一彰
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 稲田 修一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岡野 直樹付参事官）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 岡﨑 俊一
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 井澤 一朗
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- social_sciences
+keywords:
+- コミュニケーション
+audience:
+- student
+educationalLevel:
+- bachelor
+extensions:
+  faculty: 全学共通科目
+  term: 後期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

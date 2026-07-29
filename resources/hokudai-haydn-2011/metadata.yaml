@@ -1,0 +1,63 @@
+slug: hokudai-haydn-2011
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/haydn-2011
+type:
+- LearningResource
+- Course
+name:
+  ja: GCOE総合博物館市民セミナー ハイドンの境界性（2011）
+description:
+  ja: このセミナーは、ハイドンをマリア・テレジア時代のハプスブルク帝国に位置づけながら、その活動の幅広さと越境的な性格を扱う。オーストリア、ハンガリー、スロヴァキアにまたがる行動範囲にも触れつつ、演奏を交えてハイドンの実像を考える内容である。
+quotedDescription:
+  text:
+    ja: 'ハイドンは、マリア・テレジア時代のハプスブルク帝国で活躍した作曲家です。彼はウィーン古典派の巨匠とも、俗に「交響曲の父」と も呼ばれていますが、その活動は現在一般的に知られているよりもはるかに多彩なものでした。また、ハイドンの行動範囲は現在のオーストリア、ハンガリー、
+      スロヴァキアにまたがっており、多文化が交錯する地点でもありました。このセミナーでは、実際の演奏も交えつつ、越境するハイドンの実像に迫ってみたいと思います。
+
+      ‡ これらの資料は制限資料です。'
+  source: https://ocw.hokudai.ac.jp/lecture/haydn-2011
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 伊東 信宏
+  affiliation:
+    name: 大阪大学 文学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- arts_humanities
+keywords:
+- ハイドン
+- ウィーン
+- 交響曲
+- オーストリア
+- ハンガリー
+- スロヴァキア
+- 文学／思想／言語
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: GCOE総合博物館市民セミナー
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

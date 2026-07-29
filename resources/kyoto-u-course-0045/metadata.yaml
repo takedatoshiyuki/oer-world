@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0045
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/45/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第34回 京都大学品川セミナー「18世紀日中間の貿易権紛争と『沈黙外交』」
+description:
+  ja: 18世紀の日中間で、長崎来航の唐船をめぐって生じた貿易制限と反発の経緯を扱う。徳川政権の「正徳新例」と清朝側の対応を手がかりに、国交のない両国がどのように紛糾を収めたかを考える。
+quotedDescription:
+  text:
+    ja: 1684年，清朝が海禁を解除して対外貿易を公認すると，長崎に来航する唐船（中国船）が増加しました。1715年になって徳川政権は 「正徳新例」を実施し，唐船にたいして貿易許可証たる「信牌」を発給することによって貿易制限を強化します。中国本土では運良く
+      「信牌」を受け取った商人と受け取ることができなかった商人との間に反目が生じたばかりか，対日貿易の拠点である江南では当局が 日本側が一方的に「信牌」を発給したことに反発し，「信牌」を没収して貿易を停止する姿勢を示しました。江戸幕府と清朝とは，ど
+      のようにしてこの貿易をめぐる紛糾を解決したのでしょうか。国交のない両国のあいだの「沈黙外交」が国家間の対立を回避し，通商 関係を安定にみちびいた過程をさぐります。
+  source: https://ocw.kyoto-u.ac.jp/course/45/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 岩井 茂樹
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2013-03-01'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- arts_humanities
+keywords:
+- 歴史
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 人文科学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

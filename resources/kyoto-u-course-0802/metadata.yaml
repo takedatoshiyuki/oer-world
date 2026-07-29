@@ -1,0 +1,56 @@
+slug: kyoto-u-course-0802
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/802/
+type:
+- LearningResource
+- Course
+name:
+  ja: 益川先生 ノーベル賞を語る－学生対話集会
+description:
+  ja: 益川敏英の2008年ノーベル物理学賞受賞に関連する資料をまとめた講義である。小林・益川論文とその引用状況、ならびにノーベル賞発表に関する資料を通して、受賞につながる研究内容を扱う。
+quotedDescription:
+  text:
+    ja: '関連資料：益川敏英先生 2008年ノーベル物理学賞受賞論文
+
+      Kobayashi, Makoto, and Toshihide Maskawa. "CP-violation in the renormalizable theory of weak interaction."
+      Progress of theoretical physics Vol. 49 No. 2 (1973) pp. 652-657（PDF）
+
+      小林・益川論文の引用状況（資料提供：トムソン・ロイター）（PDF）
+
+      Announcement of Nobel Prize by Head Editor of PTP (Progress of Theoretical Physics)'
+  source: https://ocw.kyoto-u.ac.jp/course/802/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2008'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 物理学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 基礎物理学研究所
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

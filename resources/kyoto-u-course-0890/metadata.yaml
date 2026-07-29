@@ -1,0 +1,53 @@
+slug: kyoto-u-course-0890
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/890/
+type:
+- LearningResource
+- Course
+name:
+  ja: 春秋講義「ジュゴン、ウミガメ、オオナマズを追いかける－希少水圏生物の保護と共存」
+description:
+  ja: 海の生物を直接観察しにくいという前提から、小型の発信機や記録計を用いるバイオロギングという研究手法を扱う講義である。ジュゴン、ウミガメ、メコンオオナマズを対象に、研究に至った背景と、調査で明らかになった生態を紹介する。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      海の生物を直接観察することは大変難しいことです。しかし、近年、小型の発信機や記録計による研究が可能となってきました。この研究手法を「バイオロギング」と言います。これは、バイオ（生物）とロギング（記録）を組み合わせた和製英語ですが、今では学術用語として定着しています。講義では、ジュゴン、ウミガメ、メコンオオナマズを研究するに至った背景を説明するとともに、明らかになった彼らの生態を紹介します。'
+  source: https://ocw.kyoto-u.ac.jp/course/890/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 荒井 修亮
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-09-05'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 生物学・生命科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: フィールド科学教育研究センター
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

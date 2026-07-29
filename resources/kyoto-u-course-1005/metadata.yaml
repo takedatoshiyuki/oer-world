@@ -1,0 +1,57 @@
+slug: kyoto-u-course-1005
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/1005/
+type:
+- LearningResource
+- Course
+name:
+  ja: 【オンライン公開講義】”立ち止まって、考える” シーズン2「コロナ禍における外国人住民と質的調査」
+description:
+  ja: 新型コロナ感染症が外国人住民に与える経済的影響を、国籍や雇用形態、在留資格、職種、年齢、ジェンダーの違いから扱う講義である。NPOフードバンクと連携した対面調査や、行政手続き支援、非正規滞在者への支援を含む調査実践を取り上げる。後半では、その調査を通じて、互恵性にもとづく調査や擁護、政策提言といった質的調査のあり方を論じる。
+quotedDescription:
+  text:
+    ja: '新型コロナ感染症による経済的影響は国籍、雇用形態、在留資格、職種、年齢、ジェンダーによって大きく異なる。もともと正規職員の割合が低い外国人住民にとっては、経済的な影響が強いが、特に女性はパートで生計を立てている割合が高いため、影響は甚大である。脆弱なる者はより脆弱になる傾向が明快である。
+
+      調査はNPOフードバンクと連携して互恵的な対面調査を実施した。その過程において行政手続き支援も行った。また、非正規滞在者（不法滞在者）に対する支援も実施した。後半はコロナ禍における互恵性にもとづく調査、擁護、政策提言といった質的調査のコミットメントについて論じる。
+
+      オリジナルのコンテンツは、人社未来形発信ユニットのウェブサイトでご覧いただけます。
+
+      https://ukihss.cpier.kyoto-u.ac.jp/2313/'
+  source: https://ocw.kyoto-u.ac.jp/course/1005/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 安里 和晃
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2021-02-07'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- social_sciences
+keywords:
+- 社会科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,51 @@
+slug: kyoto-u-course-0794
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/794/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2006年度 京都大学OCWシンポジウム
+description:
+  ja: 京都大学OCWシンポジウムの様子を、写真資料として公開する教材である。公開されている教材ファイルは講義資料の写真1件で、出典文ではビデオと写真で様子を掲載したとしている。
+quotedDescription:
+  text:
+    ja: 京都大学OCWシンポジウムの様子をビデオと写真で掲載しました。下記リンクより是非ご覧ください。
+  source: https://ocw.kyoto-u.ac.jp/course/794/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Organization
+  name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2006'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+- script
+about:
+- generic
+keywords:
+- その他
+audience:
+- general_public
+materials:
+- name: '講義資料: 写真'
+  contentUrl: https://ocw.kyoto-u.ac.jp/wp-content/uploads/2006/07/2006_ocw_symposium.pdf
+  page: https://ocw.kyoto-u.ac.jp/course/794/
+extensions:
+  faculty: その他
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,50 @@
+slug: kyoto-u-course-0374
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/374/
+type:
+- LearningResource
+- Course
+name:
+  ja: 工学部オープンセミナー「ひと・社会・工学 －工学のいまを知る－」, 2018
+description:
+  ja: 京都大学工学部が2018年に開講したオープンセミナーである。神田崇行と安部武志が担当し、「ひと・社会・工学」を主題として工学の現状を扱う。
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 神田 崇行
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 安部 武志
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-07-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

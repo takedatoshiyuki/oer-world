@@ -1,0 +1,49 @@
+slug: tsukuba-internationalization
+mode: referenced
+externalUrl: https://ocw.tsukuba.ac.jp/course/others/internationalization/
+type:
+- LearningResource
+- Course
+name:
+  ja: 2015年度 特別講義「これからの日本とあなたたち」
+description:
+  ja: 藤崎一郎による特別講義で、国際化や大学在学中に何を学ぶべきかを扱う。日本の外交官としての経験を踏まえ、これからの日本と学生が学ぶべきことについて語る。
+quotedDescription:
+  text:
+    ja: '国際人になるために、今 何を学ぶべきか。 上智大学／慶応大学 特別招聘教授・前米駐箚特命全権大使である藤崎一郎先生による特別講義。
+
+      日本を代表する外交官として長年の豊富な経験から得られた思いや、「国際化」「大学在学中に何を学ぶべきか」について語る。'
+  source: https://ocw.tsukuba.ac.jp/course/others/internationalization/
+  note: TSUKUBA OCW 「講義の概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: 藤崎 一郎
+  affiliation:
+    name: 上智大学／慶応大学 特別招聘教授・前米駐箚特命全権大使
+publisher:
+- type: Organization
+  name: 筑波大学
+sourceCollection:
+  name: TSUKUBA OCW
+  url: https://ocw.tsukuba.ac.jp/
+datePublished: '2015-07-28'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- generic
+keywords:
+- その他
+audience:
+- student
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

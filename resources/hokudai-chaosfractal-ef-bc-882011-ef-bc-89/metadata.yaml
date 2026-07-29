@@ -1,0 +1,133 @@
+slug: hokudai-chaosfractal-ef-bc-882011-ef-bc-89
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+type:
+- LearningResource
+- Course
+name:
+  ja: 学部専門教育 カオス･フラクタル（2011）
+description:
+  ja: カオスとフラクタルの基本概念を扱い、非線形力学系やセル・オートマトンを計算機上で再現しながら、その挙動を特徴量で捉える内容を学ぶ。扱う項目には、非線形写像、分岐現象、リアプノフ指数、フラクタル次元、自己相似性、マルチフラクタルなどが含まれる。初等的なC言語プログラミングを用いた演習と、社会科学や生態系に関する研究紹介も含む。
+quotedDescription:
+  text:
+    ja: '概要
+
+      複雑系研究の代表的なトピックスである「カオス」「フラクタル」の基本的概念を習得する。特に、複雑なシステムを非線形力学系、セル・オートマトン等で計算機上に再現し、そこに現れる複雑な系の挙動・性質がカオスやフラクタルの概念とそれらの特徴量、すなわち、リアプノフ指数やフラクラル次元等によって識別できることを、2年次に既習の初等的なC言語プログラミングを実際に行ってもらうことで学習する。
+
+      (1) 線形と非線形、脳における非線形(事例紹介)、運動方程式とその線形化、生態系の方程式とその差分化
+
+      (2) 非線形写像
+
+      (3) 軌道の稠密性
+
+      (4) 写像の折りたたみ度と軌道のエントロピー、軌道安定性とリアプノフ指数
+
+      (5) 分岐現象とカオス
+
+      (6) 研究紹介#1: 社会科学におけるカオス現象 --- 労働市場の数理モデル---
+
+      (7) 数値計算の準備
+
+      (8) 非線形力学系とカオス
+
+      (9) アトラクタの埋め込み次元と相関次元
+
+      (10) 自己相似性とフラクタル
+
+      (11) 複素力学系と確率的フラクタル、フラクタル次元
+
+      (12) マルチフラクタル
+
+      (13) 研究紹介#2: 生態系にみられるフラクタル --- ムクドリの群れに見られるフラクタル構造 ---'
+  source: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 井上 純一
+  affiliation:
+    name: 北海道大学大学院情報科学研究科
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2011'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- script
+about:
+- engineering
+keywords:
+- 複雑系科学
+- カオス
+- 非線形力学系
+- フラクタル
+- 自己相似
+- 計算機シミュレーション
+- 工学／情報
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: ガイダンス配布資料'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-00.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#1'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-01.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#2'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-02.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#3'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-03.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#4'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-04.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#5'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-05.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#6'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-06.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#7'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-07.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#8'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-08.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#9'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-09.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#10'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-10.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#11'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-11.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義ノート#12'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-12.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+- name: '講義資料: 講義スライド#13'
+  contentUrl: https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-SLIDE-13.pdf
+  page: https://ocw.hokudai.ac.jp/lecture/chaosfractal%ef%bc%882011%ef%bc%89
+extensions:
+  faculty: 工学部
+  targetAudience: 工学部情報エレクトロニクス学科 情報工学コース3年生
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

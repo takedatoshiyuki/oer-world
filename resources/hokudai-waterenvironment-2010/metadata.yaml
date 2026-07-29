@@ -1,0 +1,60 @@
+slug: hokudai-waterenvironment-2010
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/waterenvironment-2010
+type:
+- LearningResource
+- Course
+name:
+  ja: 北海道大学プロフェッサー・ビジット 美しいかけがえのない水環境をいつまでも(2010)
+description:
+  ja: この講義は、水資源を浄化し、循環再利用するための取り組みを扱う。環境汚染物質の分解・除去に関わるバイオテクノロジーと、廃水から電気エネルギーを回収する研究を取り上げる。
+quotedDescription:
+  text:
+    ja: '限りある水資源を浄化し、有効に循環再利用することは、我々の環境・健康を守る上でも、重要なテーマです。本講義では、環境汚染物質の分解・除去を行う最新のバイオテクノロジー、廃水からクリーンな電気エネルギーを回収する研究などを紹介していきます。
+
+      関連情報
+
+      北海道大学プロフェッサー・ビジット(2009)
+
+      北海道大学プロフェッサー・ビジット(2008)'
+  source: https://ocw.hokudai.ac.jp/lecture/waterenvironment-2010
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 岡部 聡
+  affiliation:
+    name: 北海道大学工学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2010'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- engineering
+keywords:
+- 工学／情報
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 工学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

@@ -1,0 +1,57 @@
+slug: sophia-20121003the69000
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20121003the69000/
+type:
+- LearningResource
+- Course
+name:
+  ja: 宗教的共生の思想／SOPHIA FOR RELIGIOUS CONVIVIALITY
+description:
+  ja: この講義は、宗教的共生というテーマのもとで、宗教的知恵に向き合いながら共生のあり方を考える。輪講形式で進み、各分野の教員がそれぞれの視点から語る構成になっている。
+quotedDescription:
+  text:
+    ja: 3：11の自然災害と原発の暴発による自然と人間の破滅的状況は、現代世界における地球環境の破壊と民族・国家間の平和の破綻を象徴するかのようである。このような人間と人間、人間と自然との深い絆が引き裂かれた終末的状況において、新しい生活の仕方や和解と共生の生き方が深く問われている。|本講義は、その問いに応じて人間に示された宗教的知恵に耳を傾け、問いを深めると同時に共生の新しい次元を披こうと試みる。その意味で「宗教的共生の思想」というテーマの下に、各分野で思索と実践に富んだ先生方が皆さんに語りかける輪講形式をとる。多彩で深い講義群に期待あれ。
+  source: https://ocw.cc.sophia.ac.jp/lecture/20121003the69000/
+  note: 上智大学OpenCourseWare 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: コ）宮本 久雄
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- course
+- video
+- script
+about:
+- arts_humanities
+keywords:
+- 講義
+audience:
+- student
+educationalLevel:
+- bachelor
+materials:
+- name: '講義資料: 3e9846d485270f5699d5d40027d45d91-1.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/04/3e9846d485270f5699d5d40027d45d91-1.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20121003the69000/
+extensions:
+  faculty: 神学部 神学科
+  term: 秋学期
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

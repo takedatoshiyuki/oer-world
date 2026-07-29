@@ -1,0 +1,83 @@
+slug: kyoto-u-course-0759
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/759/
+type:
+- LearningResource
+- Course
+name:
+  ja: W-algebras – introduction, screenings and quantum groups
+description:
+  ja: W-algebras の入門講義として、基本的な例と構成法を中心に扱う。Clifford algebra や lattice vertex operator algebras、screenings、quantum
+    groups との関係に加え、2次元共形場理論や曲線の代数幾何にも触れる。
+quotedDescription:
+  text:
+    ja: 'Course Description
+
+      Sometimes people use the words vertex operator algebra and W-algebra as synonyms. This is partly
+      correct, but not entirely. Theory of W-algebras is a collection of extremely interesting examples
+      of new algebraic objects and theory of vertex algebra is an attempt to understand and find some
+      order in this zoo. Our lectures are the introduction – so we concentrate on examples and simplest
+      methods of constructing the W-algebras. Note that W-algebras are deeply connected with 2-dimensional
+      conformal field theory. So it is not possible to talk about W-algebras and do not mention some facts
+      from the algebraic geometry of the curves. This short course consists of an introduction to random
+      dynamical systems, from a predominantly geometric point of view. The aim is to introduce basic concepts
+      in the context of simple examples. We will discuss some elementary results and highlight open questions.
+
+      1. Clifford algebra, Lattice vertex operator algebras.
+
+      2. Coinvariants and vertex operators.
+
+      3. Subalgebras in lattice vertex algebras. Screenings. Quantum groups and screenings.
+
+      4. Fermionic screenings. Algebra 01.png on a critical level.
+
+      5. Deformation of universal enveloping of the Lie algebra of differential operators on the circle.
+
+      6. Plane partitions and W-algebras. (something about recent progress)'
+  source: https://ocw.kyoto-u.ac.jp/course/759/
+  note: 京都大学OCW 「Course Description」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: Kyoto University
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Professor
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: Higher School of Economics）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2017-07-10'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+about:
+- natural_sciences_math
+keywords:
+- 数学
+audience:
+- student
+educationalLevel:
+- master
+extensions:
+  faculty: 理学研究科
+  term: 前期集中
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

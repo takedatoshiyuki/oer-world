@@ -1,0 +1,57 @@
+slug: hokudai-fl-salmonology-2012
+mode: referenced
+externalUrl: https://ocw.hokudai.ac.jp/lecture/fl_salmonology-2012
+type:
+- LearningResource
+- Course
+name:
+  ja: 最終講義 帰山雅秀教授 「旅の途上にて －サケ学起学」（2012）
+description:
+  ja: 北海道大学水産学部で開講された、帰山雅秀教授の最終講義の映像を扱う。講義名は「旅の途上にて －サケ学起学」で、2012年度の教材として提供されている。
+quotedDescription:
+  text:
+    ja: '帰山雅秀教授の最終講義「旅の途上にて －サケ学起学」の映像がご覧いただけます。
+
+      2013年3月1日 北海道大学水産学部'
+  source: https://ocw.hokudai.ac.jp/lecture/fl_salmonology-2012
+  note: 北海道大学OCW 「概要」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ocw.hokudai.ac.jp/licence
+  summary:
+    ja: 教材ごとにライセンスマークが指定される（制限資料=閲覧のみ / CC BY-NC / CC BY）。マークの無い教材は映像内クレジット等での個別確認が必要。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 帰山 雅秀
+  affiliation:
+    name: 北海道大学大学院水産科学研究院
+publisher:
+- type: Organization
+  name: 北海道大学
+sourceCollection:
+  name: 北海道大学OCW
+  url: https://ocw.hokudai.ac.jp/
+datePublished: '2012'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- web_page
+about:
+- agriculture
+keywords:
+- 最終講義
+- サケ学
+- 水産学
+- 水産学部
+audience:
+- general_public
+extensions:
+  faculty: 水産学部
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

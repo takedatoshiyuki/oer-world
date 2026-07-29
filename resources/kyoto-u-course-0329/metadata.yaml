@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0329
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/329/
+type:
+- LearningResource
+- Course
+name:
+  ja: 京都大学国際シンポジウム「自然は考えるのか？」
+description:
+  ja: 京都大学文学研究科が提供する、山極壽一担当の国際シンポジウムである。講義名は「自然は考えるのか？」で、出典サイトの説明文では音声が同時通訳の概要として案内されている。
+quotedDescription:
+  text:
+    ja: '（フランス語同時通訳について）
+
+      Merci d’écouter le résumé simultané en français.
+
+      This is a simultaneous interpretation. Please treat it as an overview.
+
+      音声は同時通訳です。概要としてお聞きください。'
+  source: https://ocw.kyoto-u.ac.jp/course/329/
+  note: 京都大学OCW 「講義概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 山極 壽一
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2019-06-06'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 国際会議
+audience:
+- professional
+extensions:
+  faculty: 文学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

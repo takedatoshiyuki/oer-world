@@ -1,0 +1,74 @@
+slug: kyoto-u-course-0475
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/475/
+type:
+- LearningResource
+- Course
+name:
+  ja: 第1回 iCeMSラーニングラウンジ：亀井謙一郎 + 永田紅
+description:
+  ja: 本講義は、若手研究者2名が英語で自身の研究を紹介する「ラーニングラウンジ」の第1回である。亀井謙一郎はBody on a Chipを通じてチップ上で生命現象を再現する研究を、永田紅はコレステロールの働きや濃度調節、HDLの重要性を扱う。
+quotedDescription:
+  text:
+    ja: '概要
+
+      「ラーニングラウンジ」では、毎回2名の若手研究者が自身の研究について英語でトークを行います。社会背景に関連づけた魅力的なトークにより、なぜ自分の研究が世界にとって重要なのか、専門外の方にもわかりやすく訴えかけます。
+
+       
+
+      亀井 謙一郎 准教授
+
+      「チップの上に生きる」
+
+      病気の原因を明らかにしたり薬のはたらきを確かめるために行われる動物実験は、時間もコストもかかり、失敗も多い。だけど、新しい手法も開発されているのです。小さな装置（チップ）の上で生命体の起こす現象を再現することで、動物実験のもつ様々な問題の克服を目指す
+      － それが僕のご紹介する「Body on a Chip」です。
+
+       
+
+      永田 紅 助教
+
+      「きのう何食べた？－憎まれ役のコレステロール」
+
+      皆さんは昨日何を食べましたか？ステーキ、ハンバーガー、唐揚げ、アイス… テレビもお母さんも口をそろえて「コレステロールの高いものばかり食べていてはダメ！」と言うけれど…。実は、コレステロールは私たちの体にとって欠かせない成分で、その濃度は非常に巧妙に調節されているのです。心臓病を予防し健康な暮らしを守ってくれる「善玉コレステロール」（HDL）の重要性に迫ります。'
+  source: https://ocw.kyoto-u.ac.jp/course/475/
+  note: 京都大学OCW 「概要」・「亀井 謙一郎 准教授」・「「チップの上に生きる」」・「永田 紅 助教」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- en
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 亀井 謙一郎 准教授）
+  affiliation:
+    name: 京都大学
+- type: Person
+  name: 永田 紅 助教）
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2015-06-29'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- natural_sciences_math
+keywords:
+- 自然科学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: iCeMS 物質－細胞統合システム拠点
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

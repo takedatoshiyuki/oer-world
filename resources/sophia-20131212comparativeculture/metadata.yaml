@@ -1,0 +1,49 @@
+slug: sophia-20131212comparativeculture
+mode: referenced
+externalUrl: https://ocw.cc.sophia.ac.jp/lecture/20131212comparativeculture/
+type:
+- LearningResource
+- Course
+name:
+  ja: 'Urbanizing China in War and Peace: Wuxi County, 1911-1945'
+description:
+  ja: 1911年から1945年の無錫県を対象に、中国の都市化を扱う講義資料である。2013年12月12日に比較文化研究所で開講され、公開教材として講義資料PDFがある。
+inLanguage:
+- ja
+license: https://creativecommons.org/licenses/by-nc-sa/2.1/jp/
+creator:
+- type: Person
+  name: University of Leicester)
+  affiliation:
+    name: 上智大学
+publisher:
+- type: Organization
+  name: 上智大学
+sourceCollection:
+  name: 上智大学OpenCourseWare
+  url: https://ocw.cc.sophia.ac.jp/
+datePublished: '2013'
+dateAccessed: '2026-07-28'
+learningResourceType:
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 講演会・イベント
+audience:
+- general_public
+materials:
+- name: '講義資料: 131212lecture.pdf'
+  contentUrl: https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/03/131212lecture.pdf
+  page: https://ocw.cc.sophia.ac.jp/lecture/20131212comparativeculture/
+extensions:
+  faculty: 比較文化研究所
+  term: 2013/12/12
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-28'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: low

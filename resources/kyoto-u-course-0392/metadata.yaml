@@ -1,0 +1,55 @@
+slug: kyoto-u-course-0392
+mode: referenced
+externalUrl: https://ocw.kyoto-u.ac.jp/course/392/
+type:
+- LearningResource
+- Course
+name:
+  ja: 教育学研究科 Special Opening Lecture 2018「オックスフォードから見た＜ニッポンの教育＞社会学的アプローチ」
+description:
+  ja: オックスフォード大学ニッサン現代日本研究所の苅谷剛彦教授が、日本の教育を研究する際の考え方や社会学的アプローチを扱う講演である。あわせて、オックスフォードやオックスフォード大学についても紹介する。
+quotedDescription:
+  text:
+    ja: '概要
+
+      オックスフォード大学ニッサン現代日本研究所より苅谷剛彦教授をお迎えし、「オックスフォードから見た＜ニッポンの教育＞社会学的アプローチ」の演題でご講演いただきます。
+
+      新しく教育を研究しようとする人たちに、日本の教育を研究することについての考え方・アプローチについて、さらに、オックスフォードやオックスフォード大学についてご紹介いただきます。'
+  source: https://ocw.kyoto-u.ac.jp/course/392/
+  note: 京都大学OCW 「概要」より（同サイトの利用条件に基づく転載）
+inLanguage:
+- ja
+license: CC-BY-NC-SA-4.0
+creator:
+- type: Person
+  name: 苅谷 剛彦
+  affiliation:
+    name: 京都大学
+publisher:
+- type: Organization
+  name: 京都大学
+sourceCollection:
+  name: 京都大学OCW
+  url: https://ocw.kyoto-u.ac.jp/
+datePublished: '2018-04-12'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- video
+about:
+- education
+keywords:
+- 教育学
+- 公開講義
+audience:
+- general_public
+educationalLevel:
+- continuing_education
+extensions:
+  faculty: 教育学研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high

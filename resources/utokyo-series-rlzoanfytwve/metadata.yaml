@@ -1,0 +1,57 @@
+slug: utokyo-series-rlzoanfytwve
+mode: referenced
+externalUrl: https://ch.u-tokyo.ac.jp/series/?id=RLzOANFyTwvE
+type:
+- LearningResource
+- Course
+name:
+  ja: ケアの社会学
+description:
+  ja: この講義は、介護・育児・介助を含むケアを、家族の中で担われてきた見えない労働として位置づけ、その社会的な意味を考える。少子高齢化の状況のなかで、ケアが労働といえるのか、誰が担うのか、受ける側の権利は何かを検討し、介護保険と支援費制度にも触れる。
+quotedDescription:
+  text:
+    ja: ケアは介護、育児、介助等をふくむ広義の概念であり、自立できない個人を援助する行為をさす。だが、これまでケアは長い間、家族という私的領域のなかで見 えない労働とされてきた。少子高齢化のもとケアが焦点化するなかで、ケアは労働か、どんな労働か、だれが担うのか、それはなぜか、ケアを受ける側の権利と
+      は何か等の今日的な門題を検討する。介護保険と支援費制度にも言及する。
+  source: https://ch.u-tokyo.ac.jp/series/?id=RLzOANFyTwvE
+  note: UTokyo Channel (旧 UTokyo OCW) 「シリーズ紹介文」より（著作権法32条の引用）
+inLanguage:
+- ja
+usageTerms:
+  url: https://ch.u-tokyo.ac.jp/privacy-policy/
+  summary:
+    ja: UTokyo Channel の利用規約により、複製（ダウンロードを含む）・頒布・配布・改変等は不可。オンラインでの視聴のみ可能。
+  reuse: not_allowed
+creator:
+- type: Person
+  name: 上野 千鶴子
+  affiliation:
+    name: 東京大学
+publisher:
+- type: Organization
+  name: 東京大学
+sourceCollection:
+  name: UTokyo Channel (旧 UTokyo OCW)
+  url: https://ch.u-tokyo.ac.jp/
+datePublished: '2004'
+dateAccessed: '2026-07-27'
+learningResourceType:
+- course
+- video
+- script
+about:
+- social_sciences
+keywords:
+- 国際関係
+- UTokyo OCW
+audience:
+- student
+- general_public
+extensions:
+  faculty: 文学部・人文社会系研究科
+metadataProvenance:
+  method: ai_generated
+  generator: gpt-5.4-mini
+  generatedDate: '2026-07-27'
+  notes: oer_kit.make_drafts + parsers による自動生成。about・educationalLevel は機械推定のため要確認。description は gpt-5.4-mini
+    が生成。
+  confidence: high
