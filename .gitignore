@@ -27,3 +27,6 @@ withdrawn/
 
 # Quarto のプロジェクト内出力 (render 後に _site/ へ同期される)
 site/_site/
+
+.reviews/
+
