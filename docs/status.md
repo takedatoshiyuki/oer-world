@@ -1,6 +1,6 @@
 # OER World — 開発状況と引き継ぎ
 
-- 更新: 2026-07-28 (全8校の description 生成完了。承認可 3,123件・レビュー待ち)
+- 更新: 2026-07-30 (oer-kit を public 化・CI トリガ復元。公開カタログ 3,685件)
 - 位置づけ: **このプロジェクトの現在地・決定記録・再開手順の正本**。
   新しい作業セッションはまずこれを読む。システム設計は
   [oer-kit の設計書](https://github.com/takedatoshiyuki/oer-kit/blob/main/docs/design.md)、
@@ -11,14 +11,14 @@
 | 項目 | 状態 |
 |------|------|
 | リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`・GitHub **public**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**public 2026-07-30**。外部レビュー4指摘の修正と収集礼儀ゲート実装後に公開） |
-| 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （415件）。oer-world は public、**oer-kit は private のまま**（メンテ体制が整うまで公開タイミングを選ぶ判断・2026-07-27）。このため CI ではなく **`make deploy`（ローカルビルド → gh-pages ブランチ）** で配信する。CI 3本は手動起動のみに変更済み（oer-kit 公開後にトリガを復元） |
-| 公開済みリソース | **414件**（名大413・東大series 1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施）。自作教材1件は未完のため drafts へ差し戻し（07-27） |
-| 下書き（`drafts/`・Git外） | 公開判断済み3,123件は resources へ昇格済み。残る下書き = 保留166＋**MIコンソーシアム131＋MDSC 27**（generate 待ち）＋自作1件（description は京大・東大・北大の2,234件生成済み。筑波・上智・ICU・九大の計1,074件が generate 待ち。年度不明 = 京大23・東大17・北大20・筑波42・ICU5・九大58は datePublished 無しの検証エラーとして残し人手調査。九大の判明28件は資料PDF内部の CreationDate 由来・provenance 明記） |
+| 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （**3,685件**・10ソース）。配信は **`make deploy`（ローカルビルド → gh-pages ブランチ）**。CI は validate（push/PR）と linkcheck（週1）を復元済み（2026-07-30）、publish のみ手動のまま |
+| 公開済みリソース | **3,685件**（名大413・京大1,055・東大563・北大564・筑波50・上智454・ICU411・九大28・MIコンソーシアム120・MDSC 27）。自作教材1件は未完のため drafts へ差し戻し中 |
+| 下書き（`drafts/`・Git外） | **保留 176件＋自作1件**。保留の内訳 = 年度不明（京大23・東大17・北大20・筑波42・ICU5・九大58・MI 11）＋生成不採用4。人手調査で年度が判明したものから追加昇格できる |
 | コーパス（`archive/`・Git外） | 名大の教材ファイル **2,305件・3.86GB**（sha256・権利・クレジット付き manifest）。取得失敗10件はサイト側のリンク切れ（manifest に記録）。京大の資料 PDF 2,839件は未取得（harvest 未実行） |
 | バックアップ | git 管理分は GitHub。**`drafts/`・`archive/` は Git外でバックアップなし**（Dropbox から出たため）。archive は manifest から再取得可能だが、閉鎖サイト由来分は再取得不能なので、増えたら `archive_dir` を外部ディスクへ向けるか Time Machine 等で保全する |
 | キャッシュ（`.cache/`・Git外） | 名大413・**京大1,209ページ**・**東大series 580ページ**（いずれも全量・失敗0）、ダイジェスト（`nagoya_u_digest.jsonl`・`kyoto_u_digest.jsonl`・`utokyo_channel_digest.jsonl`）、**`kyoto_taxonomy.json`**（検索一覧から逆引きしたカテゴリ・分野・年度。消すと make-drafts の再現性が落ちるので保持） |
 
-配信の手順: `make deploy`（検証→ビルド→gh-pages へ push→Pages が配信）。oer-kit を公開したら CI トリガを復元して push 毎の自動配信に戻せる。
+配信の手順: `make deploy`（検証→ビルド→gh-pages へ push→Pages が配信）。**approve 実行後は `git add resources/ && git commit` までをワンセットで行う**（2026-07-30 に3,271件の昇格が未コミットのまま3日残る事故があった）。
 
 ## 2. 主要な決定（日付つき）
 
