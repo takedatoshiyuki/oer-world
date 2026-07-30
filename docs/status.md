@@ -10,7 +10,7 @@
 
 | 項目 | 状態 |
 |------|------|
-| リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`。2026-07-26 に Dropbox 外へ移動。GitHub: takedatoshiyuki/oer-world・**private**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**private**） |
+| リポジトリ | oer-world = このリポジトリ（`~/Projects/oer-world`・GitHub **public**）／ oer-kit = `~/Projects/oer-kit`（GitHub: takedatoshiyuki/oer-kit・**public 2026-07-30**。外部レビュー4指摘の修正と収集礼儀ゲート実装後に公開） |
 | 公開サイト | **公開中**: https://takedatoshiyuki.github.io/oer-world/ （415件）。oer-world は public、**oer-kit は private のまま**（メンテ体制が整うまで公開タイミングを選ぶ判断・2026-07-27）。このため CI ではなく **`make deploy`（ローカルビルド → gh-pages ブランチ）** で配信する。CI 3本は手動起動のみに変更済み（oer-kit 公開後にトリガを復元） |
 | 公開済みリソース | **414件**（名大413・東大series 1）。2026-07-27 に412件を昇格（機械検査全数+抜き取り読み10件+レビューシート提出のプロセスで実施）。自作教材1件は未完のため drafts へ差し戻し（07-27） |
 | 下書き（`drafts/`・Git外） | 公開判断済み3,123件は resources へ昇格済み。残る下書き = 保留166＋**MIコンソーシアム131＋MDSC 27**（generate 待ち）＋自作1件（description は京大・東大・北大の2,234件生成済み。筑波・上智・ICU・九大の計1,074件が generate 待ち。年度不明 = 京大23・東大17・北大20・筑波42・ICU5・九大58は datePublished 無しの検証エラーとして残し人手調査。九大の判明28件は資料PDF内部の CreationDate 由来・provenance 明記） |
@@ -174,7 +174,7 @@ JOCW 系11サイトの生存確認:
 
 ## 4. 保留中の判断
 
-1. **oer-kit の公開タイミング**（連合モデルの前提。メンテ体制と合わせて判断）
+1. ~~oer-kit の公開タイミング~~ → **公開済み（2026-07-30）**。連合 (ingest) が他者からも利用可能に。CI トリガ復元済み（validate = push/PR、linkcheck = 週1。publish は手動のまま = 配信はローカル make deploy を継続）
 2. **w3id.org 名前空間取得**（本運用と判断した時点で。移管に耐える恒久ID）
 3. 環境学研究科13件の主題分類（現在 engineering。学際組織なので要確認）
 4. 収録方針（何を目録に入れるか）の文書化 — 個人資料が増えた段階で

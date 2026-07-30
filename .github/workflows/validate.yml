@@ -1,9 +1,12 @@
-# oer-kit が private の間は自動実行しない (pip install が失敗する)。
-# 検証・配信はローカルの make validate / make deploy で行い、oer-kit 公開後にトリガを復元する。
+# oer-kit 公開 (2026-07-30) に伴い push/PR トリガを復元。
 name: validate
 
 on:
   workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+    paths: ["resources/**", "vocabularies/**", "sites.yaml", "config.yaml"]
 
 jobs:
   metadata:
